@@ -2,6 +2,52 @@
 Asian Stories Library      DRAMAS.js   
 ====================================================== */
 const DRAMAS = [ 
+/* ========================================== 10 Things I Want To Do Before I Turn 40 ========================================== */
+{
+    codigo: 'DR000001',    titulo: '10 Things I Want To Do Before I Turn 40',    tituloOriginal: '40までにしたい10のこと',
+    alias: [],
+    tipo: 'Drama',
+    anio: 2025,
+    pais: 'JP',
+    idioma: 'ja',
+    franquicia: { codigo: '', orden: 0 },
+    temporadas: 1,
+    temporada: 1,
+    episodios: 12,
+    duracion: 30,
+    estado: 'Finalizado',
+    estreno: '2025-07-04',
+    finalizacion: '2025-09-19',
+    generos: [        'Drama',        'Romance'    ],
+    tags: [        'BL'    ],
+
+  multimedia: {
+        portada: ['https://artworks.thetvdb.com/banners/v4/series/464121/posters/683b10ecb6a33.jpg'],
+        trailer: ['https://www.youtube.com/watch?v=RPsSIiTYqOU'],
+        teaser: [],
+        pilot: [],
+        ost: []
+    },
+  personas: [
+        { nombre: 'Tojo Suzume', persona: 'PR000001', funcion: 'Actor', principal: true },
+        { nombre: 'Keishi Tanaka', persona: 'PR000002', funcion: 'Actor', principal: true },
+        { nombre: '', persona: 'PR000003', funcion: 'Actor', principal: false },
+        { nombre: '', persona: 'PR000004', funcion: 'Actor', principal: false },
+        { nombre: '', persona: 'PR000005', funcion: 'Actor', principal: false },
+        { persona: 'PR000006', funcion: 'Director' },
+        { persona: 'PR000007', funcion: 'Guionista' }
+    ],
+    ships: [
+        { ship: 'SH000001', personajes: ['Tojo Suzume', 'Keishi Tanaka'] }
+    ],
+    sinopsis: 'Tojo Suzume está a punto de cumplir cuarenta años y lleva una vida tranquila y rutinaria. Tras recibir una noticia que le hace replantearse su futuro, decide escribir una lista con diez cosas que quiere hacer antes de cumplir los cuarenta. Cuando Keishi Tanaka, un compañero de trabajo mucho más joven, descubre accidentalmente la lista, se ofrece a ayudarle a cumplir cada uno de esos deseos. A medida que ambos comparten experiencias, su relación evoluciona desde la amistad hasta un romance lleno de momentos cotidianos y emotivos.',
+    activo: true,
+    entidades: [
+        { codigo: 'EN000001', funcion: ['Emisora'] },
+        { codigo: 'EN000002', funcion: ['Productora'] },
+        { codigo: 'EN000025', funcion: ['Plataforma'] }
+    ]
+},
 /* ========================================== 2gether ========================================== */
 {
     codigo: 'DR000002',    titulo: '2gether',    tituloOriginal: 'เพราะเราคู่กัน',
