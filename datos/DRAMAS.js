@@ -1884,58 +1884,5 @@ const DRAMAS = [
     ],
 	activo: true
 },
-  /* ========================================== Police in Love ========================================== */
-{
-    codigo: 'DR000033',
-    titulo: 'Police in Love',
-    tituloOriginal: 'ที่รักสารวัตรเธียร์',
-    alias: ['Inspector Thiar’s Darling', 'The Inspector’s Wife'],
-    tipo: 'Drama',
-    anio: 2026,
-    pais: 'TH',
-    idioma: 'th',
-    franquicia: { codigo: '', orden: 0 },
-    temporadas: 1,
-    temporada: 1,
-    episodios: 12,
-    estado: 'En emision',
-    estreno: '2026-09-12',
-    generos: ['Romance', 'Drama', 'Comedia'],
-    tags: ['BL', 'Policial', 'Matrimonio de conveniencia', 'Convivencia forzada'],
-    origen: {
-        tipo: 'Novela',
-        titulo: 'The Inspector’s Wife',
-        tituloOriginal: 'ภรรยาสารวัตรเธียร์',
-        autor: 'Kanola',
-        pais: 'TH'
-    },
-    personas: [
-        { nombre: 'Thiar', persona: 'PR000139', funcion: ['Actor'], principal: true },
-        { nombre: 'Mangkorn', persona: 'PR000138', funcion: ['Actor'], principal: true },
-        { nombre: 'Saming', persona: 'PR000348', funcion: ['Actor'], principal: false },
-        { nombre: 'Phuwin Siriyotha', persona: 'PR000349', funcion: ['Actor'], principal: false },
-        { nombre: 'Lukphlab Phanphoprak', persona: 'PR000214', funcion: ['Actor'], principal: false },
-        { nombre: 'Khanin Sritprasom', persona: 'PR000350', funcion: ['Actor'], principal: false },
-        { nombre: 'Nadol Sitpras(o)et', persona: 'PR000351', funcion: ['Actor'], principal: false },
-        { nombre: 'Cupid', persona: 'PR000352', funcion: ['Actor'], principal: false },
-        { nombre: 'Thiar’s Mother', persona: 'PR000353', funcion: ['Actor'], principal: false },
-        { persona: 'PR000354', funcion: ['Director'] }
-    ],
-    ships: [
-        { ship: 'SH000027', personajes: ['Thiar', 'Mangkorn'] }
-    ],
-    sinopsis: 'Thiar, un inspector de policía cuya mala suerte no deja de empeorar, recibe el consejo de casarse para romper su mala fortuna. El elegido resulta ser Mangkorn, su subordinado y compañero con quien mantiene una relación llena de discusiones. El acuerdo parece sencillo: vivir juntos durante seis meses y después divorciarse. Sin embargo, la convivencia hará que ambos desarrollen sentimientos que complicarán un matrimonio que comenzó como una solución al destino.',
-    multimedia: {
-        portada: ['https://yflix.me/wp-content/uploads/2026/01/Cover-Police-696x869.webp'],
-        trailer: ['https://www.youtube.com/watch?v=xSFjW0tRWV8'],
-        teaser: [],
-        pilot: ['https://www.youtube.com/watch?v=tn4kAkUoQX4'],
-        ost: ['https://www.youtube.com/watch?v=blfMpKFK1Ps']
-    },
-    entidades: [
-        { codigo: 'EN000029', funcion: ['Plataforma'] },
-        { codigo: 'EN000038', funcion: ['Productora'] }
-    ],
-    activo: true
-},
+
 ];
