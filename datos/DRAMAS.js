@@ -1926,7 +1926,7 @@ const DRAMAS = [
     ],
     sinopsis: 'Thiar, un inspector de policía cuya mala suerte no deja de empeorar, recibe el consejo de casarse para romper su mala fortuna. El elegido resulta ser Mangkorn, su subordinado y compañero con quien mantiene una relación llena de discusiones. El acuerdo parece sencillo: vivir juntos durante seis meses y después divorciarse. Sin embargo, la convivencia hará que ambos desarrollen sentimientos que complicarán un matrimonio que comenzó como una solución al destino.',
     multimedia: {
-        portada: ['https://yflix.me/wp-content/uploads/2026/01/Cover-Police-696x869.webp','https://media.fstatic.com/Jla8zJ7XB0_u2t9V7fry-9W2Ab0%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2025/07/Gu2V6XZWsAAmpG8.jfif','https://media.fstatic.com/Vz_8vchU701uBtNMj-5hJLaZRvA%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2025/11/G6cd6_MaEAAlZAJ.jfif'],
+        portada: ['https://yflix.me/wp-content/uploads/2026/01/Cover-Police-696x869.webp', 'https://yflix.me/wp-content/uploads/2026/01/Cover-Police-696x869.webp','https://image.tmdb.org/t/p/original/4tMEPQlZO2B4wG4c0sHuoyaq4T8.jpg'],
         trailer: ['https://www.youtube.com/watch?v=xSFjW0tRWV8'],
         teaser: [],
         pilot: ['https://www.youtube.com/watch?v=tn4kAkUoQX4'],
