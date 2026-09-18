@@ -1975,13 +1975,17 @@ const DRAMAS = [
         { ship: 'SH000061', personajes: ['Wim', 'Jin'] }        // Donut & Forth (No oficial)
     ],
     sinopsis: 'Phugun es un chico ordinario que nunca ha tenido una relación amorosa ni cree en el amor verdadero. Todo cambia cuando Cirrus, un apuesto y misterioso hombre, aparece en su vida afirmando venir de un mundo paralelo donde ambos son pareja. Aunque Phugun al principio se muestra escéptico, la devoción y protección incondicional de Cirrus comienzan a derribar sus barreras, obligándolo a cuestionar sus sentimientos y la realidad de los universos paralelos.',
-    multimedia: {
-        portada: ['https://www.memindy.com/wp-content/uploads/2024/TBNW_poster.jpg'],
-        trailer: ['https://www.youtube.com/watch?v=sample_tbnw_trailer'],
-        teaser: [],
-        pilot: ['https://www.youtube.com/watch?v=sample_tbnw_pilot'],
+        multimedia: {
+        portada: [
+            'https://image.tmdb.org/t/p/original/a8y1qN6b438z35Wj9sY1.jpg',
+            'https://yflix.me/wp-content/uploads/2025/01/The-Boy-Next-World.jpg'
+        ],
+        trailer: ['https://www.youtube.com/watch?v=Iw5dFkxvtMU'],
+        teaser: ['https://www.youtube.com/watch?v=hLyjZGz0-Cc'],
+        pilot: ['https://www.youtube.com/watch?v=CQViG3zByo4'],
         ost: []
     },
+
     entidades: [
         { codigo: 'EN000011', funcion: ['Productora'] },  // Me Mind Y
         { codigo: 'EN000024', funcion: ['Plataforma'] },  // iQIYI
