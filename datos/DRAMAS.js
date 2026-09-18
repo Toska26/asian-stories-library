@@ -1977,7 +1977,7 @@ const DRAMAS = [
     sinopsis: 'Phugun es un chico ordinario que nunca ha tenido una relación amorosa ni cree en el amor verdadero. Todo cambia cuando Cirrus, un apuesto y misterioso hombre, aparece en su vida afirmando venir de un mundo paralelo donde ambos son pareja. Aunque Phugun al principio se muestra escéptico, la devoción y protección incondicional de Cirrus comienzan a derribar sus barreras, obligándolo a cuestionar sus sentimientos y la realidad de los universos paralelos.',
         multimedia: {
         portada: [
-            'https://wsrv.nl/?url=https://image.tmdb.org/t/p/original/a8y1qN6b438z35Wj9sY1.jpg'
+            'https://www.memindy.com/wp-content/uploads/2025/03/LINE_ALBUM_2024.12.13_241215_12-819x1024.jpg'
         ],
         trailer: ['https://www.youtube.com/watch?v=Iw5dFkxvtMU'],
         teaser: ['https://www.youtube.com/watch?v=hLyjZGz0-Cc'],
@@ -2040,7 +2040,8 @@ const DRAMAS = [
     sinopsis: 'Moo es un joven terco y decidido que asegura saber exactamente lo que busca en el amor. Todo se complica cuando irrumpe en su vida Fu, un chico persistente, excesivamente encantador e imposible de ignorar. Lo que comienza como coqueteos, burlas constantes y rivalidad juvenil pronto da paso a malentendidos, interacciones en línea y celos desbordantes, obligando a ambos a derribar sus barreras y admitir lo que realmente sienten.',
     multimedia: {
         portada: [
-            'https://wsrv.nl/?url=https://image.tmdb.org/t/p/original/crazy_love_moomoo_poster.jpg'
+            'https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Crazy-Love-Moo-Moo-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B9%88-Fresh-Releases-Local-Viu-Original-LGBTQ-Thai-BL-Drama-Rom-com-Boss-Chaikamon-Sermsongwittaya-Noeul-Nuttarat-Tangwai-thumbnail-vertical-e1778556959402.jpeg',
+			'https://blglflix.com/wp-content/uploads/2026/06/crazy-love-moo-moo-683x1024.jpg'
         ],
         trailer: ['https://www.youtube.com/watch?v=GRP1l1j3lUE'],
         teaser: [],
