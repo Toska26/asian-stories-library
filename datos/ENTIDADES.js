@@ -40,4 +40,7 @@ const ENTIDADES = [
   { codigo: 'EN000036', nombre: 'Quality Plus Group', pais: 'TH', tipos: ['Productora'], activo: true },
   { codigo: 'EN000037', nombre: 'Channel 3', pais: 'TH', tipos: ['Emisora'], activo: true },
   { codigo: 'EN000038', nombre: 'Argentis Studios', pais: 'TH', tipos: ['Productora'], activo: true },
+   { codigo: 'EN000039', nombre: 'CHANGE2561', pais: 'TH', tipos: ['Productora'], activo: true },
+{ codigo: 'EN000040', nombre: 'Netflix', pais: 'US', tipos: ['Plataforma'], activo: true },
+{ codigo: 'EN000041', nombre: 'oneD', pais: 'TH', tipos: ['Plataforma'], activo: true },
 ];
