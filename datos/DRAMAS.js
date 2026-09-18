@@ -1992,6 +1992,69 @@ const DRAMAS = [
     ],
     especiales: [],
     activo: true
+},
+
+/* ========================================== Crazy Love, Moo-Moo! ===================================================== */
+{
+    codigo: 'DR000035',
+    titulo: 'Crazy Love, Moo-Moo!',
+    tituloOriginal: 'พี่ฟากชอบเธอมู่',
+    alias: ['CrazyLove-MooMoo', 'Phi Fak Chop Thoe Mu'],
+    tipo: 'Drama',
+    anio: 2026,
+    pais: 'TH',
+    idioma: 'th',
+    universo: '',
+    franquicia: { codigo: '', orden: 0 },
+    temporadas: 1,
+    temporada: 1,
+    episodios: 10,
+    duracion: 47,
+    estado: 'Finalizado',
+    estreno: '2026-05-09',
+    finalizacion: '2026-07-11',
+    generos: ['Romance', 'Comedia', 'Juventud'],
+    tags: ['BL', 'Enemies to Lovers', 'Los opuestos se atraen', 'Romance universitario'],
+    origen: {
+        tipo: 'Novela',
+        titulo: 'Phi Fak Chop Thoe Mu',
+        tituloOriginal: 'พี่ฟากชอบเธอมู่',
+        autor: 'Meaw Sorn Mied',
+        pais: 'TH'
+    },
+    personas: [
+        { nombre: 'Fu Tong / Fak', persona: 'PR000108', funcion: ['Actor'], principal: true }, // Boss Chaikamon
+        { nombre: 'Moo / Muying', persona: 'PR000109', funcion: ['Actor'], principal: true },   // Noeul Nuttarat
+        { nombre: 'Thai Tong', persona: 'PR000359', funcion: ['Actor'], principal: false },     // Turbo Chanokchon
+        { nombre: 'Yu', persona: 'PR000360', funcion: ['Actor'], principal: false },            // Noh Phouluang
+        { nombre: 'Tee', persona: 'PR000361', funcion: ['Actor'], principal: false },           // Poom Wachirapanya
+        { nombre: 'Jeab', persona: 'PR000362', funcion: ['Actor'], principal: false },          // Effect Narawich
+        { nombre: 'Tian', persona: 'PR000131', funcion: ['Actor'], principal: false },          // Donut Suppawit
+        { persona: 'PR000363', funcion: ['Director'] }                                          // Film Pawis Sowsrion
+    ],
+    ships: [
+        { ship: 'SH000022', personajes: ['Fu Tong / Fak', 'Moo / Muying'] },                   // BossNoeul (Oficial)
+        { ship: 'SH000062', personajes: ['Thai Tong', 'Yu'] },                                  // Turbo & Noh (No oficial)
+        { ship: 'SH000063', personajes: ['Tee', 'Jeab'] }                                       // Poom & Effect (No oficial)
+    ],
+    sinopsis: 'Moo es un joven terco y decidido que asegura saber exactamente lo que busca en el amor. Todo se complica cuando irrumpe en su vida Fu, un chico persistente, excesivamente encantador e imposible de ignorar. Lo que comienza como coqueteos, burlas constantes y rivalidad juvenil pronto da paso a malentendidos, interacciones en línea y celos desbordantes, obligando a ambos a derribar sus barreras y admitir lo que realmente sienten.',
+    multimedia: {
+        portada: [
+            'https://wsrv.nl/?url=https://image.tmdb.org/t/p/original/crazy_love_moomoo_poster.jpg'
+        ],
+        trailer: ['https://www.youtube.com/watch?v=GRP1l1j3lUE'],
+        teaser: [],
+        pilot: [],
+        ost: []
+    },
+    entidades: [
+        { codigo: 'EN000011', funcion: ['Productora'] },  // Me Mind Y
+        { codigo: 'EN000031', funcion: ['Plataforma'] },  // Viu
+        { codigo: 'EN000023', funcion: ['Plataforma'] }   // YouTube
+    ],
+    especiales: [],
+    activo: true
 }
+
 
 ];
