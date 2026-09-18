@@ -63,11 +63,13 @@ const SHIPS = [
     {codigo:'SH000058', nombre:'Man & Title', personas:['PR000317','PR000316'], activo:false, oficial:false},
     {codigo:'SH000059', nombre:'Mean & Chompu', personas:['PR000066','PR000345'], activo:false, oficial:false},
     {codigo:'SH000060', nombre:'Bosston & Jo', personas:['PR000062','PR000325'], activo:false, oficial:false},
-  {codigo:'SH000061', nombre:'Donut & Forth', personas:['PR000131','PR000130'], activo:true, oficial:false},
-
-  {codigo:'SH000062', nombre:'Turbo & Noh', personas:['PR000359','PR000360'], activo:true, oficial:false},
-  {codigo:'SH000063', nombre:'Poom & Effect', personas:['PR000361','PR000362'], activo:true, oficial:false}
-
-
+    {codigo:'SH000061', nombre:'Donut & Forth', personas:['PR000131','PR000130'], activo:true, oficial:false},
+    {codigo:'SH000062', nombre:'Turbo & Noh', personas:['PR000359','PR000360'], activo:true, oficial:false},
+    {codigo:'SH000063', nombre:'Poom & Effect', personas:['PR000361','PR000362'], activo:true, oficial:false},
+   
+   {codigo:'SH000064', nombre:'SailubPon', personas:['PR000364','PR000365'], activo:true, oficial:true},
+   {codigo:'SH000065', nombre:'MilkNewyear', personas:['PR000366','PR000367'], activo:true, oficial:true},
+   {codigo:'SH000066', nombre:'PopTitle', personas:['PR000368','PR000250'], activo:true, oficial:true},
+   {codigo:'SH000067', nombre:'OttoBJ', personas:['PR000369','PR000370'], activo:true, oficial:true},
 
 ];
