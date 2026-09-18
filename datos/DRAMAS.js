@@ -1937,5 +1937,58 @@ const DRAMAS = [
         { codigo: 'EN000038', funcion: ['Productora'] }
     ],
     activo: true
+},
+/* ========================================== The Boy Next World ===================================================== */
+{
+    codigo: 'DR000034',
+    titulo: 'The Boy Next World',
+    tituloOriginal: 'คนละกาลเวลา',
+    alias: ['The Boy Next World The Series', 'Khon La Kan Wela'],
+    tipo: 'Drama',
+    anio: 2025,
+    pais: 'TH',
+    idioma: 'th',
+    universo: 'UN000001',
+    temporadas: 1,
+    temporada: 1,
+    episodios: 12,
+    duracion: 45,
+    estado: 'Finalizado',
+    estreno: '2025-01-09',
+    finalizacion: '2025-03-27',
+    generos: ['Romance', 'Drama', 'Fantasía'],
+    tags: ['BL', 'Mundo paralelo'],
+    personas: [
+        { nombre: 'Cirrus', persona: 'PR000108', funcion: ['Actor'], principal: true },   // Boss Chaikamon
+        { nombre: 'Phugun', persona: 'PR000109', funcion: ['Actor'], principal: true },   // Noeul Nuttarat
+        { nombre: 'Wim', persona: 'PR000131', funcion: ['Actor'], principal: false },     // Donut Suppawit
+        { nombre: 'Jin', persona: 'PR000130', funcion: ['Actor'], principal: false },     // Forth Kashane
+        { nombre: 'Rome', persona: 'PR000355', funcion: ['Actor'], principal: false },    // Chai Sinsophak
+        { nombre: 'Achi', persona: 'PR000356', funcion: ['Actor'], principal: false },    // Joke Chaloemdet
+        { nombre: 'Tri', persona: 'PR000357', funcion: ['Actor'], principal: false },     // Creamy Ploypapas
+        { nombre: 'Nalin', persona: 'PR000358', funcion: ['Actor'], principal: false },   // Yok Kanoklak
+        { persona: 'PR000134', funcion: ['Director'] },                                   // Neti Suwanjinda
+        { persona: 'PR000135', funcion: ['Guionista'] }                                  // MAME
+    ],
+    ships: [
+        { ship: 'SH000022', personajes: ['Cirrus', 'Phugun'] }, // BossNoeul (Oficial)
+        { ship: 'SH000061', personajes: ['Wim', 'Jin'] }        // Donut & Forth (No oficial)
+    ],
+    sinopsis: 'Phugun es un chico ordinario que nunca ha tenido una relación amorosa ni cree en el amor verdadero. Todo cambia cuando Cirrus, un apuesto y misterioso hombre, aparece en su vida afirmando venir de un mundo paralelo donde ambos son pareja. Aunque Phugun al principio se muestra escéptico, la devoción y protección incondicional de Cirrus comienzan a derribar sus barreras, obligándolo a cuestionar sus sentimientos y la realidad de los universos paralelos.',
+    multimedia: {
+        portada: ['https://www.memindy.com/wp-content/uploads/2024/TBNW_poster.jpg'],
+        trailer: ['https://www.youtube.com/watch?v=sample_tbnw_trailer'],
+        teaser: [],
+        pilot: ['https://www.youtube.com/watch?v=sample_tbnw_pilot'],
+        ost: []
+    },
+    entidades: [
+        { codigo: 'EN000011', funcion: ['Productora'] },  // Me Mind Y
+        { codigo: 'EN000024', funcion: ['Plataforma'] },  // iQIYI
+        { codigo: 'EN000023', funcion: ['Plataforma'] }   // YouTube
+    ],
+    especiales: [],
+    activo: true
 }
+
 ];
