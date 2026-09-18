@@ -369,6 +369,7 @@ const PERSONAS = [
   {codigo:'PR000360', nombre:'Noh Phouluang Thongprasert', nombreOriginal:'ภูหลวง ทองประเสริฐ', alias:['Noh'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000360.webp'}, activo:true},
   {codigo:'PR000361', nombre:'Poom Wachirapanya Milintachinda', nombreOriginal:'วชิรปัญญา มิลินทจินดา', alias:['Poom'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000361.webp'}, activo:true},
   {codigo:'PR000362', nombre:'Effect Narawich Khueanphet', nombreOriginal:'นราวิชญ์ เขื่อนเพชร', alias:['Effect'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000362.webp'}, activo:true},
+  {codigo:'PR000363', nombre:'Film Pawis Sowsrion', nombreOriginal:'ภาวิส เสาร์ศรีอ่อน', alias:['Film'], pais:'TH', idioma:'th', profesiones:['Director'], multimedia:{foto:'PR000363.webp'}, activo:true},
 
 
 ];
