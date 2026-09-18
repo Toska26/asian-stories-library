@@ -63,7 +63,11 @@ const SHIPS = [
     {codigo:'SH000058', nombre:'Man & Title', personas:['PR000317','PR000316'], activo:false, oficial:false},
     {codigo:'SH000059', nombre:'Mean & Chompu', personas:['PR000066','PR000345'], activo:false, oficial:false},
     {codigo:'SH000060', nombre:'Bosston & Jo', personas:['PR000062','PR000325'], activo:false, oficial:false},
-  {codigo:'SH000061', nombre:'Donut & Forth', personas:['PR000131','PR000130'], activo:true, oficial:false}
+  {codigo:'SH000061', nombre:'Donut & Forth', personas:['PR000131','PR000130'], activo:true, oficial:false},
+
+  {codigo:'SH000062', nombre:'Turbo & Noh', personas:['PR000359','PR000360'], activo:true, oficial:false},
+  {codigo:'SH000063', nombre:'Poom & Effect', personas:['PR000361','PR000362'], activo:true, oficial:false}
+
 
 
 ];
