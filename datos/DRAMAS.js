@@ -2040,8 +2040,8 @@ const DRAMAS = [
     sinopsis: 'Moo es un joven terco y decidido que asegura saber exactamente lo que busca en el amor. Todo se complica cuando irrumpe en su vida Fu, un chico persistente, excesivamente encantador e imposible de ignorar. Lo que comienza como coqueteos, burlas constantes y rivalidad juvenil pronto da paso a malentendidos, interacciones en línea y celos desbordantes, obligando a ambos a derribar sus barreras y admitir lo que realmente sienten.',
     multimedia: {
         portada: [
-            'https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Crazy-Love-Moo-Moo-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B9%88-Fresh-Releases-Local-Viu-Original-LGBTQ-Thai-BL-Drama-Rom-com-Boss-Chaikamon-Sermsongwittaya-Noeul-Nuttarat-Tangwai-thumbnail-vertical-e1778556959402.jpeg',
-			'https://blglflix.com/wp-content/uploads/2026/06/crazy-love-moo-moo-683x1024.jpg'
+            'https://blglflix.com/wp-content/uploads/2026/06/crazy-love-moo-moo-683x1024.jpg',
+			'https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Crazy-Love-Moo-Moo-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B9%88-Fresh-Releases-Local-Viu-Original-LGBTQ-Thai-BL-Drama-Rom-com-Boss-Chaikamon-Sermsongwittaya-Noeul-Nuttarat-Tangwai-thumbnail-vertical-e1778556959402.jpeg'
         ],
         trailer: ['https://www.youtube.com/watch?v=GRP1l1j3lUE'],
         teaser: [],
