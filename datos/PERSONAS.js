@@ -360,4 +360,9 @@ const PERSONAS = [
 {codigo:'PR000352', nombre:'Mai Jirawat Vongdilokvath', nombreOriginal:'จิรวัฒน์ วงศ์ดิลกวัฒน์', nombreOrden:'Vongdilokvath, Mai Jirawat', alias:['Mai'], pais:'TH', idioma:'th', profesiones:['Actor'], activo:true},
 {codigo:'PR000353', nombre:'Parn Thanaporn Wagprayoon', nombreOriginal:'ธนพร แวกประยูร', nombreOrden:'Wagprayoon, Parn Thanaporn', alias:['Parn'], pais:'TH', idioma:'th', fechaNacimiento:'1976-06-14', lugarNacimiento:'Thonburi, Bangkok, Tailandia', profesiones:['Actriz','Cantante'], redes:{instagram:'parnthanaporn'}, activo:true},
   {codigo:'PR000354', nombre:'Tichakorn Phukhaotong', nombreOriginal:'ทิชากร ภูเขาทอง', nombreOrden:'Phukhaotong, Tichakorn', alias:['Jojo'], pais:'TH', idioma:'th', fechaNacimiento:'1984-12-26', lugarNacimiento:'Surat Thani, Tailandia', profesiones:['Director','Guionista'], redes:{instagram:'jojo_tichakorn'}, activo:true},
+  {codigo:'PR000355', nombre:'Chai Sinsophak Wijitwerot', nombreOriginal:'สินโซภาคย์ วิจิตรเวโรจน์', alias:['Chai'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000355.webp'}, activo:true},
+  {codigo:'PR000356', nombre:'Joke Chaloemdet Thammawut', nombreOriginal:'เฉลิมเดช ธรรมวุฒิ', alias:['Joke'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000356.webp'}, activo:true},
+  {codigo:'PR000357', nombre:'Creamy Ploypapas Isarapongporn', nombreOriginal:'พลอยปภัส อิสระพงศ์พร', alias:['Creamy'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000357.webp'}, activo:true},
+  {codigo:'PR000358', nombre:'Yok Kanoklak Sinngam', nombreOriginal:'กนกลักษณ์ สินงาม', alias:['Yok'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000358.webp'}, activo:true},
+
 ];
