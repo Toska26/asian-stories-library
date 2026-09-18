@@ -365,4 +365,10 @@ const PERSONAS = [
   {codigo:'PR000357', nombre:'Creamy Ploypapas Isarapongporn', nombreOriginal:'พลอยปภัส อิสระพงศ์พร', alias:['Creamy'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000357.webp'}, activo:true},
   {codigo:'PR000358', nombre:'Yok Kanoklak Sinngam', nombreOriginal:'กนกลักษณ์ สินงาม', alias:['Yok'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000358.webp'}, activo:true},
 
+  {codigo:'PR000359', nombre:'Turbo Chanokchon Boonmanawong', nombreOriginal:'ชนกชนม์ บุญมานะวงศ์', alias:['Turbo'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000359.webp'}, activo:true},
+  {codigo:'PR000360', nombre:'Noh Phouluang Thongprasert', nombreOriginal:'ภูหลวง ทองประเสริฐ', alias:['Noh'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000360.webp'}, activo:true},
+  {codigo:'PR000361', nombre:'Poom Wachirapanya Milintachinda', nombreOriginal:'วชิรปัญญา มิลินทจินดา', alias:['Poom'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000361.webp'}, activo:true},
+  {codigo:'PR000362', nombre:'Effect Narawich Khueanphet', nombreOriginal:'นราวิชญ์ เขื่อนเพชร', alias:['Effect'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:'PR000362.webp'}, activo:true},
+
+
 ];
