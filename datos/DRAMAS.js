@@ -2055,7 +2055,96 @@ const DRAMAS = [
     ],
     especiales: [],
     activo: true
-}
+},
+
+	/* ========================================== The Crow Club ===================================================== */
+{
+    codigo: 'DR000036',
+    titulo: 'The Crow Club',
+    tituloOriginal: 'อีกาสมาคม',
+    alias: [],
+    tipo: 'Drama',
+    anio: 2026,
+    pais: 'TH',
+    idioma: 'th',
+    universo: '',
+    franquicia: { codigo: '', orden: 0 },
+    temporadas: 1,
+    temporada: 1,
+    episodios: 16,
+    duracion: null,
+    estado: 'En emisión',
+    estreno: '2026-09-18',
+    finalizacion: '2027-01-08',
+    generos: ['Romance', 'Comedia'],
+    tags: ['BL'],
+
+    personas: [
+        { nombre: 'Talay', persona: 'PR000364', funcion: ['Actor'], principal: true },
+        { nombre: 'Sun', persona: 'PR000365', funcion: ['Actor'], principal: true },
+        { nombre: 'Vann', persona: 'PR000366', funcion: ['Actor'], principal: true },
+        { nombre: 'Rakkhun', persona: 'PR000367', funcion: ['Actor'], principal: true },
+        { nombre: 'Phatee', persona: 'PR000368', funcion: ['Actor'], principal: true },
+        { nombre: 'Ranne', persona: 'PR000250', funcion: ['Actor'], principal: true },
+        { nombre: 'Tangmo', persona: 'PR000369', funcion: ['Actor'], principal: true },
+        { nombre: 'Yoyeh', persona: 'PR000370', funcion: ['Actor'], principal: true },
+
+        { nombre: 'Linda', persona: 'PR000377', funcion: ['Actor'], principal: false },
+        { nombre: 'Kala', persona: 'PR000378', funcion: ['Actor'], principal: false },
+        { nombre: 'Traiphop', persona: 'PR000379', funcion: ['Actor'], principal: false },
+        { nombre: 'Kan', persona: 'PR000012', funcion: ['Actor'], principal: false },
+        { nombre: 'Mimi', persona: 'PR000380', funcion: ['Actor'], principal: false },
+        { nombre: 'Tonhon', persona: 'PR000381', funcion: ['Actor'], principal: false },
+        { nombre: 'Ne', persona: 'PR000382', funcion: ['Actor'], principal: false },
+        { nombre: 'Saw', persona: 'PR000383', funcion: ['Actor'], principal: false },
+        { nombre: 'Kao', persona: 'PR000384', funcion: ['Actor'], principal: false },
+        { nombre: 'PJ', persona: 'PR000385', funcion: ['Actor'], principal: false },
+        { persona: 'PR000386', funcion: ['Actor'], principal: false },
+        { nombre: 'Chok', persona: 'PR000387', funcion: ['Actor'], principal: false },
+
+        { persona: 'PR000371', funcion: ['Director'] },
+        { persona: 'PR000372', funcion: ['Guionista'] },
+        { persona: 'PR000373', funcion: ['Guionista'] },
+        { persona: 'PR000374', funcion: ['Guionista'] },
+        { persona: 'PR000375', funcion: ['Guionista'] },
+        { persona: 'PR000376', funcion: ['Guionista'] }
+    ],
+
+    ships: [
+        { ship: 'SH000064', personajes: ['Talay', 'Sun'] },
+        { ship: 'SH000065', personajes: ['Vann', 'Rakkhun'] },
+        { ship: 'SH000066', personajes: ['Phatee', 'Ranne'] },
+        { ship: 'SH000067', personajes: ['Tangmo', 'Yoyeh'] }
+    ],
+
+    sinopsis: 'En el misterioso bar The Crow Club, dirigido por Linda, se reúnen personas conocidas como “cuervos”, especialistas en resolver problemas extraños a cambio de dinero. A través de los encargos que reciben, sus historias personales y relaciones comienzan a entrelazarse.',
+
+    multimedia: {
+        portada: [
+            'https://pbs.twimg.com/media/G_z8yd4bUAEgWXo.jpg',
+            'https://pbs.twimg.com/media/G_wcURMXAAA8kcU.jpg'
+        ],
+        trailer: [
+            'https://www.youtube.com/watch?v=4A2OptH0oh8'
+        ],
+        teaser: [],
+        pilot: [
+            'https://www.youtube.com/watch?v=xRXO7hGWbgU'
+        ],
+        ost: []
+    },
+
+    entidades: [
+        { codigo: 'EN000014', funcion: ['Emisora'] },
+        { codigo: 'EN000039', funcion: ['Productora'] },
+        { codigo: 'EN000040', funcion: ['Plataforma'] },
+        { codigo: 'EN000041', funcion: ['Plataforma'] },
+        { codigo: 'EN000023', funcion: ['Plataforma'] }
+    ],
+
+    especiales: [],
+    activo: true
+},
 
 
 ];
