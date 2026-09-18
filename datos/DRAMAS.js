@@ -1898,7 +1898,7 @@ const DRAMAS = [
     temporadas: 1,
     temporada: 1,
     episodios: 12,
-    estado: 'En emision',
+    estado: 'En emisión',
     estreno: '2026-09-12',
     generos: ['Romance', 'Drama', 'Comedia'],
     tags: ['BL', 'Policial', 'Matrimonio de conveniencia', 'Convivencia forzada'],
