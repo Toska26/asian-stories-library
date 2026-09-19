@@ -2907,5 +2907,56 @@ entidades:[
 especiales:[],
 activo:true
 },
+/* ==========================================   Bed Friend — DR000048   ========================================== */
 
+	{
+codigo:'DR000048',
+titulo:'Bed Friend',
+tituloOriginal:'อย่าเล่นกับอนล',
+alias:['Bed Friend Series','Don’t Play with Anon'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:{codigo:'FR000012',orden:1},
+universo:'',
+serie:'SR000048',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:48,
+estado:'Finalizado',
+estreno:'2023-02-18',
+finalizacion:'2023-04-22',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+
+personas:[
+    {nombre:'King',persona:'PR000413',funcion:['Actor'],principal:true},
+    {nombre:'Uea',persona:'PR000495',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000077',personajes:['King','Uea']}
+],
+
+sinopsis:'King y Uea son compañeros de trabajo con personalidades muy diferentes. Uea es reservado y no soporta a los hombres que se toman las relaciones a la ligera, mientras que King es conocido por ser un conquistador. Después de una noche juntos, ambos acuerdan mantener una relación de amigos con derecho a roce, estableciendo sus propias reglas para evitar involucrarse sentimentalmente. Sin embargo, sus sentimientos comienzan a cambiar y la relación termina siendo mucho más profunda de lo que habían previsto.',
+
+multimedia:{
+    portada:[
+    'https://pbs.twimg.com/media/FpQ25jSaQAE0q-a?format=jpg&name=large'
+],
+    trailer:['https://www.youtube.com/watch?v=C7T7bbpkgjw'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=BKoV4h2LLdU'
+    ]
+},
+
+entidades:[],
+
+especiales:[],
+activo:true
+},
 ];
