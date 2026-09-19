@@ -8,5 +8,6 @@ const FRANQUICIAS = [
     {codigo:'FR000003', nombre:'Until We Meet Again', pais:'TH', multimedia:{portada:'FR000003.webp'}, descripcion:'Franquicia tailandesa formada por Until We Meet Again y su historia derivada Between Us.', activo:true},
     {codigo:'FR000006', nombre:'En of Love', pais:'TH', multimedia:{portada:'FR000006.webp'}, descripcion:'Franquicia BL tailandesa formada por En of Love: Tossara, En of Love: Love Mechanics y En of Love: This Is Love Story.', activo:true},
     {codigo:'FR000008', nombre:'TharnType / Love by Chance', pais:'TH', multimedia:{portada:'FR000008.webp'}, descripcion:'Franquicia formada por las historias relacionadas con Love by Chance, TharnType y Don’t Say No.', activo:true},
-    {codigo:'FR000009', nombre:'Kiss', pais:'TH', multimedia:{portada:'FR000009.webp'}, descripcion:'Franquicia tailandesa formada por Kiss: The Series, Kiss Me Again y Dark Blue Kiss.', activo:true}
+    {codigo:'FR000009', nombre:'Kiss', pais:'TH', multimedia:{portada:'FR000009.webp'}, descripcion:'Franquicia tailandesa formada por Kiss: The Series, Kiss Me Again y Dark Blue Kiss.', activo:true},
+   {codigo:'FR000010', nombre:'Khemjira', pais:'TH', multimedia:{portada:'FR000010.webp'}, descripcion:'Franquicia tailandesa formada por Khemjira y Khemjira Forever.', activo:true},
 ];
