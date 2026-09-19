@@ -11,4 +11,6 @@ const FRANQUICIAS = [
     {codigo:'FR000009', nombre:'Kiss', pais:'TH', multimedia:{portada:'FR000009.webp'}, descripcion:'Franquicia tailandesa formada por Kiss: The Series, Kiss Me Again y Dark Blue Kiss.', activo:true},
    {codigo:'FR000010', nombre:'Khemjira', pais:'TH', multimedia:{portada:'FR000010.webp'}, descripcion:'Franquicia tailandesa formada por Khemjira y Khemjira Forever.', activo:true},
     {codigo:'FR000011', nombre:'Cutie Pie', pais:'TH', multimedia:{portada:'FR000011.webp'}, descripcion:'Franquicia tailandesa formada por Cutie Pie, su segunda temporada Cutie Pie 2 You y el spin-off Naughty Babe.', activo:true},
+   {codigo:'FR000012', nombre:'Bed Friend', pais:'TH', multimedia:{portada:'FR000012.webp'}, descripcion:'Franquicia tailandesa formada por Bed Friend y su spin-off The Middleman’s Love.', activo:true},
+
 ];
