@@ -2768,5 +2768,79 @@ entidades:[
 especiales:[],
 activo:true
 },
+	/* ==========================================   The Middleman's Love — DR000046   ========================================== */
+
+	{
+codigo:'DR000046',
+titulo:"The Middleman's Love",
+tituloOriginal:'พี่เจตคนกลาง',
+alias:['Middleman’s Love','Middle Love'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:{codigo:'FR000012',orden:2},
+universo:'',
+serie:'SR000046',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:49,
+estado:'Finalizado',
+estreno:'2023-11-10',
+finalizacion:'2023-12-29',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+
+personas:[
+{nombre:'Mai',persona:'PR000428',funcion:['Actor'],principal:true},
+{nombre:'Jade',persona:'PR000427',funcion:['Actor'],principal:true},
+{nombre:'King',persona:'PR000413',funcion:['Actor'],principal:false},
+{nombre:'Uea',persona:'PR000495',funcion:['Actor'],principal:false},
+{nombre:'Gun',persona:'PR000496',funcion:['Actor'],principal:false},
+{nombre:'Bas',persona:'PR000434',funcion:['Actor'],principal:false},
+{nombre:'Mongkol',persona:'PR000436',funcion:['Actor'],principal:false},
+{nombre:'Tong',persona:'PR000497',funcion:['Actor'],principal:false},
+{nombre:'Gus',persona:'PR000498',funcion:['Actor'],principal:false},
+{nombre:'Jan',persona:'PR000499',funcion:['Actor'],principal:false},
+{nombre:'Jet',persona:'PR000290',funcion:['Actor'],principal:false},
+{nombre:'Mai’s Mother',persona:'PR000500',funcion:['Actor'],principal:false},
+{nombre:'Jade’s Mother',persona:'PR000501',funcion:['Actor'],principal:false},
+{nombre:'Jade’s Father',persona:'PR000502',funcion:['Actor'],principal:false},
+{nombre:'Man',persona:'PR000503',funcion:['Actor'],principal:false},
+{nombre:'Mai’s Father',persona:'PR000504',funcion:['Actor'],principal:false},
+{nombre:'Boom',persona:'PR000505',funcion:['Actor'],principal:false},
+{nombre:'Top',persona:'PR000506',funcion:['Actor'],principal:false},
+{persona:'PR000492',funcion:['Director']},
+{persona:'PR000260',funcion:['Guionista']},
+{persona:'PR000469',funcion:['Guionista']}
+],
+
+ships:[
+{ship:'SH000072',personajes:['Mai','Jade']},
+{ship:'SH000077',personajes:['King','Uea']}
+],
+
+sinopsis:'Jade está acostumbrado a ocupar siempre el papel de intermediario y a pasar desapercibido. Cuando Mai, un nuevo becario de la empresa, empieza a mostrar interés por él, Jade cree que está interesado en otra persona y trata de convertirse en intermediario. Sin embargo, Mai está interesado en Jade y poco a poco consigue que Jade se enfrente a sus propios sentimientos.',
+
+multimedia:{
+portada:['https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg'],
+trailer:['https://www.youtube.com/watch?v=MwUCV0ybEK4'],
+teaser:[],
+pilot:[],
+ost:['https://www.youtube.com/watch?v=p0kba6O-bho']
+},
+
+entidades:[
+{codigo:'EN000043',funcion:['Productora']},
+{codigo:'EN000047',funcion:['Productora']},
+{codigo:'EN000014',funcion:['Emisora']},
+{codigo:'EN000024',funcion:['Plataforma']},
+{codigo:'EN000025',funcion:['Plataforma']}
+],
+
+especiales:[],
+activo:true
+},
 
 ];
