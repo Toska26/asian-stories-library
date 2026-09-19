@@ -1,0 +1,139 @@
+Primero: lista de dramas
+
+Tú me das simplemente una lista, por ejemplo:
+
+- Drama A
+- Drama B
+- Drama C
+- Drama D
+
+Yo me encargo de investigar y preparar una tabla de control con:
+
+Código	Drama	Año	País	Estado	Franquicia	¿Datos completos?
+DR000040	...	2026	TH	...	...	🟡
+DR000041	...	2026	TH	...	...	🟢
+
+Así detectamos rápidamente qué falta antes de escribir código.
+
+2. Después: investigación en bloque
+
+En lugar de investigar un drama, crear la ficha y volver a investigar el siguiente, hacemos todos los dramas juntos.
+
+Para cada uno compruebo:
+
+Datos básicos
+
+título
+título original
+alias
+año
+país
+idioma
+géneros
+estado
+fechas
+episodios
+duración
+
+Relaciones
+
+franquicia
+universo
+ships
+personajes
+
+Créditos
+
+actores principales
+actores secundarios
+director/es
+guionista/s
+
+Entidades
+
+productora
+emisora
+plataforma
+distribuidora, si corresponde
+
+Multimedia
+
+portada
+segunda/tercera portada
+trailer
+teaser
+pilot
+OST
+
+Y no inventamos nada: si un dato no está confirmado, queda null, '' o [].
+
+3. Comprobamos primero PERSONAS, SHIPS y ENTIDADES
+
+Esto nos va a ahorrar muchísimo trabajo.
+
+Antes de generar DRAMAS.js, hacemos una pequeña comprobación:
+
+PERSONAS
+PR existentes → reutilizar
+Persona nueva → crear PR
+
+SHIPS
+SH existente → reutilizar
+Ship nuevo → crear SH
+
+ENTIDADES
+EN existente → reutilizar
+Entidad nueva → crear EN
+
+FRANQUICIAS
+FR existente → reutilizar
+Franquicia nueva → crear FR
+
+Así evitamos precisamente problemas como los que hemos tenido con códigos duplicados de SH000068, o tener que volver después a modificar una ficha porque faltaba una persona.
+
+4. Generamos los DRAMAS.js todos juntos
+
+Cuando la información está aprobada, te entrego directamente:
+
+// DR000040
+{ ... }
+
+// DR000041
+{ ... }
+
+// DR000042
+{ ... }
+
+con exactamente nuestra estructura actual.
+
+No necesitamos volver a revisar toda la estructura cada vez.
+
+5. Una última revisión
+
+Antes de que los pegues en GitHub, hacemos una comprobación final:
+
+ códigos DR consecutivos
+ códigos PR existentes
+ códigos SH existentes
+ códigos EN existentes
+ franquicias correctas
+ ships con personajes correctos
+ multimedia siempre con arrays
+ persona correcto
+ principal:true/false
+ sin campos antiguos (favorito, visto, etc.)
+ sin entidades duplicadas
+ sin datos inventados
+Y podemos hacerlo todavía más rápido
+
+A partir de ahora, cuando me digas algo como:
+
+Añadimos: The Next Prince, Love Sea 2, ...
+
+yo puedo trabajar directamente con este esquema:
+
+① Investigar todos → ② detectar personas/ships/entidades nuevas → ③ proponerte las nuevas PR/SH/EN → ④ generar todas las fichas DR → ⑤ revisión final.
+
+Eso encaja mucho mejor con cómo está creciendo ahora Asian Stories Library, porque ya tenemos una base bastante grande de PERSONAS, SHIPS, ENTIDADES y FRANQUICIAS.
+
+Si quieres, empezamos ya con el siguiente grupo de dramas y aplicamos este sistema desde el principio.
