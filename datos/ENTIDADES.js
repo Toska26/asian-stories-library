@@ -46,4 +46,7 @@ const ENTIDADES = [
 { codigo: 'EN000042', nombre: 'Maker-Y', pais: 'TH', tipos: ['Productora'], activo: true },
 { codigo: 'EN000043', nombre: 'Mandee Work', pais: 'TH', tipos: ['Productora'], activo: true },
 
+{ codigo: 'EN000044', nombre: 'Workpoint TV', pais: 'TH', tipos: ['Emisora'], activo: true },
+{ codigo: 'EN000045', nombre: 'Punphap Studio', pais: 'TH', tipos: ['Productora'], activo: true },
+
 ];
