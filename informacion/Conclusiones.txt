@@ -1,0 +1,33 @@
+1. serie = misma producción seriada
+
+Usaremos serie únicamente cuando varias entradas sean temporadas de una misma serie.
+Es decir:
+    Misma serie + distinta temporada = temporadas de una misma serie.
+    No utilizaremos temporada: 2 simplemente porque una producción sea una continuación.
+
+2. franquicia = obras relacionadas
+
+franquicia será el nivel que utilizaremos cuando varias producciones pertenecen a una misma saga, historia o propiedad narrativa, pero son obras independientes.
+
+3. especiales = contenido especial asociado a una obra
+
+    especiales no debería utilizarse para relacionar dos dramas completos.
+
+Lo utilizaríamos para contenidos como:
+
+episodio especial
+especial de Navidad
+especial de aniversario
+episodio extra
+OVA
+contenido especial relacionado con una serie
+etc.
+
+Pero si ese especial tiene su propia ficha como drama en ASL, entonces esa ficha puede tener:
+
+especiales: []
+
+y su relación con la obra principal se hace mediante franquicia.
+
+En otras palabras:
+  especiales describe contenido especial; franquicia relaciona obras.
