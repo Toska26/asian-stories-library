@@ -43,4 +43,7 @@ const ENTIDADES = [
    { codigo: 'EN000039', nombre: 'CHANGE2561', pais: 'TH', tipos: ['Productora'], activo: true },
 { codigo: 'EN000040', nombre: 'Netflix', pais: 'US', tipos: ['Plataforma'], activo: true },
 { codigo: 'EN000041', nombre: 'oneD', pais: 'TH', tipos: ['Plataforma'], activo: true },
+{ codigo: 'EN000042', nombre: 'Maker-Y', pais: 'TH', tipos: ['Productora'], activo: true },
+{ codigo: 'EN000043', nombre: 'Mandee Work', pais: 'TH', tipos: ['Productora'], activo: true },
+
 ];
