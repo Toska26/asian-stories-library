@@ -436,5 +436,6 @@ const PERSONAS = [
 {codigo:'PR000421', nombre:'Puri Hiranprueck', nombreOriginal:'ปูริ หิรัญพฤกษ์', nombreArtistico:'', alias:['Puri Hiranyapluek'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000422', nombre:'Somchai Khemklad', nombreOriginal:'สมชาย เข็มกลัด', nombreArtistico:'Tao', alias:['Tao'], pais:'TH', idioma:'th', profesiones:['Actor','Director'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000423', nombre:'Rhatha Phongam', nombreOriginal:'รฐา โพธิ์งาม', nombreArtistico:'Ying', alias:['Ying','Yaya Ying'], pais:'TH', idioma:'th', fechaNacimiento:'1983-05-19', lugarNacimiento:'Bangkok, Tailandia', profesiones:['Actor','Cantante','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000424', nombre:'Norraphat Nakadumrongchai', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 
 ];
