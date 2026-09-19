@@ -2231,7 +2231,6 @@ personas: [
 { nombre: 'Jettana Nakarnkul (Jet)', persona: 'PR000396', funcion: ['Actor'], principal: true },
 { nombre: 'Jintana', persona: 'PR000401', funcion: ['Actor'], principal: true },
 
-```
     { nombre: 'Chayos', persona: 'PR000410', funcion: ['Actor'], principal: false },
     { nombre: 'Thong / Suea', persona: 'PR000399', funcion: ['Actor'], principal: false },
     { nombre: 'Ek / Singha', persona: 'PR000398', funcion: ['Actor'], principal: false },
@@ -2304,7 +2303,6 @@ personas: [
 { nombre: 'Chanwit Charoenkiatpricha (Chan)', persona: 'PR000395', funcion: ['Actor'], principal: true },
 { nombre: 'Jettana Nakarnkul (Jet)', persona: 'PR000396', funcion: ['Actor'], principal: true },
 
-```
     { persona: 'PR000416', funcion: ['Director'] },
     { persona: 'PR000417', funcion: ['Director'] },
     { persona: 'PR000418', funcion: ['Director'] }
