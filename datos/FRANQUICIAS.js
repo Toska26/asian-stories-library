@@ -10,4 +10,5 @@ const FRANQUICIAS = [
     {codigo:'FR000008', nombre:'TharnType / Love by Chance', pais:'TH', multimedia:{portada:'FR000008.webp'}, descripcion:'Franquicia formada por las historias relacionadas con Love by Chance, TharnType y Don’t Say No.', activo:true},
     {codigo:'FR000009', nombre:'Kiss', pais:'TH', multimedia:{portada:'FR000009.webp'}, descripcion:'Franquicia tailandesa formada por Kiss: The Series, Kiss Me Again y Dark Blue Kiss.', activo:true},
    {codigo:'FR000010', nombre:'Khemjira', pais:'TH', multimedia:{portada:'FR000010.webp'}, descripcion:'Franquicia tailandesa formada por Khemjira y Khemjira Forever.', activo:true},
+    {codigo:'FR000011', nombre:'Cutie Pie', pais:'TH', multimedia:{portada:'FR000011.webp'}, descripcion:'Franquicia tailandesa formada por Cutie Pie, su segunda temporada Cutie Pie 2 You y el spin-off Naughty Babe.', activo:true},
 ];
