@@ -2328,7 +2328,317 @@ entidades: [
 ],
 especiales: [],
 activo: true
-}
+},
+
+	
+/* ==========================================   Cutie Pie — DR000040   ========================================== */
+{
+codigo:'DR000040',
+titulo:'Cutie Pie',
+tituloOriginal:'นิ่งเฮียก็หาว่าซื่อ',
+alias:['Cutie Pie The Series'],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'FR000011',
+    orden:1
+},
+universo:'',
+serie:'SR000040',
+temporadas:2,
+temporada:1,
+episodios:12,
+duracion:50,
+estado:'Finalizado',
+estreno:'2022-02-19',
+finalizacion:'2022-05-14',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+personas:[
+    {nombre:'Lian Kilen Wang',persona:'PR000425',funcion:['Actor'],principal:true},
+    {nombre:'Kuea Keerati',persona:'PR000426',funcion:['Actor'],principal:true},
+    {nombre:'Yi Phayak Chatdecha Chen',persona:'PR000309',funcion:['Actor'],principal:true},
+    {nombre:'Khondiao Thacha Wongtheerachot',persona:'PR000308',funcion:['Actor'],principal:true},
+    {nombre:'Syn',persona:'PR000427',funcion:['Actor'],principal:true},
+    {nombre:'Nuea',persona:'PR000428',funcion:['Actor'],principal:true},
+    {nombre:'Ton',persona:'PR000112',funcion:['Actor'],principal:false},
+    {nombre:'Jaab',persona:'PR000429',funcion:['Actor'],principal:false},
+    {nombre:'Jay',persona:'PR000430',funcion:['Actor'],principal:false},
+    {nombre:'Foei',persona:'PR000431',funcion:['Actor'],principal:false},
+    {nombre:'Nuchy',persona:'PR000432',funcion:['Actor'],principal:false},
+    {nombre:'Win',persona:'PR000433',funcion:['Actor'],principal:false},
+    {nombre:'Black',persona:'PR000434',funcion:['Actor'],principal:false},
+    {nombre:'Jade',persona:'PR000435',funcion:['Actor'],principal:false},
+    {nombre:'MC',persona:'PR000436',funcion:['Actor'],principal:false},
+    {nombre:'Auea',persona:'PR000437',funcion:['Actor'],principal:false},
+    {nombre:"Kuea's grandfather",persona:'PR000438',funcion:['Actor'],principal:false},
+    {nombre:'Kewalin',persona:'PR000439',funcion:['Actor'],principal:false},
+    {nombre:'Young Lian',persona:'PR000440',funcion:['Actor'],principal:false},
+    {persona:'PR000416',funcion:['Director']},
+    {persona:'PR000340',funcion:['Guionista']}
+],
+ships:[
+    {ship:'SH000071',personajes:['Lian Kilen Wang','Kuea Keerati']},
+    {ship:'SH000054',personajes:['Yi Phayak Chatdecha Chen','Khondiao Thacha Wongtheerachot']},
+    {ship:'SH000072',personajes:['Nuea','Syn']}
+],
+sinopsis:'Lian y Kuea están comprometidos desde pequeños debido a un acuerdo entre sus familias. Mientras Kuea intenta mantener su imagen de prometido perfecto, Lian comienza a cuestionar sus sentimientos y la relación que ambos han construido.',
+multimedia:{
+    portada:['https://media.senscritique.com/media/000020315342/0/cutie_pie.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=J9_kF-esM0w'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=yFXe_GpaB1g'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=P3ZeKebVBbQ',
+        'https://www.youtube.com/watch?v=l77JBJOwNVY',
+        'https://www.youtube.com/watch?v=F15X-GwvrRU',
+        'https://www.youtube.com/watch?v=JKspqsHxcwk',
+        'https://www.youtube.com/watch?v=z6pvbj5iR2A',
+        'https://www.youtube.com/watch?v=3BlVFX_JvaM',
+        'https://www.youtube.com/watch?v=5uj6D6bwq8U',
+        'https://www.youtube.com/watch?v=fjebr5fmc44',
+        'https://www.youtube.com/watch?v=7_3y06R112w'
+    ]
+},
+entidades:[
+    {codigo:'EN000043',funcion:['Productora']},
+    {codigo:'EN000045',funcion:['Productora']},
+    {codigo:'EN000044',funcion:['Emisora']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   Cutie Pie 2 You — DR000041   ========================================== */
+{
+codigo:'DR000041',
+titulo:'Cutie Pie 2 You',
+tituloOriginal:'นิ่งเฮีย 2 You',
+alias:[],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'FR000011',
+    orden:2
+},
+universo:'',
+serie:'SR000040',
+temporadas:2,
+temporada:2,
+episodios:4,
+duracion:50,
+estado:'Finalizado',
+estreno:'2023-01-06',
+finalizacion:'2023-01-27',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+personas:[
+    {nombre:'Lian Kilen Wang',persona:'PR000425',funcion:['Actor'],principal:true},
+    {nombre:'Kuea Keerati',persona:'PR000426',funcion:['Actor'],principal:true},
+    {nombre:'Yi Phayak Chatdecha Chen',persona:'PR000309',funcion:['Actor'],principal:true},
+    {nombre:'Khondiao Thacha Wongtheerachot',persona:'PR000308',funcion:['Actor'],principal:true},
+    {nombre:'Nuea',persona:'PR000428',funcion:['Actor'],principal:true},
+    {nombre:'Syn',persona:'PR000427',funcion:['Actor'],principal:true},
+    {nombre:'Foei',persona:'PR000431',funcion:['Actor'],principal:false},
+    {nombre:'Ton',persona:'PR000112',funcion:['Actor'],principal:false},
+    {nombre:'Nuchy',persona:'PR000432',funcion:['Actor'],principal:false},
+    {nombre:'Madam Sunoko',persona:'PR000319',funcion:['Actor'],principal:false},
+    {nombre:'Jay',persona:'PR000430',funcion:['Actor'],principal:false},
+    {nombre:'Jaab',persona:'PR000429',funcion:['Actor'],principal:false},
+    {nombre:'Sia',persona:'PR000441',funcion:['Actor'],principal:false},
+    {nombre:'Kewalin',persona:'PR000439',funcion:['Actor'],principal:false},
+    {nombre:'Kim',persona:'PR000442',funcion:['Actor'],principal:false},
+    {persona:'PR000416',funcion:['Director']},
+    {persona:'PR000443',funcion:['Guionista']},
+    {persona:'PR000340',funcion:['Guionista']}
+],
+ships:[
+    {ship:'SH000071',personajes:['Lian Kilen Wang','Kuea Keerati']},
+    {ship:'SH000054',personajes:['Yi Phayak Chatdecha Chen','Khondiao Thacha Wongtheerachot']},
+    {ship:'SH000072',personajes:['Nuea','Syn']}
+],
+sinopsis:'Lian y Kuea continúan su relación mientras afrontan los preparativos de su boda y las decisiones que deben tomar sobre su futuro juntos. Kuea también debe decidir qué camino seguir entre su vida junto a Lian y su deseo de desarrollar su carrera como artista.',
+multimedia:{
+    portada:['https://img.youtube.com/vi/BPe5h1hwD04/maxresdefault.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=BPe5h1hwD04'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=QMgDXmbvPLw',
+        'https://www.youtube.com/watch?v=r84aCKFNBTY',
+        'https://www.youtube.com/watch?v=yJe-xRx1aZU'
+    ]
+},
+entidades:[
+    {codigo:'EN000043',funcion:['Productora']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   Naughty Babe — DR000042   ========================================== */
+{
+codigo:'DR000042',
+titulo:'Naughty Babe',
+tituloOriginal:'ดื้อเฮียก็หาว่าซน',
+alias:[],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'FR000011',
+    orden:3
+},
+universo:'',
+serie:'SR000042',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:50,
+estado:'Finalizado',
+estreno:'2023-09-02',
+finalizacion:'2023-10-21',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+personas:[
+    {nombre:'Yi',persona:'PR000309',funcion:['Actor'],principal:true},
+    {nombre:'Khondiao',persona:'PR000308',funcion:['Actor'],principal:true},
+    {nombre:'Aon',persona:'PR000211',funcion:['Actor'],principal:false},
+    {nombre:'Lian',persona:'PR000425',funcion:['Actor'],principal:false},
+    {nombre:'Kuea',persona:'PR000426',funcion:['Actor'],principal:false},
+    {nombre:'Makorn Chen',persona:'PR000409',funcion:['Actor'],principal:false},
+    {nombre:'Sattha',persona:'PR000444',funcion:['Actor'],principal:false},
+    {nombre:'Tem',persona:'PR000445',funcion:['Actor'],principal:false},
+    {nombre:'Sathapon',persona:'PR000446',funcion:['Actor'],principal:false},
+    {nombre:'Chen',persona:'PR000447',funcion:['Actor'],principal:false},
+    {nombre:'Nuea',persona:'PR000428',funcion:['Actor'],principal:false},
+    {nombre:'Tam',persona:'PR000448',funcion:['Actor'],principal:false},
+    {nombre:'Winner',persona:'PR000449',funcion:['Actor'],principal:false},
+    {persona:'PR000416',funcion:['Director']}
+],
+ships:[
+    {ship:'SH000054',personajes:['Yi','Khondiao']},
+    {ship:'SH000071',personajes:['Lian','Kuea']}
+],
+sinopsis:'Khondiao está comprometido con Yi, pero siente que su relación se ha enfriado y decide alejarse. Cuando Yi descubre que puede perderlo, intenta recuperar su confianza y demostrarle lo que realmente siente.',
+multimedia:{
+    portada:['https://img.youtube.com/vi/AZOd8vxG95k/maxresdefault.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=AZOd8vxG95k'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=M_AJHnQDsGI'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=',
+        'https://www.youtube.com/watch?v=',
+        'https://www.youtube.com/watch?v=',
+        'https://www.youtube.com/watch?v='
+    ]
+},
+entidades:[
+    {codigo:'EN000043',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   The Next Prince — DR000043   ========================================== */
+{
+codigo:'DR000043',
+titulo:'The Next Prince',
+tituloOriginal:'ข้ามฟ้าเคียงเธอ',
+alias:[],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'',
+    orden:0
+},
+universo:'',
+serie:'SR000043',
+temporadas:1,
+temporada:1,
+episodios:14,
+duracion:50,
+estado:'Finalizado',
+estreno:'2025-05-03',
+finalizacion:'2025-08-02',
+generos:['Romance','Drama','Político'],
+tags:['BL'],
+personas:[
+    {nombre:'Khanin Assavadevathin',persona:'PR000426',funcion:['Actor'],principal:true},
+    {nombre:'Charan Phithakthewa',persona:'PR000425',funcion:['Actor'],principal:true},
+    {nombre:'Ramil Bhuchongpisut',persona:'PR000312',funcion:['Actor'],principal:true},
+    {nombre:'Paitay Ronawee',persona:'PR000450',funcion:['Actor'],principal:true},
+    {nombre:'Calvin',persona:'PR000413',funcion:['Actor'],principal:true},
+    {nombre:'Jay Jirat',persona:'PR000451',funcion:['Actor'],principal:true},
+    {nombre:'King Thipokbowon Assavadevathin',persona:'PR000452',funcion:['Actor'],principal:false},
+    {nombre:'Prince Tharin Assavadevathin',persona:'PR000453',funcion:['Actor'],principal:false},
+    {nombre:'Chana Davichmetha',persona:'PR000454',funcion:['Actor'],principal:false},
+    {nombre:'Wasin Meenanagarin',persona:'PR000455',funcion:['Actor'],principal:false},
+    {nombre:'Thatdanai Keerakul',persona:'PR000456',funcion:['Actor'],principal:false},
+    {nombre:'Rachata Bhuchongpisut',persona:'PR000444',funcion:['Actor'],principal:false},
+    {nombre:'Wirun',persona:'PR000457',funcion:['Actor'],principal:false},
+    {nombre:'Siwakorn',persona:'PR000458',funcion:['Actor'],principal:false},
+    {nombre:'Marisa Meenanakarin',persona:'PR000459',funcion:['Actor'],principal:false},
+    {nombre:'Chita',persona:'PR000460',funcion:['Actor'],principal:false},
+    {nombre:'Chakri',persona:'PR000461',funcion:['Actor'],principal:false},
+    {nombre:'Vetith',persona:'PR000462',funcion:['Actor'],principal:false},
+    {nombre:'Ava Davichmetha',persona:'PR000463',funcion:['Actor'],principal:false},
+    {nombre:'Mira Kitakhan',persona:'PR000464',funcion:['Actor'],principal:false},
+    {nombre:'Hawl',persona:'PR000465',funcion:['Actor'],principal:false},
+    {nombre:'Paul',persona:'PR000466',funcion:['Actor'],principal:false},
+    {nombre:'June',persona:'PR000467',funcion:['Actor'],principal:false},
+    {nombre:'Young Khanin',persona:'PR000468',funcion:['Actor'],principal:false},
+    {persona:'PR000416',funcion:['Director']},
+    {persona:'PR000417',funcion:['Director']},
+    {persona:'PR000260',funcion:['Guionista']},
+    {persona:'PR000469',funcion:['Guionista']},
+    {persona:'PR000470',funcion:['Guionista']}
+],
+ships:[
+    {ship:'SH000071',personajes:['Khanin Assavadevathin','Charan Phithakthewa']},
+    {ship:'SH000073',personajes:['Ramil Bhuchongpisut','Paitay Ronawee']},
+    {ship:'SH000074',personajes:['Calvin','Jay Jirat']}
+],
+sinopsis:'Khanin, heredero de un reino ficticio, se ve obligado a regresar a su país y asumir las responsabilidades de su familia. Charan, su guardaespaldas y protector desde hace años, debe mantenerlo a salvo mientras ambos afrontan sus sentimientos y las intrigas relacionadas con la sucesión.',
+multimedia:{
+    portada:['https://img.youtube.com/vi/xKAOhZyvcAU/maxresdefault.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=xKAOhZyvcAU'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=y42OfpM43Fo'
+    ],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000043',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
 
 
 
