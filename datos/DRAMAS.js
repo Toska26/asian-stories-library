@@ -2639,7 +2639,134 @@ especiales:[],
 activo:true
 },
 
+/* ==========================================   Two Worlds — DR000044   ========================================== */
+{
+codigo:'DR000044',
+titulo:'Two Worlds',
+tituloOriginal:'โลกสองใบ ใจดวงเดียว',
+alias:[],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'',
+    orden:0
+},
+universo:'',
+serie:'SR000044',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:48,
+estado:'Finalizado',
+estreno:'2024-03-21',
+finalizacion:'2024-05-16',
+generos:['Romance','Drama','Fantasía'],
+tags:['BL'],
+personas:[
+    {nombre:'Tai',persona:'PR000309',funcion:['Actor'],principal:true},
+    {nombre:'Kram',persona:'PR000308',funcion:['Actor'],principal:true},
+    {nombre:'Phupha',persona:'PR000471',funcion:['Actor'],principal:true},
+    {nombre:'Wayu',persona:'PR000472',funcion:['Actor'],principal:false},
+    {nombre:'Jao',persona:'PR000473',funcion:['Actor'],principal:false},
+    {nombre:'Dueandao',persona:'PR000474',funcion:['Actriz'],principal:false},
+    {nombre:'Phinfang',persona:'PR000475',funcion:['Actriz'],principal:false},
+    {nombre:'Run',persona:'PR000476',funcion:['Actriz'],principal:false},
+    {nombre:'Ohm',persona:'PR000477',funcion:['Actor'],principal:false},
+    {nombre:'Por',persona:'PR000478',funcion:['Actor'],principal:false},
+    {nombre:'Piak',persona:'PR000479',funcion:['Actor'],principal:false},
+    {nombre:'Dilok',persona:'PR000480',funcion:['Actor'],principal:false},
+    {nombre:'Satreekit',persona:'PR000481',funcion:['Actriz'],principal:false},
+    {nombre:'Prem',persona:'PR000482',funcion:['Actor'],principal:false},
+    {nombre:'Young Phupha',persona:'PR000483',funcion:['Actor'],principal:false},
+    {nombre:'Buai',persona:'PR000484',funcion:['Actor'],principal:false},
+    {nombre:'Chat',persona:'PR000485',funcion:['Actor'],principal:false},
+    {nombre:'Big Boss',persona:'PR000486',funcion:['Actriz'],principal:false},
+    {persona:'PR000493',funcion:['Director']},
+    {persona:'PR000494',funcion:['Director']},
+    {persona:'PR000015',funcion:['Guionista']}
+],
+ships:[
+    {ship:'SH000054',personajes:['Tai','Kram']},
+    {ship:'SH000075',personajes:['Wayu','Jao']}
+],
+sinopsis:'Kram pierde al hombre que ama, Phupha, en circunstancias trágicas y termina llegando a un mundo paralelo en el que Phupha sigue vivo y él mismo murió años atrás. Allí conoce a Tai, el hombre que fue su pareja en esa realidad, y ambos quedan unidos por una historia de amor que atraviesa dos mundos.',
+multimedia:{
+    portada:['https://img.youtube.com/vi/hDbDrL4kPRs/maxresdefault.jpg'],
+    trailer:[        'https://www.youtube.com/watch?v=hDbDrL4kPRs'    ],
+    teaser:[        'https://www.youtube.com/watch?v=V1hubIDj9bc'    ],
+    pilot:[        'https://www.youtube.com/watch?v=EfxZ7QLQYxk'    ],
+    ost:[        'https://www.youtube.com/watch?v=qMKai9fAC-o'    ]
+},
+entidades:[
+    {codigo:'EN000046',funcion:['Productora']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 
-
+	/* ==========================================   Your Third — DR000045   ========================================== */
+{
+codigo:'DR000045',
+titulo:'Your Third',
+tituloOriginal:'ที่สามของเธอ',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:{
+    codigo:'',
+    orden:0
+},
+universo:'',
+serie:'SR000045',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:50,
+estado:'En emisión',
+estreno:'2026-07-26',
+finalizacion:'',
+generos:['Romance','Drama','Comedia'],
+tags:['BL'],
+personas:[
+    {nombre:'Sam',persona:'PR000309',funcion:['Actor'],principal:true},
+    {nombre:'Jam',persona:'PR000308',funcion:['Actor'],principal:true},
+    {nombre:'Song',persona:'PR000450',funcion:['Actor'],principal:false},
+    {nombre:'Sib',persona:'PR000487',funcion:['Actor'],principal:false},
+    {nombre:'Thee',persona:'PR000434',funcion:['Actor'],principal:false},
+    {nombre:'Decha',persona:'PR000488',funcion:['Actor'],principal:false},
+    {nombre:'Pimai',persona:'PR000054',funcion:['Actor'],principal:false},
+    {nombre:'Lantao',persona:'PR000445',funcion:['Actriz'],principal:false},
+    {nombre:'Ning',persona:'PR000489',funcion:['Actor'],principal:false},
+    {nombre:'Nueng',persona:'PR000490',funcion:['Actriz'],principal:false},
+    {nombre:'Wasin',persona:'PR000491',funcion:['Actor'],principal:false},
+    {persona:'PR000492',funcion:['Director']}
+],
+ships:[
+    {ship:'SH000054',personajes:['Sam','Jam']},
+    {ship:'SH000076',personajes:['Sib','Pimai']}
+],
+sinopsis:'Sam ha guardado durante años sus sentimientos por Pimai, pero cuando descubre que ella se ha convertido en la pareja de su hermano mayor, Sib, decide alejarse de su familia. Sib encarga a Jam que encuentre a Sam y consiga que regrese. Lo que comienza como una misión de trabajo acaba acercando a Jam y Sam mientras ambos afrontan sus sentimientos y las heridas del pasado.',
+multimedia:{
+    portada:['https://img.youtube.com/vi/GweuZgo2gOU/maxresdefault.jpg'],
+    trailer:[        'https://www.youtube.com/watch?v=GweuZgo2gOU'    ],
+    teaser:[        'https://www.youtube.com/watch?v=GO4a4PWVSfg'    ],
+    pilot:[        'https://www.youtube.com/watch?v=5KHgFEiPD4g'    ],
+    ost:[        'https://www.youtube.com/watch?v=7EaocGI6tSw'    ]
+},
+entidades:[
+    {codigo:'EN000043',funcion:['Productora']},
+    {codigo:'EN000047',funcion:['Productora']},
+    {codigo:'EN000048',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 
 ];
