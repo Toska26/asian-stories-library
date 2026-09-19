@@ -2145,6 +2145,193 @@ const DRAMAS = [
     especiales: [],
     activo: true
 },
+	/* ========================================== The Invisible Dragon ===================================================== */
+
+	{
+codigo: 'DR000037',
+titulo: 'The Invisible Dragon',
+tituloOriginal: 'เคียงมังกร',
+alias: [],
+tipo: 'Drama',
+anio: 2026,
+pais: 'TH',
+idioma: 'th',
+universo: '',
+franquicia: { codigo: '', orden: 0 },
+temporadas: 1,
+temporada: 1,
+episodios: null,
+duracion: null,
+estado: 'Anunciado',
+estreno: '',
+finalizacion: '',
+generos: ['Romance', 'Drama'],
+tags: ['BL'],
+personas: [
+{ nombre: 'Earn', persona: 'PR000388', funcion: ['Actor'], principal: true },
+{ nombre: 'Khun', persona: 'PR000017', funcion: ['Actor'], principal: true },
+{ nombre: 'Yok', persona: 'PR000389', funcion: ['Actor'], principal: false },
+{ nombre: 'Leng', persona: 'PR000391', funcion: ['Actor'], principal: false },
+{ nombre: 'Khimhan', persona: 'PR000390', funcion: ['Actor'], principal: false },
+{ persona: 'PR000392', funcion: ['Director'] }
+],
+ships: [
+{ ship: 'SH000068', personajes: ['Earn', 'Khun'] }
+],
+sinopsis: 'Khun aspira a convertirse en la cabeza del león para el Festival del Dragón y se interesa por Earn. Earn, que fue adoptado y no posee sangre de dragón, está más preocupado por conseguir convocar al dragón. Mientras ambos entrenan y se acercan, Leng se convierte en un obstáculo para su relación.',
+multimedia: {
+portada: [
+'https://m.media-amazon.com/images/M/MV5BZDk3NWFjNWYtOGNkMy00OGI3LTk5MzQtNTFhOGUwYWU2NDY0XkEyXkFqcGc%40.*V1*.jpg'
+],
+trailer: [],
+teaser: [],
+pilot: [
+'https://www.youtube.com/watch?v=vM6E73hy9-8'
+],
+ost: []
+},
+entidades: [
+{ codigo: 'EN000007', funcion: ['Productora'] },  // The One Enterprise
+{ codigo: 'EN000004', funcion: ['Productora'] },  // GMMTV
+{ codigo: 'EN000042', funcion: ['Productora'] }   // Maker-Y
+],
+especiales: [],
+activo: true
+},
+	/* ========================================== Khemjira ===================================================== */
+	{
+codigo: 'DR000038',
+titulo: 'Khemjira',
+tituloOriginal: 'เขมจิราต้องรอด',
+alias: ['Khemjira Will Survive'],
+tipo: 'Drama',
+anio: 2025,
+pais: 'TH',
+idioma: 'th',
+universo: '',
+franquicia: { codigo: 'FR000010', orden: 1 },
+temporadas: 1,
+temporada: 1,
+episodios: 12,
+duracion: null,
+estado: 'Finalizado',
+estreno: '2025-08-09',
+finalizacion: '2025-10-25',
+generos: ['Romance', 'Drama', 'Sobrenatural', 'Terror'],
+tags: ['BL'],
+personas: [
+{ nombre: 'Khemjira Chandrapisut (Khem)', persona: 'PR000393', funcion: ['Actor'], principal: true },
+{ nombre: 'Khemjira (joven)', persona: 'PR000424', funcion: ['Actor'], principal: true },
+{ nombre: 'Khemmika', persona: 'PR000035', funcion: ['Actor'], principal: true },
+{ nombre: 'Pharan Rueangdet / Phawat / Phuchagin', persona: 'PR000394', funcion: ['Actor'], principal: true },
+{ nombre: 'Pharan (14 años)', persona: 'PR000408', funcion: ['Actor'], principal: true },
+{ nombre: 'Ramphueng', persona: 'PR000397', funcion: ['Actor'], principal: true },
+{ nombre: 'Chanwit Charoenkiatpricha (Chan)', persona: 'PR000395', funcion: ['Actor'], principal: true },
+{ nombre: 'Chayada', persona: 'PR000402', funcion: ['Actor'], principal: true },
+{ nombre: 'Jettana Nakarnkul (Jet)', persona: 'PR000396', funcion: ['Actor'], principal: true },
+{ nombre: 'Jintana', persona: 'PR000401', funcion: ['Actor'], principal: true },
+
+```
+    { nombre: 'Chayos', persona: 'PR000410', funcion: ['Actor'], principal: false },
+    { nombre: 'Thong / Suea', persona: 'PR000399', funcion: ['Actor'], principal: false },
+    { nombre: 'Ek / Singha', persona: 'PR000398', funcion: ['Actor'], principal: false },
+    { nombre: 'Khaekhai / Kakanang / Khwannari', persona: 'PR000403', funcion: ['Actor'], principal: false },
+    { nombre: 'Phrima', persona: 'PR000407', funcion: ['Actor'], principal: false },
+    { nombre: 'Phakhaphong (Phong)', persona: 'PR000011', funcion: ['Actor'], principal: false },
+    { nombre: 'Jane', persona: 'PR000411', funcion: ['Actor'], principal: false },
+    { nombre: 'Kachen Erdoğan', persona: 'PR000413', funcion: ['Actor'], principal: false },
+
+    { persona: 'PR000416', funcion: ['Director'] },
+    { persona: 'PR000417', funcion: ['Director'] },
+    { persona: 'PR000418', funcion: ['Director'] },
+    { persona: 'PR000419', funcion: ['Guionista'] },
+    { persona: 'PR000420', funcion: ['Guionista'] }
+],
+ships: [
+    { ship: 'SH000069', personajes: ['Pharan', 'Khemjira'] },
+    { ship: 'SH000070', personajes: ['Chan', 'Jet'] }
+],
+sinopsis: 'Khemjira nace en una familia marcada por una maldición que condena a los hombres de la familia a morir jóvenes. Su madre le da un nombre femenino para intentar protegerlo. Al acercarse a la edad en la que la maldición puede cumplirse, Khem se ve obligado a enfrentarse a fenómenos sobrenaturales y busca ayuda de Pharan, un poderoso maestro de magia ancestral.',
+multimedia: {
+    portada: [
+        'https://m.media-amazon.com/images/M/MV5BMzZkZGVhZjAtMmYyZS00MGYzLWIyOTktNjJhYTAyMTVhMThhXkEyXkFqcGc%40._V1_.jpg'
+    ],
+    trailer: [
+        'https://www.youtube.com/watch?v=PV7rg5Pl-7Q'
+    ],
+    teaser: [],
+    pilot: [],
+    ost: []
+},
+entidades: [
+    { codigo: 'EN000043', funcion: ['Productora'] },  // Mandee Work
+    { codigo: 'EN000014', funcion: ['Emisora'] },     // One 31
+    { codigo: 'EN000024', funcion: ['Plataforma'] }   // iQIYI
+],
+especiales: [],
+activo: true
+
+},
+
+	/* ========================================== Khemjira Forever ===================================================== */
+{
+codigo: 'DR000039',
+titulo: 'Khemjira Forever',
+tituloOriginal: 'เขมจิราต้องรอดตลอดกาล',
+alias: [
+'Khemjira Forever The Series',
+'Khemjira Must Survive Forever',
+'Khemjira Special +1'
+],
+tipo: 'Drama',
+anio: 2026,
+pais: 'TH',
+idioma: 'th',
+universo: '',
+franquicia: { codigo: 'FR000010', orden: 2 },
+temporadas: 1,
+temporada: 1,
+episodios: 3,
+duracion: null,
+estado: 'Anunciado',
+estreno: '',
+finalizacion: '',
+generos: ['Romance', 'Drama', 'Sobrenatural'],
+tags: ['BL'],
+personas: [
+{ nombre: 'Khemjira Chandrapisut (Khem)', persona: 'PR000393', funcion: ['Actor'], principal: true },
+{ nombre: 'Pharan Rueangdet', persona: 'PR000394', funcion: ['Actor'], principal: true },
+{ nombre: 'Chanwit Charoenkiatpricha (Chan)', persona: 'PR000395', funcion: ['Actor'], principal: true },
+{ nombre: 'Jettana Nakarnkul (Jet)', persona: 'PR000396', funcion: ['Actor'], principal: true },
+
+```
+    { persona: 'PR000416', funcion: ['Director'] },
+    { persona: 'PR000417', funcion: ['Director'] },
+    { persona: 'PR000418', funcion: ['Director'] }
+],
+ships: [
+    { ship: 'SH000069', personajes: ['Pharan', 'Khemjira'] },
+    { ship: 'SH000070', personajes: ['Chan', 'Jet'] }
+],
+sinopsis: '',
+multimedia: {
+    portada: [
+        'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg'
+    ],
+    trailer: [],
+    teaser: [],
+    pilot: [
+        'https://www.youtube.com/watch?v=XAfGM3EbAjE'
+    ],
+    ost: []
+},
+entidades: [
+    { codigo: 'EN000043', funcion: ['Productora'] }   // Mandee Work
+],
+especiales: [],
+activo: true
+}
+
 
 
 ];
