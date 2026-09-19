@@ -2467,7 +2467,9 @@ ships:[
 ],
 sinopsis:'Lian y Kuea continúan su relación mientras afrontan los preparativos de su boda y las decisiones que deben tomar sobre su futuro juntos. Kuea también debe decidir qué camino seguir entre su vida junto a Lian y su deseo de desarrollar su carrera como artista.',
 multimedia:{
-    portada:['https://img.youtube.com/vi/BPe5h1hwD04/maxresdefault.jpg'],
+    portada:['https://m.media-amazon.com/images/M/MV5BYzRlNDE1YjAtMmNmZi00YjcwLTg1Y2EtOTQyYTg5NTc2MGJkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg',
+			 'https://www.ethaicd.com/img/93437.jpg',
+			 'https://img.youtube.com/vi/BPe5h1hwD04/maxresdefault.jpg'],
     trailer:[
         'https://www.youtube.com/watch?v=BPe5h1hwD04'
     ],
@@ -2890,7 +2892,10 @@ ships:[
 sinopsis:'Eung, herido después de varias decepciones amorosas, ha dejado de creer que encontrará el amor verdadero. Después de pedir en un templo una última oportunidad para enamorarse, conoce a Intha, el confiado propietario del bar Cherm Chey. Intha comienza a acercarse a él sin ocultar sus intenciones, mientras Eung intenta protegerse de volver a sufrir. Al trabajar y convivir alrededor del bar, ambos van estrechando su relación hasta convertirse poco a poco en la persona que cada uno quiere proteger.',
 
 multimedia:{
-portada:['https://img.youtube.com/vi/N124kAywrmE/maxresdefault.jpg'],
+portada:['https://blglflix.com/wp-content/uploads/2026/06/chermchey-683x1024.jpg',
+		 'https://image.tmdb.org/t/p/original/sbenI8G0SYE6zH8jFlRsVeLubFK.jpg',
+		 'https://pbs.twimg.com/media/G6tlRTwa0AMjto8.jpg',
+		 'https://img.youtube.com/vi/N124kAywrmE/maxresdefault.jpg'],
 trailer:['https://www.youtube.com/watch?v=N124kAywrmE'],
 teaser:['https://www.youtube.com/watch?v=SwFiOY_zD-0'],
 pilot:[],
