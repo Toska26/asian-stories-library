@@ -2252,7 +2252,8 @@ ships: [
 ],
 sinopsis: 'Khemjira nace en una familia marcada por una maldición que condena a los hombres de la familia a morir jóvenes. Su madre le da un nombre femenino para intentar protegerlo. Al acercarse a la edad en la que la maldición puede cumplirse, Khem se ve obligado a enfrentarse a fenómenos sobrenaturales y busca ayuda de Pharan, un poderoso maestro de magia ancestral.',
 multimedia: {
-    portada: [
+    portada: ['https://bldramas.com/wp-content/uploads/2026/06/Khemjira-Special-Episode-2.jpg',
+			  'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg',
         'https://m.media-amazon.com/images/M/MV5BMzZkZGVhZjAtMmYyZS00MGYzLWIyOTktNjJhYTAyMTVhMThhXkEyXkFqcGc%40._V1_.jpg'
     ],
     trailer: [
@@ -2536,14 +2537,10 @@ ships:[
 ],
 sinopsis:'Khondiao está comprometido con Yi, pero siente que su relación se ha enfriado y decide alejarse. Cuando Yi descubre que puede perderlo, intenta recuperar su confianza y demostrarle lo que realmente siente.',
 multimedia:{
-    portada:['https://img.youtube.com/vi/AZOd8vxG95k/maxresdefault.jpg'],
-    trailer:[
-        'https://www.youtube.com/watch?v=AZOd8vxG95k'
-    ],
+    portada:['https://image.tmdb.org/t/p/original/20c4ZGTF8nL3JmxyCASW8W5EgvG.jpg','https://image.springnews.co.th/uploads/images/contents/w1024/2023/06/xL0VtIr08Chw1ybn0Gie.webp?x-image-process=style%2Flg-webp','https://img.youtube.com/vi/AZOd8vxG95k/maxresdefault.jpg'],
+    trailer:[        'https://www.youtube.com/watch?v=AZOd8vxG95k'    ],
     teaser:[],
-    pilot:[
-        'https://www.youtube.com/watch?v=M_AJHnQDsGI'
-    ],
+    pilot:[        'https://www.youtube.com/watch?v=M_AJHnQDsGI'    ],
     ost:[
         'https://www.youtube.com/watch?v=',
         'https://www.youtube.com/watch?v=',
@@ -2622,7 +2619,7 @@ ships:[
 ],
 sinopsis:'Khanin, heredero de un reino ficticio, se ve obligado a regresar a su país y asumir las responsabilidades de su familia. Charan, su guardaespaldas y protector desde hace años, debe mantenerlo a salvo mientras ambos afrontan sus sentimientos y las intrigas relacionadas con la sucesión.',
 multimedia:{
-    portada:['https://img.youtube.com/vi/xKAOhZyvcAU/maxresdefault.jpg'],
+    portada:['https://i.pinimg.com/originals/1d/1e/85/1d1e8514a9ad52ac122744659579d581.jpg','https://kpop.asiachan.com/img/445419','https://img.youtube.com/vi/xKAOhZyvcAU/maxresdefault.jpg'],
     trailer:[
         'https://www.youtube.com/watch?v=xKAOhZyvcAU'
     ],
@@ -2695,7 +2692,7 @@ ships:[
 ],
 sinopsis:'Kram pierde al hombre que ama, Phupha, en circunstancias trágicas y termina llegando a un mundo paralelo en el que Phupha sigue vivo y él mismo murió años atrás. Allí conoce a Tai, el hombre que fue su pareja en esa realidad, y ambos quedan unidos por una historia de amor que atraviesa dos mundos.',
 multimedia:{
-    portada:['https://img.youtube.com/vi/hDbDrL4kPRs/maxresdefault.jpg'],
+    portada:['https://phoenixreborn.altervista.org/wp-content/uploads/2024/03/2wo4eO_4f.jpg','https://media.senscritique.com/media/000022194397/0/two_worlds.jpg','https://img.youtube.com/vi/hDbDrL4kPRs/maxresdefault.jpg'],
     trailer:[        'https://www.youtube.com/watch?v=hDbDrL4kPRs'    ],
     teaser:[        'https://www.youtube.com/watch?v=V1hubIDj9bc'    ],
     pilot:[        'https://www.youtube.com/watch?v=EfxZ7QLQYxk'    ],
@@ -2826,7 +2823,7 @@ ships:[
 sinopsis:'Jade está acostumbrado a ocupar siempre el papel de intermediario y a pasar desapercibido. Cuando Mai, un nuevo becario de la empresa, empieza a mostrar interés por él, Jade cree que está interesado en otra persona y trata de convertirse en intermediario. Sin embargo, Mai está interesado en Jade y poco a poco consigue que Jade se enfrente a sus propios sentimientos.',
 
 multimedia:{
-portada:['https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg'],
+portada:['https://image.tmdb.org/t/p/original/xkonMwqxR6Tb7LgqqUgrtn8yd87.jpg','https://bingebase.com/tv/the-middleman-s-love-2023/season/1','https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg'],
 trailer:['https://www.youtube.com/watch?v=MwUCV0ybEK4'],
 teaser:[],
 pilot:[],
