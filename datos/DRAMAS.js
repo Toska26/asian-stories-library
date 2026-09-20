@@ -2252,13 +2252,8 @@ ships: [
 ],
 sinopsis: 'Khemjira nace en una familia marcada por una maldición que condena a los hombres de la familia a morir jóvenes. Su madre le da un nombre femenino para intentar protegerlo. Al acercarse a la edad en la que la maldición puede cumplirse, Khem se ve obligado a enfrentarse a fenómenos sobrenaturales y busca ayuda de Pharan, un poderoso maestro de magia ancestral.',
 multimedia: {
-    portada: ['https://bldramas.com/wp-content/uploads/2026/06/Khemjira-Special-Episode-2.jpg',
-			  'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg',
-        'https://m.media-amazon.com/images/M/MV5BMzZkZGVhZjAtMmYyZS00MGYzLWIyOTktNjJhYTAyMTVhMThhXkEyXkFqcGc%40._V1_.jpg'
-    ],
-    trailer: [
-        'https://www.youtube.com/watch?v=PV7rg5Pl-7Q'
-    ],
+    portada: ['https://m.media-amazon.com/images/M/MV5BMzZkZGVhZjAtMmYyZS00MGYzLWIyOTktNjJhYTAyMTVhMThhXkEyXkFqcGc%40._V1_.jpg'  ],
+    trailer: [        'https://www.youtube.com/watch?v=PV7rg5Pl-7Q'    ],
     teaser: [],
     pilot: [],
     ost: []
@@ -2314,7 +2309,7 @@ ships: [
 ],
 sinopsis: '',
 multimedia: {
-    portada: [
+    portada: [''https://media.fstatic.com/w2E7ZMm91fHyYuXCA2ucekVrNLc%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2025/11/l0oqJe_4f.jpg'',
         'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg'
     ],
     trailer: [],
@@ -2751,7 +2746,7 @@ ships:[
 ],
 sinopsis:'Sam ha guardado durante años sus sentimientos por Pimai, pero cuando descubre que ella se ha convertido en la pareja de su hermano mayor, Sib, decide alejarse de su familia. Sib encarga a Jam que encuentre a Sam y consiga que regrese. Lo que comienza como una misión de trabajo acaba acercando a Jam y Sam mientras ambos afrontan sus sentimientos y las heridas del pasado.',
 multimedia:{
-    portada:['https://img.youtube.com/vi/GweuZgo2gOU/maxresdefault.jpg'],
+    portada:['https://stat.ameba.jp/user_images/20250228/12/sana-sanyaa/49/5f/j/o3281409615549223876.jpg','https://pbs.twimg.com/media/HAcIxdZaEAA2lyg.jpg','https://img.youtube.com/vi/GweuZgo2gOU/maxresdefault.jpg'],
     trailer:[        'https://www.youtube.com/watch?v=GweuZgo2gOU'    ],
     teaser:[        'https://www.youtube.com/watch?v=GO4a4PWVSfg'    ],
     pilot:[        'https://www.youtube.com/watch?v=5KHgFEiPD4g'    ],
@@ -2823,7 +2818,7 @@ ships:[
 sinopsis:'Jade está acostumbrado a ocupar siempre el papel de intermediario y a pasar desapercibido. Cuando Mai, un nuevo becario de la empresa, empieza a mostrar interés por él, Jade cree que está interesado en otra persona y trata de convertirse en intermediario. Sin embargo, Mai está interesado en Jade y poco a poco consigue que Jade se enfrente a sus propios sentimientos.',
 
 multimedia:{
-portada:['https://image.tmdb.org/t/p/original/xkonMwqxR6Tb7LgqqUgrtn8yd87.jpg','https://bingebase.com/tv/the-middleman-s-love-2023/season/1','https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg'],
+portada:['https://image.tmdb.org/t/p/original/xkonMwqxR6Tb7LgqqUgrtn8yd87.jpg','https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg'],
 trailer:['https://www.youtube.com/watch?v=MwUCV0ybEK4'],
 teaser:[],
 pilot:[],
