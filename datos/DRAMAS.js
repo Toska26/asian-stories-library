@@ -1371,7 +1371,7 @@ const DRAMAS = [
     ],
     sinopsis: 'Tharn y Type son compañeros de habitación en la universidad, pero su convivencia comienza de forma complicada cuando Type descubre que Tharn es gay. Debido a un trauma de la infancia, Type siente un profundo rechazo hacia los hombres homosexuales y decide que Tharn debe abandonar la habitación. Sin embargo, Tharn se niega a marcharse y, a medida que ambos se conocen mejor, la hostilidad inicial comienza a transformarse en sentimientos que ninguno de los dos esperaba. Mientras su relación evoluciona, también deberán enfrentarse a los conflictos de sus amigos, sus familias y su propio pasado.',
     multimedia: {
-        portada: ['https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2019_poster.jpg'],
+        portada: ['https://i.pinimg.com/1200x/54/0b/19/540b190988e1f419149bbcadb0ad77b5.jpg','https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2019_poster.jpg'],
         trailer: [],
         teaser: ['https://www.youtube.com/watch?v=mHnEfVjdtRs'],
         pilot: [],
@@ -1443,7 +1443,7 @@ const DRAMAS = [
     ],
     sinopsis: 'Han pasado siete años desde que Tharn y Type comenzaron su relación. Ahora ambos han terminado sus estudios y se enfrentan a una nueva etapa de su vida adulta. Tharn trabaja en el mundo de la música mientras Type trabaja en un hospital y ambos deben compaginar sus responsabilidades profesionales con su relación. La idea del matrimonio hace que surjan nuevos conflictos y dudas sobre su futuro juntos. Al mismo tiempo, sus amigos continúan con sus propias historias: Leo y Fiat afrontan los problemas de su relación, mientras Champ y el doctor Khunpol descubren que sus sentimientos van más allá de la amistad. La llegada de Cirrus y Phugun añade otra historia de amor al entorno de Tharn y Type.',
     multimedia: {
-        portada: ['https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2021_poster-crop.jpg'],
+        portada: ['https://i.pinimg.com/1200x/eb/3e/28/eb3e285c3544c0fa5210b588cbe0dc1a.jpg','https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2021_poster-crop.jpg'],
         trailer: ['https://www.youtube.com/watch?v=SwtJr1xrs5c'],
         teaser: ['https://www.youtube.com/watch?v=i_-wUgi7laE'],
         pilot: [],
@@ -1682,7 +1682,7 @@ const DRAMAS = [
   ],
   sinopsis: 'Leo y Fiat llevan tiempo juntos y han conseguido mantener su relación lejos de las miradas de quienes los rodean. Sin embargo, mantener su amor en secreto empieza a resultar cada vez más difícil, especialmente cuando Fiat teme que su madre descubra la verdad sobre su relación. La situación se complica todavía más cuando Pobphan, un estudiante al que Fiat ayuda con sus estudios, comienza a acercarse demasiado a él y despierta los celos y las inseguridades de Leo. Al mismo tiempo, Leon, el hermano de Leo, se acerca a Pobphan y ambos comienzan a descubrir sentimientos que van más allá de su amistad. Mientras ambas historias avanzan, Leo y Fiat tendrán que enfrentarse a los secretos, los celos y el miedo a perderse, mientras Leon y Pobphan intentan descubrir qué significa realmente estar juntos. Las dos parejas deberán aprender a confiar en sus sentimientos y aceptar que el amor también implica afrontar los problemas y las consecuencias de las decisiones que toman.',
   multimedia: {
-        portada: ['https://www.memindy.com/wp-content/uploads/2021/08/don-t-say-no-expand-600x800.jpg'],
+        portada: ['https://i.pinimg.com/736x/3b/10/ee/3b10ee5a240b5f418012a8b538e68197.jpg','https://www.memindy.com/wp-content/uploads/2021/08/don-t-say-no-expand-600x800.jpg'],
         trailer: ['https://www.youtube.com/watch?v=6viQRyMgfKI'],
         teaser: [],
         pilot: [],
@@ -1976,7 +1976,7 @@ const DRAMAS = [
     ],
     sinopsis: 'Phugun es un chico ordinario que nunca ha tenido una relación amorosa ni cree en el amor verdadero. Todo cambia cuando Cirrus, un apuesto y misterioso hombre, aparece en su vida afirmando venir de un mundo paralelo donde ambos son pareja. Aunque Phugun al principio se muestra escéptico, la devoción y protección incondicional de Cirrus comienzan a derribar sus barreras, obligándolo a cuestionar sus sentimientos y la realidad de los universos paralelos.',
         multimedia: {
-        portada: [
+        portada: ['https://i.pinimg.com/736x/6a/01/04/6a010461b1df7475f5ba59c10ee18add.jpg',
             'https://www.memindy.com/wp-content/uploads/2025/03/LINE_ALBUM_2024.12.13_241215_12-819x1024.jpg'
         ],
         trailer: ['https://www.youtube.com/watch?v=Iw5dFkxvtMU'],
