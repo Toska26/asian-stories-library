@@ -2309,7 +2309,7 @@ ships: [
 ],
 sinopsis: '',
 multimedia: {
-    portada: ['https://es.pinterest.com/pin/651403533651560746/',
+    portada: ['https://i.pinimg.com/736x/45/5c/67/455c673c153ce9821787d978d4d8073c.jpg',
         'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg'
     ],
     trailer: [],
