@@ -2309,7 +2309,7 @@ ships: [
 ],
 sinopsis: '',
 multimedia: {
-    portada: ['https://media.fstatic.com/w2E7ZMm91fHyYuXCA2ucekVrNLc%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2025/11/l0oqJe_4f.jpg',
+    portada: ['https://es.pinterest.com/pin/651403533651560746/',
         'https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg'
     ],
     trailer: [],
