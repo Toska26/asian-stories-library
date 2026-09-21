@@ -3115,4 +3115,214 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+/* ==========================================   Vice Versa — DR000052   ========================================== */
+
+{
+codigo:'DR000052',
+titulo:'Vice Versa',
+tituloOriginal:'รักสลับโลก',
+alias:['Vice Versa: The Series','Rak Salap Lok'],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000052',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:55,
+estado:'Finalizado',
+estreno:'2022-07-16',
+finalizacion:'2022-10-01',
+generos:['Romance','Drama','Fantasía','Juvenil'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Puen',persona:'PR000520',funcion:['Actor'],principal:true},
+    {nombre:'Talay',persona:'PR000521',funcion:['Actor'],principal:true},
+    {nombre:'Tess',persona:'PR000546',funcion:['Actor'],principal:false},
+    {nombre:'Tun',persona:'PR000547',funcion:['Actor'],principal:false},
+    {nombre:'Au',persona:'PR000533',funcion:['Actor'],principal:false},
+    {nombre:'Fuse',persona:'PR000534',funcion:['Actor'],principal:false}
+],
+
+ships:[
+    {ship:'SH000083',personajes:['Puen','Talay']},
+    {ship:'SH000100',personajes:['Tess','Tun']},
+    {ship:'SH000092',personajes:['Au','Fuse']}
+],
+
+sinopsis:'Talay despierta en el cuerpo de otra persona después de sufrir un accidente y descubre que se encuentra en un universo paralelo. Allí conoce a Puen, un famoso actor que también ha llegado a ese mundo después de un accidente y ahora ocupa el cuerpo de otra persona. Ambos deben adaptarse a su nueva realidad mientras intentan descubrir cómo regresar a su universo y cumplir la misión que tienen por delante.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=RbpBsChDTnk'],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   Last Twilight — DR000053   ========================================== */
+
+{
+codigo:'DR000053',		titulo:'Last Twilight',
+tituloOriginal:'ภาพนายไม่เคยลืม',
+alias:[],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000053',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:56,
+estado:'Finalizado',
+estreno:'2023-11-10',
+finalizacion:'2024-01-26',
+generos:['Romance','Drama'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Mhok',persona:'PR000520',funcion:['Actor'],principal:true},
+    {nombre:'Day',persona:'PR000521',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000083',personajes:['Mhok','Day']}
+],
+
+sinopsis:'Day, un joven jugador de bádminton con un futuro prometedor, está perdiendo la vista y se enfrenta a la posibilidad de quedarse completamente ciego. Mhok, un joven con dificultades económicas que necesita urgentemente dinero, acepta trabajar como su cuidador. Lo que comienza como un trabajo termina transformando la vida de ambos y creando un vínculo cada vez más profundo.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=CWO7ab2T10E'],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   My Magic Prophecy — DR000054   ========================================== */
+
+{
+codigo:'DR000054', titulo:'My Magic Prophecy',
+tituloOriginal:'ทำนายทายทัพ',
+alias:['Tham Nai Thai Thap'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000054',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:56,
+estado:'Finalizado',
+estreno:'2025-07-27',
+finalizacion:'2025-09-28',
+generos:['Romance','Drama','Comedia','Misterio'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Thapfah',persona:'PR000520',funcion:['Actor'],principal:true},
+    {nombre:'In',persona:'PR000521',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000083',personajes:['Thapfah','In']}
+],
+
+sinopsis:'In es un adivino especializado en las cartas del tarot que se ve obligado a realizar una lectura falsa para ayudar a una amiga. Allí conoce a Thapfah, un médico de cuidados intensivos que no cree en la adivinación. In le advierte que una serie de desgracias podrían poner su vida en peligro. Cuando los acontecimientos comienzan a suceder, Thapfah termina refugiándose junto a In en Mae Hong Son, donde ambos tendrán que enfrentarse a sus diferencias y al destino que parece unirlos.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=vowe0tx6BZg'],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=C6PLUuYbVS0'],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   I Will Always Save You — DR000055   ========================================== */
+
+{
+codigo:'DR000055',			titulo:'I Will Always Save You',
+tituloOriginal:'โปรดอยู่ในความคุ้มครองของป้องปืน',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000055',
+temporadas:1,
+temporada:1,
+episodios:0,
+duracion:0,
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Acción','Romance','Comedia'],
+tags:['BL'],
+
+personas:[
+    {nombre:'',persona:'PR000520',funcion:['Actor'],principal:true},
+    {nombre:'',persona:'PR000521',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000083',personajes:['','']}
+],
+
+sinopsis:'Una nueva serie de acción, romance y comedia protagonizada por Jimmy Jitaraphol Potiwihok y Sea Tawinan Anukoolprasert, anunciada por GMMTV para 2026.',
+
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=6oXwGSyvsxg'],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
 ];
