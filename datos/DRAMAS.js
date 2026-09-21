@@ -2956,4 +2956,159 @@ entidades:[],
 especiales:[],
 activo:true
 },
+
+/* ==========================================  I'm Tee, Me Too — DR000049 ========================================== */
+
+{
+codigo:'DR000049',titulo:"I'm Tee, Me Too",
+tituloOriginal:'คนละทีเดียวกัน',
+alias:['Kon La Tee Dieow Gun','Different People - I’m Tee, Me Too'],
+tipo:'Drama', 
+anio:2020,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:35,
+estado:'Finalizado',
+estreno:'2020-09-18',
+finalizacion:'2020-11-06',
+generos:['Comedia','Drama'],
+tags:[],
+
+personas:[
+    {nombre:'Watee',persona:'PR000162',funcion:['Actor'],principal:true},
+    {nombre:'Maitee',persona:'PR000163',funcion:['Actor'],principal:true},
+    {nombre:'Maytee',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'T-Rex',persona:'PR000513',funcion:['Actor'],principal:true},
+    {nombre:'Teedo',persona:'PR000292',funcion:['Actor'],principal:true},
+    {nombre:'Teedet',persona:'PR000164',funcion:['Actor'],principal:true}
+],
+
+ships:[],
+
+sinopsis:'Watee, un estudiante universitario huérfano, descubre que la casa que heredó de su madre está hipotecada y necesita encontrar una forma de conservarla. Para poder pagar la deuda, decide alquilar las habitaciones a cinco jóvenes que, casualmente, también tienen el apodo de Tee. Los seis tienen personalidades muy diferentes y deben aprender a convivir bajo el mismo techo, enfrentándose juntos a sus problemas, miedos y a las situaciones caóticas que surgen de compartir una casa.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=2xRF9eMlzTU'],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+/* ==========================================   The Ex-Morning — DR000050   ========================================== */
+
+{
+codigo:'DR000050',titulo:'The Ex-Morning',
+tituloOriginal:'เพราะแฟนเก่าเปลี่ยนแปลงบ่อย',
+alias:['Phro Faen Kao Plianplaeng Boi','Because Exes Change Frequently'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000050',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:55,
+estado:'Finalizado',
+estreno:'2025-05-22',
+finalizacion:'2025-07-24',
+generos:['Romance','Comedia','Drama'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Padtaphi',persona:'PR000162',funcion:['Actor'],principal:true},
+    {nombre:'Tamtawan',persona:'PR000163',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000029',personajes:['Padtaphi','Tamtawan']}
+],
+
+sinopsis:'Padtaphi, un reconocido periodista de televisión conocido como el “Príncipe del pronóstico”, ve su carrera caer en picado después de un incidente que provoca una fuerte reacción pública. Para recuperar su reputación, recibe la oportunidad de desarrollar un nuevo programa de noticias, pero debe trabajar con un nuevo productor. El problema es que ese productor es Tamtawan, su antiguo novio. Obligados a trabajar juntos de nuevo, ambos tendrán que enfrentarse a los problemas profesionales y, sobre todo, a los sentimientos que todavía permanecen entre ellos.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=jajW3bDRf3E'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=sZef3yFGU7o',
+        'https://www.youtube.com/watch?v=-4fLeu6THjo'
+    ]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+/* ==========================================   Write You Again — DR000051   ========================================== */
+
+{
+codigo:'DR000051',titulo:'Write You Again',
+tituloOriginal:'เขียนรักครั้งใหม่',
+alias:['Khian Rak Khrang Mai'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000051',
+temporadas:1,
+temporada:1,
+episodios:0,
+duracion:0,
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Romance','Drama'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Nine',persona:'PR000162',funcion:['Actor'],principal:true},
+    {nombre:'',persona:'PR000163',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000029',personajes:['Nine','']}
+],
+
+sinopsis:'Diez años después de sufrir un accidente que le hizo perder sus recuerdos, Nine decide regresar a la casa donde vivió durante su infancia con la esperanza de recuperar su pasado. Allí se reencuentra con una persona importante de su vida que conoce recuerdos que él ya no puede recordar y que está dispuesto a ayudarle a descubrir qué ocurrió.',
+
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=4-_CShCsPbI'],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
 ];
