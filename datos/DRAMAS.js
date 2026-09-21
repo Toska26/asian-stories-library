@@ -2989,7 +2989,11 @@ personas:[
     {nombre:'Teedet',persona:'PR000164',funcion:['Actor'],principal:true}
 ],
 
-ships:[],
+ships:[
+    {ship:'SH000029',personajes:['Watee','Maitee']},
+    {ship:'SH000078',personajes:['Maytee','T-Rex']},
+    {ship:'SH000043',personajes:['Teedo','Teedet']}
+],
 
 sinopsis:'Watee, un estudiante universitario huérfano, descubre que la casa que heredó de su madre está hipotecada y necesita encontrar una forma de conservarla. Para poder pagar la deuda, decide alquilar las habitaciones a cinco jóvenes que, casualmente, también tienen el apodo de Tee. Los seis tienen personalidades muy diferentes y deben aprender a convivir bajo el mismo techo, enfrentándose juntos a sus problemas, miedos y a las situaciones caóticas que surgen de compartir una casa.',
 
