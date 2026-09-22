@@ -3510,20 +3510,20 @@ estreno:'2022-12-02',
 finalizacion:'2023-02-24',
 generos:['BL','Romance','Comedia','Escolar','Juventud','Música'],
 tags:['BL'],
-
+	
 personas:[
-{nombre:'Gemini',persona:'PR000522',funcion:['Actor'],principal:true},
-{nombre:'Fourth',persona:'PR000523',funcion:['Actor'],principal:true},
-{nombre:'Winny',persona:'PR000524',funcion:['Actor'],principal:true},
-{nombre:'Satang',persona:'PR000525',funcion:['Actor'],principal:true},
-{nombre:'Mark',persona:'PR000532',funcion:['Actor'],principal:true},
-{nombre:'Ford',persona:'PR000550',funcion:['Actor'],principal:true}
+    {nombre:'Tinn',persona:'PR000522',funcion:['Actor'],principal:true},
+    {nombre:'Gun',persona:'PR000523',funcion:['Actor'],principal:true},
+    {nombre:'Win',persona:'PR000524',funcion:['Actor'],principal:true},
+    {nombre:'Sound',persona:'PR000525',funcion:['Actor'],principal:true},
+    {nombre:'Tiwson',persona:'PR000532',funcion:['Actor'],principal:true},
+    {nombre:'Por',persona:'PR000550',funcion:['Actor'],principal:true}
 ],
 
 ships:[
-{ship:'SH000084',personajes:['Tinn','Gun']},
-{ship:'SH000085',personajes:['Win','Sound']},
-{ship:'SH000104',personajes:['Tiwson','Por']}
+    {ship:'SH000084',personajes:['Tinn','Gun']},
+    {ship:'SH000085',personajes:['Win','Sound']},
+    {ship:'SH000104',personajes:['Tiwson','Por']}
 ],
 
 sinopsis:'Gun es el líder del club de música Chinzhilla y está decidido a salvarlo de su posible desaparición y conseguir participar en el concurso Hot Wave. Para ello necesita la ayuda de Tinn, el presidente estudiantil e hijo de la directora del instituto, que lleva tiempo enamorado de Gun en secreto. Lo que comienza como una petición de ayuda para salvar el club se convierte poco a poco en una historia de amistad, música y primer amor.',
@@ -3579,19 +3579,20 @@ generos:['BL','Romance','Drama','Slice of Life'],
 tags:['BL'],
 
 personas:[
-{nombre:'Earth',persona:'PR000198',funcion:['Actor'],principal:true},
-{nombre:'Mix',persona:'PR000514',funcion:['Actor'],principal:true},
-{nombre:'First',persona:'PR000388',funcion:['Actor'],principal:true},
-{nombre:'Khaotung',persona:'PR000017',funcion:['Actor'],principal:true},
-{nombre:'Gemini',persona:'PR000522',funcion:['Actor'],principal:true},
-{nombre:'Fourth',persona:'PR000523',funcion:['Actor'],principal:true}
+    {nombre:'Jim',persona:'PR000198',funcion:['Actor'],principal:true},
+    {nombre:'Wen',persona:'PR000514',funcion:['Actor'],principal:true},
+    {nombre:'Alan',persona:'PR000388',funcion:['Actor'],principal:true},
+    {nombre:'Gaipa',persona:'PR000017',funcion:['Actor'],principal:true},
+    {nombre:'Heart',persona:'PR000522',funcion:['Actor'],principal:true},
+    {nombre:'Li Ming',persona:'PR000523',funcion:['Actor'],principal:true}
 ],
 
 ships:[
-{ship:'SH000079',personajes:['Jim','Wen']},
-{ship:'SH000068',personajes:['Alan','Gaipa']},
-{ship:'SH000084',personajes:['Heart','Li Ming']}
+    {ship:'SH000079',personajes:['Jim','Wen']},
+    {ship:'SH000068',personajes:['Alan','Gaipa']},
+    {ship:'SH000084',personajes:['Heart','Li Ming']}
 ],
+
 
 sinopsis:'Jim, propietario de un pequeño restaurante de arroz con pollo, conoce una noche a Wen, un cliente que llega al local después de beber. Lo que debía ser un encuentro de una sola noche acaba dando paso a una relación que obliga a ambos a replantearse sus vidas. Paralelamente, Li Ming, el sobrino de Jim, comienza a acercarse a Heart, un compañero de clase con discapacidad auditiva, mientras las relaciones del entorno del restaurante se cruzan con problemas familiares, económicos y personales.',
 
@@ -3639,15 +3640,15 @@ generos:['BL','Romance','Comedia','Escolar','Juventud'],
 tags:['BL'],
 
 personas:[
-{nombre:'Gemini',persona:'PR000522',funcion:['Actor'],principal:true},
-{nombre:'Fourth',persona:'PR000523',funcion:['Actor'],principal:true},
-{nombre:'Chokun',persona:'PR000551',funcion:['Actor'],principal:true},
-{nombre:'Pahn',persona:'PR000552',funcion:['Actor'],principal:true}
+    {nombre:'Kongthap',persona:'PR000522',funcion:['Actor'],principal:true},
+    {nombre:'Atom',persona:'PR000523',funcion:['Actor'],principal:true},
+    {nombre:'Half',persona:'PR000551',funcion:['Actor'],principal:true},
+    {nombre:'Mudmee',persona:'PR000552',funcion:['Actor'],principal:true}
 ],
 
 ships:[
-{ship:'SH000084',personajes:['Kongthap','Atom']},
-{ship:'SH000105',personajes:['Half','Mudmee']}
+    {ship:'SH000084',personajes:['Kongthap','Atom']},
+    {ship:'SH000105',personajes:['Half','Mudmee']}
 ],
 
 sinopsis:'Atom, un estudiante de instituto enamorado de su compañera Mudmee, descubre por accidente que ella ha escrito el nombre de Kongthap, un popular compañero, en su goma de borrar. Al intentar proteger el secreto de Mudmee, Atom provoca un malentendido que hace que Kongthap crea que él está enamorado de él. A partir de ahí, la confusión inicial da paso a una historia de amistad, descubrimiento personal y primer amor.',
@@ -3700,12 +3701,12 @@ generos:['BL','Romance','Drama','Escolar','Juventud'],
 tags:['BL'],
 
 personas:[
-{nombre:'Gemini',persona:'PR000522',funcion:['Actor'],principal:true},
-{nombre:'Fourth',persona:'PR000523',funcion:['Actor'],principal:true}
+    {nombre:'Tanrak',persona:'PR000522',funcion:['Actor'],principal:true},
+    {nombre:'Barth',persona:'PR000523',funcion:['Actor'],principal:true}
 ],
 
 ships:[
-{ship:'SH000084',personajes:['Barth','Tanrak']}
+    {ship:'SH000084',personajes:['Barth','Tanrak']}
 ],
 
 sinopsis:'Tanrak es un joven profundamente religioso que estudia en un entorno cristiano y sueña con convertirse en sacerdote para reencontrarse algún día con sus padres en el cielo. Su vida cambia cuando llega Barth, un nuevo estudiante marcado por heridas personales y con una visión muy diferente de la fe. La relación entre ambos crece mientras Tanrak se enfrenta al conflicto entre sus creencias, las normas de su entorno y unos sentimientos que no puede ignorar.',
@@ -3762,10 +3763,10 @@ tags:[
     'Música'
 ],
 personas:[
-    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
-    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
-    {nombre:'Aun',persona:'PR000553',funcion:['Actor'],principal:true},
-    {nombre:'Ashi',persona:'PR000554',funcion:['Actor'],principal:true}
+    {nombre:'Kang',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Moo',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Potae',persona:'PR000553',funcion:['Actor'],principal:true},
+    {nombre:'Payos',persona:'PR000554',funcion:['Actor'],principal:true}
 ],
 ships:[
     {ship:'SH000086',personajes:['Kang','Moo']},
@@ -3830,10 +3831,10 @@ tags:[
     'Juventud'
 ],
 personas:[
-    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
-    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
-    {nombre:'Surf',persona:'PR000535',funcion:['Actor'],principal:true},
-    {nombre:'Java',persona:'PR000536',funcion:['Actor'],principal:true}
+    {nombre:'Jerome',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Jinn',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Farm',persona:'PR000535',funcion:['Actor'],principal:true},
+    {nombre:'Van',persona:'PR000536',funcion:['Actor'],principal:true}
 ],
 ships:[
     {ship:'SH000086',personajes:['Jerome','Jinn']},
@@ -3892,9 +3893,9 @@ tags:[
     'Juventud'
 ],
 personas:[
-    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
-    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
-    {nombre:'Ashi',persona:'PR000554',funcion:['Actor'],principal:true}
+    {nombre:'Cheewa',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Niran',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Pok',persona:'PR000554',funcion:['Actor'],principal:true}
 ],
 ships:[
     {ship:'SH000086',personajes:['Cheewa','Niran']}
