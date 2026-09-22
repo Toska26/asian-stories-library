@@ -3487,8 +3487,11 @@ entidades:[
 especiales:[],
 activo:true
 },
-especiales:[],/* ==========================================   My School President — DR000059   ========================================== */
+especiales:[],
+activo:true
+},
 
+/* ==========================================   My School President — DR000059   ========================================== */
 {
 codigo:'DR000059',
 titulo:'My School President',
@@ -3551,7 +3554,7 @@ entidades:[
 ],
 
 especiales:[],
-activo
+activo:true
 },
 
 /* ==========================================   Moonlight Chicken — DR000060   ========================================== */
@@ -3611,7 +3614,7 @@ entidades:[
 ],
 
 especiales:[],
-activo
+activo:true
 },
 
 /* ==========================================   My Love Mix-Up! — DR000061   ========================================== */
@@ -3672,7 +3675,7 @@ entidades:[
 ],
 
 especiales:[],
-activo
+activo:true
 },
 
 /* ==========================================   Ticket to Heaven — DR000062   ========================================== */
@@ -3728,7 +3731,7 @@ ost:[
 entidades:[
 {codigo:'EN000004',funcion:['Productora']}
 ],
-activo
+activo:true
 },
 
 ];
