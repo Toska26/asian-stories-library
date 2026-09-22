@@ -2998,7 +2998,7 @@ ships:[
 sinopsis:'Watee, un estudiante universitario huérfano, descubre que la casa que heredó de su madre está hipotecada y necesita encontrar una forma de conservarla. Para poder pagar la deuda, decide alquilar las habitaciones a cinco jóvenes que, casualmente, también tienen el apodo de Tee. Los seis tienen personalidades muy diferentes y deben aprender a convivir bajo el mismo techo, enfrentándose juntos a sus problemas, miedos y a las situaciones caóticas que surgen de compartir una casa.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/91/ad/6d/91ad6d0dc82e8c4ebf5ac1eceea2f565.jpg'],
     trailer:['https://www.youtube.com/watch?v=2xRF9eMlzTU'],
     teaser:[],
     pilot:[],
@@ -3048,7 +3048,7 @@ ships:[
 sinopsis:'Padtaphi, un reconocido periodista de televisión conocido como el “Príncipe del pronóstico”, ve su carrera caer en picado después de un incidente que provoca una fuerte reacción pública. Para recuperar su reputación, recibe la oportunidad de desarrollar un nuevo programa de noticias, pero debe trabajar con un nuevo productor. El problema es que ese productor es Tamtawan, su antiguo novio. Obligados a trabajar juntos de nuevo, ambos tendrán que enfrentarse a los problemas profesionales y, sobre todo, a los sentimientos que todavía permanecen entre ellos.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/36/8f/4f/368f4f69b37bdf7e204976f6bc78a372.jpg'],
     trailer:['https://www.youtube.com/watch?v=jajW3bDRf3E'],
     teaser:[],
     pilot:[],
@@ -3101,7 +3101,7 @@ ships:[
 sinopsis:'Diez años después de sufrir un accidente que le hizo perder sus recuerdos, Nine decide regresar a la casa donde vivió durante su infancia con la esperanza de recuperar su pasado. Allí se reencuentra con una persona importante de su vida que conoce recuerdos que él ya no puede recordar y que está dispuesto a ayudarle a descubrir qué ocurrió.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/65/fb/47/65fb47be56be0984b958ea27ab311ae2.jpg'],
     trailer:[],
     teaser:[],
     pilot:['https://www.youtube.com/watch?v=4-_CShCsPbI'],
@@ -3158,7 +3158,7 @@ ships:[
 sinopsis:'Talay despierta en el cuerpo de otra persona después de sufrir un accidente y descubre que se encuentra en un universo paralelo. Allí conoce a Puen, un famoso actor que también ha llegado a ese mundo después de un accidente y ahora ocupa el cuerpo de otra persona. Ambos deben adaptarse a su nueva realidad mientras intentan descubrir cómo regresar a su universo y cumplir la misión que tienen por delante.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/1200x/54/4d/6b/544d6bad216e1c99f4228c586ec9847e.jpg'],
     trailer:['https://www.youtube.com/watch?v=RbpBsChDTnk'],
     teaser:[],
     pilot:[],
@@ -3209,7 +3209,7 @@ ships:[
 sinopsis:'Day, un joven jugador de bádminton con un futuro prometedor, está perdiendo la vista y se enfrenta a la posibilidad de quedarse completamente ciego. Mhok, un joven con dificultades económicas que necesita urgentemente dinero, acepta trabajar como su cuidador. Lo que comienza como un trabajo termina transformando la vida de ambos y creando un vínculo cada vez más profundo.',
 
 multimedia:{
-    portada:[],
+portada:['https://i.pinimg.com/736x/71/e1/71/71e171a149c2493cbd88c717556088fa.jpg','https://i.pinimg.com/1200x/ac/9a/89/ac9a89e0fe08e485c74657983a0367f3.jpg','https://i.pinimg.com/1200x/9d/fd/8c/9dfd8c3c3d6908616df1e4ee6df9bf61.jpg','https://i.pinimg.com/736x/5c/be/24/5cbe2473f8b2e7dc84961443c030a2d0.jpg],
     trailer:['https://www.youtube.com/watch?v=CWO7ab2T10E'],
     teaser:[],
     pilot:[],
@@ -3260,7 +3260,7 @@ ships:[
 sinopsis:'In es un adivino especializado en las cartas del tarot que se ve obligado a realizar una lectura falsa para ayudar a una amiga. Allí conoce a Thapfah, un médico de cuidados intensivos que no cree en la adivinación. In le advierte que una serie de desgracias podrían poner su vida en peligro. Cuando los acontecimientos comienzan a suceder, Thapfah termina refugiándose junto a In en Mae Hong Son, donde ambos tendrán que enfrentarse a sus diferencias y al destino que parece unirlos.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/d8/7c/5a/d87c5ac994dd9df2f16376ca2f57cd20.jpg'],
     trailer:['https://www.youtube.com/watch?v=vowe0tx6BZg'],
     teaser:[],
     pilot:['https://www.youtube.com/watch?v=C6PLUuYbVS0'],
@@ -3311,7 +3311,7 @@ ships:[
 sinopsis:'Una nueva serie de acción, romance y comedia protagonizada por Jimmy Jitaraphol Potiwihok y Sea Tawinan Anukoolprasert, anunciada por GMMTV para 2026.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/57/fe/0f/57fe0f2349332ca9630f0cff8b955d76.jpg'],
     trailer:[],
     teaser:[],
     pilot:['https://www.youtube.com/watch?v=6oXwGSyvsxg'],
@@ -3360,15 +3360,14 @@ personas:[
 
 ships:[
     {ship:'SH000014',personajes:['Arthit','Sun']},
-    {ship:'SH000075',personajes:['JJ','Nai']},
     {ship:'SH000102',personajes:['Mangkorn','Ashing']}
 ],
 
 sinopsis:'Sun es un cobrador de deudas que no consigue cobrar ninguna. Cuando su padre le encarga cobrar una deuda a Arthit, viaja hasta la isla donde vive su objetivo. Allí conoce a Talay y Nai, amigos de Arthit, y poco a poco su misión comienza a convertirse en una historia de amor.',
 
 multimedia:{
-    portada:[],
-    trailer:[],
+portada:['https://i.pinimg.com/1200x/8f/d0/7b/8fd07bbd67647fd2a2fc393930b4e690.jpg'],
+    trailer:['https://www.youtube.com/watch?v=aEvDt94-bew'],
     teaser:[],
     pilot:[],
     ost:[]
@@ -3417,7 +3416,7 @@ ships:[
 sinopsis:'Punn, propietario de una tienda de antigüedades, recibe el encargo de reparar una antigua pintura. Al cortarse con un cristal, su sangre entra en contacto con el cuadro y despierta a Ramil, el último heredero de una familia de vampiros que llevaba más de cien años sellado en la pintura. Ramil ha perdido sus poderes y es perseguido por un grupo de cazadores, por lo que Punn deberá ayudarle a recuperar sus habilidades mientras la relación entre ambos se desarrolla.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/70/61/9d/70619d479cc002cf792341079cc63ccc.jpg'],
     trailer:['https://www.youtube.com/watch?v=dSQ5g4d2DEk'],
     teaser:[],
     pilot:[],
@@ -3471,7 +3470,7 @@ ships:[
 sinopsis:'Nile compra una casa a un precio muy bajo a Krit, director ejecutivo de la discográfica Rabbit Hole, pero pronto descubre que la casa está embrujada. Cuando Krit se niega a cancelar la venta, Nile decide conseguir unas prácticas en su empresa para vengarse. Lo que comienza como un plan de venganza acaba acercando a ambos mientras tienen que enfrentarse a la convivencia, al trabajo y a los fenómenos sobrenaturales de la casa.',
 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/1200x/dd/bb/cf/ddbbcf7890b617b675d578bfd465a1ce.jpg'],
     trailer:['https://www.youtube.com/watch?v=jpnjz1r8WPA'],
     teaser:[],
     pilot:['https://www.youtube.com/watch?v=jpnjz1r8WPA'],
