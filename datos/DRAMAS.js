@@ -3325,4 +3325,165 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+/* ==========================================   Even Sun — DR000056   ========================================== */
+
+{
+codigo:'DR000056',			titulo:'Even Sun',
+tituloOriginal:'ฉันนี่แหละนายอาทิตย์',
+alias:['Even Sun Series',"I'm Mr. Arthid"],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000056',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:45,
+estado:'Finalizado',
+estreno:'2022-06-29',
+finalizacion:'2022-08-03',
+generos:['BL','Romance','Comedia'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Arthit',persona:'PR000059',funcion:['Actor'],principal:true},
+    {nombre:'Sun',persona:'PR000058',funcion:['Actor'],principal:true},
+    {nombre:'Mangkorn',persona:'PR000549',funcion:['Actor'],principal:false},
+    {nombre:'Ashing',persona:'PR000347',funcion:['Actor'],principal:false},
+    {nombre:'JJ',persona:'PR000472',funcion:['Actor'],principal:false},
+    {nombre:'Nai',persona:'PR000473',funcion:['Actor'],principal:false}
+],
+
+ships:[
+    {ship:'SH000014',personajes:['Arthit','Sun']},
+    {ship:'SH000075',personajes:['JJ','Nai']},
+    {ship:'SH000102',personajes:['Mangkorn','Ashing']}
+],
+
+sinopsis:'Sun es un cobrador de deudas que no consigue cobrar ninguna. Cuando su padre le encarga cobrar una deuda a Arthit, viaja hasta la isla donde vive su objetivo. Allí conoce a Talay y Nai, amigos de Arthit, y poco a poco su misión comienza a convertirse en una historia de amor.',
+
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
+/* ==========================================   Revamp The Undead Story — DR000057   ========================================== */
+
+{
+codigo:'DR000057',			titulo:'Revamp The Undead Story',
+tituloOriginal:'แวมไพร์โปรเจ็คต์',
+alias:['The Vampire Project'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000057',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:50,
+estado:'Finalizado',
+estreno:'2025-08-23',
+finalizacion:'2025-10-25',
+generos:['BL','Fantasía','Romance','Sobrenatural','Drama'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Ramil',persona:'PR000059',funcion:['Actor'],principal:true},
+    {nombre:'Punn',persona:'PR000058',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000014',personajes:['Ramil','Punn']}
+],
+
+sinopsis:'Punn, propietario de una tienda de antigüedades, recibe el encargo de reparar una antigua pintura. Al cortarse con un cristal, su sangre entra en contacto con el cuadro y despierta a Ramil, el último heredero de una familia de vampiros que llevaba más de cien años sellado en la pintura. Ramil ha perdido sus poderes y es perseguido por un grupo de cazadores, por lo que Punn deberá ayudarle a recuperar sus habilidades mientras la relación entre ambos se desarrolla.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=dSQ5g4d2DEk'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=RwZz4ncwk0Y',
+        'https://www.youtube.com/watch?v=xjqUTTal5bY',
+        'https://www.youtube.com/watch?v=7jbA07Zu_R0'
+    ]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+	
+/* ==========================================   Plan B to U — DR000058   ========================================== */
+
+{
+codigo:'DR000058',			titulo:'Plan B to U',
+tituloOriginal:'จากศัตรูสู่ที่รัก',
+alias:['Jak Sattru Su Teerak'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000058',
+temporadas:1,
+temporada:1,
+episodios:0,
+duracion:0,
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['BL','Romance','Comedia','Drama','Sobrenatural'],
+tags:['BL'],
+
+personas:[
+    {nombre:'Krit',persona:'PR000059',funcion:['Actor'],principal:true},
+    {nombre:'Nile',persona:'PR000058',funcion:['Actor'],principal:true}
+],
+
+ships:[
+    {ship:'SH000014',personajes:['Krit','Nile']}
+],
+
+sinopsis:'Nile compra una casa a un precio muy bajo a Krit, director ejecutivo de la discográfica Rabbit Hole, pero pronto descubre que la casa está embrujada. Cuando Krit se niega a cancelar la venta, Nile decide conseguir unas prácticas en su empresa para vengarse. Lo que comienza como un plan de venganza acaba acercando a ambos mientras tienen que enfrentarse a la convivencia, al trabajo y a los fenómenos sobrenaturales de la casa.',
+
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=jpnjz1r8WPA'],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=jpnjz1r8WPA'],
+    ost:[]
+},
+
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+
+especiales:[],
+activo:true
+},
+
 ];
