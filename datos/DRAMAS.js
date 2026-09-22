@@ -3863,7 +3863,7 @@ especiales:[
 ],
 activo:true
 },	
-/* ==========================================   Ticket to Heaven — DR000062   ========================================== */
+/* ==========================================   WEIRDO-101 — DR000065   ========================================== */
 {
 codigo:'DR000065',
 titulo:'WEIRDO-101',
@@ -3923,4 +3923,138 @@ especiales:[
 activo:true
 },
 
+	/* ==========================================   CHERRY MAGIC 30 ยังซิง — DR000066   ========================================== */
+{
+codigo:'DR000066',
+titulo:'Cherry Magic 30 ยังซิง',
+tituloOriginal:'30 ยังซิง',
+alias:['Cherry Magic Thailand'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000066',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:47,
+estado:'Finalizado',
+estreno:'2023-12-09',
+finalizacion:'2024-03-02',
+generos:[
+    'Comedia',
+    'Fantasía',
+    'Romance'
+],
+tags:[
+    'BL'
+],
+personas:[
+    {nombre:'Karan',persona:'PR000292',funcion:['Actor'],principal:true},
+    {nombre:'Achi',persona:'PR000164',funcion:['Actor'],principal:true},
+    {nombre:'Jinta',persona:'PR000529',funcion:['Actor'],principal:true},
+    {nombre:'Min',persona:'PR000530',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000043',personajes:['Karan','Achi']},
+    {ship:'SH000089',personajes:['Jinta','Min']}
+],
+sinopsis:'Achi es un empleado de una empresa de material de oficina que sigue soltero y virgen al cumplir treinta años. Ese día descubre que ha adquirido la capacidad de leer la mente de otras personas mediante el contacto físico. Al intentar evitar tocar a los demás, termina leyendo accidentalmente los pensamientos de Karan, su compañero de trabajo, y descubre que este está enamorado de él. Achi intenta entonces mantener las distancias para evitar que la situación vaya a más, pero sus sentimientos por Karan comienzan a cambiar.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/05/46/5f/05465f21a2c2180e85b5fd59553bc4dc.jpg',
+'https://i.pinimg.com/736x/7c/b7/ef/7cb7efbc4bc24e21f4327170ad4043d7.jpg',
+'https://i.pinimg.com/1200x/d5/2c/8c/d52c8cb1709a7c6277e80d7d6a8b8c6a.jpg',
+'https://i.pinimg.com/736x/50/bb/5d/50bb5dfbc2dfc04eb35da37a0a4740ee.jpg',
+'https://i.pinimg.com/736x/78/68/b3/7868b38857791fbc9c928b2897d9f141.jpg',
+        'https://stat.ameba.jp/user_images/20240218/16/pokapokanyanko/0e/08/j/o1642204815403057552.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=2suXbor3jDA'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=mcMQsbACF7w',
+        'https://www.youtube.com/watch?v=2gIPMO-q_HU',
+        'https://www.youtube.com/watch?v=2l7LvWGwSd0',
+        'https://www.youtube.com/watch?v=rAh2ae1OC0M'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ========================================== A DOG AND A PLANE — DR000067   ========================================== */
+{
+codigo:'DR000067',
+titulo:'A Dog and a Plane',
+tituloOriginal:'หมาเห่าเครื่องบิน',
+alias:['Maa Hao Khrueangbin'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000067',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:60,
+estado:'Finalizado',
+estreno:'2026-05-29',
+finalizacion:'2026-07-31',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL'
+],
+personas:[
+    {nombre:'Toto',persona:'PR000292',funcion:['Actor'],principal:true},
+    {nombre:'Kanit',persona:'PR000164',funcion:['Actor'],principal:true},
+    {nombre:'Akki',persona:'PR000293',funcion:['Actor'],principal:true},
+    {nombre:'Veha',persona:'PR000555',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000043',personajes:['Toto','Kanit']},
+    {ship:'SH000107',personajes:['Akki','Veha']}
+],
+sinopsis:'Toto, jefe de un equipo de rescate, conoce a Kanit, un auxiliar de vuelo perfeccionista, después de un intercambio accidental de equipaje. Aunque sus personalidades y formas de vida son completamente opuestas, las circunstancias hacen que tengan que encontrarse una y otra vez. Cuando Kanit le pide a Toto que le ayude a descubrir si su novio, el piloto Lion, le es infiel, la misión de rescate acaba convirtiéndose en una historia de sentimientos y amor entre ambos.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/87/cd/50/87cd5014d4da555714b6a50aeb01ccbc.jpg',
+'https://i.pinimg.com/736x/37/35/b7/3735b7ede40c751fce25ff761bfc40ec.jpg',
+'https://i.pinimg.com/736x/47/40/d9/4740d9dcfe7f55588dabbd7de99185df.jpg',
+        'https://images.justwatch.com/poster/345823831/s718/a-dog-and-a-plane.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=6B7K-81A8-A'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=YXBNTcU98Q0',
+        'https://www.youtube.com/watch?v=VrEG58iy7QY',
+        'https://www.youtube.com/watch?v=pFXR7bElyxo',
+        'https://www.youtube.com/watch?v=PcDDS-7ur4s'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000049',funcion:['Emisora']}
+],
+especiales:[
+    'หมาเห่าเครื่องบิน A Dog and A Plane : Boarding Time'
+],
+activo:true
+},
 ];
