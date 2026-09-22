@@ -3212,7 +3212,7 @@ multimedia:{
 portada:['https://i.pinimg.com/736x/71/e1/71/71e171a149c2493cbd88c717556088fa.jpg',
 		 'https://i.pinimg.com/1200x/ac/9a/89/ac9a89e0fe08e485c74657983a0367f3.jpg',
 		 'https://i.pinimg.com/1200x/9d/fd/8c/9dfd8c3c3d6908616df1e4ee6df9bf61.jpg',
-		 'https://i.pinimg.com/736x/5c/be/24/5cbe2473f8b2e7dc84961443c030a2d0.jpg]',
+		 'https://i.pinimg.com/736x/5c/be/24/5cbe2473f8b2e7dc84961443c030a2d0.jpg'],
     trailer:['https://www.youtube.com/watch?v=CWO7ab2T10E'],
     teaser:[],
     pilot:[],
