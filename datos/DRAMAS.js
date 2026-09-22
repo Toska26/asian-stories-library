@@ -3487,9 +3487,6 @@ entidades:[
 especiales:[],
 activo:true
 },
-especiales:[],
-activo:true
-},
 
 /* ==========================================   My School President — DR000059   ========================================== */
 {
