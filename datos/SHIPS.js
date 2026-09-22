@@ -45,7 +45,7 @@ const SHIPS = [
     {codigo:'SH000040', nombre:'JaFirst', personas:['PR000064','PR000248'], activo:false, oficial:true},
     {codigo:'SH000041', nombre:'Haii & Title', personas:['PR000251','PR000250'], activo:false, oficial:false},
     {codigo:'SH000042', nombre:'Boat & Jame', personas:['PR000230','PR000249'], activo:false, oficial:false},
-    {codigo:'SH000043', nombre:'TayNew', personas:['PR000292','PR000164'], activo:false, oficial:true},
+    {codigo:'SH000043', nombre:'TayNew', personas:['PR000292','PR000164'], activo:true, oficial:true},
     {codigo:'SH000044', nombre:'Mild & Mek', personas:['PR000276','PR000270'], activo:false, oficial:false},
     {codigo:'SH000045', nombre:'Mook & Tao', personas:['PR000295','PR000290'], activo:false, oficial:false},
     {codigo:'SH000046', nombre:'Mook & Guy', personas:['PR000295','PR000020'], activo:false, oficial:false},
@@ -117,5 +117,5 @@ const SHIPS = [
 
 {codigo:'SH000106', nombre:'AunAshi', personas:['PR000553','PR000554'], activo:true, oficial:true},
 
-
+{codigo:'SH000107', nombre:'MondRyu', personas:['PR000293','PR000555'], activo:true, oficial:true},
 ];
