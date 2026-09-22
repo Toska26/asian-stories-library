@@ -576,4 +576,10 @@ const PERSONAS = [
 {codigo:'PR000550', nombre:'Arun Asawasuebsakul', nombreOriginal:'อรัญญ์ อัศวสืบสกุล', nombreArtistico:'Ford', alias:['Ford'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000551', nombre:'Puttipong Jitbut', nombreOriginal:'พุทธิพงษ์ จิตบุตร', nombreArtistico:'Chokun', alias:['Chokun'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000552', nombre:'Pathitta Pornchumroenrut', nombreOriginal:'ปทิตตา พรจำเริญรัตน์', nombreArtistico:'Pahn', alias:['Pahn'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+
+{codigo:'PR000553', nombre:'Napat Patcharachavalit', nombreOriginal:'ณภัทร พัชรชวลิต', nombreArtistico:'Aun', alias:['Aun'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000554', nombre:'Peerakan Teawsuwan', nombreOriginal:'พีรการ เตียวสุวรรณ', nombreArtistico:'Ashi', alias:['Ashi'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+
+
+   
 ];
