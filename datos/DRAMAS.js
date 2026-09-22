@@ -4057,4 +4057,190 @@ especiales:[
 ],
 activo:true
 },
+	/* ==========================================    PERFECT 10 LINERS — DR000068   ========================================== */
+{
+codigo:'DR000068',
+titulo:'Perfect 10 Liners',
+tituloOriginal:'สายรหัสเทวดา',
+alias:['Sai Rหัสเทวดา','Perfect 10 Liners'],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000068',
+temporadas:1,
+temporada:1,
+episodios:24,
+duracion:60,
+estado:'Finalizado',
+estreno:'2024-10-27',
+finalizacion:'2025-04-06',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Juventud'
+],
+personas:[
+    {nombre:'Arc',persona:'PR000516',funcion:['Actor'],principal:true},
+    {nombre:'Arm',persona:'PR000517',funcion:['Actor'],principal:true},
+    {nombre:'Yotha',persona:'PR000191',funcion:['Actor'],principal:true},
+    {nombre:'Gun',persona:'PR000073',funcion:['Actor'],principal:true},
+    {nombre:'Faifa',persona:'PR000529',funcion:['Actor'],principal:true},
+    {nombre:'Wine',persona:'PR000530',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000081',personajes:['Arc','Arm']},
+    {ship:'SH000087',personajes:['Yotha','Gun']},
+    {ship:'SH000089',personajes:['Faifa','Wine']}
+],
+sinopsis:'La vida universitaria de seis estudiantes de ingeniería se entrelaza a través del sistema de mentoría de los Perfect 10 Liners. Arc y Arm comienzan con una relación complicada después de que Arm publique accidentalmente una fotografía de su mentor en una página universitaria. Yotha y Gun se acercan cuando Yotha acepta ayudar a Gun con su miedo a dormir a oscuras. Mientras tanto, Wine, el hermano menor del mentor de Yotha, termina bajo el cuidado de Faifa, que se convierte poco a poco en una persona especial para él. Las tres historias avanzan entre amistad, convivencia, conflictos y sentimientos que terminan convirtiéndose en amor.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/fa/6d/92/fa6d927155189ebccd37e8f117cbd201.jpg',
+'https://i.pinimg.com/736x/66/e7/cc/66e7cc2230e8c2ca9d89be46a03fdc4a.jpg',
+'https://i.pinimg.com/736x/06/3d/ca/063dcae7cc04a4fa3fbb5ce49e37275b.jpg',
+'https://i.pinimg.com/736x/ff/25/f2/ff25f28b4c8cdc0c47e7716afdbbf2f2.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=bbiPjsgdKjU'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=6Vm6AaAzvIw',
+        'https://www.youtube.com/watch?v=AhbyQyT49QE',
+        'https://www.youtube.com/watch?v=itsxy1gUIYY',
+        'https://www.youtube.com/watch?v=fyiXjRdB3U0'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[
+    'สายรหัสเทวดา Perfect 10 Liners Special'
+],
+activo:true
+},
+
+	/* ==========================================    MY ROMANCE SCAMMER — DR000069   ========================================== */
+{
+codigo:'DR000069',
+titulo:'My Romance Scammer',
+tituloOriginal:'รักจริง หลังแต่ง',
+alias:['Rak Ching Lang Taeng','Real Love After Marriage'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000069',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:59,
+estado:'Finalizado',
+estreno:'2026-02-01',
+finalizacion:'2026-04-19',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL'
+],
+personas:[
+    {nombre:'Tim',persona:'PR000529',funcion:['Actor'],principal:true},
+    {nombre:'Pai',persona:'PR000530',funcion:['Actor'],principal:true},
+    {nombre:'Yu',persona:'PR000055',funcion:['Actor'],principal:true},
+    {nombre:'North',persona:'PR000556',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000089',personajes:['Tim','Pai']},
+    {ship:'SH000108',personajes:['Yu','North']}
+],
+sinopsis:'Pai y North, dos primos y herederos de la familia Jiramongkolthanan, se convierten en el objetivo de dos estafadores, Tim y Yu, que pretenden casarse con ellos para acceder a su fortuna. Mientras North se casa en secreto con Yu y descubre después que ha sido engañado, Tim continúa preparando su boda con Pai sin que este sepa que su prometido es un estafador. Lo que comienza como un plan para conseguir dinero se complica cuando los sentimientos de los cuatro hombres empiezan a ser reales.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/07/f3/16/07f3161f410e032d857bda6400903c5a.jpg',
+'https://i.pinimg.com/736x/94/e9/5b/94e95bd08fc9dd48898e4a8ea545253f.jpg',
+'https://i.pinimg.com/736x/90/44/52/90445225c81f05baf5d85015fdc54525.jpg'],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=8K0o0Ip2ukk',
+        'https://www.youtube.com/watch?v=TkGOlxUhYB0',
+        'https://www.youtube.com/watch?v=NdrYTlqHWlk'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[
+    'My Romance Scammer รักจริง หลังแต่ง Special'
+],
+activo:true
+},
+
+/* ==========================================    TWENTY ONE — DR000070   ========================================== */
+{
+codigo:'DR000070',
+titulo:'Twenty One',
+tituloOriginal:'21วัน ลองมารักกันดูไหม',
+alias:['Twenty One เราลองมารักกันสัก21วันดูไหม','21 Days, Shall We Try Falling in Love?'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000070',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Juventud',
+    'Música'
+],
+personas:[
+    {nombre:'Aii',persona:'PR000529',funcion:['Actor'],principal:true},
+    {nombre:'Koon',persona:'PR000530',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000089',personajes:['Aii','Koon']}
+],
+sinopsis:'Aii y Koon quedan destrozados después de ser rechazados por la misma persona. Al conocerse y descubrir que tienen muchas cosas en común, comienzan a apoyarse mutuamente y terminan convirtiéndose en compañeros de piso. Cuando Aii se da cuenta de que sus sentimientos por Koon van más allá de la amistad y se lo confiesa, Koon teme perder la relación que ya tienen. Finalmente propone un experimento de veintiún días para descubrir si Aii puede conseguir que se enamore de él.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/f5/09/cf/f509cfccc368495857c0dc2348a8094a.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=kqiruuXSplM'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
+	
 ];
