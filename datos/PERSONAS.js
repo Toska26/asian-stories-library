@@ -582,5 +582,5 @@ const PERSONAS = [
 
 {codigo:'PR000555', nombre:'Phudtripart Bhudthonamochai', nombreOriginal:'พุติพัฒน์ พุทโธนะโมชัย', nombreArtistico:'Ryu', alias:['Ryu'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 
-   
+ {codigo:'PR000556', nombre:'Poon Mitpakdee', nombreOriginal:'ปูน มิตรภักดี', nombreArtistico:'Poon', alias:['Poon'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},  
 ];
