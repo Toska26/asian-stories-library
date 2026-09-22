@@ -3731,7 +3731,195 @@ entidades:[
 
 activo:true
 },
+/* ==========================================   Only Boo! — DR000063   ========================================== */
+	{
+codigo:'DR000063',
+titulo:'Only Boo!',
+tituloOriginal:'แค่ที่แกง',
+alias:['Khae Thi Kaeng','Kae Tee Kaeng'],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000063',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:50,
+estado:'Finalizado',
+estreno:'2024-03-31',
+finalizacion:'2024-06-23',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Escolar',
+    'Juventud',
+    'Música'
+],
+personas:[
+    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Aun',persona:'PR000553',funcion:['Actor'],principal:true},
+    {nombre:'Ashi',persona:'PR000554',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000086',personajes:['Kang','Moo']},
+    {ship:'SH000106',personajes:['Potae','Payos']}
+],
+sinopsis:'Moo, un estudiante de secundaria que sueña con debutar como integrante de un grupo de chicos, conoce a Kang, un joven que vende comida preparada. Moo queda fascinado por la amabilidad de Kang y comienza a cortejarlo mientras continúa entrenándose para convertirse en idol. Sin embargo, cuando finalmente consigue debutar, descubre que el contrato de su agencia incluye una estricta prohibición de tener pareja.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/81/6a/b6/816ab6a6a9338f197a57f47d0a078319.jpg',
+			'https://i.pinimg.com/736x/2b/b5/83/2bb583b2cc1ebd0d0a9cade060224ede.jpg',
+			'https://i.pinimg.com/736x/82/4f/89/824f890c8147dcaa31b457352dff3f42.jpg',
+			'https://i.pinimg.com/736x/d6/59/fa/d659facc83a2401e1b5c072db3281d77.jpg'],
+    trailer:['https://www.youtube.com/watch?v=kNJHaz3VgJI'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=sU4_YSbfLdg',
+        'https://www.youtube.com/watch?v=Gp_5O-U-KAA',
+        'https://www.youtube.com/watch?v=FlubMEV94SM',
+        'https://www.youtube.com/watch?v=OAWVsWucowQ',
+        'https://www.youtube.com/watch?v=7OqvmVanrBc',
+        'https://www.youtube.com/watch?v=wq6BZgnWzxI',
+        'https://www.youtube.com/watch?v=7TrTUZM68J0'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+especiales:[
+    'บุกที่กอง แค่ที่แกง Only Boo!'
+],
+activo:true
+},
+/* ==========================================   Head 2 Head — DR000064   ========================================== */
 
-
+{
+codigo:'DR000064',
+titulo:'Head 2 Head',
+tituloOriginal:'ไหนใครว่าพวกมันไม่ถูกกัน',
+alias:['Nai Khrai Wa Phuak Man Mai Thuk Kan','Who Says They Don’t Get Along?'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000064',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:50,
+estado:'Finalizado',
+estreno:'2025-10-26',
+finalizacion:'2026-01-11',
+generos:[
+    'Comedia',
+    'Romance',
+    'Sobrenatural'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Juventud'
+],
+personas:[
+    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Surf',persona:'PR000535',funcion:['Actor'],principal:true},
+    {nombre:'Java',persona:'PR000536',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000086',personajes:['Jerome','Jinn']},
+    {ship:'SH000093',personajes:['Farm','Van']}
+],
+sinopsis:'Jerome y Jinn son rivales desde la infancia y continúan enfrentándose cuando ambos ingresan en la universidad para estudiar diseño de moda. Sus vidas permanecen constantemente entrelazadas: estudian juntos, sus casas están frente a frente, comparten grupo de amigos y sus familias mantienen una estrecha relación. Todo cambia cuando Jerome comienza a soñar con acontecimientos situados diez años en el futuro y descubre que la persona que tanto detesta terminará convirtiéndose en su pareja.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/08/69/b3/0869b335aa60f2633d15161686da5932.jpg',
+			'https://i.pinimg.com/736x/34/f9/d4/34f9d44d81d82dfbdb5f9dff3434ba60.jpg'],
+    trailer:[ 'https://www.youtube.com/watch?v=7iKRgTqxFp0'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=v4O9ysuVBuY',
+        'https://www.youtube.com/watch?v=RT1lDAID3_I',
+        'https://www.youtube.com/watch?v=_10ZSPksHd4',
+        'https://www.youtube.com/watch?v=T4daihy57FY'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000049',funcion:['Emisora']}
+],
+especiales:[
+    'ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special'
+],
+activo:true
+},	
+/* ==========================================   Ticket to Heaven — DR000062   ========================================== */
+{
+codigo:'DR000065',
+titulo:'WEIRDO-101',
+tituloOriginal:'แรงโน้มถ่วงระหว่างเรา',
+alias:['Raeng Nom Thuang Rawang Rao','The Gravity Between Us'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000065',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:41,
+estado:'En emisión',
+estreno:'2026-08-14',
+finalizacion:'',
+generos:[
+    'Comedia',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Escolar',
+    'Juventud'
+],
+personas:[
+    {nombre:'Sea',persona:'PR000526',funcion:['Actor'],principal:true},
+    {nombre:'Keen',persona:'PR000527',funcion:['Actor'],principal:true},
+    {nombre:'Ashi',persona:'PR000554',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000086',personajes:['Cheewa','Niran']}
+],
+sinopsis:'Niran, un estudiante de secundaria y atleta de judo que lleva una vida despreocupada, conoce a Cheewa, un estudiante brillante del club de astronomía con una forma de pensar y comunicarse muy particular. Después de que Niran lo salva de un estudiante problemático, Cheewa comienza a acercarse a él de una manera directa y poco convencional, haciendo que Niran empiece a cuestionarse sus propios sentimientos.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/04/db/4a/04db4a798c3bfb103153808bc88dbf46.jpg',
+			'https://i.pinimg.com/736x/72/0d/fb/720dfb0441e165503c93b08256764944.jpg'],
+    trailer:['https://www.youtube.com/watch?v=FoAiCEWA_ko'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=NYQlEk3Bg0A',
+        'https://www.youtube.com/watch?v=vRH6Po4jAiQ'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000049',funcion:['Emisora']}
+],
+especiales:[
+    'WEIRDO-101 แรงโน้มถ่วงระหว่างเรา Special'
+],
+activo:true
+},
 
 ];
