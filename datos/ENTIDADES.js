@@ -56,4 +56,5 @@ const ENTIDADES = [
 {codigo:'EN000050', nombre:'GMO Films', pais:'TH', tipos:['Productora'], activo:true},
 {codigo:'EN000051', nombre:'TV Asahi', pais:'JP', tipos:['Productora'], activo:true},
 {codigo:'EN000052', nombre:'Cholumpi Brothers', pais:'TH', tipos:['Productora'], activo:true},
+   { codigo: 'EN000053', nombre: 'Gemmistry Studio', pais: 'TH', tipos: ['Productora'], activo: true },
 ];
