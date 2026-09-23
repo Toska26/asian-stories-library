@@ -587,4 +587,5 @@ const PERSONAS = [
    {codigo:'PR000557', nombre:'Pusit Dittapisit', nombreOriginal:'', nombreArtistico:'Fluke', alias:['Fluke'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true}, 
    {codigo:'PR000558', nombre:'Thipakorn Thitathan', nombreOriginal:'', nombreArtistico:'Ohm', alias:['Ohm'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true}, 
    {codigo:'PR000559', nombre:'Sapol Assawamunkong', nombreOriginal:'', nombreArtistico:'Great', alias:['Great'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+   {codigo:'PR000560', nombre:'Thanawin Teeraphosukarn', nombreOriginal:'ธณวิน ธีรโพสุการ', nombreArtistico:'Louis', alias:['Louis'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 ];
