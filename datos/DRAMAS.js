@@ -5176,5 +5176,124 @@ entidades:[
 especiales:[],
 activo:true
 },
-	
+/* ==========================================   THE ECLIPSE — DR000089  ========================================== */
+{
+codigo:'DR000089',
+titulo:'The Eclipse',
+tituloOriginal:'คาธ',
+alias:['Khat'],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000089',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2022-08-12',
+finalizacion:'2022-10-28',
+generos:['Romance','Misterio','Juvenil'],
+tags:['BL','Instituto','Estudiantes','Maldición','Sobrenatural','Enemigos a amantes','LGBTQ+'],
+personas:[
+    {nombre:'Akk',persona:'PR000388',funcion:['Actor'],principal:true},
+    {nombre:'Ayan',persona:'PR000017',funcion:['Actor'],principal:true},
+    {nombre:'Khanlong',persona:'PR000294',funcion:['Actor'],principal:false},
+    {nombre:'Thuaphu',persona:'PR000560',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000068',personajes:['Akk','Ayan']},
+    {ship:'SH000112',personajes:['Khanlong','Thuaphu']}
+],
+sinopsis:'En la estricta escuela masculina Suppalo, los alumnos deben cumplir unas normas muy severas bajo la amenaza de una antigua maldición que, según los rumores, se vuelve más poderosa cuando se acerca un eclipse solar. Akk, jefe de los prefectos estudiantiles, tiene la misión de hacer cumplir las reglas, mientras que Ayan, un nuevo alumno decidido a descubrir la verdad sobre la muerte de su tío, desafía constantemente la autoridad del centro. La rivalidad entre ambos irá transformándose mientras descubren los secretos que rodean a la escuela y a la misteriosa maldición.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/f0/dd/7e/f0dd7e587c13d216bfaca4012cae1aa8.jpg',
+'https://i.pinimg.com/736x/01/0f/4b/010f4b1e0d83c8f58efdb7b4d200cc06.jpg',
+'https://i.pinimg.com/736x/52/ec/d2/52ecd2da60343101d71bc076d492e1ac.jpg',
+'https://i.pinimg.com/1200x/b5/81/5b/b5815b9af9a469efcffc0e0cef405985.jpg',
+        'https://cms.dmpcdn.com/ugcarticle/2022/10/21/5438e210-50ff-11ed-9875-f91c51608aaa_original.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=cAUsEo1_frs'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=iVRzQhRf0Z0'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},	
+	/* ==========================================   CAT FOR CASH — DR000090  ========================================== */
+{
+codigo:'DR000090',
+titulo:'Cat for Cash',
+tituloOriginal:'เปย์รักด้วยแมวเลี้ยง',
+alias:['Pay Rak Duai Maeo Liang'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000090',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2026-01-20',
+finalizacion:'2026-03-24',
+generos:['Comedia','Romance','Sobrenatural'],
+tags:['BL','Gatos','Cafetería','Deudas','Familia','Poderes sobrenaturales','Comunicación con animales'],
+personas:[
+    {nombre:'Tiger',persona:'PR000388',funcion:['Actor'],principal:true},
+    {nombre:'Lynx',persona:'PR000017',funcion:['Actor'],principal:true},
+    {nombre:'Pug',persona:'PR000524',funcion:['Actor'],principal:false},
+    {nombre:'Leo',persona:'PR000525',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000068',personajes:['Tiger','Lynx']},
+    {ship:'SH000085',personajes:['Pug','Leo']}
+],
+sinopsis:'Tiger, un cobrador de deudas amante de los gatos, recibe inesperadamente un poder especial que le permite comunicarse con ellos. Poco antes de morir, la propietaria de una cafetería de gatos le pide que ayude a mantener el negocio a salvo de las deudas y de su propio hijo, Lynx, un intérprete que detesta a los gatos y quiere vender la cafetería. Mientras intentan mantener el negocio en funcionamiento, los conflictos familiares y la relación entre Tiger y Lynx harán que la cafetería se convierta en el escenario de una historia de amor y situaciones inesperadas.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/97/b7/ed/97b7eda73fc55bc11dcf52296d83aa64.jpg',
+'https://i.pinimg.com/1200x/8b/08/e6/8b08e6f089e71d2a822d867d4285a4fd.jpg',
+'https://i.pinimg.com/736x/de/3e/81/de3e8128ec4471f443e06e5c6684987e.jpg',
+'https://i.pinimg.com/1200x/26/8c/1f/268c1fe020944ea38a02fc6fbc318ebb.jpg',
+'https://i.pinimg.com/1200x/84/40/76/8440766130f98d24903b738224819e2f.jpg',
+        'https://truevisions.co.th/static/9a89afbd-cefa-4805-a939-f31466d6f980.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=H6l2SWc3SLI'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=1M-6KmMCE20'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=egMP38-uh78',
+        'https://www.youtube.com/watch?v=CIv2LZx6hZ4'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']},
+    {codigo:'EN000053',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000049',funcion:['Emisora']}
+],
+especiales:[],
+activo:true
+},
 ];
