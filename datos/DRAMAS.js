@@ -5542,4 +5542,484 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+	/* ==========================================
+   SENIOR SECRET LOVE: PUPPY HONEY — DR000095
+   ========================================== */
+{
+codigo:'DR000095',
+titulo:'Senior Secret Love: Puppy Honey',
+tituloOriginal:'รุ่นพี่ Secret Love ตอน Puppy Honey',
+alias:['Puppy Honey'],
+tipo:'Drama',
+anio:2016,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000095',
+temporadas:2,
+temporada:1,
+episodios:6,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2016-03-20',
+finalizacion:'2016-04-24',
+generos:['Romance','Comedia'],
+tags:['BL','Universidad','Veterinaria','Animales','Club de animales','Fobia a los perros','Amistad'],
+personas:[
+    {nombre:'Porsche',persona:'PR000563',funcion:['Actor'],principal:true},
+    {nombre:'Emma',persona:'PR000564',funcion:['Actor'],principal:true},
+    {nombre:'Pick',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Rome',persona:'PR000513',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000115',personajes:['Porsche','Emma']},
+    {ship:'SH000078',personajes:['Pick','Rome']}
+],
+sinopsis:'Porsche y Pick son estudiantes de cuarto año de veterinaria y forman parte de un club universitario dedicado al cuidado de perros y gatos. Cuando el decano decide cerrar el club, Porsche busca la ayuda de Emma, una estudiante de primer año y sobrina del decano, para evitar que desaparezca. Emma ama a los animales, especialmente a los gatos, pero tiene miedo de los perros. Mientras Porsche intenta ayudarla a superar su fobia, Pick y Rome, el mejor amigo de Emma, comienzan a descubrir que entre ellos existe algo más que amistad.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/6b/11/6d/6b116d8256c54c9cb0d7cc7313895888.jpg',
+'https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg',
+        'https://media.fstatic.com/YYHr9c8rzFzJTQNL6nr-EAW0iMs%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/04/secret-love-puppy-love_tNone.jpg',
+        'https://media.fstatic.com/Br4WL8CFgVydPJ50UKQrcELBGb8%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/05/secret-love-puppy-honey_t205675.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=9WOCQoyiJC8'
+    ],
+    pilot:[
+        'https://www.youtube.com/watch?v=O8HFbePqinQ'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=PQO7PXBvDhA',
+        'https://www.youtube.com/watch?v=HBcRC5tMzwA'
+    ],
+    videos:[
+        'https://www.youtube.com/watch?v=S4QT7prMhrA'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000005',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================
+   SENIOR SECRET LOVE: PUPPY HONEY 2 — DR000096
+   ========================================== */
+{
+codigo:'DR000096',
+titulo:'Senior Secret Love: Puppy Honey 2',
+tituloOriginal:'รุ่นพี่ Secret Love เรื่อง Puppy Honey 2',
+alias:['Puppy Honey 2','Scan Heart Nai Mor Ma'],
+tipo:'Drama',
+anio:2017,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000095',
+temporadas:2,
+temporada:2,
+episodios:8,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2017-03-18',
+finalizacion:'2017-05-06',
+generos:['Romance','Comedia','Drama'],
+tags:['BL','Universidad','Veterinaria','Animales','Relación a distancia','Celos','Triángulo amoroso','Descubrimiento personal'],
+personas:[
+    {nombre:'Porsche',persona:'PR000563',funcion:['Actor'],principal:true},
+    {nombre:'Emma',persona:'PR000564',funcion:['Actor'],principal:true},
+    {nombre:'Pick',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Rome',persona:'PR000513',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000115',personajes:['Porsche','Emma']},
+    {ship:'SH000078',personajes:['Pick','Rome']}
+],
+sinopsis:'Porsche se marcha para realizar unas prácticas de veterinaria lejos del campus, dejando a Emma atrás. La distancia comienza a poner a prueba su relación y provoca inseguridades entre ambos. Al mismo tiempo, Pick y Rome intentan comprender qué sienten realmente el uno por el otro, mientras la aparición de nuevas personas complica todavía más su relación. Entre celos, dudas y decisiones personales, las dos parejas tendrán que enfrentarse a lo que realmente sienten.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/77/e7/a0/77e7a00d388475e03e552fc768786b43.jpg',
+'https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg',
+        'https://media.fstatic.com/4JfihAzguyaqqnHggKUw2_8nS5M%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2017/03/secret-love2_gmm.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=PSVqApjgVSk'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=5e_1r-7DqJA'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=U59mhy4oAJg',
+        'https://www.youtube.com/watch?v=5PchmOS55Wo'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000005',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================
+   THEORY OF LOVE — DR000097
+   ========================================== */
+{
+codigo:'DR000097',
+titulo:'Theory of Love',
+tituloOriginal:'ทฤษฎีจีบเธอ',
+alias:['Theory of Love: ทฤษฎีจีบเธอ'],
+tipo:'Drama',
+anio:2019,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000097',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'48-62 min',
+estado:'Finalizado',
+estreno:'2019-06-01',
+finalizacion:'2019-08-17',
+generos:['Romance','Comedia','Drama'],
+tags:['BL','Universidad','Cine','Amigos a amantes','Amor no correspondido','Amistad','Triángulo amoroso','Películas'],
+personas:[
+    {nombre:'Third',persona:'PR000513',funcion:['Actor'],principal:true},
+    {nombre:'Khai',persona:'PR000177',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000078',personajes:['Khai','Third']}
+],
+sinopsis:'Third es un estudiante de tercer año de cine que lleva tres años enamorado en secreto de su mejor amigo Khai. Khai es un chico popular, mujeriego y convencido de que nunca saldría con una amiga o amigo. Cansado de sufrir por un amor que parece imposible, Third decide intentar dejar atrás sus sentimientos. Pero cuando Third empieza a alejarse, Khai comienza a darse cuenta de que lo que siente por su mejor amigo es algo más que amistad.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/e7/de/20/e7de202da269cc4e73d8c4d9cbce3050.jpg',
+'https://i.pinimg.com/1200x/67/3f/71/673f71735ae7dfc1a5d3e989ba09ffa5.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=UQT1x-4ciI4'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=sJwCwbk3YVw',
+        'https://www.youtube.com/watch?v=5m245fHSW5o'
+    ],
+    videos:[
+        'https://www.youtube.com/watch?v=KTFPdhWw5Pc',
+        'https://www.youtube.com/watch?v=9zm_x_Fhve4'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   NOT ME — DR000098
+   ========================================== */
+{
+codigo:'DR000098',
+titulo:'Not Me',
+tituloOriginal:'เขา...ไม่ใช่ผม',
+alias:['Khao... Mai Chai Phom','He... Is Not Me'],
+tipo:'Drama',
+anio:2021,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000098',
+temporadas:1,
+temporada:1,
+episodios:14,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2021-12-12',
+finalizacion:'2022-03-20',
+generos:['Romance','Acción','Thriller','Misterio','Drama'],
+tags:['BL','Gemelos','Identidad oculta','Amistad','Pandilla','Motocicletas','Justicia social','Activismo','Doble identidad','Venganza'],
+personas:[
+    {nombre:'Sean',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'White',persona:'PR000513',funcion:['Actor'],principal:true},
+    {nombre:'Yok',persona:'PR000388',funcion:['Actor'],principal:true},
+    {nombre:'Dan',persona:'PR000268',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000078',personajes:['Sean','White']},
+    {ship:'SH000116',personajes:['Yok','Dan']}
+],
+sinopsis:'White regresa a Tailandia después de quince años viviendo en el extranjero y descubre que su hermano gemelo Black ha sido brutalmente golpeado y se encuentra en coma. Al enterarse de que Black formaba parte de una banda de motoristas junto a Sean, Gram y Yok, White decide hacerse pasar por su hermano para descubrir quién lo atacó. Sin embargo, cuanto más tiempo pasa con el grupo, más descubre sobre la verdadera personalidad de Black y sobre las injusticias contra las que luchan sus nuevos compañeros. Sean empieza a sospechar que el comportamiento de Black ha cambiado y, mientras intenta descubrir qué ocurre realmente, ambos terminan desarrollando sentimientos el uno por el otro.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/f5/7d/e3/f57de36aa28a02087d267eacbd20caaf.jpg',
+'https://i.pinimg.com/736x/9f/20/c0/9f20c046c4eba1c1ab54febd39833a06.jpg',
+'https://i.pinimg.com/1200x/bb/2b/39/bb2b39bddf142aabc916cb0fe6f2e8ad.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=Q91hKXjq_3s'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=BtAKkC7wIHc'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=d5rGW310K-I',
+        'https://www.youtube.com/watch?v=JQm5-fmo_xg'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000054',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   COOKING CRUSH — DR000099
+   ========================================== */
+{
+codigo:'DR000099',
+titulo:'Cooking Crush',
+tituloOriginal:'อาหารเป็นยังไงครับหมอ',
+alias:['Cooking Crush: What’s Zabb?','Ahan Pen Yang Ngai Khrap Mor'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000099',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'45-53 min',
+estado:'Finalizado',
+estreno:'2023-11-26',
+finalizacion:'2024-02-18',
+generos:['Romance','Comedia'],
+tags:['BL','Cocina','Medicina','Universidad','Restaurante','Amigos a amantes','Chef','Estudiante de medicina'],
+personas:[
+    {nombre:'Ten',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Prem',persona:'PR000513',funcion:['Actor'],principal:true},
+    {nombre:'Fire',persona:'PR000294',funcion:['Actor'],principal:false},
+    {nombre:'Dynamite',persona:'PR000565',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000078',personajes:['Ten','Prem']},
+    {ship:'SH000117',personajes:['Fire','Dynamite']}
+],
+sinopsis:'Prem es un estudiante de tercer año que sueña con convertirse en chef y dirige un pequeño restaurante junto a sus amigos Fire y Dynamite. Cuando pierde la confianza en su cocina, conoce a Ten, un estudiante de medicina que está constantemente estresado y tiene problemas para comer. Ten le pide a Prem que le enseñe a cocinar y Prem aprovecha la oportunidad para ganar dinero. Lo que comienza como unas simples clases de cocina acaba acercándolos cada vez más, mientras Fire y Dynamite también desarrollan su propia relación.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/94/9f/aa/949faae66af2384bcec4b00e7b904936.jpg',
+'https://i.pinimg.com/736x/fe/8b/3a/fe8b3ab0550f88aed960a9e5bf862680.jpg',
+'https://i.pinimg.com/1200x/af/f3/27/aff327d0433b7ee64a71e300c0da7c3c.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=8YMAN'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=EDabs7Cc_yA'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=VGYKFKL_doU',
+        'https://www.youtube.com/watch?v=EG3UDbCpYwY'
+    ],
+    videos:[
+        'https://www.youtube.com/watch?v=KFojlKegciE',
+        'https://www.youtube.com/watch?v=i3Ufp7ZspGg'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   THE TRAINEE — DR000100
+   ========================================== */
+{
+codigo:'DR000100',
+titulo:'The Trainee',
+tituloOriginal:'ฝึกงานเทอมนี้ รักพี่ได้มั้ย',
+alias:['Fuek Ngan Term Ni Rak Phi Dai Mai','This Semester’s Internship, Can I Love You?'],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000100',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2024-06-30',
+finalizacion:'2024-09-15',
+generos:['Romance','Comedia','Drama'],
+tags:['BL','Prácticas profesionales','Cine','Productora audiovisual','Universidad','Oficina','Diferencia de edad','Mentor y aprendiz','Amigos a amantes'],
+personas:[
+    {nombre:'Jane',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Ryan',persona:'PR000513',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000078',personajes:['Jane','Ryan']}
+],
+sinopsis:'Ryan es un estudiante universitario apasionado por el cine que consigue unas prácticas como asistente de dirección en una productora. Allí conoce a Jane, un asistente de dirección experimentado que se convierte en su supervisor y mentor. Lo que al principio parece una relación complicada entre un becario entusiasta y un mentor exigente empieza a cambiar cuando Ryan descubre el lado más amable de Jane. Mientras Ryan intenta aprender todo lo necesario para desenvolverse en el mundo laboral, sus sentimientos por Jane también comienzan a crecer.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/97/94/73/979473b3256846206709881e06e96d1d.jpg',
+'https://i.pinimg.com/736x/8c/5c/bd/8c5cbd406b748c2014a963259543668d.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=nSVsbgeZ_tc'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=a4QnzSdBgRg'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=zaXe5'
+    ],
+    videos:[
+        'https://www.gmm-tv.com/contents/z7bjj/'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000055',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================
+   BURNOUT SYNDROME — DR000101
+   ========================================== */
+{
+codigo:'DR000101',
+titulo:'Burnout Syndrome',
+tituloOriginal:'ภาวะรักคนหมดไฟ',
+alias:['Phawa Rak Khon Mot Fai'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000101',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'48 min',
+estado:'Finalizado',
+estreno:'2025-11-26',
+finalizacion:'2026-02-04',
+generos:['Romance','Drama'],
+tags:['BL','Triángulo amoroso','Arte','Trabajo','Burnout','Desigualdad social','Jefe y empleado','Artista','Identidad','Deseo'],
+personas:[
+    {nombre:'Koh',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Jira',persona:'PR000513',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000078',personajes:['Koh','Jira']}
+],
+sinopsis:'Koh es un hombre de negocios que conoce a Jira, un artista que atraviesa una etapa complicada y trabaja para salir adelante. Intrigado por su personalidad y por la inspiración que encuentra en él, Koh contrata a Jira para que lo utilice como modelo para sus obras. Lo que comienza como una relación profesional entre cliente y artista se transforma poco a poco en una relación marcada por la atracción, los sentimientos y los conflictos personales. Mientras tanto, Pheem, amigo cercano de Jira, también se encuentra atrapado en sus propios sentimientos, haciendo que la relación entre los tres se vuelva cada vez más complicada.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/57/75/78/57757813d32bfa63a883865cfbdaeb00.jpg',
+'https://i.pinimg.com/1200x/f8/7b/73/f87b737534f888b77beccbed18e2b18d.jpg',
+'https://i.pinimg.com/736x/a6/47/50/a647500843610acea3287f9ca7c306d0.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=iqtE21HQ-KU'
+    ],
+    teaser:[
+        'https://www.youtube.com/watch?v=weYZQ40m5mY'
+    ],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=q1KLb1H7Zr8',
+        'https://www.youtube.com/watch?v=xnI_vtKkTvc'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']},
+    {codigo:'EN000056',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   GUNSHOT — DR000102
+   ========================================== */
+{
+codigo:'DR000102',
+titulo:'Gunshot',
+tituloOriginal:'ผมหลงรักฆาตกร',
+alias:['Phom Long Rak Khatakon'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000102',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Próximo estreno',
+estreno:'',
+finalizacion:'',
+generos:['Romance','Acción','Thriller','Misterio','Drama'],
+tags:['BL','Policía','Asesino','Venganza','Crimen','Investigación','Trauma','Pasado','Identidad','Amor prohibido'],
+personas:[
+    {nombre:'Kongpon',persona:'PR000177',funcion:['Actor'],principal:true},
+    {nombre:'Mini',persona:'PR000513',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000078',personajes:['Kongpon','Mini']}
+],
+sinopsis:'Kongpon es un policía que se encuentra con Mini, un joven marcado por un pasado doloroso y consumido por el deseo de vengarse de quienes le hicieron daño. Mientras Kongpon intenta comprenderlo y ayudarlo a superar sus heridas, Mini continúa atrapado en un camino de violencia y venganza. La relación entre ambos se desarrolla en medio de una investigación criminal y de los secretos que rodean el pasado de Mini.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/d2/94/57/d2945703700e8a331c6ac74380cc851d.jpg'],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=pT8es0G-oH4',
+        'https://www.youtube.com/watch?v=-iZMjFWGzSg'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
+	
 ];
