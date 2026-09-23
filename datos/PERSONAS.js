@@ -591,4 +591,8 @@ const PERSONAS = [
 
 {codigo:'PR000561', nombre:'Natarit Worakornlertsith', nombreOriginal:'', nombreArtistico:'Marc', alias:['Marc'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000562', nombre:'Sarin Ronnakiat', nombreOriginal:'', nombreArtistico:'Inn', alias:['Inn'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+   {codigo:'PR000563', nombre:'Korn Sirisorn', nombreOriginal:'', nombreArtistico:'Kang', alias:['Kang'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000564', nombre:'Nachjaree Horvejkul', nombreOriginal:'', nombreArtistico:'Cherreen', alias:['Cherreen'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000565', nombre:'Ochiris Suwanpetch', nombreOriginal:'', nombreArtistico:'Aungpao', alias:['Aungpao'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000566', nombre:'Kanyarat Ruangrung', nombreOriginal:'กัญญรัตน์ เรืองรุ่ง', nombreArtistico:'Piploy', alias:['Piploy','Ploy'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 ];
