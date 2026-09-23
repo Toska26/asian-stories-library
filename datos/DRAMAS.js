@@ -4975,6 +4975,206 @@ entidades:[
 especiales:[],
 activo:true
 },
+/* ==========================================   A TALE OF THOUSAND STARS — DR000085   ========================================== */
+{
+codigo:'DR000085',
+titulo:'A Tale of Thousand Stars',
+tituloOriginal:'นิทานพันดาว',
+alias:['1000 Stars'],
+tipo:'Drama',
+anio:2021,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000085',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'65 min',
+estado:'Finalizado',
+estreno:'2021-01-29',
+finalizacion:'2021-04-02',
+generos:['Drama','Romance'],
+tags:['BL','Romance','Drama','Vida rural','Profesor','Naturaleza'],
+personas:[
+    {nombre:'Phupha',persona:'PR000198',funcion:['Actor'],principal:true},
+    {nombre:'Tian',persona:'PR000514',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000079',personajes:['Phupha','Tian']}
+],
+sinopsis:'Tian recibe un trasplante de corazón tras la muerte de Torfun, una joven maestra voluntaria. Después de conocer su historia y descubrir su último deseo, decide viajar hasta la aldea de Pha Pun Dao para ocupar su puesto como profesor voluntario. Allí conoce a Phupha, el jefe de los guardabosques, con quien inicialmente mantiene una relación complicada que poco a poco se transforma en un vínculo cada vez más profundo.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/df/9d/7e/df9d7e24c06228ffa49bb459190e27c3.jpg',
+'https://i.pinimg.com/736x/d2/20/18/d22018aaaa1270635342fc2d60795065.jpg','https://media.senscritique.com/media/000020255386/0/a_tale_of_thousand_stars.jpg'],
+    trailer:['https://www.youtube.com/watch?v=o-gaRz2AE_Y'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=O-QWKCcbRFg',
+        'https://www.youtube.com/watch?v=MYmRz0Qkwkw',
+        'https://www.youtube.com/watch?v=KEYwYja1Ndg',
+        'https://www.youtube.com/watch?v=o2YLervmNAk'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 
+/* ==========================================   CUPID'S LAST WISH — DR000086   ========================================== */
+{
+codigo:'DR000086',
+titulo:"Cupid's Last Wish",
+tituloOriginal:'พินัยกรรมกามเทพ',
+alias:[],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000086',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'43 min',
+estado:'Finalizado',
+estreno:'2022-02-21',
+finalizacion:'2022-03-22',
+generos:['Romance','Fantasía','Aventura'],
+tags:['BL','Romance','Fantasía','Cambio de cuerpo','Amistad','Viaje'],
+personas:[
+    {nombre:'Korn',persona:'PR000198',funcion:['Actor'],principal:true},
+    {nombre:'Win',persona:'PR000514',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000079',personajes:['Korn','Win']}
+],
+sinopsis:'Win y su hermana Lin sufren un accidente que provoca que sus cuerpos se intercambien. Win, atrapado en el cuerpo de su hermana, debe emprender un viaje junto a Korn, su antiguo mejor amigo, para conseguir el agua sagrada de cuatro templos y recuperar su cuerpo antes de que se cumplan siete días. Durante el viaje, la relación entre ambos comienza a cambiar y los sentimientos que habían permanecido ocultos salen a la luz.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/72/42/c1/7242c13ff0d652dea76620160fb32cc3.jpg',
+'https://i.pinimg.com/1200x/01/f5/46/01f546dbc6cb0863c0fa7a748d7e05e2.jpg',
+'https://i.pinimg.com/1200x/f9/e4/d7/f9e4d78e6a2c49d4e79208a040c36da2.jpg','https://media.senscritique.com/media/000020377948/0/cupid_s_last_wish.jpg'],
+    trailer:['https://www.youtube.com/watch?v=_-M8vcelnQM'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=zpys4Ga3q_Q',
+        'https://www.youtube.com/watch?v=muL7HT50TXA'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000026',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   OSSAN'S LOVE THAILAND — DR000087   ========================================== */
+{
+codigo:'DR000087',
+titulo:"Ossan's Love Thailand",
+tituloOriginal:'รักนี้ให้ “นาย”',
+alias:['Rak Ni Hai Nai'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000087',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'53 min',
+estado:'Finalizado',
+estreno:'2025-01-06',
+finalizacion:'2025-03-24',
+generos:['Comedia','Romance','Drama'],
+tags:['BL','Romance','Comedia','Oficina','Jefe','Triángulo amoroso','Remake'],
+personas:[
+    {nombre:'Heng',persona:'PR000198',funcion:['Actor'],principal:true},
+    {nombre:'Mo',persona:'PR000514',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000079',personajes:['Heng','Mo']}
+],
+sinopsis:'Heng es un joven soltero que trabaja como agente inmobiliario y cuya vida amorosa parece no tener rumbo. Todo cambia cuando descubre que su jefe, Kongdech, está enamorado de él. Al mismo tiempo, su compañero de trabajo y compañero de piso, Mo, también comienza a desarrollar sentimientos por Heng. En medio de este inesperado triángulo amoroso, Heng tendrá que descubrir quién ocupa realmente su corazón.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/96/26/7a/96267a3023e7f44c2b76a62df0d7c3c9.jpg',
+'https://i.pinimg.com/736x/f4/ae/88/f4ae886a3c05e625de8e884fe55c7176.jpg',
+'https://i.pinimg.com/736x/6e/d2/b2/6ed2b21df17a9b6cdf7ddfe47811acdb.jpg',
+'https://i.pinimg.com/736x/2d/ba/b0/2dbab07f8e022940bbad793974d94374.jpg'],
+    trailer:['https://www.youtube.com/watch?v=lsEDajn3xJ4'],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']},
+    {codigo:'EN000051',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   CUPID'S GHOST — DR000088   ========================================== */
+{
+codigo:'DR000088',
+titulo:"Cupid's Ghost",
+tituloOriginal:'ผีผลักให้รักคุณ',
+alias:['Phi Phlak Hai Rak Khun'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000088',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Romance','Comedia','Fantasía'],
+tags:['BL','Romance','Comedia','Fantasma','Sobrenatural'],
+personas:[
+    {nombre:'Jett Sukhati',persona:'PR000198',funcion:['Actor'],principal:true},
+    {nombre:'Phut',persona:'PR000514',funcion:['Actor'],principal:true},
+    {nombre:'Ing',persona:'PR000055',funcion:['Actor'],principal:false},
+    {nombre:'Nile',persona:'PR000556',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000079',personajes:['Jett Sukhati','Phut']},
+    {ship:'SH000108',personajes:['Ing','Nile']}
+],
+sinopsis:'Phut es un florista que tiene miedo de los fantasmas y, por ello, también de los funerales. Cuando se encuentra con un fantasma en la funeraria de Jett, este le ofrece un trabajo que consiste en comunicarse con las personas fallecidas a las que presta sus servicios. A partir de ese encuentro comenzará una historia de romance, fantasmas y situaciones inesperadas.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/d8/cf/24/d8cf2450ae1635da35390ba0635eb2a8.jpg','https://i.pinimg.com/736x/37/52/5b/37525bae286a24374898a9bfa60816fa.jpg'],
+    trailer:[],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=KYwx7hLWTOM'],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']},
+    {codigo:'EN000052',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
 	
 ];
