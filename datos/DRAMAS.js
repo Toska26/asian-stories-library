@@ -4455,4 +4455,209 @@ especiales:[],
 activo:true
 },
 
+/* ==========================================   ENCHANTÉ — DR000075   ========================================== */
+{
+codigo:'DR000075',
+titulo:'Enchanté',
+tituloOriginal:'ใครคืออองชองเต',
+alias:['Who Is Enchanté?'],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000075',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:45,
+estado:'Finalizado',
+estreno:'2022-01-28',
+finalizacion:'2022-04-01',
+generos:['Comedia','Romance'],
+tags:['BL','Universidad','Juventud'],
+personas:[
+    {nombre:'Akk',persona:'PR000516',funcion:['Actor'],principal:true},
+    {nombre:'Theo',persona:'PR000517',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000081',personajes:['Akk','Theo']}
+],
+sinopsis:'Theo regresa a Tailandia después de haber vivido varios años en Francia y retoma su amistad con Akk, su vecino y amigo de la infancia. Al encontrar en un libro de la biblioteca unos mensajes firmados por alguien que se identifica como Enchanté, Theo comienza a buscar su identidad. Cuatro estudiantes se presentan como el misterioso Enchanté, mientras Akk lo ayuda a descubrir quién está detrás de los mensajes. Durante la búsqueda, la relación entre Theo y Akk empieza a cambiar y ambos deben enfrentarse a sentimientos que habían permanecido ocultos desde su infancia.',
+multimedia:{
+    portada:[        'https://media.senscritique.com/media/000020508093/0/enchante.jpg'    ],
+    trailer:[        'https://www.youtube.com/watch?v=7nBxV1IRIcg'    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=IHT_jd61RFQ',
+        'https://www.youtube.com/watch?v=02f64J53ry4'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   A BOSS AND A BABE — DR000076   ========================================== */
+{
+codigo:'DR000076',
+titulo:'A Boss and a Babe',
+tituloOriginal:'ชอกะเชร์คู่กันต์',
+alias:['Cho Ka Cher Khu Gun','Together, Cher and Gun'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000076',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:43,
+estado:'Finalizado',
+estreno:'2023-03-03',
+finalizacion:'2023-05-19',
+generos:['Comedia','Romance'],
+tags:['BL','Universidad','Juventud','Trabajo','Videojuegos'],
+personas:[
+    {nombre:'Gun',persona:'PR000516',funcion:['Actor'],principal:true},
+    {nombre:'Cher',persona:'PR000517',funcion:['Actor'],principal:true},
+    {nombre:'Thir',persona:'PR000557',funcion:['Actor'],principal:true},
+    {nombre:'Zo',persona:'PR000558',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000081',personajes:['Gun','Cher']},
+    {ship:'SH000109',personajes:['Thir','Zo']}
+],
+sinopsis:'Cher, un estudiante universitario en su último año que aspira a convertirse en jugador profesional de e-sports, comienza unas prácticas en una empresa de videojuegos dirigida por Gun. El carácter directo y despreocupado de Cher llama la atención de su jefe, que además descubre que él es el creador del canal ASMR que le ayuda a dormir cada noche. Lo que comienza como una relación entre jefe y becario evoluciona poco a poco hacia una relación sentimental. Al mismo tiempo, Thir y Zo desarrollan su propia historia dentro de la empresa.',
+multimedia:{
+    portada:[        'https://www.gmm-tv.com/cms/upload_file/category/poster/d49fb8dd118081053469cd986f0a5481.jpg'    ],
+    trailer:[        'https://www.youtube.com/watch?v=ddFvBD4kCy8'    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=4zak6EoLYOs',
+        'https://www.youtube.com/watch?v=oAu8XZJbbKw'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   MELODY OF SECRETS — DR000077   ========================================== */
+{
+codigo:'DR000077',
+titulo:'Melody of Secrets',
+tituloOriginal:'ความลับในบทเพลงที่บรรเลงไม่รู้จบ',
+alias:['Khwam Lap Nai Bot Phleng Thi Banleng Mai Ru Chop'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000077',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:45,
+estado:'Finalizado',
+estreno:'2025-12-05',
+finalizacion:'2026-02-13',
+generos:['Drama','Romance','Misterio','Thriller'],
+tags:['BL','Música','Crimen','Misterio'],
+personas:[
+    {nombre:'Tankhun',persona:'PR000516',funcion:['Actor'],principal:true},
+    {nombre:'Botpleng',persona:'PR000517',funcion:['Actor'],principal:true},
+    {nombre:'Thanphop',persona:'PR000529',funcion:['Actor'],principal:true},
+    {nombre:'Botpleng',persona:'PR000530',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000081',personajes:['Tankhun','Botpleng']},
+    {ship:'SH000089',personajes:['Thanphop','Botpleng']}
+],
+sinopsis:'Botpleng es un joven periodista que ha perdido parte de sus recuerdos tras un accidente. Cuando encuentra un diario que habla de una relación amorosa de su pasado, descubre el nombre de Tankhun, un hombre que supuestamente fue su primer amor. Al reencontrarse con él, Botpleng sospecha que algo no encaja y decide acercarse a Tankhun mientras investiga un misterioso caso de asesinato relacionado con el día en que se conocieron. A medida que salen a la luz secretos, recuerdos e identidades ocultas, ambos vuelven a enfrentarse a unos sentimientos que parecían pertenecer al pasado.',
+multimedia:{
+    portada:[        'https://bldramas.com/wp-content/uploads/2025/11/Meledoy-of-secret-2.jpg'    ],
+    trailer:[        'https://www.youtube.com/watch?v=ouGVE645dXE'    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=8E1YTlqyHBE',
+        'https://www.youtube.com/watch?v=LH_50OZn-0g'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000014',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   LOVERS & GANGSTERS — DR000078   ========================================== */
+{
+codigo:'DR000078',
+titulo:'Lovers & Gangsters',
+tituloOriginal:'หงเสนคลุกฝุ่น',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000078',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Drama','Romance','Acción'],
+tags:['BL','Mafia','Histórico','Gangsters'],
+personas:[
+    {nombre:'Hongsen',persona:'PR000516',funcion:['Actor'],principal:true},
+    {nombre:'YongYi',persona:'PR000517',funcion:['Actor'],principal:true},
+    {nombre:'Seng',persona:'PR000559',funcion:['Actor'],principal:true},
+    {nombre:'Zo',persona:'PR000390',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000081',personajes:['Hongsen','YongYi']},
+    {ship:'SH000110',personajes:['Seng','Zo']}
+],
+sinopsis:'Ambientada en la Tailandia de los años 50, la historia gira en torno a dos bandas de gánsteres rivales. Hongsen lidera la banda Kaoyod y se ve sorprendido cuando YongYi, cuyo padre fue asesinado por su grupo, decide entrar en la banda. A pesar del conflicto y del pasado que los separa, ambos terminan desarrollando sentimientos. Al mismo tiempo, Seng, hermano de YongYi y líder de la banda rival Klukfoon, busca vengarse de Hongsen mientras su relación con Zo complica todavía más el enfrentamiento entre las dos familias.',
+multimedia:{
+    portada:[        'https://image.idntimes.com/post/20251125/img_3010_7740836d-92c6-4ce3-b666-3eef403023d5.jpeg?tr=w-640'    ],
+    trailer:[],
+    teaser:[],
+    pilot:[        'https://www.youtube.com/watch?v=s-Wu-tmQXTM'    ],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
+
+
+	
 ];
