@@ -4242,5 +4242,217 @@ entidades:[
 especiales:[],
 activo:true
 },
-	
+
+/* ==========================================   NEVER LET ME GO — DR000071   ========================================== */
+{
+codigo:'DR000071',  titulo:'Never Let Me Go',
+tituloOriginal:'เพื่อนายแค่หนึ่งเดียว',
+alias:['Phuea Nai Khae Nueng Diao'],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000071',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:53,
+estado:'Finalizado',
+estreno:'2022-12-13',
+finalizacion:'2023-02-28',
+generos:['Drama','Romance','Acción'],
+tags:['BL','Escolar','Juventud'],
+personas:[
+    {nombre:'Palm',persona:'PR000515',funcion:['Actor'],principal:true},
+    {nombre:'Nuengdiao',persona:'PR000284',funcion:['Actor'],principal:true},
+    {nombre:'Chopper',persona:'PR000191',funcion:['Actor'],principal:true},
+    {nombre:'Ben',persona:'PR000548',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000080',personajes:['Palm','Nuengdiao']},
+    {ship:'SH000101',personajes:['Chopper','Ben']}
+],
+sinopsis:'Nuengdiao es el heredero de una familia poderosa cuya vida cambia cuando su padre es asesinado. Para protegerlo, Palm, hijo de un empleado de confianza de la familia, se convierte en su guardaespaldas. Mientras ambos afrontan amenazas y conflictos familiares, la relación entre ellos evoluciona de la protección y la amistad hacia el amor. Paralelamente, Chopper y Ben desarrollan su propia historia mientras se enfrentan a los problemas de sus respectivas familias.',
+multimedia:{
+    portada:[	'https://i.pinimg.com/736x/f1/de/85/f1de850015bb6e377b8c8330ea00878b.jpg',
+				'https://i.pinimg.com/736x/74/05/9e/74059ea8aff473735a0f37841e7785c0.jpg',
+				'https://i.pinimg.com/1200x/b3/82/6e/b3826e8f88df9e048b731c0390092886.jpg',
+				'https://i.pinimg.com/1200x/14/7c/1f/147c1f4b88a6db6a6e4c71560ddaa26b.jpg',
+ 		    	'https://i.imgur.com/rdPMFaZ.jpg'
+	],
+    trailer:[        'https://www.youtube.com/watch?v=p8AwJVKAJAM'    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=Bzx89phzpek',
+        'https://www.youtube.com/watch?v=E_iHxCqX_vE'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']}
+],
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   DANGEROUS ROMANCE — DR000072   ========================================== */
+{
+codigo:'DR000072',	titulo:'Dangerous Romance',
+tituloOriginal:'หัวใจในสายลม',
+alias:['Hua Jai Nai Lom'],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000072',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:45,
+estado:'Finalizado',
+estreno:'2023-08-18',
+finalizacion:'2023-11-03',
+generos:['Drama','Romance'],
+tags:['BL','Escolar','Juventud'],
+personas:[
+    {nombre:'Kanghan',persona:'PR000191',funcion:['Actor'],principal:true},
+    {nombre:'Sailom',persona:'PR000548',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000101',personajes:['Kanghan','Sailom']}
+],
+sinopsis:'Sailom es un estudiante becado con pocos recursos que, tras enfrentarse a Kanghan, un compañero rico y problemático, termina trabajando como su tutor particular. Lo que comienza como una relación marcada por los conflictos y las diferencias sociales se transforma gradualmente en una amistad y después en sentimientos que ninguno de los dos esperaba.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/bb/b0/17/bbb01756181ada9d0a2ec61a3a1a0e84.jpg',
+			'https://i.pinimg.com/736x/f5/73/2c/f5732cf3863d37167d6e026eaaaeb927.jpg',
+			'https://i.pinimg.com/1200x/8c/dd/3a/8cdd3a371c4f51a4cc53e3a4da4fe6b6.jpg',
+   			 'https://cms.dmpcdn.com/ugcarticle/2023/08/20/5a185af0-3f3b-11ee-8dbf-6f718e4dc00c_webp_original.webp',
+ 			 'https://bancodeseries.com.br/images/posters/31433.jpg'
+	],
+    trailer:[
+        'https://www.youtube.com/watch?v=-gV6qWZIJmg',
+        'https://www.youtube.com/watch?v=HEmIL-kZQjQ'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=8P9N82LkW7U',
+        'https://www.youtube.com/watch?v=nQj3Bw8qFAQ',
+        'https://www.youtube.com/watch?v=oYxA2EbIJFc'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   LOVE YOU TEACHER — DR000073   ========================================== */
+{
+codigo:'DR000073',	titulo:'Love You Teacher',
+tituloOriginal:'รักครูเท่าโลกเลย',
+alias:['Rak Khru Thao Lok Loei'],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000073',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:47,
+estado:'Finalizado',
+estreno:'2026-03-14',
+finalizacion:'2026-05-16',
+generos:['Comedia','Romance','Drama'],
+tags:['BL','Escolar','Juventud'],
+personas:[
+    {nombre:'Pobmek',persona:'PR000191',funcion:['Actor'],principal:true},
+    {nombre:'Solar',persona:'PR000073',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000087',personajes:['Pobmek','Solar']}
+],
+sinopsis:'Pobmek es un profesor de primaria de carácter serio que no se lleva especialmente bien con los niños. Su novio Solar, también profesor, es mucho más alegre y afectuoso. Después de que Solar sufra un accidente que le provoca una lesión cerebral y hace que su mente regrese ocasionalmente a la de un niño de siete años, Pobmek tendrá que enfrentarse a una nueva realidad mientras intenta cuidar de la persona que ama y mantener su relación.',
+multimedia:{
+	 portada:['https://i.pinimg.com/736x/d8/56/e8/d856e8d5ef5b0d9f622222bca19e7fc1.jpg',
+			'https://i.pinimg.com/736x/d0/40/8d/d0408d5c8e67dfc70e6caf68b031cd26.jpg',
+    		'https://static.tvmaze.com/uploads/images/original_untouched/545/1363706.jpg'
+			],
+    trailer:[        'https://www.youtube.com/watch?v=c4QnAOLeI2o'    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=-OwlECihP68',
+        'https://www.youtube.com/watch?v=PE1RN0rkau4',
+        'https://www.youtube.com/watch?v=8e15jzG0Pao',
+        'https://www.youtube.com/watch?v=C85IgYzuDqA'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000041',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+
+/* ==========================================   HEARTBOUND — DR000074   ========================================== */
+{
+codigo:'DR000074',	titulo:'Heartbound',
+tituloOriginal:'สุดทางหัวใจ',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000074',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Drama','Romance'],
+tags:['BL'],
+personas:[
+    {nombre:'Gun',persona:'PR000191',funcion:['Actor'],principal:true},
+    {nombre:'Aiyara',persona:'PR000073',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000087',personajes:['Gun','Aiyara']}
+],
+sinopsis:'Un accidente inesperado pone a un arquitecto en problemas con la persona equivocada: un empresario latino perteneciente a una familia mafiosa. Aunque sus personalidades son muy diferentes, la cercanía entre ambos hace que sus sentimientos crezcan.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/f9/44/27/f94427dbb0b5ef08799d9669283f0d35.jpg',
+			'https://i.pinimg.com/736x/5d/c8/b7/5dc8b79cb84d156e72ca62df77ecc831.jpg',
+			'https://i.pinimg.com/736x/74/48/3f/74483f57e4f267c7fede42b7591b1715.jpg'],
+    trailer:[
+        'https://www.youtube.com/watch?v=I1guVkLJ4mU'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[]
+},
+entidades:[    {codigo:'EN000004',funcion:['Productora']}],
+especiales:[],
+activo:true
+},
+
 ];
