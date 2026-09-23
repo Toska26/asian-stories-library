@@ -57,4 +57,7 @@ const ENTIDADES = [
 {codigo:'EN000051', nombre:'TV Asahi', pais:'JP', tipos:['Productora'], activo:true},
 {codigo:'EN000052', nombre:'Cholumpi Brothers', pais:'TH', tipos:['Productora'], activo:true},
    { codigo: 'EN000053', nombre: 'Gemmistry Studio', pais: 'TH', tipos: ['Productora'], activo: true },
+{ codigo:'EN000054', nombre:'AIS PLAY', pais:'TH', tipos:['Plataforma'], activo:true },
+{ codigo:'EN000055', nombre:'Parbdee Taweesuk', pais:'TH', tipos:['Productora'], activo:true },
+{ codigo:'EN000056', nombre:'Chamade Film', pais:'TH', tipos:['Productora'], activo:true },
 ];
