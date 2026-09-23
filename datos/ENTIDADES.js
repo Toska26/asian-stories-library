@@ -54,5 +54,6 @@ const ENTIDADES = [
 { codigo: 'EN000048', nombre: 'Copy A Bangkok', pais: 'TH', tipos: ['Productora'], activo: true },
    { codigo: 'EN000049', nombre: 'TrueVisions Now', pais: 'TH', tipos: ['Emisora'], activo: true },
 {codigo:'EN000050', nombre:'GMO Films', pais:'TH', tipos:['Productora'], activo:true},
-
+{codigo:'EN000051', nombre:'TV Asahi', pais:'JP', tipos:['Productora'], activo:true},
+{codigo:'EN000052', nombre:'Cholumpi Brothers', pais:'TH', tipos:['Productora'], activo:true},
 ];
