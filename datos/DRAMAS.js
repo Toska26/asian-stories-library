@@ -4592,7 +4592,9 @@ ships:[
 ],
 sinopsis:'Botpleng es un joven periodista que ha perdido parte de sus recuerdos tras un accidente. Cuando encuentra un diario que habla de una relación amorosa de su pasado, descubre el nombre de Tankhun, un hombre que supuestamente fue su primer amor. Al reencontrarse con él, Botpleng sospecha que algo no encaja y decide acercarse a Tankhun mientras investiga un misterioso caso de asesinato relacionado con el día en que se conocieron. A medida que salen a la luz secretos, recuerdos e identidades ocultas, ambos vuelven a enfrentarse a unos sentimientos que parecían pertenecer al pasado.',
 multimedia:{
-    portada:[        'https://bldramas.com/wp-content/uploads/2025/11/Meledoy-of-secret-2.jpg'    ],
+    portada:[        ' https://i.pinimg.com/736x/e8/94/ac/e894ac0e5e620e19d0b8e7ced52c8da2.jpg',
+					 'https://i.pinimg.com/736x/d8/cd/01/d8cd01ee076318ca4a8e53a288600218.jpg',
+					 'https://i.pinimg.com/736x/66/ec/a3/66eca353df653a65f952f1b33116658d.jpg'    ],
     trailer:[        'https://www.youtube.com/watch?v=ouGVE645dXE'    ],
     teaser:[],
     pilot:[],
