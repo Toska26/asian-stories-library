@@ -4660,6 +4660,321 @@ especiales:[],
 activo:true
 },
 
+/* ==========================================   STAR IN MY MIND — DR000079   ========================================== */
+{
+codigo:'DR000079',
+titulo:'Star in My Mind',
+tituloOriginal:'แล้วแต่ดาว',
+alias:[],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:{ codigo:'FR000013', orden:1 },
+universo:'',
+serie:'SR000079',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2022-04-08',
+finalizacion:'2022-05-27',
+generos:['Comedia','Romance','Juventud'],
+tags:['BL','Romance','Universidad','Reencuentro'],
+personas:[
+    {nombre:'Daonuea',persona:'PR000519',funcion:['Actor'],principal:true},
+    {nombre:'Khabkluen',persona:'PR000518',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000082',personajes:['Daonuea','Khabkluen']}
+],
+sinopsis:'Daonuea regresa a Tailandia después de varios años estudiando en Alemania y vuelve a encontrarse con Khabkluen, su primer amor universitario. Años atrás, Daonuea se había declarado, pero no recibió la respuesta que esperaba. Ahora, al reencontrarse, descubre que sus sentimientos por Khabkluen siguen presentes y que quizá la historia entre ambos todavía no ha terminado.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/07/31/c9/0731c902e73ae5774dd51bc165295d38.jpg',
+'https://i.pinimg.com/736x/15/2a/6d/152a6d82b6e065b277e39f20accce006.jpg',
+'https://i.pinimg.com/1200x/aa/30/f5/aa30f557e6d0f56f877f297a780f3b41.jpg',
+'https://i.pinimg.com/736x/62/6f/e5/626fe55c7e2c29a5586a6727658038ad.jpg','https://image.tmdb.org/t/p/original/ep50huHBkNMS3mvhWCo298DyRsn.jpg'],
+    trailer:['https://www.youtube.com/watch?v=LbxTzpWqGWE'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=Dt4Rp05OImE',
+        'https://www.youtube.com/watch?v=TKng-k4dq-w',
+        'https://www.youtube.com/watch?v=q1ED0Ty8X_o'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   SKY IN YOUR HEART — DR000080   ========================================== */
+{
+codigo:'DR000080',
+titulo:'Sky in Your Heart',
+tituloOriginal:'ขั้วฟ้าของผม',
+alias:[],
+tipo:'Drama',
+anio:2022,
+pais:'TH',
+idioma:'th',
+franquicia:{ codigo:'FR000013', orden:2 },
+universo:'',
+serie:'SR000080',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2022-06-03',
+finalizacion:'2022-07-22',
+generos:['Romance'],
+tags:['BL','Romance','Universidad','Montaña'],
+personas:[
+    {nombre:'Fah',persona:'PR000270',funcion:['Actor'],principal:true},
+    {nombre:'Prince',persona:'PR000530',funcion:['Actor'],principal:true},
+    {nombre:'Khabkluen',persona:'PR000518',funcion:['Actor'],principal:false},
+    {nombre:'Daonuea',persona:'PR000519',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000111',personajes:['Fah','Prince']},
+    {ship:'SH000082',personajes:['Khabkluen','Daonuea']}
+],
+sinopsis:'Fah, un estudiante de medicina, viaja a una remota zona montañosa junto a su amigo Prince para realizar voluntariado. Allí conoce a Prince, un joven de carácter reservado con quien inicialmente mantiene una relación complicada. La convivencia y las experiencias que comparten hacen que sus sentimientos evolucionen mientras descubren nuevas facetas del otro.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/9b/2d/9a/9b2d9a292a7647acb631a428a30ad6d3.jpg','https://i.pinimg.com/736x/bc/93/91/bc93913738a5ef580fc28ac43df112ef.jpg','https://static.tvmaze.com/uploads/images/original_untouched/409/1024982.jpg'],
+    trailer:['https://www.youtube.com/watch?v=7USu2ixI37k'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=q1ED0Ty8X_o',
+        'https://www.youtube.com/watch?v=CwIeJVt1CqM'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   HIDDEN AGENDA — DR000081   ========================================== */
+{
+codigo:'DR000081',
+titulo:'Hidden Agenda',
+tituloOriginal:'วาระซ่อนเร้น',
+alias:[],
+tipo:'Drama',
+anio:2023,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000081',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'48 min',
+estado:'Finalizado',
+estreno:'2023-07-09',
+finalizacion:'2023-09-24',
+generos:['Comedia','Romance'],
+tags:['BL','Universidad','Romance','Amistad'],
+personas:[
+    {nombre:'Joke',persona:'PR000518',funcion:['Actor'],principal:true},
+    {nombre:'Zo',persona:'PR000519',funcion:['Actor'],principal:true},
+    {nombre:'Pat',persona:'PR000533',funcion:['Actor'],principal:false},
+    {nombre:'Jeng',persona:'PR000534',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000082',personajes:['Joke','Zo']},
+    {ship:'SH000092',personajes:['Pat','Jeng']}
+],
+sinopsis:'Zo es un estudiante universitario que quiere acercarse a Nita y decide pedir ayuda a Joke, un estudiante experimentado en relaciones y seducción. Lo que comienza como una estrategia para conquistar a otra persona acaba acercando cada vez más a Zo y Joke. Mientras ambos descubren sus verdaderos sentimientos, la relación entre Pat y Jeng también evoluciona a su alrededor.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/7b/55/22/7b552242d1798912152bb8410456e354.jpg',
+'https://i.pinimg.com/736x/0b/a8/d2/0ba8d2c78ac4667b3c178a5f89a57c4e.jpg',
+'https://i.pinimg.com/736x/19/80/4b/19804ba7f5dd2170a545c98af7fa570a.jpg',
+'https://i.pinimg.com/736x/3b/d4/11/3bd4112d5c79e666406ff45566c6ba68.jpg','https://image.tmdb.org/t/p/original/uxNm0RfDTxTK2cg5Zt4dJZNbxDJ.jpg'],
+    trailer:['https://www.youtube.com/watch?v=UdPTjMt52jM'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=AYz5JGU1TWg',
+        'https://www.youtube.com/watch?v=Tryba5gU1h0'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   THE HEART KILLERS — DR000082   ========================================== */
+{
+codigo:'DR000082',
+titulo:'The Heart Killers',
+tituloOriginal:'เขาจ้างให้ผมจีบนักฆ่า',
+alias:[],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000082',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'',
+estado:'Finalizado',
+estreno:'2024-11-20',
+finalizacion:'2025-02-05',
+generos:['Comedia','Romance','Acción','Suspense'],
+tags:['BL','Mafia','Asesinos','Acción','Romance'],
+personas:[
+    {nombre:'Fadel',persona:'PR000518',funcion:['Actor'],principal:true},
+    {nombre:'Style',persona:'PR000519',funcion:['Actor'],principal:true},
+    {nombre:'Kant',persona:'PR000388',funcion:['Actor'],principal:true},
+    {nombre:'Bison',persona:'PR000017',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000082',personajes:['Fadel','Style']},
+    {ship:'SH000068',personajes:['Kant','Bison']}
+],
+sinopsis:'Kant, un tatuador con problemas económicos, recibe el encargo de acercarse a dos hermanos que trabajan como asesinos a sueldo. Para cumplir su misión se alía con su amigo Style, pero el plan se complica cuando ambos terminan desarrollando sentimientos por los hermanos Fadel y Bison. Entre secretos, encargos y peligros, las relaciones ponen en riesgo tanto la misión como la vida de todos ellos.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/16/17/ea/1617ea0bae65ab72ea35b2e16d2ce553.jpg',
+'https://i.pinimg.com/736x/bd/f1/13/bdf1134a9263c7ffd24ec3643ae7b0c6.jpg',
+'https://i.pinimg.com/736x/c7/f1/f7/c7f1f75f85e7917d1c67995e42e0f30b.jpg',
+'https://i.pinimg.com/736x/36/87/33/368733e2f3296616a417e9a17f53375a.jpg','https://static.tvmaze.com/uploads/images/original_untouched/544/544932.jpg'],
+    trailer:['https://www.youtube.com/watch?v=jfagnr691kE'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=x5cMa7MKz9s',
+        'https://www.youtube.com/watch?v=pLuNEX9v2-8',
+        'https://www.youtube.com/watch?v=5e-UG_Y6Rng',
+        'https://www.youtube.com/watch?v=rKmZsVBCzrs',
+        'https://www.youtube.com/watch?v=1ky1hKdAJK4'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000007',funcion:['Productora']},
+    {codigo:'EN000050',funcion:['Productora']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   DARE YOU TO DEATH — DR000083   ========================================== */
+{
+codigo:'DR000083',
+titulo:'Dare You to Death',
+tituloOriginal:'ไขคดีเป็น เห็นคดีตาย',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000083',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'',
+estado:'Finalizado',
+estreno:'2026-04-02',
+finalizacion:'2026-06-04',
+generos:['Drama','Romance','Misterio','Thriller'],
+tags:['BL','Policial','Misterio','Investigación','Crimen'],
+personas:[
+    {nombre:'Jade',persona:'PR000518',funcion:['Actor'],principal:true},
+    {nombre:'Kamin',persona:'PR000519',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000082',personajes:['Jade','Kamin']}
+],
+sinopsis:'Jade, un joven policía, se ve obligado a investigar una serie de muertes misteriosas junto a Kamin, un inspector que ha regresado al país después de estudiar en el extranjero. Aunque sus personalidades y métodos son muy diferentes, ambos deben trabajar juntos para descubrir quién está detrás de los asesinatos. Mientras la investigación avanza y el peligro aumenta, la relación entre ellos también se vuelve cada vez más cercana.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/09/51/92/095192a6e06bfc616da3e641deae187d.jpg','https://i.pinimg.com/1200x/5d/d3/40/5dd340b8b7946ff676e4c0ab277b0c69.jpg','https://pbs.twimg.com/media/G7XzWOVawAAGjAq.jpg'],
+    trailer:['https://www.youtube.com/watch?v=OdaPoeA6lFU'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=Zezj30oOUds',
+        'https://www.youtube.com/watch?v=RLxFl6LmmRc',
+        'https://www.youtube.com/watch?v=rzVvmwXUORE'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000040',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   HOW TO SURVIVE MY CEO — DR000084   ========================================== */
+{
+codigo:'DR000084',
+titulo:'How to Survive My CEO',
+tituloOriginal:'พัตลมอย่าแย่',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000084',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Comedia','Romance'],
+tags:['BL','Romance','Oficina','CEO'],
+personas:[
+    {nombre:'Patlom',persona:'PR000518',funcion:['Actor'],principal:true},
+    {nombre:'Pafon',persona:'PR000519',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000082',personajes:['Patlom','Pafon']}
+],
+sinopsis:'Patlom es un joven empresario cuya vida está completamente centrada en el trabajo hasta que conoce a Pafon. Después de un encuentro inesperado entre ambos, descubre que Pafon será su nuevo becario. Lo que comienza como una situación complicada pronto se transforma en una relación marcada por la atracción, los malentendidos y los sentimientos que ambos intentan ocultar.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/f3/28/d4/f328d4225d7c4a04d2aef6c2ad043b84.jpg','https://mintmagth.s3.ap-southeast-1.amazonaws.com/photos/shares/Mint%20People/2025/NOV/GMMTV%202026/6926d1b98e9b0.jpeg'],
+    trailer:[],
+    teaser:[],
+    pilot:['https://www.youtube.com/watch?v=vqnTE9LMoA8'],
+    ost:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000010',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
 
 	
 ];
