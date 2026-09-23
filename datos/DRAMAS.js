@@ -5296,4 +5296,250 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+	/* ==========================================   WE ARE — DR000091 ========================================== */
+{
+codigo:'DR000091',
+titulo:'We Are',
+tituloOriginal:'We Are คือเรารักกัน',
+alias:['We Are คือเรารักกัน'],
+tipo:'Drama',
+anio:2024,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000091',
+temporadas:1,
+temporada:1,
+episodios:16,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2024-04-03',
+finalizacion:'2024-07-17',
+generos:['Romance','Comedia','Juvenil'],
+tags:['BL','Universidad','Estudiantes','Amistad','Vida universitaria','Enamoramiento'],
+personas:[
+    {nombre:'Phum',persona:'PR000515',funcion:['Actor'],principal:true},
+    {nombre:'Peem',persona:'PR000284',funcion:['Actor'],principal:true},
+    {nombre:'Q',persona:'PR000524',funcion:['Actor'],principal:true},
+    {nombre:'Toey',persona:'PR000525',funcion:['Actor'],principal:true},
+    {nombre:'Tan',persona:'PR000533',funcion:['Actor'],principal:true},
+    {nombre:'Fang',persona:'PR000534',funcion:['Actor'],principal:true},
+    {nombre:'Chain',persona:'PR000561',funcion:['Actor'],principal:false},
+    {nombre:'Pun',persona:'PR000556',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000080',personajes:['Phum','Peem']},
+    {ship:'SH000085',personajes:['Q','Toey']},
+    {ship:'SH000092',personajes:['Tan','Fang']},
+    {ship:'SH000113',personajes:['Chain','Pun']}
+],
+sinopsis:'Un grupo de amigos universitarios intenta compaginar sus estudios, la amistad y los sentimientos que comienzan a surgir entre ellos. Phum y Peem, Q y Toey, Tan y Fang, y Chain y Pun vivirán diferentes etapas de sus relaciones mientras descubren que el amor puede aparecer en medio de la amistad y de las situaciones más caóticas de la vida universitaria.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/fa/2f/04/fa2f044dea673902a386061519533709.jpg',
+'https://i.pinimg.com/736x/3a/79/3a/3a793a544640dfee9ec27869bdd8c87c.jpg',
+'https://i.pinimg.com/1200x/70/9a/e0/709ae096a8e4023777c06fead82829fd.jpg',
+'https://i.pinimg.com/736x/cc/f3/bb/ccf3bbc9d5afe4aec80cc166ed430925.jpg',
+'https://i.pinimg.com/736x/48/bf/88/48bf8882b625705e3be03b73dee350e7.jpg',
+'https://i.pinimg.com/736x/2b/a7/c7/2ba7c715e9cb1b540d937157bc4a5797.jpg',
+'https://i.pinimg.com/1200x/9c/42/e6/9c42e63e276dfc973ad564a8f83ffc1e.jpg',
+        'https://bldramas.com/wp-content/uploads/2024/04/we-are-poster.webp'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=LHiFM1mfahk'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=RRD1Rtsj4cE',
+        'https://www.youtube.com/watch?v=3Om0znCNfJ0',
+        'https://www.youtube.com/watch?v=-Y9NfUPdlFg',
+        'https://www.youtube.com/watch?v=B9RqVCGTRxE'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   MEMOIR OF RATI — DR000092  ========================================== */
+{
+codigo:'DR000092',
+titulo:'Memoir of Rati',
+tituloOriginal:'จาฤกรติชา',
+alias:['Memoir Of Rati','Jarak Rati Cha'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000092',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'60 min',
+estado:'Finalizado',
+estreno:'2025-06-20',
+finalizacion:'2025-09-05',
+generos:['Romance','Drama','Histórico'],
+tags:['BL','Época','Siam','Aristocracia','Diferencias sociales','Amor prohibido','Francia','Intérprete'],
+personas:[
+    {nombre:'Rati',persona:'PR000562',funcion:['Actor'],principal:true},
+    {nombre:'Theeratorn',persona:'PR000559',funcion:['Actor'],principal:true},
+    {nombre:'Mek',persona:'PR000533',funcion:['Actor'],principal:false},
+    {nombre:'Dech',persona:'PR000534',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000114',personajes:['Rati','Theeratorn']},
+    {ship:'SH000092',personajes:['Mek','Dech']}
+],
+sinopsis:'Rati, un huérfano de origen humilde que fue criado bajo la protección de una familia aristocrática, regresa a Siam después de veinte años como intérprete de la embajada francesa. Allí conoce a Theeratorn, un noble que ocupa un alto cargo en el Ministerio de Educación. Lo que comienza como un encuentro marcado por el amor a primera vista se transforma en una relación que debe enfrentarse a las diferencias sociales y a las restricciones de la sociedad de la época. Al mismo tiempo, Mek, un humilde trabajador, desarrolla una relación con Dech, un joven aristócrata cuya posición social amenaza con convertirse en un obstáculo para ambos.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/9a/b4/f6/9ab4f671bed700e21751b9912e782767.jpg',
+'https://i.pinimg.com/736x/08/37/ee/0837ee9dec828d536cf6b5e7e2d2d3d0.jpg',
+'https://i.pinimg.com/736x/fe/55/ee/fe55eeda58bcf666becf0d65a496786f.jpg',
+'https://i.pinimg.com/1200x/8d/eb/97/8deb9745d0069cd9a263046041f58520.jpg',        'https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FatpWS19QH1HOwaUrw2cxyEW6ay3.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=o1vKWWNFaTI'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=OZ-PXZVPZck'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=qxBmzCnwJcE',
+        'https://www.youtube.com/watch?v=C3cTRd79oeU',
+        'https://www.youtube.com/watch?v=o2vH_wey7nc'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   BILLIONAIRE BIKER — DR000093  ========================================== */
+{
+codigo:'DR000093',
+titulo:'Billionaire Biker',
+tituloOriginal:'Billionaire Biker',
+alias:[],
+tipo:'Drama',
+anio:2026,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000093',
+temporadas:1,
+temporada:1,
+episodios:'',
+duracion:'',
+estado:'Anunciado',
+estreno:'',
+finalizacion:'',
+generos:['Romance','Comedia'],
+tags:['BL','Oficina','Jefe y empleado','Motocicleta','Diferencias sociales','Rico y pobre'],
+personas:[
+    {nombre:'Win',persona:'PR000533',funcion:['Actor'],principal:true},
+    {nombre:'Ocean',persona:'PR000534',funcion:['Actor'],principal:true}
+],
+ships:[
+    {ship:'SH000092',personajes:['Win','Ocean']}
+],
+sinopsis:'Ocean llega a su primer día de trabajo y, al confundir una motocicleta con la de un conductor de mototaxi, termina subiéndose a la moto de Win, el vicepresidente de la empresa. Divertido por el malentendido y atraído por Ocean, Win comienza a pagarle para que realice diferentes tareas con la intención de mantenerlo cerca. Lo que empieza como una situación inesperada en el trabajo pronto se transforma en una relación cada vez más cercana.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/48/bb/04/48bb04b82dbfd1f35b9d08a1da8f1545.jpg',
+        'https://m.media-amazon.com/images/M/MV5BMDA5Nzc5MTMtZTU4My00MzhhLTlmMTctZmNhMTc0YWRjYmQ5XkEyXkFqcGc%40._V1_.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=_aanEYBtdYY'
+    ]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000007',funcion:['Productora']},
+    {codigo:'EN000005',funcion:['Productora']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================   THAT SUMMER — DR000094  ========================================== */
+{
+codigo:'DR000094',
+titulo:'That Summer',
+tituloOriginal:'ผมเจอเจ้าชายบนชายหาด',
+alias:['Pom Choe Chaochai Bon Chai Hat'],
+tipo:'Drama',
+anio:2025,
+pais:'TH',
+idioma:'th',
+franquicia:'',
+universo:'',
+serie:'SR000094',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'50 min',
+estado:'Finalizado',
+estreno:'2025-09-19',
+finalizacion:'2025-11-21',
+generos:['Romance','Drama','Aventura'],
+tags:['BL','Playa','Isla','Amnesia','Príncipe','Verano','Familia','Identidad oculta'],
+personas:[
+    {nombre:'Lava',persona:'PR000524',funcion:['Actor'],principal:true},
+    {nombre:'Davin',persona:'PR000525',funcion:['Actor'],principal:true},
+    {nombre:'Pheng',persona:'PR000293',funcion:['Actor'],principal:false},
+    {nombre:'Wut',persona:'PR000555',funcion:['Actor'],principal:false}
+],
+ships:[
+    {ship:'SH000085',personajes:['Lava','Davin']},
+    {ship:'SH000107',personajes:['Pheng','Wut']}
+],
+sinopsis:'Lava es enviado por su madre a vivir junto al mar con su tío Pheng. Allí encuentra en la playa a un joven que ha perdido la memoria y que resulta ser Davin, un príncipe. Mientras intenta descubrir quién es realmente, Lava lo acoge y lo llama Wave, y ambos comienzan a convivir mientras surge una relación cada vez más cercana. Al mismo tiempo, Pheng y el doctor Wut forman su propia historia alrededor de la vida en la isla.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/43/19/2f/43192fe46cf51d3f508c2696d56055e4.jpg',
+'https://i.pinimg.com/736x/37/86/39/37863982a80618afe8f2109b20a56b62.jpg',
+'https://i.pinimg.com/736x/d4/8d/9b/d48d9b05f8dc3ebe75cbca39c8b3d38a.jpg',
+        'https://m.media-amazon.com/images/M/MV5BM2Y2Yzk3NDUtNzA0My00MjQxLWFhYjItMDFlYjM4ZjIxNGE3XkEyXkFqcGc%40._V1_.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=oE2qF1AB-ks'
+    ],
+    teaser:[],
+    pilot:[
+        'https://www.youtube.com/watch?v=-TYPNqkn9p4'
+    ],
+    ost:[
+        'https://www.youtube.com/watch?v=0-TWkSAljyM',
+        'https://www.youtube.com/watch?v=ejF6Ye_aiGA',
+        'https://www.youtube.com/watch?v=0dpOb9QxZt0'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000004',funcion:['Productora']},
+    {codigo:'EN000006',funcion:['Emisora']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 ];
