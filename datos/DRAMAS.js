@@ -6022,5 +6022,394 @@ entidades:[
 especiales:[],
 activo:true
 },
-	
+
+	/* ==========================================
+   WHERE YOUR EYES LINGER — DR000103
+   ========================================== */
+{
+codigo:'DR000103',
+titulo:'Where Your Eyes Linger',
+tituloOriginal:'너의 시선이 머무는 곳에',
+alias:[
+    'Neoeui Siseoni Meomuneun Gose',
+    'The Place Where Your Gaze Rests',
+    'Before Your Eyes Stop',
+    'Beyond Your Line of Sight'
+],
+tipo:'Drama',
+anio:2020,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000103',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2020-05-22',
+finalizacion:'2020-06-12',
+generos:[
+    'Drama',
+    'Romance',
+    'Melodrama',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Chaebol',
+    'Guardaespaldas',
+    'Amigos de infancia',
+    'Amor secreto',
+    'Familia',
+    'Artes marciales'
+],
+personas:[
+    {nombre:'Han Tae-joo',persona:'PR000567',funcion:['Actor'],principal:true},
+    {nombre:'Kang-gook',persona:'PR000568',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Tae-joo','Kang-gook']}
+],
+sinopsis:'Han Tae-joo es el único heredero de TB Group y vive bajo la estricta vigilancia de su familia. Su mejor amigo de la infancia, Kang-gook, es también su guardaespaldas y permanece siempre a su lado. Cuando una nueva compañera de clase comienza a acercarse a Kang-gook, los sentimientos que ambos habían mantenido ocultos empiezan a salir a la superficie y su relación deja de parecer una simple amistad.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/40/f3/d2/40f3d2c1535fd13a38c0929f796c3506.jpg',
+'https://i.pinimg.com/736x/f4/db/64/f4db64b75323543809e6daedaa60b6c3.jpg',
+        'https://pimg.1px.tw/pink03049/1589087541-3219822327.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/tv/37111c-where-your-eyes-linger'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=DAkkbcKfwaU',
+        'https://www.youtube.com/watch?v=t_b61QULfTA',
+        'https://www.youtube.com/watch?v=Y0_urZWQJ5Q'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000057',funcion:['Productora']},
+    {codigo:'EN000058',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   MR. HEART — DR000104
+   ========================================== */
+{
+codigo:'DR000104',
+titulo:'Mr. Heart',
+tituloOriginal:'Mr. 하트',
+alias:[
+    'Mr. Heart',
+    'Mr.하트'
+],
+tipo:'Drama',
+anio:2020,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000104',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2020-09-18',
+finalizacion:'2020-10-02',
+generos:[
+    'Drama',
+    'Romance',
+    'Deportes',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Atletismo',
+    'Maratón',
+    'Entrenamiento',
+    'Competición',
+    'Deporte',
+    'Entrenador'
+],
+personas:[
+    {nombre:'Go Sang-ha',persona:'PR000569',funcion:['Actor'],principal:true},
+    {nombre:'Jin Won',persona:'PR000570',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Go Sang-ha','Jin Won']}
+],
+sinopsis:'Jin Won es una joven promesa del maratón que concentra toda su atención en mejorar como corredor. Para ayudarle a mantener el ritmo durante sus entrenamientos, su entrenador le asigna a Go Sang-ha como liebre. La cercanía entre ambos hace que Sang-ha desarrolle sentimientos por Jin Won mientras los dos afrontan juntos las exigencias del deporte y sus propias inseguridades.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/9c/85/13/9c85136ddb53c9074be9f521f9d16c2d.jpg',
+        'https://bancodeseries.tv.br/images/posters/20563.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/tv/37272c-mr-heart'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=WE_TYBBMUvQ'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000057',funcion:['Productora']},
+    {codigo:'EN000059',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================
+   WISH YOU: YOUR MELODY FROM MY HEART — DR000105
+   ========================================== */
+{
+codigo:'DR000105',
+titulo:'Wish You: Your Melody from My Heart',
+tituloOriginal:'나의 마음속 너의 멜로디',
+alias:[
+    'Wish You',
+    'Wish You: Your Melody in My Heart',
+    'Naui Maeumsok Neoui Mellodi'
+],
+tipo:'Drama',
+anio:2020,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000105',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2020-12-04',
+finalizacion:'2020-12-25',
+generos:[
+    'Drama',
+    'Romance',
+    'Música',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Música',
+    'Cantante',
+    'Músico',
+    'Cantautor',
+    'Discográfica',
+    'Convivencia',
+    'Amor',
+    'Sueños'
+],
+personas:[
+    {nombre:'Kang In-soo',persona:'PR000571',funcion:['Actor'],principal:true},
+    {nombre:'Yoon Sang-yi',persona:'PR000572',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kang In-soo','Yoon Sang-yi']}
+],
+sinopsis:'Kang In-soo es un cantante callejero que sueña con convertir su pasión por la música en una carrera profesional. Sus actuaciones llaman la atención de Yoon Sang-yi, un teclista que trabaja para una importante compañía discográfica. Cuando Sang-yi decide ayudarle a entrar en un proyecto para nuevos artistas, ambos comienzan a acercarse mientras intentan compaginar sus sentimientos con las exigencias de la industria musical.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/dc/70/04/dc70041942b9423fd2d4157be3ecef6d.jpg',	
+'https://i.pinimg.com/736x/cd/29/7a/cd297a9c19e98a9e530baa1d3164557e.jpg',
+        'https://resize-image.vocus.cc/resize?norotation=true&quality=80&sign=twVTqrfh3YV16-IOQ8jrqR-IDnLjlJBQJRrwixSs2V8&url=https%3A%2F%2Fimages.vocus.cc%2F60ae0d16-0813-4be6-8bfe-abfbbef4125e.jpg&width=740'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=4orkIeDUvLA'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://youtu.be/-tUdu_7DATM',
+        'https://youtu.be/wISW-M7xMhM',
+        'https://youtu.be/oIf_af0XOmw',
+        'https://youtu.be/5HY4XAnpoqc'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000060',funcion:['Productora']},
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora','Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   COLOR RUSH — DR000106
+   ========================================== */
+{
+codigo:'DR000106',
+titulo:'Color Rush',
+tituloOriginal:'컬러 러쉬',
+alias:[
+    'Color Rush',
+    'Keoleo Reoswi'
+],
+tipo:'Drama',
+anio:2020,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000106',
+temporadas:2,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2020-12-30',
+finalizacion:'2021-01-21',
+generos:[
+    'Drama',
+    'Romance',
+    'Misterio',
+    'Fantasía',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Mono',
+    'Probe',
+    'Daltonismo',
+    'Colores',
+    'Desaparición',
+    'Investigación',
+    'Sobrenatural',
+    'Destino'
+],
+personas:[
+    {nombre:'Choi Yeon-woo',persona:'PR000573',funcion:['Actor'],principal:true},
+    {nombre:'Go Yoo-han',persona:'PR000574',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Choi Yeon-woo','Go Yoo-han']}
+],
+sinopsis:'Choi Yeon-woo es un mono, una persona que percibe el mundo únicamente en tonos grises debido a una alteración neurológica. Todo cambia cuando conoce a Go Yoo-han, su probe, cuya presencia provoca en él el fenómeno conocido como color rush y le permite experimentar los colores por primera vez. Mientras intenta comprender esta conexión, Yeon-woo también continúa buscando respuestas sobre la desaparición de su madre.',
+multimedia:{
+    portada:['https://i.pinimg.com/1200x/2e/61/09/2e6109ea1b0035b850774a8f9489035f.jpg',
+'https://i.pinimg.com/1200x/12/09/e6/1209e6013722704661810491a68bc72b.jpg',
+'https://i.pinimg.com/736x/9e/01/ca/9e01caeccc733e23d9b7a8301e63d0b3.jpg',
+        'https://images.justwatch.com/poster/333489955/s718/color-rush.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/tv/37605c-color-rush'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=tPBPO0nOitk'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000063',funcion:['Productora']},
+    {codigo:'EN000064',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ==========================================
+   COLOR RUSH 2 — DR000107
+   ========================================== */
+{
+codigo:'DR000107',
+titulo:'Color Rush 2',
+tituloOriginal:'컬러 러쉬 2',
+alias:[
+    'Color Rush 2',
+    'Colour Rush 2'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000106',
+temporadas:2,
+temporada:2,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-01-21',
+finalizacion:'2022-01-21',
+generos:[
+    'Drama',
+    'Romance',
+    'Misterio',
+    'Fantasía',
+    'Thriller',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Mono',
+    'Probe',
+    'Daltonismo',
+    'Colores',
+    'Desaparición',
+    'Investigación',
+    'Sobrenatural',
+    'Identidad secreta',
+    'Secretos',
+    'Búsqueda'
+],
+personas:[
+    {nombre:'Choi Yeon-woo',persona:'PR000573',funcion:['Actor'],principal:true},
+    {nombre:'Go Yoo-han',persona:'PR000574',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Choi Yeon-woo','Go Yoo-han']}
+],
+sinopsis:'Después de la desaparición de Go Yoo-han y de su madre, Choi Yeon-woo vuelve a enfrentarse a un mundo sin colores mientras intenta descubrir la verdad. En su búsqueda conoce a Kim Se-hyun, un compañero que decide ayudarle y protegerlo. Al mismo tiempo, Yeon-woo descubre que existen más monos y que el fenómeno que relaciona a los monos con sus probes esconde secretos que van mucho más allá de su propia experiencia.',
+multimedia:{
+    portada:['https://i.pinimg.com/736x/49/c3/7a/49c37abb7b5e46ddd6de2587ad03ba8a.jpg',
+'https://i.pinimg.com/1200x/e2/d5/0f/e2d50f83a4b4773d386765f5773d76f5.jpg',
+        'https://image.kpopmap.com/2021/11/Color-rush-season-2-2022-scaled.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/tv/38313c-color-rush-2'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=ZdhwfHsucrY',
+        'https://www.youtube.com/watch?v=i7nvTQpJJn0'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000063',funcion:['Productora']},
+    {codigo:'EN000065',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 ];
