@@ -7010,4 +7010,1023 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+		/* ===============  KISSABLE LIPS — DR000119   =================== */
+{
+codigo:'DR000119',
+titulo:'Kissable Lips',
+tituloOriginal:'깨물고 싶은',
+alias:[
+    'Kissable Lips',
+    'Kissable Lips: Bite Me',
+    'Kkaemulgo Sipeun'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000119',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-02-03',
+finalizacion:'2022-02-25',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Vampiros',
+    'Sobrenatural',
+    'Instituto',
+    'Amor',
+    'Vida eterna'
+],
+personas:[],
+ships:[],
+sinopsis:'Kim Jun-ho es un vampiro que necesita beber sangre humana para sobrevivir, pero su vida se complica cuando descubre que está perdiendo su capacidad de vivir eternamente. Su única posibilidad es encontrar a una persona cuya sangre pueda salvarlo. Cuando conoce a Choi Min-hyun, un estudiante humano con una sangre especial, comienza a acercarse a él y sus sentimientos terminan complicando sus planes iniciales.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  SEMANTIC ERROR — DR000120   =================== */
+{
+codigo:'DR000120',
+titulo:'Semantic Error',
+tituloOriginal:'시맨틱 에러',
+alias:[
+    'Semantic Error',
+    'Simaentig Ereo'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000120',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2022-02-16',
+finalizacion:'2022-03-10',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Programación',
+    'Diseño',
+    'Compañeros de clase',
+    'Enemigos a amantes',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Chu Sang-woo es un estudiante de informática metódico y estricto que decide eliminar de un trabajo en grupo los nombres de sus compañeros, que no habían participado en el proyecto. Esta decisión provoca que Jang Jae-young, un popular estudiante de diseño, tenga problemas para graduarse. Jae-young decide entonces enfrentarse a Sang-woo, pero la tensión entre ambos termina transformándose poco a poco en atracción.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  OH! BOARDING HOUSE — DR000121   =================== */
+{
+codigo:'DR000121',
+titulo:'Oh! Boarding House',
+tituloOriginal:'하숙집 오!번지',
+alias:[
+    'Oh! Boarding House',
+    'Boarding House No. 5',
+    'Hasukjip O!beonji'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000121',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-02-22',
+finalizacion:'2022-03-16',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Pensión',
+    'Convivencia',
+    'Instituto',
+    'Amistad',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Sul Won se hace cargo de la pensión de su madre y empieza a convivir con un grupo de huéspedes muy diferentes entre sí. Entre ellos está Kim Chul-soo, un profesor de instituto que se convierte en una presencia cada vez más importante en su vida. La convivencia y las situaciones cotidianas hacen que sus sentimientos comiencen a cambiar.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  FIRST LOVE AGAIN — DR000122   =================== */
+{
+codigo:'DR000122',
+titulo:'First Love Again',
+tituloOriginal:'첫사랑만 세번째',
+alias:[
+    'First Love, Again',
+    'First Love for the Third Time',
+    'Cheotsarangman Sebeonjjae'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000122',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2022-02-11',
+finalizacion:'2022-03-18',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Reencarnación',
+    'Vidas pasadas',
+    'Escritor',
+    'Editor',
+    'Destino',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Yeon Seok ha vivido varias vidas esperando reencontrarse con su primer amor. En su tercera vida finalmente encuentra a Ha Yeon, pero descubre que ahora su antiguo amor ha renacido como un hombre. Cuando ambos vuelven a encontrarse por motivos de trabajo, Yeon Seok intenta mantenerse alejado, aunque sus sentimientos y los recuerdos de sus vidas anteriores hacen que la situación se vuelva cada vez más complicada.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  BLUE OF WINTER — DR000123   =================== */
+{
+codigo:'DR000123',
+titulo:'Blue of Winter',
+tituloOriginal:'유도소년',
+alias:[
+    'Blue of Winter',
+    'Judo Boy',
+    'Yudo Sonyeon'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000123',
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2022-03-15',
+finalizacion:'2022-03-29',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud',
+    'Deportes'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Judo',
+    'Triángulo amoroso',
+    'Amistad',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Un estudiante de instituto perteneciente al club de judo comienza a acercarse a un nuevo compañero. Mientras ambos desarrollan sentimientos, una tercera persona también se enamora del protagonista, creando un triángulo amoroso que pone a prueba sus relaciones.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  BLUEMING — DR000124   =================== */
+{
+codigo:'DR000124',
+titulo:'Blueming',
+tituloOriginal:'블루밍',
+alias:[
+    'Blueming',
+    'Bluming'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000124',
+temporadas:1,
+temporada:1,
+episodios:11,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-03-31',
+finalizacion:'2022-03-31',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Cine',
+    'Estudiantes de cine',
+    'Popularidad',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Cha Si-won es un estudiante de cine que se esfuerza constantemente por mantener una imagen perfecta y ser popular. Su seguridad comienza a tambalearse cuando conoce a Hyeong Da-woon, un compañero de clase naturalmente carismático que parece no tener que esforzarse para llamar la atención. La rivalidad inicial entre ambos da paso poco a poco a una relación más cercana.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  CHERRY BLOSSOMS AFTER WINTER — DR000125   =================== */
+{
+codigo:'DR000125',
+titulo:'Cherry Blossoms After Winter',
+tituloOriginal:'겨울 지나 벚꽃',
+alias:[
+    'Cherry Blossoms After Winter',
+    'Gyeoul Jina Beotkkot'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000125',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2022-02-24',
+finalizacion:'2022-04-14',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Universidad',
+    'Amigos de infancia',
+    'Familia',
+    'Convivencia',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Después de quedar huérfano, Seo Hae-bom se muda con la familia de su amigo de la infancia, Jo Tae-sung. Los dos crecen juntos bajo el mismo techo, pero al llegar al instituto comienzan a descubrir que sus sentimientos han cambiado. Lo que durante años había parecido una relación familiar empieza a transformarse en amor.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  OCEAN LIKES ME — DR000126   =================== */
+{
+codigo:'DR000126',
+titulo:'Ocean Likes Me',
+tituloOriginal:'나와 같은 바다',
+alias:[
+    'Ocean Likes Me',
+    'Nawa Gateun Bada'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000126',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-04-26',
+finalizacion:'2022-05-18',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Mar',
+    'Restaurante',
+    'Udon',
+    'Música',
+    'Convivencia',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Han Ba-da llega a una pequeña localidad costera con el sueño de abrir un restaurante de udon junto al mar. Allí conoce a Tommy, un músico que regresa a Corea después de vivir en el extranjero. Mientras intentan superar sus propios problemas, ambos comienzan a acercarse y a descubrir nuevos sentimientos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  LOVE IN SPRING — DR000127   =================== */
+{
+codigo:'DR000127',
+titulo:'Love in Spring',
+tituloOriginal:'춘정지란',
+alias:[
+    'Love in Spring',
+    'Spring of Crush',
+    'Chun Jung Ji-ran'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000127',
+temporadas:1,
+temporada:1,
+episodios:16,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2022-05-16',
+finalizacion:'2022-07-06',
+generos:[
+    'Drama',
+    'Romance',
+    'Histórico'
+],
+tags:[
+    'BL',
+    'Joseon',
+    'Histórico',
+    'Identidad secreta',
+    'Matrimonio',
+    'Convivencia',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'En la era Joseon, una joven noble se ve obligada a disfrazarse de hombre para poder sobrevivir y proteger a su familia. Su vida cambia cuando se encuentra con un hombre que empieza a sospechar de su verdadera identidad. Entre secretos, obligaciones familiares y sentimientos inesperados, ambos terminan acercándose.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  LOVE CLASS — DR000128   =================== */
+{
+codigo:'DR000128',
+titulo:'Love Class',
+tituloOriginal:'수업중입니다',
+alias:[
+    'Love Class',
+    'Sueop Jungimnida'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000128',
+temporadas:3,
+temporada:1,
+episodios:6,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-05-13',
+finalizacion:'2022-05-18',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Campus',
+    'Compañeros de clase',
+    'Proyecto grupal',
+    'Amistad',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Un grupo de estudiantes universitarios debe trabajar juntos en un proyecto para una asignatura sobre las relaciones. Entre ellos, varios descubren que la amistad, los malentendidos y los sentimientos románticos pueden resultar mucho más complicados de lo que esperaban.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  ONCE AGAIN — DR000129   =================== */
+{
+codigo:'DR000129',
+titulo:'Once Again',
+tituloOriginal:'다시 나를 찾아와',
+alias:[
+    'Once Again',
+    'Dasi Nareul Chajawa'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000129',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-09-15',
+finalizacion:'2022-10-06',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Viaje en el tiempo',
+    'Vidas pasadas',
+    'Reencuentro',
+    'Destino',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Una misteriosa conexión con el pasado hace que dos hombres vuelvan a encontrarse después de años. Mientras intentan comprender las circunstancias que los llevaron a separarse, descubren que sus sentimientos siguen presentes y que quizá tengan una nueva oportunidad para cambiar su destino.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  ROOMMATES OF POONGDUCK 304 — DR000130   =================== */
+{
+codigo:'DR000130',
+titulo:'Roommates of Poongduck 304',
+tituloOriginal:'풍덕빌라 304호의 사정',
+alias:[
+    'Roommates of Poongduck 304',
+    'The Circumstances of Pungdeok Villa Room 304'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000130',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2022-10-13',
+finalizacion:'2022-11-03',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Oficina',
+    'Chaebol',
+    'Convivencia',
+    'Compañeros de trabajo',
+    'Casero e inquilino',
+    'Enemigos a amantes',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Ji Ho-jun, un joven heredero de una familia chaebol, es expulsado de su casa y se ve obligado a demostrar que puede valerse por sí mismo. Termina viviendo en Poongduck Villa, donde descubre que su casero, Seo Jae-yoon, también trabaja en la misma empresa y acaba convirtiéndose en su subordinado. La convivencia y la relación laboral hacen que la hostilidad inicial entre ambos se transforme poco a poco en sentimientos románticos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  CHOCO MILK SHAKE — DR000131   =================== */
+{
+codigo:'DR000131',
+titulo:'Choco Milk Shake',
+tituloOriginal:'사랑은 댕냥댕냥',
+alias:[
+    'Choco Milk Shake',
+    'Love is Like a Dog and Cat',
+    'Sarangeun Daengnyangdaengnyang'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000131',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-10-25',
+finalizacion:'2022-12-20',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Reencarnación',
+    'Mascotas',
+    'Perro',
+    'Gato',
+    'Convivencia',
+    'Amor',
+    'Sobrenatural'
+],
+personas:[],
+ships:[],
+sinopsis:'Jung Woo pierde a las personas más importantes de su vida y también a sus mascotas, Choco y Milk. Un día, ambos aparecen de nuevo ante él convertidos en jóvenes humanos. Mientras viven juntos y aprenden a adaptarse a sus nuevas vidas, los recuerdos y sentimientos que comparten comienzan a adquirir un significado diferente.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HAPPY ENDING ROMANCE — DR000132   =================== */
+{
+codigo:'DR000132',
+titulo:'Happy Ending Romance',
+tituloOriginal:'펜스 밖은 해피엔딩',
+alias:[
+    'Happy Ending Romance',
+    'Beyond the Fence Is Happy Ending',
+    'Penseu Bak-eun Haepi Ending'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000132',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2022-11-24',
+finalizacion:'2022-12-15',
+generos:[
+    'Drama',
+    'Romance',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Escritor',
+    'Literatura',
+    'Editorial',
+    'Triángulo amoroso',
+    'Secretos',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Kim Jung-hyun es un escritor de éxito cuya carrera comienza a tambalearse después de enfrentarse a la presión de la industria editorial. Cha Jung-woo, un escritor que lo conoce bien, intenta protegerlo y ayudarlo a recuperar la confianza. Sin embargo, la aparición de Han Tae-young, un editor que también desarrolla sentimientos por Jung-hyun, complica todavía más la relación entre los tres.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  OH! MY ASSISTANT — DR000133   =================== */
+{
+codigo:'DR000133',
+titulo:'Oh! My Assistant',
+tituloOriginal:'오! 나의 어시님',
+alias:[
+    'Oh! My Assistant',
+    'Oh! Naui Eosineum'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000133',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2022-11-10',
+finalizacion:'2022-12-23',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Webtoon',
+    'Escritor',
+    'Asistente',
+    'Oficina',
+    'Convivencia',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Seon Ho es un autor de webtoons románticos que tiene dificultades para dibujar escenas de amor. Cuando contrata a Mu-young como su nuevo asistente, descubre que su ayudante es en realidad uno de sus mayores admiradores. La convivencia entre ambos hace que la relación profesional empiece a transformarse en algo más personal.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  THE DIRECTOR WHO BUYS ME DINNER — DR000134   =================== */
+{
+codigo:'DR000134',
+titulo:'The Director Who Buys Me Dinner',
+tituloOriginal:'밥만 잘 사주는 이상한 이사님',
+alias:[
+    'The Director Who Buys Me Dinner',
+    'The Strange Director Who Buys Me Dinner',
+    'Bapman Jal Sajuneun Isanghan Isanim'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000134',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2022-12-15',
+finalizacion:'2023-01-12',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Oficina',
+    'Jefe y empleado',
+    'Reencarnación',
+    'Vidas pasadas',
+    'Destino',
+    'Maldición',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Min-yoo trabaja en una empresa donde su extraño director, Seol Dong-baek, parece conocerlo desde hace mucho tiempo. Dong-baek asegura que ambos están unidos por una relación que se remonta a vidas anteriores y que deben permanecer juntos para romper una antigua maldición. Mientras Min-yoo intenta comprender lo que está sucediendo, sus sentimientos hacia su jefe comienzan a cambiar.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  THE NEW EMPLOYEE — DR000135   =================== */
+{
+codigo:'DR000135',
+titulo:'The New Employee',
+tituloOriginal:'신입사원',
+alias:[
+    'The New Employee',
+    'The New Recruit',
+    'Sinipsawon'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000135',
+temporadas:1,
+temporada:1,
+episodios:7,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2022-12-21',
+finalizacion:'2023-02-01',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Oficina',
+    'Jefe y empleado',
+    'Prácticas',
+    'Trabajo',
+    'Compañeros de trabajo',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Seung-hyun consigue unas prácticas en la empresa que siempre había soñado y está decidido a demostrar su capacidad. Sin embargo, termina trabajando directamente bajo las órdenes de Jong-chan, un jefe exigente y aparentemente frío. A medida que pasan más tiempo juntos, la relación profesional entre ambos comienza a transformarse en algo inesperado.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  LOVE CLASS 2 — DR000136   =================== */
+{
+codigo:'DR000136',
+titulo:'Love Class 2',
+tituloOriginal:'수업중입니다 2',
+alias:[
+    'Love Class 2',
+    'Love Class Season 2',
+    'Sueop Jungimnida 2'
+],
+tipo:'Drama',
+anio:2023,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000128',
+temporadas:3,
+temporada:2,
+episodios:10,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2023-08-11',
+finalizacion:'2023-09-15',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Campus',
+    'Compañeros de clase',
+    'Amistad',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'Un nuevo grupo de estudiantes universitarios se enfrenta a las dificultades de las relaciones, la amistad y el amor mientras descubren que los sentimientos pueden surgir en los lugares más inesperados.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+	/* ===============  LOVE CLASS 3 — DR000137   =================== */
+{
+codigo:'DR000137',
+titulo:'Love Class 3',
+tituloOriginal:'수업중입니다 3',
+alias:[
+    'Love Class 3',
+    'Love Class Season 3',
+    'Sueop Jungimnida 3'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000128',
+temporadas:3,
+temporada:3,
+episodios:16,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2026-05-28',
+finalizacion:'2026-07-17',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'K-pop',
+    'Ídolos',
+    'Música',
+    'Industria del entretenimiento',
+    'Reencuentro',
+    'Amor'
+],
+personas:[],
+ships:[],
+sinopsis:'En el mundo de los ídolos del K-pop, dos historias de amor se desarrollan entre jóvenes que intentan abrirse camino en una industria marcada por la fama, los rumores y la presión. Mientras algunos intentan recuperar una relación del pasado, otros descubren el amor mientras luchan por cumplir sus sueños profesionales.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 ];
