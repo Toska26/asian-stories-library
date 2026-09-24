@@ -6331,9 +6331,7 @@ especiales:[],
 activo:true
 },
 
-	/* ==========================================
-   COLOR RUSH 2 — DR000107
-   ========================================== */
+	/* ==========================================  COLOR RUSH 2 — DR000107   ========================================== */
 {
 codigo:'DR000107',
 titulo:'Color Rush 2',
@@ -6408,6 +6406,606 @@ entidades:[
     {codigo:'EN000028',funcion:['Plataforma']},
     {codigo:'EN000022',funcion:['Plataforma']},
     {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+		/* ==========================================  To My Star — DR000108   ========================================== */
+	{
+codigo:'DR000108',
+titulo:'To My Star',
+tituloOriginal:'나의 별에게',
+alias:[
+    'To My Star',
+    'Naui Byeolege'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000108',
+temporadas:2,
+temporada:1,
+episodios:9,
+duracion:'12-15 min',
+estado:'Finalizado',
+estreno:'2021-01-22',
+finalizacion:'2021-02-05',
+generos:['Drama','Romance','Comedia','Juventud'],
+tags:['BL','Cocina','Actor','Chef','Convivencia','Enemies to lovers','Celebridad','Vida cotidiana'],
+personas:[
+    {nombre:'Kang Seo Joon',persona:'PR000575',funcion:['Actor'],principal:true},
+    {nombre:'Han Ji Woo',persona:'PR000576',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kang Seo Joon','Han Ji Woo']}
+],
+sinopsis:'Kang Seo Joon, un famoso actor en la cima de su carrera, se ve obligado a esconderse temporalmente de la prensa y termina compartiendo casa con Han Ji Woo, un chef reservado y de carácter difícil. La convivencia entre ambos comienza con constantes choques, pero poco a poco la distancia entre ellos se transforma en una relación más íntima.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/20/7d/f8/207df8bfc181a9bd7cfeabc7380f2a6a.jpg',
+        'https://i.pinimg.com/1200x/c9/cd/7a/c9cd7a18eeb21ebc2b59b1cf20fbaea3.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=Pw7YwEFdJpQ'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000058',funcion:['Productora']},
+    {codigo:'EN000066',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+			/* ==========================================  You Make Me Dance — DR000109   ========================================== */
+	{
+codigo:'DR000109',
+titulo:'You Make Me Dance',
+tituloOriginal:'유 메이크 미 댄스',
+alias:[
+    'You Make Me Dance',
+    'Yoo Meikeu Mi Daenseu'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000109',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2021-02-26',
+finalizacion:'2021-03-19',
+generos:['Drama','Romance','Juventud'],
+tags:['BL','Danza','Ballet','Estudiante','Tutor','Familia','Sueños','Convivencia'],
+personas:[
+    {nombre:'Song Shi On',persona:'PR000577',funcion:['Actor'],principal:true},
+    {nombre:'Jin Hong Seok',persona:'PR000578',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Song Shi On','Jin Hong Seok']}
+],
+sinopsis:'Song Shi On es un estudiante de danza que lucha por mantener vivo su sueño de convertirse en bailarín profesional mientras afronta problemas económicos y familiares. Jin Hong Seok, un cobrador de deudas que ha abandonado sus propios sueños, entra inesperadamente en su vida y ambos comienzan a cambiar la forma en que entienden el amor y sus propias aspiraciones.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/29/63/1d/29631dbb91d50492bd4d3080ab1f343c.jpg',
+        'https://i.pinimg.com/1200x/c0/07/60/c007601bf09e057f7ee9dadd90f4b3bf.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=yj8f5GyQFA8'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=eLZqxmzPWzc'
+    ]
+},
+entidades:[
+    {codigo:'EN000057',funcion:['Productora']},
+    {codigo:'EN000068',funcion:['Productora']},
+    {codigo:'EN000059',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+			/* ==========================================  Nobleman Ryu's Wedding — DR000110   ========================================== */
+	{
+codigo:'DR000110',
+titulo:"Nobleman Ryu's Wedding",
+tituloOriginal:'류선비의 혼례식',
+alias:[
+    "Nobleman Ryu's Wedding",
+    'Ryu Seonbiui Honryesik'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000110',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'9-13 min',
+estado:'Finalizado',
+estreno:'2021-04-15',
+finalizacion:'2021-05-06',
+generos:['Romance','Comedia','Drama','Histórico'],
+tags:['BL','Joseon','Matrimonio','Identidad secreta','Travestismo','Familia','Política','Amor prohibido'],
+personas:[
+    {nombre:'Ryu Ho Sun',persona:'PR000571',funcion:['Actor'],principal:true},
+    {nombre:'Choi Ki Wan',persona:'PR000569',funcion:['Actor'],principal:true},
+    {nombre:'Kim Tae Hyung',persona:'PR000568',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Ryu Ho Sun','Choi Ki Wan']}
+],
+sinopsis:'El día de su boda, la prometida de Ryu Ho Sun desaparece porque se niega a aceptar un matrimonio concertado. Su hermano Choi Ki Wan decide ocupar su lugar temporalmente para evitar las consecuencias políticas y familiares. Lo que comienza como un matrimonio de conveniencia se transforma poco a poco en una relación inesperada, mientras Kim Tae Hyung también desarrolla sentimientos por Ki Wan.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/43/76/c4/4376c4169b97643aaf5ee4dc0e6dd1d4.jpg',
+        'https://i.pinimg.com/1200x/4d/09/28/4d0928afd462b07f05d3019bc255a180.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=gKhhN0cXdgY'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000060',funcion:['Productora']},
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora','Plataforma']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+		/* ==========================================  Light on Me — DR000111   ========================================== */
+	{
+codigo:'DR000111',
+titulo:'Light on Me',
+tituloOriginal:'새빛남고 학생회',
+alias:[
+    'Light on Me',
+    'Saebit Boys High School Council',
+    'Saebitnamgo Haksaenghoe'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000111',
+temporadas:2,
+temporada:1,
+episodios:16,
+duracion:'19 min',
+estado:'Finalizado',
+estreno:'2021-06-29',
+finalizacion:'2021-08-19',
+generos:['Drama','Romance','Comedia','Juventud'],
+tags:['BL','Instituto','Consejo estudiantil','Triángulo amoroso','Amistad','Primer amor','Competición'],
+personas:[
+    {nombre:'Woo Tae Kyung',persona:'PR000579',funcion:['Actor'],principal:true},
+    {nombre:'Noh Shin Woo',persona:'PR000580',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Woo Tae Kyung','Noh Shin Woo']}
+],
+sinopsis:'Woo Tae Kyung es un estudiante de secundaria que siempre ha tenido dificultades para hacer amigos. Al entrar en el consejo estudiantil de Saebit High School conoce a Noh Shin Woo, Shin Da On y Nam Gung On. Las nuevas amistades y los sentimientos que surgen dentro del grupo hacen que Tae Kyung descubra poco a poco qué significa enamorarse.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/6b/86/d2/6b86d2a3fd641a68d3944a492913ca94.jpg',
+        'https://i.pinimg.com/1200x/5d/85/9d/5d859d7a470e5ba5c02d34eed330bc3f.jpg',
+        'https://i.pinimg.com/736x/dd/97/32/dd97322fb3abf7f9d8957dec21cdc24d.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=Hr1seS7XmgI'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000071',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================  Peach of Time — DR000112   ========================================== */
+	{
+codigo:'DR000112',
+titulo:'Peach of Time',
+tituloOriginal:'피치 오브 타임',
+alias:[
+    'Peach of Time',
+    'Peach of Time: Siganui Bogeun'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000112',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'20-30 min',
+estado:'Finalizado',
+estreno:'2021-08-30',
+finalizacion:'2021-09-27',
+generos:['Drama','Romance','Fantasía','Melodrama'],
+tags:['BL','Fantasma','Amistad','Familia','Tailandia','Corea del Sur','Vida después de la muerte','Secreto'],
+personas:[
+    {nombre:'Peach',persona:'PR000312',funcion:['Actor'],principal:true},
+    {nombre:'Yoon Oh',persona:'PR000581',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Peach','Yoon Oh']}
+],
+sinopsis:'Peach, un joven tailandés, viaja a Corea del Sur para visitar a su amigo Yoon Oh. Sin embargo, descubre que Yoon Oh ha muerto y que su espíritu permanece ligado a este mundo por un motivo que Peach todavía desconoce. Mientras intenta ayudarle a resolver sus asuntos pendientes, ambos se enfrentan a sentimientos que habían permanecido ocultos.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/f5/ae/54/f5ae542e72c25b46fe9cd90b44cfff8f.jpg',
+        'https://i.pinimg.com/736x/88/1b/a6/881ba67882bebe64ac32b595160a0f44.jpg',
+        'https://i.pinimg.com/1200x/42/a4/3c/42a43c2e08361e5e3fd46eed72e35148.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=K72GelOnZw0'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000072',funcion:['Productora']},
+    {codigo:'EN000073',funcion:['Productora']},
+    {codigo:'EN000074',funcion:['Distribuidora']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  The Tasty Florida — DR000113   ========================================== */
+	{
+codigo:'DR000113',
+titulo:'The Tasty Florida',
+tituloOriginal:'플로리다반점',
+alias:[
+    'The Tasty Florida',
+    'Florida Banjeom'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000113',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10-12 min',
+estado:'Finalizado',
+estreno:'2021-09-24',
+finalizacion:'2021-10-15',
+generos:['Romance','Comedia','Juventud'],
+tags:['BL','Universidad','Restaurante','Cocina','Casa de huéspedes','Primer amor'],
+personas:[
+    {nombre:'Seo Hae Won',persona:'PR000582',funcion:['Actor'],principal:true},
+    {nombre:'Baek Eun Gyu',persona:'PR000583',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Seo Hae Won','Baek Eun Gyu']}
+],
+sinopsis:'Seo Hae Won es un estudiante universitario de primer año que se muda a una casa de huéspedes. En la azotea descubre Florida Banjeom, un restaurante chino atendido por varios jóvenes. Allí conoce a Baek Eun Gyu y comienza una relación que transforma su vida universitaria.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/c3/b3/77/c3b3771f65cac320bb7a1f95fc8e56e6.jpg',
+        'https://i.pinimg.com/1200x/23/a1/b5/23a1b54634484d48e6582c54cbbc96f6.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:['https://www.youtube.com/watch?v=',
+        'https://www.youtube.com/watch?v='],
+    videos:[]
+},
+
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000060',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora','Plataforma']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  My Sweet Dear — DR000114   ========================================== */
+	{
+codigo:'DR000114',
+titulo:'My Sweet Dear',
+tituloOriginal:'마이 스윗 디어',
+alias:[
+    'My Sweet Dear',
+    'Mai Seuwit Dieo'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000114',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'13 min',
+estado:'Finalizado',
+estreno:'2021-10-21',
+finalizacion:'2021-11-11',
+generos:['Drama','Romance','Comedia'],
+tags:['BL','Cocina','Chef','Restaurante','Enemies to lovers','Rivalidad','Trabajo'],
+personas:[
+    {nombre:'Yoon Do Gun',persona:'PR000584',funcion:['Actor'],principal:true},
+    {nombre:'Choi Jung Woo',persona:'PR000568',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yoon Do Gun','Choi Jung Woo']}
+],
+sinopsis:'Yoon Do Gun es el chef principal de Laura Dining, un restaurante de prestigio. Su forma creativa de entender la cocina choca con la visión comercial de la propietaria, que contrata a Choi Jung Woo, un chef talentoso especializado en reproducir recetas de éxito. La rivalidad entre ambos acaba transformándose en una relación mucho más personal.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/9f/c9/76/9fc976c29920a66a8b6c72a78b2a009f.jpg',
+        'https://i.pinimg.com/736x/ed/0a/45/ed0a45a775489ded5350056f30a250ec.jpg',
+        'https://i.pinimg.com/736x/71/38/9c/71389cac8015a364c307b6910f98aacb.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=O4G5I_J-jy8'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  Tinted With You — DR000115   ========================================== */
+	{
+codigo:'DR000115',
+titulo:'Tinted With You',
+tituloOriginal:'물들여',
+alias:[
+    'Tinted With You',
+    'Muldeulyeo'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000115',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'12-15 min',
+estado:'Finalizado',
+estreno:'2021-12-23',
+finalizacion:'2022-01-14',
+generos:['Drama','Romance','Fantasía','Histórico'],
+tags:['BL','Viaje en el tiempo','Joseon','Príncipe heredero','Pintura','Guardaespaldas','Destino','Amor prohibido'],
+personas:[
+    {nombre:'Eun Ho',persona:'PR000585',funcion:['Actor'],principal:true},
+    {nombre:'Lee Heon',persona:'PR000586',funcion:['Actor'],principal:true},
+    {nombre:'Geum',persona:'PR000027',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Eun Ho','Lee Heon']}
+],
+sinopsis:'Eun Ho, un estudiante de arte de la época actual, descubre un cuadro que lo transporta a la Corea de la era Joseon. Allí conoce a Lee Heon, un príncipe heredero destronado que vive bajo la amenaza de sus enemigos. Mientras Eun Ho intenta encontrar el camino de regreso a su época, ambos desarrollan sentimientos que ponen sus vidas en peligro.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/d0/81/07/d0810743603c042064da1ee4f6b87d31.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=fWVNI2u1tQk'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora','Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000076',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  Behind Cut — DR000116   ========================================== */
+	{
+codigo:'DR000116',
+titulo:'Behind Cut',
+tituloOriginal:'비하인드 컷',
+alias:[
+    'Behind Cut',
+    'Bihindeu Keot'
+],
+tipo:'Drama',
+anio:2021,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000116',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2021-12-28',
+finalizacion:'2022-01-19',
+generos:['Drama','Romance','Juventud'],
+tags:['BL','Moda','Fotografía','Diseño','Amistad','Amor no correspondido','Trabajo'],
+personas:[
+    {nombre:'Ki Jin',persona:'PR000587',funcion:['Actor'],principal:true},
+    {nombre:'Yeong Woo',persona:'PR000588',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ki Jin','Yeong Woo']}
+],
+sinopsis:'Ki Jin es un joven diseñador de moda que intenta abrirse camino mientras compagina su trabajo con sus sueños. Su vida cambia cuando conoce a Yeong Woo, un fotógrafo con quien desarrolla una relación que le obliga a enfrentarse a sus inseguridades y a las decisiones que ha tomado para alcanzar sus objetivos.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/0b/e0/23/0be02329339a1da0e572f208c5610859.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=1jYZ9RlS3VM'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000060',funcion:['Productora']},
+    {codigo:'EN000075',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  To My Star 2 — DR000117   ========================================== */
+	{
+codigo:'DR000117',
+titulo:'To My Star 2',
+tituloOriginal:'나의 별에게2 : 우리의 못다 한 이야기',
+alias:[
+    'To My Star 2',
+    'To My Star 2: Our Untold Stories',
+    'Naui Byeolege 2'
+],
+tipo:'Drama',
+anio:2022,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000108',
+temporadas:2,
+temporada:2,
+episodios:10,
+duracion:'25-40 min',
+estado:'Finalizado',
+estreno:'2022-06-05',
+finalizacion:'2022-07-03',
+generos:['Drama','Romance','Melodrama'],
+tags:['BL','Convivencia','Ruptura','Reencuentro','Chef','Actor','Segunda oportunidad','Vida rural'],
+personas:[
+    {nombre:'Kang Seo Joon',persona:'PR000575',funcion:['Actor'],principal:true},
+    {nombre:'Han Ji Woo',persona:'PR000576',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kang Seo Joon','Han Ji Woo']}
+],
+sinopsis:'Después de haber construido una vida juntos, Kang Seo Joon y Han Ji Woo atraviesan una crisis que termina separándolos. Cuando Seo Joon desaparece de la vida de Ji Woo, ambos deben enfrentarse a las heridas y malentendidos que los alejaron mientras intentan descubrir si todavía existe un camino para volver a estar juntos.',
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/30/b4/4c/30b44c48995f5416beddcce16c4545e0.jpg',
+        'https://i.pinimg.com/1200x/a6/59/70/a6597056f2d868f61cc189202d84efa7.jpg',
+        'https://i.pinimg.com/1200x/d2/2d/f0/d22df097d53a96e6cb10dea29ff2a63e.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000058',funcion:['Productora']},
+    {codigo:'EN000066',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ==========================================  Light on Me 2 — DR000118   ========================================== */
+	{
+codigo:'DR000118',
+titulo:'Light on Me 2',
+tituloOriginal:'새빛남고 학생회 2',
+alias:[
+    'Light on Me 2',
+    'Light on Me Season 2'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000111',
+temporadas:2,
+temporada:2,
+episodios:10,
+duracion:'30 min',
+estado:'Próximo estreno',
+estreno:'',
+finalizacion:'',
+generos:['Drama','Romance','Misterio','Juventud'],
+tags:['BL','Instituto','Consejo estudiantil','Misterio','Carta de amor','Nuevos estudiantes'],
+personas:[
+    {nombre:'Woo Tae Kyung',persona:'PR000579',funcion:['Actor'],principal:true},
+    {nombre:'Noh Shin Woo',persona:'PR000580',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Woo Tae Kyung','Noh Shin Woo']}
+],
+sinopsis:'Un nuevo estudiante llega al consejo estudiantil de Saebit High School y se ve envuelto en un misterio relacionado con una carta de amor. La historia vuelve al entorno del instituto para presentar nuevos conflictos, relaciones y secretos.',
+multimedia:{
+    portada:[
+        'https://welcon.kocca.kr/cmm/getImage.do?fileSn=1&thumb=&atchFileId=FILE_67b6ecc5-b5b9-4705-ae68-341c8d49966c'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000071',funcion:['Productora']}
 ],
 especiales:[],
 activo:true
