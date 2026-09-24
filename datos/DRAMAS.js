@@ -7050,7 +7050,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Kim Jun-ho es un vampiro que necesita beber sangre humana para sobrevivir, pero su vida se complica cuando descubre que está perdiendo su capacidad de vivir eternamente. Su única posibilidad es encontrar a una persona cuya sangre pueda salvarlo. Cuando conoce a Choi Min-hyun, un estudiante humano con una sangre especial, comienza a acercarse a él y sus sentimientos terminan complicando sus planes iniciales.',
+sinopsis:'Kim Jun-ho es un vampiro que necesita beber la sangre de un humano especial para convertirse en mortal. Cuando conoce a Choi Min-hyun, descubre que su sangre podría permitirle cumplir su deseo y decide acercarse a él con ese propósito. Sin embargo, cuanto más tiempo pasa junto a Min-hyun, más difícil le resulta verlo simplemente como una víctima, mientras un vampiro de su pasado intenta impedir que consiga lo que busca.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7059,7 +7059,12 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000076',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7104,7 +7109,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Chu Sang-woo es un estudiante de informática metódico y estricto que decide eliminar de un trabajo en grupo los nombres de sus compañeros, que no habían participado en el proyecto. Esta decisión provoca que Jang Jae-young, un popular estudiante de diseño, tenga problemas para graduarse. Jae-young decide entonces enfrentarse a Sang-woo, pero la tensión entre ambos termina transformándose poco a poco en atracción.',
+sinopsis:'Choo Sang-woo es un estudiante de informática metódico y reservado que está acostumbrado a seguir las reglas al pie de la letra. Cuando decide eliminar de un proyecto universitario a los compañeros que no han colaborado, perjudica sin saberlo los planes de Jang Jae-young, un estudiante de diseño que estaba a punto de graduarse. El conflicto entre ambos comienza como una guerra de personalidades, pero la convivencia y los encuentros cada vez más frecuentes hacen que la relación entre ellos cambie de forma inesperada.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7113,8 +7118,20 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
-especiales:[],
+entidades:[
+    {codigo:'EN000078',funcion:['Productora']},
+    {codigo:'EN000079',funcion:['Productora']},
+    {codigo:'EN000089',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[
+    {
+        titulo:'Semantic Error: Short Animation',
+        tipo:'Serie corta de animación',
+        anio:2021,
+        episodios:4
+    }
+],
 activo:true
 },
 
@@ -7157,7 +7174,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Sul Won se hace cargo de la pensión de su madre y empieza a convivir con un grupo de huéspedes muy diferentes entre sí. Entre ellos está Kim Chul-soo, un profesor de instituto que se convierte en una presencia cada vez más importante en su vida. La convivencia y las situaciones cotidianas hacen que sus sentimientos comiencen a cambiar.',
+sinopsis:'Sul Won, un joven que acaba de perder su trabajo, se queda al frente de la casa de huéspedes de bajo coste que regenta su madre cuando ella decide marcharse. De repente tiene que hacerse cargo de un grupo de residentes muy diferentes entre sí: un estudiante de instituto, un antiguo amigo, un profesor y un estudiante de arte. La convivencia hace que entre ellos surjan nuevas amistades, conflictos y sentimientos inesperados, mientras Sul Won descubre que algunos de sus inquilinos sienten algo más por él.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7166,7 +7183,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000076',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7211,7 +7231,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Yeon Seok ha vivido varias vidas esperando reencontrarse con su primer amor. En su tercera vida finalmente encuentra a Ha Yeon, pero descubre que ahora su antiguo amor ha renacido como un hombre. Cuando ambos vuelven a encontrarse por motivos de trabajo, Yeon Seok intenta mantenerse alejado, aunque sus sentimientos y los recuerdos de sus vidas anteriores hacen que la situación se vuelva cada vez más complicada.',
+sinopsis:'Un novelista web lleva varios siglos buscando a la persona que considera el amor de su vida. Cuando finalmente cree haber encontrado la oportunidad de reencontrarse con ella, descubre que su alma gemela ha regresado a su vida como un hombre y, además, trabaja como editor. Entre recuerdos de vidas pasadas y sentimientos que parecen haber sobrevivido al paso del tiempo, ambos deberán descubrir si esta vez pueden cambiar el destino de su historia de amor.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7220,8 +7240,18 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
-especiales:[],
+entidades:[
+    {codigo:'EN000067',funcion:['Productora','Distribuidora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[
+    {
+        titulo:'First Love, Again: Special',
+        tipo:'Especial',
+        anio:2022,
+        episodios:1
+    }
+],
 activo:true
 },
 
@@ -7265,7 +7295,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Un estudiante de instituto perteneciente al club de judo comienza a acercarse a un nuevo compañero. Mientras ambos desarrollan sentimientos, una tercera persona también se enamora del protagonista, creando un triángulo amoroso que pone a prueba sus relaciones.',
+sinopsis:'Ji Seok y Do Jin conocen a Hyeon Woo durante una competición de judo entre institutos de Seúl. Fascinados por su forma temeraria de luchar, ambos terminan acercándose a él, aunque sus sentimientos evolucionan de manera diferente. Do Jin se enamora de Hyeon Woo, mientras Ji Seok acaba convirtiéndose en su pareja. Años después, cuando Do Jin regresa convertido en campeón de judo, los tres vuelven a encontrarse y deben enfrentarse a los sentimientos y heridas que quedaron sin resolver.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7274,7 +7304,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000077',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7317,7 +7350,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Cha Si-won es un estudiante de cine que se esfuerza constantemente por mantener una imagen perfecta y ser popular. Su seguridad comienza a tambalearse cuando conoce a Hyeong Da-woon, un compañero de clase naturalmente carismático que parece no tener que esforzarse para llamar la atención. La rivalidad inicial entre ambos da paso poco a poco a una relación más cercana.',
+sinopsis:'Si Won es un estudiante de cine que ha construido su imagen en torno a la idea de que lo tiene todo bajo control. Su seguridad comienza a tambalearse cuando conoce a Da Woon, un compañero popular y aparentemente perfecto que se convierte en su rival y, poco a poco, en alguien mucho más importante para él. Mientras trabajan juntos y se enfrentan a sus propias inseguridades, ambos empiezan a descubrir qué significa realmente enamorarse y mostrarse tal como son.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7326,7 +7359,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000080',funcion:['Productora','Plataforma']},
+    {codigo:'EN000024',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7370,7 +7406,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Después de quedar huérfano, Seo Hae-bom se muda con la familia de su amigo de la infancia, Jo Tae-sung. Los dos crecen juntos bajo el mismo techo, pero al llegar al instituto comienzan a descubrir que sus sentimientos han cambiado. Lo que durante años había parecido una relación familiar empieza a transformarse en amor.',
+sinopsis:'Tras quedarse huérfano, Haebom es acogido por la familia de su mejor amigo, Taesung, y ambos crecen juntos bajo el mismo techo. Aunque siempre han sido muy diferentes, al llegar al último año de instituto comienzan a pasar más tiempo juntos y Haebom empieza a darse cuenta de que sus sentimientos por Taesung van más allá de la amistad. La cercanía entre ambos cambia su relación y les obliga a enfrentarse a sentimientos que hasta entonces habían mantenido ocultos.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7379,7 +7415,12 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000057',funcion:['Productora']},
+    {codigo:'EN000081',funcion:['Productora']},
+    {codigo:'EN000082',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7423,7 +7464,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Han Ba-da llega a una pequeña localidad costera con el sueño de abrir un restaurante de udon junto al mar. Allí conoce a Tommy, un músico que regresa a Corea después de vivir en el extranjero. Mientras intentan superar sus propios problemas, ambos comienzan a acercarse y a descubrir nuevos sentimientos.',
+sinopsis:'Han Ba-da intenta sacar adelante un pequeño restaurante de udon junto al mar, aunque el negocio atraviesa dificultades. Un día conoce a Tommy, un músico que ha perdido el rumbo y llega al lugar buscando una nueva oportunidad. Mientras ambos intentan encontrar su propio camino, la convivencia y el apoyo mutuo hacen que entre ellos surja una conexión que va más allá de la amistad.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7432,7 +7473,9 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7486,7 +7529,11 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000083',funcion:['Productora']},
+    {codigo:'EN000089',funcion:['Plataforma']},
+    {codigo:'EN000090',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7530,7 +7577,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Un grupo de estudiantes universitarios debe trabajar juntos en un proyecto para una asignatura sobre las relaciones. Entre ellos, varios descubren que la amistad, los malentendidos y los sentimientos románticos pueden resultar mucho más complicados de lo que esperaban.',
+sinopsis:'Un grupo de estudiantes universitarios se enfrenta a un proyecto académico sobre el amor que les obliga a trabajar juntos. Entre ellos, uno intenta proteger a la persona de la que está enamorado mientras comienza a cuestionarse sus propios sentimientos. A medida que el proyecto avanza, las relaciones entre los estudiantes se complican y lo que parecía una simple tarea universitaria termina convirtiéndose en una oportunidad para descubrir el amor y comprenderse mejor a sí mismos.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7539,7 +7586,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000084',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7582,7 +7632,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Una misteriosa conexión con el pasado hace que dos hombres vuelvan a encontrarse después de años. Mientras intentan comprender las circunstancias que los llevaron a separarse, descubren que sus sentimientos siguen presentes y que quizá tengan una nueva oportunidad para cambiar su destino.',
+sinopsis:'Jae Woo es un joven marcado por un trauma de la infancia que, de forma inesperada, viaja al pasado y regresa a 2007. Allí se encuentra con Ji Hoon, un estudiante de Derecho que se prepara para el examen de acceso a la abogacía y que fue una persona muy importante para él. Con la oportunidad de volver a vivir aquellos acontecimientos, Jae Woo intenta cambiar un destino que en el presente terminó separándolos para siempre.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7591,7 +7641,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7636,7 +7689,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Ji Ho-jun, un joven heredero de una familia chaebol, es expulsado de su casa y se ve obligado a demostrar que puede valerse por sí mismo. Termina viviendo en Poongduck Villa, donde descubre que su casero, Seo Jae-yoon, también trabaja en la misma empresa y acaba convirtiéndose en su subordinado. La convivencia y la relación laboral hacen que la hostilidad inicial entre ambos se transforme poco a poco en sentimientos románticos.',
+sinopsis:'Ji Ho Jun es un chaebol de tercera generación que recibe de su padre un ultimátum: abandonar su cómoda vida, sobrevivir sin dinero durante dos años y demostrar que puede convertirse en un buen líder dentro de la empresa familiar. Obligado a mudarse, termina alquilando una habitación en la villa de Seo Jae Yoon, un hombre con quien choca desde el primer momento. La situación se complica cuando ambos descubren que también trabajan en la misma empresa y que Jae Yoon pasa a formar parte del equipo dirigido por Ho Jun.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7645,7 +7698,12 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000062',funcion:['Distribuidora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7692,7 +7750,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Jung Woo pierde a las personas más importantes de su vida y también a sus mascotas, Choco y Milk. Un día, ambos aparecen de nuevo ante él convertidos en jóvenes humanos. Mientras viven juntos y aprenden a adaptarse a sus nuevas vidas, los recuerdos y sentimientos que comparten comienzan a adquirir un significado diferente.',
+sinopsis:'Jung Woo vive solo y trabaja en la cafetería de su tío después de haber perdido a sus padres y, años atrás, a sus dos mascotas. Un día aparecen en su casa dos jóvenes desconocidos que aseguran ser Choco, el perro que tuvo desde niño, y Milk, su gato. Aunque al principio no puede creer que sus mascotas hayan regresado convertidas en humanos, ambos conocen detalles que solo ellos podrían saber. Su llegada devuelve alegría y compañía a la vida de Jung Woo, pero también trae consigo un secreto que cambiará su relación con ellos.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7701,8 +7759,20 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
-especiales:[],
+entidades:[
+    {codigo:'EN000085',funcion:['Productora']},
+    {codigo:'EN000086',funcion:['Productora']}
+],
+especiales:[
+    {
+        titulo:'Behind Story',
+        tipo:'Especial',
+        anio:2022,
+        episodios:1,
+        duracion:'4 min',
+        estreno:'2022-11-06'
+    }
+],
 activo:true
 },
 
@@ -7746,7 +7816,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Kim Jung-hyun es un escritor de éxito cuya carrera comienza a tambalearse después de enfrentarse a la presión de la industria editorial. Cha Jung-woo, un escritor que lo conoce bien, intenta protegerlo y ayudarlo a recuperar la confianza. Sin embargo, la aparición de Han Tae-young, un editor que también desarrolla sentimientos por Jung-hyun, complica todavía más la relación entre los tres.',
+sinopsis:'Kim Jung-hyun es un escritor prometedor que intenta abrirse camino en el mundo literario mientras permanece ligado a su mentor. Su vida cambia cuando aparece Han Tae-young, un poderoso editor que ve su potencial y le ofrece una nueva oportunidad. Dividido entre la lealtad hacia quien le ayudó al principio de su carrera y la posibilidad de alcanzar el éxito junto a Tae-young, Jung-hyun deberá enfrentarse a las decisiones y sentimientos que pueden cambiar tanto su carrera como su vida personal.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7755,7 +7825,12 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000061',funcion:['Productora']},
+    {codigo:'EN000087',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7799,7 +7874,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Seon Ho es un autor de webtoons románticos que tiene dificultades para dibujar escenas de amor. Cuando contrata a Mu-young como su nuevo asistente, descubre que su ayudante es en realidad uno de sus mayores admiradores. La convivencia entre ambos hace que la relación profesional empiece a transformarse en algo más personal.',
+sinopsis:'Seon Ho es un autor de webtoons que trabaja en cómics para adultos, pero el éxito de sus historias le ha provocado un problema inesperado: ha perdido por completo su libido. Para poder hacer frente a la creciente carga de trabajo, contrata a Mu Yeong, un joven que además de convertirse en su asistente es uno de sus mayores admiradores. La convivencia hace que Mu Yeong desarrolle sentimientos por él, mientras la aparición de Joon Seok complica aún más la relación entre los tres.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7808,7 +7883,11 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000060',funcion:['Productora']},
+    {codigo:'EN000088',funcion:['Productora']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7855,7 +7934,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Min-yoo trabaja en una empresa donde su extraño director, Seol Dong-baek, parece conocerlo desde hace mucho tiempo. Dong-baek asegura que ambos están unidos por una relación que se remonta a vidas anteriores y que deben permanecer juntos para romper una antigua maldición. Mientras Min-yoo intenta comprender lo que está sucediendo, sus sentimientos hacia su jefe comienzan a cambiar.',
+sinopsis:'Dong Baek acaba de incorporarse a Min Entertainment cuando su director, Yu Dam, le revela algo que parece imposible: lleva varias vidas reencarnándose y Dong Baek es la persona con la que está destinado a estar. Según la maldición que pesa sobre él, si no consigue mantener una relación con su amor destinado, ambos morirán. Mientras Dong Baek intenta comprender la extraña situación, Yu Dam deberá convencerlo de que su encuentro actual es solo el último capítulo de una historia que comenzó siglos atrás.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7864,7 +7943,9 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000095',funcion:['Productora']}
+],
 especiales:[],
 activo:true
 },
@@ -7909,7 +7990,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Seung-hyun consigue unas prácticas en la empresa que siempre había soñado y está decidido a demostrar su capacidad. Sin embargo, termina trabajando directamente bajo las órdenes de Jong-chan, un jefe exigente y aparentemente frío. A medida que pasan más tiempo juntos, la relación profesional entre ambos comienza a transformarse en algo inesperado.',
+sinopsis:'Seung Hyun consigue unas prácticas en una agencia de publicidad y está decidido a demostrar que puede abrirse camino en el mundo laboral pese a su falta de experiencia. Su supervisor, Jong Chan, es un jefe reservado y exigente que mantiene una clara distancia con sus empleados. A medida que ambos pasan más tiempo juntos en la oficina, la relación profesional comienza a transformarse en algo más personal y Seung Hyun tendrá que enfrentarse al conflicto entre sus sentimientos y su nueva carrera.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7918,7 +7999,12 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000096',funcion:['Productora']},
+    {codigo:'EN000097',funcion:['Productora']},
+    {codigo:'EN000089',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -7962,7 +8048,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'Un nuevo grupo de estudiantes universitarios se enfrenta a las dificultades de las relaciones, la amistad y el amor mientras descubren que los sentimientos pueden surgir en los lugares más inesperados.',
+sinopsis:'Un nuevo grupo de estudiantes universitarios se enfrenta a las complicaciones de la vida en el campus mientras cada uno intenta encontrar su lugar y descubrir qué significa enamorarse. Entre clases, amistades y nuevas relaciones, los protagonistas comienzan a acercarse y a enfrentarse a sentimientos que no siempre son fáciles de reconocer. Las distintas historias de amor se entrelazan mientras intentan compaginar sus estudios con sus relaciones.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -7971,7 +8057,10 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000084',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
@@ -8016,7 +8105,7 @@ tags:[
 ],
 personas:[],
 ships:[],
-sinopsis:'En el mundo de los ídolos del K-pop, dos historias de amor se desarrollan entre jóvenes que intentan abrirse camino en una industria marcada por la fama, los rumores y la presión. Mientras algunos intentan recuperar una relación del pasado, otros descubren el amor mientras luchan por cumplir sus sueños profesionales.',
+sinopsis:'Hyun Jae y Soo An se conocen mientras compiten en un programa de supervivencia para convertirse en idols y, durante los entrenamientos, comienzan a desarrollar sentimientos que ninguno de los dos se atreve a expresar. Sin embargo, solo Hyun Jae consigue debutar y ambos terminan separados por las exigencias de la industria. Años después, un nuevo proyecto profesional vuelve a reunirlos, pero ahora su posible relación supone un riesgo mucho mayor para sus carreras. Al mismo tiempo, Jae Min, que ha quedado apartado de sus sueños de debutar tras un escándalo, conoce a Khun, un joven músico tailandés con quien comienza a construir una relación mientras ambos intentan encontrar su propio camino.',
 multimedia:{
     portada:[],
     trailer:[],
@@ -8025,7 +8114,16 @@ multimedia:{
     ost:[],
     videos:[]
 },
-entidades:[],
+entidades:[
+    {codigo:'EN000094',funcion:['Productora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000031',funcion:['Plataforma']},
+    {codigo:'EN000089',funcion:['Plataforma']},
+    {codigo:'EN000091',funcion:['Plataforma']},
+    {codigo:'EN000093',funcion:['Plataforma']},
+    {codigo:'EN000092',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
 especiales:[],
 activo:true
 },
