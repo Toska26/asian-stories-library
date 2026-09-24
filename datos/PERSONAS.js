@@ -595,4 +595,14 @@ const PERSONAS = [
 {codigo:'PR000564', nombre:'Nachjaree Horvejkul', nombreOriginal:'', nombreArtistico:'Cherreen', alias:['Cherreen'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000565', nombre:'Ochiris Suwanpetch', nombreOriginal:'', nombreArtistico:'Aungpao', alias:['Aungpao'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000566', nombre:'Kanyarat Ruangrung', nombreOriginal:'กัญญรัตน์ เรืองรุ่ง', nombreArtistico:'Piploy', alias:['Piploy','Ploy'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+
+   {codigo:'PR000567', nombre:'Han Gi-chan', nombreOriginal:'한기찬', nombreArtistico:'Gi-chan', alias:['Gi-chan'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000568', nombre:'Jang Eui-soo', nombreOriginal:'장의수', nombreArtistico:'Eui-soo', alias:['Eui-soo'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000569', nombre:'Han Se-jin', nombreOriginal:'한세진', nombreArtistico:'Lee Se-jin', alias:['Lee Se-jin','Se-jin'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000570', nombre:'Cheon Seung-ho', nombreOriginal:'천승호', nombreArtistico:'Seung-ho', alias:['Seung-ho','Seungho Cheon'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000571', nombre:'Kang In-soo', nombreOriginal:'강인수', nombreArtistico:'Insoo', alias:['Insoo','Kang In Soo'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000572', nombre:'Lee Sang', nombreOriginal:'이상', nombreArtistico:'Sang', alias:['Sang','Sang Lee'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000573', nombre:'Hong Tae-ui', nombreOriginal:'홍태의', nombreArtistico:'Yoo Jun', alias:['Yoo Jun'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000574', nombre:'Heo Hyun-jun', nombreOriginal:'허현준', nombreArtistico:'Hyunjun', alias:['Hyunjun','Hyun Jun','Hwall'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
+
 ];
