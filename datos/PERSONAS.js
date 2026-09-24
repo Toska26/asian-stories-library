@@ -26,8 +26,8 @@ const PERSONAS = [
 {codigo:'PR000021', nombre:'Ployphach Phatchatorn Thanawat', nombreOriginal:'', nombreArtistico:'Ploy', alias:['Ploy'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000022', nombre:'Neen Suwanamas', nombreOriginal:'', nombreArtistico:'Neen', alias:['Neen'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 
-{codigo:'PR000023', nombre:'Im Ji Sub', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
-{codigo:'PR000024', nombre:'Oh Jun Taek', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000023', nombre:'Im Ji Sub', nombreOriginal:'', nombreArtistico:'Im Ji', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000024', nombre:'Oh Jun Taek', nombreOriginal:'', nombreArtistico:'Oh Jun', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000025', nombre:'Lee Mi Ra', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000026', nombre:'Yoon Se Bin', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000027', nombre:'Geum Seong Ho', nombreOriginal:'', nombreArtistico:'', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
