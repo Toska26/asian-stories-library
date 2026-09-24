@@ -6080,7 +6080,7 @@ multimedia:{
         'https://pimg.1px.tw/pink03049/1589087541-3219822327.jpg'
     ],
     trailer:[
-        'https://www.viki.com/tv/37111c-where-your-eyes-linger'
+        'https://www.viki.com/videos/1166381v'
     ],
     teaser:[],
     pilot:[],
@@ -6155,7 +6155,7 @@ multimedia:{
         'https://bancodeseries.tv.br/images/posters/20563.jpg'
     ],
     trailer:[
-        'https://www.viki.com/tv/37272c-mr-heart'
+        'https://www.viki.com/videos/1172045v'
     ],
     teaser:[],
     pilot:[],
@@ -6228,7 +6228,7 @@ multimedia:{
 'https://i.pinimg.com/736x/cd/29/7a/cd297a9c19e98a9e530baa1d3164557e.jpg',
         'https://resize-image.vocus.cc/resize?norotation=true&quality=80&sign=twVTqrfh3YV16-IOQ8jrqR-IDnLjlJBQJRrwixSs2V8&url=https%3A%2F%2Fimages.vocus.cc%2F60ae0d16-0813-4be6-8bfe-abfbbef4125e.jpg&width=740'
     ],
-    trailer:[
+    trailer:['https://www.viki.com/videos/1175155v',
         'https://www.youtube.com/watch?v=4orkIeDUvLA'
     ],
     teaser:[],
@@ -6311,7 +6311,7 @@ multimedia:{
         'https://images.justwatch.com/poster/333489955/s718/color-rush.jpg'
     ],
     trailer:[
-        'https://www.viki.com/tv/37605c-color-rush'
+        'https://www.viki.com/videos/1176447v'
     ],
     teaser:[],
     pilot:[],
@@ -6392,7 +6392,7 @@ multimedia:{
         'https://image.kpopmap.com/2021/11/Color-rush-season-2-2022-scaled.jpg'
     ],
     trailer:[
-        'https://www.viki.com/tv/38313c-color-rush-2'
+        'https://www.viki.com/videos/1191353v'
     ],
     teaser:[],
     pilot:[],
