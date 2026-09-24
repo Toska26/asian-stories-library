@@ -60,4 +60,13 @@ const ENTIDADES = [
 { codigo:'EN000054', nombre:'AIS PLAY', pais:'TH', tipos:['Plataforma'], activo:true },
 { codigo:'EN000055', nombre:'Parbdee Taweesuk', pais:'TH', tipos:['Productora'], activo:true },
 { codigo:'EN000056', nombre:'Chamade Film', pais:'TH', tipos:['Productora'], activo:true },
+   { codigo:'EN000057', nombre:'W-STORY', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000058', nombre:'Energedic Company', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000059', nombre:'Contents Monster', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000060', nombre:'Emotion Studio', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000061', nombre:'Moving Pictures Co.', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000062', nombre:'Idol Romance', pais:'KR', tipos:['Productora','Plataforma'], activo:true },
+{ codigo:'EN000063', nombre:'Storywiz', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000064', nombre:'Convergence TV', pais:'KR', tipos:['Productora'], activo:true },
+{ codigo:'EN000065', nombre:'Japangi', pais:'KR', tipos:['Productora'], activo:true },
 ];
