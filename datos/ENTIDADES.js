@@ -132,4 +132,13 @@ const ENTIDADES = [
 {codigo:'EN000126', nombre:'Merry Christmas', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000127', nombre:'Bigstone Studio', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000128', nombre:'Hanyang Studio', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000129', nombre:'Blue By Blue', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000130', nombre:'Studio OAK', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000131', nombre:'Sambok Production', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000132', nombre:'Playlist Studio', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000133', nombre:'Fuji Television', pais:'JP', tipos:['Productora'], activo:true},
+{codigo:'EN000134', nombre:'Kakao Entertainment', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000135', nombre:'Film K', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000136', nombre:"Changin' Pictures", pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000137', nombre:'Heavenly Pictures', pais:'KR', tipos:['Productora'], activo:true},
 ];
