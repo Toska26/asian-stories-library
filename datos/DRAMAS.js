@@ -9448,7 +9448,7 @@ ships:[
 ],
 sinopsis:'Jang Hye Seong, un ilustrador reconocido, regresa a su antiguo instituto para dar una conferencia y encuentra un viejo cuaderno de dibujos en el que aparece retratado su primer amor, Lee U Jin. Al terminar de dibujar de nuevo su rostro, Hye Seong es transportado misteriosamente al año 2008 y vuelve a tener dieciocho años. Allí se reencuentra con U Jin y decide intentar cambiar los errores que separaron sus vidas, aunque sus sentimientos vuelven a crecer mientras lucha contra un destino que parecía ya escrito.', 
 multimedia:{
-    portada:[],
+    portada:['https://i.pinimg.com/736x/9b/89/7b/9b897bd5f9e8eb5530f488df4d25a6a9.jpg','https://i.pinimg.com/736x/0c/63/1e/0c631ec8fce9b46c6473ede8f36a7fa7.jpg'],
     trailer:[],
     teaser:[
         'https://www.youtube.com/watch?v=vdF1Nsl24mI',
