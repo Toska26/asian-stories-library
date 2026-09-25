@@ -6674,7 +6674,7 @@ multimedia:{
         'https://i.pinimg.com/1200x/42/a4/3c/42a43c2e08361e5e3fd46eed72e35148.jpg'
     ],
     trailer:[
-        'https://www.youtube.com/watch?v=K72GelOnZw0'
+       
     ],
     teaser:[],
     pilot:[],
@@ -6731,8 +6731,7 @@ multimedia:{
     trailer:[],
     teaser:[],
     pilot:[],
-    ost:['https://www.youtube.com/watch?v=',
-        'https://www.youtube.com/watch?v='],
+    ost:[],
     videos:[]
 },
 
@@ -7348,9 +7347,7 @@ multimedia:{
     portada:[
         'https://i.pinimg.com/1200x/4a/ec/b1/4aecb1908d0425ebc0299b6a5482376e.jpg'
     ],
-    trailer:[
-        'https://www.youtube.com/watch?v=qNb20eWJ5EI'
-    ],
+    trailer:[],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7975,12 +7972,9 @@ multimedia:{
         'https://i.pinimg.com/1200x/9c/c8/b8/9cc8b86da71ac37e128bf237297b2f2c.jpg'
     ],
     trailer:[
-        'https://www.viki.com/videos/1203486v',
-        'https://www.youtube.com/watch?v=_CegJq1xsEQ'
+        'https://www.viki.com/videos/1203486v'
     ],
-    teaser:[
-        'https://www.youtube.com/watch?v=tBc1cSnacZs'
-    ],
+    teaser:[],
     pilot:[],
     ost:[],
     videos:[]
@@ -8481,10 +8475,10 @@ multimedia:{
         'https://i.pinimg.com/736x/12/bf/a4/12bfa4307022f223a0a62360b4c0b500.jpg'
     ],
     trailer:[
-        'https://www.youtube.com/watch?v=8OUgtg5wQn8'
+    
     ],
     teaser:[
-        'https://www.youtube.com/watch?v=EvBcwZ1iWio'
+
     ],
     pilot:[],
     ost:[],
@@ -8560,7 +8554,7 @@ multimedia:{
         'https://i.pinimg.com/1200x/9e/dc/bd/9edcbdf8510427908fa02246b0321466.jpg'
     ],
     trailer:[
-        'https://www.youtube.com/watch?v=qmQ0UYclpno'
+  
     ],
     teaser:[],
     pilot:[],
@@ -8631,7 +8625,7 @@ multimedia:{
     ],
     trailer:[],
     teaser:[
-        'https://www.youtube.com/watch?v=PVmHSCJywnw'
+       
     ],
     pilot:[],
     ost:[],
@@ -8764,7 +8758,7 @@ multimedia:{
         'https://i.pinimg.com/1200x/a7/b0/75/a7b0752cd3e7144c3695d4c0e6acd3da.jpg'
     ],
     trailer:[
-        'https://www.youtube.com/watch?v=3AdL0Rb--Co'
+      
     ],
     teaser:[],
     pilot:[],
@@ -9188,9 +9182,7 @@ multimedia:{
         'https://i.pinimg.com/736x/2c/ec/ed/2ceced8d956851b780c2a938a0bbe51a.jpg',
         'https://i.pinimg.com/736x/84/62/57/8462574971055d72134b2f5fb3259e6d.jpg'
     ],
-    trailer:[
-        'https://www.youtube.com/watch?v=vbRmfi2eW6g'
-    ],
+    trailer:[],
     teaser:[],
     pilot:[],
     ost:[],
@@ -9526,7 +9518,19 @@ ships:[
     {personajes:['Tae Myung-ha','Cha Yeo-woon']}
 ],
 sinopsis:'A los 29 años, Tae Myung Ha entra misteriosamente en un videojuego basado en una novela que estaba leyendo y aparece en el cuerpo de su yo de diecinueve años. Allí recibe la misión de hacer feliz a Cha Yeo Woon, su personaje favorito de la novela. Mientras intenta cumplir el objetivo, Myung Ha descubre que sus sentimientos y los acontecimientos del juego pueden alterar una historia que parecía estar predeterminada.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=XfnNyduk_Jo'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:['https://www.youtube.com/watch?v=g3FmbWOBCNY',
+        'https://www.youtube.com/watch?v=OKWU6WYkjcs',
+        'https://www.youtube.com/watch?v=VAMp-bRTO4I'],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000115', funcion:['Productora']},
     {codigo:'EN000024', funcion:['Plataforma']},
     {codigo:'EN000091', funcion:['Plataforma']},
@@ -9590,7 +9594,20 @@ ships:[
     {personajes:['Seo Do-yoon','Song Joo-ha']}
 ],
 sinopsis:'Han Tae Yi, un estudiante talentoso que perdió el interés por la música tras la muerte de su hermano, conoce a Yoon Se Heon, un nuevo alumno apasionado por el jazz. Ambos son asignados al mismo grupo musical y, pese a sus diferencias, comienzan a acercarse mientras la música despierta recuerdos dolorosos del pasado de Tae Yi. La llegada de Se Heon también revela una conexión inesperada con el hermano de Tae Yi.',
-entidades:[
+
+	multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[  'https://www.youtube.com/watch?v=O9MH-a_mxlI',
+        'https://www.youtube.com/watch?v=21Q3wMBGDwE',
+        'https://www.youtube.com/watch?v=lvETovg5UPc',
+        'https://www.youtube.com/watch?v=lfXNM9jn904',
+        'https://www.youtube.com/watch?v=IRmKUOzaqEQ'],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000116', funcion:['Productora']},
     {codigo:'EN000117', funcion:['Productora']},
     {codigo:'EN000024', funcion:['Plataforma']},
@@ -9649,7 +9666,17 @@ ships:[
     {personajes:['Cha Soo-hyuk','Lee Yoon-dae']}
 ],
 sinopsis:'Soo Hyuk regresa a la vida de su antiguo amigo Jae Hee en un momento especialmente difícil. Ambos terminan compartiendo espacio mientras intentan enfrentarse a las heridas y problemas que arrastran de su pasado. La convivencia hace que los sentimientos que habían permanecido ocultos vuelvan a aparecer, obligándolos a enfrentarse a aquello de lo que habían intentado escapar.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=0NZB5ll5V44'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000118', funcion:['Productora']},
     {codigo:'EN000110', funcion:['Plataforma']},
     {codigo:'EN000024', funcion:['Plataforma']}
@@ -9705,7 +9732,17 @@ ships:[
     {personajes:['Uno','Dae Byeol']}
 ],
 sinopsis:'Pi Uno es una estrella popular que siente rechazo hacia los perros debido a un trauma de su infancia. Su vida cambia cuando conoce a Lee Dae Byeol, propietario de una cafetería para perros, y a Gi Min, uno de sus empleados. Mientras Pi Uno comienza a trabajar en el establecimiento, la convivencia con Dae Byeol hace que ambos se acerquen y descubran sentimientos que ninguno esperaba.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=B-IdATHk0Nw'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000128', funcion:['Productora']},
     {codigo:'EN000025', funcion:['Plataforma']},
     {codigo:'EN000028', funcion:['Plataforma']}
@@ -9761,7 +9798,17 @@ ships:[
     {personajes:['Kim Min-jae','Yoon Chan']}
 ],
 sinopsis:'Kim Min Jae, un estudiante transferido de música práctica, conoce accidentalmente a Yoon Chan, un estudiante de Taekwondo. Aunque al principio sus personalidades chocan, ambos comienzan a acercarse mientras pasan cada vez más tiempo juntos. La aparición de Jung Woo Hyuk, interesado en Yoon Chan, complica la relación y convierte su nueva vida universitaria en una historia de amistad, rivalidad y amor.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=73rKjU4MiZ0'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[  'https://www.youtube.com/watch?v=JkKyFpfhJvM']
+},
+	entidades:[
     {codigo:'EN000120', funcion:['Productora']},
     {codigo:'EN000121', funcion:['Productora']},
     {codigo:'EN000110', funcion:['Plataforma']},
@@ -9819,7 +9866,17 @@ ships:[
     {personajes:['Kim Jin-woo','Jung Ki-sub']}
 ],
 sinopsis:'Kim Jin Woo está enamorado en secreto de su amigo Jung Ki Sub, pero nunca ha conseguido confesar sus sentimientos. Todo se complica cuando Ki Sub necesita un lugar donde quedarse y termina viviendo con él. La convivencia hace que sus sentimientos sean cada vez más difíciles de ocultar, mientras antiguos amores y malentendidos amenazan con alterar la relación entre ambos.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=ZqbLf2Kz5fo'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000122', funcion:['Productora']},
     {codigo:'EN000123', funcion:['Productora']},
     {codigo:'EN000110', funcion:['Plataforma']},
@@ -9874,7 +9931,17 @@ ships:[
     {personajes:['Go Ho-tae','Kim Dong-hee']}
 ],
 sinopsis:'Ho Tae regresa a su ciudad natal de Gangneung después de dos años y busca inmediatamente a su antiguo mejor amigo, Kim Dong Hee. Dong Hee, que vive con la familia de Ho Tae tras haber sufrido violencia familiar, ha cambiado durante su ausencia. Mientras pasan tiempo juntos, la amistad entre ambos comienza a transformarse en algo más profundo. Sus sentimientos, los conflictos familiares y las heridas del pasado les obligan a enfrentarse a un amor que llevaba tiempo esperando.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[ 'https://www.youtube.com/watch?v=FMdUuSLYn6E',
+        'https://www.youtube.com/watch?v=L2283loqi-A',
+        'https://www.youtube.com/watch?v=5mQAB8t5Qxw'],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000124', funcion:['Productora']},
     {codigo:'EN000125', funcion:['Productora']}
 ],
@@ -9934,7 +10001,15 @@ ships:[
     {personajes:['Go Young','Sim Gyu-ho']}
 ],
 sinopsis:'Go Young, un joven gay que vive en Seúl, comparte casa con su mejor amiga Choi Mi Ae mientras intenta encontrar su lugar en la vida. A lo largo de varios años, experimenta distintas relaciones, amistades y rupturas mientras aprende a enfrentarse a las expectativas sociales, a su familia y a sus propios sentimientos. La historia sigue su proceso de crecimiento y autodescubrimiento mientras busca el amor y una vida que pueda sentir como propia.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000126', funcion:['Productora']},
     {codigo:'EN000127', funcion:['Productora']},
     {codigo:'EN000114', funcion:['Plataforma']},
@@ -9991,7 +10066,17 @@ ships:[
     {personajes:['Do Hoe','Ju Yeong']}
 ],
 sinopsis:'Do Hoe es un estudiante de instituto que vive en un entorno familiar marcado por la violencia de su padre, propietario de un gimnasio de Taekwondo. Su vida cambia cuando conoce a Ju Yeong, un joven alegre que llega desde Seúl con el sueño de estudiar Taekwondo. Ambos desarrollan una relación que se ve destruida por las circunstancias y permanecen separados durante doce años. Cuando vuelven a encontrarse como adultos, deben enfrentarse a las heridas del pasado y decidir si todavía existe una oportunidad para ellos.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=B5HKNv5NdSk'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000110', funcion:['Plataforma']},
     {codigo:'EN000024', funcion:['Plataforma']},
     {codigo:'EN000025', funcion:['Plataforma']}
@@ -10047,7 +10132,17 @@ ships:[
     {personajes:['Jay','Seong Hun']}
 ],
 sinopsis:'Jay y Seong Hun se conocen desde hace muchos años y, aunque sus sentimientos han ido más allá de la amistad, ninguno se ha atrevido a confesarlos. Ahora ambos son compañeros de universidad y su relación comienza a cambiar mientras intentan ocultar lo que sienten. La situación se complica cuando ocurre un asesinato en la ciudad y el caso parece guardar una conexión inesperada con ellos.',
-entidades:[
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=Omw_cqxJ3kg'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+	entidades:[
     {codigo:'EN000128', funcion:['Productora']},
     {codigo:'EN000025', funcion:['Plataforma']},
     {codigo:'EN000028', funcion:['Plataforma']},
