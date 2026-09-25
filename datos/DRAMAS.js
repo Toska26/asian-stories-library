@@ -9518,6 +9518,13 @@ tags:[
     'Misión',
     'Destino'
 ],
+	personas:[
+    {nombre:'Tae Myung-ha',persona:'PR000661',funcion:['Actor'],principal:true},
+    {nombre:'Cha Yeo-woon',persona:'PR000662',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Tae Myung-ha','Cha Yeo-woon']}
+],
 sinopsis:'A los 29 años, Tae Myung Ha entra misteriosamente en un videojuego basado en una novela que estaba leyendo y aparece en el cuerpo de su yo de diecinueve años. Allí recibe la misión de hacer feliz a Cha Yeo Woon, su personaje favorito de la novela. Mientras intenta cumplir el objetivo, Myung Ha descubre que sus sentimientos y los acontecimientos del juego pueden alterar una historia que parecía estar predeterminada.',
 entidades:[
     {codigo:'EN000115', funcion:['Productora']},
@@ -9569,6 +9576,18 @@ tags:[
     'Trauma',
     'Amistad',
     'Universo compartido'
+],
+	personas:[
+    {nombre:'Han Tae-yi',persona:'PR000663',funcion:['Actor'],principal:true},
+    {nombre:'Yoon Seo-heon',persona:'PR000664',funcion:['Actor'],principal:true},
+    {nombre:'Seo Do-yoon',persona:'PR000665',funcion:['Actor'],principal:true},
+    {nombre:'Song Joo-ha',persona:'PR000666',funcion:['Actor'],principal:true},
+    {nombre:'Lee Da Yeol',persona:'PR000629',funcion:['Actor'],principal:false},
+    {nombre:'Jo Tae-hyun',persona:'PR000630',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Han Tae-yi','Yoon Seo-heon']},
+    {personajes:['Seo Do-yoon','Song Joo-ha']}
 ],
 sinopsis:'Han Tae Yi, un estudiante talentoso que perdió el interés por la música tras la muerte de su hermano, conoce a Yoon Se Heon, un nuevo alumno apasionado por el jazz. Ambos son asignados al mismo grupo musical y, pese a sus diferencias, comienzan a acercarse mientras la música despierta recuerdos dolorosos del pasado de Tae Yi. La llegada de Se Heon también revela una conexión inesperada con el hermano de Tae Yi.',
 entidades:[
@@ -9622,6 +9641,13 @@ tags:[
     'Supervivencia',
     'Segunda oportunidad'
 ],
+personas:[
+    {nombre:'Cha Soo-hyuk',persona:'PR000667',funcion:['Actor'],principal:true},
+    {nombre:'Lee Yoon-dae',persona:'PR000609',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Cha Soo-hyuk','Lee Yoon-dae']}
+],
 sinopsis:'Soo Hyuk regresa a la vida de su antiguo amigo Jae Hee en un momento especialmente difícil. Ambos terminan compartiendo espacio mientras intentan enfrentarse a las heridas y problemas que arrastran de su pasado. La convivencia hace que los sentimientos que habían permanecido ocultos vuelvan a aparecer, obligándolos a enfrentarse a aquello de lo que habían intentado escapar.',
 entidades:[
     {codigo:'EN000118', funcion:['Productora']},
@@ -9671,6 +9697,13 @@ tags:[
     'Sanación',
     'Romance'
 ],
+	personas:[
+    {nombre:'Uno',persona:'PR000224',funcion:['Actor'],principal:true},
+    {nombre:'Dae Byeol',persona:'PR000668',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Uno','Dae Byeol']}
+],
 sinopsis:'Pi Uno es una estrella popular que siente rechazo hacia los perros debido a un trauma de su infancia. Su vida cambia cuando conoce a Lee Dae Byeol, propietario de una cafetería para perros, y a Gi Min, uno de sus empleados. Mientras Pi Uno comienza a trabajar en el establecimiento, la convivencia con Dae Byeol hace que ambos se acerquen y descubran sentimientos que ninguno esperaba.',
 entidades:[
     {codigo:'EN000128', funcion:['Productora']},
@@ -9719,6 +9752,13 @@ tags:[
     'Primer amor',
     'Triángulo amoroso',
     'Amistad'
+],
+	personas:[
+    {nombre:'Kim Min-jae',persona:'PR000669',funcion:['Actor'],principal:true},
+    {nombre:'Yoon Chan',persona:'PR000670',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kim Min-jae','Yoon Chan']}
 ],
 sinopsis:'Kim Min Jae, un estudiante transferido de música práctica, conoce accidentalmente a Yoon Chan, un estudiante de Taekwondo. Aunque al principio sus personalidades chocan, ambos comienzan a acercarse mientras pasan cada vez más tiempo juntos. La aparición de Jung Woo Hyuk, interesado en Yoon Chan, complica la relación y convierte su nueva vida universitaria en una historia de amistad, rivalidad y amor.',
 entidades:[
@@ -9771,6 +9811,13 @@ tags:[
     'Triángulo amoroso',
     'Webtoon'
 ],
+	personas:[
+    {nombre:'Kim Jin-woo',persona:'PR000671',funcion:['Actor'],principal:true},
+    {nombre:'Jung Ki-sub',persona:'PR000672',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kim Jin-woo','Jung Ki-sub']}
+],
 sinopsis:'Kim Jin Woo está enamorado en secreto de su amigo Jung Ki Sub, pero nunca ha conseguido confesar sus sentimientos. Todo se complica cuando Ki Sub necesita un lugar donde quedarse y termina viviendo con él. La convivencia hace que sus sentimientos sean cada vez más difíciles de ocultar, mientras antiguos amores y malentendidos amenazan con alterar la relación entre ambos.',
 entidades:[
     {codigo:'EN000122', funcion:['Productora']},
@@ -9818,6 +9865,13 @@ tags:[
     'Reencuentro',
     'Familia',
     'Trauma'
+],
+	personas:[
+    {nombre:'Go Ho-tae',persona:'PR000578',funcion:['Actor'],principal:true},
+    {nombre:'Kim Dong-hee',persona:'PR000660',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Go Ho-tae','Kim Dong-hee']}
 ],
 sinopsis:'Ho Tae regresa a su ciudad natal de Gangneung después de dos años y busca inmediatamente a su antiguo mejor amigo, Kim Dong Hee. Dong Hee, que vive con la familia de Ho Tae tras haber sufrido violencia familiar, ha cambiado durante su ausencia. Mientras pasan tiempo juntos, la amistad entre ambos comienza a transformarse en algo más profundo. Sus sentimientos, los conflictos familiares y las heridas del pasado les obligan a enfrentarse a un amor que llevaba tiempo esperando.',
 entidades:[
@@ -9867,6 +9921,17 @@ tags:[
     'Amistad',
     'Amor',
     'Identidad'
+],
+	personas:[
+    {nombre:'Go Young',persona:'PR000673',funcion:['Actor'],principal:true},
+    {nombre:'Kim Nam-gyu',persona:'PR000617',funcion:['Actor'],principal:false},
+    {nombre:'No Young-su',persona:'PR000674',funcion:['Actor'],principal:false},
+    {nombre:'Sim Gyu-ho',persona:'PR000675',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Go Young','Kim Nam-gyu']},
+    {personajes:['Go Young','No Young-su']},
+    {personajes:['Go Young','Sim Gyu-ho']}
 ],
 sinopsis:'Go Young, un joven gay que vive en Seúl, comparte casa con su mejor amiga Choi Mi Ae mientras intenta encontrar su lugar en la vida. A lo largo de varios años, experimenta distintas relaciones, amistades y rupturas mientras aprende a enfrentarse a las expectativas sociales, a su familia y a sus propios sentimientos. La historia sigue su proceso de crecimiento y autodescubrimiento mientras busca el amor y una vida que pueda sentir como propia.',
 entidades:[
@@ -9918,6 +9983,13 @@ tags:[
     'Familia',
     'Segunda oportunidad'
 ],
+	personas:[
+    {nombre:'Do Hoe',persona:'PR000676',funcion:['Actor'],principal:true},
+    {nombre:'Ju Yeong',persona:'PR000677',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Do Hoe','Ju Yeong']}
+],
 sinopsis:'Do Hoe es un estudiante de instituto que vive en un entorno familiar marcado por la violencia de su padre, propietario de un gimnasio de Taekwondo. Su vida cambia cuando conoce a Ju Yeong, un joven alegre que llega desde Seúl con el sueño de estudiar Taekwondo. Ambos desarrollan una relación que se ve destruida por las circunstancias y permanecen separados durante doce años. Cuando vuelven a encontrarse como adultos, deben enfrentarse a las heridas del pasado y decidir si todavía existe una oportunidad para ellos.',
 entidades:[
     {codigo:'EN000110', funcion:['Plataforma']},
@@ -9966,6 +10038,13 @@ tags:[
     'Misterio',
     'Crimen',
     'Asesinato'
+],
+	personas:[
+    {nombre:'Jay',persona:'PR000679',funcion:['Actor'],principal:true},
+    {nombre:'Seong Hun',persona:'PR000678',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jay','Seong Hun']}
 ],
 sinopsis:'Jay y Seong Hun se conocen desde hace muchos años y, aunque sus sentimientos han ido más allá de la amistad, ninguno se ha atrevido a confesarlos. Ahora ambos son compañeros de universidad y su relación comienza a cambiar mientras intentan ocultar lo que sienten. La situación se complica cuando ocurre un asesinato en la ciudad y el caso parece guardar una conexión inesperada con ellos.',
 entidades:[
