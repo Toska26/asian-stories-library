@@ -655,4 +655,7 @@ const PERSONAS = [
 {codigo:'PR000623', nombre:'Seo Yi-han', nombreOriginal:'서이한', nombreArtistico:'Seo Yi-han', alias:['Seo Ihan','Seo Yi Han'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000624', nombre:'Lee Woo-jin', nombreOriginal:'이우진', nombreArtistico:'Lee Woo-jin', alias:['Lee Woo Jin','Lee Woojin','Woojin'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000625', nombre:'Panutuch Saelee', nombreOriginal:'ภาณุทัต แซ่หลี', nombreArtistico:'Petch', alias:['Petch','Panutuch Saelee','Phet Phanuthat Saeli'], pais:'TH', idioma:'th', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+   {codigo:'PR000626', nombre:'Im Sung Kyun', nombreOriginal:'임성균', nombreArtistico:'', alias:['Im Seong-gyun','Lim Sung-kyun','Lim Seong-kyun'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000627', nombre:'Park Seung-bin', nombreOriginal:'박승빈', nombreArtistico:'', alias:['Park Seung Bin','Seung-bin Park','Park Sung Bin'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000628', nombre:'Lee Jung-min', nombreOriginal:'이정민', nombreArtistico:'', alias:['Lee Jung Min','Lee Jeong Min'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
 ];
