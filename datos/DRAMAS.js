@@ -8388,8 +8388,13 @@ tags:[
     'Primer amor',
     'Coming-of-age'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Lee Da Yeol',persona:'PR000629',funcion:['Actor'],principal:true},
+    {nombre:'Jo Tae Hyun',persona:'PR000630',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Da Yeol','Jo Tae Hyun']}
+],
 sinopsis:'Da Yeol, un estudiante dedicado al tiro con arco, ve amenazada su beca cuando se ve involucrado en un incidente con Tae Hyun, uno de los alumnos más populares del instituto. Tae Hyun aprovecha la situación para atormentarlo y convertir su vida escolar en un infierno. Sin embargo, la hostilidad entre ambos comienza a transformarse cuando Da Yeol descubre la soledad y las heridas que se esconden detrás de la actitud de Tae Hyun.', 
 multimedia:{ 
     portada:[], 
@@ -8449,8 +8454,13 @@ tags:[
     'Primer amor',
     'Amigos de la infancia'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Lee Wan',persona:'PR000631',funcion:['Actor'],principal:true},
+    {nombre:'Shin Ki Tae',persona:'PR000632',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Wan','Shin Ki Tae']}
+],
 sinopsis:'Lee Wan comienza a trabajar en una empresa de videojuegos y descubre que su nuevo jefe es Shin Ki Tae, su antiguo mejor amigo y primer amor. Después de haberse separado tras la graduación, ambos deben enfrentarse a los sentimientos que nunca llegaron a desaparecer mientras trabajan juntos en un nuevo proyecto de videojuego romántico.', 
 multimedia:{ 
     portada:[], 
@@ -8510,8 +8520,13 @@ tags:[
     'Mentiras',
     'Primer amor'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Yoon Tae Joon',persona:'PR000633',funcion:['Actor'],principal:true},
+    {nombre:'Ji Won Young',persona:'PR000634',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yoon Tae Joon','Ji Won Young']}
+],
 sinopsis:'Ji Won Young pierde su trabajo después de verse involucrado en un escándalo y descubre que la persona que puede ayudarle a recuperar su puesto es Yoon Tae Joon, un reservado artista de cerámica que ha desaparecido de la vida pública. Won Young intenta acercarse a él con una intención inicialmente interesada, pero la relación entre ambos evoluciona hacia sentimientos reales que ninguno de los dos esperaba.', 
 multimedia:{ 
     portada:[], 
@@ -8568,8 +8583,13 @@ tags:[
     'Sanación',
     'Amor'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Lee Seung Jun',persona:'PR000635',funcion:['Actor'],principal:true},
+    {nombre:'Jae Hyun',persona:'PR000636',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Seung Jun','Jae Hyun']}
+],
 sinopsis:'Seung Jun trabaja como pianista y cantante en bodas, pero arrastra un profundo trauma relacionado con una antigua relación. En una de sus actuaciones conoce a Jae Hyun, un cantante de bodas cuya amabilidad y paciencia comienzan poco a poco a derribar sus defensas. Mientras ambos se acercan a través de la música, Seung Jun debe enfrentarse a sus heridas del pasado para poder abrirse de nuevo al amor.', 
 multimedia:{ 
     portada:[], 
@@ -8627,8 +8647,13 @@ tags:[
     'Amor',
     'Romance laboral'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Seo Yi Jun',persona:'PR000637',funcion:['Actor'],principal:true},
+    {nombre:'Jeong Ha Ram',persona:'PR000638',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Seo Yi Jun','Jeong Ha Ram']}
+],
 sinopsis:'Seo Yi Jun es un líder de equipo que no cree en el amor y mantiene una actitud fría en el trabajo. Su vida cambia cuando conoce a Jeong Ha Ram, un nuevo empleado sincero y directo que no tiene miedo de expresar sus sentimientos. Una relación inicialmente complicada en la oficina comienza a convertirse poco a poco en algo más profundo.', 
 multimedia:{ 
     portada:[], 
@@ -8682,8 +8707,13 @@ tags:[
     'Amor no confesado',
     'Juventud'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Yoo Jae Heon',persona:'PR000639',funcion:['Actor'],principal:true},
+    {nombre:'Jo Yoo Jae',persona:'PR000640',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yoo Jae Heon','Jo Yoo Jae']}
+], 
 sinopsis:'Seo Han Joon y Jo Yoo Jae son amigos desde la infancia y han crecido juntos compartiendo una relación cada vez más cercana. Aunque sus sentimientos han ido cambiando con el paso de los años, ninguno de los dos se atreve a enfrentarse a lo que realmente siente por el otro. Cuando su amistad comienza a verse alterada por los celos y los cambios de su vida, ambos deben decidir si están preparados para convertir su vínculo en algo más.', 
 multimedia:{ 
     portada:[], 
@@ -8739,8 +8769,13 @@ tags:[
     'Opuestos',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Seon Yool',persona:'PR000641',funcion:['Actor'],principal:true},
+    {nombre:'Ye Chan',persona:'PR000642',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Seon Yool','Ye Chan']}
+],
 sinopsis:'Seon Yul, un joven de ciudad acostumbrado a una vida cómoda, se traslada temporalmente al campo para desconectar de su vida anterior. Allí conoce a Ye Chan, un joven alegre y entusiasta que adora la vida rural. Mientras Seon Yul aprende a desenvolverse en el campo y a disfrutar de una nueva forma de vida, la cercanía entre ambos se transforma en una relación llena de cariño y nuevas experiencias.', 
 multimedia:{ 
     portada:[], 
@@ -8799,8 +8834,13 @@ tags:[
     'Primer amor',
     'Amor no confesado'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Han Ba Ram',persona:'PR000643',funcion:['Actor'],principal:true},
+    {nombre:'Im Han Tae',persona:'PR000644',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Ba Ram','Im Han Tae']}
+],
 sinopsis:'Ba Ram y Han Tae se conocen durante su etapa escolar y, después de un incidente que cambia su relación, terminan convirtiéndose en grandes amigos. Años más tarde, Ba Ram se ha convertido en el vocalista de una banda mientras Han Tae permanece a su lado como amigo y representante. Sin embargo, los sentimientos de Ba Ram han dejado de ser solo amistad y cada vez resulta más difícil ocultarlos.', 
 multimedia:{ 
     portada:[], 
@@ -8859,8 +8899,13 @@ tags:[
     'Jefe y empleado',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Choi Jun',persona:'PR000645',funcion:['Actor'],principal:true},
+    {nombre:'Lee Jun',persona:'PR000646',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Choi Jun','Lee Jun']}
+],
 sinopsis:'Lee Jun comienza su primer trabajo en una empresa de cosméticos y descubre que su superior es Choi Jun, un antiguo conocido que ha cambiado mucho desde que se conocieron. Mientras se adapta a su nuevo empleo, Lee Jun queda atrapado entre la actitud profesional de su jefe y la creciente atracción que existe entre ambos.', 
 multimedia:{ 
     portada:[], 
@@ -8918,8 +8963,13 @@ tags:[
     'Comedia',
     'Adaptación'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Lee Won',persona:'PR000628',funcion:['Actor'],principal:true},
+    {nombre:'Kim Ji Oh',persona:'PR000647',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Won','Kim Ji Oh']}
+],
 sinopsis:'Lee Won y Ji Oh mantienen una relación complicada mientras intentan sobrevivir a la vida universitaria y a los sentimientos que empiezan a surgir entre ellos. A medida que las situaciones románticas y los malentendidos se acumulan, ambos deben enfrentarse a lo que realmente sienten mientras su círculo de amigos también se ve envuelto en sus relaciones.', 
 multimedia:{ 
     portada:[], 
@@ -8977,8 +9027,13 @@ tags:[
     'Convivencia',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Lee Yoon Soo',persona:'PR000648',funcion:['Actor'],principal:true},
+    {nombre:'Jung Do Hoon',persona:'PR000649',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Yoon Soo','Jung Do Hoon']}
+],
 sinopsis:'Do Hoon, un joven que vive una vida rutinaria, comienza a acercarse a su vecino Ha Min, un chef que entra inesperadamente en su vida a través de la comida. Entre platos caseros, conversaciones y momentos compartidos, ambos descubren que la relación que comienza alrededor de una mesa puede convertirse en algo mucho más íntimo.', 
 multimedia:{ 
     portada:[], 
@@ -9036,8 +9091,13 @@ tags:[
     'Celos',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Eden',persona:'PR000650',funcion:['Actor'],principal:true},
+    {nombre:'Ji Hoon',persona:'PR000651',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Eden','Ji Hoon']}
+],
 sinopsis:'Eden está a punto de debutar como miembro de un nuevo dúo de K-pop cuando descubre que su compañero será Ji Hoon, un idol veterano cuya carrera ha perdido popularidad. La agencia decide que ambos deben promocionarse mediante un concepto de pareja conocido como Business Gay. Lo que comienza como una estrategia de marketing acaba complicándose cuando los sentimientos entre ambos empiezan a superar los límites de la actuación.', 
 multimedia:{ 
     portada:[], 
@@ -9093,8 +9153,13 @@ tags:[
     'Deporte',
     'Amor'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Ban Dong Wook',persona:'PR000652',funcion:['Actor'],principal:true},
+    {nombre:'Lee Do Hyun',persona:'PR000653',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ban Dong Wook','Lee Do Hyun']}
+],
 sinopsis:'Dong Wook y Do Hyun fueron inseparables durante su juventud y llegaron a enamorarse, pero las circunstancias hicieron que sus caminos se separaran. Años después, Dong Wook regresa a la vida de Do Hyun, que ahora es una estrella del baloncesto universitario. El reencuentro despierta sentimientos que nunca desaparecieron y obliga a ambos a enfrentarse a las heridas de su pasado.', 
 multimedia:{ 
     portada:[], 
@@ -9152,8 +9217,13 @@ tags:[
     'Pasado',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Ha Yeon Woo',persona:'PR000654',funcion:['Actor'],principal:true},
+    {nombre:'Sung Woo Jae',persona:'PR000655',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ha Yeon Woo','Sung Woo Jae']}
+],
 sinopsis:'Yeon Woo es un director de cine cuya carrera atraviesa un momento difícil cuando vuelve a encontrarse con Woo Jae, un antiguo conocido que se ha convertido en escritor. Los dos cargan con heridas y malentendidos del pasado, pero la necesidad de trabajar juntos en una nueva historia les obliga a enfrentarse a aquello que los separó y a los sentimientos que todavía permanecen entre ellos.', 
 multimedia:{ 
     portada:[], 
@@ -9210,8 +9280,13 @@ tags:[
     'Trabajo',
     'Romance'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Han Ji Yu',persona:'PR000656',funcion:['Actor'],principal:true},
+    {nombre:'Park Ki Hoon',persona:'PR000657',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Ji Yu','Park Ki Hoon']}
+],
 sinopsis:'Han Ji Yu trabaja como especialista de marketing para una empresa de bebidas alcohólicas y necesita convencer al chef Park Ki Hoon para que permita vender sus productos en su restaurante. Ki Hoon se niega rotundamente a trabajar con alcohol, pero la insistencia de Ji Yu hace que ambos pasen cada vez más tiempo juntos. Entre discusiones, comidas y bebidas, la relación profesional comienza a transformarse en algo más.', 
 multimedia:{ 
     portada:[], 
@@ -9230,67 +9305,9 @@ especiales:[],
 activo:true 
 },
 
-/* ===============  BEHIND THE SHADOWS — DR000153   =================== */
+/* ===============  ALWAYS MEET AGAIN — DR000153   =================== */
 { 
 codigo:'DR000153', 
-titulo:'Behind the Shadows', 
-tituloOriginal:'그림자 고백', 
-alias:[
-    'Behind the Shadows',
-    'Shadow Confession',
-    'Geulimja Gobaek',
-    'KBS Drama Special: Behind the Shadows'
-], 
-tipo:'Drama', 
-anio:2023, 
-pais:'KR', 
-idioma:'ko', 
-franquicia:'', 
-universo:'', 
-serie:'', 
-temporadas:1, 
-temporada:1, 
-episodios:1, 
-duracion:'81 min', 
-estado:'Finalizado', 
-estreno:'2023-11-24', 
-finalizacion:'2023-11-24', 
-generos:[
-    'Drama',
-    'Romance',
-    'Histórico'
-], 
-tags:[
-    'BL',
-    'Joseon',
-    'Histórico',
-    'Amor no correspondido',
-    'Amistad',
-    'Secreto',
-    'KBS Drama Special'
-], 
-personas:[], 
-ships:[], 
-sinopsis:'En la época Joseon, Yoon Ho guarda en secreto sus sentimientos por su amigo de la infancia Jae Woon, mientras las normas sociales y las circunstancias de su vida hacen imposible expresar abiertamente lo que siente. Su amistad se convierte en un vínculo marcado por los sentimientos ocultos, los sacrificios y la imposibilidad de vivir su amor de la manera que desean.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
-entidades:[
-    {codigo:'EN000107', funcion:'Productora'},
-    {codigo:'EN000112', funcion:'Emisora'}
-],
-especiales:[], 
-activo:true 
-},
-
-/* ===============  ALWAYS MEET AGAIN — DR000154   =================== */
-{ 
-codigo:'DR000154', 
 titulo:'Always Meet Again', 
 tituloOriginal:'언제나 다시 만나', 
 alias:[
@@ -9327,8 +9344,13 @@ tags:[
     'Segunda oportunidad',
     'Destino'
 ], 
-personas:[], 
-ships:[], 
+personas:[
+    {nombre:'Jang Hye Seong',persona:'PR000652',funcion:['Actor'],principal:true},
+    {nombre:'Lee Woo Jin',persona:'PR000653',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jang Hye Seong','Lee Woo Jin']}
+],
 sinopsis:'Jang Hye Seong, un ilustrador reconocido, regresa a su antiguo instituto para dar una conferencia y encuentra un viejo cuaderno de dibujos en el que aparece retratado su primer amor, Lee U Jin. Al terminar de dibujar de nuevo su rostro, Hye Seong es transportado misteriosamente al año 2008 y vuelve a tener dieciocho años. Allí se reencuentra con U Jin y decide intentar cambiar los errores que separaron sus vidas, aunque sus sentimientos vuelven a crecer mientras lucha contra un destino que parecía ya escrito.', 
 multimedia:{ 
     portada:[], 
