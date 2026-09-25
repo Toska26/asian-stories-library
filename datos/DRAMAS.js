@@ -7057,8 +7057,13 @@ tags:[
     ],
 sinopsis:'Kim Jun-ho es un vampiro que necesita beber la sangre de un humano especial para convertirse en mortal. Cuando conoce a Choi Min-hyun, descubre que su sangre podría permitirle cumplir su deseo y decide acercarse a él con ese propósito. Sin embargo, cuanto más tiempo pasa junto a Min-hyun, más difícil le resulta verlo simplemente como una víctima, mientras un vampiro de su pasado intenta impedir que consiga lo que busca.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/ff/3f/61/ff3f6152cdae9dd0e1e2973980a1edec.jpg',
+        'https://i.pinimg.com/736x/43/8d/94/438d9484e42b0eb0a9606132415fc5ec.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1192290v'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7121,12 +7126,20 @@ tags:[
     ],
 sinopsis:'Choo Sang-woo es un estudiante de informática metódico y reservado que está acostumbrado a seguir las reglas al pie de la letra. Cuando decide eliminar de un proyecto universitario a los compañeros que no han colaborado, perjudica sin saberlo los planes de Jang Jae-young, un estudiante de diseño que estaba a punto de graduarse. El conflicto entre ambos comienza como una guerra de personalidades, pero la convivencia y los encuentros cada vez más frecuentes hacen que la relación entre ellos cambie de forma inesperada.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/11/2d/53/112d53ded0bf4a71d7b25fef2f3dba2d.jpg',
+        'https://i.pinimg.com/736x/ff/ab/83/ffab8341aa6427cf306ee9d54ba1c444.jpg',
+        'https://i.pinimg.com/1200x/c3/2a/dc/c32adc6e93b99ac7552e9a9277e80a7e.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=Sjnq-0Bb6HQ'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
-    videos:[]
+    videos:[
+        'https://www.youtube.com/watch?v=0DycWi5nPJo'
+    ]
 },
 entidades:[
     {codigo:'EN000078',funcion:['Productora']},
@@ -7191,7 +7204,11 @@ tags:[
     ],
 sinopsis:'Sul Won, un joven que acaba de perder su trabajo, se queda al frente de la casa de huéspedes de bajo coste que regenta su madre cuando ella decide marcharse. De repente tiene que hacerse cargo de un grupo de residentes muy diferentes entre sí: un estudiante de instituto, un antiguo amigo, un profesor y un estudiante de arte. La convivencia hace que entre ellos surjan nuevas amistades, conflictos y sentimientos inesperados, mientras Sul Won descubre que algunos de sus inquilinos sienten algo más por él.',
 multimedia:{
-    portada:[],
+    portada:[
+        'https://i.pinimg.com/1200x/5f/3e/d3/5f3ed3851bf5860fe95f0ca335adf7c7.jpg',
+        'https://i.pinimg.com/736x/57/95/a7/5795a7355df848af3aaf202a71d22389.jpg',
+        'https://i.pinimg.com/736x/70/42/0c/70420cca23497d1570bb155d130ae54f.jpg'
+    ],
     trailer:[],
     teaser:[],
     pilot:[],
@@ -7253,8 +7270,13 @@ tags:[
     ],
 sinopsis:'Un novelista web lleva varios siglos buscando a la persona que considera el amor de su vida. Cuando finalmente cree haber encontrado la oportunidad de reencontrarse con ella, descubre que su alma gemela ha regresado a su vida como un hombre y, además, trabaja como editor. Entre recuerdos de vidas pasadas y sentimientos que parecen haber sobrevivido al paso del tiempo, ambos deberán descubrir si esta vez pueden cambiar el destino de su historia de amor.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/a4/5d/cd/a45dcd0705b521cd020a2afb3cf48395.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1192402v',
+        'https://www.youtube.com/watch?v=B5KymUkP2pw'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7323,8 +7345,12 @@ tags:[
     ],
 sinopsis:'Ji Seok y Do Jin conocen a Hyeon Woo durante una competición de judo entre institutos de Seúl. Fascinados por su forma temeraria de luchar, ambos terminan acercándose a él, aunque sus sentimientos evolucionan de manera diferente. Do Jin se enamora de Hyeon Woo, mientras Ji Seok acaba convirtiéndose en su pareja. Años después, cuando Do Jin regresa convertido en campeón de judo, los tres vuelven a encontrarse y deben enfrentarse a los sentimientos y heridas que quedaron sin resolver.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/4a/ec/b1/4aecb1908d0425ebc0299b6a5482376e.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=qNb20eWJ5EI'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7383,8 +7409,13 @@ tags:[
     ],
 sinopsis:'Si Won es un estudiante de cine que ha construido su imagen en torno a la idea de que lo tiene todo bajo control. Su seguridad comienza a tambalearse cuando conoce a Da Woon, un compañero popular y aparentemente perfecto que se convierte en su rival y, poco a poco, en alguien mucho más importante para él. Mientras trabajan juntos y se enfrentan a sus propias inseguridades, ambos empiezan a descubrir qué significa realmente enamorarse y mostrarse tal como son.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/f8/2e/be/f82ebebb3497489c08a3d6c838604a28.jpg',
+        'https://i.pinimg.com/1200x/74/73/46/74734662e62179859f17df76f45a8e0c.jpg'
+    ],
+    trailer:[
+        'https://www.iq.com/short/1e1wgnr4a7w'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7444,8 +7475,14 @@ tags:[
     ],
 sinopsis:'Tras quedarse huérfano, Haebom es acogido por la familia de su mejor amigo, Taesung, y ambos crecen juntos bajo el mismo techo. Aunque siempre han sido muy diferentes, al llegar al último año de instituto comienzan a pasar más tiempo juntos y Haebom empieza a darse cuenta de que sus sentimientos por Taesung van más allá de la amistad. La cercanía entre ambos cambia su relación y les obliga a enfrentarse a sentimientos que hasta entonces habían mantenido ocultos.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/37/30/3e/37303ee1ad4426fdeb0bc7957b89b194.jpg',
+        'https://i.pinimg.com/736x/04/0d/c6/040dc6e3f3685c88d4d33bb9b9a9903f.jpg',
+        'https://i.pinimg.com/736x/3a/cd/40/3acd40cb6df961f8985d3fa353769691.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1192634v'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7507,8 +7544,12 @@ tags:[
     ],
 sinopsis:'Han Ba-da intenta sacar adelante un pequeño restaurante de udon junto al mar, aunque el negocio atraviesa dificultades. Un día conoce a Tommy, un músico que ha perdido el rumbo y llega al lugar buscando una nueva oportunidad. Mientras ambos intentan encontrar su propio camino, la convivencia y el apoyo mutuo hacen que entre ellos surja una conexión que va más allá de la amistad.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/90/b7/17/90b717030d1b7f3a7d3d76909af2b59a.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=hApZQZY80OI'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7568,8 +7609,12 @@ tags:[
     ],
 sinopsis:'En la era Joseon, una joven noble se ve obligada a disfrazarse de hombre para poder sobrevivir y proteger a su familia. Su vida cambia cuando se encuentra con un hombre que empieza a sospechar de su verdadera identidad. Entre secretos, obligaciones familiares y sentimientos inesperados, ambos terminan acercándose.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/00/ff/f3/00fff3769d42ee272d11ad3fcc7b01d6.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=n-yauZcijUo'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7630,8 +7675,14 @@ tags:[
     ],
 sinopsis:'Un grupo de estudiantes universitarios se enfrenta a un proyecto académico sobre el amor que les obliga a trabajar juntos. Entre ellos, uno intenta proteger a la persona de la que está enamorado mientras comienza a cuestionarse sus propios sentimientos. A medida que el proyecto avanza, las relaciones entre los estudiantes se complican y lo que parecía una simple tarea universitaria termina convirtiéndose en una oportunidad para descubrir el amor y comprenderse mejor a sí mismos.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/4d/9d/67/4d9d676ab817cc174cdb4a683a77a4d7.jpg',
+        'https://i.pinimg.com/736x/93/e7/3e/93e73e13341573b03931c4bfb27237ad.jpg',
+        'https://i.pinimg.com/736x/67/02/d1/6702d14760ff6a4609a32e0dde1c325b.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=IQwjK2Tv-ok'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7690,8 +7741,12 @@ tags:[
     ],
 sinopsis:'Jae Woo es un joven marcado por un trauma de la infancia que, de forma inesperada, viaja al pasado y regresa a 2007. Allí se encuentra con Ji Hoon, un estudiante de Derecho que se prepara para el examen de acceso a la abogacía y que fue una persona muy importante para él. Con la oportunidad de volver a vivir aquellos acontecimientos, Jae Woo intenta cambiar un destino que en el presente terminó separándolos para siempre.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/13/2a/a8/132aa8da4bdca9ea396a33f653bd802c.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1199202v'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -7752,12 +7807,19 @@ tags:[
     ],
 sinopsis:'Ji Ho Jun es un chaebol de tercera generación que recibe de su padre un ultimátum: abandonar su cómoda vida, sobrevivir sin dinero durante dos años y demostrar que puede convertirse en un buen líder dentro de la empresa familiar. Obligado a mudarse, termina alquilando una habitación en la villa de Seo Jae Yoon, un hombre con quien choca desde el primer momento. La situación se complica cuando ambos descubren que también trabajan en la misma empresa y que Jae Yoon pasa a formar parte del equipo dirigido por Ho Jun.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/2c/5e/eb/2c5eeb82fd73ba4919caf7d629189418.jpg',
+        'https://i.pinimg.com/736x/78/4b/44/784b44d45d7b37400976e20f4bbcedf5.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=wDw9LnwFgqg'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
-    videos:[]
+    videos:[
+    'https://www.youtube.com/watch?v=DDAyMSLlSeA'
+	]
 },
 entidades:[
     {codigo:'EN000061',funcion:['Productora']},
@@ -7821,12 +7883,25 @@ personas:[
     ],
 sinopsis:'Jung Woo vive solo y trabaja en la cafetería de su tío después de haber perdido a sus padres y, años atrás, a sus dos mascotas. Un día aparecen en su casa dos jóvenes desconocidos que aseguran ser Choco, el perro que tuvo desde niño, y Milk, su gato. Aunque al principio no puede creer que sus mascotas hayan regresado convertidas en humanos, ambos conocen detalles que solo ellos podrían saber. Su llegada devuelve alegría y compañía a la vida de Jung Woo, pero también trae consigo un secreto que cambiará su relación con ellos.',
 multimedia:{
-    portada:[],
-    trailer:[],
-    teaser:[],
+    portada:[
+        'https://i.pinimg.com/1200x/88/a7/12/88a7128b3cc1123137bef7c6724785f0.jpg',
+        'https://i.pinimg.com/1200x/06/8d/ad/068dadd7fc9e59449c83cb2998eb4f62.jpg',
+        'https://i.pinimg.com/1200x/2a/f3/71/2af371ddac90a363443d0d8c7a6c57b0.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=a3-fUBzCQuY'
+    ],
+    teaser:[
+        'https://www.youtube.com/watch?v=177PK2TwLtw'
+    ],
     pilot:[],
     ost:[],
-    videos:[]
+    videos:[
+        'https://www.youtube.com/watch?v=hrA0H11feqM',
+        'https://www.youtube.com/watch?v=Jd21TsVAaHY',
+        'https://www.youtube.com/watch?v=CbZLPscudGs',
+        'https://www.youtube.com/watch?v=NZn2ni7O8BY'
+    ]
 },
 entidades:[
     {codigo:'EN000085',funcion:['Productora']},
@@ -7894,9 +7969,18 @@ ships:[
 ],
 sinopsis:'Kim Jung-hyun es un escritor prometedor que intenta abrirse camino en el mundo literario mientras permanece ligado a su mentor. Su vida cambia cuando aparece Han Tae-young, un poderoso editor que ve su potencial y le ofrece una nueva oportunidad. Dividido entre la lealtad hacia quien le ayudó al principio de su carrera y la posibilidad de alcanzar el éxito junto a Tae-young, Jung-hyun deberá enfrentarse a las decisiones y sentimientos que pueden cambiar tanto su carrera como su vida personal.',
 multimedia:{
-    portada:[],
-    trailer:[],
-    teaser:[],
+    portada:[
+        'https://i.pinimg.com/1200x/73/eb/93/73eb931e7eb7e6c1ce46b01744c8a54f.jpg',
+        'https://i.pinimg.com/1200x/60/e2/70/60e270a379a61a5f108a55ff03efad82.jpg',
+        'https://i.pinimg.com/1200x/9c/c8/b8/9cc8b86da71ac37e128bf237297b2f2c.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1203486v',
+        'https://www.youtube.com/watch?v=_CegJq1xsEQ'
+    ],
+    teaser:[
+        'https://www.youtube.com/watch?v=tBc1cSnacZs'
+    ],
     pilot:[],
     ost:[],
     videos:[]
@@ -7957,7 +8041,11 @@ ships:[
 ],
 sinopsis:'Seon Ho es un autor de webtoons que trabaja en cómics para adultos, pero el éxito de sus historias le ha provocado un problema inesperado: ha perdido por completo su libido. Para poder hacer frente a la creciente carga de trabajo, contrata a Mu Yeong, un joven que además de convertirse en su asistente es uno de sus mayores admiradores. La convivencia hace que Mu Yeong desarrolle sentimientos por él, mientras la aparición de Joon Seok complica aún más la relación entre los tres.',
 multimedia:{
-    portada:[],
+    portada:[
+        'https://i.pinimg.com/1200x/a6/08/be/a608be025d5c1f9dd0d802c5b5c36ad5.jpg',
+        'https://i.pinimg.com/1200x/e6/06/82/e60682ab8d0b24dd13c66b8d077354c5.jpg',
+        'https://i.pinimg.com/1200x/4c/63/25/4c6325b16b2ffbee3f222ca442d02035.jpg'
+    ],
     trailer:[],
     teaser:[],
     pilot:[],
@@ -8022,13 +8110,21 @@ ships:[
 ],
 sinopsis:'Dong Baek acaba de incorporarse a Min Entertainment cuando su director, Yu Dam, le revela algo que parece imposible: lleva varias vidas reencarnándose y Dong Baek es la persona con la que está destinado a estar. Según la maldición que pesa sobre él, si no consigue mantener una relación con su amor destinado, ambos morirán. Mientras Dong Baek intenta comprender la extraña situación, Yu Dam deberá convencerlo de que su encuentro actual es solo el último capítulo de una historia que comenzó siglos atrás.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/6d/b3/ed/6db3edb3e372c12dbe19d9287fe8070a.jpg',
+        'https://i.pinimg.com/1200x/23/db/20/23db20c8a8b9bf6ef9547a5bec6f1c15.jpg',
+        'https://i.pinimg.com/1200x/1b/1c/0b/1b1c0beadd7e73b2412ad100c01c44dd.jpg',
+        'https://i.pinimg.com/1200x/d4/0b/1c/d40b1c51186e9b085383cbf611c8c1dc.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=ypzEkyhuZMw'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
     videos:[]
 },
+
 entidades:[
     {codigo:'EN000095',funcion:['Productora']}
 ],
@@ -8083,8 +8179,14 @@ ships:[
 ],
 sinopsis:'Seung Hyun consigue unas prácticas en una agencia de publicidad y está decidido a demostrar que puede abrirse camino en el mundo laboral pese a su falta de experiencia. Su supervisor, Jong Chan, es un jefe reservado y exigente que mantiene una clara distancia con sus empleados. A medida que ambos pasan más tiempo juntos en la oficina, la relación profesional comienza a transformarse en algo más personal y Seung Hyun tendrá que enfrentarse al conflicto entre sus sentimientos y su nueva carrera.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/03/c3/28/03c32808b85ee1c6894697032115785b.jpg',
+        'https://i.pinimg.com/1200x/80/cf/ab/80cfabe86a6d7fdfb78306c3a2a795ff.jpg',
+        'https://i.pinimg.com/736x/5d/60/96/5d6096b02c32b14a2d6f3fefb3c3cec1.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1203955v'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
@@ -8149,13 +8251,20 @@ ships:[
 ],
 sinopsis:'Un nuevo grupo de estudiantes universitarios se enfrenta a las complicaciones de la vida en el campus mientras cada uno intenta encontrar su lugar y descubrir qué significa enamorarse. Entre clases, amistades y nuevas relaciones, los protagonistas comienzan a acercarse y a enfrentarse a sentimientos que no siempre son fáciles de reconocer. Las distintas historias de amor se entrelazan mientras intentan compaginar sus estudios con sus relaciones.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/736x/63/39/09/6339096bf62511478ca0d8c4bd96a821.jpg',
+        'https://i.pinimg.com/1200x/8a/84/74/8a8474205112d51770a42fbbcc933ccc.jpg',
+        'https://i.pinimg.com/1200x/76/16/a7/7616a72e8a9b87751bb8e594820b19ae.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1238394v'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
     videos:[]
 },
+
 entidades:[
     {codigo:'EN000084',funcion:['Productora']},
     {codigo:'EN000028',funcion:['Plataforma']}
@@ -8214,8 +8323,14 @@ ships:[
 ],
 sinopsis:'Hyun Jae y Soo An se conocen mientras compiten en un programa de supervivencia para convertirse en idols y, durante los entrenamientos, comienzan a desarrollar sentimientos que ninguno de los dos se atreve a expresar. Sin embargo, solo Hyun Jae consigue debutar y ambos terminan separados por las exigencias de la industria. Años después, un nuevo proyecto profesional vuelve a reunirlos, pero ahora su posible relación supone un riesgo mucho mayor para sus carreras. Al mismo tiempo, Jae Min, que ha quedado apartado de sus sueños de debutar tras un escándalo, conoce a Khun, un joven músico tailandés con quien comienza a construir una relación mientras ambos intentan encontrar su propio camino.',
 multimedia:{
-    portada:[],
-    trailer:[],
+    portada:[
+        'https://i.pinimg.com/1200x/ec/15/26/ec152601468c0e3dafb520af4b93447b.jpg',
+        'https://i.pinimg.com/736x/8e/15/ad/8e15ad7fd1f92ce566ce71e85d3564a7.jpg'
+    ],
+    trailer:[
+        'https://www.viki.com/videos/1270922v',
+        'https://www.youtube.com/watch?v=jpjrblJ_DMQ'
+    ],
     teaser:[],
     pilot:[],
     ost:[],
