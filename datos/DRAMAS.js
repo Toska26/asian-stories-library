@@ -8540,12 +8540,16 @@ tags:[
     'Mentiras',
     'Primer amor'
 ], 
+
 personas:[
     {nombre:'Yoon Tae Joon',persona:'PR000633',funcion:['Actor'],principal:true},
-    {nombre:'Ji Won Young',persona:'PR000634',funcion:['Actor'],principal:true}
+    {nombre:'Ji Won Young',persona:'PR000634',funcion:['Actor'],principal:true},
+    {nombre:'Go Ho Tae',persona:'PR000578',funcion:['Actor'],principal:false},
+    {nombre:'Kim Dong Hee',persona:'PR000660',funcion:['Actor'],principal:false}
 ],
 ships:[
-    {personajes:['Yoon Tae Joon','Ji Won Young']}
+    {personajes:['Yoon Tae Joon','Ji Won Young']},
+    {personajes:['Go Ho Tae','Kim Dong Hee']}
 ],
 sinopsis:'Ji Won Young pierde su trabajo después de verse involucrado en un escándalo y descubre que la persona que puede ayudarle a recuperar su puesto es Yoon Tae Joon, un reservado artista de cerámica que ha desaparecido de la vida pública. Won Young intenta acercarse a él con una intención inicialmente interesada, pero la relación entre ambos evoluciona hacia sentimientos reales que ninguno de los dos esperaba.', 
 multimedia:{
@@ -8955,10 +8959,13 @@ tags:[
 ], 
 personas:[
     {nombre:'Choi Jun',persona:'PR000645',funcion:['Actor'],principal:true},
-    {nombre:'Lee Jun',persona:'PR000646',funcion:['Actor'],principal:true}
+    {nombre:'Lee Jun',persona:'PR000646',funcion:['Actor'],principal:true},
+    {nombre:'Song Hyun Jae',persona:'PR000658',funcion:['Actor'],principal:false},
+    {nombre:'Simeon',persona:'PR000659',funcion:['Actor'],principal:false}
 ],
 ships:[
-    {personajes:['Choi Jun','Lee Jun']}
+    {personajes:['Choi Jun','Lee Jun']},
+    {personajes:['Song Hyun Jae','Simeon']}
 ],
 sinopsis:'Lee Jun comienza su primer trabajo en una empresa de cosméticos y descubre que su superior es Choi Jun, un antiguo conocido que ha cambiado mucho desde que se conocieron. Mientras se adapta a su nuevo empleo, Lee Jun queda atrapado entre la actitud profesional de su jefe y la creciente atracción que existe entre ambos.', 
 multimedia:{
