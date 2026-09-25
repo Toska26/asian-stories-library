@@ -688,4 +688,8 @@ const PERSONAS = [
 {codigo:'PR000655', nombre:'Kang Jun Kyu', nombreOriginal:'강준규', nombreArtistico:'Jun.Q', alias:['Jun Q','Kang Joon Kyu','Kang Jun-Kyu'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante','Rapero','Modelo'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000656', nombre:'Kim Jun Hyung', nombreOriginal:'김준형', nombreArtistico:'Jun Hyung', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000657', nombre:'Lee Jong Chan', nombreOriginal:'이종찬', nombreArtistico:'Won Do Hyun', alias:['Won Do-hyun'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000658', nombre:'Jo Chan Hyun', nombreOriginal:'조찬현', nombreArtistico:'', alias:['Jo Chan-hyun','Jo Chanhyun'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000659', nombre:'Park Hyeong Seop', nombreOriginal:'박형섭', nombreArtistico:'', alias:['Park Hyeong-seop','Park Hyung Sub','Park Hyeong Sup','Park Hyung Sup'], pais:'KR', idioma:'ko', profesiones:['Actor','Modelo'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000660', nombre:'Han Jong Young', nombreOriginal:'한종영', nombreArtistico:'Do Woo', alias:['Do Woo','Do-Woo Han','Han Do Woo'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+
 ];
