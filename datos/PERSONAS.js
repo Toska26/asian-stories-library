@@ -663,7 +663,7 @@ const PERSONAS = [
 {codigo:'PR000630', nombre:'Shin Ye Chan', nombreOriginal:'신예찬', nombreArtistico:'Yechan', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000631', nombre:'Lee Jong Hyuk', nombreOriginal:'이종혁', nombreArtistico:'Jong Hyuk', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000632', nombre:'Lee Seung Gyu', nombreOriginal:'이승규', nombreArtistico:'Seung Gyu', alias:[], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
-{codigo:'PR000633', nombre:'Lee Chang Yup', nombreOriginal:'이창엽', nombreArtistico:'Cha Seo Won', alias:['Lee Chang Yeop'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000633', nombre:'Lee Chang Yup', nombreOriginal:'이창엽', nombreArtistico:'Seo Won', alias:['Lee Chang Yeop','Cha Seo Won'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000634', nombre:'Gong Chan Sik', nombreOriginal:'공찬식', nombreArtistico:'Gongchan', alias:['Gong Chan'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000635', nombre:'Lee Dong Won', nombreOriginal:'이동원', nombreArtistico:'Dongwon', alias:['Dong Won'], pais:'KR', idioma:'ko', profesiones:['Actor','Cantante'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000636', nombre:'Byeon Sung Tae', nombreOriginal:'변성태', nombreArtistico:'Sung Tae', alias:['Byun Sung Tae','Byeon Seong Tae'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
