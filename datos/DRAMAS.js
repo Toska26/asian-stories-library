@@ -9477,4 +9477,504 @@ entidades:[
 especiales:[], 
 activo:true 
 },
+
+/* ===============  LOVE FOR LOVE'S SAKE — DR000154  =================== */
+{
+codigo:'DR000154',
+titulo:"Love for Love's Sake",
+tituloOriginal:'연애 지상주의 구역',
+alias:[
+    "Love for Love's Sake",
+    'Love Supremacy Zone',
+    'Yeonae Jisangjuui Guyeok'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'35 min',
+estado:'Finalizado',
+estreno:'2024-01-24',
+finalizacion:'2024-02-01',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Realidad virtual',
+    'Videojuego',
+    'Viaje entre mundos',
+    'Instituto',
+    'Primer amor',
+    'Misión',
+    'Destino'
+],
+sinopsis:'A los 29 años, Tae Myung Ha entra misteriosamente en un videojuego basado en una novela que estaba leyendo y aparece en el cuerpo de su yo de diecinueve años. Allí recibe la misión de hacer feliz a Cha Yeo Woon, su personaje favorito de la novela. Mientras intenta cumplir el objetivo, Myung Ha descubre que sus sentimientos y los acontecimientos del juego pueden alterar una historia que parecía estar predeterminada.',
+entidades:[
+    {codigo:'EN000115', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000091', funcion:['Plataforma']},
+    {codigo:'EN000114', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  JAZZ FOR TWO — DR000155  =================== */
+{
+codigo:'DR000155',
+titulo:'Jazz for Two',
+tituloOriginal:'재즈처럼',
+alias:[
+    'Jazz for Two',
+    'Jazz Like That',
+    'Jaejeu Cheoreom'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'UN000005',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2024-03-26',
+finalizacion:'2024-03-29',
+generos:[
+    'Drama',
+    'Romance',
+    'Musical',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Música',
+    'Jazz',
+    'Primer amor',
+    'Trauma',
+    'Amistad',
+    'Universo compartido'
+],
+sinopsis:'Han Tae Yi, un estudiante talentoso que perdió el interés por la música tras la muerte de su hermano, conoce a Yoon Se Heon, un nuevo alumno apasionado por el jazz. Ambos son asignados al mismo grupo musical y, pese a sus diferencias, comienzan a acercarse mientras la música despierta recuerdos dolorosos del pasado de Tae Yi. La llegada de Se Heon también revela una conexión inesperada con el hermano de Tae Yi.',
+entidades:[
+    {codigo:'EN000116', funcion:['Productora']},
+    {codigo:'EN000117', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000091', funcion:['Plataforma']},
+    {codigo:'EN000114', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000111', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  GRAY SHELTER — DR000156  =================== */
+{
+codigo:'DR000156',
+titulo:'Gray Shelter',
+tituloOriginal:'회색기류',
+alias:[
+    'Gray Shelter',
+    'Grey Shelter',
+    'Hoesaekgiryu'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:'21 min',
+estado:'Finalizado',
+estreno:'2024-04-11',
+finalizacion:'2024-04-25',
+generos:[
+    'Drama',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Adultos',
+    'Reencuentro',
+    'Convivencia',
+    'Familia',
+    'Trauma',
+    'Supervivencia',
+    'Segunda oportunidad'
+],
+sinopsis:'Soo Hyuk regresa a la vida de su antiguo amigo Jae Hee en un momento especialmente difícil. Ambos terminan compartiendo espacio mientras intentan enfrentarse a las heridas y problemas que arrastran de su pasado. La convivencia hace que los sentimientos que habían permanecido ocultos vuelvan a aparecer, obligándolos a enfrentarse a aquello de lo que habían intentado escapar.',
+entidades:[
+    {codigo:'EN000118', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  LOVE IS LIKE A CAT — DR000157  =================== */
+{
+codigo:'DR000157',
+titulo:'Love Is Like a Cat',
+tituloOriginal:'사랑은 고양이처럼',
+alias:[
+    'Love Is Like a Cat',
+    'Love Like a Cat',
+    'Sarangeun Goyangicheoreom'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'UN000004',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2024-04-01',
+finalizacion:'2024-05-06',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Colaboración Corea–Tailandia',
+    'Famoso',
+    'Cafetería',
+    'Mascotas',
+    'Perros',
+    'Sanación',
+    'Romance'
+],
+sinopsis:'Pi Uno es una estrella popular que siente rechazo hacia los perros debido a un trauma de su infancia. Su vida cambia cuando conoce a Lee Dae Byeol, propietario de una cafetería para perros, y a Gi Min, uno de sus empleados. Mientras Pi Uno comienza a trabajar en el establecimiento, la convivencia con Dae Byeol hace que ambos se acerquen y descubran sentimientos que ninguno esperaba.',
+entidades:[
+    {codigo:'EN000128', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  BLOSSOM CAMPUS — DR000158  =================== */
+{
+codigo:'DR000158',
+titulo:'Blossom Campus',
+tituloOriginal:'블러썸 캠퍼스',
+alias:[
+    'Blossom Campus',
+    'Beulleosseom Kaempeoseu'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2024-05-16',
+finalizacion:'2024-05-16',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Campus',
+    'Música',
+    'Taekwondo',
+    'Primer amor',
+    'Triángulo amoroso',
+    'Amistad'
+],
+sinopsis:'Kim Min Jae, un estudiante transferido de música práctica, conoce accidentalmente a Yoon Chan, un estudiante de Taekwondo. Aunque al principio sus personalidades chocan, ambos comienzan a acercarse mientras pasan cada vez más tiempo juntos. La aparición de Jung Woo Hyuk, interesado en Yoon Chan, complica la relación y convierte su nueva vida universitaria en una historia de amistad, rivalidad y amor.',
+entidades:[
+    {codigo:'EN000120', funcion:['Productora']},
+    {codigo:'EN000121', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  BOYS BE BRAVE! — DR000159  =================== */
+{
+codigo:'DR000159',
+titulo:'Boys Be Brave!',
+tituloOriginal:'고백을 못하고',
+alias:[
+    'Boys Be Brave!',
+    'Go Baek Eul Mot Hago'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'28 min',
+estado:'Finalizado',
+estreno:'2024-04-25',
+finalizacion:'2024-05-16',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Amigos a amantes',
+    'Amor secreto',
+    'Convivencia',
+    'Compañeros de piso',
+    'Primer amor',
+    'Triángulo amoroso',
+    'Webtoon'
+],
+sinopsis:'Kim Jin Woo está enamorado en secreto de su amigo Jung Ki Sub, pero nunca ha conseguido confesar sus sentimientos. Todo se complica cuando Ki Sub necesita un lugar donde quedarse y termina viviendo con él. La convivencia hace que sus sentimientos sean cada vez más difíciles de ocultar, mientras antiguos amores y malentendidos amenazan con alterar la relación entre ambos.',
+entidades:[
+    {codigo:'EN000122', funcion:['Productora']},
+    {codigo:'EN000123', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  THE TIME OF FEVER — DR000160  =================== */
+{
+codigo:'DR000160',
+titulo:'The Time of Fever',
+tituloOriginal:'',
+alias:[
+    'The Time of Fever',
+    'High Fever'
+],
+tipo:'Película',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000015',orden:2},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:100,
+estado:'Finalizado',
+estreno:'2024-05-15',
+finalizacion:'2024-05-15',
+generos:[
+    'Drama',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Spin-off',
+    'Primer amor',
+    'Amigos a amantes',
+    'Instituto',
+    'Reencuentro',
+    'Familia',
+    'Trauma'
+],
+sinopsis:'Ho Tae regresa a su ciudad natal de Gangneung después de dos años y busca inmediatamente a su antiguo mejor amigo, Kim Dong Hee. Dong Hee, que vive con la familia de Ho Tae tras haber sufrido violencia familiar, ha cambiado durante su ausencia. Mientras pasan tiempo juntos, la amistad entre ambos comienza a transformarse en algo más profundo. Sus sentimientos, los conflictos familiares y las heridas del pasado les obligan a enfrentarse a un amor que llevaba tiempo esperando.',
+entidades:[
+    {codigo:'EN000124', funcion:['Productora']},
+    {codigo:'EN000125', funcion:['Productora']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  LOVE IN THE BIG CITY — DR000161  =================== */
+{
+codigo:'DR000161',
+titulo:'Love in the Big City',
+tituloOriginal:'대도시의 사랑법',
+alias:[
+    'Love in the Big City',
+    'Daedosiui Sarangbeop',
+    'How to Love in the Big City'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'50 min',
+estado:'Finalizado',
+estreno:'2024-10-21',
+finalizacion:'2024-10-21',
+generos:[
+    'Drama',
+    'Romance',
+    'Melodrama',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Adultos',
+    'Vida urbana',
+    'Seúl',
+    'Autodescubrimiento',
+    'Amistad',
+    'Amor',
+    'Identidad'
+],
+sinopsis:'Go Young, un joven gay que vive en Seúl, comparte casa con su mejor amiga Choi Mi Ae mientras intenta encontrar su lugar en la vida. A lo largo de varios años, experimenta distintas relaciones, amistades y rupturas mientras aprende a enfrentarse a las expectativas sociales, a su familia y a sus propios sentimientos. La historia sigue su proceso de crecimiento y autodescubrimiento mientras busca el amor y una vida que pueda sentir como propia.',
+entidades:[
+    {codigo:'EN000126', funcion:['Productora']},
+    {codigo:'EN000127', funcion:['Productora']},
+    {codigo:'EN000114', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  LET FREE THE CURSE OF TAEKWONDO — DR000162  =================== */
+{
+codigo:'DR000162',
+titulo:'Let Free the Curse of Taekwondo',
+tituloOriginal:'태권도의 저주를 풀어줘',
+alias:[
+    'Let Free the Curse of Taekwondo',
+    'The Curse of Taekwondo',
+    'Taekwondo-ui Jeojoo'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'35 min',
+estado:'Finalizado',
+estreno:'2024-10-17',
+finalizacion:'2024-11-07',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Taekwondo',
+    'Instituto',
+    'Primer amor',
+    'Reencuentro',
+    'Salto temporal',
+    'Familia',
+    'Segunda oportunidad'
+],
+sinopsis:'Do Hoe es un estudiante de instituto que vive en un entorno familiar marcado por la violencia de su padre, propietario de un gimnasio de Taekwondo. Su vida cambia cuando conoce a Ju Yeong, un joven alegre que llega desde Seúl con el sueño de estudiar Taekwondo. Ambos desarrollan una relación que se ve destruida por las circunstancias y permanecen separados durante doce años. Cuando vuelven a encontrarse como adultos, deben enfrentarse a las heridas del pasado y decidir si todavía existe una oportunidad para ellos.',
+entidades:[
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},
+
+/* ===============  ECCENTRIC ROMANCE — DR000163  =================== */
+{
+codigo:'DR000163',
+titulo:'Eccentric Romance',
+tituloOriginal:'기이한 로맨스',
+alias:[
+    'Eccentric Romance',
+    'Giyi-han Romaenseu'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'UN000004',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'15 min',
+estado:'Finalizado',
+estreno:'2024-10-10',
+finalizacion:'2024-11-14',
+generos:[
+    'Drama',
+    'Romance',
+    'Misterio',
+    'Thriller'
+],
+tags:[
+    'BL',
+    'Colaboración Corea–Tailandia',
+    'Universidad',
+    'Amigos a amantes',
+    'Amor secreto',
+    'Misterio',
+    'Crimen',
+    'Asesinato'
+],
+sinopsis:'Jay y Seong Hun se conocen desde hace muchos años y, aunque sus sentimientos han ido más allá de la amistad, ninguno se ha atrevido a confesarlos. Ahora ambos son compañeros de universidad y su relación comienza a cambiar mientras intentan ocultar lo que sienten. La situación se complica cuando ocurre un asesinato en la ciudad y el caso parece guardar una conexión inesperada con ellos.',
+entidades:[
+    {codigo:'EN000128', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']}
+],
+	especiales:[],
+activo:true
+},	
 ];
