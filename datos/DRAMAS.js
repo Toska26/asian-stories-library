@@ -8396,14 +8396,23 @@ ships:[
     {personajes:['Lee Da Yeol','Jo Tae Hyun']}
 ],
 sinopsis:'Da Yeol, un estudiante dedicado al tiro con arco, ve amenazada su beca cuando se ve involucrado en un incidente con Tae Hyun, uno de los alumnos más populares del instituto. Tae Hyun aprovecha la situación para atormentarlo y convertir su vida escolar en un infierno. Sin embargo, la hostilidad entre ambos comienza a transformarse cuando Da Yeol descubre la soledad y las heridas que se esconden detrás de la actitud de Tae Hyun.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/a8/1a/e4/a81ae455a65584db9131a2ebd9a11350.jpg',
+        'https://i.pinimg.com/1200x/71/3a/dc/713adcdeaf7b10dc2cf16c29925c536d.jpg',
+        'https://i.pinimg.com/1200x/4c/72/b4/4c72b47623a2a9a2a45c60d202e37684.jpg',
+        'https://i.pinimg.com/1200x/1b/6e/90/1b6e903bba0edc43e16b4b345d7d25ab.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=mFbB52wpaiM'
+    ],
+    teaser:[
+        'https://www.youtube.com/watch?v=krsif04sIWc'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000098', funcion:['Productora']},
     {codigo:'EN000099', funcion:['Productora']},
@@ -8462,14 +8471,25 @@ ships:[
     {personajes:['Lee Wan','Shin Ki Tae']}
 ],
 sinopsis:'Lee Wan comienza a trabajar en una empresa de videojuegos y descubre que su nuevo jefe es Shin Ki Tae, su antiguo mejor amigo y primer amor. Después de haberse separado tras la graduación, ambos deben enfrentarse a los sentimientos que nunca llegaron a desaparecer mientras trabajan juntos en un nuevo proyecto de videojuego romántico.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/bd/20/47/bd204728901afbefe0a318de19101bfa.jpg',
+        'https://i.pinimg.com/1200x/2d/a0/fd/2da0fd2561e550fa49816fadc1fd4275.jpg',
+        'https://i.pinimg.com/1200x/54/ac/a6/54aca6312b589cbc58675731eab1e1c2.jpg',
+        'https://i.pinimg.com/1200x/04/35/49/0435499648b18d7df547906d25a57d9f.jpg',
+        'https://i.pinimg.com/1200x/26/99/84/2699849eddf3542ed6ee7161d16e6538.jpg',
+        'https://i.pinimg.com/736x/12/bf/a4/12bfa4307022f223a0a62360b4c0b500.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=8OUgtg5wQn8'
+    ],
+    teaser:[
+        'https://www.youtube.com/watch?v=EvBcwZ1iWio'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000101', funcion:['Productora']},
     {codigo:'EN000100', funcion:['Productora']},
@@ -8528,14 +8548,21 @@ ships:[
     {personajes:['Yoon Tae Joon','Ji Won Young']}
 ],
 sinopsis:'Ji Won Young pierde su trabajo después de verse involucrado en un escándalo y descubre que la persona que puede ayudarle a recuperar su puesto es Yoon Tae Joon, un reservado artista de cerámica que ha desaparecido de la vida pública. Won Young intenta acercarse a él con una intención inicialmente interesada, pero la relación entre ambos evoluciona hacia sentimientos reales que ninguno de los dos esperaba.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/85/ad/50/85ad5013feb40e4db410d1a36a978efe.jpg',
+        'https://i.pinimg.com/1200x/2f/0b/0c/2f0b0c9eb2a3da0a966b0a1eb37fe78e.jpg',
+        'https://i.pinimg.com/736x/c7/c6/f7/c7c6f751ca3a677536cf1e2469c7b9b0.jpg',
+        'https://i.pinimg.com/1200x/9e/dc/bd/9edcbdf8510427908fa02246b0321466.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=qmQ0UYclpno'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000088', funcion:['Productora']},
     {codigo:'EN000024', funcion:['Plataforma']},
@@ -8591,14 +8618,21 @@ ships:[
     {personajes:['Lee Seung Jun','Jae Hyun']}
 ],
 sinopsis:'Seung Jun trabaja como pianista y cantante en bodas, pero arrastra un profundo trauma relacionado con una antigua relación. En una de sus actuaciones conoce a Jae Hyun, un cantante de bodas cuya amabilidad y paciencia comienzan poco a poco a derribar sus defensas. Mientras ambos se acercan a través de la música, Seung Jun debe enfrentarse a sus heridas del pasado para poder abrirse de nuevo al amor.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/fa/3a/40/fa3a40438af223af3d5fa276c2a0cad0.jpg',
+        'https://i.pinimg.com/1200x/70/b0/d7/70b0d7fa748132458c089d7a7fc03489.jpg',
+        'https://i.pinimg.com/1200x/78/18/0d/78180d8074073d0738823fd7e58d0b3f.jpg',
+        'https://i.pinimg.com/1200x/7a/31/22/7a31229a5f009743405238fe526a4cb2.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=PVmHSCJywnw'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 especiales:[], 
 entidades:[
     {codigo:'EN000088', funcion:['Productora']},
@@ -8655,14 +8689,20 @@ ships:[
     {personajes:['Seo Yi Jun','Jeong Ha Ram']}
 ],
 sinopsis:'Seo Yi Jun es un líder de equipo que no cree en el amor y mantiene una actitud fría en el trabajo. Su vida cambia cuando conoce a Jeong Ha Ram, un nuevo empleado sincero y directo que no tiene miedo de expresar sus sentimientos. Una relación inicialmente complicada en la oficina comienza a convertirse poco a poco en algo más profundo.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/8a/a4/c7/8aa4c7b8ec94c5e251951e7238598989.jpg',
+        'https://i.pinimg.com/1200x/11/9b/21/119b2199684b897261f4190e96b39601.jpg',
+        'https://i.pinimg.com/736x/2d/26/61/2d2661bfe1b8b5ccd0f10adac1e87529.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=-m29oBQwqVQ'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000028', funcion:['Plataforma']},
     {codigo:'EN000025', funcion:['Plataforma']}
@@ -8715,14 +8755,18 @@ ships:[
     {personajes:['Yoo Jae Heon','Jo Yoo Jae']}
 ], 
 sinopsis:'Seo Han Joon y Jo Yoo Jae son amigos desde la infancia y han crecido juntos compartiendo una relación cada vez más cercana. Aunque sus sentimientos han ido cambiando con el paso de los años, ninguno de los dos se atreve a enfrentarse a lo que realmente siente por el otro. Cuando su amistad comienza a verse alterada por los celos y los cambios de su vida, ambos deben decidir si están preparados para convertir su vínculo en algo más.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/a7/b0/75/a7b0752cd3e7144c3695d4c0e6acd3da.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=3AdL0Rb--Co'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 especiales:[], 
 entidades:[
     {codigo:'EN000113', funcion:['Productora']},
@@ -8777,14 +8821,20 @@ ships:[
     {personajes:['Seon Yool','Ye Chan']}
 ],
 sinopsis:'Seon Yul, un joven de ciudad acostumbrado a una vida cómoda, se traslada temporalmente al campo para desconectar de su vida anterior. Allí conoce a Ye Chan, un joven alegre y entusiasta que adora la vida rural. Mientras Seon Yul aprende a desenvolverse en el campo y a disfrutar de una nueva forma de vida, la cercanía entre ambos se transforma en una relación llena de cariño y nuevas experiencias.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/42/2e/a3/422ea3726ee219ea3aaf3f35a37dd44e.jpg',
+        'https://i.pinimg.com/1200x/5c/d1/9d/5cd19d0af59c08041336ba2ddf16b6a1.jpg',
+        'https://i.pinimg.com/1200x/58/07/d1/5807d19710d5ac496f349ce925985cb4.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=lGmQY63B8qU'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000078', funcion:['Productora']},
     {codigo:'EN000104', funcion:['Productora']},
@@ -8842,14 +8892,18 @@ ships:[
     {personajes:['Han Ba Ram','Im Han Tae']}
 ],
 sinopsis:'Ba Ram y Han Tae se conocen durante su etapa escolar y, después de un incidente que cambia su relación, terminan convirtiéndose en grandes amigos. Años más tarde, Ba Ram se ha convertido en el vocalista de una banda mientras Han Tae permanece a su lado como amigo y representante. Sin embargo, los sentimientos de Ba Ram han dejado de ser solo amistad y cada vez resulta más difícil ocultarlos.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/db/09/cf/db09cf291ab2af198b867fa90b3bf19b.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=uKTvU9MLMbk'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000103', funcion:['Productora']},
     {codigo:'EN000104', funcion:['Productora']},
@@ -8907,14 +8961,21 @@ ships:[
     {personajes:['Choi Jun','Lee Jun']}
 ],
 sinopsis:'Lee Jun comienza su primer trabajo en una empresa de cosméticos y descubre que su superior es Choi Jun, un antiguo conocido que ha cambiado mucho desde que se conocieron. Mientras se adapta a su nuevo empleo, Lee Jun queda atrapado entre la actitud profesional de su jefe y la creciente atracción que existe entre ambos.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/54/b2/78/54b278309203459155eb7a105356dc09.jpg',
+        'https://i.pinimg.com/1200x/24/c4/61/24c461dd5f6e83be2a54940278355133.jpg',
+        'https://static.wikia.nocookie.net/drama/images/4/44/Jun_and_Jun-2023-01.jpg/revision/latest/scale-to-width-down/1000?cb=20230613105900&path-prefix=es'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=ph_Po6LnfYc',
+        'https://www.youtube.com/watch?v=32v67wNAg0w'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000057', funcion:['Productora']},
     {codigo:'EN000028', funcion:['Plataforma']},
@@ -8971,14 +9032,23 @@ ships:[
     {personajes:['Lee Won','Kim Ji Oh']}
 ],
 sinopsis:'Lee Won y Ji Oh mantienen una relación complicada mientras intentan sobrevivir a la vida universitaria y a los sentimientos que empiezan a surgir entre ellos. A medida que las situaciones románticas y los malentendidos se acumulan, ambos deben enfrentarse a lo que realmente sienten mientras su círculo de amigos también se ve envuelto en sus relaciones.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/b4/7e/cd/b47ecdf0f91870ca0aed883e5002ded3.jpg',
+        'https://i.pinimg.com/1200x/54/69/c6/5469c6d442d07da2983c055bf759eec3.jpg',
+        'https://i.pinimg.com/1200x/b4/7d/3e/b47d3ec55b01caaea1db4cf2e7116277.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=5ZaQv9bg0is',
+        'https://www.youtube.com/watch?v=z82lc_JSPY4',
+        'https://www.youtube.com/watch?v=3vlLGTOGsMo',
+        'https://www.youtube.com/watch?v=Xrtw5xjJwQA'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000061', funcion:['Productora']},
     {codigo:'EN000062', funcion:['Productora']},
@@ -9035,14 +9105,20 @@ ships:[
     {personajes:['Lee Yoon Soo','Jung Do Hoon']}
 ],
 sinopsis:'Do Hoon, un joven que vive una vida rutinaria, comienza a acercarse a su vecino Ha Min, un chef que entra inesperadamente en su vida a través de la comida. Entre platos caseros, conversaciones y momentos compartidos, ambos descubren que la relación que comienza alrededor de una mesa puede convertirse en algo mucho más íntimo.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/03/5c/e8/035ce881f6727c10e4c8a3d1c6865835.jpg',
+        'https://i.pinimg.com/736x/36/1b/9c/361b9c03c6b8400d40e0cccdd0c207df.jpg',
+        'https://i.pinimg.com/1200x/c3/87/65/c38765744cff46917918f8a75531cb9f.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=X0eJuBkzZvg'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000105', funcion:['Productora']},
     {codigo:'EN000109', funcion:['Plataforma']},
@@ -9099,14 +9175,20 @@ ships:[
     {personajes:['Eden','Ji Hoon']}
 ],
 sinopsis:'Eden está a punto de debutar como miembro de un nuevo dúo de K-pop cuando descubre que su compañero será Ji Hoon, un idol veterano cuya carrera ha perdido popularidad. La agencia decide que ambos deben promocionarse mediante un concepto de pareja conocido como Business Gay. Lo que comienza como una estrategia de marketing acaba complicándose cuando los sentimientos entre ambos empiezan a superar los límites de la actuación.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/6d/f2/1c/6df21c451f7a0b61a6b0a41ba6ce8d60.jpg',
+        'https://i.pinimg.com/736x/2c/ec/ed/2ceced8d956851b780c2a938a0bbe51a.jpg',
+        'https://i.pinimg.com/736x/84/62/57/8462574971055d72134b2f5fb3259e6d.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=vbRmfi2eW6g'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000060', funcion:['Productora']},
     {codigo:'EN000024', funcion:['Plataforma']}
@@ -9161,14 +9243,20 @@ ships:[
     {personajes:['Ban Dong Wook','Lee Do Hyun']}
 ],
 sinopsis:'Dong Wook y Do Hyun fueron inseparables durante su juventud y llegaron a enamorarse, pero las circunstancias hicieron que sus caminos se separaran. Años después, Dong Wook regresa a la vida de Do Hyun, que ahora es una estrella del baloncesto universitario. El reencuentro despierta sentimientos que nunca desaparecieron y obliga a ambos a enfrentarse a las heridas de su pasado.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/96/b7/42/96b742474d356eb14d235a52cd0b53e7.jpg',
+        'https://i.pinimg.com/1200x/d9/d1/ed/d9d1ed8c61199c00207dc146ab689244.jpg',
+        'https://i.pinimg.com/736x/01/e3/b0/01e3b06d5706de8cddeb9c63a8aca4bd.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=ItNNPxVmBCM'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000071', funcion:['Productora']},
     {codigo:'EN000095', funcion:['Productora']},
@@ -9225,14 +9313,19 @@ ships:[
     {personajes:['Ha Yeon Woo','Sung Woo Jae']}
 ],
 sinopsis:'Yeon Woo es un director de cine cuya carrera atraviesa un momento difícil cuando vuelve a encontrarse con Woo Jae, un antiguo conocido que se ha convertido en escritor. Los dos cargan con heridas y malentendidos del pasado, pero la necesidad de trabajar juntos en una nueva historia les obliga a enfrentarse a aquello que los separó y a los sentimientos que todavía permanecen entre ellos.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/1200x/b0/c6/a6/b0c6a69486b40f38d74f363589d7012c.jpg',
+        'https://i.pinimg.com/1200x/bb/30/09/bb3009612f0c2e6fe144c84f5767f2a6.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=Ax5oudYxvUo'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
 entidades:[
     {codigo:'EN000106', funcion:['Productora']},
     {codigo:'EN000110', funcion:['Plataforma']},
@@ -9288,15 +9381,17 @@ ships:[
     {personajes:['Han Ji Yu','Park Ki Hoon']}
 ],
 sinopsis:'Han Ji Yu trabaja como especialista de marketing para una empresa de bebidas alcohólicas y necesita convencer al chef Park Ki Hoon para que permita vender sus productos en su restaurante. Ki Hoon se niega rotundamente a trabajar con alcohol, pero la insistencia de Ji Yu hace que ambos pasen cada vez más tiempo juntos. Entre discusiones, comidas y bebidas, la relación profesional comienza a transformarse en algo más.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
-entidades:[
+multimedia:{
+    portada:[
+        'https://i.pinimg.com/736x/2a/58/84/2a58846903a22c055a90b130e172ed67.jpg',
+        'https://i.pinimg.com/736x/7c/51/b6/7c51b61bd6d5da8e8f88b7cceade63ce.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},entidades:[
     {codigo:'EN000106', funcion:['Productora']},
     {codigo:'EN000028', funcion:['Plataforma']},
     {codigo:'EN000025', funcion:['Plataforma']}
@@ -9352,14 +9447,19 @@ ships:[
     {personajes:['Jang Hye Seong','Lee Woo Jin']}
 ],
 sinopsis:'Jang Hye Seong, un ilustrador reconocido, regresa a su antiguo instituto para dar una conferencia y encuentra un viejo cuaderno de dibujos en el que aparece retratado su primer amor, Lee U Jin. Al terminar de dibujar de nuevo su rostro, Hye Seong es transportado misteriosamente al año 2008 y vuelve a tener dieciocho años. Allí se reencuentra con U Jin y decide intentar cambiar los errores que separaron sus vidas, aunque sus sentimientos vuelven a crecer mientras lucha contra un destino que parecía ya escrito.', 
-multimedia:{ 
-    portada:[], 
-    trailer:[], 
-    teaser:[], 
-    pilot:[], 
-    ost:[], 
-    videos:[] 
-}, 
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=vdF1Nsl24mI',
+        'https://www.youtube.com/watch?v=Lizb9-kowlM'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=fDhm7e-0qO4'
+    ]
+},
 entidades:[
     {codigo:'EN000061', funcion:['Productora']},
     {codigo:'EN000108', funcion:['Productora']},
