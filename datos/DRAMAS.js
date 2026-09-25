@@ -8405,13 +8405,13 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000098', funcion:'Productora'},
-    {codigo:'EN000099', funcion:'Productora'},
-    {codigo:'EN000089', funcion:'Plataforma'},
-    {codigo:'EN000091', funcion:'Plataforma'},
-    {codigo:'EN000114', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000098', funcion:['Productora']},
+    {codigo:'EN000099', funcion:['Productora']},
+    {codigo:'EN000089', funcion:['Plataforma']},
+    {codigo:'EN000091', funcion:['Plataforma']},
+    {codigo:'EN000114', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8471,13 +8471,13 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000101', funcion:'Productora'},
-    {codigo:'EN000100', funcion:'Productora'},
-    {codigo:'EN000109', funcion:'Plataforma'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000090', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000101', funcion:['Productora']},
+    {codigo:'EN000100', funcion:['Productora']},
+    {codigo:'EN000109', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000090', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8537,10 +8537,10 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000088', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000088', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8601,11 +8601,11 @@ multimedia:{
 }, 
 especiales:[], 
 entidades:[
-    {codigo:'EN000088', funcion:'Productora'},
-    {codigo:'EN000102', funcion:'Productora'},
-    {codigo:'EN000025', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000111', funcion:'Plataforma'}
+    {codigo:'EN000088', funcion:['Productora']},
+    {codigo:'EN000102', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000111', funcion:['Plataforma']}
 ],
 activo:true 
 },
@@ -8664,8 +8664,8 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8725,8 +8725,8 @@ multimedia:{
 }, 
 especiales:[], 
 entidades:[
-    {codigo:'EN000113', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'}
+    {codigo:'EN000113', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']}
 ],
 activo:true 
 },
@@ -8786,9 +8786,9 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000078', funcion:'Productora'},
-    {codigo:'EN000104', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'}
+    {codigo:'EN000078', funcion:['Productora']},
+    {codigo:'EN000104', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8851,11 +8851,11 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000103', funcion:'Productora'},
-    {codigo:'EN000104', funcion:'Productora'},
-    {codigo:'EN000109', funcion:'Plataforma'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000024', funcion:'Plataforma'}
+    {codigo:'EN000103', funcion:['Productora']},
+    {codigo:'EN000104', funcion:['Productora']},
+    {codigo:'EN000109', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8916,10 +8916,10 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000057', funcion:'Productora'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'},
-    {codigo:'EN000029', funcion:'Plataforma'}
+    {codigo:'EN000057', funcion:['Productora']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000029', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -8980,11 +8980,11 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000061', funcion:'Productora'},
-    {codigo:'EN000062', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000061', funcion:['Productora']},
+    {codigo:'EN000062', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9044,10 +9044,10 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000105', funcion:'Productora'},
-    {codigo:'EN000109', funcion:'Plataforma'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000024', funcion:'Plataforma'}
+    {codigo:'EN000105', funcion:['Productora']},
+    {codigo:'EN000109', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9108,8 +9108,8 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000060', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'}
+    {codigo:'EN000060', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9170,11 +9170,11 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000071', funcion:'Productora'},
-    {codigo:'EN000095', funcion:'Productora'},
-    {codigo:'EN000024', funcion:'Plataforma'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000089', funcion:'Plataforma'}
+    {codigo:'EN000071', funcion:['Productora']},
+    {codigo:'EN000095', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000089', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9234,9 +9234,9 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000106', funcion:'Productora'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000028', funcion:'Plataforma'}
+    {codigo:'EN000106', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9297,9 +9297,9 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000106', funcion:'Productora'},
-    {codigo:'EN000028', funcion:'Plataforma'},
-    {codigo:'EN000025', funcion:'Plataforma'}
+    {codigo:'EN000106', funcion:['Productora']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
@@ -9361,11 +9361,11 @@ multimedia:{
     videos:[] 
 }, 
 entidades:[
-    {codigo:'EN000061', funcion:'Productora'},
-    {codigo:'EN000108', funcion:'Productora'},
-    {codigo:'EN000110', funcion:'Plataforma'},
-    {codigo:'EN000024', funcion:'Plataforma'},
-    {codigo:'EN000111', funcion:'Plataforma'}
+    {codigo:'EN000061', funcion:['Productora']},
+    {codigo:'EN000108', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000111', funcion:['Plataforma']}
 ],
 especiales:[], 
 activo:true 
