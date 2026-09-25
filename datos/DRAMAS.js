@@ -8349,4 +8349,918 @@ entidades:[
 especiales:[],
 activo:true
 },
+	/* ===============  A SHOULDER TO CRY ON — DR000138   =================== */
+{ 
+codigo:'DR000138', 
+titulo:'A Shoulder to Cry On', 
+tituloOriginal:'소년을 위로해줘!', 
+alias:[
+    'A Shoulder to Cry On',
+    'Comfort the Boy',
+    'Let Me Comfort The Boy',
+    'Sonyeoneul Wirohaejwo'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:7, 
+duracion:'30 min', 
+estado:'Finalizado', 
+estreno:'2023-03-15', 
+finalizacion:'2023-03-30', 
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+], 
+tags:[
+    'BL',
+    'Escolar',
+    'Instituto',
+    'Amistad',
+    'Enemistad',
+    'Primer amor',
+    'Coming-of-age'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Da Yeol, un estudiante dedicado al tiro con arco, ve amenazada su beca cuando se ve involucrado en un incidente con Tae Hyun, uno de los alumnos más populares del instituto. Tae Hyun aprovecha la situación para atormentarlo y convertir su vida escolar en un infierno. Sin embargo, la hostilidad entre ambos comienza a transformarse cuando Da Yeol descubre la soledad y las heridas que se esconden detrás de la actitud de Tae Hyun.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  OUR DATING SIM — DR000139   =================== */
+{ 
+codigo:'DR000139', 
+titulo:'Our Dating Sim', 
+tituloOriginal:'우리 연애 시뮬레이션', 
+alias:[
+    'Our Dating Simulation',
+    'Our Dating Sim'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'16 min', 
+estado:'Finalizado', 
+estreno:'2023-03-09', 
+finalizacion:'2023-03-30', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Romance',
+    'Videojuegos',
+    'Oficina',
+    'Reencuentro',
+    'Primer amor',
+    'Amigos de la infancia'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Lee Wan comienza a trabajar en una empresa de videojuegos y descubre que su nuevo jefe es Shin Ki Tae, su antiguo mejor amigo y primer amor. Después de haberse separado tras la graduación, ambos deben enfrentarse a los sentimientos que nunca llegaron a desaparecer mientras trabajan juntos en un nuevo proyecto de videojuego romántico.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  UNINTENTIONAL LOVE STORY — DR000140   =================== */
+{ 
+codigo:'DR000140', 
+titulo:'Unintentional Love Story', 
+tituloOriginal:'비의도적 연애담', 
+alias:[
+    'Unintentional Love Story',
+    'The Accidental Love Story',
+    'Biuijeokjeok Yeonaedam'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:10, 
+duracion:'35 min', 
+estado:'Finalizado', 
+estreno:'2023-03-17', 
+finalizacion:'2023-04-14', 
+generos:[
+    'Drama',
+    'Romance'
+], 
+tags:[
+    'BL',
+    'Oficina',
+    'Arte',
+    'Cerámica',
+    'Reencuentro',
+    'Mentiras',
+    'Primer amor'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Ji Won Young pierde su trabajo después de verse involucrado en un escándalo y descubre que la persona que puede ayudarle a recuperar su puesto es Yoon Tae Joon, un reservado artista de cerámica que ha desaparecido de la vida pública. Won Young intenta acercarse a él con una intención inicialmente interesada, pero la relación entre ambos evoluciona hacia sentimientos reales que ninguno de los dos esperaba.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  HAPPY MERRY ENDING — DR000141   =================== */
+{ 
+codigo:'DR000141', 
+titulo:'Happy Merry Ending', 
+tituloOriginal:'해피메리엔딩', 
+alias:[
+    'Happy Merry Ending',
+    'Happy Merry Ending?'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'15 min', 
+estado:'Finalizado', 
+estreno:'2023-04-26', 
+finalizacion:'2023-05-18', 
+generos:[
+    'Drama',
+    'Romance',
+    'Música'
+], 
+tags:[
+    'BL',
+    'Música',
+    'Pianista',
+    'Cantante',
+    'Trauma',
+    'Sanación',
+    'Amor'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Seung Jun trabaja como pianista y cantante en bodas, pero arrastra un profundo trauma relacionado con una antigua relación. En una de sus actuaciones conoce a Jae Hyun, un cantante de bodas cuya amabilidad y paciencia comienzan poco a poco a derribar sus defensas. Mientras ambos se acercan a través de la música, Seung Jun debe enfrentarse a sus heridas del pasado para poder abrirse de nuevo al amor.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  LOVE MATE — DR000142   =================== */
+{ 
+codigo:'DR000142', 
+titulo:'Love Mate', 
+tituloOriginal:'러브메이트', 
+alias:[
+    'Love Mate',
+    'Reobeu Meiteu'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'21 min', 
+estado:'Finalizado', 
+estreno:'2023-05-04', 
+finalizacion:'2023-05-25', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Oficina',
+    'Trabajo',
+    'Compañeros',
+    'Citas',
+    'Amor',
+    'Romance laboral'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Seo Yi Jun es un líder de equipo que no cree en el amor y mantiene una actitud fría en el trabajo. Su vida cambia cuando conoce a Jeong Ha Ram, un nuevo empleado sincero y directo que no tiene miedo de expresar sus sentimientos. Una relación inicialmente complicada en la oficina comienza a convertirse poco a poco en algo más profundo.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  STAR STRUCK — DR000143   =================== */
+{ 
+codigo:'DR000143', 
+titulo:'Star Struck', 
+tituloOriginal:'스타스트럭', 
+alias:[
+    'Star Struck',
+    'Starstruck'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'20 min', 
+estado:'Finalizado', 
+estreno:'2023-05-18', 
+finalizacion:'2023-06-08', 
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+], 
+tags:[
+    'BL',
+    'Instituto',
+    'Amigos de la infancia',
+    'Primer amor',
+    'Amor no confesado',
+    'Juventud'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Seo Han Joon y Jo Yoo Jae son amigos desde la infancia y han crecido juntos compartiendo una relación cada vez más cercana. Aunque sus sentimientos han ido cambiando con el paso de los años, ninguno de los dos se atreve a enfrentarse a lo que realmente siente por el otro. Cuando su amistad comienza a verse alterada por los celos y los cambios de su vida, ambos deben decidir si están preparados para convertir su vínculo en algo más.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  LOVE TRACTOR — DR000144   =================== */
+{ 
+codigo:'DR000144', 
+titulo:'Love Tractor', 
+tituloOriginal:'트랙터는 사랑을 싣고', 
+alias:[
+    'Love Tractor',
+    'A Tractor Loaded with Love',
+    'Teuraegteoneun Sarangeul Sidgo'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'25 min', 
+estado:'Finalizado', 
+estreno:'2023-06-07', 
+finalizacion:'2023-06-21', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Campo',
+    'Vida rural',
+    'Sanación',
+    'Juventud',
+    'Opuestos',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Seon Yul, un joven de ciudad acostumbrado a una vida cómoda, se traslada temporalmente al campo para desconectar de su vida anterior. Allí conoce a Ye Chan, un joven alegre y entusiasta que adora la vida rural. Mientras Seon Yul aprende a desenvolverse en el campo y a disfrutar de una nueva forma de vida, la cercanía entre ambos se transforma en una relación llena de cariño y nuevas experiencias.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  SING MY CRUSH — DR000145   =================== */
+{ 
+codigo:'DR000145', 
+titulo:'Sing My Crush', 
+tituloOriginal:'따라바람', 
+alias:[
+    'Sing My Crush',
+    'Follow the Wind',
+    'Ttara Baram',
+    'Ttalabaram'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'27 min', 
+estado:'Finalizado', 
+estreno:'2023-08-02', 
+finalizacion:'2023-08-02', 
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud',
+    'Música'
+], 
+tags:[
+    'BL',
+    'Música',
+    'Banda',
+    'Amistad',
+    'Instituto',
+    'Primer amor',
+    'Amor no confesado'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Ba Ram y Han Tae se conocen durante su etapa escolar y, después de un incidente que cambia su relación, terminan convirtiéndose en grandes amigos. Años más tarde, Ba Ram se ha convertido en el vocalista de una banda mientras Han Tae permanece a su lado como amigo y representante. Sin embargo, los sentimientos de Ba Ram han dejado de ser solo amistad y cada vez resulta más difícil ocultarlos.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  JUN & JUN — DR000146   =================== */
+{ 
+codigo:'DR000146', 
+titulo:'Jun & Jun', 
+tituloOriginal:'준과 준', 
+alias:[
+    'Jun & Jun',
+    'Jun and Jun',
+    'Jun과 Jun'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'29 min', 
+estado:'Finalizado', 
+estreno:'2023-07-20', 
+finalizacion:'2023-09-07', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Oficina',
+    'Trabajo',
+    'Reencuentro',
+    'Primer amor',
+    'Jefe y empleado',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Lee Jun comienza su primer trabajo en una empresa de cosméticos y descubre que su superior es Choi Jun, un antiguo conocido que ha cambiado mucho desde que se conocieron. Mientras se adapta a su nuevo empleo, Lee Jun queda atrapado entre la actitud profesional de su jefe y la creciente atracción que existe entre ambos.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  WHY R U? — DR000147   =================== */
+{ 
+codigo:'DR000147', 
+titulo:'Why R U?', 
+tituloOriginal:'WHY R U?', 
+alias:[
+    'Why R U?',
+    'Why R U? Korean Version',
+    'Why R U? The Series'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'20 min', 
+estado:'Finalizado', 
+estreno:'2023-08-24', 
+finalizacion:'2023-09-14', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Universidad',
+    'Estudiantes',
+    'Amistad',
+    'Romance',
+    'Comedia',
+    'Adaptación'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Lee Won y Ji Oh mantienen una relación complicada mientras intentan sobrevivir a la vida universitaria y a los sentimientos que empiezan a surgir entre ellos. A medida que las situaciones románticas y los malentendidos se acumulan, ambos deben enfrentarse a lo que realmente sienten mientras su círculo de amigos también se ve envuelto en sus relaciones.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  BON APPÉTIT — DR000148   =================== */
+{ 
+codigo:'DR000148', 
+titulo:'Bon Appétit', 
+tituloOriginal:'본아페티', 
+alias:[
+    'Bon Appétit',
+    'Bon Appetit'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'27 min', 
+estado:'Finalizado', 
+estreno:'2023-09-27', 
+finalizacion:'2023-09-27', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Comida',
+    'Cocina',
+    'Chef',
+    'Oficina',
+    'Convivencia',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Do Hoon, un joven que vive una vida rutinaria, comienza a acercarse a su vecino Ha Min, un chef que entra inesperadamente en su vida a través de la comida. Entre platos caseros, conversaciones y momentos compartidos, ambos descubren que la relación que comienza alrededor de una mesa puede convertirse en algo mucho más íntimo.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  BUMP UP BUSINESS — DR000149   =================== */
+{ 
+codigo:'DR000149', 
+titulo:'Bump Up Business', 
+tituloOriginal:'범프 업 비즈니스', 
+alias:[
+    'Bump Up Business',
+    'Bump Up Business: The Series'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'16 min', 
+estado:'Finalizado', 
+estreno:'2023-10-20', 
+finalizacion:'2023-10-27', 
+generos:[
+    'Drama',
+    'Romance',
+    'Música'
+], 
+tags:[
+    'BL',
+    'K-pop',
+    'Ídolos',
+    'Música',
+    'Industria del entretenimiento',
+    'Business Gay',
+    'Celos',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Eden está a punto de debutar como miembro de un nuevo dúo de K-pop cuando descubre que su compañero será Ji Hoon, un idol veterano cuya carrera ha perdido popularidad. La agencia decide que ambos deben promocionarse mediante un concepto de pareja conocido como Business Gay. Lo que comienza como una estrategia de marketing acaba complicándose cuando los sentimientos entre ambos empiezan a superar los límites de la actuación.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  A BREEZE OF LOVE — DR000150   =================== */
+{ 
+codigo:'DR000150', 
+titulo:'A Breeze of Love', 
+tituloOriginal:'일기예보적 연애', 
+alias:[
+    'A Breeze of Love',
+    'Weather Forecast Love',
+    'Ilgiyebojeok Yeonae'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'FR000014', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'30 min', 
+estado:'Finalizado', 
+estreno:'2023-11-10', 
+finalizacion:'2023-11-10', 
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+], 
+tags:[
+    'BL',
+    'Universidad',
+    'Reencuentro',
+    'Primer amor',
+    'Amigos de la infancia',
+    'Deporte',
+    'Amor'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Dong Wook y Do Hyun fueron inseparables durante su juventud y llegaron a enamorarse, pero las circunstancias hicieron que sus caminos se separaran. Años después, Dong Wook regresa a la vida de Do Hyun, que ahora es una estrella del baloncesto universitario. El reencuentro despierta sentimientos que nunca desaparecieron y obliga a ambos a enfrentarse a las heridas de su pasado.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  INDIVIDUAL CIRCUMSTANCES — DR000151   =================== */
+{ 
+codigo:'DR000151', 
+titulo:'Individual Circumstances', 
+tituloOriginal:'각자의 사정', 
+alias:[
+    'Individual Circumstances',
+    'Each Other’s Circumstances',
+    'Gakjaui Sajeong'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'17 min', 
+estado:'Finalizado', 
+estreno:'2023-01-19', 
+finalizacion:'2023-02-09', 
+generos:[
+    'Drama',
+    'Romance'
+], 
+tags:[
+    'BL',
+    'Escritor',
+    'Director',
+    'Cine',
+    'Reencuentro',
+    'Pasado',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Yeon Woo es un director de cine cuya carrera atraviesa un momento difícil cuando vuelve a encontrarse con Woo Jae, un antiguo conocido que se ha convertido en escritor. Los dos cargan con heridas y malentendidos del pasado, pero la necesidad de trabajar juntos en una nueva historia les obliga a enfrentarse a aquello que los separó y a los sentimientos que todavía permanecen entre ellos.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  ALL THE LIQUORS — DR000152   =================== */
+{ 
+codigo:'DR000152', 
+titulo:'All the Liquors', 
+tituloOriginal:'주류일절', 
+alias:[
+    'All the Liquors',
+    'Liquor',
+    'Juryuiljeol'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'19 min', 
+estado:'Finalizado', 
+estreno:'2023-03-02', 
+finalizacion:'2023-03-23', 
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+], 
+tags:[
+    'BL',
+    'Gastronomía',
+    'Restaurante',
+    'Chef',
+    'Alcohol',
+    'Trabajo',
+    'Romance'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Han Ji Yu trabaja como especialista de marketing para una empresa de bebidas alcohólicas y necesita convencer al chef Park Ki Hoon para que permita vender sus productos en su restaurante. Ki Hoon se niega rotundamente a trabajar con alcohol, pero la insistencia de Ji Yu hace que ambos pasen cada vez más tiempo juntos. Entre discusiones, comidas y bebidas, la relación profesional comienza a transformarse en algo más.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  BEHIND THE SHADOWS — DR000153   =================== */
+{ 
+codigo:'DR000153', 
+titulo:'Behind the Shadows', 
+tituloOriginal:'그림자 고백', 
+alias:[
+    'Behind the Shadows',
+    'Shadow Confession',
+    'Geulimja Gobaek',
+    'KBS Drama Special: Behind the Shadows'
+], 
+tipo:'Drama', 
+anio:2023, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:1, 
+duracion:'81 min', 
+estado:'Finalizado', 
+estreno:'2023-11-24', 
+finalizacion:'2023-11-24', 
+generos:[
+    'Drama',
+    'Romance',
+    'Histórico'
+], 
+tags:[
+    'BL',
+    'Joseon',
+    'Histórico',
+    'Amor no correspondido',
+    'Amistad',
+    'Secreto',
+    'KBS Drama Special'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'En la época Joseon, Yoon Ho guarda en secreto sus sentimientos por su amigo de la infancia Jae Woon, mientras las normas sociales y las circunstancias de su vida hacen imposible expresar abiertamente lo que siente. Su amistad se convierte en un vínculo marcado por los sentimientos ocultos, los sacrificios y la imposibilidad de vivir su amor de la manera que desean.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
+
+/* ===============  ALWAYS MEET AGAIN — DR000154   =================== */
+{ 
+codigo:'DR000154', 
+titulo:'Always Meet Again', 
+tituloOriginal:'언제나 다시 만나', 
+alias:[
+    'Always Meet Again',
+    'We’ll Always Meet Again',
+    'Eonjena Dashi Manna'
+], 
+tipo:'Drama', 
+anio:2026, 
+pais:'KR', 
+idioma:'ko', 
+franquicia:'FR000014', 
+universo:'', 
+serie:'', 
+temporadas:1, 
+temporada:1, 
+episodios:8, 
+duracion:'30 min', 
+estado:'Finalizado', 
+estreno:'2026-03-05', 
+finalizacion:'2026-03-26', 
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía',
+    'Juventud'
+], 
+tags:[
+    'BL',
+    'Viaje en el tiempo',
+    'Primer amor',
+    'Reencuentro',
+    'Instituto',
+    'Segunda oportunidad',
+    'Destino'
+], 
+personas:[], 
+ships:[], 
+sinopsis:'Jang Hye Seong, un ilustrador reconocido, regresa a su antiguo instituto para dar una conferencia y encuentra un viejo cuaderno de dibujos en el que aparece retratado su primer amor, Lee U Jin. Al terminar de dibujar de nuevo su rostro, Hye Seong es transportado misteriosamente al año 2008 y vuelve a tener dieciocho años. Allí se reencuentra con U Jin y decide intentar cambiar los errores que separaron sus vidas, aunque sus sentimientos vuelven a crecer mientras lucha contra un destino que parecía ya escrito.', 
+multimedia:{ 
+    portada:[], 
+    trailer:[], 
+    teaser:[], 
+    pilot:[], 
+    ost:[], 
+    videos:[] 
+}, 
+entidades:[], 
+especiales:[], 
+activo:true 
+},
 ];
