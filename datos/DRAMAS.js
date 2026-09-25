@@ -10151,4 +10151,830 @@ multimedia:{
 	especiales:[],
 activo:true
 },	
+	/* ===============  FC SOLDOUT — DR000164  =================== */
+{
+codigo:'DR000164',
+titulo:'FC Soldout',
+tituloOriginal:'FC 솔드아웃',
+alias:[
+    'FC Soldout',
+    'FC Soldout'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'27 min',
+estado:'Finalizado',
+estreno:'2025-01-17',
+finalizacion:'2025-03-07',
+generos:[
+    'Drama',
+    'Romance',
+    'Deportes'
+],
+tags:[
+    'BL',
+    'Fútbol',
+    'Deporte',
+    'Equipo deportivo',
+    'Famoso',
+    'Celebridad',
+    'Entrenamiento',
+    'Fan a amante'
+],
+personas:[
+    {nombre:'Jong-hoon',persona:'PR000680',funcion:['Actor'],principal:true},
+    {nombre:'Deok-won',persona:'PR000681',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Do Ji-woo','Ryu Kyung-jae']}
+],
+sinopsis:'Un equipo de fútbol profesional en dificultades es adquirido por una gran empresa de entretenimiento que pretende convertirlo en un equipo lleno de jugadores atractivos y populares. Do Ji-woo, uno de los jugadores originales, descubre que entre las nuevas incorporaciones está Yoo Kang-jae, el actor al que admira. Lo que comienza como la llegada de su ídolo al equipo se transforma poco a poco en una relación marcada por los conflictos, la convivencia y sentimientos inesperados.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/haX6tI8bGGzaVMcHWLCdLQtKLKl.jpg'
+    ],
+    trailer:[
+        'https://player.vimeo.com/video/1069457413'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000129', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000114', funcion:['Plataforma']},
+    {codigo:'EN000089', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ===============  HEART STAIN — DR000165  =================== */
+{
+codigo:'DR000165',
+titulo:'Heart Stain',
+tituloOriginal:'하트 스테인',
+alias:[
+    'Heart Stain',
+    'Hateu Seutein'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2025-02-06',
+finalizacion:'2025-02-27',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Primer amor',
+    'Amor no correspondido',
+    'Amistad',
+    'Profesor',
+    'Amor secreto',
+    'Webtoon'
+],
+personas:[
+    {nombre:'Ji-oh',persona:'PR000682',funcion:['Actor'],principal:true},
+    {nombre:'Hamin',persona:'PR000576',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yun U-hyeon','Park Do-ha']}
+],
+sinopsis:'Yoon Woo-hyun es un estudiante de último año de instituto que intenta superar en secreto los sentimientos que tiene por Nam Jeong-min, su profesor y tutor. Convencido de que ese amor no puede convertirse en una relación, decide guardar sus sentimientos para sí mismo y concentrarse en terminar sus estudios. Mientras intenta dejar atrás su primer amor, la cercanía con sus compañeros y las emociones propias de la juventud complican cada vez más su decisión.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/sBIVxIpOXhDsCKs3ibINdCoqGGJ.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=bHv67ZMjkw0'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000130', funcion:['Productora']},
+    {codigo:'EN000131', funcion:['Productora']},
+    {codigo:'EN000024', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SECRET RELATIONSHIPS — DR000166  =================== */
+{
+codigo:'DR000166',
+titulo:'Secret Relationships',
+tituloOriginal:'비밀사이',
+alias:[
+    'Secret Relationships',
+    'Secret Relationship',
+    'Bimil Sai'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'35 min',
+estado:'Finalizado',
+estreno:'2025-02-26',
+finalizacion:'2025-03-20',
+generos:[
+    'Drama',
+    'Romance',
+    'Psicológico'
+],
+tags:[
+    'BL',
+    'Oficina',
+    'Adultos',
+    'Amor secreto',
+    'Triángulo amoroso',
+    'Cuadrado amoroso',
+    'Reencuentro',
+    'Webtoon'
+],
+personas:[
+    {nombre:'Jun-seo',persona:'PR000684',funcion:['Actor'],principal:true},
+    {nombre:'Sun-hyung',persona:'PR000685',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jung Da-on','Joo Sung-hyun']}
+],
+sinopsis:'Jung Da-on es un joven trabajador cuya vida sentimental se complica por la presencia de varios hombres de su pasado y su presente. Su relación con Ju Seong-hyeon comienza con enfrentamientos y malentendidos, mientras Sin Jae-min, su antiguo tutor y primer amor, y Kim Su-hyeon, antiguo novio de Jae-min, vuelven a entrar en su vida. Entre secretos, heridas del pasado y sentimientos difíciles de definir, Da-on intenta descubrir qué tipo de relación desea realmente.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/aytDKHN1Tmr6uqcLPap7U1Cjy9a.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=_EMSu6DhQEw'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000132', funcion:['Productora']},
+    {codigo:'EN000133', funcion:['Productora']},
+    {codigo:'EN000134', funcion:['Productora']},
+    {codigo:'EN000089', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  HEESU IN CLASS 2 — DR000167  =================== */
+{
+codigo:'DR000167',
+titulo:'Heesu in Class 2',
+tituloOriginal:'2반 이희수',
+alias:[
+    'Heesu in Class 2',
+    'Lee Hee-soo in Class 2',
+    'Iban Ihisu'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'45 min',
+estado:'Finalizado',
+estreno:'2025-03-28',
+finalizacion:'2025-04-26',
+generos:[
+    'Drama',
+    'Romance',
+    'Juventud',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Primer amor',
+    'Amor secreto',
+    'Amigos a amantes',
+    'Triángulo amoroso',
+    'Astrología',
+    'Webtoon'
+],
+personas:[
+    {nombre:'Ji-ho',persona:'PR000686',funcion:['Actor'],principal:true},
+    {nombre:'Sang-jun',persona:'PR000687',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Hee-su','Kim Seung-won']}
+],
+sinopsis:'Lee Hee-su es un estudiante de instituto conocido por sus buenos consejos sobre el amor, aunque él mismo nunca ha tenido una relación. En secreto está enamorado de su mejor amigo Ju Chan-yeong, sin darse cuenta de que Kim Seung-won, un compañero de clase, siente algo por él. Mientras Hee-su intenta ayudar a los demás con sus problemas sentimentales, deberá enfrentarse a sus propios sentimientos y descubrir quién ocupa realmente un lugar especial en su corazón.',
+multimedia:{
+    portada:[
+        'https://www.animeclick.it/immagini/live_action/Heesu_in_Class_2/gallery_original/Heesu_in_Class_2-67e974a9174d5.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000135', funcion:['Productora']},
+    {codigo:'EN000136', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000028', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BUSINESS AS USUAL — DR000168  =================== */
+{
+codigo:'DR000168',
+titulo:'Business as Usual',
+tituloOriginal:'을의 연애',
+alias:[
+    'Business as Usual',
+    'Eul-ui Yeonae'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'28 min',
+estado:'Finalizado',
+estreno:'2025-04-03',
+finalizacion:'2025-05-08',
+generos:[
+    'Drama',
+    'Romance',
+    'Oficina',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Oficina',
+    'Reencuentro',
+    'Primer amor',
+    'Segunda oportunidad',
+    'Amor secreto',
+    'Compañeros de trabajo',
+    'Webtoon'
+],
+personas:[
+    {nombre:'Seung-ha',persona:'PR000688',funcion:['Actor'],principal:true},
+    {nombre:'Jong-hyuk',persona:'PR000689',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Choi Jin-hwan','Kim Min-jun']}
+],
+sinopsis:'Choi Jin-hwan y Kim Min-jun fueron compañeros de universidad y vivieron una relación que terminó dejando sentimientos y malentendidos sin resolver. Ocho años después, ambos se reencuentran inesperadamente como compañeros de trabajo. Mientras intentan mantener una relación profesional, los recuerdos de su primer amor y aquello que nunca llegaron a aclarar vuelven a salir a la superficie.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/ndVWj0sVXC6YdyC3pujdikgtbGx.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=tVzU6UnUQ6M'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000057', funcion:['Productora']},
+    {codigo:'EN000028', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BALL BOY TACTICS — DR000169  =================== */
+{
+codigo:'DR000169',
+titulo:'Ball Boy Tactics',
+tituloOriginal:'볼보이 택틱스',
+alias:[
+    'Ball Boy Tactics',
+    'Bolboi Taektikseu'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2025-06-05',
+finalizacion:'2025-06-26',
+generos:[
+    'Drama',
+    'Romance',
+    'Deportes',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Baloncesto',
+    'Gimnasia',
+    'Deporte',
+    'Primer amor',
+    'Amigos a amantes',
+    'Webnovel'
+],
+personas:[
+    {nombre:'Min-hyuk',persona:'PR000690',funcion:['Actor'],principal:true},
+    {nombre:'Jae-hyeok',persona:'PR000691',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Ji-won','Kwon Jung-woo']}
+],
+sinopsis:'Han Ji-won, un antiguo gimnasta de élite que tuvo que abandonar su carrera tras una lesión, comienza una nueva etapa universitaria. Allí conoce a Kwon Jung-woo, una estrella del equipo de baloncesto cuya personalidad parece completamente opuesta a la suya. A medida que pasan más tiempo juntos, la atracción entre ambos crece mientras deben enfrentarse a sus diferencias, sus inseguridades y las presiones de la vida universitaria.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/yIX9Fu5kt9Tf6PLZSfCKjm3YZLB.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=2JhAXqrRq08'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000137', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SWEETHEART SERVICE — DR000170  =================== */
+{
+codigo:'DR000170',
+titulo:'Sweetheart Service',
+tituloOriginal:'스윗하트서비스',
+alias:[
+    'Sweetheart Service',
+    'Sweet Heart Service',
+    'Seuwishateu Seobiseu'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2025-05-09',
+finalizacion:'2025-07-31',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Romcom',
+    'Fake dating',
+    'Contrato de pareja',
+    'Oficina',
+    'Adultos',
+    'Amigos a amantes',
+    'Cohabitación'
+],
+personas:[
+    {nombre:'Hyun-seo',persona:'PR000692',funcion:['Actor'],principal:true},
+    {nombre:'Jae-hyeop',persona:'PR000693',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Son Yoo-ha','Jung Min-woo']}
+],
+sinopsis:'Yoo-ha acaba de graduarse y lucha por conseguir un trabajo que le permita independizarse de su familia. Min-woo, un desarrollador adicto al trabajo, intenta escapar de la presión familiar para casarse y decide contratar a un novio falso. Yoo-ha acepta el acuerdo por dinero, pero lo que comienza como una relación basada en reglas y condiciones termina convirtiéndose en sentimientos reales que ninguno de los dos esperaba.',
+multimedia:{
+    portada:[
+        'https://m.media-amazon.com/images/M/MV5BMTIwYTE1YzctNTlkYi00NjQ0LWExNzAtNmYyZjQ5NjEwZjBkXkEyXkFqcGc%40._V1_.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=4oTUoSnNct0'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000120', funcion:['Productora']},
+    {codigo:'EN000121', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  MY BIAS IS SHOWING?! — DR000171  =================== */
+{
+codigo:'DR000171',
+titulo:'My Bias Is Showing?!',
+tituloOriginal:'최애가 나타났다!',
+alias:[
+    'My Bias Is Showing?!',
+    'My Bias Appeared?!',
+    'Choeaega Natanatda'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'23 min',
+estado:'Finalizado',
+estreno:'2025-08-28',
+finalizacion:'2025-09-25',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Profesor',
+    'Idol',
+    'Famoso',
+    'Fan',
+    'Amor secreto',
+    'Webtoon'
+],
+personas:[
+    {nombre:'Jin-woo',persona:'PR000694',funcion:['Actor'],principal:true},
+    {nombre:'Kang-min',persona:'PR000576',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Na Ae-jun','Choi Si-yeol']}
+],
+sinopsis:'Na Ae-jun es profesor de matemáticas en un instituto y mantiene en secreto que es un gran fan de Choi Si-yeol, miembro del grupo idol A-One. Cuando un programa de variedades comienza a grabarse en su escuela, Ae-jun se encuentra de repente con su ídolo y termina siendo elegido como su compañero de programa. Mientras intenta ocultar su entusiasmo de fan, Si-yeol empieza a acercarse cada vez más a él y la frontera entre admiración y amor comienza a desaparecer.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=A9_x95pMWLg'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000125', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  MY SECRET VAMPIRE — DR000172  =================== */
+{
+codigo:'DR000172',
+titulo:'My Secret Vampire',
+tituloOriginal:'거짓말, 뱀파이어가 어디 있어?',
+alias:[
+    'My Secret Vampire',
+    'No Way, Vampires Don’t Exist!',
+    'Geojitmal, Baempaieoga Eodi Isseo?'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'16 min',
+estado:'Finalizado',
+estreno:'2025-09-18',
+finalizacion:'2025-10-09',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Vampiros',
+    'Sobrenatural',
+    'Cohabitación',
+    'Universidad',
+    'Casa compartida',
+    'Romance',
+    'Comedia'
+],
+personas:[
+    {nombre:'Dong-ju',persona:'PR000695',funcion:['Actor'],principal:true},
+    {nombre:'Sin',persona:'PR000696',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Dong-ha','Lee Ju-won']}
+],
+sinopsis:'Dong-ha, un joven de campo que se muda a Seúl para comenzar la universidad, encuentra una habitación sorprendentemente barata en una casa compartida. Sus nuevos compañeros se comportan de manera extraña, evitan la luz y apenas comen comida normal. Pronto descubre que todos ellos son vampiros y que él podría convertirse en su fuente de sangre. La convivencia entre humanos y vampiros termina dando lugar a una relación inesperada llena de secretos, reglas y sentimientos.',
+multimedia:{
+    portada:[
+        'https://boyslovefrance.wordpress.com/wp-content/uploads/2025/09/mysecretvampire_poster.jpeg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=JXK8JoMJsK8'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000125', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  THE STORY OF BIHYUNG — DR000173  =================== */
+{
+codigo:'DR000173',
+titulo:'The Story of Bihyung: Enchanted Master of the Goblin',
+tituloOriginal:'비형전: 도깨비의 주인',
+alias:[
+    'The Story of Bihyung: Enchanted Master of the Goblin',
+    'The Story of Bi Hyeong',
+    'Bi Hyeong Jeon: Dokkaebiui Juin'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2025-10-02',
+finalizacion:'2025-11-06',
+generos:[
+    'Drama',
+    'Romance',
+    'Fantasía',
+    'Comedia',
+    'Terror'
+],
+tags:[
+    'BL',
+    'Sobrenatural',
+    'Goblins',
+    'Gumiho',
+    'Mitología coreana',
+    'Cohabitación',
+    'Amor sobrenatural',
+    'Fantasmas'
+],
+personas:[
+    {nombre:'Jae-wook',persona:'PR000697',funcion:['Actor'],principal:true},
+    {nombre:'Cha-min',persona:'PR000698',funcion:['Actor'],principal:true},
+    {nombre:'Chan-woo',persona:'PR000699',funcion:['Actor'],principal:true},
+    {nombre:'Taek-jun',persona:'PR000700',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Bi-hyung','Geum-bok']},
+    {personajes:['Gil-dal','Ji-gwi']}
+],
+sinopsis:'Geum-bok llega a Seúl desde el campo con el sueño de convertirse en actor, pero termina siendo víctima de una estafa y se queda sin dinero ni alojamiento. Su destino cambia cuando conoce a Bihyung, el poderoso Rey de los Goblins, que sufre porque no puede absorber energía humana. Cuando descubren que Geum-bok puede proporcionarle la energía que necesita, comienza una extraña convivencia junto a Gil-dal, el guardaespaldas de Bihyung. La aparición de Ji-gwi, un gumiho relacionado con el pasado de Gil-dal, hace que los vínculos entre los seres sobrenaturales se vuelvan todavía más complicados.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/k4Ow0l747TMk1hutdeXZ5oKfAye.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=xrnNUV-wrgg'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000125', funcion:['Productora']},
+    {codigo:'EN000110', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  PEACH TRAP — DR000174  =================== */
+{
+codigo:'DR000174',
+titulo:'Peach Trap',
+tituloOriginal:'복숭아 꽃이 피었습니다',
+alias:[
+    'Peach Trap',
+    'Peach Blossoms Bloomed',
+    'Boksunga Kkoti Pieotseumnida'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2025-11-06',
+finalizacion:'2025-11-27',
+generos:[
+    'Drama',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Cuadrado amoroso',
+    'Primer amor',
+    'Romance',
+    'Comedia romántica',
+    'Amigos a amantes',
+    'Señales de amor'
+],
+personas:[
+    {nombre:'Su-bin',persona:'PR000701',funcion:['Actor'],principal:true},
+    {nombre:'Se-jin',persona:'PR000702',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yoo Do-ha','Taek Gyeon']}
+],
+sinopsis:'Yoo Do-ha es un joven que nunca ha tenido una relación y que se encuentra en el momento más complicado de su vida cuando tres hombres comienzan a acercarse a él al mismo tiempo. Cada uno muestra sus propios sentimientos y Do-ha queda atrapado en una confusa tormenta de señales amorosas. Entre encuentros, malentendidos y primeros sentimientos, deberá descubrir hacia quién quiere dirigir finalmente su corazón.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=fEi8VfZwlVc'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000137', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  THUNDERCLOUD RAINSTORM — DR000175  =================== */
+{
+codigo:'DR000175',
+titulo:'Thundercloud Rainstorm',
+tituloOriginal:'천둥구름 비바람',
+alias:[
+    'Thundercloud Rainstorm',
+    'Thunder Cloud Rainstorm',
+    'Chondunggureum Bibaram'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2025-11-28',
+finalizacion:'2025-12-19',
+generos:[
+    'Drama',
+    'Romance'
+],
+tags:[
+    'BL',
+    'Adultos',
+    'Familia',
+    'Cohabitación',
+    'Reencuentro',
+    'Primos',
+    'Trauma',
+    'Obsesión'
+],
+personas:[
+    {nombre:'Ji-sung',persona:'PR000704',funcion:['Actor'],principal:true},
+    {nombre:'Jeong',persona:'PR000703',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Il-jo','Seo Jeong-han']}
+],
+sinopsis:'Tras la muerte de su padre, Lee Il-jo se encuentra sin hogar, sin dinero y sin un lugar al que acudir. Su distante primo Seo Jeong-han acepta que se quede en su casa mientras intenta rehacer su vida. La convivencia entre ambos pronto se vuelve complicada cuando una cercanía inesperada hace aparecer sentimientos que ninguno de los dos estaba preparado para afrontar. Las heridas familiares y la dependencia emocional convierten su relación en una historia cada vez más intensa y peligrosa.',
+multimedia:{
+    portada:[
+        'https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2025-11-21/b108d30f-b8c9-4faf-b450-966cf300e23d.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=6CX7pjlRjJI'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000130', funcion:['Productora']},
+    {codigo:'EN000131', funcion:['Productora']},
+    {codigo:'EN000025', funcion:['Plataforma']},
+    {codigo:'EN000024', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
 ];
