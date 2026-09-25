@@ -7048,8 +7048,13 @@ tags:[
     'Amor',
     'Vida eterna'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Choi Min-hyun',persona:'PR000026',funcion:['Actor'],principal:true},
+        {nombre:'Kim Jun-ho',persona:'PR000589',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Choi Min-hyun','Kim Jun-ho']}
+    ],
 sinopsis:'Kim Jun-ho es un vampiro que necesita beber la sangre de un humano especial para convertirse en mortal. Cuando conoce a Choi Min-hyun, descubre que su sangre podría permitirle cumplir su deseo y decide acercarse a él con ese propósito. Sin embargo, cuanto más tiempo pasa junto a Min-hyun, más difícil le resulta verlo simplemente como una víctima, mientras un vampiro de su pasado intenta impedir que consiga lo que busca.',
 multimedia:{
     portada:[],
@@ -7107,8 +7112,13 @@ tags:[
     'Enemigos a amantes',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Choo Sang-woo',persona:'PR000590',funcion:['Actor'],principal:true},
+        {nombre:'Jang Jae-young',persona:'PR000591',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Choo Sang-woo','Jang Jae-young']}
+    ],
 sinopsis:'Choo Sang-woo es un estudiante de informática metódico y reservado que está acostumbrado a seguir las reglas al pie de la letra. Cuando decide eliminar de un proyecto universitario a los compañeros que no han colaborado, perjudica sin saberlo los planes de Jang Jae-young, un estudiante de diseño que estaba a punto de graduarse. El conflicto entre ambos comienza como una guerra de personalidades, pero la convivencia y los encuentros cada vez más frecuentes hacen que la relación entre ellos cambie de forma inesperada.',
 multimedia:{
     portada:[],
@@ -7172,8 +7182,13 @@ tags:[
     'Amistad',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Seol Won',persona:'PR000592',funcion:['Actor'],principal:true},
+        {nombre:'Kim Cheol Soo',persona:'PR000626',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Seol Won','Kim Cheol Soo']}
+    ],
 sinopsis:'Sul Won, un joven que acaba de perder su trabajo, se queda al frente de la casa de huéspedes de bajo coste que regenta su madre cuando ella decide marcharse. De repente tiene que hacerse cargo de un grupo de residentes muy diferentes entre sí: un estudiante de instituto, un antiguo amigo, un profesor y un estudiante de arte. La convivencia hace que entre ellos surjan nuevas amistades, conflictos y sentimientos inesperados, mientras Sul Won descubre que algunos de sus inquilinos sienten algo más por él.',
 multimedia:{
     portada:[],
@@ -7229,8 +7244,13 @@ tags:[
     'Destino',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Jeong Ha Yeon',persona:'PR000593',funcion:['Actor'],principal:true},
+        {nombre:'Yeon Seok',persona:'PR000594',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Jeong Ha Yeon','Yeon Seok']}
+    ],
 sinopsis:'Un novelista web lleva varios siglos buscando a la persona que considera el amor de su vida. Cuando finalmente cree haber encontrado la oportunidad de reencontrarse con ella, descubre que su alma gemela ha regresado a su vida como un hombre y, además, trabaja como editor. Entre recuerdos de vidas pasadas y sentimientos que parecen haber sobrevivido al paso del tiempo, ambos deberán descubrir si esta vez pueden cambiar el destino de su historia de amor.',
 multimedia:{
     portada:[],
@@ -7293,8 +7313,14 @@ tags:[
     'Amistad',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Lee Hyun Woo',persona:'PR000595',funcion:['Actor'],principal:true},
+        {nombre:'Kim Do Jin',persona:'PR000628',funcion:['Actor'],principal:true},
+        {nombre:'Han Ji Seok',persona:'PR000596',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Lee Hyun Woo','Han Ji Seok']}
+    ],
 sinopsis:'Ji Seok y Do Jin conocen a Hyeon Woo durante una competición de judo entre institutos de Seúl. Fascinados por su forma temeraria de luchar, ambos terminan acercándose a él, aunque sus sentimientos evolucionan de manera diferente. Do Jin se enamora de Hyeon Woo, mientras Ji Seok acaba convirtiéndose en su pareja. Años después, cuando Do Jin regresa convertido en campeón de judo, los tres vuelven a encontrarse y deben enfrentarse a los sentimientos y heridas que quedaron sin resolver.',
 multimedia:{
     portada:[],
@@ -7348,8 +7374,13 @@ tags:[
     'Popularidad',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Cha Si Won',persona:'PR000597',funcion:['Actor'],principal:true},
+        {nombre:'Hyeong Da Un',persona:'PR000598',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Cha Si Won','Hyeong Da Un']}
+    ],
 sinopsis:'Si Won es un estudiante de cine que ha construido su imagen en torno a la idea de que lo tiene todo bajo control. Su seguridad comienza a tambalearse cuando conoce a Da Woon, un compañero popular y aparentemente perfecto que se convierte en su rival y, poco a poco, en alguien mucho más importante para él. Mientras trabajan juntos y se enfrentan a sus propias inseguridades, ambos empiezan a descubrir qué significa realmente enamorarse y mostrarse tal como son.',
 multimedia:{
     portada:[],
@@ -7404,8 +7435,13 @@ tags:[
     'Convivencia',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Seo Hae Bom',persona:'PR000599',funcion:['Actor'],principal:true},
+        {nombre:'Jo Tae Sung',persona:'PR000600',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Seo Hae Bom','Jo Tae Sung']}
+    ],
 sinopsis:'Tras quedarse huérfano, Haebom es acogido por la familia de su mejor amigo, Taesung, y ambos crecen juntos bajo el mismo techo. Aunque siempre han sido muy diferentes, al llegar al último año de instituto comienzan a pasar más tiempo juntos y Haebom empieza a darse cuenta de que sus sentimientos por Taesung van más allá de la amistad. La cercanía entre ambos cambia su relación y les obliga a enfrentarse a sentimientos que hasta entonces habían mantenido ocultos.',
 multimedia:{
     portada:[],
@@ -7462,8 +7498,13 @@ tags:[
     'Convivencia',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Han Ba-da',persona:'PR000567',funcion:['Actor'],principal:true},
+        {nombre:'Tommy',persona:'PR000120',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Han Ba-da','Tommy']}
+    ],
 sinopsis:'Han Ba-da intenta sacar adelante un pequeño restaurante de udon junto al mar, aunque el negocio atraviesa dificultades. Un día conoce a Tommy, un músico que ha perdido el rumbo y llega al lugar buscando una nueva oportunidad. Mientras ambos intentan encontrar su propio camino, la convivencia y el apoyo mutuo hacen que entre ellos surja una conexión que va más allá de la amistad.',
 multimedia:{
     portada:[],
@@ -7518,8 +7559,13 @@ tags:[
     'Convivencia',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Choi Hye-seong',persona:'PR000601',funcion:['Actor'],principal:true},
+        {nombre:'Jin Geum-seong',persona:'PR000602',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Choi Hye-seong','Jin Geum-seong']}
+    ],
 sinopsis:'En la era Joseon, una joven noble se ve obligada a disfrazarse de hombre para poder sobrevivir y proteger a su familia. Su vida cambia cuando se encuentra con un hombre que empieza a sospechar de su verdadera identidad. Entre secretos, obligaciones familiares y sentimientos inesperados, ambos terminan acercándose.',
 multimedia:{
     portada:[],
@@ -7575,8 +7621,13 @@ tags:[
     'Amistad',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Ji Woo',persona:'PR000603',funcion:['Actor'],principal:true},
+        {nombre:'Ro Ah',persona:'PR000604',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Ji Woo','Ro Ah']}
+    ],
 sinopsis:'Un grupo de estudiantes universitarios se enfrenta a un proyecto académico sobre el amor que les obliga a trabajar juntos. Entre ellos, uno intenta proteger a la persona de la que está enamorado mientras comienza a cuestionarse sus propios sentimientos. A medida que el proyecto avanza, las relaciones entre los estudiantes se complican y lo que parecía una simple tarea universitaria termina convirtiéndose en una oportunidad para descubrir el amor y comprenderse mejor a sí mismos.',
 multimedia:{
     portada:[],
@@ -7630,8 +7681,13 @@ tags:[
     'Destino',
     'Amor'
 ],
-personas:[],
-ships:[],
+ personas:[
+        {nombre:'Shin Jae Woo',persona:'PR000605',funcion:['Actor'],principal:true},
+        {nombre:'Kang Ji Hoon',persona:'PR000606',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Shin Jae Woo','Kang Ji Hoon']}
+    ],
 sinopsis:'Jae Woo es un joven marcado por un trauma de la infancia que, de forma inesperada, viaja al pasado y regresa a 2007. Allí se encuentra con Ji Hoon, un estudiante de Derecho que se prepara para el examen de acceso a la abogacía y que fue una persona muy importante para él. Con la oportunidad de volver a vivir aquellos acontecimientos, Jae Woo intenta cambiar un destino que en el presente terminó separándolos para siempre.',
 multimedia:{
     portada:[],
@@ -7687,8 +7743,13 @@ tags:[
     'Enemigos a amantes',
     'Amor'
 ],
-personas:[],
-ships:[],
+    personas:[
+        {nombre:'Ji Ho Joon',persona:'PR000589',funcion:['Actor'],principal:true},
+        {nombre:'Seo Jae Yoon',persona:'PR000026',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Ji Ho Joon','Seo Jae Yoon']}
+    ],
 sinopsis:'Ji Ho Jun es un chaebol de tercera generación que recibe de su padre un ultimátum: abandonar su cómoda vida, sobrevivir sin dinero durante dos años y demostrar que puede convertirse en un buen líder dentro de la empresa familiar. Obligado a mudarse, termina alquilando una habitación en la villa de Seo Jae Yoon, un hombre con quien choca desde el primer momento. La situación se complica cuando ambos descubren que también trabajan en la misma empresa y que Jae Yoon pasa a formar parte del equipo dirigido por Ho Jun.',
 multimedia:{
     portada:[],
@@ -7748,8 +7809,16 @@ tags:[
     'Amor',
     'Sobrenatural'
 ],
-personas:[],
-ships:[],
+personas:[
+        {nombre:'Jung Woo',persona:'PR000607',funcion:['Actor'],principal:true},
+        {nombre:'Choco',persona:'PR000609',funcion:['Actor'],principal:true},
+        {nombre:'Milk',persona:'PR000608',funcion:['Actor'],principal:true},
+        {nombre:'Uncle',persona:'PR000627',funcion:['Actor'],principal:true}
+    ],
+    ships:[
+        {personajes:['Jung Woo','Choco']},
+        {personajes:['Milk','Uncle']}
+    ],
 sinopsis:'Jung Woo vive solo y trabaja en la cafetería de su tío después de haber perdido a sus padres y, años atrás, a sus dos mascotas. Un día aparecen en su casa dos jóvenes desconocidos que aseguran ser Choco, el perro que tuvo desde niño, y Milk, su gato. Aunque al principio no puede creer que sus mascotas hayan regresado convertidas en humanos, ambos conocen detalles que solo ellos podrían saber. Su llegada devuelve alegría y compañía a la vida de Jung Woo, pero también trae consigo un secreto que cambiará su relación con ellos.',
 multimedia:{
     portada:[],
@@ -7814,8 +7883,15 @@ tags:[
     'Secretos',
     'Amor'
 ],
-personas:[],
-ships:[],
+personas:[
+	{nombre:'Cha Jung Woo',persona:'PR000610',funcion:['Actor'],principal:true},
+	{nombre:'Kim Jung Hyun',persona:'PR000611',funcion:['Actor'],principal:true},
+	{nombre:'Han Tae Young',persona:'PR000612',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Cha Jung Woo','Kim Jung Hyun']},
+	{personajes:['Cha Jung Woo','Han Tae Young']}
+],
 sinopsis:'Kim Jung-hyun es un escritor prometedor que intenta abrirse camino en el mundo literario mientras permanece ligado a su mentor. Su vida cambia cuando aparece Han Tae-young, un poderoso editor que ve su potencial y le ofrece una nueva oportunidad. Dividido entre la lealtad hacia quien le ayudó al principio de su carrera y la posibilidad de alcanzar el éxito junto a Tae-young, Jung-hyun deberá enfrentarse a las decisiones y sentimientos que pueden cambiar tanto su carrera como su vida personal.',
 multimedia:{
     portada:[],
@@ -7872,8 +7948,13 @@ tags:[
     'Convivencia',
     'Amor'
 ],
-personas:[],
-ships:[],
+personas:[
+	{nombre:'Seon Ho',persona:'PR000613',funcion:['Actor'],principal:true},
+	{nombre:'Mu Yeong',persona:'PR000614',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Seon Ho','Mu Yeong']}
+],
 sinopsis:'Seon Ho es un autor de webtoons que trabaja en cómics para adultos, pero el éxito de sus historias le ha provocado un problema inesperado: ha perdido por completo su libido. Para poder hacer frente a la creciente carga de trabajo, contrata a Mu Yeong, un joven que además de convertirse en su asistente es uno de sus mayores admiradores. La convivencia hace que Mu Yeong desarrolle sentimientos por él, mientras la aparición de Joon Seok complica aún más la relación entre los tres.',
 multimedia:{
     portada:[],
@@ -7932,8 +8013,13 @@ tags:[
     'Maldición',
     'Amor'
 ],
-personas:[],
-ships:[],
+personas:[
+	{nombre:'Min Yu-dam',persona:'PR000615',funcion:['Actor'],principal:true},
+	{nombre:'Seol Dong Baek',persona:'PR000616',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Min Yu-dam','Seol Dong Baek']}
+],
 sinopsis:'Dong Baek acaba de incorporarse a Min Entertainment cuando su director, Yu Dam, le revela algo que parece imposible: lleva varias vidas reencarnándose y Dong Baek es la persona con la que está destinado a estar. Según la maldición que pesa sobre él, si no consigue mantener una relación con su amor destinado, ambos morirán. Mientras Dong Baek intenta comprender la extraña situación, Yu Dam deberá convencerlo de que su encuentro actual es solo el último capítulo de una historia que comenzó siglos atrás.',
 multimedia:{
     portada:[],
@@ -7988,8 +8074,13 @@ tags:[
     'Compañeros de trabajo',
     'Amor'
 ],
-personas:[],
-ships:[],
+ personas:[
+	{nombre:'Woo Seung-hyun',persona:'PR000605',funcion:['Actor'],principal:true},
+	{nombre:'Kim Jong-chan',persona:'PR000617',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Woo Seung-hyun','Kim Jong-chan']}
+],
 sinopsis:'Seung Hyun consigue unas prácticas en una agencia de publicidad y está decidido a demostrar que puede abrirse camino en el mundo laboral pese a su falta de experiencia. Su supervisor, Jong Chan, es un jefe reservado y exigente que mantiene una clara distancia con sus empleados. A medida que ambos pasan más tiempo juntos en la oficina, la relación profesional comienza a transformarse en algo más personal y Seung Hyun tendrá que enfrentarse al conflicto entre sus sentimientos y su nueva carrera.',
 multimedia:{
     portada:[],
@@ -8046,8 +8137,16 @@ tags:[
     'Amistad',
     'Amor'
 ],
-personas:[],
-ships:[],
+personas:[
+	{nombre:'Lee Hyun',persona:'PR000618',funcion:['Actor'],principal:true},
+	{nombre:'Kim An',persona:'PR000619',funcion:['Actor'],principal:true},
+	{nombre:'Sung Min',persona:'PR000620',funcion:['Actor'],principal:true},
+	{nombre:'Joo Hyuk',persona:'PR000621',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Lee Hyun','Kim An']},
+	{personajes:['Sung Min','Joo Hyuk']}
+],
 sinopsis:'Un nuevo grupo de estudiantes universitarios se enfrenta a las complicaciones de la vida en el campus mientras cada uno intenta encontrar su lugar y descubrir qué significa enamorarse. Entre clases, amistades y nuevas relaciones, los protagonistas comienzan a acercarse y a enfrentarse a sentimientos que no siempre son fáciles de reconocer. Las distintas historias de amor se entrelazan mientras intentan compaginar sus estudios con sus relaciones.',
 multimedia:{
     portada:[],
@@ -8103,8 +8202,16 @@ tags:[
     'Reencuentro',
     'Amor'
 ],
-personas:[],
-ships:[],
+personas:[
+	{nombre:'Hyun Jae',persona:'PR000622',funcion:['Actor'],principal:true},
+	{nombre:'Soo An',persona:'PR000623',funcion:['Actor'],principal:true},
+	{nombre:'Jae Min',persona:'PR000624',funcion:['Actor'],principal:true},
+	{nombre:'Khun',persona:'PR000625',funcion:['Actor'],principal:true}
+],
+ships:[
+	{personajes:['Hyun Jae','Soo An']},
+	{personajes:['Jae Min','Khun']}
+],
 sinopsis:'Hyun Jae y Soo An se conocen mientras compiten en un programa de supervivencia para convertirse en idols y, durante los entrenamientos, comienzan a desarrollar sentimientos que ninguno de los dos se atreve a expresar. Sin embargo, solo Hyun Jae consigue debutar y ambos terminan separados por las exigencias de la industria. Años después, un nuevo proyecto profesional vuelve a reunirlos, pero ahora su posible relación supone un riesgo mucho mayor para sus carreras. Al mismo tiempo, Jae Min, que ha quedado apartado de sus sueños de debutar tras un escándalo, conoce a Khun, un joven músico tailandés con quien comienza a construir una relación mientras ambos intentan encontrar su propio camino.',
 multimedia:{
     portada:[],
