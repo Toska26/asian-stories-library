@@ -7812,7 +7812,7 @@ multimedia:{
         'https://i.pinimg.com/736x/78/4b/44/784b44d45d7b37400976e20f4bbcedf5.jpg'
     ],
     trailer:[
-        'https://www.youtube.com/watch?v=wDw9LnwFgqg'
+        'https://www.viki.com/videos/1201304v'
     ],
     teaser:[],
     pilot:[],
