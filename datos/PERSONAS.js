@@ -747,4 +747,11 @@ const PERSONAS = [
 {codigo:'PR000713', nombre:'Jang In Kyu', nombreOriginal:'장인규', nombreArtistico:'In Kyu', alias:['Jang In-kyu','Jang In-gyu','Jang Inkyu'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000714', nombre:'Gu Do Hyeong', nombreOriginal:'구도형', nombreArtistico:'Do Hyeong', alias:['Gu Do-hyeong','Koo Do-hyeong','Gu Do-hyeong','Koo Do Hyeong'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 
+   {codigo:'PR000715', nombre:'Ki Myoung Je', nombreOriginal:'기명제', nombreArtistico:'', alias:['Ki Myoung-je','Ki Myeong Je','Ki Myeong-je'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000716', nombre:'Kang Seon Ho', nombreOriginal:'강선호', nombreArtistico:'', alias:['Kang Seon-ho','Kang Sun-ho','Kang Sun Ho'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000717', nombre:'Kim Hyeon Seo', nombreOriginal:'김현서', nombreArtistico:'', alias:['Kim Hyeon-seo','Kim Hyun Seo','Kim Hyun-seo'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000718', nombre:'Jung Myeong Cheol', nombreOriginal:'정명철', nombreArtistico:'', alias:['Jung Myeong-cheol','Jung Myeongcheol','Jung Myung Cheol','Jung Myung-cheol'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000719', nombre:'Cha Seung Yun', nombreOriginal:'차승윤', nombreArtistico:'', alias:['Cha Seung-yun','Cha Seungyoon','Cha Seung Yoon'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000720', nombre:'Lee Tae Gyu', nombreOriginal:'이태규', nombreArtistico:'', alias:['Lee Tae-gyu','Lee Tae Gyu','Lee Taegyu'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000721', nombre:'Ji Seung Jin', nombreOriginal:'지승진', nombreArtistico:'', alias:['Ji Seung-jin','Ji Seungjin','Seung-jin Ji'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 ];
