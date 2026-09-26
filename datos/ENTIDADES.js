@@ -143,4 +143,6 @@ const ENTIDADES = [
 {codigo:'EN000137', nombre:'Heavenly Pictures', pais:'KR', tipos:['Productora'], activo:true},
    {codigo:'EN000138', nombre:'TRUE FILM', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000139', nombre:'SUKFILM', pais:'KR', tipos:['Productora'], activo:true},
+   {codigo:'EN000140', nombre:'SEEKMedia', pais:'KR', tipos:['Productora'], activo:true},
+{codigo:'EN000141', nombre:'Shortime', pais:'KR', tipos:['Plataforma'], activo:true},
 ];
