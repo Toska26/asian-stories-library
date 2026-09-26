@@ -15,4 +15,7 @@ const FRANQUICIAS = [
    {codigo:'FR000013', nombre:'Star & Sky', pais:'TH', multimedia:{portada:''}, descripcion:'Franquicia tailandesa formada por Star in My Mind y Sky in Your Heart.', activo:true},
    {codigo:'FR000014', nombre:'A Breeze of Love', pais:'KR', multimedia:{portada:'FR000014.webp'}, descripcion:'Franquicia BL surcoreana formada por A Breeze of Love y su spin-off Always Meet Again.', activo:true},
     {codigo:'FR000015', nombre:'Unintentional Love Story', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Unintentional Love Story y su spin-off The Time of Fever.', activo:true},
+    {codigo:'FR000016', nombre:'First Page / Love Reset', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por First Page, precuela de Love Reset, y Love Reset.', activo:true},
+    {codigo:'FR000017', nombre:'Winter Fever', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Winter Fever, Private Lesson y Summer Fever, historias relacionadas dentro de la misma línea narrativa.', activo:true},
+    {codigo:'FR000018', nombre:'Backdoor', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Backdoor y su continuación Backdoor Part 2.', activo:true},
 ];
