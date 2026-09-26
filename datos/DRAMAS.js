@@ -10977,4 +10977,2695 @@ entidades:[
 especiales:[],
 activo:true
 },
+
+	/*****************************************/
+
+ /* ===============  LAUNDRY ROMANCE — DR000184   =================== */
+{
+codigo:'DR000184',
+titulo:'Laundry Romance',
+tituloOriginal:'런드리 로맨스',
+alias:[
+    'Laundry Romance',
+    'Reondeuri Romaenseu'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'UN000006',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-02-05',
+finalizacion:'2026-02-26',
+generos:[
+    'Romance',
+    'Drama',
+    'Slice of Life'
+],
+tags:[
+    'BL',
+    'Slow Burn',
+    'Sanación',
+    'Vida cotidiana',
+    'Lavandería',
+    'Adultos',
+    'Ansiedad',
+    'Desempleo',
+    'Reencuentro emocional'
+],
+personas:[
+    {nombre:'Han Jae Min',persona:'PR000706',funcion:['Actor'],principal:true},
+    {nombre:'Ji Seok',persona:'PR000707',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Jae Min','Ji Seok']}
+],
+sinopsis:'Jae Min, un hombre de treinta años desempleado y marcado por una ansiedad constante, encuentra refugio en una lavandería automática durante sus noches de insomnio. Allí conoce a Ji Seok, un hombre de treinta y cuatro años que decidió apartarse voluntariamente de las exigencias de la vida laboral. Entre conversaciones nocturnas, encuentros cotidianos y dos formas muy distintas de afrontar la vida, ambos comienzan a encontrar consuelo y una conexión inesperada. Una historia de romance pausado y sanación emocional ambientada entre el ruido de las lavadoras.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=HNT9KqhnmJc'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],especiales:[],
+activo:true
+},
+
+/* ===============  FIRST PAGE — DR000185   =================== */
+{
+codigo:'DR000185',
+titulo:'First Page',
+tituloOriginal:'퍼스트 페이지',
+alias:[
+    'First Page',
+    'Peoseuteu Peiji'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000016',orden:1},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2025-11-27',
+finalizacion:'2025-12-18',
+generos:[
+    'Romance',
+    'Drama',
+    'Juventud'
+],
+tags:[
+    'BL',
+    'Precuela',
+    'Primer amor',
+    'Primer encuentro',
+    'Universidad',
+    'Amigos a amantes',
+    'Romance juvenil',
+    'Reencuentro'
+],
+personas:[
+    {nombre:'Jae Hyeon',persona:'PR000705',funcion:['Actor'],principal:true},
+    {nombre:'U Jin',persona:'PR000708',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jae Hyeon','U Jin']}
+],
+sinopsis:'Antes de convertirse en la pareja de Love Reset, Jae Hyeon y U Jin tuvieron que descubrir qué significaba estar juntos. First Page regresa al comienzo de su historia para mostrar el primer encuentro entre ambos, cuando todavía eran estudiantes y apenas se conocían. Lo que comienza con incomodidad, dudas y pequeños roces va dando paso a una relación cada vez más cercana, marcada por sus primeras citas, sentimientos que empiezan a hacerse evidentes y las decisiones que sentarán las bases de su futuro juntos.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=jj3TTs3_ksk'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+]
+,especiales:[],
+activo:true
+},
+
+/* ===============  LOVE RESET — DR000186   =================== */
+{
+codigo:'DR000186',
+titulo:'Love Reset',
+tituloOriginal:'러브 리셋',
+alias:[
+    'Love Reset',
+    'Reobeu Riset'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000016',orden:2},
+universo:'UN000006',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2025-10-02',
+finalizacion:'2025-10-23',
+generos:[
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Pareja estable',
+    'Relación de larga duración',
+    'Crisis de pareja',
+    'Reencuentro',
+    'Amor adulto',
+    'Dudas sentimentales',
+    'Romance melancólico',
+    'Segunda oportunidad'
+],
+personas:[
+    {nombre:'Jae Hyeon',persona:'PR000705',funcion:['Actor'],principal:true},
+    {nombre:'U Jin',persona:'PR000708',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jae Hyeon','U Jin']}
+],
+sinopsis:'Después de siete años juntos, Jae Hyeon y U Jin descubren que una relación estable también puede quedar atrapada en la rutina. Lo que antes parecía una conexión sólida comienza a deteriorarse entre la distancia emocional, las dudas y los sentimientos que ambos han dejado sin expresar. Mientras Jae Hyeon se ha acostumbrado a dar por segura la presencia de U Jin, las inseguridades y el cansancio emocional de este último hacen que la pareja se pregunte si todavía puede recuperar aquello que los unió. Para ambos, amar de nuevo puede requerir volver al principio y aprender a mirarse como si fuera la primera vez.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=QWrDefFc1ko'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  WINTER FEVER — DR000190   =================== */
+{
+codigo:'DR000190',
+titulo:'Winter Fever',
+tituloOriginal:'윈터 피버',
+alias:[
+    'Winter Fever',
+    'Winteo Pibeo'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000017',orden:1},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'9 min',
+estado:'Finalizado',
+estreno:'2026-03-26',
+finalizacion:'2026-04-16',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Amigos a amantes',
+    'Amor de infancia',
+    'Relación de larga duración',
+    'Ruptura',
+    'Inseguridad',
+    'Celos',
+    'Obsesión',
+    'Relación tóxica',
+    'Triángulo amoroso',
+    'Angustia'
+],
+personas:[
+    {nombre:'Yu Jun',persona:'PR000709',funcion:['Actor'],principal:true},
+    {nombre:'Yeon Ho',persona:'PR000710',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yu Jun','Yeon Ho']}
+],
+sinopsis:'Después de quince años de amistad, Yu Jun y Yeon Ho han convertido su vínculo en una relación amorosa, pero la inseguridad comienza a ponerla en peligro. Yu Jun, convencido de que la devoción de Yeon Ho nace de la lástima y no del amor, decide romper pensando que estaría mejor sin él. Para Yeon Ho, el rechazo destruye el equilibrio de su vida y transforma su amor en una necesidad obsesiva de mantener a Yu Jun a su lado. Mientras ambos quedan atrapados entre la culpa, los celos y los sentimientos que todavía los unen, Hyeon Seo aprovecha la fragilidad de la situación para intervenir y manipular la ruptura.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=IzHgXG6yK70'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  PRIVATE LESSON — DR000192   =================== */
+{
+codigo:'DR000192',
+titulo:'Private Lesson',
+tituloOriginal:'프라이빗 레슨',
+alias:[
+    'Private Lesson',
+    'Peuraibaet Reseun'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000017',orden:2},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-05-07',
+finalizacion:'2026-05-28',
+generos:[
+    'Romance',
+    'Drama',
+    'Romance universitario'
+],
+tags:[
+    'BL',
+    'Amor secreto',
+    'Sentimientos ocultos',
+    'Reencuentro',
+    'Segunda oportunidad',
+    'Primer amor',
+    'Tutor y alumno',
+    'Deseo reprimido',
+    'Diferencia de poder',
+    'Romance adulto'
+],
+personas:[
+    {nombre:'Hyeon Seo',persona:'PR000711',funcion:['Actor'],principal:true},
+    {nombre:'Jae On',persona:'PR000712',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Hyeon Seo','Jae On']}
+],
+sinopsis:'Hyeon Seo trabaja como tutor privado y ha intentado mantener ocultos los sentimientos que conserva desde el pasado. Su vida cambia cuando vuelve a encontrarse con Jae On, su antiguo alumno, que conoce más de esos sentimientos de lo que Hyeon Seo quisiera admitir. El reencuentro despierta emociones que ambos habían intentado dejar atrás y los obliga a enfrentarse a una relación marcada por secretos, recuerdos y sentimientos reprimidos.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=P3UEPVLe7ZQ'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']},
+    {codigo:'EN000025', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BACKDOOR — DR000194   =================== */
+{
+codigo:'DR000194',
+titulo:'Backdoor',
+tituloOriginal:'백도어',
+alias:[
+    'Backdoor',
+    'Back Door',
+    'Baekdo-eo',
+    'Baekdoeo'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000018',orden:1},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-05-30',
+finalizacion:'2026-06-18',
+generos:[
+    'Romance',
+    'Drama',
+    'Misterio',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Romance de oficina',
+    'Enemies to Lovers',
+    'Jefe y empleado',
+    'Rivalidad laboral',
+    'Secretos',
+    'Identidad secreta',
+    'Salvador anónimo',
+    'Desconfianza',
+    'Jerarquía laboral',
+    'Poder y control'
+],
+personas:[
+    {nombre:'Kwon Do-yoon',persona:'PR000713',funcion:['Actor'],principal:true},
+    {nombre:'Seo Ji-hyeok',persona:'PR000714',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kwon Do-yoon','Seo Ji-hyeok']}
+],
+sinopsis:'Kwon Do-yoon es un jefe de equipo exigente y perfeccionista cuya carrera queda en peligro cuando se enfrenta a una inesperada crisis profesional. Cuando un desconocido anónimo interviene para ayudarlo, Do-yoon consigue salir adelante sin saber quién fue su salvador. Poco después descubre que se trata de Seo Ji-hyeok, el nuevo empleado privilegiado al que menos soporta. La revelación cambia por completo la relación entre ambos y convierte la desconfianza, la jerarquía laboral y los secretos en el punto de partida de una inesperada atracción.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=2HeTi3i5FOM'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000139', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SUMMER FEVER — DR000205   =================== */
+{
+codigo:'DR000205',
+titulo:'Summer Fever',
+tituloOriginal:'썸머 피버',
+alias:[
+    'Summer Fever',
+    'Seommeo Pibeo',
+    'Winter Fever Season 2'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000017',orden:3},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-08-04',
+finalizacion:'2026-08-25',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Segunda oportunidad',
+    'Amigos a amantes',
+    'Amor de infancia',
+    'Reconciliación',
+    'Sanación',
+    'Ruptura',
+    'Malentendidos',
+    'Relación de larga duración',
+    'Angustia',
+    'Reencuentro'
+],
+personas:[
+    {nombre:'Yu Jun',persona:'PR000709',funcion:['Actor'],principal:true},
+    {nombre:'Yeon Ho',persona:'PR000710',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yu Jun','Yeon Ho']}
+],
+sinopsis:'Después de quince años de amistad convertida en amor, Yu Jun y Yeon Ho llegan al verano tras haber atravesado una dolorosa ruptura. Las inseguridades, los celos y los malentendidos que los separaron todavía pesan sobre ellos, pero los sentimientos que compartían no han desaparecido. Ahora deberán enfrentarse a lo ocurrido, hablar de las heridas que quedaron abiertas y decidir si pueden perdonarse y reconstruir su relación sobre nuevas bases. Bajo el calor del verano, ambos tendrán que descubrir si su historia puede tener una segunda oportunidad.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=bKRAjlSQFHI'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BACKDOOR PART 2 — DR000210   =================== */
+{
+codigo:'DR000210',
+titulo:'Backdoor Part 2',
+tituloOriginal:'백도어 파트2',
+alias:[
+    'Backdoor Part 2',
+    'Baekdoeo Part 2'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:{codigo:'FR000018',orden:2},
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Próximo estreno',
+estreno:'2026-09-28',
+finalizacion:'',
+generos:[
+    'Romance',
+    'Drama',
+    'Misterio',
+    'Thriller'
+],
+tags:[
+    'BL',
+    'Romance de oficina',
+    'Enemies to Lovers',
+    'Jefe y empleado',
+    'Política corporativa',
+    'Corrupción empresarial',
+    'Secretos',
+    'Agenda oculta',
+    'Lucha de poder',
+    'Rumores',
+    'Acusación falsa'
+],
+personas:[
+    {nombre:'Kwon Do-yoon',persona:'PR000713',funcion:['Actor'],principal:true},
+    {nombre:'Seo Ji-hyeok',persona:'PR000714',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kwon Do-yoon','Seo Ji-hyeok']}
+],
+sinopsis:'Tras descubrir que Seo Ji-hyeok era el desconocido que lo ayudó durante su crisis profesional, Kwon Do-yoon debe enfrentarse a una relación cada vez más difícil de definir. La desconfianza y la atracción conviven mientras los secretos que rodean a Ji-hyeok comienzan a adquirir una importancia mayor dentro de la empresa. Con nuevas tensiones, rumores y luchas de poder en el entorno laboral, ambos tendrán que decidir hasta dónde están dispuestos a llegar para proteger sus propios intereses y qué precio están dispuestos a pagar por confiar el uno en el otro.'
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=WJDGttg5u10'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000139', funcion:['Productora']},
+    {codigo:'EN000023', funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================   CONNECT — DR000179   ========================================== */
+{
+codigo:'DR000179',
+titulo:'Connect',
+tituloOriginal:'커넥트',
+alias:[
+    'Connect',
+    'Keonekteu'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000179',
+temporadas:2,
+temporada:1,
+episodios:4,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2025-08-14',
+finalizacion:'2025-09-04',
+generos:[
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Romance contemporáneo',
+    'Amigos en línea',
+    'Amigos a amantes',
+    'Internet',
+    'Relación virtual',
+    'Anonimato',
+    'Primer encuentro',
+    'Sanación',
+    'Apoyo emocional',
+    'Vida cotidiana'
+],
+personas:[
+    {nombre:'Ian',persona:'PR000715',funcion:['Actor'],principal:true},
+    {nombre:'Alt',persona:'PR000716',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ian','Alt']}
+],
+sinopsis:'Ian atraviesa una etapa difícil de su vida y encuentra consuelo en Alt, una persona a la que conoce únicamente a través de Internet. Con el paso del tiempo, sus conversaciones se convierten en una fuente de apoyo cada vez más importante y los sentimientos de Ian comienzan a ir más allá de la amistad. Incapaz de conformarse con una relación limitada a una pantalla, Ian decide proponerle a Alt un encuentro en el mundo real, enfrentándose al miedo de que conocerse cara a cara pueda cambiar aquello que han construido juntos.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/63KQxu9BNCkkK8Aj2o9BTSHMv9p.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=RZjyIU1UAa4'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ==========================================
+   CROSS LINK — DR000180
+   ========================================== */
+{
+codigo:'DR000180',
+titulo:'Cross Link',
+tituloOriginal:'크로스 링크',
+alias:[
+    'Cross Link',
+    'Keuroseu Ringkeu'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000179',
+temporadas:2,
+temporada:2,
+episodios:2,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2026-01-08',
+finalizacion:'2026-01-15',
+generos:[
+    'Romance',
+    'Drama',
+    'Thriller'
+],
+tags:[
+    'BL',
+    'Pareja estable',
+    'Primera aniversario',
+    'Relación a distancia',
+    'Trabajo en el extranjero',
+    'Crisis de pareja',
+    'Accidente',
+    'Suspense',
+    'Protección mutua',
+    'Angustia',
+    'Amor adulto'
+],
+personas:[
+    {nombre:'Ian',persona:'PR000715',funcion:['Actor'],principal:true},
+    {nombre:'Alt',persona:'PR000716',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ian','Alt']}
+],
+sinopsis:'Ian y Alt están a punto de celebrar su primer aniversario como pareja cuando Ian recibe una oferta de trabajo en el extranjero que podría separarlos. Mientras intenta decidir cómo afrontar la situación, un acontecimiento inesperado altera por completo sus planes y pone a prueba tanto su relación como su seguridad. Ante una situación que exige tomar decisiones rápidas, ambos deberán apoyarse mutuamente mientras intentan proteger el futuro que habían comenzado a construir juntos.',
+multimedia:{
+    portada:[
+        'https://image.tmdb.org/t/p/original/gh7BKBpkw1ZXWj3zHzysA5BUO9x.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   TIDE OF LOVE — DR000182
+   ========================================== */
+{
+codigo:'DR000182',
+titulo:'Tide of Love',
+tituloOriginal:'타이드 오브 러브',
+alias:[
+    'Tide of Love',
+    'Taideu Obeu Reobeu'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000182',
+temporadas:2,
+temporada:1,
+episodios:10,
+duracion:'11 min',
+estado:'Finalizado',
+estreno:'2025-11-15',
+finalizacion:'2026-02-11',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Relación contractual',
+    'Convivencia',
+    'Proximidad forzada',
+    'Chaebol',
+    'Artista',
+    'Diferencia económica',
+    'Sanación',
+    'Dolor emocional',
+    'Slow Burn',
+    'De enemigos a amantes'
+],
+personas:[
+    {nombre:'Kim Hae Jun',persona:'PR000717',funcion:['Actor'],principal:true},
+    {nombre:'Han Jae Hun',persona:'PR000718',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kim Hae Jun','Han Jae Hun']}
+],
+sinopsis:'Han Jae Hun es el heredero de una poderosa familia empresarial y está acostumbrado a mantener sus emociones bajo control. Kim Hae Jun, en cambio, es un estudiante de arte que lucha por salir adelante mientras carga con problemas económicos. Sus caminos se cruzan cuando ambos aceptan una relación basada en un acuerdo contractual que los obliga a convivir y establecer unas reglas claras. Sin embargo, la cercanía cotidiana comienza a romper las barreras que habían levantado y aquello que empezó como una transacción termina convirtiéndose en sentimientos reales.',
+multimedia:{
+    portada:[
+        'https://world-of-bl.com/uploads/TideOfLove/TideOfLove-Logo.jpg'
+    ],
+    trailer:[
+        'https://www.youtube.com/watch?v=YxScwo3cXZY'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000140',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']},
+    {codigo:'EN000141',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   TIDE OF LOVE 2 — DR000183
+   ========================================== */
+{
+codigo:'DR000183',
+titulo:'Tide of Love 2',
+tituloOriginal:'타이드 오브 러브 시즌2',
+alias:[
+    'Tide of Love 2',
+    'Tide of Love Season 2',
+    'Tide of Love S2',
+    'Taideu Obeu Reobeu 2'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000182',
+temporadas:2,
+temporada:2,
+episodios:8,
+duracion:'30 min',
+estado:'Finalizado',
+estreno:'2026-02-04',
+finalizacion:'2026-03-25',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama',
+    'Thriller psicológico'
+],
+tags:[
+    'BL',
+    'Pareja estable',
+    'Primera Navidad',
+    'Primera Nochevieja',
+    'Secretos del pasado',
+    'Triángulo amoroso',
+    'Celos',
+    'Manipulación',
+    'Amigo tóxico',
+    'Relación consolidada',
+    'Angustia',
+    'Confianza'
+],
+personas:[
+    {nombre:'Kim Hae Jun',persona:'PR000717',funcion:['Actor'],principal:true},
+    {nombre:'Han Jae Hun',persona:'PR000718',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kim Hae Jun','Han Jae Hun']}
+],
+sinopsis:'Ahora que Han Jae Hun y Kim Hae Jun han dejado atrás las reglas de su relación contractual, ambos afrontan su primera Navidad y su primera Nochevieja como pareja. Jae Hun lleva a Hae Jun a una villa privada para celebrar juntos estas fechas, pero la llegada de Kang Su Hyeok, un antiguo amigo, convierte la escapada romántica en una situación cada vez más inquietante. Su Hyeok comienza a revelar secretos del pasado de Jae Hun y a sembrar dudas entre los dos, poniendo a prueba la confianza que han construido y obligándolos a decidir hasta dónde están dispuestos a luchar por su relación.',
+multimedia:{
+    portada:[
+        'https://boyslovefrance.wordpress.com/wp-content/uploads/2026/02/tideoflove2_poster.jpg'
+    ],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=qPicFT4Jmfs',
+        'https://www.youtube.com/watch?v=EbpxijQq9G0',
+        'https://www.youtube.com/watch?v=an3gZ5ctfi0'
+    ]
+},
+entidades:[
+    {codigo:'EN000140',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   BUDDY BOY — DR000202
+   ========================================== */
+{
+codigo:'DR000202',
+titulo:'Buddy Boy',
+tituloOriginal:'버디보이',
+alias:[
+    'Buddy Boy',
+    'Beodi Boi'
+],
+tipo:'Drama',
+anio:2024,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000202',
+temporadas:2,
+temporada:1,
+episodios:45,
+duracion:'2 min',
+estado:'Finalizado',
+estreno:'2024-10-22',
+finalizacion:'2024-10-22',
+generos:[
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Romance juvenil',
+    'Chico de ciudad',
+    'Vida rural',
+    'Amigos a amantes',
+    'Primer amor',
+    'Atracción intensa',
+    'Obsesión',
+    'Relación complicada',
+    'Triángulo amoroso',
+    'Familia',
+    'Adolescencia'
+],
+personas:[
+    {nombre:'Yu Ho',persona:'PR000719',funcion:['Actor'],principal:true},
+    {nombre:'Jin Gu',persona:'PR000720',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yu Ho','Jin Gu']}
+],
+sinopsis:'Yu Ho, un joven procedente de la ciudad, se traslada al campo junto a su padre después de que su familia atraviese una difícil situación. Allí conoce a Jin Gu, un chico de su misma edad con una personalidad muy diferente a la suya. Desde el primer encuentro, Yu Ho siente una atracción intensa e inesperada que poco a poco comienza a transformar su relación. Mientras ambos intentan comprender lo que sienten, la cercanía de Rina y los problemas familiares de Yu Ho complican todavía más una relación que oscila entre la amistad, el deseo y la obsesión.',
+multimedia:{
+    portada:[
+        'https://prcdn.freetls.fastly.net/release_image/155551/10/155551-10-37675f3b01ea0be081370824e007a7ad-400x560.png?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400'
+    ],
+    trailer:[
+        'https://www.youtube.com/shorts/tX65BpAfeFA'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000141',funcion:['Plataforma']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   BUDDY BOY: AFTER — DR000203
+   ========================================== */
+{
+codigo:'DR000203',
+titulo:'Buddy Boy: After',
+tituloOriginal:'버디보이 애프터',
+alias:[
+    'Buddy Boy: After',
+    'Buddy Boy Season 2',
+    'Buddy Boy 2',
+    'Beodi Boi Aeteo'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000202',
+temporadas:2,
+temporada:2,
+episodios:77,
+duracion:'2 min',
+estado:'Finalizado',
+estreno:'2026-07-03',
+finalizacion:'2026-07-03',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Segunda oportunidad',
+    'Reencuentro',
+    'Ruptura',
+    'Dos años después',
+    'Primer amor',
+    'Relación pasada',
+    'Dolor emocional',
+    'Reconciliación',
+    'Vida adulta',
+    'Sanación'
+],
+personas:[
+    {nombre:'Yu Ho',persona:'PR000719',funcion:['Actor'],principal:true},
+    {nombre:'Jin Gu',persona:'PR000720',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yu Ho','Jin Gu']}
+],
+sinopsis:'Después de su ruptura, Yu Ho y Jin Gu intentan continuar con sus vidas por separado mientras afrontan el dolor de haber perdido su relación. Dos años después, cuando ambos empiezan a recuperar cierta estabilidad, el destino vuelve a cruzar sus caminos. El reencuentro despierta sentimientos que nunca llegaron a desaparecer y obliga a los dos a enfrentarse a aquello que quedó pendiente entre ellos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=S5CKFhtRRQQ'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000141',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   CHECKERED SHIRT — DR000213
+   ========================================== */
+{
+codigo:'DR000213',
+titulo:'Checkered Shirt',
+tituloOriginal:'체크 남방을 입은 사내',
+alias:[
+    'Checkered Shirt',
+    'The Man in the Checkered Shirt',
+    'Chekeu Nambangeul Ibeun Sanae'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000213',
+temporadas:2,
+temporada:1,
+episodios:8,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2025-01-30',
+finalizacion:'2025-03-28',
+generos:[
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Romance juvenil',
+    'Universidad',
+    'Primera relación',
+    'Aplicación de segunda mano',
+    'Destino',
+    'Fotografía',
+    'Secreto',
+    'Enamoramiento',
+    'Reencuentro emocional',
+    'Militar',
+    'Slow Burn'
+],
+personas:[
+    {nombre:'Jeong Woo',persona:'PR000670',funcion:['Actor'],principal:true},
+    {nombre:'Han Gyeol',persona:'PR000595',funcion:['Actor'],principal:true},
+    {nombre:'Young Hoon',persona:'PR000721',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Jeong Woo','Han Gyeol']}
+],
+sinopsis:'Jeong Woo es un estudiante universitario con poca experiencia sentimental que compra una camisa de cuadros de segunda mano antes de comenzar su servicio militar. Al revisar la prenda descubre una fotografía que pertenece a Han Gyeol, el antiguo propietario de la camisa, y decide devolvérsela. El encuentro entre ambos despierta una conexión inesperada y lleva a Jeong Woo a descubrir una historia que se encontraba escondida en aquella fotografía. Mientras la curiosidad se transforma en sentimientos, ambos comienzan a acercarse justo cuando el futuro amenaza con separarlos.',
+multimedia:{
+    portada:[
+        'https://boyslovefrance.wordpress.com/wp-content/uploads/2025/01/checkeredshirt_poster01.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=FRpqTJbjUgw'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000139',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ==========================================
+   CHECKERED SHIRT 2 — DR000214
+   ========================================== */
+{
+codigo:'DR000214',
+titulo:'Checkered Shirt 2',
+tituloOriginal:'체크남방을 입은 사나이 시즌2',
+alias:[
+    'Checkered Shirt 2',
+    'The Man in the Checkered Shirt 2',
+    'Checkered Shirt Season 2',
+    'Chekeunambangeul Ibeun Sanae Season 2'
+],
+tipo:'Drama',
+anio:2025,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'SR000213',
+temporadas:2,
+temporada:2,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2025-12-05',
+finalizacion:'2026-01-20',
+generos:[
+    'Romance',
+    'Drama',
+    'Melodrama'
+],
+tags:[
+    'BL',
+    'Reencuentro',
+    'Segunda oportunidad',
+    'Cinco años después',
+    'Servicio militar',
+    'Ruptura',
+    'Malentendidos',
+    'Exnovio tóxico',
+    'Celos',
+    'Secretos',
+    'Confianza',
+    'Sanación'
+],
+personas:[
+    {nombre:'Jeong Woo',persona:'PR000670',funcion:['Actor'],principal:true},
+    {nombre:'Han Gyeol',persona:'PR000595',funcion:['Actor'],principal:true},
+    {nombre:'Young Hoon',persona:'PR000721',funcion:['Actor'],principal:false}
+],
+ships:[
+    {personajes:['Jeong Woo','Han Gyeol']}
+],
+sinopsis:'La relación de Jeong Woo y Han Gyeol parecía haber encontrado su equilibrio, pero la inminente partida de Jeong Woo para cumplir el servicio militar cambia sus planes. Un conflicto relacionado con el pasado de Han Gyeol termina provocando una separación dolorosa y deja sentimientos sin resolver entre ambos. Cinco años después, vuelven a encontrarse en un entorno laboral, donde las heridas del pasado siguen presentes. Mientras intentan trabajar juntos y ocultar lo que todavía sienten, tendrán que enfrentarse a los malentendidos y a las personas que contribuyeron a separarlos.',
+multimedia:{
+    portada:[
+        'https://world-of-bl.com/uploads/CheckeredShirt/CheckeredShirt2-Logo.jpg'
+    ],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=GegWff3m7Zo'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000139',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  FAN SERVICE — DR000176  =================== */
+{
+codigo:'DR000176',
+titulo:'Fan Service',
+tituloOriginal:'팬서비스',
+alias:[
+    'Fan Service',
+    'Fanservice',
+    'Paen Seobiseu',
+    'Paenseobiseu'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-01-07',
+finalizacion:'2026-02-25',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Celebridad',
+    'Estudiante universitario',
+    'Fan obsesivo',
+    'Sasaeng',
+    'Entrevista',
+    'Vida pública y privada',
+    'Rumores',
+    'Escándalo',
+    'Reencuentro'
+],
+personas:[
+    {nombre:'Geon U',persona:'PR000722',funcion:['Actor'],principal:true},
+    {nombre:'Jae Yeon',persona:'PR000723',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Geon U','Jae Yeon']}
+],
+sinopsis:'Geon U es una estrella de la Hallyu cuya vida privada está constantemente invadida por fans obsesivos. Tras escapar temporalmente de la presión de la industria, se cruza con Jae Yeon, un estudiante universitario al que inicialmente confunde con un acosador. Lo que comienza como un malentendido termina convirtiéndose en una relación que obliga a ambos a distinguir entre la intimidad real y la imagen que los demás esperan de ellos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000142',funcion:['Productora']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  OPPOSITES ATTRACT — DR000177  =================== */
+{
+codigo:'DR000177',
+titulo:'Opposites Attract',
+tituloOriginal:'반대에 끌리는 이유',
+alias:[
+    'Opposites Attract',
+    'The Reason Opposites Attract',
+    'Bandaee Kkeulineun Iyu'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-01-09',
+finalizacion:'2026-02-20',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Bar gay',
+    'Profesor y estudiante',
+    'Diferencia de edad',
+    'Apuesta',
+    'Sedución',
+    'Atracción',
+    'Amor secreto'
+],
+personas:[
+    {nombre:'Lee Howon',persona:'PR000724',funcion:['Actor'],principal:true},
+    {nombre:'Kim Minu',persona:'PR000725',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Howon','Kim Minu']}
+],
+sinopsis:'Howon, un estudiante universitario acostumbrado a conseguir siempre lo que quiere, acepta el reto de conquistar a Minu, un hombre misterioso que parece rechazar cualquier acercamiento. Lo que empieza como una apuesta en un bar gay se transforma poco a poco en una atracción difícil de controlar, obligándolos a enfrentarse a las diferencias que inicialmente parecían separarlos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000143',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  LOVE IN PROTOCOL — DR000178  =================== */
+{
+codigo:'DR000178',
+titulo:'Love in Protocol',
+tituloOriginal:'러브 인 프로토콜',
+alias:[
+    'Love in Protocol',
+    'Lovein Protocol',
+    'Reobeu in Peurotokol'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-01-17',
+finalizacion:'2026-02-07',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Laboratorio',
+    'Universidad',
+    'Tutor y alumno',
+    'Reencuentro',
+    'Antiguos conocidos',
+    'Ciencia',
+    'Interno',
+    'Sentimientos reprimidos'
+],
+personas:[
+    {nombre:'Min Jeong Yeon',persona:'PR000726',funcion:['Actor'],principal:true},
+    {nombre:'Ha Yu Geon',persona:'PR000727',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Min Jeong Yeon','Ha Yu Geon']}
+],
+sinopsis:'Jeong Yeon se incorpora como becario al laboratorio de investigación dirigido por Yu Geon, quien años atrás fue su tutor privado. El reencuentro resulta mucho más frío de lo esperado y la distancia profesional entre ambos se convierte poco a poco en una barrera difícil de mantener. Mientras trabajan juntos en un experimento relacionado con las emociones, los sentimientos que intentaban mantener bajo control comienzan a salir a la superficie.',
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=a_LvRotufBU'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000144',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SAINT LAURENCE ACADEMY — DR000181  =================== */
+{
+codigo:'DR000181',
+titulo:'Saint Laurence Academy',
+tituloOriginal:'',
+alias:[
+    'Saint Laurence Academy',
+    'CITYBOY_IF: SLA'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'11 min',
+estado:'Finalizado',
+estreno:'2026-01-20',
+finalizacion:'2026-02-10',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Internado',
+    'Relación secreta',
+    'Enfermero escolar',
+    'Tabú',
+    'Diferencia de edad',
+    'Abuso',
+    'Bullying',
+    'Familia adinerada',
+    'Cámara oculta'
+],
+personas:[
+    {nombre:'Yumin',persona:'PR000726',funcion:['Actor'],principal:true},
+    {nombre:'Lee Hyun',persona:'PR000728',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yumin','Lee Hyun']}
+],
+sinopsis:'Yumin es uno de los alumnos más destacados de Saint Laurence Academy, un internado de élite sometido a estrictas normas de conducta. Mientras intenta mantener una imagen perfecta ante profesores y compañeros, mantiene en secreto una relación con Lee Hyun, el enfermero de la escuela. La diferencia de edad, la posición de autoridad y la violencia que aparece dentro de la relación convierten su romance en un secreto cada vez más peligroso.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000145',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BETWEEN DOORS — DR000187  =================== */
+{
+codigo:'DR000187',
+titulo:'Between Doors',
+tituloOriginal:'몰아보기 통합본',
+alias:[
+    'Between Doors'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'6 min',
+estado:'Finalizado',
+estreno:'2026-01-13',
+finalizacion:'2026-02-17',
+generos:[
+    'BL',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Vecinos',
+    'Error de puerta',
+    'Beso accidental',
+    'Alcohol',
+    'Primer encuentro',
+    'Convivencia',
+    'Atracción inesperada'
+],
+personas:[
+    {nombre:'Yun Jae',persona:'PR000729',funcion:['Actor'],principal:true},
+    {nombre:'Do Hyeon',persona:'PR000730',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yun Jae','Do Hyeon']}
+],
+sinopsis:'Después de una noche de alcohol, Yun Jae se equivoca de puerta y entra accidentalmente en el apartamento de Do Hyeon, un completo desconocido. La situación ya resulta embarazosa, pero un beso accidental transforma aquel encuentro en algo imposible de olvidar. Cuando ambos vuelven a encontrarse como vecinos, la incomodidad inicial comienza a dar paso a una atracción inesperada.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000146',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SWEET BLOOD — DR000188  =================== */
+{
+codigo:'DR000188',
+titulo:'Sweet Blood',
+tituloOriginal:'스윗 블러드',
+alias:[
+    'Sweet Blood',
+    'Seuwit Beulleodeu'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-03-11',
+finalizacion:'2026-03-30',
+generos:[
+    'BL',
+    'Romance',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Vampiros',
+    'Sobrenatural',
+    'Luna azul',
+    'Príncipe vampiro',
+    'Humano',
+    'Enfermedad',
+    'Vínculo de sangre',
+    'Destino',
+    'Cohabitación'
+],
+personas:[
+    {nombre:'Min U',persona:'PR000726',funcion:['Actor'],principal:true},
+    {nombre:'Lucifer',persona:'PR000731',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Min U','Lucifer']}
+],
+sinopsis:'Durante un eclipse de luna azul se abre temporalmente el portal que conecta el mundo humano con el de los vampiros. Lucifer, un príncipe vampiro obsesionado con probar sangre humana, aprovecha la oportunidad para escapar. Al mismo tiempo, Min U, un joven universitario que acaba de trasladarse a la ciudad, se ve involucrado en un extraño accidente que crea un vínculo entre ambos y los obliga a permanecer cerca.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000143',funcion:['Productora']},
+    {codigo:'EN000110',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ===============  NEVER FORGET YOUR ENEMY — DR000189  =================== */
+{
+codigo:'DR000189',
+titulo:'Never Forget Your Enemy',
+tituloOriginal:'네 원수를 잊지 마라',
+alias:[
+    'Never Forget Your Enemy',
+    'Ne Wonsureul Itji Mara',
+    'ยังไง..ก็ใช่นาย',
+    'Yang Ngai.. Ko Chai Nai'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'32 min',
+estado:'Finalizado',
+estreno:'2026-03-17',
+finalizacion:'2026-04-08',
+generos:[
+    'BL',
+    'Romance',
+    'Drama',
+    'Misterio'
+],
+tags:[
+    'BL',
+    'Enemigos a amantes',
+    'Rivales de infancia',
+    'Amnesia',
+    'Pérdida de memoria',
+    'Accidente',
+    'Hospital',
+    'Reencuentro',
+    'Secretos',
+    'Slow Burn'
+],
+personas:[
+    {nombre:'Ki Ha Neul',persona:'PR000732',funcion:['Actor'],principal:true},
+    {nombre:'Yeo Sae Byeok',persona:'PR000733',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ki Ha Neul','Yeo Sae Byeok']}
+],
+sinopsis:'Ki Ha Neul sufre un accidente y despierta sin recuerdos de los últimos diez años. Lo más desconcertante no es solo la pérdida de memoria, sino descubrir que Yeo Sae Byeok, su antiguo rival escolar, ahora asegura ser su pareja. Mientras intenta reconstruir una década de recuerdos desaparecidos, Ha Neul debe descubrir qué ocurrió entre ambos y si los sentimientos que Sae Byeok afirma que existen siguen siendo reales.',
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://youtu.be/LCKVStF6qb4'
+    ],
+    teaser:[
+        'https://youtu.be/nsLrW4Y5EI0'
+    ],
+    pilot:[],
+    ost:[
+        'https://youtu.be/mI3d7aF7NOM'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000147',funcion:['Productora']},
+    {codigo:'EN000148',funcion:['Productora']},
+    {codigo:'EN000029',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  WUJU BAKERY — DR000191  =================== */
+{
+codigo:'DR000191',
+titulo:'Wuju Bakery',
+tituloOriginal:'우주빵집',
+alias:[
+    'Wuju Bakery',
+    'Wooju Bakery',
+    'Space Bakery',
+    'Uju Bakery',
+    'Uju Ppangjip'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2026-04-10',
+finalizacion:'2026-05-29',
+generos:[
+    'BL',
+    'Romance',
+    'Ciencia ficción',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Panadería',
+    'Extraterrestre',
+    'Príncipe alienígena',
+    'Cohabitación',
+    'Misterio',
+    'Vida cotidiana',
+    'Identidad secreta',
+    'Romance fantástico'
+],
+personas:[
+    {nombre:'Wooju',persona:'PR000734',funcion:['Actor'],principal:true},
+    {nombre:'Raon',persona:'PR000735',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Wooju','Raon']}
+],
+sinopsis:'La tranquila vida de Wooju, propietario de una pequeña panadería, cambia por completo cuando un misterioso príncipe extraterrestre aparece en su establecimiento. Obligados a convivir mientras intentan comprender el origen de Raon y mantener su existencia en secreto, ambos empiezan a desarrollar una relación que mezcla situaciones cotidianas, misterio y sentimientos inesperados.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000072',funcion:['Productora']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  CHECK IN TO YOU — DR000193  =================== */
+{
+codigo:'DR000193',
+titulo:'Check in to You',
+tituloOriginal:'너에게 체크인',
+alias:[
+    'Check In to You',
+    'Check Into You',
+    'Checking in on You',
+    'Neoege Chekeuin'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'12 min',
+estado:'Finalizado',
+estreno:'2026-05-21',
+finalizacion:'2026-06-18',
+generos:[
+    'BL',
+    'Romance',
+    'Comedia'
+],
+tags:[
+    'BL',
+    'Intercambio de cuerpos',
+    'Casa de huéspedes',
+    'Empresario',
+    'Gerente',
+    'Personalidades opuestas',
+    'Cohabitación',
+    'Identidad',
+    'Destino'
+],
+personas:[
+    {nombre:'Cha Do-gyeong',persona:'PR000736',funcion:['Actor'],principal:true},
+    {nombre:'Yoon Ji-oh',persona:'PR000737',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Cha Do-gyeong','Yoon Ji-oh']}
+],
+sinopsis:'Cha Do-gyeong es un empresario frío y perfeccionista acostumbrado a resolverlo todo con lógica y eficiencia. Yoon Ji-oh, en cambio, dirige una casa de huéspedes con una personalidad cálida y una visión mucho más romántica de la vida. Un inesperado intercambio de cuerpos obliga a ambos a vivir literalmente en la vida del otro y termina acercándolos mucho más de lo que ninguno había previsto.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000086',funcion:['Productora']},
+    {codigo:'EN000149',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  THE LIE WE LIVED IN — DR000195  =================== */
+{
+codigo:'DR000195',
+titulo:'The Lie We Lived In',
+tituloOriginal:'거짓말이 사는 집',
+alias:[
+    'The Lie We Lived In',
+    'Killing House',
+    'Geojitmal-i Saneun Jib'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'22 min',
+estado:'Finalizado',
+estreno:'2026-06-05',
+finalizacion:'2026-06-26',
+generos:[
+    'BL',
+    'Romance',
+    'Thriller',
+    'Misterio'
+],
+tags:[
+    'BL',
+    'Asesino a sueldo',
+    'Detective',
+    'Crimen',
+    'Identidad falsa',
+    'Secuestro',
+    'Cohabitación forzada',
+    'Mentiras',
+    'Suspense',
+    'Atracción peligrosa',
+    'Enemies to Lovers'
+],
+personas:[
+    {nombre:'Seo Yi-do',persona:'PR000738',funcion:['Actor'],principal:true},
+    {nombre:'Chu Tae-jeong',persona:'PR000739',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Seo Yi-do','Chu Tae-jeong']}
+],
+sinopsis:'Seo Yi-do llega a una casa aislada con la misión de eliminar a un objetivo, pero recibe la orden inesperada de mantenerlo con vida. La situación se complica cuando Chu Tae-jeong, un detective que debía pasar unos días en la casa, aparece sin conocer la verdadera identidad de Yi-do. Mientras ambos quedan atrapados bajo el mismo techo, una mentira construida para ocultar un crimen comienza a transformarse en una atracción que amenaza con descubrirlo todo.',
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=l-hHjoCqPDw'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000150',funcion:['Productora']},
+    {codigo:'EN000151',funcion:['Productora']},
+    {codigo:'EN000152',funcion:['Productora']},
+    {codigo:'EN000091',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  FIX THE ERROR! — DR000196  =================== */
+{
+codigo:'DR000196',
+titulo:'Fix the Error!',
+tituloOriginal:'오류를 고쳐줘!',
+alias:[
+    'Fix the Error!',
+    'Oryureul Gochyeojwo!'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-06-12',
+finalizacion:'2026-06-26',
+generos:[
+    'BL',
+    'Romance',
+    'Fantasía'
+],
+tags:[
+    'BL',
+    'Segador de almas',
+    'Sobrenatural',
+    'Mundo humano',
+    'Inframundo',
+    'Error',
+    'Destino',
+    'Romance prohibido',
+    'Universidad'
+],
+personas:[
+    {nombre:'Jihan',persona:'PR000740',funcion:['Actor'],principal:true},
+    {nombre:'Hyunjun',persona:'PR000606',funcion:['Actor'],principal:true}
+],
+ships:[],
+sinopsis:'Jihan es un joven segador de almas que ha fracasado ocho veces en el examen para obtener su puesto definitivo. En su primera misión en el mundo humano, un error en el registro de muertes provoca que dos nombres aparezcan simultáneamente. Mientras intenta reparar el fallo, Jihan se acerca a Hyunjun y comienza a desarrollar sentimientos por él, desafiando una de las reglas fundamentales de su mundo.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000142',funcion:['Productora']},
+    {codigo:'EN000025',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  THE TABLE — DR000197  =================== */
+{
+codigo:'DR000197',
+titulo:'The Table',
+tituloOriginal:'더 테이블',
+alias:[
+    'The Table',
+    'Deo Teibeul'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2026-06-25',
+finalizacion:'2026-07-16',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Amigos',
+    'Amor no confesado',
+    'Amor unilateral',
+    'Confesión',
+    'Alcohol',
+    'Sentimientos reprimidos',
+    'Reencuentro'
+],
+personas:[
+    {nombre:'Kim Siwoo',persona:'PR000741',funcion:['Actor'],principal:true},
+    {nombre:'Lee Seongjae',persona:'PR000742',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kim Siwoo','Lee Seongjae']}
+],
+sinopsis:'Kim Siwoo lleva mucho tiempo junto a Lee Seongjae, cuidándolo cuando bebe y permaneciendo a su lado incluso cuando esa cercanía empieza a doler. Para Seongjae, Siwoo sigue siendo alguien cuya presencia está garantizada por la amistad. Sentados frente a frente alrededor de una mesa, ambos tendrán que enfrentarse a unos sentimientos que durante demasiado tiempo han permanecido sin decirse.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000138',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  THE PROSECUTOR'S PROPOSAL — DR000198  =================== */
+{
+codigo:'DR000198',
+titulo:"The Prosecutor's Proposal",
+tituloOriginal:'검사실의 제안',
+alias:[
+    "The Prosecutor's Proposal",
+    'The Prosecutor’s Office Proposal',
+    'Geomsasil-ui Jean',
+    'Geomsasilui Jean'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2026-06-25',
+finalizacion:'2026-07-23',
+generos:[
+    'BL',
+    'Romance',
+    'Thriller',
+    'Misterio'
+],
+tags:[
+    'BL',
+    'Fiscalía',
+    'Fiscal',
+    'Investigador',
+    'Crimen',
+    'Corrupción',
+    'Asesinato',
+    'Casino',
+    'Reencuentro',
+    'Trauma',
+    'Enemies to Lovers',
+    'Investigación'
+],
+personas:[
+    {nombre:'Joo Tae-seon',persona:'PR000743',funcion:['Actor'],principal:true},
+    {nombre:'Lee Chae-ha',persona:'PR000744',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Joo Tae-seon','Lee Chae-ha']}
+],
+sinopsis:'Quince años después de un asesinato que destruyó sus respectivas familias, Joo Tae-seon se ha convertido en fiscal y Lee Chae-ha comienza una nueva etapa como investigador de la fiscalía. El reencuentro despierta recuerdos y resentimientos relacionados con aquel caso, pero ambos terminan trabajando juntos para descubrir una red de corrupción que conecta al mundo empresarial con la propia fiscalía. Mientras la investigación avanza, la desconfianza inicial da paso a sentimientos que ninguno puede ignorar.',
+multimedia:{
+    portada:[],
+    trailer:[
+        'https://www.youtube.com/watch?v=xapCq6U68Uw'
+    ],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000153',funcion:['Productora']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']},
+    {codigo:'EN000091',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SIN AND LOVE — DR000199  =================== */
+{
+codigo:'DR000199',
+titulo:'Sin and Love',
+tituloOriginal:'죄와 사랑',
+alias:[
+    'Sin and Love',
+    'Sin & Love',
+    'Jwaewa Sarang'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'24 min',
+estado:'Finalizado',
+estreno:'2026-07-08',
+finalizacion:'2026-08-06',
+generos:[
+    'BL',
+    'Romance',
+    'Crimen',
+    'Thriller'
+],
+tags:[
+    'BL',
+    'Policía',
+    'Crimen organizado',
+    'Narcotráfico',
+    'Agentes encubiertos',
+    'Corrupción',
+    'Secuestro',
+    'Reencuentro',
+    'Amor pasado',
+    'Enemies to Lovers',
+    'Relación tóxica',
+    'Manipulación'
+],
+personas:[
+    {nombre:'Ryu Se-hyun',persona:'PR000718',funcion:['Actor'],principal:true},
+    {nombre:'Seong Ho',persona:'PR000692',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ryu Se-hyun','Seong Ho']}
+],
+sinopsis:'Una red de policías, narcotraficantes y agentes encubiertos comienza a desmoronarse cuando un misterioso secuestro destapa una cadena de corrupción. Diez años atrás quedó enterrada una relación que nunca llegó a desaparecer por completo. Ahora, mientras las identidades se confunden y el poder utiliza el deseo como herramienta de manipulación, Ryu Se-hyun y Seong Ho vuelven a quedar atrapados en un pasado que amenaza con destruirlos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'BTS 1',
+        'BTS 2',
+        'BTS 3',
+        'BTS 4'
+    ]
+},
+entidades:[
+    {codigo:'EN000140',funcion:['Productora']},
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000110',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  LOVE HURTS — DR000200  =================== */
+{
+codigo:'DR000200',
+titulo:'Love Hurts',
+tituloOriginal:'첫사랑니',
+alias:[
+    'Love Hurts',
+    'First Love Tooth',
+    'First Wisdom Tooth',
+    'Cheotsarangni'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'10 min',
+estado:'Finalizado',
+estreno:'2026-07-08',
+finalizacion:'2026-08-28',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Primer amor',
+    'Reencuentro',
+    'Ruptura',
+    'Ghosting',
+    'Compañeros de clase',
+    'Sentimientos no resueltos',
+    'Confesión',
+    'Dolor emocional'
+],
+personas:[
+    {nombre:'Lee Jaewon',persona:'PR000716',funcion:['Actor'],principal:true},
+    {nombre:'Kim Dojin',persona:'PR000745',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Lee Jaewon','Kim Dojin']}
+],
+sinopsis:'Lee Jaewon y Kim Dojin fueron muy cercanos hasta que Jaewon desapareció de la vida de Dojin sin darle una explicación. Un año después, ambos siguen arrastrando las heridas de aquella separación. El reencuentro les obliga a enfrentarse a los sentimientos que quedaron pendientes y a decidir si todavía existe una posibilidad para un amor que nunca terminó de desaparecer.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000143',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  PLAY ME — DR000201  =================== */
+{
+codigo:'DR000201',
+titulo:'Play Me',
+tituloOriginal:'플레이 미',
+alias:[
+    'Play Me'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2026-07-31',
+finalizacion:'2026-08-21',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Actores',
+    'Musical',
+    'Reencuentro',
+    'Amigos de instituto',
+    'Amor pasado',
+    'Malentendido',
+    'Segunda oportunidad',
+    'Show business',
+    'Interpretación'
+],
+personas:[
+    {nombre:'Jung I-hyun',persona:'PR000746',funcion:['Actor'],principal:true},
+    {nombre:'Kang Jae-on',persona:'PR000747',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Jung I-hyun','Kang Jae-on']}
+],
+sinopsis:'Jung I-hyun fue un niño actor que abandonó su carrera después de la muerte de su madre. Kang Jae-on, que también soñaba con convertirse en actor, tuvo que dejar sus aspiraciones por las dificultades de la vida. Separados desde el instituto por un malentendido, ambos vuelven a encontrarse años después al participar en un musical. Al interpretar a sus personajes, también comienzan a recuperar los sentimientos que creían perdidos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000024',funcion:['Plataforma']},
+    {codigo:'EN000031',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  LONG-TERM RELATIONSHIP — DR000204  =================== */
+{
+codigo:'DR000204',
+titulo:'Long-Term Relationship',
+tituloOriginal:'장기연애',
+alias:[
+    'Long-Term Relationship',
+    'The Long Relationship',
+    'Janggiyeonae'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'9 min',
+estado:'Finalizado',
+estreno:'2026-02-01',
+finalizacion:'2026-03-08',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Exparejas',
+    'Ruptura',
+    'Aplicación de citas',
+    'Reencuentro',
+    'Segunda oportunidad',
+    'Identidad oculta',
+    'Relación de larga duración',
+    'Amantes reencontrados'
+],
+personas:[
+    {nombre:'Ji-hoon',persona:'PR000748',funcion:['Actor'],principal:true},
+    {nombre:'Do-jin',persona:'PR000749',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Ji-hoon','Do-jin']}
+],
+sinopsis:'Ji-hoon y Do-jin mantuvieron una relación durante cinco años hasta que Do-jin decidió terminarla sin explicar el motivo. Un año después, Ji-hoon intenta seguir adelante y recurre a una aplicación de citas para dejar atrás la soledad. Sin embargo, la persona que despierta de nuevo su interés resulta ser precisamente Do-jin. Obligados a fingir que son desconocidos, ambos tendrán que decidir si su relación merece una segunda oportunidad.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000154',funcion:['Productora']},
+    {codigo:'EN000149',funcion:['Plataforma']},
+    {codigo:'EN000110',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  UNCOVERED — DR000206  =================== */
+{
+codigo:'DR000206',
+titulo:'Uncovered',
+tituloOriginal:'벗는사이',
+alias:[
+    'Uncovered',
+    'Beotneun Sai'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'12 min',
+estado:'Finalizado',
+estreno:'2026-08-09',
+finalizacion:'2026-09-13',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Exparejas',
+    'Segunda oportunidad',
+    'Fotografía',
+    'Fotógrafo',
+    'Lugar de trabajo',
+    'Reencuentro',
+    'Rencor',
+    'Deseo',
+    'Angst',
+    '18+'
+],
+personas:[
+    {nombre:'Han Seojin',persona:'PR000750',funcion:['Actor'],principal:true},
+    {nombre:'Taeyun',persona:'PR000751',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Han Seojin','Taeyun']}
+],
+sinopsis:'Han Seojin vuelve a encontrarse con Taeyun cuando el trabajo y la fotografía los colocan de nuevo frente a frente. Lo que parecía un capítulo cerrado de su pasado empieza a abrirse cuando las antiguas heridas chocan con una atracción que nunca desapareció por completo. Entre cámaras, silencios y recuerdos, ambos deberán decidir si pueden enfrentarse a aquello que los separó.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000155',funcion:['Productora']},
+    {codigo:'EN000154',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  SUMMERTIME — DR000207  =================== */
+{
+codigo:'DR000207',
+titulo:'Summertime',
+tituloOriginal:'하절기',
+alias:[
+    'Summertime',
+    'Hajeolgi'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'',
+estado:'Finalizado',
+estreno:'2026-08-27',
+finalizacion:'2026-09-24',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Amigos de infancia',
+    'Amor no correspondido',
+    'Amor secreto',
+    'Celos',
+    'Estudiante transferido',
+    'Obsesión',
+    'Amistad',
+    'Coming of Age',
+    'Slow Burn'
+],
+personas:[
+    {nombre:'Yeo Eun-ho',persona:'PR000752',funcion:['Actor'],principal:true},
+    {nombre:'Cha Do-hyeon',persona:'PR000753',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Yeo Eun-ho','Cha Do-hyeon']}
+],
+sinopsis:'Yeo Eun-ho y Cha Do-hyeon llevan diecinueve años siendo inseparables. Eun-ho considera que conoce a su mejor amigo mejor que nadie, pero nunca ha sospechado que Do-hyeon lleva años enamorado de él. La llegada de un nuevo estudiante altera el equilibrio que Do-hyeon había construido cuidadosamente y hace que sus sentimientos, sus celos y su deseo de mantener a Eun-ho a su lado sean cada vez más difíciles de ocultar.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000130',funcion:['Productora']},
+    {codigo:'EN000091',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  JUST FRIEND — DR000208  =================== */
+{
+codigo:'DR000208',
+titulo:'Just Friend',
+tituloOriginal:'저스트 프렌드',
+alias:[
+    'Just Friend',
+    'Jeoseuteu Peurendeu',
+    '어쩌다',
+    'Eojjeoda'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:'8 min',
+estado:'Próximo estreno',
+estreno:'2026-09-08',
+finalizacion:'',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Amigos de infancia',
+    'Amistad de larga duración',
+    'Sentimientos reprimidos',
+    'Amor secreto',
+    'Celos',
+    'Confusión',
+    'Amigos a amantes'
+],
+personas:[
+    {nombre:'Han I-jun',persona:'PR000754',funcion:['Actor'],principal:true},
+    {nombre:'Kang Eun-woo',persona:'PR000755',funcion:['Actor'],principal:true}
+],
+ships:[],
+sinopsis:'Han I-jun y Kang Eun-woo llevan quince años siendo inseparables. Su amistad parece perfectamente estable hasta que una noche inesperada obliga a ambos a cuestionar qué significa realmente la relación que han construido. Mientras I-jun intenta mantener separadas su vida sentimental y su amistad, los sentimientos que ambos han mantenido ocultos comienzan a complicar una relación que parecía tener límites muy claros.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000156',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  LOVE PENALTY — DR000209  =================== */
+{
+codigo:'DR000209',
+titulo:'Love Penalty',
+tituloOriginal:'반칙부터 시작할까요?',
+alias:[
+    'Love Penalty',
+    'Shall We Start With a Foul?',
+    'Shall We Begin With a Foul?',
+    'Banchikbuteo Sijak Halkkayo'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'',
+estado:'En emisión',
+estreno:'2026-09-15',
+finalizacion:'',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Voleibol',
+    'Campamento',
+    'Triángulo amoroso',
+    'Secreto',
+    'Heridas del pasado',
+    'Celos',
+    'Rivalidad',
+    'Sentimientos ocultos'
+],
+personas:[
+    {nombre:'Han U-ju',persona:'PR000756',funcion:['Actor'],principal:true},
+    {nombre:'Song Han-bin',persona:'PR000757',funcion:['Actor'],principal:true},
+    {nombre:'Cha Se-jin',persona:'PR000758',funcion:['Actor'],principal:true}
+],
+ships:[],
+sinopsis:'Durante un campamento de entrenamiento del equipo de voleibol, la llegada de Song Han-bin altera las relaciones entre Han U-ju y Cha Se-jin. Secretos, heridas del pasado y sentimientos difíciles de controlar empiezan a salir a la superficie mientras los tres se acercan a una línea que ninguno debería cruzar. La historia se encuentra todavía en desarrollo, por lo que la relación romántica definitiva aún no está establecida.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000150',funcion:['Productora']},
+    {codigo:'EN000145',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  BOY, WITH CAUTION — DR000211  =================== */
+{
+codigo:'DR000211',
+titulo:'Boy, with Caution',
+tituloOriginal:'소년, 주의',
+alias:[
+    'Boy, with Caution',
+    'Mind the Boy',
+    'Sonyeon, Juui'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:'',
+estado:'Anunciado',
+estreno:'2026-09-30',
+finalizacion:'',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Instituto',
+    'Profesor sustituto',
+    'Estudiante',
+    'Diferencia de edad',
+    'Primer amor',
+    'Atracción',
+    'Coming of Age'
+],
+personas:[
+    {nombre:'Jang Ki-woo',persona:'PR000759',funcion:['Actor'],principal:true},
+    {nombre:'Lee Hyun-jae',persona:'PR000760',funcion:['Actor'],principal:true}
+],
+ships:[],
+sinopsis:'Jang Ki-woo ha dejado atrás sus sueños y lleva una vida aparentemente tranquila como profesor sustituto. Todo cambia cuando conoce a Lee Hyun-jae, un estudiante de veintiún años cuya presencia irrumpe en su rutina como un desastre imposible de ignorar. La atracción entre ambos comienza a crecer, pero las circunstancias que los rodean hacen que acercarse sea mucho más complicado de lo que parecía.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000157',funcion:['Productora']},
+    {codigo:'EN000110',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  RULE 101 — DR000212  =================== */
+{
+codigo:'DR000212',
+titulo:'Rule 101',
+tituloOriginal:'룰101',
+alias:[
+    'Rule 101',
+    'RULE101'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:'20 min',
+estado:'Anunciado',
+estreno:'2026-09-30',
+finalizacion:'',
+generos:[
+    'BL',
+    'Romance',
+    'Misterio',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Universidad',
+    'Profesor',
+    'Estudiantes',
+    'Deseo',
+    'Secretos',
+    'Manipulación',
+    'Poder',
+    'Relaciones prohibidas',
+    'Thriller psicológico'
+],
+personas:[
+    {nombre:'',persona:'PR000710',funcion:['Actor'],principal:true},
+    {nombre:'',persona:'PR000692',funcion:['Actor'],principal:true}
+],
+ships:[],
+sinopsis:'Un profesor universitario adinerado mantiene una vida privada dominada por deseos que cada vez le resulta más difícil controlar. A su alrededor, varios estudiantes quedan atrapados en una red de secretos, atracciones y decisiones cuyas consecuencias amenazan con desbordar los límites de la universidad. La historia todavía no ha comenzado su emisión, por lo que las relaciones definitivas entre los personajes permanecen sin confirmar.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000140',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+/* ===============  UNFOLLOW — DR000215  =================== */
+{
+codigo:'DR000215',
+titulo:'Unfollow',
+tituloOriginal:'언팔로우',
+alias:[
+    'Unfollow',
+    'Eonpallowoo'
+],
+tipo:'Drama',
+anio:2026,
+pais:'KR',
+idioma:'ko',
+franquicia:'',
+universo:'',
+serie:'',
+temporadas:1,
+temporada:1,
+episodios:3,
+duracion:'8 min',
+estado:'Finalizado',
+estreno:'2026-02-19',
+finalizacion:'2026-03-05',
+generos:[
+    'BL',
+    'Romance',
+    'Drama'
+],
+tags:[
+    'BL',
+    'Redes sociales',
+    'Instagram',
+    'Error de seguimiento',
+    'Bloqueo',
+    'Senior y junior',
+    'Celos',
+    'Posesividad',
+    'Primer beso',
+    'Persecución romántica'
+],
+personas:[
+    {nombre:'Kang Taejun',persona:'PR000761',funcion:['Actor'],principal:true},
+    {nombre:'Lee Hamin',persona:'PR000762',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Kang Taejun','Lee Hamin']}
+],
+sinopsis:'Lee Hamin sigue accidentalmente en Instagram a Kang Taejun, un estudiante de cursos superiores, y entra en pánico cuando se da cuenta de su error. Al dejar de seguirlo inmediatamente, cree que el incidente ha terminado. Sin embargo, Taejun se da cuenta de lo ocurrido y comienza a perseguir a Hamin, convirtiendo un simple error en redes sociales en una relación marcada por los celos, la insistencia y una atracción cada vez más evidente.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[
+        'https://www.youtube.com/watch?v=1MGxoFYNY6Q'
+    ]
+},
+entidades:[
+    {codigo:'EN000139',funcion:['Productora']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
 ];
