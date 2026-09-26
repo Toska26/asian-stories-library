@@ -736,4 +736,15 @@ const PERSONAS = [
 {codigo:'PR000703', nombre:'Riu Jeong', nombreOriginal:'', nombreArtistico:'Jeong', alias:['Ryu Jeong','Riu Jung'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 {codigo:'PR000704', nombre:'Yoon Ji-sung', nombreOriginal:'', nombreArtistico:'Ji-sung', alias:['Yoon Ji Sung','Yun Ji-sung'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
 
+{codigo:'PR000705', nombre:'Park Jun Mok', nombreOriginal:'박준목', nombreArtistico:'Jun Mok', alias:['Park June Mok','Park Jun-mok','Park Junmok','Park Jun Mook'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000706', nombre:'Park Hyun Jun', nombreOriginal:'박현준', nombreArtistico:'Hyun Jun', alias:['Park Hyun-jun','Park Hyunjun'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000707', nombre:'Lee Ha Jin', nombreOriginal:'이하진', nombreArtistico:'Ha Jin', alias:['Lee Ha-jin','Lee Hajin'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000708', nombre:'Seol Jong Hwan', nombreOriginal:'설종환', nombreArtistico:'Jong Hwan', alias:['Seol Jong-hwan','Seol Jonghwan'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000709', nombre:'Seo Jeong Hyeon', nombreOriginal:'서정현', nombreArtistico:'Jeong Hyeon', alias:['Seo Jung Hyun','Seo Jung-hyun','Seo Jeong-hyeon','Seo Jeong Hyun'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000710', nombre:'Kwak Geon Hee', nombreOriginal:'곽건희', nombreArtistico:'Geon Hee', alias:['Kwak Geon-hee','Kwak Gun Hee','Kwak Geonhee'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000711', nombre:'Yoo Jin Seok', nombreOriginal:'유진석', nombreArtistico:'Jin Seok', alias:['Yoo Jin-seok','Yoo Jinseok'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000712', nombre:'Lee Chang In', nombreOriginal:'이창인', nombreArtistico:'Chang In', alias:['Lee Chang-in','Lee Changin'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000713', nombre:'Jang In Kyu', nombreOriginal:'장인규', nombreArtistico:'In Kyu', alias:['Jang In-kyu','Jang In-gyu','Jang Inkyu'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+{codigo:'PR000714', nombre:'Gu Do Hyeong', nombreOriginal:'구도형', nombreArtistico:'Do Hyeong', alias:['Gu Do-hyeong','Koo Do-hyeong','Gu Do-hyeong','Koo Do Hyeong'], pais:'KR', idioma:'ko', profesiones:['Actor'], multimedia:{foto:[]}, activo:true},
+
 ];
