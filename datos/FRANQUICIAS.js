@@ -21,5 +21,5 @@ const FRANQUICIAS = [
 {codigo:'FR000019', nombre:'HIStory', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa de antología formada por las diferentes historias independientes de la saga HIStory.', activo:true},
 {codigo:'FR000020', nombre:'Rainbow Six-Part Series', pais:'TW', activo:true},
    {codigo:'FR000021', nombre:'Kiseki: Dear to Me', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa formada por Kiseki: Dear to Me y su continuación Double Shuffle.', activo:true},
-   
+   {codigo:'FR000022', nombre:'Black & White Is Real', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa formada por Black & White Is Real y su spin-off Love Is Real.', activo:true},
 ];
