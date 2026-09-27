@@ -13565,6 +13565,446 @@ entidades:[
 especiales:[],
 activo:true
 },
+	/* ===============  HISTORY: MY HERO — DR000216  =================== */
+{
+codigo:'DR000216',
+titulo:'HIStory: My Hero',
+tituloOriginal:'HIStory: My Hero',
+alias:['My Hero'],
+tipo:'Drama',
+anio:2017,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:1},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:1,
+episodios:4,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2017-02-14',
+finalizacion:'2017-02-17',
+generos:['BL','Romance','Drama','Fantasía'],
+tags:['BL','Reencarnación','Cambio de cuerpo','Amor perdido','Segunda oportunidad','Novios','Espíritu','Plazo de una semana','Instituto'],
+personas:[
+    {nombre:'Ying-Hsiung Mai',persona:'PR000763',funcion:['Actor'],principal:true},
+    {nombre:'Ssu-Jen Ku',persona:'PR000764',funcion:['Actor'],principal:true}
+],
+ships:[{personajes:['Ying-Hsiung Mai','Ssu-Jen Ku']}],
+sinopsis:'Después de morir, el espíritu de una joven recibe una segunda oportunidad para regresar al mundo de los vivos, pero despierta en el cuerpo de un chico solitario. Para poder permanecer en la Tierra deberá conseguir que su antiguo novio vuelva a enamorarse de ella dentro de una semana. Mientras intenta acercarse de nuevo a él desde un cuerpo completamente diferente, ambos deberán enfrentarse a los recuerdos de su relación y a los sentimientos que todavía los unen.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000159',funcion:['Emisora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+/* ===============  HISTORY: STAY AWAY FROM ME — DR000217  =================== */
+{
+codigo:'DR000217',
+titulo:'HIStory: Stay Away From Me',
+tituloOriginal:'HIStory - 離我遠一點',
+alias:['Stay Away From Me','Li Wo Yuan Yi Dian'],
+tipo:'Drama',
+anio:2017,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:2},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:1,
+episodios:4,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2017-02-21',
+finalizacion:'2017-02-24',
+generos:['BL','Romance','Drama'],
+tags:['BL','Hermanastros','Convivencia','Celebridad','Familia ensamblada','Fujoshi','Romance prohibido','Instituto','Sentimientos ocultos'],
+personas:[
+    {nombre:'He Feng',persona:'PR000765',funcion:['Actor'],principal:true},
+    {nombre:'Ching Cheng',persona:'PR000766',funcion:['Actor'],principal:true}
+],
+ships:[{personajes:['He Feng','Ching Cheng']}],
+sinopsis:'Cuando sus padres se casan y se marchan juntos de viaje, Feng He se ve obligado a convivir con Cheng Qing, una joven estrella de la música que acaba de convertirse en su hermanastro. La convivencia comienza siendo incómoda, pero la mejor amiga de Feng He, Meng Meng, una apasionada del BL, empieza a imaginar que ambos podrían convertirse en pareja. Lo que inicialmente parece una fantasía acaba haciendo aflorar sentimientos que ninguno de los dos esperaba.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000159',funcion:['Emisora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY: OBSESSED — DR000218  =================== */
+{
+codigo:'DR000218',
+titulo:'HIStory: Obsessed',
+tituloOriginal:'HIStory - 著魔',
+alias:['Obsessed','Zhe Mo'],
+tipo:'Drama',
+anio:2017,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:3},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:1,
+episodios:4,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2017-02-28',
+finalizacion:'2017-03-03',
+generos:['BL','Romance','Drama','Fantasía'],
+tags:['BL','Viaje temporal','Reencarnación','Universidad','Exparejas','Segunda oportunidad','Celos','Obsesión','Destino','Amor pasado'],
+personas:[
+    {nombre:'Jiang Jin Teng',persona:'PR000767',funcion:['Actor'],principal:true},
+    {nombre:'Shao Yi Chen',persona:'PR000768',funcion:['Actor'],principal:true}
+],
+ships:[{personajes:['Jiang Jin Teng','Shao Yi Chen']}],
+sinopsis:'Shao Yi Chen muere después de descubrir que su pareja de muchos años está a punto de casarse con otra persona. Sin embargo, en lugar de aceptar su destino, despierta nueve años atrás, cuando todavía era un estudiante universitario y su relación con Jiang Jin Teng aún no había comenzado. Decidido a cambiar su futuro, intenta mantenerse alejado de Jiang Jin Teng, pero sus sentimientos y las circunstancias vuelven a acercarlos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000159',funcion:['Emisora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY2: RIGHT OR WRONG — DR000219  =================== */
+{
+codigo:'DR000219',
+titulo:'HIStory2: Right or Wrong',
+tituloOriginal:'HIStory2 - 是非',
+alias:['Right or Wrong','Shi Fei'],
+tipo:'Drama',
+anio:2018,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:4},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:2,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2018-01-30',
+finalizacion:'2018-02-21',
+generos:['BL','Romance','Drama','Familia'],
+tags:['BL','Universidad','Profesor y estudiante','Padre soltero','Diferencia de edad','Cuidado infantil','Vida universitaria','Convivencia','Familia','Sentimientos inesperados'],
+personas:[
+    {nombre:'Shi Yi Jie',persona:'PR000769',funcion:['Actor'],principal:true},
+    {nombre:'Fei Sheng Zhe',persona:'PR000770',funcion:['Actor'],principal:true}
+],
+ships:[{personajes:['Shi Yi Jie','Fei Sheng Zhe']}],
+sinopsis:'Shi Yi Jie es un profesor universitario y padre soltero que intenta compaginar su trabajo con el cuidado de su hija pequeña. Cuando necesita ayuda, contrata a Fei Sheng Zhe, uno de sus estudiantes, para que la cuide. La convivencia y el tiempo que pasan juntos hacen que Sheng Zhe desarrolle sentimientos por Yi Jie, mientras el profesor comienza poco a poco a abrirse emocionalmente y a replantearse los límites de su relación.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000159',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY2: CROSSING THE LINE — DR000220  =================== */
+{
+codigo:'DR000220',
+titulo:'HIStory2: Crossing the Line',
+tituloOriginal:'HIStory2 - 越界',
+alias:['Crossing the Line','Boundary Crossing','Love Over the Line','Yue Jie'],
+tipo:'Drama',
+anio:2018,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:5},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:2,
+episodios:8,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2018-03-06',
+finalizacion:'2018-03-28',
+generos:['BL','Romance','Drama','Juventud','Deportes'],
+tags:['BL','Instituto','Voleibol','Deporte','Juventud','Hermanastros','Amor prohibido','Amigos a amantes','Primer amor','Competición','Familia'],
+personas:[
+    {nombre:'Xia Yu Hao',persona:'PR000771',funcion:['Actor'],principal:true},
+    {nombre:'Qiu Zi Xuan',persona:'PR000772',funcion:['Actor'],principal:true},
+    {nombre:'Wang Zhen Wen',persona:'PR000773',funcion:['Actor'],principal:true},
+    {nombre:'Wang Zhen Wu',persona:'PR000774',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Xia Yu Hao','Qiu Zi Xuan']},
+    {personajes:['Wang Zhen Wen','Wang Zhen Wu']}
+],
+sinopsis:'Xia Yu Hao llega como estudiante transferido a una nueva escuela y acaba incorporándose al equipo de voleibol gracias a Qiu Zi Xuan, un antiguo jugador que ahora ayuda a entrenar al equipo después de una lesión. Mientras Yu Hao descubre su pasión por el deporte, también comienza a desarrollar sentimientos por Zi Xuan. Paralelamente, los hermanastros Wang Zhen Wen y Wang Zhen Wu deben enfrentarse a unos sentimientos que van más allá de la relación familiar que comparten.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000159',funcion:['Emisora']},
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	/* ===============  HISTORY3: TRAPPED — DR000221  =================== */
+{
+codigo:'DR000221',
+titulo:'HIStory3: Trapped',
+tituloOriginal:'HIStory3 - 圈套',
+alias:['Trapped','HIStory3: Trap','Quān Tào'],
+tipo:'Drama',
+anio:2019,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:6},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:3,
+episodios:20,
+duracion:'20 min',
+estado:'Finalizado',
+estreno:'2019-04-16',
+finalizacion:'2019-06-19',
+generos:['BL','Romance','Drama','Acción','Crimen','Misterio'],
+tags:['BL','Policía','Mafia','Crimen organizado','Investigación','Venganza','Secuestro','Enemigos a amantes','Persecución','Justicia','Socios'],
+personas:[
+    {nombre:'Meng Shao Fei',persona:'PR000775',funcion:['Actor'],principal:true},
+    {nombre:'Tang Yi',persona:'PR000776',funcion:['Actor'],principal:true},
+    {nombre:'Jack',persona:'PR000777',funcion:['Actor'],principal:true},
+    {nombre:'Zhao Li An',persona:'PR000778',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Meng Shao Fei','Tang Yi']},
+    {personajes:['Jack','Zhao Li An']}
+],
+sinopsis:'Después de un tiroteo que acaba con la vida de un policía y del líder de una organización criminal, el detective Meng Shao Fei dedica años a investigar a Tang Yi, el único superviviente y nuevo jefe del grupo Hsin-Tien. La persecución entre ambos cambia cuando son secuestrados juntos y se ven obligados a colaborar para sobrevivir. La investigación, la venganza y la atracción terminan mezclándose mientras intentan descubrir la verdad que se esconde tras el tiroteo del pasado.',
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=iDH57dqgVtA'],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY3: MAKE OUR DAYS COUNT — DR000222  =================== */
+{
+codigo:'DR000222',
+titulo:'HIStory3: Make Our Days Count',
+tituloOriginal:'HIStory3 - 那一天',
+alias:['Make Our Days Count','That Day','Nà Yītiān'],
+tipo:'Drama',
+anio:2019,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:7},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:3,
+episodios:20,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2019-10-16',
+finalizacion:'2019-12-18',
+generos:['BL','Romance','Drama','Juventud'],
+tags:['BL','Instituto','Amigos de infancia','Rivales','Primer amor','Coming of Age','Diferencias de personalidad','Celos','Amistad','Familia','Segunda oportunidad'],
+personas:[
+    {nombre:'Xiang Hao Ting',persona:'PR000779',funcion:['Actor'],principal:true},
+    {nombre:'Yu Xi Gu',persona:'PR000780',funcion:['Actor'],principal:true},
+    {nombre:'Sun Bo Xiang',persona:'PR000781',funcion:['Actor'],principal:true},
+    {nombre:'Lu Zhi Gang',persona:'PR000782',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Xiang Hao Ting','Yu Xi Gu']},
+    {personajes:['Sun Bo Xiang','Lu Zhi Gang']}
+],
+sinopsis:'Xiang Hao Ting es un estudiante popular, extrovertido e impulsivo que termina fijándose en Yu Xi Gu, un compañero reservado y brillante que prefiere mantenerse al margen de los demás. Lo que comienza con conflictos y malentendidos poco a poco se transforma en una relación profunda mientras ambos descubren sus propias inseguridades y aprenden a apoyarse. Paralelamente, Sun Bo Xiang y Lu Zhi Gang construyen su propia historia de amor.',
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=HtOqn8Tmf70'],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY4: CLOSE TO YOU — DR000223  =================== */
+{
+codigo:'DR000223',
+titulo:'HIStory4: Close to You',
+tituloOriginal:'HIStory4 - 近距離愛上你',
+alias:['Close to You','Jin Ju Li Ai Shang Ni'],
+tipo:'Drama',
+anio:2021,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:8},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:4,
+episodios:20,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2021-03-14',
+finalizacion:'2021-05-16',
+generos:['BL','Romance','Comedia','Drama'],
+tags:['BL','Oficina','Empresa','Fake Dating','Amigos a amantes','Fujoshi','Hermanastros','Amor prohibido','Obsesión','Manipulación','Relación complicada','Boda'],
+personas:[
+    {nombre:'Xiao Li Cheng',persona:'PR000783',funcion:['Actor'],principal:true},
+    {nombre:'Teng Mu Ren',persona:'PR000784',funcion:['Actor'],principal:true},
+    {nombre:'Ye Xing Si',persona:'PR000785',funcion:['Actor'],principal:true},
+    {nombre:'Fu Yong Jie',persona:'PR000786',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Xiao Li Cheng','Teng Mu Ren']},
+    {personajes:['Ye Xing Si','Fu Yong Jie']}
+],
+sinopsis:'Xiao Li Cheng es un gerente de ventas de una empresa de organización de bodas que lleva años enamorado de Liu Mei Fang. Al descubrir que ella es aficionada al BL, pide a su amigo y compañero Teng Mu Ren que finja salir con él para llamar su atención. Sin embargo, la relación fingida empieza a convertirse en sentimientos reales. Al mismo tiempo, Ye Xing Si se enfrenta a los sentimientos obsesivos de su hermanastro Fu Yong Jie, una relación marcada por secretos, manipulación y conflictos familiares.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[
+        'https://www.youtube.com/watch?v=s9RPHN5Et4c',
+        'https://www.youtube.com/watch?v=wS2s4XVwh8A'
+    ],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000160',funcion:['Emisora']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+
+	/* ===============  HISTORY5: LOVE IN THE FUTURE — DR000224  =================== */
+{
+codigo:'DR000224',
+titulo:'HIStory5: Love in the Future',
+tituloOriginal:'HIStory5 - 遇見未來的你',
+alias:['Love in the Future','HIStory5: Meet You in the Future'],
+tipo:'Drama',
+anio:2022,
+pais:'TW',
+idioma:'zh',
+franquicia:{codigo:'FR000019',orden:9},
+universo:'',
+serie:'SR000216',
+temporadas:5,
+temporada:5,
+episodios:20,
+duracion:'25 min',
+estado:'Finalizado',
+estreno:'2022-12-28',
+finalizacion:'2023-03-01',
+generos:['BL','Romance','Drama','Fantasía'],
+tags:['BL','Viaje temporal','Año 2000','Futuro','Oficina','Diferencia de edad','Rich Guy VS Poor Guy','Friends to Lovers','Destino','Entorno laboral','Identidad','Segunda oportunidad'],
+personas:[
+    {nombre:'Dai Zhe Ni / Johnny',persona:'PR000787',funcion:['Actor'],principal:true},
+    {nombre:'Hai Yi',persona:'PR000788',funcion:['Actor'],principal:true},
+    {nombre:'Liang Wen Sen / Vincent Liang',persona:'PR000790',funcion:['Actor'],principal:true},
+    {nombre:'Lin Huai En / Wynn Lin',persona:'PR000789',funcion:['Actor'],principal:true}
+],
+ships:[
+    {personajes:['Dai Zhe Ni / Johnny','Hai Yi']},
+    {personajes:['Lin Huai En / Wynn Lin','Liang Wen Sen / Vincent Liang']}
+],
+sinopsis:'Ho Bo Wei, un repartidor que vive en el año 2000, sufre un accidente mientras realiza una entrega y viaja inesperadamente veintidós años hacia el futuro. Allí adopta la identidad de Johnny Dai y conoce a Hai Yi, el heredero de una poderosa familia empresarial. Mientras ambos se acercan y descubren sentimientos que desafían sus diferencias y la distancia temporal que los separa, una segunda historia de amor comienza en el mismo entorno empresarial entre el joven Lin Huai En y el gerente Liang Wen Sen.',
+multimedia:{
+    portada:[],
+    trailer:['https://www.youtube.com/watch?v=9S34OfI3UX0'],
+    teaser:[],
+    pilot:[],
+    ost:[
+        'https://www.youtube.com/watch?v=1_KjSjiQnSU&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=2',
+        'https://www.youtube.com/watch?v=IjsSF-c_7Zs&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=3',
+        'https://www.youtube.com/watch?v=hGdKAoKYFs8&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=4',
+        'https://www.youtube.com/watch?v=yqy8II6IZVw&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=5'
+    ],
+    videos:[]
+},
+entidades:[
+    {codigo:'EN000022',funcion:['Plataforma']},
+    {codigo:'EN000028',funcion:['Plataforma']},
+    {codigo:'EN000025',funcion:['Plataforma']},
+    {codigo:'EN000023',funcion:['Plataforma']}
+],
+especiales:[],
+activo:true
+},
+	
 
 
 ];
