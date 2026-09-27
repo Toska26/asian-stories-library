@@ -162,4 +162,6 @@ const ENTIDADES = [
 {codigo:'EN000156', nombre:'Rainbow', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000157', nombre:'Nakwon Mansion', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000158', nombre:'CODE CRAYON', pais:'KR', tipos:['Productora'], activo:true},
+   {codigo: 'EN000159', nombre: 'CTS', pais: 'TW', tipos: ['Emisora'], activo: true},
+{codigo: 'EN000160', nombre: 'EYE TV Drama', pais: 'TW', tipos: ['Emisora'], activo: true},
 ];
