@@ -20,4 +20,6 @@ const FRANQUICIAS = [
     {codigo:'FR000018', nombre:'Backdoor', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Backdoor y su continuación Backdoor Part 2.', activo:true},
 {codigo:'FR000019', nombre:'HIStory', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa de antología formada por las diferentes historias independientes de la saga HIStory.', activo:true},
 {codigo:'FR000020', nombre:'Rainbow Six-Part Series', pais:'TW', activo:true},
+   {codigo:'FR000021', nombre:'Kiseki: Dear to Me', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa formada por Kiseki: Dear to Me y su continuación Double Shuffle.', activo:true},
+   
 ];
