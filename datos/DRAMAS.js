@@ -15086,4 +15086,227 @@ activo:true
     especiales:[],
     activo:true
 },
+
+	{
+    codigo:'DR000254',
+    titulo:'Impression of Youth',
+    tituloOriginal:'印象·青春',
+    alias:['Impression Of Youth'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:9,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-01-15',
+    finalizacion:'2025-03-05',
+    generos:['BL','Romance','Drama','Juvenil','Arte'],
+    tags:['BL','Juventud','Instituto','Universidad','Arte','Profesor y alumno','Diferencia de edad','Rural','Amor prohibido'],
+    personas:[],
+    ships:[
+        {personajes:['Yu Xing','Xu Lu Hui']}
+    ],
+    sinopsis:'Yu Xing, un estudiante de posgrado de Bellas Artes, es obligado a trabajar durante un mes como profesor sustituto en un instituto rural para completar su proyecto de graduación. Allí conoce a Xu Lu Hui, un estudiante de secundaria apasionado por la pintura. Yu Xing acepta enseñarle a pintar a cambio de que Lu Hui lo lleve cada mañana a distintos lugares para realizar sus bocetos. La convivencia y el tiempo que pasan juntos hacen que los sentimientos de Lu Hui por Yu Xing evolucionen hasta convertirse en amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+{
+    codigo:'DR000255',
+    titulo:'A Perfect Match',
+    tituloOriginal:'一拍即合',
+    alias:['Yi Pai Ji He'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2025-02-24',
+    finalizacion:'2025-02-24',
+    generos:['BL','Romance','Drama','Deportes','Juvenil'],
+    tags:['BL','Tenis','Juventud','Empresa','CEO','Familia','Reencuentro','Amor','Expareja'],
+    personas:[],
+    ships:[
+        {personajes:['Cheng Tian Xiang','Lin Xiao Nan']}
+    ],
+    sinopsis:'Cheng Tian Xiang, un joven apasionado por el tenis, pierde una importante entrevista de trabajo después de detenerse para ayudar a una niña. El incidente lo lleva a conocer a Lin Xiao Nan, el frío gerente general de la empresa donde tenía previsto entrevistarse. Aunque al principio chocan por sus personalidades opuestas, la cercanía entre ambos hace que surja una atracción que poco a poco se transforma en amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+{
+    codigo:'DR000256',
+    titulo:'Exclusive Love',
+    tituloOriginal:'獨佔接班人',
+    alias:['Exclusive Successor','Du Zhan Jie Ban Ren'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2025-02-14',
+    finalizacion:'2025-04-25',
+    generos:['BL','Romance','Comedia','Drama','LGBTQ+'],
+    tags:['BL','Funeraria','Familia','Herencia','Cantante','Entrenamiento','Amigos a amantes','Romance','Boda','Segunda oportunidad'],
+    personas:[],
+    ships:[
+        {personajes:['Wang Zhan','Tang Du Zhi']},
+        {personajes:['Zhang Yi Qing','Tu Jing He']}
+    ],
+    sinopsis:'Wang Zhan es el heredero de una empresa de servicios funerarios, pero teme a los fantasmas y sueña con convertirse en cantante. Obligado a regresar al negocio familiar, queda bajo la estricta supervisión de Tang Du Zhi, un experto director funerario que lo somete a un duro entrenamiento. Mientras tanto, el asesor de bodas Zhang Yi Qing ayuda a su amigo de toda la vida, Tu Jing He, a preparar su boda, aunque sus sentimientos por él complican la situación. Entre funerales, bodas, heridas del pasado y nuevos sentimientos, ambas relaciones deberán enfrentarse a sus propios obstáculos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+{
+    codigo:'DR000257',
+    titulo:'Fight For You',
+    tituloOriginal:'對立而已',
+    alias:['Dui Li Er Yi'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-03-28',
+    finalizacion:'2025-06-06',
+    generos:['BL','Romance','Drama','Acción','Comedia'],
+    tags:['BL','Enemies to lovers','Compañeros de habitación','Espionaje','Acción','Agencia','Misiones','Convivencia','Identidad secreta'],
+    personas:[],
+    ships:[
+        {personajes:['Da Hei','Xiao Bai']}
+    ],
+    sinopsis:'Da Hei necesita dinero y termina trabajando para una peculiar agencia que acepta todo tipo de encargos. Allí le asignan como compañero de habitación a Xiao Bai, sin saber que este trabaja en secreto para desmantelar la organización desde dentro. Mientras ambos participan en misiones cada vez más peligrosas, la convivencia y la confianza que desarrollan hacen que su relación pase de la rivalidad y la desconfianza a sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+{
+    codigo:'DR000258',
+    titulo:'The Promise of the Soul',
+    tituloOriginal:'靈魂約定',
+    alias:['Ling Hun Yue Ding'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2025-06-27',
+    finalizacion:'2025-09-05',
+    generos:['BL','Romance','Drama','Fantasía','Comedia'],
+    tags:['BL','Cambio de cuerpo','Alma','Universidad','Residencia universitaria','Destino','Reencuentro','Convivencia','Fantasía','Diferencia generacional'],
+    personas:[],
+    ships:[
+        {personajes:['Xia Zefang','Ye Haiyuan']}
+    ],
+    sinopsis:'Tras sufrir un accidente, Xia Cha, un hombre de 69 años, despierta en el cuerpo joven de su nieto Xia Zefang. Mientras intenta continuar con la vida de su nieto, comienza a asistir a la universidad y a compartir habitación con Ye Haiyuan. En medio de esta situación sobrenatural, ambos desarrollan una conexión cada vez más profunda que trasciende la identidad, la edad y las circunstancias que los rodean.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+{
+    codigo:'DR000259',
+    titulo:'Secret Lover',
+    tituloOriginal:'秘密關係',
+    alias:['Secret Relationship'],
+    pais:'TW',
+    año:2025,
+    franquicia:null,
+    universo:null,
+    serie:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-07-22',
+    finalizacion:'2025-09-16',
+    generos:['BL','Romance','Drama','Comedia','Juvenil'],
+    tags:['BL','Amigos a amantes','Amistad de infancia','Universidad','Teatro','Relación secreta','Convivencia','Familia','Identidad','Crecimiento personal'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Jun Xi','Han Tuo']}
+    ],
+    sinopsis:'Lu Jun Xi y Han Tuo son amigos inseparables desde la infancia. Durante un ejercicio de teatro universitario, Han Tuo se da cuenta de que sus sentimientos por Jun Xi van más allá de la amistad y propone practicar una relación para preparar la actuación. Lo que comienza como un juego de citas, abrazos e intimidad acaba convirtiéndose en una relación real que ambos deciden mantener en secreto mientras afrontan las presiones familiares y los cambios propios de la vida adulta.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
 ];
