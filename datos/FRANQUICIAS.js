@@ -18,4 +18,5 @@ const FRANQUICIAS = [
     {codigo:'FR000016', nombre:'First Page / Love Reset', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por First Page, precuela de Love Reset, y Love Reset.', activo:true},
     {codigo:'FR000017', nombre:'Winter Fever', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Winter Fever, Private Lesson y Summer Fever, historias relacionadas dentro de la misma línea narrativa.', activo:true},
     {codigo:'FR000018', nombre:'Backdoor', pais:'KR', multimedia:{portada:''}, descripcion:'Franquicia BL surcoreana formada por Backdoor y su continuación Backdoor Part 2.', activo:true},
+{codigo:'FR000019', nombre:'HIStory', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa de antología formada por las diferentes historias independientes de la saga HIStory.', activo:true},
 ];
