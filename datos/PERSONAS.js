@@ -822,4 +822,5 @@ const PERSONAS = [
 {codigo:'PR000787',nombre:'Chang Shuo Hang',nombreOriginal:'張碩航',nombreArtistico:'Sean Chang',alias:['Leo Zhang','Chang Shuo-Hang'],pais:'TW',idioma:'zh',profesiones:['Actor'],multimedia:{foto:[]},activo:true},
 {codigo:'PR000788',nombre:'Wang Zhao Wei',nombreOriginal:'王肇緯',nombreArtistico:'Linus Wang',alias:['Wang Chao Wei'],pais:'MY',idioma:'zh',profesiones:['Actor','Modelo'],multimedia:{foto:[]},activo:true},
 {codigo:'PR000789',nombre:'Xu Tao',nombreOriginal:'徐韜',nombreArtistico:'Jason Tauh',alias:['Hsu Tao'],pais:'TW',idioma:'zh',profesiones:['Actor'],multimedia:{foto:[]},activo:true},
-{codigo:'PR000790',nombre:'Chen Xi An',nombreOriginal:'陳璽安',nombreArtistico:'Anson Chen',alias:['Chen Hsi An','Chen Xian','Chen Hsian'],pais:'TW',idioma:'zh',profesiones:['Actor','Modelo'],multimedia:{foto:[]},activo:true}
+{codigo:'PR000790',nombre:'Chen Xi An',nombreOriginal:'陳璽安',nombreArtistico:'Anson Chen',alias:['Chen Hsi An','Chen Xian','Chen Hsian'],pais:'TW',idioma:'zh',profesiones:['Actor','Modelo'],multimedia:{foto:[]},activo:true},
+]
