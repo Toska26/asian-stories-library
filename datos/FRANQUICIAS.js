@@ -24,5 +24,13 @@ const FRANQUICIAS = [
    {codigo:'FR000022', nombre:'Black & White Is Real', pais:'TW', multimedia:{portada:''}, descripcion:'Franquicia BL taiwanesa formada por Black & White Is Real y su spin-off Love Is Real.', activo:true},
 {codigo:'FR000023', nombre:'Hello Stranger', pais:'PH', multimedia:{portada:''}, descripcion:'Franquicia BL filipina formada por la serie Hello Stranger y su continuación cinematográfica Hello Stranger: The Movie.', activo:true},
 {codigo:'FR000024', nombre:'The Boy Foretold by the Stars', pais:'PH', multimedia:{portada:''}, descripcion:'Franquicia BL filipina formada por la película The Boy Foretold by the Stars y su continuación en serie Love Beneath the Stars.', activo:true},
+{
+    codigo:'FR000025',
+    nombre:'Truly Very Yours',
+    pais:'PH',
+    multimedia:{portada:''},
+    descripcion:'Franquicia BL filipina formada por Truly Very Yours, Hook Up y Unguarded, producciones conectadas que continúan la misma secuencia narrativa.',
+    activo:true
+},
 
 ];
