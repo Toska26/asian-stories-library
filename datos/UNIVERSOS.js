@@ -9,4 +9,10 @@ const UNIVERSOS = [
 { codigo:'UN000005', nombre:'A Shoulder to Cry On / Jazz for Two', descripcion:'Universo compartido por A Shoulder to Cry On y Jazz for Two, conectado por la aparición de los mismos personajes en ambas producciones.', activo:true },
 { codigo:'UN000006', nombre:'Love Reset / Laundry Romance', descripcion:'Universo compartido por Love Reset y Laundry Romance, cuyas historias están conectadas dentro del mismo universo narrativo.', activo:true },
 { codigo:'UN000007', nombre:'Andy Ko & Nelson Ji', descripcion:'Universo de producciones BL en las que Andy Ko y Nelson Ji interpretan juntos a la pareja protagonista.', activo:true},
+{
+    codigo:'UN000008',
+    nombre:'Chasing Sunsets Universe',
+    descripcion:'Universo de producciones de Camp Avenue Studios formado por Chasing Sunsets e Influencers, conectadas mediante personajes y elementos compartidos.',
+    activo:true
+},
 ];
