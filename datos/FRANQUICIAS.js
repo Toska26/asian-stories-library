@@ -32,5 +32,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia BL filipina formada por Truly Very Yours, Hook Up y Unguarded, producciones conectadas que continúan la misma secuencia narrativa.',
     activo:true
 },
-
+{
+    codigo:'FR000026',
+    nombre:'PRE*SO',
+    pais:'KR',
+    multimedia:{portada:''},
+    descripcion:'Franquicia BL coreana formada por PRE*SO, PRE*SO2, PRE*SO Season 3, PRE*SO Season 4 y PRE*SO End, producciones relacionadas que forman una secuencia narrativa dentro del universo PRE*SO.',
+    activo:true
+},
 ];
