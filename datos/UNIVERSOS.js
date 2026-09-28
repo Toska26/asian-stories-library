@@ -22,5 +22,12 @@ const UNIVERSOS = [
     descripcion:'Universo compartido de producciones filipinas ambientadas en el contexto de la cuarentena y conectadas con Quaranthings: The Series. Incluye Quaranthings, Quaranthings 2 y Stuck On You.',
     activo:true
 },
+{
+    codigo:'UN000010',
+    nombre:'PRE*SO Universe',
+    pais:'PH',
+    descripcion:'Universo compartido de Life Time Dream Productions que reúne PRE*SO y otras producciones conectadas de la saga PRE*SO.',
+    activo:true
+},
 
 ];
