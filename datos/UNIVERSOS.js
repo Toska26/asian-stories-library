@@ -15,4 +15,12 @@ const UNIVERSOS = [
     descripcion:'Universo de producciones de Camp Avenue Studios formado por Chasing Sunsets e Influencers, conectadas mediante personajes y elementos compartidos.',
     activo:true
 },
+{
+    codigo:'UN000009',
+    nombre:'Quaranthings Universe',
+    pais:'PH',
+    descripcion:'Universo compartido de producciones filipinas ambientadas en el contexto de la cuarentena y conectadas con Quaranthings: The Series. Incluye Quaranthings, Quaranthings 2 y Stuck On You.',
+    activo:true
+},
+
 ];
