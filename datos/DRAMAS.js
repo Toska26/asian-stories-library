@@ -19562,4 +19562,379 @@ especiales:[],
 activo:true
 },
 
+/* =============== Beautiful Scars — DR000373 =================== */
+{
+codigo:'DR000373',
+titulo:'Beautiful Scars',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:4,
+duracion:21,
+estado:'Finalizado',
+estreno:'2023-01-02',
+finalizacion:'2023-01-23',
+generos:['Drama','Romance'],
+tags:['Reencuentro','Expareja','Segundas oportunidades','Secretos','Abandono','Pasado','Perdón','Amor'],
+personas:[],
+ships:[
+ {personajes:['Kyle','Lian']}
+],
+sinopsis:'Dos años después de que Lian desapareciera sin explicar las razones de su partida, Kyle intenta reconstruir su vida mientras sigue marcado por el abandono. Una inesperada llamada de Lian vuelve a abrir las heridas del pasado y obliga a ambos a enfrentarse a los secretos y sentimientos que quedaron sin resolver.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Lonely Connections — DR000374 =================== */
+{
+codigo:'DR000374',
+titulo:'Lonely Connections',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:14,
+estado:'Finalizado',
+estreno:'2023-02-10',
+finalizacion:'2023-02-17',
+generos:['Drama','Romance'],
+tags:['Soledad','Deseo','Relaciones','Infidelidad','Atracción','Intimidad','Conflicto emocional','Deseos ocultos'],
+personas:[],
+ships:[],
+sinopsis:'Una historia centrada en la soledad, el deseo y las contradicciones que aparecen dentro de las relaciones. La serie explora cómo los deseos físicos y emocionales pueden alterar los vínculos entre las personas y cómo amar a alguien no siempre impide sentir atracción o interés por otros.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Teach Me How — DR000375 =================== */
+{
+codigo:'DR000375',
+titulo:'Teach Me How',
+alias:['Teach Me How The Series'],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:22,
+estado:'Finalizado',
+estreno:'2023-02-27',
+finalizacion:'2023-04-18',
+generos:['Drama','Romance'],
+tags:['Crush','Amor no correspondido','Obsesión','Secretos','Revelaciones','Aceptación','Atracción','Sentimientos'],
+personas:[],
+ships:[
+ {personajes:['Russel','Jake']}
+],
+sinopsis:'Russel lleva mucho tiempo obsesionado con Jake y ha construido una imagen idealizada de él en su imaginación. Cuando finalmente consigue acercarse y conocerlo de verdad, descubre un aspecto de Jake que cambia completamente la imagen que había construido. Russel deberá decidir si abandona su fantasía o acepta al verdadero Jake y aprende a quererlo con sus imperfecciones.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== The Day I Loved You — DR000376 =================== */
+{
+codigo:'DR000376',
+titulo:'The Day I Loved You',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:10,
+duracion:21,
+estado:'Finalizado',
+estreno:'2023-04-26',
+finalizacion:'2023-06-28',
+generos:['Drama','Romance','Comedia'],
+tags:['Primer amor','Instituto','Amistad','Enfermedad','Secretos','Juventud','Amor','Despedida'],
+personas:[],
+ships:[
+ {personajes:['Nikko','Eli']}
+],
+sinopsis:'Nikko es un estudiante popular que parece tener una vida perfecta hasta que conoce a Eli, un joven reservado que acaba convirtiéndose en una presencia importante en su vida. La amistad entre ambos se transforma progresivamente en amor mientras Justine, el mejor amigo de Nikko, permanece a su lado. La llegada de sentimientos inesperados y una enfermedad que amenaza su futuro convierte su historia de amor en una experiencia marcada por la incertidumbre y la despedida.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Tie the Not — DR000377 =================== */
+{
+codigo:'DR000377',
+titulo:'Tie the Not',
+alias:['Tie The Not'],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:8,
+duracion:17,
+estado:'Finalizado',
+estreno:'2023-06-24',
+finalizacion:'2023-07-16',
+generos:['Drama','Romance'],
+tags:['Boda','Amor prohibido','Novio','Conductor','Atracción','Familia','Secretos','Decisiones'],
+personas:[],
+ships:[
+ {personajes:['Briggs','Shao']}
+],
+sinopsis:'Briggs trabaja en el negocio familiar de alquiler de coches para bodas y está acostumbrado a transportar a parejas hacia sus grandes momentos mientras su propia vida sentimental permanece en segundo plano. Todo cambia cuando conoce a Shao, un hombre que está a punto de casarse con otra persona. La atracción entre ambos obliga a Briggs y Shao a enfrentarse a sus sentimientos y a las consecuencias de un amor que aparece en el momento menos apropiado.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Stay — DR000378 =================== */
+{
+codigo:'DR000378',
+titulo:'Stay',
+alias:['Stay The Series'],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:25,
+estado:'Finalizado',
+estreno:'2023-06-11',
+finalizacion:'2023-07-23',
+generos:['Drama','Romance','Comedia'],
+tags:['Los Ángeles','Cineasta','Inmigración','Compañeros de piso','Convivencia','Diferencias culturales','Secretos','Amor'],
+personas:[],
+ships:[
+ {personajes:['Andre','Joshua']}
+],
+sinopsis:'Andre, un joven cineasta filipino, gana un premio por un cortometraje en Los Ángeles y decide quedarse en la ciudad. Después de ser víctima de una estafa y perder su dinero, necesita encontrar un lugar donde vivir y termina compartiendo una pequeña vivienda con Joshua, un inmigrante coreano trabajador y reservado. La convivencia entre ambos hace surgir una conexión que se verá puesta a prueba por sus diferencias, inseguridades y los secretos del pasado de Joshua.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== A Story to Remember — DR000379 =================== */
+{
+codigo:'DR000379',
+titulo:'A Story to Remember',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:10,
+duracion:34,
+estado:'Finalizado',
+estreno:'2023-06-23',
+finalizacion:'2023-08-25',
+generos:['Drama','Romance'],
+tags:['Amor','Amistad','Secretos','Familia','Identidad','Aceptación','Relaciones','Superación'],
+personas:[],
+ships:[],
+sinopsis:'Historia coral que combina tramas románticas y personales de jóvenes que deben enfrentarse a sus sentimientos, secretos y decisiones mientras intentan encontrar su lugar en sus relaciones y en su entorno. La serie explora el amor, la amistad, la aceptación y las dificultades que pueden transformar una relación.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Ever After — DR000380 =================== */
+{
+codigo:'DR000380',
+titulo:'Ever After',
+alias:['Ever After The Series'],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:15,
+duracion:17,
+estado:'Finalizado',
+estreno:'2023-06-04',
+finalizacion:'2023-08-27',
+generos:['Drama','Romance','Comedia'],
+tags:['Juventud','Instituto','Amor','Amistad','Desamor','Celos','Familia','Sacrificio','Relaciones'],
+personas:[],
+ships:[],
+sinopsis:'Cuatro jóvenes atraviesan las dificultades del amor, la amistad y el crecimiento mientras descubren que encontrar a la persona que aman no significa que la historia haya terminado. Las relaciones se enfrentan a inseguridades, presiones sociales, problemas económicos, dudas personales y decisiones que ponen a prueba lo que sienten.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Toreros — DR000381 =================== */
+{
+codigo:'DR000381',
+titulo:'Toreros',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:16,
+duracion:18,
+estado:'Finalizado',
+estreno:'2023-03-31',
+finalizacion:'2023-07-14',
+generos:['Drama','Romance','Acción','Thriller'],
+tags:['Lucha clandestina','Supervivencia','Amor','Pobreza','Violencia','Sacrificio','Deseo','Traición','Prisioneros'],
+personas:[],
+ships:[
+ {personajes:['New Blood','Blu Bull']},
+ {personajes:['Wild Child','Magician']}
+],
+sinopsis:'En un mundo de combates clandestinos, varios jóvenes se ven obligados a luchar para sobrevivir y conseguir dinero. New Blood entra en la competición y establece un vínculo cada vez más profundo con Blu Bull, mientras otros luchadores como Wild Child y Magician desarrollan su propia historia de amor. La violencia, la explotación, los sacrificios y la necesidad de sobrevivir ponen a prueba las relaciones que nacen dentro de la arena.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== My Plantito — DR000382 =================== */
+{
+codigo:'DR000382',
+titulo:'My Plantito',
+alias:[],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:30,
+estado:'Finalizado',
+estreno:'2023-08-23',
+finalizacion:'2023-11-18',
+generos:['Drama','Romance','Comedia'],
+tags:['Vecinos','Vlogger','Plantas','Redes sociales','Amistad','Familia','Aceptación','Amor','Creación de contenido'],
+personas:[],
+ships:[
+ {personajes:['Charlie','Miko']}
+],
+sinopsis:'Charlie es un joven creador de contenido que conoce a Miko, su nuevo vecino y apasionado de las plantas. Fascinado por él, Charlie comienza a grabarlo y termina introduciendo accidentalmente a Miko en su mundo de las redes sociales. Mientras su amistad se transforma en romance, ambos deberán enfrentarse a los problemas provocados por la exposición pública, los malentendidos y sus propios sentimientos.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
 ];
