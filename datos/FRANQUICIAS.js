@@ -40,4 +40,5 @@ const FRANQUICIAS = [
     descripcion:'Franquicia BL coreana formada por PRE*SO, PRE*SO2, PRE*SO Season 3, PRE*SO Season 4 y PRE*SO End, producciones relacionadas que forman una secuencia narrativa dentro del universo PRE*SO.',
     activo:true
 },
+   {codigo:'FR000027', nombre:'Adam\'s Story', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Adam\'s Story y su continuación Roommates, producciones independientes que mantienen una continuidad narrativa.', activo:true },
 ];
