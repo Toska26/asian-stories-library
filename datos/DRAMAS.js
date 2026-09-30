@@ -20730,7 +20730,154 @@ multimedia:{
 entidades:[],
 especiales:[],
 activo:true
-}
+},
+
+{
+codigo:'DR000404',
+titulo:"Adam's Story",
+alias:['Bí Mật Của Adam','Adam\'s Secret'],
+pais:'VN',
+anio:2017,
+tipo:'Websitcom',
+franquicia:{codigo:'FR000027',orden:1},
+universo:'UN000011',
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:10,
+duracion:15,
+estado:'Finalizado',
+estreno:'2017-03-18',
+finalizacion:'',
+generos:['Comedia','Drama','Romance'],
+tags:['Amistad','Convivencia','Amor','Familia','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'A Huy, Thái Dương y Bảo Nam son tres jóvenes que, debido a las circunstancias, terminan viviendo juntos. La convivencia da comienzo a una serie de situaciones inesperadas mientras los tres afrontan sus relaciones, amistades y sentimientos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000405',
+titulo:'Roommates',
+alias:['Bạn Cùng Phòng','Adam Ngoại Truyện – Bạn Cùng Phòng'],
+pais:'VN',
+anio:2017,
+tipo:'Webdrama',
+franquicia:{codigo:'FR000027',orden:2},
+universo:'UN000011',
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:15,
+estado:'Finalizado',
+estreno:'2017-08-14',
+finalizacion:'2017-09-19',
+generos:['Comedia','Romance'],
+tags:['Amor','Amistad','Convivencia','Pareja','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Bảo Nam','Đăng Hí']}
+],
+sinopsis:'Bảo Nam continúa su historia después de Adam\'s Story y ahora mantiene una relación con Đăng Hí, su amigo de la infancia. Los dos viven juntos mientras Nam intenta sobrellevar el carácter temperamental de Đăng y las dificultades de su convivencia como pareja.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000406',
+titulo:'Neighbor Guy',
+alias:['Phòng Kế Bên','Phòng Kế Bên. Adam Ngoại Truyện – PHÒNG KẾ BÊN'],
+pais:'VN',
+anio:2017,
+tipo:'Webdrama',
+franquicia:null,
+universo:'UN000011',
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:9,
+estado:'Finalizado',
+estreno:'2017-08-17',
+finalizacion:'2017-10-12',
+generos:['Drama','Romance'],
+tags:['Amor','Vecinos','Convivencia','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Nam','Hoàng']}
+],
+sinopsis:'Nam es un joven solitario y reservado cuya rutina cambia cuando Hoàng se muda al apartamento de al lado. El nuevo vecino, mucho más enérgico y juguetón, decide provocar a Nam y romper poco a poco la distancia que mantiene con los demás, hasta que entre ambos surge una relación romántica.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000407',
+titulo:'My Brother',
+alias:['Bí Mật Của Adam 2','Adam\'s Secret 2: My Brother'],
+pais:'VN',
+anio:2017,
+tipo:'Webdrama',
+franquicia:null,
+universo:'UN000011',
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:14,
+duracion:15,
+estado:'Finalizado',
+estreno:'2017-11-17',
+finalizacion:'2018-03-23',
+generos:['Drama','Romance','Familia'],
+tags:['Amor','Familia','Hermanastros','Aceptación','Prejuicios','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Phong','Vu']}
+],
+sinopsis:'Vu y su madre han permanecido siempre muy unidos, pero su vida cambia cuando ella decide mudarse con su pareja y el hijo de este, Phong. La convivencia entre los dos hermanastros comienza con dificultades, pero la calidez de Vu consigue romper poco a poco la frialdad de Phong. A medida que sus sentimientos crecen, ambos deben enfrentarse al conflicto familiar, a los prejuicios y a las consecuencias de su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
 
 
 
