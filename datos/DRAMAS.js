@@ -19935,6 +19935,6 @@ videos:[]
 entidades:[],
 especiales:[],
 activo:true
-},
+}
 
 ];
