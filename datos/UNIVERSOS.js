@@ -29,5 +29,5 @@ const UNIVERSOS = [
     descripcion:'Universo compartido de Life Time Dream Productions que reúne PRE*SO y otras producciones conectadas de la saga PRE*SO.',
     activo:true
 },
-
+{ codigo:'UN000011', nombre:'Adam\'s Story Universe', pais:'VN', descripcion:'Universo compartido de producciones vietnamitas relacionadas con Adam\'s Story, incluyendo Adam\'s Story, Roommates, Neighbor Guy y My Brother.', activo:true },
 ];
