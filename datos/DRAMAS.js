@@ -17175,7 +17175,7 @@ activo:true
 {
 codigo:'DR000309',
 titulo:'Paano Kaya Kung Tayo?',
-alias:['What If It's Us?','Paano Kaya Kung Tayo The Series'],
+alias:['What If It\'s Us?','Paano Kaya Kung Tayo The Series'],
 pais:'PH',
 año:2021,
 tipo:'Drama',
