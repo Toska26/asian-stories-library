@@ -19935,6 +19935,231 @@ videos:[]
 entidades:[],
 especiales:[],
 activo:true
-}
+},
+
+/* =============== Baka Pwede Pa? — DR000383 =================== */
+{
+codigo:'DR000383',
+titulo:'Baka Pwede Pa?',
+alias:['Baka Pwede Pa? The Series','Maybe Still','Maybe It’s Still Possible?','Maybe Still Possible'],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:30,
+estado:'Finalizado',
+estreno:'2024-02-09',
+finalizacion:'2024-03-22',
+generos:['Drama','Romance'],
+tags:['Amistad','Friends to Lovers','Segundas oportunidades','Amor','Sentimientos ocultos','Rivalidad','Arrepentimiento','Reconciliación'],
+personas:[],
+ships:[],
+sinopsis:'Alex, Emil, Nikko y Archie forman un grupo de jóvenes cuyas relaciones se complican cuando los sentimientos que permanecían ocultos comienzan a salir a la superficie. Los errores del pasado, los deseos no confesados, las rivalidades y los malentendidos ponen a prueba su amistad y les obligan a decidir entre conservar sus vínculos o arriesgarse por el amor. La historia gira en torno a la posibilidad de obtener una segunda oportunidad después de haber cometido errores y causado heridas.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== The Perfect Heartbreak — DR000384 =================== */
+{
+codigo:'DR000384',
+titulo:'The Perfect Heartbreak',
+alias:['The Perfect Heartbreak The Series'],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:28,
+estado:'Finalizado',
+estreno:'2024-04-13',
+finalizacion:'2024-07-15',
+generos:['Drama','Romance'],
+tags:['Desamor','Ruptura','Pareja','Perdón','Resiliencia','Sanación','Esperanza','Amor incondicional','Secretos'],
+personas:[],
+ships:[],
+sinopsis:'Una pareja que parecía vivir un amor perfecto ve cómo los secretos, las heridas y los compromisos imposibles terminan destruyendo la relación que habían construido. Tras una ruptura dolorosa, ambos deben afrontar el duelo y reconstruirse mientras descubren que amar también significa aprender a perdonar, dejar atrás las expectativas y aceptar al otro sin condiciones.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Marahuyo Project — DR000385 =================== */
+{
+codigo:'DR000385',
+titulo:'Marahuyo Project',
+alias:[],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:8,
+duracion:34,
+estado:'Finalizado',
+estreno:'2024-06-24',
+finalizacion:'2024-06-30',
+generos:['Drama','Romance','Comedia','LGBTQ+'],
+tags:['Universidad','LGBTQ+','Identidad','Aceptación','Activismo','Amistad','Amor','Familia','Discriminación','Mitología filipina'],
+personas:[],
+ships:[
+ {personajes:['King','Ino']}
+],
+sinopsis:'King llega a Marahuyo y comienza sus estudios en Mariano Soliman University, donde decide crear la primera organización estudiantil LGBTQIA+ del campus. Para conseguirlo deberá enfrentarse al conservador consejo estudiantil y colaborar con nuevos amigos como Venice y Lorie. Mientras lucha por defender la comunidad LGBTQIA+, su enfrentamiento con Ino, el presidente del consejo estudiantil, evoluciona progresivamente hacia una relación amorosa. Los secretos familiares, la identidad, la aceptación y las tradiciones de Marahuyo se entrelazan con la historia de los jóvenes.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Sky Valley — DR000386 =================== */
+{
+codigo:'DR000386',
+titulo:'Sky Valley',
+alias:['Sky Valley The Series'],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:13,
+duracion:47,
+estado:'Finalizado',
+estreno:'2024-07-20',
+finalizacion:'2024-10-12',
+generos:['Drama','Romance'],
+tags:['Resort','Naturaleza','Amor','Atracción','Secretos','Diferencias sociales','Segundas oportunidades','Vlogger','Familia'],
+personas:[],
+ships:[
+ {personajes:['Junjun','Fourth']},
+ {personajes:['Paris','Taylor']}
+],
+sinopsis:'En el parque turístico Sky Valley se desarrollan dos historias de amor. Junjun, un instructor de equitación del resort, se siente atraído por Fourth, un misterioso y adinerado huésped que llega buscando escapar de sus problemas. Paralelamente, Paris, una vlogger de Manila, conoce a Taylor, la hija del propietario del resort, y entre ambas surge una relación romántica. Las dos historias exploran el amor, las diferencias sociales, los secretos y la búsqueda de autenticidad en un entorno aislado.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Where I Found You — DR000387 =================== */
+{
+codigo:'DR000387',
+titulo:'Where I Found You',
+alias:['Where I Found You The Series'],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:25,
+estado:'Finalizado',
+estreno:'2024-09-26',
+finalizacion:'2024-11-11',
+generos:['Drama','Romance'],
+tags:['Relación a distancia','Amor','Separación','Distancia','Husos horarios','Mensajes','Reencuentro','Confianza','Pareja'],
+personas:[],
+ships:[
+ {personajes:['Sky','Max']}
+],
+sinopsis:'Sky y Max están profundamente enamorados, pero las circunstancias de la vida les obligan a mantener una relación a distancia. Los kilómetros, los diferentes husos horarios, las oportunidades laborales y las obligaciones personales convierten la comunicación cotidiana en un desafío. Ambos deberán decidir si su relación puede superar la separación física y las dificultades que aparecen cuando el amor debe mantenerse a través de pantallas, mensajes y encuentros perdidos.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Haunted Hearts — DR000388 =================== */
+{
+codigo:'DR000388',
+titulo:'Haunted Hearts',
+alias:[],
+pais:'PH',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:17,
+estado:'Finalizado',
+estreno:'2024-11-02',
+finalizacion:'2024-12-14',
+generos:['Drama','Romance','Fantasía','Sobrenatural','Terror'],
+tags:['Fantasmas','Halloween','Sobrenatural','Misterio','Secretos','Amor','Vida después de la muerte','Casa encantada'],
+personas:[],
+ships:[
+ {personajes:['Jack','Magic']}
+],
+sinopsis:'Durante una noche de Halloween, Jack conoce a Magic, un misterioso hombre cuya presencia despierta una conexión inmediata entre ambos. Sin embargo, Jack descubre que Magic no es un hombre corriente, sino un fantasma atrapado por un pasado lleno de secretos. Mientras su relación se hace más profunda, Jack deberá enfrentarse a la frontera entre el mundo de los vivos y el de los muertos y descubrir la verdad que se esconde detrás de la historia de Magic.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
 ];
