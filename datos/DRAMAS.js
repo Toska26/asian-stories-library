@@ -19033,5 +19033,533 @@ entidades:[],
 especiales:[],
 activo:true
 }, 
+```js
+/* =============== Rainbow Prince — DR000359 =================== */
+{
+codigo:'DR000359',
+titulo:'Rainbow Prince',
+alias:['Rainbow Prince The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:10,
+duracion:51,
+estado:'Finalizado',
+estreno:'2022-01-15',
+finalizacion:'2022-03-19',
+generos:['Drama','Comedia','Romance','Musical'],
+tags:['Realeza','Príncipe','Identidad secreta','Amor prohibido','Hotel','Música','Familia','Aceptación'],
+personas:[],
+ships:[
+ {personajes:['Zeyn','Mikey']},
+ {personajes:['Malik','Ken']}
+],
+sinopsis:'El príncipe Zeyn, heredero del reino de Zurbania, debe huir de su país tras un intento de golpe y refugiarse en Filipinas bajo una identidad falsa. Allí conoce a Mikey, un joven que trabaja en el Grand Hotel, y entre ambos surge una relación que deberá enfrentarse a los secretos de Zeyn, sus responsabilidades como futuro rey y las amenazas de su pasado.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Indigo — DR000360 =================== */
+{
+codigo:'DR000360',
+titulo:'Indigo',
+alias:['Indigo The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:5,
+duracion:25,
+estado:'Finalizado',
+estreno:'2022-01-17',
+finalizacion:'2022-02-14',
+generos:['Drama','Romance','Suspense','Terror'],
+tags:['Misterio','Secretos','Terror','Suspense','Amor','Trauma','Pasado','MLV Film Production'],
+personas:[],
+ships:[],
+sinopsis:'Historia BL de misterio y suspense que combina una relación amorosa con secretos y acontecimientos oscuros del pasado. La serie desarrolla una trama marcada por el miedo, las revelaciones y las consecuencias de experiencias que siguen afectando a sus protagonistas.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Papa, What Is Love? — DR000361 =================== */
+{
+codigo:'DR000361',
+titulo:'Papa, What Is Love?',
+alias:['Papa, What is Love?'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000361',
+temporadas:2,
+temporada:1,
+episodios:6,
+duracion:15,
+estado:'Finalizado',
+estreno:'2022-05-14',
+finalizacion:'2022-06-25',
+generos:['Drama','Comedia','Romance','Familia'],
+tags:['Diferencia de edad','Viudedad','Padre e hijo','Familia','Amor inesperado','Empleador y empleado','Aceptación','Coming out'],
+personas:[],
+ships:[
+ {personajes:['Rich','Tupe']}
+],
+sinopsis:'Rich, un viudo de mediana edad que vive solo desde la muerte de su esposa, contrata a Tupe como ayudante para cuidar de su casa. La relación entre ambos comienza como una relación laboral, pero poco a poco se transforma en un vínculo romántico. La situación se complica cuando Greg, el hijo de Rich, descubre la relación y debe enfrentarse a la nueva vida sentimental de su padre.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Papa, What Is Love? Season 2 — DR000362 =================== */
+{
+codigo:'DR000362',
+titulo:'Papa, What Is Love? Season 2',
+alias:['Papa What Is Love 2','Papa, What is Love? Season 2'],
+pais:'PH',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000361',
+temporadas:2,
+temporada:2,
+episodios:6,
+duracion:15,
+estado:'Finalizado',
+estreno:'2023-09-03',
+finalizacion:'2023-09-10',
+generos:['Drama','Comedia','Romance','Familia'],
+tags:['Segundas oportunidades','Pareja','Expareja','Familia','Amor','Celos','Relaciones','Adultos'],
+personas:[],
+ships:[
+ {personajes:['Tupe','Greg']}
+],
+sinopsis:'Tupe y Greg intentan mantener una vida estable como pareja cuando la aparición de Alex, la antigua novia de Greg, altera su situación. Mientras tanto, Rich, que continúa recuperándose de su anterior relación, busca una conexión sentimental duradera. La temporada explora nuevas relaciones, conflictos entre parejas y segundas oportunidades.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== My Freaky Love Story — DR000363 =================== */
+{
+codigo:'DR000363',
+titulo:'My Freaky Love Story',
+alias:[],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:12,
+duracion:32,
+estado:'Finalizado',
+estreno:'2022-08-12',
+finalizacion:'2022-10-15',
+generos:['Drama','Comedia','Romance','Fantasía'],
+tags:['Transformación','Cambio de cuerpo','Amor verdadero','Hada madrina','Identidad','Segunda oportunidad','Destino','Comedia romántica'],
+personas:[],
+ships:[
+ {personajes:['Charlie','Robin']}
+],
+sinopsis:'Después de una noche de excesos, Charlene recibe un castigo de la Hada Madrina y despierta en el cuerpo de un hombre. Conservando el recuerdo de su antigua identidad, deberá encontrar a su verdadero amor para poder recuperar su cuerpo original. En el proceso se verá obligada a enfrentarse a la identidad, el amor y las consecuencias de sus decisiones.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Mystery of Love — DR000364 =================== */
+{
+codigo:'DR000364',
+titulo:'Mystery of Love',
+alias:['Mystery of Love: The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:6,
+duracion:54,
+estado:'Finalizado',
+estreno:'2022-08-12',
+finalizacion:'2022-08-26',
+generos:['Drama','Romance','Acción','Suspense'],
+tags:['Amor inesperado','Misterio','Suspense','Acción','Secretos','Atracción','Relaciones','Peligro'],
+personas:[],
+ships:[
+ {personajes:['Railey','Aivan']}
+],
+sinopsis:'Una historia de amor que surge cuando menos se espera. Railey y Aivan se encuentran en circunstancias inesperadas y descubren que los sentimientos pueden aparecer hacia la persona que nunca habían imaginado. La relación se desarrolla dentro de una trama de acción, suspense, secretos y situaciones peligrosas.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Inseparable — DR000365 =================== */
+{
+codigo:'DR000365',
+titulo:'Inseparable',
+alias:[],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:4,
+duracion:19,
+estado:'Finalizado',
+estreno:'2022-09-19',
+finalizacion:'2022-10-31',
+generos:['Drama','Romance'],
+tags:['Amistad','Amor','Sentimientos','Dudas','Relaciones','Decisiones','Conflicto emocional'],
+personas:[],
+ships:[],
+sinopsis:'Dos personas enfrentan el conflicto entre mantener una amistad duradera y aceptar unos sentimientos que pueden transformar su relación. La historia explora las dudas, los vínculos afectivos y la incertidumbre de descubrir si una amistad puede convertirse en algo más.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== The Heirs — DR000366 =================== */
+{
+codigo:'DR000366',
+titulo:'The Heirs',
+alias:[],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:3,
+duracion:13,
+estado:'Finalizado',
+estreno:'2022-08-01',
+finalizacion:'2022-08-17',
+generos:['Drama','Romance'],
+tags:['Deudas','Cobrador','Enemigos a amantes','Diferencias sociales','Ayuda','Confianza','Romance'],
+personas:[],
+ships:[
+ {personajes:['Kevin','Carl']}
+],
+sinopsis:'Kevin hereda las deudas de sus padres y lucha por conseguir el dinero necesario para pagarlas. Su relación con Carl, el cobrador encargado de la deuda, comienza marcada por el conflicto y la desconfianza. Sin embargo, cuando Kevin ayuda a Carl después de que su casa sea robada, ambos empiezan a acercarse y sus sentimientos cambian.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Stranger's Love — DR000367 =================== */
+{
+codigo:'DR000367',
+titulo:"Stranger's Love",
+alias:[],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:4,
+duracion:14,
+estado:'Finalizado',
+estreno:'2022-07-04',
+finalizacion:'2022-09-12',
+generos:['Drama','Romance'],
+tags:['Extraños','Desamor','Encuentro','Soledad','Consuelo','Atracción','Relaciones'],
+personas:[],
+ships:[],
+sinopsis:'Dos desconocidos que atraviesan momentos de desamor encuentran consuelo el uno en el otro después de un encuentro inesperado. Lo que comienza como una conexión entre dos personas heridas se transforma en una relación marcada por la intimidad, la vulnerabilidad y la posibilidad de volver a encontrar el amor.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Twinkle, Twinkle Little Star — DR000368 =================== */
+{
+codigo:'DR000368',
+titulo:'Twinkle, Twinkle Little Star',
+alias:['Twinkle, Twinkie, Little Star','TTLS'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:8,
+duracion:39,
+estado:'Finalizado',
+estreno:'2022-02-25',
+finalizacion:'2022-04-15',
+generos:['Drama','Comedia','Romance'],
+tags:['Juventud','Familia','Aceptación','Amistad','Autodescubrimiento','Identidad','Provincia','LGBTQ+'],
+personas:[],
+ships:[],
+sinopsis:'Christian Charles es enviado a una provincia lejana para quedarse con Kelly, amiga de su familia, como castigo por su comportamiento rebelde. Lo que comienza como un castigo termina convirtiéndose en un viaje de autodescubrimiento y aceptación, mientras Christian establece nuevos vínculos y descubre otra forma de entenderse a sí mismo y a los demás.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Clik Clak Clok — DR000369 =================== */
+{
+codigo:'DR000369',
+titulo:'Clik Clak Clok',
+alias:['Clik Clak Clok The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:4,
+duracion:18,
+estado:'Finalizado',
+estreno:'2022-05-03',
+finalizacion:'2022-05-12',
+generos:['Drama','Comedia','Romance'],
+tags:['Universidad','Redes sociales','Baile','Competición','Crush','Celebridad de internet','Amor online','De virtual a real'],
+personas:[],
+ships:[
+ {personajes:['Anton','Miguel']}
+],
+sinopsis:'Tras terminar sus exámenes universitarios, Anton recibe un mensaje inesperado de Miguel, el creador de contenido al que admira en secreto. Miguel le propone participar juntos en una competición de baile online. Mientras ensayan y graban contenidos, la distancia entre su relación virtual y sus sentimientos reales comienza a desaparecer.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Make a Wish — DR000370 =================== */
+{
+codigo:'DR000370',
+titulo:'Make a Wish',
+alias:['Make a Wish the Series','Make a Wish: The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:29,
+estado:'Finalizado',
+estreno:'2022-04-04',
+finalizacion:'2022-06-03',
+generos:['Drama','Romance'],
+tags:['Amor','Aceptación','Pasado','Superación','Segundas oportunidades','Extraños','Sanación emocional','Juventud'],
+personas:[],
+ships:[
+ {personajes:['Isko','Alexeuz']}
+],
+sinopsis:'Isko es una persona sencilla que solo desea ser querido y aceptado, pero su pasado y el miedo al juicio de los demás le impiden avanzar. La aparición inesperada de Alexeuz cambia su forma de ver la vida y se convierte en el punto de partida de un proceso de descubrimiento, aceptación y nuevos sentimientos.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Can This Be Love? — DR000371 =================== */
+{
+codigo:'DR000371',
+titulo:'Can This Be Love?',
+alias:['Can This Be Love Series','CTBL'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:7,
+duracion:23,
+estado:'Finalizado',
+estreno:'2022-06-08',
+finalizacion:'2022-07-20',
+generos:['Drama','Romance','Comedia'],
+tags:['Fe','Religión','Catequista','Identidad','Amor','Aceptación','LGBTQ+','Conflicto emocional'],
+personas:[],
+ships:[
+ {personajes:['Caloy','Dora']}
+],
+sinopsis:'Caloy es un joven catequista que se enfrenta a sus propias dudas cuando comienza a desarrollar sentimientos que entran en conflicto con la educación religiosa que ha recibido. Junto a Dora, una mujer transgénero, emprende un camino de descubrimiento sobre el amor, la identidad, la fe y la aceptación.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== Si Andy, Si Lauren, O Si Peng? — DR000372 =================== */
+{
+codigo:'DR000372',
+titulo:'Si Andy, Si Lauren, O Si Peng?',
+alias:['Andy, Lauren, or Peng?','Si Andy, Si Lauren, O Si Peng? The Series'],
+pais:'PH',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:8,
+duracion:20,
+estado:'Finalizado',
+estreno:'2022-12-03',
+finalizacion:'2023-01-22',
+generos:['Drama','Romance','Suspense','Thriller'],
+tags:['Secretos familiares','Venganza','Trauma','Abuso','Primos','Triángulo amoroso','Identidad','Suspense','Aceptación','Segundas oportunidades'],
+personas:[],
+ships:[
+ {personajes:['Coby','Peng']},
+ {personajes:['Coby','Andy']},
+ {personajes:['Coby','Lauren']},
+ {personajes:['Lauren','Melo']}
+],
+sinopsis:'Coby llega a la casa de los primos Magbuana con el propósito secreto de descubrir quién fue responsable de una agresión que sufrió dos años antes. Mientras se acerca a Peng, Andy y Lauren para investigar sus secretos, sus planes de venganza se complican cuando aparecen sentimientos reales. Los conflictos familiares, los secretos y las relaciones amorosas hacen que la convivencia termine revelando verdades ocultas.',
+multimedia:{
+portada:[],
+trailer:[],
+teaser:[],
+pilot:[],
+ost:[],
+videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
 ];
