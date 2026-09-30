@@ -20162,4 +20162,197 @@ especiales:[],
 activo:true
 },
 
+{
+codigo:'DR000389',
+titulo:'Sashes and Hearts',
+alias:['Sashes & Hearts'],
+pais:'PH',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:13,
+duracion:40,
+estado:'Finalizado',
+estreno:'2025-02-22',
+finalizacion:'2025-05-17',
+generos:['Drama','Romance','Comedia'],
+tags:['Concursos de belleza','Competición','Modelaje','Amistad','Rivalidad','Presión social','Ambición','Secretos','Amor','BL'],
+personas:[],
+ships:[
+    {personajes:['Gin','Jarret']}
+],
+sinopsis:'Jack, un joven decidido y apasionado, consigue un título nacional de belleza masculina y comienza su preparación para representar al país en una competición internacional. Mientras él y los demás candidatos luchan por la corona, descubren las presiones, rivalidades y controversias que existen detrás de los concursos. Entre ellos destacan Gin y Jarret, cuya relación evoluciona mientras afrontan juntos las exigencias de la competición y las dificultades personales que surgen bajo los focos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000390',
+titulo:'Hermoso',
+alias:['Your Thoughts in My Eyes'],
+pais:'PH',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000390',
+temporadas:2,
+temporada:1,
+episodios:10,
+duracion:52,
+estado:'Finalizado',
+estreno:'2025-06-28',
+finalizacion:'2025-08-30',
+generos:['Drama','Romance'],
+tags:['Pesca','Mar','Diferencias sociales','Familia','Secretos','Pasado','Escándalo','Expareja','Amor','Segundas oportunidades','BL'],
+personas:[],
+ships:[
+    {personajes:['Kyle','Andres']},
+    {personajes:['Joswell','Pedra']}
+],
+sinopsis:'Kyle regresa a Zamboanga después de huir de Manila a causa de un escándalo financiero provocado por su exnovio y antiguo socio, Bill. Obligado a acercarse al negocio pesquero de su familia, conoce a Andres, un joven pescador que trabaja en el mar y cuya vida está marcada por sus propias responsabilidades familiares. A pesar de proceder de mundos muy diferentes, Kyle y Andres desarrollan una conexión cada vez más profunda mientras afrontan las tensiones del trabajo, los secretos familiares y el regreso de personas del pasado de Kyle. Paralelamente, Joswell y Pedra desarrollan una relación marcada por el coqueteo y una creciente intimidad.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[
+    {
+        titulo:'Where is Andres?',
+        episodios:1
+    }
+],
+activo:true
+},
+
+{
+codigo:'DR000391',
+titulo:'Hermoso — Season 2',
+alias:['Hermoso Season 2','Your Thoughts in My Eyes Season 2'],
+pais:'PH',
+anio:2026,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000390',
+temporadas:2,
+temporada:2,
+episodios:13,
+duracion:16,
+estado:'Finalizado',
+estreno:'2026-03-28',
+finalizacion:'2026-05-09',
+generos:['Drama','Romance'],
+tags:['Reencuentro','Amor perdido','Celos','Secretos','Pasado','Segundas oportunidades','Triángulo amoroso','Deseo','Perdón','BL'],
+personas:[],
+ships:[
+    {personajes:['Kyle','Andres']}
+],
+sinopsis:'Después de la separación de Kyle y Andres, una inesperada aparición cambia por completo sus vidas. Andres está vivo, pero su regreso no significa recuperar la relación que dejó atrás. Kyle descubre que Andres ha seguido adelante y que otra persona ocupa ahora un lugar importante en su vida. El reencuentro obliga a ambos a enfrentarse a los sentimientos que todavía existen, a los secretos del pasado y a las consecuencias de todo lo ocurrido entre ellos.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000392',
+titulo:'Got My Eyes on You',
+alias:[],
+pais:'PH',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:37,
+duracion:5,
+estado:'Finalizado',
+estreno:'2025-09-03',
+finalizacion:'2025-11-26',
+generos:['Drama','Romance','Comedia'],
+tags:['Enemies to Lovers','Rivalidad','Trabajo','Competición','Amistad','Atracción','Relaciones','Secretos','Segundas oportunidades','BL','Serie vertical'],
+personas:[],
+ships:[
+    {personajes:['Drew','Shawn']},
+    {personajes:['Kirk','Wilfred']}
+],
+sinopsis:'Drew y Shawn son compañeros de trabajo y rivales que compiten por el mismo puesto de gerente. Lo que comienza como una relación marcada por la rivalidad y los enfrentamientos profesionales se transforma progresivamente en una atracción que ninguno de los dos esperaba. Mientras intentan equilibrar sus ambiciones laborales con sus sentimientos, también se desarrolla la relación entre Kirk, un joven adinerado interesado en Wilfred, y Wilfred, un trabajador del resort que inicialmente se muestra cauteloso debido a experiencias sentimentales anteriores. Ambas relaciones terminan poniendo el amor y las aspiraciones personales a prueba.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000393',
+titulo:'Sereno',
+alias:['Under the Same Sky'],
+pais:'PH',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:10,
+duracion:44,
+estado:'Finalizado',
+estreno:'2025-12-06',
+finalizacion:'2026-02-07',
+generos:['Drama','Romance','Fantasía','Sobrenatural'],
+tags:['Sirenas','Tritón','Mar','Resort','Misterio','Amor','Identidad','Secretos','Destino','Amistad','BL'],
+personas:[],
+ships:[
+    {personajes:['Kai','Elios']},
+    {personajes:['Alfred','Julius']}
+],
+sinopsis:'Kai es un tritón que vive entre el mar y el mundo humano, ocultando su verdadera naturaleza. La llegada de Elios, un escritor que visita el resort acompañado de su mejor amigo Alfred, hace que ambos mundos vuelvan a entrar en contacto. Elios descubre el secreto de Kai y entre los dos surge una conexión que se transforma en amor mientras intentan comprender sus diferencias y los peligros que los rodean. Paralelamente, un encuentro accidental entre Alfred y Julius da lugar a una relación que evoluciona desde una situación inesperada hacia un vínculo afectivo.',
+multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
 ];
