@@ -19033,7 +19033,7 @@ entidades:[],
 especiales:[],
 activo:true
 }, 
-```js
+
 /* =============== Rainbow Prince — DR000359 =================== */
 {
 codigo:'DR000359',
