@@ -20656,5 +20656,82 @@ entidades:[],
 especiales:[],
 activo:true
 },
+	
+{
+codigo:'DR000402',
+titulo:'Farewell My Ghost Boyfriend',
+alias:['Hứa sẽ hạnh phúc nhé'],
+pais:'VN',
+anio:2016,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:1,
+duracion:32,
+estado:'Finalizado',
+estreno:'2016-02-11',
+finalizacion:'2016-02-11',
+generos:['Drama','Romance','Fantástico'],
+tags:['Amor','Duelo','Fantasma','Muerte','Pérdida','Superación','Segundas oportunidades','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Trung','Mạnh']},
+  {personajes:['Trung','Hiếu']}
+],
+sinopsis:'Trung vive sumido en la tristeza y el silencio después de la muerte de Mạnh, su novio, a quien perdió tras una discusión. El fantasma de Mạnh regresa y, preocupado por el sufrimiento de Trung, intenta ayudarle a recuperar su felicidad y a abrir de nuevo su corazón al amor con Hiếu.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000403',
+titulo:'Let Love Heal',
+alias:['Hàn Gắn Yêu Thương'],
+pais:'VN',
+anio:2016,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:1,
+duracion:27,
+estado:'Finalizado',
+estreno:'2016-06-30',
+finalizacion:'2016-06-30',
+generos:['Drama','Romance'],
+tags:['Amor','Familia','Aceptación','Madre','Prejuicios','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Hoàng','Lực']}
+],
+sinopsis:'Hoàng, un joven vendedor ambulante de globos, abandona su hogar después de que su madre no acepta que sea gay. Su relación con Lực y el conflicto familiar ponen a prueba su amor y la capacidad de su familia para aceptar su felicidad.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+}
+
+
 
 ];
