@@ -16983,7 +16983,7 @@ entidades:[],
 especiales:[],
 activo:true
 },
- / =============== KUMUSTA BRO? — DR000304 =================== */
+ /* =============== KUMUSTA BRO? — DR000304 =================== */
 {
 codigo:'DR000304',
 titulo:'Kumusta Bro?',
@@ -17059,7 +17059,7 @@ entidades:[],
 especiales:[],
 activo:true
 },
- / =============== INFLUENCERS — DR000306 =================== */
+ /* =============== INFLUENCERS — DR000306 =================== */
 {
 codigo:'DR000306',
 titulo:'Influencers',
