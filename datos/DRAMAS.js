@@ -22785,8 +22785,1108 @@ activo:true
   entidades:[],
   especiales:[],
   activo:true
-}
+},
+	/* ===============  A LOVE SONG FOR MY BELOVED — DR000459  =================== */
 
+{
+  codigo:'DR000459',
+  titulo:'A Love Song For My Beloved',
+  alias:['Bài Tình Ca Cho Em'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:7,
+  duracion:15,
+  estado:'Finalizado',
+  estreno:'2022-02-16',
+  finalizacion:'2022-05-12',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Kỳ Phương','Bảo Anh']}
+  ],
+  sinopsis:'Kỳ Phương intenta reconstruir su vida después de una relación tóxica y violenta. En un café conoce a Bảo Anh, cuya paciencia y afecto le ayudan a recuperar poco a poco la confianza y abrirse nuevamente al amor.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[
+    {titulo:'A Love Song For My Beloved — Special Episode 1',anio:2022},
+    {titulo:'A Love Song For My Beloved — Special Episode 2',anio:2022}
+  ],
+  activo:true
+},
+
+/* ===============  THE PROMISE — DR000460  =================== */
+
+{
+  codigo:'DR000460',
+  titulo:'The Promise',
+  alias:['Biển Lặng'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:6,
+  duracion:25,
+  estado:'Finalizado',
+  estreno:'2022-04-22',
+  finalizacion:'2022-05-27',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','Escolar','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Tân','Vũ']}
+  ],
+  sinopsis:'Tân y Vũ son hermanastros que viven bajo el mismo techo y mantienen una relación conflictiva. Mientras afrontan problemas escolares y familiares, sus sentimientos comienzan a superar los límites de una relación fraternal.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  WANT TO SEE YOU — DR000461  =================== */
+
+{
+  codigo:'DR000461',
+  titulo:'Want to See You',
+  alias:['Muốn Nhìn Thấy Em'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:14,
+  duracion:20,
+  estado:'Finalizado',
+  estreno:'2022-06-05',
+  finalizacion:'2022-08-28',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','Discapacidad','Family Drama','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Thạch','Phúc']}
+  ],
+  sinopsis:'Después de perder la vista en un accidente, Thạch necesita ayuda para desenvolverse en su vida diaria. Phúc comienza a trabajar como su cuidador y, pese a sus constantes enfrentamientos, ambos terminan desarrollando sentimientos que deben afrontar frente a la oposición de su entorno.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  MEMORY — DR000462  =================== */
+
+{
+  codigo:'DR000462',
+  titulo:'Memory',
+  alias:['Anh, Mình Bình Yên Nhé!','Mình Bình Yên Nhé'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:14,
+  duracion:21,
+  estado:'Finalizado',
+  estreno:'2022-07-07',
+  finalizacion:'2022-10-09',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','Amnesia','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Khánh Đăng','Anh Hào']}
+  ],
+  sinopsis:'Tras sufrir un accidente, Khánh Đăng pierde parte de sus recuerdos y solo conserva la idea de que mantenía una relación con una mujer. La aparición de Anh Hào en sus sueños le hace cuestionarse sus recuerdos, sus sentimientos y su propia identidad.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  LOVE BILL — DR000463  =================== */
+
+{
+  codigo:'DR000463',
+  titulo:'Love Bill',
+  alias:['Lời Hứa Mùa Hạ'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:10,
+  duracion:40,
+  estado:'Finalizado',
+  estreno:'2022-10-29',
+  finalizacion:'2023-01-10',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','Cohabitación','Age Gap','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Nghĩa','Thiên']}
+  ],
+  sinopsis:'Nghĩa, un joven heredero expulsado de su casa, viaja para reclamar una deuda familiar. Al descubrir que el deudor ha fallecido, termina viviendo con Thiên, su hijo, y la convivencia forzada transforma poco a poco su enfrentamiento inicial en una relación afectiva.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  THE STAR ALWAYS FOLLOWS YOU — DR000464  =================== */
+
+{
+  codigo:'DR000464',
+  titulo:'The Star Always Follows You',
+  alias:['Lấp Lánh Tựa Ánh Sao Trời'],
+  pais:'VN',
+  anio:2022,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:9,
+  duracion:20,
+  estado:'Finalizado',
+  estreno:'2022-11-26',
+  finalizacion:'2023-01-14',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','Coming of Age','Rural Romance','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Đăng','Sơn']}
+  ],
+  sinopsis:'Đăng, un estudiante de ciudad con dificultades académicas, es enviado al campo para alejarlo de las distracciones y preparar sus exámenes de acceso a la universidad. Allí conoce a Sơn, su tutor y maestro, y la convivencia hace crecer entre ambos una relación que va más allá de los estudios.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[
+    {titulo:'Stormy Honeymoon',anio:2023}
+  ],
+  activo:true
+},
+/* ===============  FOR YOU A THOUSAND TIMES — DR000465  =================== */
+{
+codigo:'DR000465',
+titulo:'For You A Thousand Times',
+alias:['Vì Cậu Cả Ngàn Lần Rồi'],
+pais:'VN',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:22,
+estado:'Finalizado',
+estreno:'2023-02-04',
+finalizacion:'2023-03-12',
+generos:['Romance','Drama'],
+tags:['BL','Mini-serie','Juventud','Amistad','Sanación','Universidad','Crecimiento personal'],
+personas:[],
+ships:[],
+sinopsis:'Historia BL vietnamita centrada en una relación que se desarrolla entre sus protagonistas a través de distintas etapas de su juventud y de sus experiencias personales. La serie fue anunciada inicialmente como una producción de diez episodios, pero finalmente quedó reducida a seis. Cada episodio sigue el desarrollo de la historia hasta su conclusión.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  OH MY GOD — DR000466  =================== */
+{
+codigo:'DR000466',
+titulo:'Oh My God',
+alias:['Tổ Độ'],
+pais:'VN',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:27,
+estado:'Finalizado',
+estreno:'2023-02-10',
+finalizacion:'2023-03-12',
+generos:['Romance','Drama','Comedia'],
+tags:['BL','Campo','Pueblo','Enemies to Lovers','Convivencia','Primer amor','Secretos familiares','Naturaleza'],
+personas:[],
+ships:[
+  {personajes:['Thanh','An']}
+],
+sinopsis:'An vive en la ciudad y viaja al campo para visitar a su abuela, a quien no ve desde hace años. Durante el viaje conoce a Thanh después de un accidente que provoca una fuerte discusión entre ambos. Cuando An llega a casa de su abuela descubre, para su sorpresa, que Thanh también está allí. Obligados a convivir, los dos jóvenes pasan de los enfrentamientos y las discusiones a una relación cada vez más cercana mientras descubren secretos familiares que los unen de una forma inesperada.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  STUPID GENIUS — DR000467  =================== */
+{
+codigo:'DR000467',
+titulo:'Stupid Genius',
+alias:['Thiên Tài Hạng Bét'],
+pais:'VN',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:17,
+estado:'Finalizado',
+estreno:'2023-06-09',
+finalizacion:'2023-07-14',
+generos:['Romance','Comedia','Drama'],
+tags:['BL','Instituto','Vida escolar','Tutoría','Estudiantes','Deportes','Bádminton','Enemies to Lovers','Crecimiento personal'],
+personas:[],
+ships:[
+  {personajes:['Khoa','Vinh']}
+],
+sinopsis:'Thu Khoa es uno de los peores estudiantes de su clase, pero sueña con convertirse en campeón nacional de bádminton. Para poder alcanzar su objetivo necesita mejorar sus notas y recurre a Vinh, el alumno más brillante de la clase. Vinh no está inicialmente interesado en ayudarlo, pero termina aceptando y comienza a darle clases particulares. Mientras pasan cada vez más tiempo juntos, Vinh empieza a sentirse atraído por Khoa y la relación entre ambos evoluciona de la tutoría y la amistad hacia el romance.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  VIAN — DR000468  =================== */
+{
+codigo:'DR000468',
+titulo:'ViAn',
+alias:['ViAn the Series'],
+pais:'VN',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:13,
+duracion:25,
+estado:'Finalizado',
+estreno:'2023-05-06',
+finalizacion:'2023-07-25',
+generos:['Romance','Drama','Comedia','Fantasía'],
+tags:['BL','Sobrenatural','Gato','Transformación','Convivencia','Casa embrujada','Campo','Cohabitación'],
+personas:[],
+ships:[
+  {personajes:['Viên','An']}
+],
+sinopsis:'Bình Viên atraviesa una etapa complicada y decide escapar al campo, donde alquila una pequeña casa conocida por su reputación de estar embrujada. Al instalarse descubre que un gato llamado An está muy unido a la casa y suele dormir en su cama. Una mañana, Viên se despierta y encuentra a un joven desconocido ocupando el lugar donde estaba el gato. Pronto descubre que el muchacho es An, que ha adquirido forma humana. Mientras ambos comienzan a convivir, An aprende progresivamente a comportarse como una persona y entre él y Viên nace una relación afectiva.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  MY GOOFY DESKMATE — DR000469  =================== */
+{
+codigo:'DR000469',
+titulo:'My Goofy Deskmate',
+alias:['Thằng Ngốc Bàn Bên'],
+pais:'VN',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:18,
+duracion:12,
+estado:'Finalizado',
+estreno:'2023-06-01',
+finalizacion:'2023-08-18',
+generos:['Romance','Comedia','Drama'],
+tags:['BL','Instituto','Vida escolar','Amigos de la infancia','Mejores amigos','Primer amor','Triángulo amoroso','Amor no correspondido','Tutoría','Compañeros de clase','Slice of Life'],
+personas:[],
+ships:[
+  {personajes:['Bang','Bong']},
+  {personajes:['Binh An','Thien Ly']}
+],
+sinopsis:'Bong y Bang son compañeros de instituto y mejores amigos desde la infancia. Su cercanía es tan grande que sus compañeros constantemente los confunden con una pareja, y ambos han llegado incluso a darse su primer beso, aunque durante buena parte de la historia no saben cómo definir lo que sienten. Binh An, compañero de ambos, está enamorado de Bong y se siente frustrado por la relación que mantiene con Bang. Después de ser rechazado, Binh An se acerca a Thien Ly, el hermano menor de Bong, quien comienza a ayudarlo con sus estudios. La relación entre ambos evoluciona gradualmente hacia sentimientos románticos. Mientras los dos romances avanzan, los personajes tienen que afrontar sus sentimientos, los celos y las dificultades propias de la vida escolar.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},	
+	
+/* ===============  BE YOUR STAR — DR000470  =================== */
+{
+codigo:'DR000470',
+titulo:'Be Your Star',
+alias:['Mùa Sao Đầu Tiên'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:20,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-03-23',
+finalizacion:'2024-08-10',
+generos:['Romance','Drama'],
+tags:['BL','Oficina','Jefe y subordinado','Prácticas','Enemies to Lovers','Convivencia','Contrato','Identidad secreta'],
+personas:[],
+ships:[
+  {personajes:['Đình Huy','Thiên Bảo']}
+],
+sinopsis:'Đình Huy conoce accidentalmente a Thiên Bảo durante una desastrosa cita a ciegas. Lo que parecía un encuentro único cambia cuando Huy descubre que Bảo es el CEO de la empresa donde consigue unas prácticas. Después de descubrir un secreto relacionado con la vida sentimental de Bảo, Huy utiliza la información para enfrentarse a él y ambos terminan vinculados por un acuerdo de trabajo y una convivencia forzada. La convivencia entre sus personalidades opuestas hace que la hostilidad inicial dé paso poco a poco a sentimientos inesperados.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  UNDER THE OAK TREE — DR000471  =================== */
+{
+codigo:'DR000471',
+titulo:'Under the Oak Tree',
+alias:['Dưới Tán Cây Mùa Hè'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-05-17',
+finalizacion:'2024-07-27',
+generos:['Romance','Musical','Drama'],
+tags:['BL','Juventud','Instituto','Música','Primer amor','Diferencias sociales','Familia'],
+personas:[],
+ships:[
+  {personajes:['An Khánh','Hải Đăng']}
+],
+sinopsis:'An Khánh es un estudiante tímido procedente de una familia humilde cuya pasión por la música representa una de las pocas alegrías de su vida. Hải Đăng, por el contrario, es un joven popular y deportista, hijo del director del instituto, que también siente una profunda pasión por la música aunque debe enfrentarse a las expectativas de su familia. Cuando ambos se conocen, la música se convierte en el punto de unión que les permite superar sus diferencias y acercarse sentimentalmente.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  THE FATE TRAP — DR000472  =================== */
+{
+codigo:'DR000472',
+titulo:'The Fate Trap',
+alias:['Hồn Ai Nấy Giữ'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-08-11',
+finalizacion:'2024-08-29',
+generos:['Romance','Drama','Fantasía'],
+tags:['BL','Intercambio de cuerpos','Almas intercambiadas','Amistad','Destino','Romance sobrenatural'],
+personas:[],
+ships:[
+  {personajes:['Han','Lan']}
+],
+sinopsis:'Bao y Han intercambian accidentalmente sus almas después de comprar un misterioso collar de piedras durante un viaje. Mientras intenta adaptarse a su nueva situación, Han, atrapado en el cuerpo de Bao, se acerca cada vez más a Lan, el mejor amigo de Bao. La situación sobrenatural termina dando lugar a sentimientos románticos inesperados y obliga a los personajes a enfrentarse a sus verdaderos sentimientos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  TEENAGER JUDGE — DR000473  =================== */
+{
+codigo:'DR000473',
+titulo:'Teenager Judge',
+alias:['Thẩm Phán Học Đường'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:20,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-09-28',
+finalizacion:'2025-02-22',
+generos:['Romance','Drama','Juventud'],
+tags:['BL','Instituto','Bullying','Justicia','Vigilante','Acoso escolar','Amistad','Adolescencia'],
+personas:[],
+ships:[
+  {personajes:['Hoàng Bách','Minh Đạt']}
+],
+sinopsis:'En un instituto marcado por el acoso, los conflictos entre estudiantes y los problemas que permanecen ocultos tras la vida escolar cotidiana, Hoàng Bách y Minh Đạt desarrollan una relación que evoluciona mientras ambos afrontan las dificultades de su entorno. La historia combina romance juvenil con una trama centrada en el bullying, la justicia y las consecuencias de los abusos dentro del instituto.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  PEOPLE COME LATER — DR000474  =================== */
+{
+codigo:'DR000474',
+titulo:'People Come Later',
+alias:['Trôi Dạt Giữa Dòng Đời'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-11-04',
+finalizacion:'2025-04-26',
+generos:['Romance','Drama'],
+tags:['BL','Campo','Vida cotidiana','Sanación','Duelo','Compañeros de trabajo','Slow Burn','Reencuentro'],
+personas:[],
+ships:[
+  {personajes:['Bạch','Tùng']}
+],
+sinopsis:'Desde la muerte de su madre, Bạch se ha convertido en el principal responsable de su familia y dedica su vida a cuidar de su hermano menor en el campo. Un día, mientras sale a hacer unas compras, es atacado y Tùng interviene para salvarlo. Sus caminos vuelven a cruzarse cuando Tùng consigue un trabajo en el mismo lugar que Bạch. La convivencia laboral y las experiencias que comparten hacen que entre ambos nazca un vínculo cada vez más profundo.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  STAND BY ME — DR000475  =================== */
+{
+codigo:'DR000475',
+titulo:'Stand By Me',
+alias:['Đảo Nhỏ Nuôi Mèo'],
+pais:'VN',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:20,
+duracion:null,
+estado:'Finalizado',
+estreno:'2024-11-12',
+finalizacion:'2025-04-01',
+generos:['Romance','Drama','Comedia'],
+tags:['BL','Instituto','Coming of Age','Primer amor','Amigos de la infancia','Slow Burn','Familia','Vida cotidiana'],
+personas:[],
+ships:[
+  {personajes:['Hoàng Khang','Quốc']}
+],
+sinopsis:'Hoàng Khang, estudiante de último curso de instituto, vive preocupado por su futuro y por la situación económica de su abuela, que lo ha criado mientras regenta un pequeño puesto de chè. Quốc es un joven afectuoso que siempre intenta cuidar de Khang, pero sus sentimientos han sido rechazados una y otra vez. Mientras ambos afrontan las incertidumbres de la juventud y las responsabilidades familiares, su vínculo se transforma y les obliga a enfrentarse a aquello que realmente sienten.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== FIGHT FOR LOVE — DR000476 =================== */
+{
+codigo:'DR000476',
+titulo:'Fight for Love',
+alias:['Vì Yêu Mà Chiến'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:7,
+duracion:25,
+estado:'Finalizado',
+estreno:'2025-02-07',
+finalizacion:'2025-03-21',
+generos:['Romance','Drama','Comedia','Música'],
+tags:['BL','Música','Cantante','Fotografía','Juventud','Romance','Amor no correspondido','Superación personal','Trauma','Triángulo amoroso'],
+personas:[],
+ships:[
+  {personajes:['An Bình','Minh Thắng']}
+],
+sinopsis:'An Bình es un joven aspirante a músico que canta en las calles mientras intenta superar un trauma de su infancia que le impide mostrar plenamente su voz. Su vida cambia cuando conoce a Minh Thắng, un joven fotógrafo que ya se había fijado en él y que decide luchar por conquistar su corazón. La situación se complica porque Bình mantiene una relación con Khải Vân, una pareja problemática que se interpone en el camino de los dos protagonistas. Entre música, fotografía, heridas del pasado y nuevos sentimientos, Bình deberá decidir qué clase de amor quiere para su vida.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== MY SWEET BROTHER IN LAW — DR000477 =================== */
+{
+codigo:'DR000477',
+titulo:'My Sweet Brother in Law',
+alias:['Vụng Trộm Với Anh Rể'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:15,
+estado:'Finalizado',
+estreno:'2025-05-27',
+finalizacion:'2025-06-24',
+generos:['Romance','Drama'],
+tags:['BL','Amor secreto','Cuñado','Relación prohibida','One Night Stand','Familia','Matrimonio','Amor oculto','Drama romántico'],
+personas:[],
+ships:[
+  {personajes:['Ngọc Khánh','Vạn Bảo']}
+],
+sinopsis:'Una noche apasionada se convierte en un problema inesperado cuando Ngọc Khánh descubre que el hombre con quien tuvo un encuentro íntimo es Vạn Bảo, el futuro hermano de su pareja. Mientras un matrimonio se acerca, ambos deben enfrentarse a unos sentimientos que intentan mantener ocultos. La relación entre Khánh y Bảo queda atrapada entre el deseo, el compromiso familiar y el miedo a las consecuencias de hacer público su amor.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== I HAVE A LITTLE STORY — DR000478 =================== */
+{
+codigo:'DR000478',
+titulo:'I Have a Little Story',
+alias:['Tôi Có 1 Câu Chuyện Nhỏ'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:15,
+estado:'Finalizado',
+estreno:'2025-04-26',
+finalizacion:'2026-01-17',
+generos:['Romance','Drama','Slice of Life'],
+tags:['BL','Juventud','Healing','Slow Burn','Friends to Lovers','Cuaderno','Amistad','Vida cotidiana','Amor juvenil','Vulnerabilidad','Vietnam rural'],
+personas:[],
+ships:[],
+sinopsis:'En un entorno tranquilo de la provincia vietnamita, dos jóvenes con personalidades muy diferentes comienzan a acercarse después de que uno de ellos descubre accidentalmente un pequeño cuaderno donde el otro guarda sus pensamientos, dudas y sentimientos secretos. Las conversaciones nocturnas, los paseos en bicicleta y la convivencia cotidiana hacen que su amistad evolucione poco a poco hacia algo más profundo. Mientras afrontan los prejuicios de quienes los rodean y sus propias inseguridades, deberán decidir si tienen el valor de escribir juntos el resto de su pequeña historia.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== LIFE GIVES US SADNESS — DR000479 =================== */
+{
+codigo:'DR000479',
+titulo:'Life Gives Us Sadness',
+alias:['Đời cho ta những nỗi buồn'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:2,
+duracion:23,
+estado:'Finalizado',
+estreno:'2025-05-30',
+finalizacion:'2025-06-06',
+generos:['Romance','Drama'],
+tags:['BL','Drama corto','Amor','Dolor','Relaciones','Emocional','Juventud'],
+personas:[],
+ships:[],
+sinopsis:'Una historia breve e íntima sobre el amor y las heridas emocionales que pueden quedar cuando una relación llega a un momento difícil. A través de sus dos episodios, la serie explora los sentimientos, las pérdidas y las decisiones que acompañan a una relación entre dos hombres.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== AWAITING DAWN — DR000480 =================== */
+{
+codigo:'DR000480',
+titulo:'Awaiting Dawn',
+alias:['Chờ Ngày Nắng Lên'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:14,
+duracion:34,
+estado:'Finalizado',
+estreno:'2025-09-06',
+finalizacion:'2025-12-13',
+generos:['Romance','Drama','Healing'],
+tags:['BL','Da Lat','Homestay','Pintor','Sanación','Ruptura','Slow Burn','Familia','Vida rural','Segundas oportunidades','Viaje','Amor'],
+personas:[],
+ships:[
+  {personajes:['Việt','Dũng']}
+],
+sinopsis:'Tras una dolorosa ruptura, Việt, un joven artista, abandona la ciudad en busca de inspiración y de una forma de recomponer su vida. Su viaje lo lleva hasta una tranquila casa de huéspedes en las montañas de Da Lat, donde conoce a Dũng, su reservado pero afectuoso propietario. Mientras Việt intenta sanar las heridas de su relación anterior, la convivencia y la cercanía entre ambos hacen que surja lentamente un nuevo sentimiento. Sin embargo, las responsabilidades familiares y los planes de futuro de Dũng pondrán a prueba la relación que están construyendo.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== SITUATIONSHIP IN THE CITY — DR000481 =================== */
+{
+codigo:'DR000481',
+titulo:'Situationship in the City',
+alias:['Mập Mờ Trong Thành Phố'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:2,
+duracion:22,
+estado:'Finalizado',
+estreno:'2025-08-21',
+finalizacion:'2025-09-05',
+generos:['Romance','Comedia','Fantasía'],
+tags:['BL','Y2K','Situationship','CEO','Exorcista','Vida pasada','Reencarnación','Sobrenatural','Destino','Karma','Ho Chi Minh City'],
+personas:[],
+ships:[
+  {personajes:['Nhất An','Bảo Minh']}
+],
+sinopsis:'Nhất An es un joven moderno, seguro de sí mismo y apasionado por la estética Y2K. Su vida cambia cuando conoce a Bảo Minh, un misterioso y atractivo CEO que también ejerce como exorcista. Entre ambos surge una relación ambigua que ninguno quiere definir, pero pronto descubren que su conexión no comenzó en su vida actual. En una existencia anterior, Nhất An era un espíritu errante y Bảo Minh un exorcista encargado de enfrentarse a fuerzas sobrenaturales. Los recuerdos del pasado regresan mientras ambos intentan comprender si su relación actual está determinada por el destino.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== HANOI, I LOVE YOU — DR000482 =================== */
+{
+codigo:'DR000482',
+titulo:'Hanoi, I Love You',
+alias:['Hà Nội, Anh yêu "Anh"','Hot Brother Next Door'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:20,
+estado:'Finalizado',
+estreno:'2025-09-16',
+finalizacion:'2025-11-18',
+generos:['Romance','Drama','Comedia'],
+tags:['BL','Hanoi','Vecinos','Friends to Lovers','Amigos de infancia','Convivencia','Segundas oportunidades','Vida cotidiana','Ruptura','Nuevo comienzo'],
+personas:[],
+ships:[
+  {personajes:['Hồng Phúc','Thành Công']}
+],
+sinopsis:'Hồng Phúc llega a Hanoi buscando empezar de nuevo después de una ruptura. Gracias a un amigo consigue alojamiento en una casa compartida, donde vuelve a encontrarse con Thành Công, un antiguo conocido que vive cerca y que se convierte poco a poco en una presencia constante en su nueva vida. Entre encuentros cotidianos, pequeños favores, conversaciones y momentos compartidos, ambos recuperan una cercanía que había quedado atrás. Lo que comienza como una amistad renovada acaba dando paso a sentimientos que ninguno de los dos esperaba.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== MY LITTLE GHOST — DR000483 =================== */
+{
+codigo:'DR000483',
+titulo:'My Little Ghost',
+alias:['Chàng Kẹ','My Little Ghost the Series'],
+pais:'VN',
+anio:2025,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:10,
+duracion:25,
+estado:'Finalizado',
+estreno:'2025-10-03',
+finalizacion:'2025-12-05',
+generos:['Romance','Drama','Fantasía','Sobrenatural','Misterio'],
+tags:['BL','Universidad','Estudiante de arquitectura','Fantasma','Humano x Fantasma','Convivencia','Amnesia','Investigación','Sanación','Slow Burn','Pérdida','Vida después de la muerte'],
+personas:[],
+ships:[
+  {personajes:['Kiên','Kẹ']}
+],
+sinopsis:'Kiên, un estudiante de arquitectura, se muda a una vivienda aparentemente vacía y descubre que comparte el lugar con Kẹ, un joven fantasma que ha perdido sus recuerdos. Ambos llegan a un acuerdo: Kiên ayudará a Kẹ a descubrir quién fue y qué ocurrió con él, mientras Kẹ intenta ayudar a Kiên con sus propios problemas. La convivencia transforma poco a poco la extraña relación entre ambos en un vínculo afectivo profundo. Sin embargo, recuperar la memoria de Kẹ también significa enfrentarse a la verdad sobre su muerte y a las reglas que separan el mundo de los vivos del de los muertos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[
+  {titulo:'Episode 10 — Special Ending',fecha:'2026-01-16'}
+],
+activo:true
+},
+
+/* =============== THE SOUND OF NOSTALGIA — DR000484 =================== */
+{
+codigo:'DR000484',
+titulo:'The Sound of Nostalgia',
+alias:['Nếu Nỗi Nhớ Có Âm Thanh','If Memory Has Sound'],
+pais:'VN',
+anio:2025,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:30,
+estado:'Finalizado',
+estreno:'2025-04-15',
+finalizacion:'2025-04-15',
+generos:['Romance','Drama'],
+tags:['BL','Cortometraje','Amor perdido','Amigos de infancia','Reencuentro','Nostalgia','Memoria','Trauma','Amor no correspondido','Final trágico'],
+personas:[],
+ships:[
+  {personajes:['Nghiem','Hai Au']}
+],
+sinopsis:'El día de su boda, Nghiem comienza a perder la percepción de la realidad y termina reencontrándose con Hai Au, un antiguo amigo del instituto con quien comparte un pasado sentimental. Mientras pasan la noche juntos, los recuerdos de su juventud, el amor perdido y las decisiones que los separaron vuelven a ocupar el presente. La historia se desarrolla entre recuerdos, realidad y posibles alucinaciones, dejando abierta la interpretación de lo que realmente ocurrió entre ambos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+	/* =============== THE NIGHT BEFORE BLOSSOM — DR000485 =================== */
+{
+codigo:'DR000485',
+titulo:'The Night Before Blossom',
+alias:['Đêm Qua Sân Trước Một Nhành Mai'],
+pais:'VN',
+anio:2026,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:20,
+estado:'Finalizado',
+estreno:'2026-02-15',
+finalizacion:'2026-02-15',
+generos:['Romance','Drama'],
+tags:['BL','Cortometraje','Tet','Año Nuevo Lunar','Pareja estable','Familia','Aceptación','Sanación','Vida cotidiana','Relación de pareja'],
+personas:[],
+ships:[],
+sinopsis:'Trọng y Hoàng son una pareja que vive lejos de sus familias en la ciudad. Mientras se acerca el Tết, Trọng atraviesa dificultades económicas y emocionales que intenta ocultar a su pareja para no preocuparlo. Entre los preparativos para el Año Nuevo Lunar, las tareas cotidianas y los pequeños momentos compartidos, ambos se enfrentan también a la distancia emocional que existe entre Trọng y su padre. Una llamada inesperada durante la víspera del Tết abre la posibilidad de reconciliación, aceptación y un nuevo comienzo.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== HẠ CUỐI, BIỂN XANH VÀ EM — DR000486 =================== */
+{
+codigo:'DR000486',
+titulo:'Hạ Cuối, Biển Xanh Và Em',
+alias:['Ha Cuoi, Bien Xanh Va Em'],
+pais:'VN',
+anio:2026,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:24,
+estado:'Finalizado',
+estreno:'2026-08-22',
+finalizacion:'2026-08-22',
+generos:['Romance','Drama'],
+tags:['BL','Cortometraje','LGBTQ','Juventud','Verano','Amigos','Amor juvenil','Mar','Playa','Reencuentro','Despedida','Coming of age'],
+personas:[],
+ships:[],
+sinopsis:'Durante el último verano de su juventud, dos amigos pasan unos días junto al mar mientras se aproxima el momento en que sus caminos tomarán direcciones diferentes. Entre recuerdos, silencios y sentimientos que nunca llegaron a expresarse completamente, el mar se convierte en testigo de una relación marcada por la amistad y un amor que permanece oculto. Antes de separarse, ambos deberán enfrentarse a aquello que nunca se atrevieron a decirse.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== SENDING MY PAIN TO THE WIND — DR000487 =================== */
+{
+codigo:'DR000487',
+titulo:'Sending My Pain to the Wind',
+alias:['Gửi Tổn Thương Vào Gió'],
+pais:'VN',
+anio:2026,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:null,
+estado:'Finalizado',
+estreno:'2026-06-08',
+finalizacion:'2026-07-05',
+generos:['Drama','Romance'],
+tags:['LGBTQ','Amor no correspondido','Amistad','Juventud','Reencuentro','Cartas de amor','Pasado','Memoria','Soledad','Arrepentimiento','Aceptación','Amor perdido','Segundas oportunidades'],
+personas:[],
+ships:[],
+sinopsis:'La historia sigue a Tommy, un hombre cuya vida queda marcada por un amor que nunca llegó a resolverse. A lo largo de distintas etapas de su vida, la historia reconstruye sus relaciones, los sentimientos que nunca se atrevió a expresar y las consecuencias de permanecer en silencio. Un recuerdo del pasado, un antiguo compañero y una serie de encuentros posteriores hacen que Tommy vuelva una y otra vez sobre las decisiones que tomó. Entre recuerdos, cartas, arrepentimientos y nuevas relaciones, la serie explora cómo un amor puede permanecer presente durante décadas y cómo aprender a aceptar aquello que nunca pudo ser.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
 
 ];
