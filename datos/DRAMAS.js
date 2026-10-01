@@ -20950,6 +20950,202 @@ especiales:[],
 activo:true
 },
 
+/* ===============  THE LOST RING — DR000410  =================== */
+
+{
+codigo:'DR000410',
+titulo:'The Lost Ring',
+alias:['Chiếc Nhẫn Đi Lạc'],
+pais:'VN',
+anio:2018,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:34,
+estado:'Finalizado',
+estreno:'2018-02-01',
+finalizacion:'2018-02-01',
+generos:['Drama','Romance'],
+tags:['Amor','Convivencia','Diferencias sociales','Empleo','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Quan','Cot']}
+],
+sinopsis:'Cot es un estudiante trabajador que compagina sus estudios con un empleo como ayudante doméstico. Su vida cambia al comenzar a trabajar para Quan, un joven adinerado de carácter difícil. Las constantes discusiones entre ambos dan paso progresivamente a una relación más cercana y a sentimientos románticos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  BECAUSE OF MEETING, WE MEET EACH OTHER — DR000411  =================== */
+
+{
+codigo:'DR000411',
+titulo:'Because of Meeting, We Meet Each Other',
+alias:['Vì Gặp Nên Mới Tương Phùng','Because of Meeting You, We Can Be Here Together','Because Of Meeting, We Meet Together'],
+pais:'VN',
+anio:2018,
+tipo:'Webserie',
+franquicia:null,
+universo:'UN000012',
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:29,
+duracion:20,
+estado:'Finalizado',
+estreno:'2018-05-05',
+finalizacion:'2018-11-02',
+generos:['Drama','Comedia','Romance'],
+tags:['Amor','Convivencia','Familia','Diferencias sociales','Reencuentro','LGBT','Colaboración Vietnam-China'],
+personas:[],
+ships:[
+  {personajes:['Ha Sinh','Vien Truc']}
+],
+sinopsis:'Ha Sinh es un joven procedente de una familia pobre que abandona su hogar para trasladarse a la ciudad después de que su abuelo lo entregue a un hombre rico como compensación por un antiguo favor. Allí debe adaptarse a su nueva vida y convivir con Vien Truc. Lo que comienza como una relación complicada y llena de rechazo se transforma gradualmente en una relación cercana y amorosa.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  ACTIVE BOYS — DR000412  =================== */
+
+{
+codigo:'DR000412',
+titulo:'Active Boys',
+alias:['Những Chàng Trai Năng Động','Active Boys The Series','Activeboys'],
+pais:'VN',
+anio:2018,
+tipo:'Webserie',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:12,
+duracion:15,
+estado:'Finalizado',
+estreno:'2018-07-18',
+finalizacion:'2018-10-05',
+generos:['Drama','Comedia','Romance','Escolar'],
+tags:['Instituto','Club de música','Baloncesto','Amistad','Rivalidad','Amor','Juventud','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Minh Lâm','Hoàng Đăng']},
+  {personajes:['Thầy Tâm','Tuấn Dũng']}
+],
+sinopsis:'En una escuela internacional, los clubes de música y baloncesto entran en conflicto debido a la distribución desigual de los fondos para sus actividades. Minh Lâm, presidente del club de música, y Hoàng Đăng, presidente del club de baloncesto, se enfrentan y aceptan un desafío que obliga a ambos grupos a intercambiar disciplinas. Mientras la rivalidad entre los dos líderes evoluciona hacia sentimientos románticos, también se desarrolla la relación entre el profesor Tâm y Tuấn Dũng.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  FOOTBALL GUYS — DR000413  =================== */
+
+{
+codigo:'DR000413',
+titulo:'Football Guys',
+alias:['Những Chàng Trai Sân Cỏ'],
+pais:'VN',
+anio:2018,
+tipo:'Webserie',
+franquicia:{codigo:'FR000028',orden:1},
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:7,
+duracion:15,
+estado:'Finalizado',
+estreno:'2018-08-15',
+finalizacion:'2018-09-25',
+generos:['Drama','Romance','Comedia','Deportes'],
+tags:['Fútbol','Instituto','Amistad','Rivalidad','Amor','Equipo','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Tiến Dũng','Đức Chinh']}
+],
+sinopsis:'Tiến Dũng es conocido en la escuela como un excelente portero, aunque también tiene un carácter frío y egoísta. La llegada de Đức Chinh, un nuevo estudiante con gran talento para el fútbol, cambia su rutina. Obligados a convivir y a compartir su pasión por el deporte, la rivalidad entre ambos evoluciona hacia una relación romántica.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* ===============  BIKINI WARS — DR000414  =================== */
+
+{
+codigo:'DR000414',
+titulo:'Bikini Wars',
+alias:['Bikini Báo Thù','Bikini War'],
+pais:'VN',
+anio:2018,
+tipo:'Webserie',
+franquicia:{codigo:'FR000028',orden:2},
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:13,
+duracion:12,
+estado:'Finalizado',
+estreno:'2018-11-27',
+finalizacion:'2019-01-29',
+generos:['Drama','Romance','Comedia'],
+tags:['Fútbol','Amnesia','Entrenamiento','Hotel','Venganza','Amor','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Tiến Dũng','Đức Chinh']}
+],
+sinopsis:'Continuación de Football Guys. Después de los acontecimientos de la primera historia, Tiến Dũng sufre una pérdida de memoria y termina viviendo en un complejo hotelero. Cuando Đức Chinh y sus compañeros llegan al lugar para realizar un campamento de entrenamiento, vuelven a encontrarse con Tiến Dũng y comienza una nueva etapa de su historia.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+}
+
 
 
 
