@@ -21878,7 +21878,231 @@ multimedia:{
 entidades:[],
 especiales:[],
 activo:true
-}
+},
+	
+/* =============== THE TIME ADVENTURE OF TÔ AN — DR000435 =================== */
+{
+codigo:'DR000435',
+titulo:'The Time Adventure of Tô An',
+alias:['Tô An Ký'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-01-09',
+finalizacion:'2020-03-27',
+generos:['Drama','Romance','Fantasía'],
+tags:['BL','Viajes en el tiempo','Amor','Reencuentro','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Tô An viaja en el tiempo y se ve envuelto en una historia de amor que conecta diferentes momentos de su vida. El viaje temporal le permite descubrir secretos, sentimientos y vínculos que cambiarán su forma de entender el pasado y el presente.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[
+  'The Story of Ngoc Chi',
+  'The Love of Ngoc Nga',
+  'The Loneliness of Henry'
+],
+activo:true
+},
+
+/* =============== STAGE OF LOVE — DR000436 =================== */
+{
+codigo:'DR000436',
+titulo:'Stage of Love',
+alias:['Stage of Love The Series'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-06-12',
+finalizacion:'2020-07-31',
+generos:['Drama','Romance'],
+tags:['BL','Universidad','Amor','Amistad','Celos','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Una historia de amor entre jóvenes que se conocen durante su etapa universitaria. Los sentimientos de los protagonistas se desarrollan mientras afrontan malentendidos, celos y las dificultades propias de sus relaciones.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[
+  'Extra Episode 1: Hy & Khanh',
+  'Extra Episode 2: Huan'
+],
+activo:true
+},
+
+/* =============== MY LITTLE SISTER — DR000437 =================== */
+{
+codigo:'DR000437',
+titulo:'My Little Sister',
+alias:[],
+pais:'VN',
+anio:2020,
+tipo:'Webserie',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-07-17',
+finalizacion:'2020-08-21',
+generos:['Drama','Romance'],
+tags:['BL','GL','Familia','Amor','Juventud','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Una historia juvenil que combina tramas BL y GL y sigue las relaciones y conflictos sentimentales de varios jóvenes mientras afrontan el amor, los malentendidos y sus vínculos personales.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== HAPPINESS FLIES FAR AWAY — DR000438 =================== */
+{
+codigo:'DR000438',
+titulo:'Happiness Flies Far Away',
+alias:['Hạnh Phúc Xa Bay'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:8,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-10-29',
+finalizacion:'2020-12-17',
+generos:['Drama','Romance'],
+tags:['BL','Amor','Familia','Separación','Reencuentro','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Una historia de amor marcada por la distancia y las circunstancias que separan a sus protagonistas. Los sentimientos permanecen mientras ambos afrontan las dificultades que amenazan su relación y su búsqueda de la felicidad.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== FOLLOW MY SUNSHINE — DR000439 =================== */
+{
+codigo:'DR000439',
+titulo:'Follow My Sunshine',
+alias:['Follow My Sunshine The Series'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-12-23',
+finalizacion:'2021-01-20',
+generos:['Drama','Romance'],
+tags:['BL','Amor','Juventud','Reencuentro','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Una historia romántica centrada en dos jóvenes cuyo vínculo se desarrolla mientras afrontan sus sentimientos y las circunstancias que ponen a prueba su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== NATION'S BROTHER — DR000440 =================== */
+{
+codigo:'DR000440',
+titulo:"Nation's Brother",
+alias:['Anh Trai Quốc Dân'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-12-30',
+finalizacion:'2021-02-19',
+generos:['Drama','Romance'],
+tags:['BL','Amor','Amistad','Triángulo amoroso','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'La relación entre dos jóvenes comienza a cambiar cuando la convivencia y los sentimientos hacen que su vínculo vaya más allá de la amistad. Los protagonistas deben enfrentarse a los malentendidos y a un triángulo amoroso mientras intentan definir su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
 
 
 
