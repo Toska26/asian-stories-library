@@ -22176,8 +22176,83 @@ multimedia:{
 entidades:[],
 especiales:[],
 activo:true
-}
+},
+	
+/* =============== HAPPY FAMILY — DR000443 =================== */
+{
+codigo:'DR000443',
+titulo:'Happy Family',
+alias:['Gia Đình Vui Vẻ'],
+pais:'VN',
+anio:2019,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000443',
+temporadas:2,
+temporada:1,
+episodios:4,
+duracion:null,
+estado:'Finalizado',
+estreno:'2019-02-05',
+finalizacion:'2019-02-22',
+generos:['Comedia','Romance'],
+tags:['BL','LGBT','Sitcom','Familia','Romance'],
+personas:[],
+ships:[
+  {personajes:['Gia Huy','Tuấn Anh']}
+],
+sinopsis:'Una familia se reúne para celebrar el Tết, el Año Nuevo vietnamita. Entre los invitados se encuentran Gia Huy y su jefe Tuấn Anh, cuya relación parece ir mucho más allá de la relación profesional. La convivencia familiar da lugar a situaciones cómicas y románticas.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
+/* =============== HAPPY FAMILY — DR000444 =================== */
+{
+codigo:'DR000444',
+titulo:'Happy Family',
+alias:['Gia Đình Vui Vẻ','Happy Family Season 2'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000443',
+temporadas:2,
+temporada:2,
+episodios:5,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-03-29',
+finalizacion:'2020-04-25',
+generos:['Comedia','Romance'],
+tags:['BL','LGBT','Sitcom','Familia','Romance'],
+personas:[],
+ships:[
+  {personajes:['Gia Huy','Tuấn Anh']}
+],
+sinopsis:'Segunda temporada de Happy Family, que continúa las historias de la familia y de las relaciones surgidas en su entorno, manteniendo el tono de comedia y romance de la primera temporada.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
 
 
