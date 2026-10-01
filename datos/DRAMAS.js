@@ -22262,7 +22262,7 @@ alias:['Mẹ Chồng Chàng Dâu'],
 pais:'VN',
 anio:2017,
 tipo:'Webdrama',
-franquicia:null,
+franquicia:{codigo:'FR000030',orden:2},
 universo:null,
 serie:'SR000445',
 temporadas:2,
@@ -22300,7 +22300,7 @@ alias:['Mẹ Chồng Chàng Dâu','My Monster In Law Season 2'],
 pais:'VN',
 anio:2021,
 tipo:'Webdrama',
-franquicia:null,
+franquicia:{codigo:'FR000030',orden:3},
 universo:null,
 serie:'SR000445',
 temporadas:2,
@@ -22443,7 +22443,349 @@ entidades:[],
 especiales:[],
 activo:true
 },
+/* =============== HEY RIVAL, I LOVE YOU! — DR000450 =================== */
+{
+codigo:'DR000450',
+titulo:'Hey Rival, I Love You!',
+alias:['Tình Địch, I Love You!','Enemy, I Love You!'],
+pais:'VN',
+anio:2021,
+tipo:'Cortometraje',
+franquicia:{codigo:'FR000030',orden:1},
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:36,
+estado:'Finalizado',
+estreno:'2021-01-14',
+finalizacion:'2021-01-14',
+generos:['Comedia','Romance'],
+tags:['BL','LGBT','Romance','Rivales a amantes','Cortometraje'],
+personas:[],
+ships:[
+  {personajes:['Dương','Hoàng Phúc']}
+],
+sinopsis:'Dos jóvenes que descubren que están saliendo con la misma chica deciden unir fuerzas para enfrentarse a ella. Sin embargo, mientras llevan a cabo su plan, la rivalidad entre ambos se transforma progresivamente en sentimientos románticos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
+/* =============== BEEF, CUPCAKES AND HIM — DR000451 =================== */
+{
+codigo:'DR000451',
+titulo:'Beef, Cupcakes And Him',
+alias:['Bữa Tối, Bánh Ngọt Và Anh'],
+pais:'VN',
+anio:2021,
+tipo:'Cortometraje',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:54,
+estado:'Finalizado',
+estreno:'2021-12-28',
+finalizacion:'2021-12-28',
+generos:['Drama','Romance'],
+tags:['BL','LGBT','Romance','Cocina','Amigos a amantes','Cortometraje'],
+personas:[],
+ships:[
+  {personajes:['Huy','Thang']}
+],
+sinopsis:'Huy, un joven cocinero prometedor, pierde su trabajo en un restaurante de cinco estrellas y debe hacerse cargo de su hermana menor. En ese momento reaparece Thang, un antiguo amigo de la infancia. Ambos terminan creando juntos un negocio de catering y, mientras afrontan distintas dificultades, sus sentimientos comienzan a transformarse.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+	/* ===============  YOU ARE MA BOY — DR000452  =================== */
+
+{
+  codigo:'DR000452',
+  titulo:'You Are Ma Boy',
+  alias:['Em Là Chàng Trai Của Anh','You Are My Boy'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:6,
+  duracion:25,
+  estado:'Finalizado',
+  estreno:'2021-01-05',
+  finalizacion:'2021-02-23',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Bách Dương','Nhật Nam']}
+  ],
+  sinopsis:'Bách Dương y Nhật Nam pasan de una relación de enfrentamiento a sentimientos románticos, mientras deben afrontar las complicaciones de enamorarse.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  FOOLs – NHỮNG KẺ KHỜ — DR000453  =================== */
+
+{
+  codigo:'DR000453',
+  titulo:'FOOLs – Những Kẻ Khờ',
+  alias:['FOOLs','Những Kẻ Khờ'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:4,
+  duracion:20,
+  estado:'Finalizado',
+  estreno:'2021-01-16',
+  finalizacion:'2021-02-07',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','Coming of Age','Antología','YouTube'],
+  personas:[],
+  ships:[],
+  sinopsis:'Cuatro capítulos recorren los últimos momentos de juventud de tres amigos, entre recuerdos, sentimientos no expresados, decisiones y despedidas.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  SCHOOL'S OUT! LET'S DATE NOW! — DR000454  =================== */
+
+{
+  codigo:'DR000454',
+  titulo:"School's Out! Let's Date Now!",
+  alias:['Tan học rồi, hẹn hò không?'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:5,
+  duracion:24,
+  estado:'Finalizado',
+  estreno:'2021-01-31',
+  finalizacion:'2021-03-14',
+  generos:['Drama','Romance','GL','BL'],
+  tags:['GL','BL','Escolar','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[],
+  sinopsis:'Drama escolar que sigue las relaciones, amistades, celos, descubrimientos y secretos de un grupo de estudiantes. La historia es principalmente GL e incluye también una pareja BL secundaria.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  THE MOST PEACEFUL PLACE IS MY PLACE — DR000455  =================== */
+
+{
+  codigo:'DR000455',
+  titulo:'The Most Peaceful Place Is My Place',
+  alias:['Nơi Bình Yên Nhất Là Về Bên Em','The Most Peaceful Place Is with You','The Most Peaceful Place'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:6,
+  duracion:27,
+  estado:'Finalizado',
+  estreno:'2021-03-23',
+  finalizacion:'2021-05-28',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Phúc','Tùng']}
+  ],
+  sinopsis:'Tùng regresa a Đà Lạt y se queda con su amigo de la infancia Phúc. La convivencia hace aflorar sentimientos, malentendidos y conflictos que ponen a prueba su relación.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  MY LASCIVIOUS BOSS — DR000456  =================== */
+
+{
+  codigo:'DR000456',
+  titulo:'My Lascivious Boss',
+  alias:['Ông Chủ, Đừng Đến Đây!','Ông chủ, đừng đến đây!'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:null,
+  temporadas:1,
+  temporada:1,
+  episodios:10,
+  duracion:17,
+  estado:'Finalizado',
+  estreno:'2021-04-04',
+  finalizacion:'2021-06-06',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Minh Hoàng','Thiên Long']}
+  ],
+  sinopsis:'Minh Hoàng trabaja para mantener a su madre y termina trabajando en una cafetería, donde conoce a Thiên Long, su jefe. La relación entre ambos evoluciona mientras se enfrentan a sus circunstancias personales.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  MR CINDERELLA — DR000457  =================== */
+
+{
+  codigo:'DR000457',
+  titulo:'Mr Cinderella',
+  alias:['Chàng Lọ Lem','Mr. Cinderella'],
+  pais:'VN',
+  anio:2021,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:'SR000457',
+  temporadas:2,
+  temporada:1,
+  episodios:8,
+  duracion:35,
+  estado:'Finalizado',
+  estreno:'2021-11-28',
+  finalizacion:'2022-01-16',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Dũng','Khoa']}
+  ],
+  sinopsis:'Dũng, marcado desde niño por la desaparición de la persona a la que llamaba su Cenicienta, se reencuentra años después con Khoa, un médico que entra inesperadamente en su vida.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+},
+
+/* ===============  MR CINDERELLA 2 — DR000458  =================== */
+
+{
+  codigo:'DR000458',
+  titulo:'Mr Cinderella 2',
+  alias:['Chàng Lọ Lem 2','Mr. Cinderella 2'],
+  pais:'VN',
+  anio:2023,
+  tipo:'Drama',
+  franquicia:null,
+  universo:null,
+  serie:'SR000457',
+  temporadas:2,
+  temporada:2,
+  episodios:8,
+  duracion:35,
+  estado:'Finalizado',
+  estreno:'2023-09-23',
+  finalizacion:'2023-11-11',
+  generos:['Drama','Romance','BL'],
+  tags:['BL','LGBTQ+','YouTube'],
+  personas:[],
+  ships:[
+    {personajes:['Dũng','Khoa']}
+  ],
+  sinopsis:'Dũng y Khoa viven juntos como pareja, pero la aparición inesperada del hermano pequeño de Khoa altera su vida y pone a prueba su relación.',
+  multimedia:{
+    portada:[],
+    trailer:[],
+    teaser:[],
+    pilot:[],
+    ost:[],
+    videos:[]
+  },
+  entidades:[],
+  especiales:[],
+  activo:true
+}
 
 
 
