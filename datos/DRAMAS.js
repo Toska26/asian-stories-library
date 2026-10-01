@@ -20877,6 +20877,79 @@ entidades:[],
 especiales:[],
 activo:true
 },
+	
+{
+codigo:'DR000408',
+titulo:'My Sky',
+alias:['Bầu Trời Của Khánh'],
+pais:'VN',
+anio:2017,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:5,
+duracion:15,
+estado:'Finalizado',
+estreno:'2017-08-31',
+finalizacion:'2017-09-28',
+generos:['Drama','Romance','Escolar'],
+tags:['Amor','Primer amor','Reencuentro','Instituto','Fama','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Khánh','Thiên']}
+],
+sinopsis:'Khánh vuelve a encontrarse con Thiên, su amigo de la infancia y primer amor, después de que una tragedia y secretos familiares los separaran años atrás. Thiên se ha convertido en un famoso cantante mientras continúa sus estudios, y el reencuentro entre ambos hace resurgir los sentimientos que habían quedado sin resolver.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+{
+codigo:'DR000409',
+titulo:'Forever Love',
+alias:['Tình Khiên Nhất Sinh','Anh Còn Nợ Em','I Owe You'],
+pais:'VN',
+anio:2017,
+tipo:'Webserie',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:null,
+temporada:null,
+episodios:4,
+duracion:16,
+estado:'Finalizado',
+estreno:'2017-11-11',
+finalizacion:'2017-12-02',
+generos:['Drama','Romance'],
+tags:['Amor','Amor eterno','Separación','Reencuentro','LGBT'],
+personas:[],
+ships:[],
+sinopsis:'Una historia de amor marcada por el paso del tiempo, la separación y la espera. Dos personas permanecen unidas por sus sentimientos a pesar de las circunstancias que las obligan a vivir alejadas, poniendo a prueba la fuerza de un amor que aspira a durar toda la vida.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
 
 
 
