@@ -21654,7 +21654,232 @@ multimedia:{
 entidades:[],
 especiales:[],
 activo:true
+},
+
+/* =============== TIẾN BROMANCE: MY SMALL FAMILY — DR000429 =================== */
+{
+codigo:'DR000429',
+titulo:'Tiến Bromance: My Small Family',
+alias:['Tiến Bromance: The Bonus Episodes'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000427',
+temporadas:3,
+temporada:2,
+episodios:10,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-08-15',
+finalizacion:'2021-06-15',
+generos:['Drama','Romance','Acción'],
+tags:['BL','Pareja','Familia','Convivencia','Amor','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Tiến','Tài']}
+],
+sinopsis:'Después de los acontecimientos de Tiến Bromance, Tiến y Tài intentan construir una vida tranquila juntos y formar una pequeña familia. Esta etapa se centra en su convivencia y en los desafíos que afrontan como pareja, alejándose inicialmente de los conflictos y peligros de la historia original.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== TIẾN BROMANCE: MY SMALL FAMILY 2 — DR000430 =================== */
+{
+codigo:'DR000430',
+titulo:'Tiến Bromance: My Small Family 2',
+alias:['Tiến Bromance: The Bonus Episodes (Part 2)'],
+pais:'VN',
+anio:2021,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000427',
+temporadas:3,
+temporada:3,
+episodios:5,
+duracion:null,
+estado:'Finalizado',
+estreno:'2021-04-15',
+finalizacion:'2021-06-15',
+generos:['Drama','Romance','Acción'],
+tags:['BL','Pareja','Familia','Convivencia','Amor','LGBT'],
+personas:[],
+ships:[
+  {personajes:['Tiến','Tài']}
+],
+sinopsis:'Segunda parte de My Small Family. Tiến y Tài continúan su vida en pareja mientras nuevos problemas interrumpen la tranquilidad que habían conseguido construir después de los acontecimientos de la historia original.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== NHÀ TRỌ CÓ QUÁ TRỜI PHÒNG PHẦN 2 — DR000431 =================== */
+{
+codigo:'DR000431',
+titulo:'Nhà Trọ Có Quá Trời Phòng Phần 2',
+alias:['Nhà Trọ Có Quá Trời Phòng 2'],
+pais:'VN',
+anio:2020,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000428',
+temporadas:3,
+temporada:2,
+episodios:null,
+duracion:null,
+estado:'Finalizado',
+estreno:'2020-06-17',
+finalizacion:null,
+generos:['Comedia','Drama'],
+tags:['Pensión','Vecinos','Familia','Amistad','Vida cotidiana','Humor'],
+personas:[],
+ships:[],
+sinopsis:'Segunda parte de la historia del barrio de vecinos de Nhà Trọ Có Quá Trời Phòng. Thơ Hột Lệ continúa enfrentándose a las situaciones cotidianas, los conflictos y las relaciones que surgen entre los distintos residentes de la pensión.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== NHÀ TRỌ CÓ QUÁ TRỜI PHÒNG PHẦN 3 — DR000432 =================== */
+{
+codigo:'DR000432',
+titulo:'Nhà Trọ Có Quá Trời Phòng Phần 3',
+alias:['Nhà Trọ Có Quá Trời Phòng 3'],
+pais:'VN',
+anio:2023,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000428',
+temporadas:3,
+temporada:3,
+episodios:3,
+duracion:null,
+estado:'Finalizado',
+estreno:'2023-01-15',
+finalizacion:'2023-01-29',
+generos:['Comedia','Drama'],
+tags:['Pensión','Vecinos','Familia','Amistad','Vida cotidiana','Humor','Tết'],
+personas:[],
+ships:[],
+sinopsis:'Tercera parte de la serie, nuevamente centrada en el barrio de Thơ Hột Lệ y sus residentes. La historia retoma la vida del vecindario y presenta nuevas situaciones cómicas y conflictos durante el período del Tết.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== MẾN GÁI MIỀN TÂY — DR000433 =================== */
+{
+codigo:'DR000433',
+titulo:'Mến Gái Miền Tây',
+alias:['Mến Gái Miền Tây: Ghe Bẹo Ghẹo Ai'],
+pais:'VN',
+anio:2022,
+tipo:'Película',
+franquicia:{codigo:'FR000029',orden:2},
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:1,
+duracion:103,
+estado:'Finalizado',
+estreno:'2022-03-25',
+finalizacion:'2022-03-25',
+generos:['Drama','Comedia','Romance'],
+tags:['LGBT','Amor','Familia','Identidad','Prejuicios','Comunidad LGBT'],
+personas:[],
+ships:[
+  {personajes:['Mến','Nhớ']}
+],
+sinopsis:'La historia continúa las experiencias de Mến, una persona de la comunidad LGBT que debe enfrentarse a los prejuicios y a las dificultades familiares y sociales mientras intenta vivir de acuerdo con sus sentimientos y su identidad.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== GHE BẸO GHẸO AI 2 — DR000434 =================== */
+{
+codigo:'DR000434',
+titulo:'Ghe Bẹo Ghẹo Ai 2',
+alias:['Mến 2'],
+pais:'VN',
+anio:2023,
+tipo:'Webdrama',
+franquicia:{codigo:'FR000029',orden:3},
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:35,
+estado:'Finalizado',
+estreno:'2023-06-08',
+finalizacion:null,
+generos:['Drama','Comedia','Romance'],
+tags:['BL','LGBT','Amor','Familia','Identidad','Prejuicios','Infidelidad'],
+personas:[],
+ships:[
+  {personajes:['Mến','Nhớ']}
+],
+sinopsis:'La historia de Mến comienza durante su etapa escolar, cuando protege a otros jóvenes de la comunidad LGBT mientras oculta su propia identidad y sus sentimientos por Nhớ. Años después, su vida en pareja vuelve a enfrentarse a una nueva crisis cuando descubre la infidelidad de Nhớ.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
 }
+
 
 
 
