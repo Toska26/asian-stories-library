@@ -38,4 +38,11 @@ pais:'VN',
 descripcion:'Universo compartido de producciones vietnamitas ambientadas en el mundo criminal de Chợ Mới, incluyendo Thập Tứ Cô Nương y Trật Tự Mới, relacionadas con el universo de Giang Hồ Chợ Mới.',
 activo:true
 },
+{
+codigo:'UN000014',
+nombre:'Tiến-Tài Universe',
+pais:'VN',
+descripcion:'Universo compartido de producciones vietnamitas relacionadas con los personajes Tiến y Tài, incluyendo la serie Tiến Bromance, sus temporadas derivadas y otras historias protagonizadas por la misma pareja en diferentes contextos narrativos.',
+activo:true
+},
 ];
