@@ -22254,8 +22254,195 @@ especiales:[],
 activo:true
 },
 
+/* =============== MY MONSTER IN LAW — DR000445 =================== */
+{
+codigo:'DR000445',
+titulo:'My Monster In Law',
+alias:['Mẹ Chồng Chàng Dâu'],
+pais:'VN',
+anio:2017,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000445',
+temporadas:2,
+temporada:1,
+episodios:31,
+duracion:15,
+estado:'Finalizado',
+estreno:'2017-05-12',
+finalizacion:'2017-09-04',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','LGBT','Sitcom','Familia','Matrimonio','Convivencia'],
+personas:[],
+ships:[
+  {personajes:['Hùng Cường','Jackie']}
+],
+sinopsis:'Hùng Cường regresa a Vietnam junto a Jackie, su esposo, después de varios años en Estados Unidos. Su madre esperaba recibir a una nuera y descubrir que su hijo está casado con otro hombre provoca un conflicto familiar lleno de situaciones cómicas, choques culturales y dificultades para aceptar su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
+/* =============== MY MONSTER IN LAW — DR000446 =================== */
+{
+codigo:'DR000446',
+titulo:'My Monster In Law',
+alias:['Mẹ Chồng Chàng Dâu','My Monster In Law Season 2'],
+pais:'VN',
+anio:2021,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000445',
+temporadas:2,
+temporada:2,
+episodios:12,
+duracion:null,
+estado:'Finalizado',
+estreno:'2021-05-27',
+finalizacion:'2021-07-01',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','LGBT','Sitcom','Familia','Matrimonio','Convivencia'],
+personas:[],
+ships:[
+  {personajes:['Hùng Cường','Jackie']}
+],
+sinopsis:'Segunda temporada de My Monster In Law, que retoma la historia de la familia y de la pareja formada por Hùng Cường y Jackie, manteniendo el formato de comedia y los conflictos familiares de la primera temporada.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
+/* =============== STUPID BOYS STUPID LOVE — DR000447 =================== */
+{
+codigo:'DR000447',
+titulo:'Stupid Boys Stupid Love',
+alias:['Yêu Đi Sợ Gì'],
+pais:'VN',
+anio:2021,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000447',
+temporadas:3,
+temporada:1,
+episodios:4,
+duracion:null,
+estado:'Finalizado',
+estreno:'2021-04-24',
+finalizacion:'2021-05-15',
+generos:['Drama','Romance'],
+tags:['BL','LGBT','Romance','Amistad','Instituto'],
+personas:[],
+ships:[
+  {personajes:['Trọng Nghĩa','Nhật Minh']}
+],
+sinopsis:'Trọng Nghĩa y Nhật Minh han sido amigos desde la infancia, pero Nghĩa comienza a descubrir que sus sentimientos hacia su mejor amigo son algo más que amistad. El inicio de la historia establece la relación y los acontecimientos que continuarán en las siguientes temporadas.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== YOU ARE MY SUNSHINE — DR000448 =================== */
+{
+codigo:'DR000448',
+titulo:'You Are My Sunshine',
+alias:['Ấn Tượng Ban Đầu'],
+pais:'VN',
+anio:2021,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000447',
+temporadas:3,
+temporada:2,
+episodios:2,
+duracion:null,
+estado:'Finalizado',
+estreno:'2021-12-18',
+finalizacion:'2021-12-25',
+generos:['Drama','Romance'],
+tags:['BL','LGBT','Romance','Instituto','Enemigos a amantes'],
+personas:[],
+ships:[
+  {personajes:['Khoa','Trường']}
+],
+sinopsis:'Segunda temporada de la historia iniciada en Stupid Boys Stupid Love. Khoa y Trường tienen una primera impresión negativa el uno del otro, pero las circunstancias hacen que su relación evolucione progresivamente hacia el afecto.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== YOU ARE MY STUPID BOY — DR000449 =================== */
+{
+codigo:'DR000449',
+titulo:'You Are My Stupid Boy',
+alias:['Tựa Ánh Dương Ngời'],
+pais:'VN',
+anio:2022,
+tipo:'Webdrama',
+franquicia:null,
+universo:null,
+serie:'SR000447',
+temporadas:3,
+temporada:3,
+episodios:3,
+duracion:null,
+estado:'Finalizado',
+estreno:'2022-01-15',
+finalizacion:'2022-01-29',
+generos:['Drama','Romance'],
+tags:['BL','LGBT','Romance','Familia','Instituto'],
+personas:[],
+ships:[
+  {personajes:['Trường','Khoa']}
+],
+sinopsis:'Tercera temporada de la historia iniciada en Stupid Boys Stupid Love y continuada en You Are My Sunshine. Trường y Khoa llevan varios meses juntos y viajan para celebrar el Tết con la familia de Trường, donde deben afrontar nuevas dificultades para consolidar su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 
 
 
