@@ -42,4 +42,5 @@ const FRANQUICIAS = [
 },
    {codigo:'FR000027', nombre:'Adam\'s Story', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Adam\'s Story y su continuación Roommates, producciones independientes que mantienen una continuidad narrativa.', activo:true },
 {codigo:'FR000028', nombre:'Football Guys', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia BL vietnamita formada por Football Guys y su continuación Bikini Wars, producciones de YoungLife TiVi que mantienen una continuidad narrativa.', activo:true },
+{codigo:'FR000029', nombre:'Ghe Bẹo Ghẹo Ai', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Ghe Bẹo Ghẹo Ai y sus producciones derivadas y continuaciones relacionadas, incluyendo Mến Gái Miền Tây y Ghe Bẹo Ghẹo Ai 2.', activo:true },
 ];
