@@ -31,4 +31,11 @@ const UNIVERSOS = [
 },
 { codigo:'UN000011', nombre:'Adam\'s Story Universe', pais:'VN', descripcion:'Universo compartido de producciones vietnamitas relacionadas con Adam\'s Story, incluyendo Adam\'s Story, Roommates, Neighbor Guy y My Brother.', activo:true },
 { codigo:'UN000012', nombre:'Colaboraciones Vietnam–China', descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre Vietnam y China.', activo:true },
+   {
+codigo:'UN000013',
+nombre:'Giang Hồ Chợ Mới Universe',
+pais:'VN',
+descripcion:'Universo compartido de producciones vietnamitas ambientadas en el mundo criminal de Chợ Mới, incluyendo Thập Tứ Cô Nương y Trật Tự Mới, relacionadas con el universo de Giang Hồ Chợ Mới.',
+activo:true
+},
 ];
