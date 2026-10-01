@@ -41,4 +41,5 @@ const FRANQUICIAS = [
     activo:true
 },
    {codigo:'FR000027', nombre:'Adam\'s Story', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Adam\'s Story y su continuación Roommates, producciones independientes que mantienen una continuidad narrativa.', activo:true },
+{codigo:'FR000028', nombre:'Football Guys', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia BL vietnamita formada por Football Guys y su continuación Bikini Wars, producciones de YoungLife TiVi que mantienen una continuidad narrativa.', activo:true },
 ];
