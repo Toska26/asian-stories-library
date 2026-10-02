@@ -45,4 +45,40 @@ pais:'VN',
 descripcion:'Universo compartido de producciones vietnamitas relacionadas con los personajes Tiến y Tài, incluyendo la serie Tiến Bromance, sus temporadas derivadas y otras historias protagonizadas por la misma pareja en diferentes contextos narrativos.',
 activo:true
 },
+   {
+    codigo:'UN000015',
+    nombre:'Colaboraciones China–Singapur',
+    descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China y Singapur.',
+    activo:true
+},
+   {
+    codigo:'UN000016',
+    nombre:'Mo Dao Zu Shi / The Untamed',
+    descripcion:'Universo audiovisual relacionado con Mo Dao Zu Shi y sus adaptaciones y producciones derivadas, incluyendo The Untamed, su edición especial y sus spin-offs cinematográficos.',
+    activo:true
+},
+   {
+    codigo:'UN000017',
+    nombre:'I Don’t Want to Be Friends / Brothers with You',
+    descripcion:'Universo formado por I Don’t Want to Be Friends with You (2020) e I Don’t Want to Be Brothers with You (2022), producciones relacionadas dentro de una misma línea narrativa y temática.',
+    activo:true
+},
+{
+    codigo:'UN000018',
+    nombre:'Colaboraciones China–Taiwán–Tailandia',
+    descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China, Taiwán y Tailandia.',
+    activo:true
+},
+   {
+    codigo:'UN000019',
+    nombre:'Colaboraciones China–Tailandia',
+    descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China y Tailandia.',
+    activo:true
+},
+   {
+    codigo:'UN000020',
+    nombre:'Colaboraciones China–Japón',
+    descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China y Japón.',
+    activo:true
+},
 ];
