@@ -581,6 +581,70 @@ DR000559	CN	2025	PlutoCharon
 DR000560	CN	2025	Until We Drown
 DR000561	CN	2025	Gu Jin Nan Qiu
 
+DR000562	CN	2025	The Leopard Cat Scholar
+DR000563	CN	2025	The Leopard Cat Scholar 2
+DR000564	CN	2024	Pink Summer
+DR000565	CN	2025	Happy, Happy
+
+DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
+DR000567	CN	2025	Yu Jun Chang Ge
+DR000568	CN	2025	Out of Control Starlight
+DR000569	CN	2025	Reach for the Stars
+DR000570	CN	2025	Ten Years of Silence
+DR000571	CN	2025	Jian Hun
+DR000572	CN	2025	Returned Master
+DR000573	CN	2025	Blades Amid Blossoms
+DR000574	CN	2025	Wildfire by Daylight
+DR000575	CN	2025	Blood River
+DR000576	CN	2025	Honey on the Edge of the Knife
+DR000577	CN	2025	Realm's Night Rain Dreamlike
+DR000578	CN	2025	The Company
+DR000579	CN	2025	He Should Have Shone Brightly
+DR000580	CN	2025	Time Raiders
+DR000581	CN	2025	Echoes of a Distant Chord
+DR000582	CN	2025	Disguise Game
+
+DR000583	CN	2022	The Blood of Youth
+DR000584	CN	2024	Dashing Youth
+
+
+DR000585	CN	2026	Archives: The Nanyang Mystery
+DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
+
+DR000587	CN	2026	Awakening the Steppe
+DR000588	CN	2026	Love After Addiction
+DR000589	CN-HK	2026	Feel What You Feel
+DR000590	CN	2026	Private Galaxy
+DR000591	CN	2026	A Mountain Can Hold Two Tigers
+DR000592	HK	2026	The Gaze
+DR000593	CN	2026	Journey With You
+
+DR000594	CN	2026	Blackout
+DR000595	CN	2026	The Summer You Kissed Me
+DR000596	CN	2026	A Winter Sun Wakes the Wind in Spring Hills' Dream
+DR000597	CN	2026	Blazing Him
+DR000598	CN-SG	2026	Deep In
+DR000599	HK	2026	Unfold
+
+DR000600	CN	2026	Bittersweet Love
+DR000601	CN	2026	Blue Lips
+DR000602	CN	2026	The Last Secret
+DR000603	CN	2026	Flirting with My Archrival on Earth
+DR000604	CN	2026	Kiss or Kill
+DR000605	CN	2026	The Last Oath
+DR000606	CN	2026	The Missing Piece
+DR000607	CN	2026	Till I See You
+DR000608	CN	2026	Sleep Therapist
+DR000609	CN-TH	2026	Not Yours
+
+DR000610	JP	2016	Ossan's Love
+DR000611	JP	2018	Ossan's Love
+DR000612	JP	2019	Ossan's Love -in the sky-
+DR000613	JP	2024	Ossan's Love -Returns-
+
+
+
+
 Matchbox → conservar EN000085 y eliminar después EN000120.
 Hanyang Studio → conservar EN000072 y eliminar EN000128.
 MODT Studio → conservar EN000099 y eliminar EN000117.
