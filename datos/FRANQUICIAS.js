@@ -44,4 +44,27 @@ const FRANQUICIAS = [
 {codigo:'FR000028', nombre:'Football Guys', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia BL vietnamita formada por Football Guys y su continuación Bikini Wars, producciones de YoungLife TiVi que mantienen una continuidad narrativa.', activo:true },
 {codigo:'FR000029', nombre:'Ghe Bẹo Ghẹo Ai', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Ghe Bẹo Ghẹo Ai y sus producciones derivadas y continuaciones relacionadas, incluyendo Mến Gái Miền Tây y Ghe Bẹo Ghẹo Ai 2.', activo:true },
 { codigo:'FR000030', nombre:'Hey Rival / My Monster In Law', pais:'VN', multimedia:{portada:''}, descripcion:'Franquicia vietnamita formada por Hey Rival, I Love You!, My Monster In Law y My Monster In Law 2. Las tres producciones mantienen una continuidad narrativa y siguen la relación de sus protagonistas desde su encuentro inicial hasta su vida en pareja y familiar.', activo:true },
+/* =============== FRANQUICIAS CHINA 2017 =================== */
+
+{
+    codigo:'FR000031',
+    nombre:'The Fairy Fox',
+    pais:'CN',
+    multimedia:{
+        portada:''
+    },
+    descripcion:'Franquicia china formada por The Fairy Fox y sus dos precuelas cinematográficas, Holy Fox Son 1: Advent y Holy Fox Son 2: Fairy Mountain Battle. Las tres producciones comparten el mismo universo narrativo y desarrollan acontecimientos relacionados con el clan zorro y sus protagonistas.',
+    activo:true
+},
+
+{
+    codigo:'FR000032',
+    nombre:'Love Is More Than a Word / Till Death Tear Us Apart',
+    pais:'CN',
+    multimedia:{
+        portada:''
+    },
+    descripcion:'Franquicia china formada por Love Is More Than a Word y Till Death Tear Us Apart. Ambas producciones están conectadas narrativamente y cuentan con los mismos protagonistas principales interpretando personajes vinculados mediante una idea de reencarnación.',
+    activo:true
+},
 ];
