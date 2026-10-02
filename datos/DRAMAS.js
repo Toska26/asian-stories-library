@@ -1905,6 +1905,7 @@ const DRAMAS = [
     tags: ['BL', 'Policial', 'Matrimonio de conveniencia', 'Convivencia forzada'],
     origen: {
         tipo: 'Novela',
+		relacion: 'Adaptación',
         titulo: 'The Inspector’s Wife',
         tituloOriginal: 'ภรรยาสารวัตรเธียร์',
         autor: 'Kanola',
@@ -23888,5 +23889,193 @@ especiales:[],
 activo:true
 },
 
+/* =============== HEHE & HE — TEMPORADA 1 — DR000488 =================== */
+{
+codigo:'DR000488',
+titulo:'Hehe & He',
+alias:['我的HeHe室友 第一季','Hehe & He Season 1'],
+pais:'HK',
+anio:2018,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000488',
+temporadas:3,
+temporada:1,
+episodios:24,
+duracion:15,
+estado:'Finalizado',
+estreno:'2018-10-04',
+finalizacion:'2020-04-10',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','Hong Kong','Sitcom','Compañeros de piso','Amistad','Vida cotidiana','Convivencia','Homosexualidad','Amor','Relaciones'],
+personas:[],
+ships:[
+  {personajes:['Zik','Radar']}
+],
+sinopsis:'Zik y Radar son dos jóvenes muy diferentes que terminan compartiendo piso en Hong Kong. Zik es abiertamente gay, mientras que Radar se considera heterosexual, y la convivencia entre ambos da lugar a situaciones cotidianas llenas de humor, incomodidades y momentos de afecto. A medida que comparten problemas, amistades y experiencias, su relación se vuelve cada vez más cercana y difícil de definir.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:['EP0','Special Episode 1','Special Episode 2'],
+activo:true
+},
 
+/* =============== HEHE & HE — TEMPORADA 2 — DR000489 =================== */
+{
+codigo:'DR000489',
+titulo:'Hehe & He',
+alias:['我的HeHe室友 第二季','Hehe & He Season 2'],
+pais:'HK',
+anio:2020,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000488',
+temporadas:3,
+temporada:2,
+episodios:19,
+duracion:17,
+estado:'Finalizado',
+estreno:'2020-05-13',
+finalizacion:'2021-10-03',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','Hong Kong','Sitcom','Compañeros de piso','Amistad','Convivencia','Vida cotidiana','Relaciones','Amor'],
+personas:[],
+ships:[
+  {personajes:['Zik','Radar']}
+],
+sinopsis:'Zik y Radar continúan compartiendo su vida y su piso mientras afrontan nuevas situaciones, problemas personales y cambios en su relación. La convivencia sigue siendo el centro de la historia, combinando humor y situaciones cotidianas con una relación cada vez más cercana entre ambos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== HEHE & HE — TEMPORADA 3 — DR000490 =================== */
+{
+codigo:'DR000490',
+titulo:'Hehe & He',
+alias:['HeHe室友 第三季','Hehe & He Season 3'],
+pais:'HK',
+anio:2021,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000488',
+temporadas:3,
+temporada:3,
+episodios:25,
+duracion:20,
+estado:'Finalizado',
+estreno:'2021-11-25',
+finalizacion:'2025-10-04',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','Hong Kong','Sitcom','Compañeros de piso','Amistad','Convivencia','Vida cotidiana','Relaciones','Amor','Reencuentro'],
+personas:[],
+ships:[
+  {personajes:['Zik','Radar']}
+],
+sinopsis:'Zik y Radar continúan su historia en una tercera temporada que retoma su relación y su vida cotidiana después de los acontecimientos anteriores. Nuevas situaciones, cambios personales y experiencias compartidas ponen a prueba su vínculo mientras siguen afrontando juntos las particularidades de su convivencia y de su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== SAMMY'S CHILDREN'S DAY — DR000491 =================== */
+{
+codigo:'DR000491',
+titulo:"Sammy's Children's Day",
+alias:['初三的六一兒童節','初三的六一儿童节','Cho Sam Dik Luk Yat Yi Tung Chit'],
+pais:'HK',
+anio:2026,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:9,
+duracion:null,
+estado:'Finalizado',
+estreno:'2026-03-13',
+finalizacion:'2026-05-01',
+generos:['Drama','Romance','Acción','Crimen'],
+tags:['BL','Hong Kong','Cantonés','Años 80','Ciudad Amurallada de Kowloon','Tríadas','Crimen','Corrupción','Venganza','Enemigos a amantes','Amor prohibido','Supervivencia'],
+personas:[],
+ships:[
+  {personajes:['He Chusan','Xia Liuyi']}
+],
+sinopsis:'Ambientada en la Ciudad Amurallada de Kowloon durante la década de 1980, la historia sigue a He Chusan, un joven estudiante que sueña con estudiar y escapar del caos que lo rodea. Su vida cambia cuando Xia Liuyi, un poderoso líder de una tríada, lo introduce a la fuerza en su mundo criminal. Entre conspiraciones, luchas de poder, violencia y secretos del pasado, ambos pasan de ser aliados forzados a convertirse en compañeros que deberán confiar el uno en el otro mientras buscan sobrevivir y vengarse.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== ASH — DR000492 =================== */
+{
+codigo:'DR000492',
+titulo:'Ash',
+alias:['煙灰','烟灰','Smoke & Ash','Smoke Ash','Cigarette Ash','Yan Hui'],
+pais:'HK',
+anio:2026,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+temporadas:1,
+temporada:1,
+episodios:9,
+duracion:45,
+estado:'Finalizado',
+estreno:'2026-08-14',
+finalizacion:'2026-10-02',
+generos:['Drama','Romance','Acción','Crimen','Suspense','Thriller'],
+tags:['BL','Hong Kong','Cantonés','Policía encubierto','Crimen organizado','Mafia','Identidad secreta','Enemigos a amantes','Amor prohibido','Corrupción','Traición','Lealtad','Doble identidad'],
+personas:[],
+ships:[
+  {personajes:['Mo Feihuan','Xu Luetao']}
+],
+sinopsis:'Mo Feihuan es un joven agente de policía que trabaja infiltrado, mientras Xu Luetao es el poderoso hijo mayor de una familia vinculada al mundo empresarial y criminal de Hong Kong. Cuando sus caminos se cruzan, ambos se sienten atraídos el uno por el otro mientras mantienen ocultas sus verdaderas identidades. En medio de una operación relacionada con el crimen organizado, falsificaciones, luchas entre grupos rivales y secretos familiares, la confianza entre ambos se convierte en una cuestión de supervivencia.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
 ];
