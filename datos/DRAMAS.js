@@ -5090,6 +5090,7 @@ tipo:'Drama',
 anio:2025,
 pais:'TH',
 idioma:'th',
+remake:{codigo:'RM000087',orden:3},
 franquicia:'',
 universo:'',
 serie:'SR000087',
@@ -15048,33 +15049,41 @@ activo:true
     especiales:[],
     activo:true
 },
+/* =============== UNCLE UNKNOWN — DR000539 =================== */
 
 {
     codigo:'DR000253',
     titulo:'Uncle Unknown',
     tituloOriginal:'叔不知',
-    alias:[],
-    tipo:'Drama',
+    alias:['Shu Bu Zhi','Shu Pu Chih'],
+    pais:['TW'],
     anio:2024,
-    pais:'TW',
-    idioma:'zh',
-    franquicia:'',
-    universo:'',
-    serie:'',
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'After the Flirting, My Uncle Kept Chasing Me',
+        tituloOriginal:'乱撩后小叔对我穷追不舍',
+        autor:'Wan Xi Zi',
+        pais:'CN'
+    },
     temporadas:1,
     temporada:1,
     episodios:12,
-    duracion:'7 min',
+    duracion:7,
     estado:'Finalizado',
     estreno:'2024-10-04',
     finalizacion:'2024-11-02',
-    generos:['BL','Romance','Drama','Comedia'],
-    tags:['BL','Reencuentro','Exnovios','Familia','Secreto','Relación prohibida','Pareja secundaria'],
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Adaptación','Novela web','Miniserie','Segundas oportunidades'],
     personas:[],
     ships:[
         {personajes:['Lu Shi Ran','Qi Yi']}
     ],
-    sinopsis:'Lu Shi Ran, heredero de una familia acomodada, vuelve a encontrarse inesperadamente con su antiguo novio Qi Yi. El reencuentro revive sentimientos del pasado mientras ambos deben afrontar secretos familiares y una relación que consideran difícil de aceptar.',
+    sinopsis:'Lu Shi Ran, joven heredero de la familia Lu, se reencuentra con su antiguo novio Qi Yi y descubre que este se ha convertido en el tío de la familia que nunca había conocido. Aunque no existe parentesco sanguíneo entre ellos, deberán enfrentarse a las barreras familiares y sociales para recuperar su relación.',
     multimedia:{
         portada:[],
         trailer:[],
@@ -24077,5 +24086,3000 @@ multimedia:{
 entidades:[],
 especiales:[],
 activo:true
+},
+
+/* =============== I'M A FOOL FOR YOU — TEMPORADA 4 — DR000493 =================== */
+{
+codigo:'DR000493',
+titulo:"I'm a Fool for You",
+tituloOriginal:'那個傻的 請一直傻下去',
+alias:['I’m a Fool for You Season 4','那個傻的 請一直傻下去 第四季'],
+pais:'HK',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000499',
+remake:null,
+temporadas:4,
+temporada:4,
+episodios:5,
+duracion:10,
+estado:'Finalizado',
+estreno:'2024-12-12',
+finalizacion:'2025-01-09',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Reencuentro','Segundas oportunidades','Relaciones'],
+personas:[],
+ships:[
+  {personajes:['Hugo','Oscar']}
+],
+sinopsis:'La cuarta y última temporada reúne nuevamente a los protagonistas antes de la boda de un amigo. El reencuentro hace aflorar sentimientos y asuntos que habían quedado sin resolver desde las temporadas anteriores.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== OUR GOLDEN TIMES — DR000494 =================== */
+{
+codigo:'DR000494',
+titulo:'Our Golden Times',
+tituloOriginal:'如果我願意',
+alias:['Our Golden Times','如果我願意'],
+pais:'HK',
+anio:2024,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:10,
+estado:'Finalizado',
+estreno:'2024-09-09',
+finalizacion:'2024-10-14',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Reencuentro','Primer amor','Segundas oportunidades'],
+personas:[],
+ships:[
+  {personajes:['George','Mike']}
+],
+sinopsis:'Un hombre comprometido vuelve a encontrarse con su antiguo amor de juventud. El reencuentro despierta sentimientos que habían quedado atrás y le obliga a enfrentarse a las decisiones tomadas durante los años que pasaron separados.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== MY COLLEAGUE AT BL SHOP MIGHT BE THE MEANT-TO-BE — DR000495 =================== */
+{
+codigo:'DR000495',
+titulo:'My Colleague at BL Shop Might Be The Meant-To-Be',
+tituloOriginal:'BL店同事大概是我的命定之人',
+alias:['My Colleague at BL Shop','BL店同事大概是我的命定之人'],
+pais:'HK',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:null,
+temporadas:1,
+temporada:1,
+episodios:3,
+duracion:8,
+estado:'Finalizado',
+estreno:'2023-02-14',
+finalizacion:'2023-04-14',
+generos:['Comedia','Romance'],
+tags:['BL','Hong Kong','Trabajo','Compañeros de trabajo','Romance','Destino'],
+personas:[],
+ships:[],
+sinopsis:'Una historia romántica ambientada entre compañeros de una tienda especializada en BL, donde la convivencia laboral y las situaciones cotidianas hacen que una relación aparentemente inesperada empiece a adquirir un significado diferente.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== STAY STILL — DR000496 =================== */
+{
+codigo:'DR000496',
+titulo:'Stay Still',
+tituloOriginal:'樓下來的人',
+alias:['Stay Still','樓下來的人'],
+pais:'HK',
+anio:2023,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:null,
+temporadas:1,
+temporada:1,
+episodios:5,
+duracion:14,
+estado:'Finalizado',
+estreno:'2023-08-01',
+finalizacion:'2023-08-29',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Reencuentro','Vecinos','Primer amor','Segundas oportunidades'],
+personas:[],
+ships:[
+  {personajes:['Hayden','Damien']},
+  {personajes:['Archie','Kelvin']}
+],
+sinopsis:'Hayden se muda a un antiguo edificio de Hong Kong y conoce a Damien después de ayudar a su abuela. Entre ambos surge una relación inesperada. Al mismo tiempo, Archie y Kelvin, antiguos compañeros y enamorados de instituto, vuelven a encontrarse después de años separados y reavivan sus sentimientos.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:['EP0'],
+activo:true
+},
+
+/* =============== I'M A FOOL FOR YOU — TEMPORADA 3 — DR000497 =================== */
+{
+codigo:'DR000497',
+titulo:"I'm a Fool for You",
+tituloOriginal:'那個傻的 請一直傻下去',
+alias:['I’m a Fool for You Season 3','那個傻的 請一直傻下去 第三季'],
+pais:'HK',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000499',
+remake:null,
+temporadas:4,
+temporada:3,
+episodios:5,
+duracion:11,
+estado:'Finalizado',
+estreno:'2022-08-04',
+finalizacion:'2022-09-29',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Relaciones','Ruptura','Segundas oportunidades'],
+personas:[],
+ships:[
+  {personajes:['Hin','Tony']},
+  {personajes:['Hugo','Oscar']},
+  {personajes:['Sheldon','Xavier']}
+],
+sinopsis:'Tras los acontecimientos de las temporadas anteriores, Hugo intenta superar su amor no correspondido por Hin y encuentra apoyo en Oscar. Por otro lado, Hin inicia una relación con Tony, mientras Yiu se encuentra con su exnovio Sheldon y descubre que ahora está con Xavier.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== BOYS — DR000498 =================== */
+{
+codigo:'DR000498',
+titulo:'BOYS',
+tituloOriginal:'BOYS',
+alias:[],
+pais:'HK',
+anio:2022,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:null,
+origen:{
+  tipo:'Obra teatral',
+  relacion:'Spin-off',
+  titulo:'BOYS',
+  tituloOriginal:'BOYS',
+  autor:null,
+  pais:'HK'
+},
+temporadas:1,
+temporada:1,
+episodios:4,
+duracion:12,
+estado:'Finalizado',
+estreno:'2022-09-23',
+finalizacion:'2022-11-12',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Teatro','Actores','Amistad','Amor no correspondido','Romance'],
+personas:[],
+ships:[],
+sinopsis:'Boris es un joven actor que desarrolla sentimientos por su compañero de reparto Ho Yin, aunque sus sentimientos no son correspondidos de la misma manera. Mientras intenta afrontar la situación, cuenta con el apoyo de Karl, su antiguo compañero de piso. La serie web está relacionada con la obra teatral BOYS, pero presenta una historia propia y funciona como un spin-off del proyecto teatral.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== I'M A FOOL FOR YOU — TEMPORADA 1 — DR000499 =================== */
+{
+codigo:'DR000499',
+titulo:"I'm a Fool for You",
+tituloOriginal:'那個傻的 請一直傻下去',
+alias:['I’m a Fool for You Season 1','那個傻的 請一直傻下去 第一季'],
+pais:'HK',
+anio:2021,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000499',
+remake:null,
+temporadas:4,
+temporada:1,
+episodios:4,
+duracion:8,
+estado:'Finalizado',
+estreno:'2021-01-14',
+finalizacion:'2021-02-25',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Amistad','Juventud','Relaciones'],
+personas:[],
+ships:[
+  {personajes:['Hin','Yiu']}
+],
+sinopsis:'Primera temporada de la serie, en la que se presentan sus protagonistas y las relaciones sentimentales que se desarrollarán a lo largo de las temporadas posteriores.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== I'M A FOOL FOR YOU — TEMPORADA 2 — DR000500 =================== */
+{
+codigo:'DR000500',
+titulo:"I'm a Fool for You",
+tituloOriginal:'那個傻的 請一直傻下去',
+alias:['I’m a Fool for You Season 2','那個傻的 請一直傻下去 第二季'],
+pais:'HK',
+anio:2021,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:'SR000499',
+remake:null,
+temporadas:4,
+temporada:2,
+episodios:4,
+duracion:11,
+estado:'Finalizado',
+estreno:'2021-07-15',
+finalizacion:'2021-08-26',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Romance','Juventud','Relaciones','Separación'],
+personas:[],
+ships:[
+  {personajes:['Hin','Yiu']}
+],
+sinopsis:'La segunda temporada continúa la historia de los protagonistas y profundiza en las relaciones y decisiones sentimentales que comenzaron a desarrollarse en la primera temporada.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== OSSAN'S LOVE HK — DR000501 =================== */
+{
+codigo:'DR000501',
+titulo:"Ossan's Love",
+tituloOriginal:'大叔的愛',
+alias:["Ossan's Love HK",'Ossan’s Love (Hong Kong)','Uncle’s Love'],
+pais:'HK',
+anio:2021,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:{codigo:'RM000087',orden:2},
+temporadas:1,
+temporada:1,
+episodios:15,
+duracion:45,
+estado:'Finalizado',
+estreno:'2021-06-28',
+finalizacion:'2021-07-16',
+generos:['Comedia','Drama','Romance'],
+tags:['BL','Hong Kong','Remake','Triángulo amoroso','Trabajo','Oficina','Romance'],
+personas:[],
+ships:[
+  {personajes:['Tin Yat Hung','Ling Siu Muk']}
+],
+sinopsis:'Tin Yat-hung, un agente inmobiliario cuya vida amorosa nunca ha tenido demasiado éxito, descubre que su jefe KK está enamorado de él. Al mismo tiempo, su compañero de trabajo y nuevo compañero de piso, Ling Siu Muk, también confiesa sus sentimientos. Tin se ve así atrapado en un inesperado triángulo amoroso.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+
+/* =============== THE LOVE THAT DARE NOT SPEAK ITS NAME — DR000502 =================== */
+{
+codigo:'DR000502',
+titulo:'The Love That Dare Not Speak Its Name',
+tituloOriginal:'有愛錄：螢火蟲',
+alias:['The Love that Dare Not Speak Its Name','Yau Ngoi Luk: Ying Fo Chung','有愛錄：螢火蟲'],
+pais:'HK',
+anio:2021,
+tipo:'Drama',
+franquicia:null,
+universo:null,
+serie:null,
+remake:null,
+temporadas:1,
+temporada:1,
+episodios:6,
+duracion:5,
+estado:'Finalizado',
+estreno:'2021-10-28',
+finalizacion:'2021-11-15',
+generos:['Drama','Romance'],
+tags:['BL','Hong Kong','Friends to Lovers','Compañeros de piso','Amistad','Amor no confesado','Slow Burn','Vida cotidiana'],
+personas:[],
+ships:[
+  {personajes:['The Café Owner','The Boy']}
+],
+sinopsis:'Dos antiguos compañeros de piso de la universidad, ahora un dueño de una cafetería y un empleado de oficina, siguen apoyándose mientras afrontan la incertidumbre de la vida adulta. Aunque durante años han mantenido una amistad muy cercana, entre ellos han surgido sentimientos románticos que finalmente ponen a prueba su relación.',
+multimedia:{
+  portada:[],
+  trailer:[],
+  teaser:[],
+  pilot:[],
+  ost:[],
+  videos:[]
+},
+entidades:[],
+especiales:[],
+activo:true
+},
+/* =============== WU DI IN LOVE — DR000503 =================== */
+{
+    codigo:'DR000503',
+    titulo:'Wu Di in Love',
+    tituloOriginal:'無敵愛上你',
+    alias:['WUDI in Love'],
+    pais:'MY',
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:6,
+    estado:'Finalizado',
+    estreno:'2022-02-14',
+    finalizacion:'2022-02-26',
+    generos:['BL','Romance'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Wu Di','Long Long']}
+    ],
+    sinopsis:'Wu Di, el estricto y perfeccionista dueño de una popular cafetería, recibe como nuevo becario a Long Long. Su convivencia diaria en el café hace que la relación entre el exigente propietario y el joven becario evolucione hacia sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE ALGORITHM — DR000504 =================== */
+{
+    codigo:'DR000504',
+    titulo:'Love Algorithm',
+    tituloOriginal:'恋爱演算法',
+    alias:['Love Algorithm The Series'],
+    pais:'MY',
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2026-07-15',
+    finalizacion:'2026-09-16',
+    generos:['BL','Romance'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Cole','Phil']}
+    ],
+    sinopsis:'Cole, guionista de un reality de citas, se reencuentra con Phil, su antiguo mejor amigo del instituto y ahora cantante viral, cuando debe incorporarlo al programa. Un antiguo malentendido amoroso les hizo creer que ambos estaban enamorados de la misma chica, pero al reencontrarse descubren que los sentimientos que habían reprimido estaban dirigidos el uno hacia el otro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== LOST TO YOU — DR000505 =================== */
+{
+    codigo:'DR000505',
+    titulo:'Lost to You',
+    tituloOriginal:'沦陷',
+    alias:['Lun Xian','Wishing Fish Noodle House','愿望鱼面馆','Yuan Wang Yu Mian Guan'],
+    pais:'SG',
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000015',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:32,
+    estado:'Finalizado',
+    estreno:'2026-05-15',
+    finalizacion:'2026-07-03',
+    generos:['BL','GL','Romance','Drama'],
+    tags:['BL','GL'],
+    personas:[],
+    ships:[
+        {personajes:['Zhan Wang','Xu Yuan']},
+        {personajes:['Bian Ye','Zhan Xu']},
+        {personajes:['Lin Xia','Xu Nuo']}
+    ],
+    sinopsis:'A los 17 años, Zhan Wang regresa de Pekín a su ciudad natal llevando en secreto un diagnóstico de cáncer cerebral terminal. Allí conoce a Xu Yuan, también de 17 años, un estudiante brillante al que todo el pueblo considera un niño de la desgracia. Mientras ambos cargan con sus propios secretos y heridas, su encuentro transforma sus vidas y da paso a una relación marcada por el amor, la enfermedad, la superstición y el paso del tiempo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== KILL TO LOVE — DR000506 =================== */
+{
+    codigo:'DR000506',
+    titulo:'Kill to Love',
+    tituloOriginal:'紫陌红尘',
+    alias:['Zi Mo Hong Chen','Shan He Yong Ji','山河永寂','紫陌紅塵'],
+    pais:'SG',
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000015',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela web',
+        titulo:'Shan He Yong Ji',
+        tituloOriginal:'山河永寂',
+        autor:'Yi Han He',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:35,
+    estado:'Finalizado',
+    estreno:'2025-08-25',
+    finalizacion:'2025-09-09',
+    generos:['BL','Romance','Histórico','Wuxia','Drama'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Duan Ziang','Xiao Shu He']}
+    ],
+    sinopsis:'Duan Ziang, un asesino criado en las sombras, salva al sexto príncipe del Reino del Sur, Xiao Shu He, y entre ambos nace un amor que desafía las reglas de un mundo marcado por la guerra y las luchas de poder. Para proteger a Shu He, Ziang toma una decisión que rompe su vínculo y desaparece. Años después, regresa convertido en emperador del Reino del Norte, mientras Shu He ocupa el trono del Sur. Convertidos en gobernantes de territorios enfrentados, deberán enfrentarse a los sentimientos que nunca dejaron atrás.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== GETAWAY — DR000507 =================== */
+{
+    codigo:'DR000507',
+    titulo:'Getaway',
+    tituloOriginal:'Getaway',
+    alias:['Getaway The Series'],
+    pais:'SG',
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:12,
+    estado:'Finalizado',
+    estreno:'2022-05-23',
+    finalizacion:'2022-06-20',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Sam','Top']}
+    ],
+    sinopsis:'Después de que su salida del armario ante su padre conservador termina de forma desastrosa, Sam, un joven singapurense, viaja a Bangkok para buscar a su tío gay, que fue expulsado de la familia años atrás. Durante su búsqueda conoce a Top, un joven tailandés que se ha acostumbrado a relaciones pasajeras. Juntos emprenden la búsqueda del tío de Sam, pero el viaje termina llevándolos a descubrir algo mucho más importante: el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== DOUBLE HELIX — DR000508 =================== */
+{
+    codigo:'DR000508',
+    titulo:'Double Helix',
+    tituloOriginal:'双程',
+    alias:['Shuang Cheng','Shuāngchéng','A Round Trip to Love','Round Trip to Love'],
+    pais:'SG',
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000015',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'A Round Trip to Love',
+        tituloOriginal:'双程',
+        autor:'Lan Lin',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:44,
+    estado:'Finalizado',
+    estreno:'2026-05-08',
+    finalizacion:'2026-06-13',
+    generos:['BL','Romance','Drama'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Feng','Cheng Yichen']},
+        {personajes:['Qin Lang','Cheng Yichen (hermano menor)']}
+    ],
+    sinopsis:'Lu Feng, heredero de una familia adinerada, y Cheng Yichen, un estudiante ejemplar, se enamoran durante la adolescencia. Cuando su relación queda expuesta, la presión de sus familias y del entorno escolar los obliga a separarse. Años después se reencuentran cuando Lu Feng se convierte en el jefe de Yichen. Los sentimientos que nunca desaparecieron regresan, pero las heridas del pasado, la oposición familiar y los conflictos personales vuelven a poner a prueba su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== ADDICTED — DR000509 =================== */
+{
+    codigo:'DR000509',
+    titulo:'Addicted',
+    tituloOriginal:'上瘾',
+    alias:['Heroin','Addicted Heroin','Shang Yin','Shàngyǐn','你丫上瘾了'],
+    pais:'CN',
+    anio:2016,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000509',orden:1},
+    origen:{
+        tipo:'Novela',
+        titulo:'Are You Addicted?',
+        tituloOriginal:'你丫上瘾了',
+        autor:'Chai Jidan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:20,
+    estado:'Cancelado',
+    estreno:'2016-01-29',
+    finalizacion:'2016-02-23',
+    generos:['BL','Romance','Drama','Juventud'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Bai Luo Yin','Gu Hai']}
+    ],
+    sinopsis:'Bai Luo Yin es un estudiante de dieciséis años que vive con su padre y su abuela. Cuando su madre se casa con un militar de alto rango, Luo Yin descubre que su nuevo hermanastro es Gu Hai. Ambos terminan estudiando en la misma clase y, pese a sus diferencias y conflictos familiares, desarrollan una relación cada vez más profunda.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000510',
+    titulo:'Advance Bravely',
+    tituloOriginal:'盛势',
+    alias:['Advance Bravely','Advancing Bravely','Sheng Shi'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Advance Bravely',
+        tituloOriginal:'势不可挡',
+        autor:'Chai Jidan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:30,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2017-08-12',
+    finalizacion:'2018-03-06',
+    generos:['BL','Romance','Acción','Drama','Comedia'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Xia Yao','Yuan Zong']}
+    ],
+    sinopsis:'Xia Yao, un antiguo playboy procedente de una familia influyente, intenta rehacer su vida. Yuan Zong, un exsoldado de las fuerzas especiales convertido en instructor de guardaespaldas, entra en su vida cuando intenta ayudar a su hermana Yuan Ru a conquistar a Xia Yao. La relación entre ambos evoluciona mientras se enfrentan a sus diferencias y a las circunstancias que los rodean.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000511',
+    titulo:'Love Is More Than a Word',
+    tituloOriginal:'识汝不识丁',
+    alias:['Shi Ru Bu Shi Ding','Shi Nu Bu Shi Ding','Irresistible Love: Secret of the Valet'],
+    pais:'CN',
+    anio:2016,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000032',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Love Is More Than a Word',
+        tituloOriginal:'识汝不识丁',
+        autor:'Su Youbing',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Cancelado',
+    estreno:'2016-09-12',
+    finalizacion:'2016-09-25',
+    generos:['BL','Romance','Drama','Histórico'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Tao Mo','Gu She']}
+    ],
+    sinopsis:'Tao Mo, un joven ingenuo e inculto, compra el puesto de magistrado de un pequeño condado para cumplir el deseo de su padre fallecido. Allí conoce a Gu She, un brillante abogado, y ambos desarrollan una relación mientras se ven envueltos en conflictos legales y políticos. La producción fue reducida a 12 episodios y quedó inconclusa tras su cancelación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000512',
+    titulo:'Till Death Tear Us Apart',
+    tituloOriginal:'愉此一生',
+    alias:['Yu Ci Yi Sheng','In This Case A Pleasant Lifetime Alone','1944 Jin Cheng Jiao','1944锦城骄'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000032',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Love in a Blaze',
+        tituloOriginal:'一生一世',
+        autor:'Nan Zhi',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2017-02-14',
+    finalizacion:'2017-03-07',
+    generos:['BL','Romance','Drama','Histórico','Espionaje'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Liu Yu Sheng','Zhou Yao Hua']}
+    ],
+    sinopsis:'En la China de 1944, Liu Yu Sheng regresa de estudiar en el extranjero y comienza a trabajar como profesor después de descubrir que su herencia ha sido robada. Allí se reencuentra con Zhou Yao Hua, un antiguo compañero de estudios. Mientras ambos se acercan sentimentalmente, sus diferentes lealtades políticas complican su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000513',
+    titulo:'The Fairy Fox',
+    tituloOriginal:'我的室友是狐仙',
+    alias:['My Roommate is a Fox','My Roommate is a Fairy Fox','My Roommate is an Immortal Fox'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000031',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:22,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2017-02-09',
+    finalizacion:'2017-04-16',
+    generos:['BL','Romance','Fantasía','Comedia','Drama'],
+    tags:['BL','Fantasía','Reencarnación'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Bai','Xiao Mo']}
+    ],
+    sinopsis:'Lu Bai, un hada del clan zorro, viaja al mundo humano en busca de la persona que posee el espíritu de la guerra, necesaria para proteger a su clan frente a una amenaza. Al encontrar a Xiao Mo, descubre que ambos están unidos por una relación que se extiende a través de varias vidas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000514',
+    titulo:'Holy Fox Son 1: Advent',
+    tituloOriginal:'灵狐圣子1：圣子出世',
+    alias:['Holy Fox Son 1','Holy Fox Son: Advent','Ling Hu Sheng Zi 1: Sheng Zi Chu Shi'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Película',
+    franquicia:{codigo:'FR000031',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:77,
+    estado:'Finalizado',
+    estreno:'2017-08-22',
+    finalizacion:'2017-08-22',
+    generos:['BL','Drama','Fantasía','Wuxia'],
+    tags:['BL','Fantasía','Precuela'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Bai','Xiao Jing Chen']}
+    ],
+    sinopsis:'Precuela de The Fairy Fox construida a partir de acontecimientos mostrados en los flashbacks de la serie. El clan zorro protege una piedra sagrada mientras el clan lobo amenaza con arrebatársela. Lu Bai debe encontrar al descendiente del Dios de la Guerra, la única persona capaz de proteger a su clan.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000515',
+    titulo:'Holy Fox Son 2: Fairy Mountain Battle',
+    tituloOriginal:'灵狐圣子2：仙山大战',
+    alias:['Holy Fox Son 2','Holy Fox Son: Fairy Mountain Battle','Ling Hu Sheng Zi 2: Xian Shan Da Zhan'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Película',
+    franquicia:{codigo:'FR000031',orden:3},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2017-08-25',
+    finalizacion:'2017-08-25',
+    generos:['BL','Drama','Fantasía'],
+    tags:['BL','Fantasía','Precuela'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Bai','Xiao Jing Chen']}
+    ],
+    sinopsis:'Segunda película de la franquicia The Fairy Fox y continuación de Holy Fox Son 1: Advent. La historia desarrolla los acontecimientos relacionados con Lu Bai y el conflicto entre los clanes sobrenaturales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000516',
+    titulo:'Beloved Enemy',
+    tituloOriginal:'决对争锋',
+    alias:['Jue Dui Zheng Feng','Beloved Enemy - 对决针锋'],
+    pais:'CN',
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Beloved Enemy',
+        tituloOriginal:'针锋对决',
+        autor:'Shui Qian Cheng',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:35,
+    estado:'Finalizado',
+    estreno:'2017-08-15',
+    finalizacion:'2017-11-20',
+    generos:['BL','Romance','Drama','Negocios'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Gu Qing Pei','Yuan Yang']}
+    ],
+    sinopsis:'Gu Qing Pei, un ejecutivo brillante, comienza a trabajar para un importante grupo empresarial y recibe el encargo de supervisar a Yuan Yang, el hijo del presidente. El joven, impulsivo y desafiante, se enfrenta constantemente a Gu Qing Pei, pero la rivalidad profesional entre ambos evoluciona hacia una relación mucho más personal.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	{
+    codigo:'DR000517',
+    titulo:'Guardian',
+    tituloOriginal:'镇魂',
+    alias:['Zhen Hun','Zhenhun'],
+    pais:'CN',
+    anio:2018,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Guardian',
+        tituloOriginal:'镇魂',
+        autor:'Priest',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:40,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2018-06-13',
+    finalizacion:'2018-07-25',
+    generos:['BL','Fantasía','Misterio','Ciencia ficción','Suspense','Drama'],
+    tags:['BL','Bromance','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Zhao Yunlan','Shen Wei']}
+    ],
+    sinopsis:'Zhao Yunlan dirige el Departamento de Investigaciones Especiales, una unidad encargada de investigar fenómenos sobrenaturales y mantener la paz entre los humanos y los habitantes de Dixing. Durante una investigación conoce a Shen Wei, un profesor universitario que guarda numerosos secretos. Ambos quedan vinculados por una antigua historia y por una serie de misterios que amenazan con desencadenar un nuevo conflicto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000518',
+    titulo:'The Untamed',
+    tituloOriginal:'陈情令',
+    alias:['Chen Qing Ling','The Untamed 陈情令'],
+    pais:'CN',
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000033',orden:1},
+    universo:'UN000016',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Mo Dao Zu Shi',
+        tituloOriginal:'魔道祖师',
+        autor:'Mo Xiang Tong Xiu',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:50,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2019-06-27',
+    finalizacion:'2019-08-20',
+    generos:['BL','Xianxia','Fantasía','Romance','Drama','Misterio','Artes marciales'],
+    tags:['BL','Bromance','Danmei','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Wei Wuxian','Lan Wangji']}
+    ],
+    sinopsis:'Wei Wuxian, un cultivador de espíritu libre, se reencuentra con Lan Wangji, un cultivador disciplinado de la secta Gusu Lan, dieciséis años después de su supuesta muerte. Juntos investigan una serie de misterios relacionados con acontecimientos del pasado y descubren una conspiración que conecta a varias de las grandes sectas de cultivadores.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000519',
+    titulo:'The Untamed: Special Edition',
+    tituloOriginal:'陈情令特别剪辑版',
+    alias:['The Untamed Special Edition','Chen Qing Ling Special Edition'],
+    pais:'CN',
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000016',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:20,
+    duracion:62,
+    estado:'Finalizado',
+    estreno:'2019-12-25',
+    finalizacion:'2020-02-04',
+    generos:['BL','Xianxia','Fantasía','Romance','Drama','Misterio','Artes marciales'],
+    tags:['BL','Bromance','Danmei','Reedición'],
+    personas:[],
+    ships:[
+        {personajes:['Wei Wuxian','Lan Wangji']}
+    ],
+    sinopsis:'Edición especial de The Untamed reeditada en 20 episodios para ofrecer una versión más condensada de la historia original. Mantiene los acontecimientos principales de la serie de 2019 y pone un mayor énfasis en la relación y perspectiva de Lan Wangji respecto a Wei Wuxian.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+{
+    codigo:'DR000520',
+    titulo:'The Living Dead',
+    tituloOriginal:'陈情令之生魂',
+    alias:['Chen Qing Ling Zhi Sheng Hun','The Untamed: A Living Soul','The Untamed: A Raw Soul'],
+    pais:'CN',
+    anio:2019,
+    tipo:'Película',
+    franquicia:{codigo:'FR000033',orden:2},
+    universo:'UN000016',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:83,
+    estado:'Finalizado',
+    estreno:'2019-11-07',
+    finalizacion:'2019-11-07',
+    generos:['BL','Fantasía','Histórico','Artes marciales','Misterio','Drama'],
+    tags:['BL','Bromance','Spin-off'],
+    personas:[],
+    ships:[],
+    sinopsis:'Después de separarse de Wei Wuxian y Lan Wangji, Wen Ning llega a la misteriosa ciudad de Fu Feng, donde sus habitantes viven aterrorizados por una serie de muertes relacionadas con la aparición de espíritus durante la noche. Allí se reencuentra con Lan Sizhui y ambos unen sus fuerzas para investigar el misterio y enfrentarse a las fuerzas sobrenaturales que amenazan la ciudad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== FATAL JOURNEY — DR000521 =================== */
+
+{
+    codigo:'DR000521',
+    titulo:'Fatal Journey',
+    tituloOriginal:'陈情令之乱魄',
+    alias:['Luan Po','The Untamed: Fatal Journey','The Untamed: Chaos'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Película',
+    franquicia:{codigo:'FR000033',orden:3},
+    universo:'UN000016',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:82,
+    estado:'Finalizado',
+    estreno:'2020-03-26',
+    finalizacion:'2020-03-26',
+    generos:['Fantasía','Histórico','Artes marciales','Acción','Drama'],
+    tags:['Bromance','Spin-off','The Untamed'],
+    personas:[],
+    ships:[],
+    sinopsis:'Los hermanos Nie Mingjue y Nie Huaisang se embarcan en una misión para restaurar la tumba ancestral de espadas de la secta Qinghe Nie. Durante el viaje, Nie Huaisang comienza a madurar mientras su hermano mayor llega a comprenderlo mejor y a ayudarlo a convertirse en el futuro líder de la secta.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CAPTURE LOVER — DR000522 =================== */
+
+{
+    codigo:'DR000522',
+    titulo:'Capture Lover',
+    tituloOriginal:'冰糖陷阱',
+    alias:['Bing Tang Xian Jing','Love Trap'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-06-25',
+    finalizacion:'2020-07-09',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL'],
+    personas:[],
+    ships:[
+        {personajes:['Ding Jun Jie','Ying Jia Ming']}
+    ],
+    sinopsis:'Ding Jun Jie, subdirector general de una importante empresa de cosméticos, se ve obligado a trabajar con Ying Jia Ming, el hijo del presidente de la compañía. Lo que comienza como una relación de rivalidad y provocaciones termina convirtiéndose en una relación amorosa que ambos intentan mantener en secreto ante las presiones familiares y profesionales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== HONEY SIR — DR000523 =================== */
+
+{
+    codigo:'DR000523',
+    titulo:'Honey Sir',
+    tituloOriginal:'亲爱的先生',
+    alias:['Qin Ai Xian Sheng','Dear Sir'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Historias reales',
+        titulo:'Historias reales de amor gay',
+        tituloOriginal:null,
+        autor:null,
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2020-08-13',
+    finalizacion:'2020-10-01',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL','Antología','Historias reales'],
+    personas:[],
+    ships:[
+        {personajes:['Xuan','Bu']},
+        {personajes:['Na Fei','Mo Xiaohui']},
+        {personajes:['Liu Bin','Zi Jian']},
+        {personajes:['Yang Yiyi','Zhang Jiahang']},
+        {personajes:['Li Zisen','Lin Min']},
+        {personajes:['Wang Meng','Wei Jie']},
+        {personajes:['Zhuo Fei','Wang Kai']}
+    ],
+    sinopsis:'Antología formada por siete historias independientes que muestran diferentes experiencias del amor entre hombres: el amor secreto, salir del armario, los malentendidos, la distancia, los encuentros, las relaciones de oficina y la construcción de una familia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== WORD OF HONOR — DR000524 =================== */
+
+{
+    codigo:'DR000524',
+    titulo:'Word of Honor',
+    tituloOriginal:'山河令',
+    alias:['Shan He Ling','Tian Ya Ke','天涯客','Faraway Wanderers','A Tale of the Wanderers'],
+    pais:'CN',
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Faraway Wanderers',
+        tituloOriginal:'天涯客',
+        autor:'Priest',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:36,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2021-02-22',
+    finalizacion:'2021-05-05',
+    generos:['BL','Bromance','Wuxia','Romance','Misterio','Drama','Acción','Aventura'],
+    tags:['BL','Bromance','Danmei','Adaptación','Wuxia'],
+    personas:[],
+    ships:[
+        {personajes:['Zhou Zishu','Wen Kexing']},
+        {personajes:['Gu Xiang','Cao Weining']}
+    ],
+    sinopsis:'Zhou Zishu, antiguo líder de una organización de asesinos al servicio de la corte imperial, abandona su vida anterior buscando libertad. Durante su viaje conoce a Wen Kexing, misterioso maestro del Valle de los Fantasmas, y ambos quedan unidos mientras investigan una conspiración relacionada con un legendario arsenal y los conflictos del mundo de las artes marciales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== KILLER AND HEALER — DR000525 =================== */
+
+{
+    codigo:'DR000525',
+    titulo:'Killer and Healer',
+    tituloOriginal:'恨君不似江楼月',
+    alias:['Hen Jun Bu Si Jiang Lou Yue','Hate You Not Like Jiang Lou Moon'],
+    pais:'CN',
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:37,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2021-03-03',
+    finalizacion:'2021-03-24',
+    generos:['Bromance','Drama','Misterio','Suspense','Acción','Histórico'],
+    tags:['Bromance','Original'],
+    personas:[],
+    ships:[
+        {personajes:['Jiang Yuelou','Chen Yuzhi']},
+        {personajes:['Zhan Junbai','Yu Tangchun']}
+    ],
+    sinopsis:'Durante la época republicana, Jiang Yuelou, un duro jefe de policía, conoce al médico Chen Yuzhi mientras investiga un caso relacionado con el opio. A pesar de sus personalidades y métodos opuestos, ambos terminan apoyándose mutuamente mientras se enfrentan a conspiraciones, violencia y secretos del pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+
+	/* =============== WINTER BEGONIA — DR000526 =================== */
+
+{
+    codigo:'DR000526',
+    titulo:'Winter Begonia',
+    tituloOriginal:'鬓边不是海棠红',
+    alias:['Bin Bian Bu Shi Hai Tang Hong','The Sideburns Are Not Begonia Red','Begonia de invierno'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Winter Begonia',
+        tituloOriginal:'鬓边不是海棠红',
+        autor:'Shui Ru Tian Er',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:49,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2020-03-20',
+    finalizacion:'2020-05-05',
+    generos:['Bromance','Drama','Histórico','Guerra','Música'],
+    tags:['Bromance','Adaptación','Ópera de Pekín'],
+    personas:[],
+    ships:[
+    {personajes:['Cheng Fengtai','Shang Xirui']}
+	],
+    sinopsis:'En el Pekín de la década de 1930, el célebre intérprete de ópera de Pekín Shang Xirui conoce al empresario Cheng Fengtai, un apasionado de la ópera. Unidos por su admiración por este arte, ambos desarrollan una profunda amistad y se apoyan mutuamente mientras afrontan las dificultades del mundo teatral, los conflictos políticos y la guerra.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE SLEUTH OF THE MING DYNASTY — DR000527 =================== */
+
+{
+    codigo:'DR000527',
+    titulo:'The Sleuth of the Ming Dynasty',
+    tituloOriginal:'成化十四年',
+    alias:['Cheng Hua Shi Si Nian','The Story of Ming Dynasty','El detective de la dinastía Ming'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'The Fourteenth Year of Chenghua',
+        tituloOriginal:'成化十四年',
+        autor:'Meng Xi Shi',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:48,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2020-04-01',
+    finalizacion:'2020-04-24',
+    generos:['Bromance','Drama','Histórico','Misterio','Crimen'],
+    tags:['Bromance','Adaptación','Detectives'],
+    personas:[],
+    ships:[
+    {personajes:['Tang Fan','Sui Zhou']}
+	],
+    sinopsis:'Durante el decimocuarto año del reinado del emperador Chenghua, el funcionario Tang Fan y el guardia de la Guardia de Brocado Sui Zhou unen sus fuerzas para resolver una serie de crímenes y descubrir una conspiración que amenaza la estabilidad de la corte imperial.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== I DON'T WANT TO BE FRIENDS WITH YOU — DR000528 =================== */
+
+{
+    codigo:'DR000528',
+    titulo:'I Don’t Want to Be Friends with You',
+    tituloOriginal:'我才不要和你做朋友呢',
+    alias:['Wo Cai Bu Yao He Ni Zuo Peng You Ne'],
+    pais:'CN',
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000017',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:24,
+    duracion:43,
+    estado:'Finalizado',
+    estreno:'2020-05-19',
+    finalizacion:'2020-06-24',
+    generos:['Drama','Juventud','Comedia','Romance','Fantasía'],
+    tags:['Bromance','Viajes en el tiempo','Universo compartido'],
+    personas:[],
+    ships:[
+        {personajes:['Li Jinbu','Duan Xiao']}
+    ],
+    sinopsis:'Li Jinbu, una estudiante de secundaria, viaja inesperadamente veinte años al pasado y conoce a su madre Li Qingtong cuando tenía su misma edad. Mientras intenta comprender a su joven madre y descubrir cómo regresar a su época, vive junto a ella una etapa de juventud llena de amistad, conflictos familiares, romance y crecimiento personal.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== IN YOUR HEART — DR000529 =================== */
+
+{
+    codigo:'DR000529',
+    titulo:'In Your Heart',
+    tituloOriginal:'在你心之所向的地方',
+    alias:['Zai Ni Xin Zhi Suo Xiang De Di Fang','In Your Heart: The Place Where Your Heart Belongs'],
+    pais:'CN',
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'In Your Heart',
+        tituloOriginal:'在你心之所向的地方',
+        autor:'Li Yun Ming',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2022-02-11',
+    finalizacion:'2022-03-05',
+    generos:['BL','Romance','Juventud','Drama'],
+    tags:['BL','Adaptación','Coming-of-age'],
+    personas:[],
+    ships:[
+        {personajes:['Ling Zi Ming','Cheng Yi']},
+        {personajes:['Lu Xiang Lin','Yue Yu Zhi']}
+    ],
+    sinopsis:'Ling Zi Ming y Cheng Yi son amigos de la infancia que crecieron en familias incompletas y encontraron apoyo emocional el uno en el otro. Junto a sus amigos Lu Xiang Lin y Yue Yu Zhi, atraviesan los cambios de la adolescencia mientras descubren sus sentimientos y el significado del amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I DON'T WANT TO BE BROTHERS WITH YOU — DR000530 =================== */
+
+{
+    codigo:'DR000530',
+    titulo:'I Don’t Want to Be Brothers with You',
+    tituloOriginal:'我要和你做兄弟',
+    alias:['Wo Yao He Ni Zuo Xiong Di','I Want to Be Brothers with You','I Don’t Want to Be Your Brother'],
+    pais:'CN',
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000017',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:30,
+    duracion:40,
+    estado:'Finalizado',
+    estreno:'2022-01-29',
+    finalizacion:'2022-03-01',
+    generos:['Bromance','Drama','Juventud','Comedia','Familia'],
+    tags:['Bromance','Universo compartido','Instituto'],
+    personas:[],
+    ships:[
+        {personajes:['Gao Yang','Ye Xiaowen']}
+    ],
+    sinopsis:'El rebelde Gao Yang conoce a Ye Xiaowen, un estudiante reservado y aplicado que se convierte inesperadamente en su compañero de clase y de hogar. Los dos jóvenes, con personalidades completamente opuestas, terminan convirtiéndose en hermanos de elección mientras atraviesan la adolescencia, los conflictos familiares y las dificultades de la vida escolar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== UNDER THE SKIN — DR000531 =================== */
+
+{
+    codigo:'DR000531',
+    titulo:'Under the Skin',
+    tituloOriginal:'猎罪图鉴',
+    alias:['Lie Zui Tu Jian'],
+    pais:'CN',
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000531',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:20,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2022-03-06',
+    finalizacion:'2022-03-24',
+    generos:['Bromance','Crimen','Misterio','Thriller','Drama'],
+    tags:['Bromance','Investigación criminal','Policial'],
+    personas:[],
+    ships:[
+        {personajes:['Shen Yi','Du Cheng']}
+    ],
+    sinopsis:'El artista Shen Yi abandona la Academia de Bellas Artes y se incorpora como retratista forense a la policía de Haicheng. Allí debe trabajar junto al capitán Du Cheng, quien inicialmente lo responsabiliza por la muerte de su antiguo compañero. A pesar de su difícil comienzo, ambos forman un equipo y colaboran para resolver complejos casos criminales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== STAY WITH ME — DR000532 =================== */
+
+{
+    codigo:'DR000532',
+    titulo:'Stay With Me',
+    tituloOriginal:'哥哥你别跑',
+    alias:['Ge Ge Ni Bie Pao','San Xiao Wu Cai','三小无猜','Innocent Playmates'],
+    pais:'CN',
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000509',orden:2},
+    origen:{
+        tipo:'Novela',
+        titulo:'Are You Addicted?',
+        tituloOriginal:'你丫上瘾了',
+        autor:'Chai Jidan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:24,
+    duracion:35,
+    estado:'Finalizado',
+    estreno:'2023-07-07',
+    finalizacion:'2023-08-12',
+    generos:['BL','Romance','Juventud','Drama','Escolar','Familia'],
+    tags:['BL','Adaptación','Remake','Addicted'],
+    personas:[],
+    ships:[
+        {personajes:['Su Yu','Wu Bi']}
+    ],
+    sinopsis:'Su Yu lleva una vida sencilla junto a su padre hasta que su madre se casa con un hombre rico y Wu Bi, el hijo de este, se convierte inesperadamente en su hermanastro y compañero de clase. Sus personalidades opuestas provocan constantes enfrentamientos, pero la convivencia hace que su relación se transforme progresivamente en un vínculo mucho más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== A LEAGUE OF NOBLEMAN — DR000533 =================== */
+
+{
+    codigo:'DR000533',
+    titulo:'A League of Nobleman',
+    tituloOriginal:'君子盟',
+    alias:['Jun Zi Meng','The Mystery of Zhang Guo','Zhang Gong An','张公案'],
+    pais:'CN',
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'The Mystery of Zhang Guo',
+        tituloOriginal:'张公案',
+        autor:'Da Feng Gua Guo',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:29,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2023-01-30',
+    finalizacion:'2023-02-27',
+    generos:['Bromance','Histórico','Misterio','Thriller','Drama'],
+    tags:['Bromance','Adaptación','Histórico','Investigación'],
+    personas:[],
+    ships:[
+        {personajes:['Lan Jue','Zhang Ping']}
+    ],
+    sinopsis:'Lan Jue, un ministro reservado y de origen noble, se cruza con Zhang Ping, un joven vendedor de fideos con una extraordinaria capacidad para descubrir secretos. Aunque sus personalidades y métodos son muy diferentes, ambos terminan colaborando para resolver misterios y descubrir intrigas ocultas en la corte imperial.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MYSTERIOUS LOTUS CASEBOOK — DR000534 =================== */
+
+{
+    codigo:'DR000534',
+    titulo:'Mysterious Lotus Casebook',
+    tituloOriginal:'莲花楼',
+    alias:['Lian Hua Lou','Lotus Tower','The Lotus Casebook'],
+    pais:'CN',
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Auspicious Pattern Lotus House',
+        tituloOriginal:'吉祥纹莲花楼',
+        autor:'Teng Ping',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:40,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2023-07-23',
+    finalizacion:'2023-08-09',
+    generos:['Bromance','Wuxia','Misterio','Acción','Aventura','Drama','Fantasía'],
+    tags:['Bromance','Adaptación','Wuxia','Investigación'],
+    personas:[],
+    ships:[
+        {personajes:['Li Lianhua','Fang Duobing']}
+    ],
+    sinopsis:'Diez años después de desaparecer tras una legendaria batalla, el antiguo maestro de artes marciales Li Xiangyi vive bajo la identidad de Li Lianhua, un médico ambulante que viaja con una torre de loto. Su tranquila existencia se ve alterada cuando Fang Duobing, un joven decidido a convertirse en gran detective, descubre su verdadera identidad y lo arrastra de nuevo al mundo de las artes marciales. Junto a antiguos rivales y aliados, investigan numerosos misterios mientras salen a la luz secretos del pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== UNDER THE SKIN II — DR000535 =================== */
+
+{
+    codigo:'DR000535',
+    titulo:'Under the Skin II',
+    tituloOriginal:'猎罪图鉴2',
+    alias:['Lie Zui Tu Jian 2','Under the Skin 2','Under the Skin Season 2'],
+    pais:'CN',
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000531',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:28,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:null,
+    finalizacion:null,
+    generos:['Bromance','Crimen','Misterio','Thriller','Drama'],
+    tags:['Bromance','Investigación criminal','Policial','Secuela'],
+    personas:[],
+    ships:[
+        {personajes:['Shen Yi','Du Cheng']}
+    ],
+    sinopsis:'Shen Yi y Du Cheng continúan trabajando juntos como parte del equipo policial mientras afrontan nuevos casos criminales. La experiencia acumulada durante sus investigaciones anteriores ha fortalecido su confianza y coordinación, pero los nuevos casos vuelven a poner a prueba su capacidad para descubrir la verdad detrás de complejos crímenes.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== GYM AFFAIRS — DR000536 =================== */
+
+{
+    codigo:'DR000536',
+    titulo:'Gym Affairs',
+    tituloOriginal:'教练求放过',
+    alias:['Jiao Lian Qiu Fang Guo','Coach Please Let Me Go'],
+    pais:['CN'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:24,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2024-02-23',
+    finalizacion:'2024-04-28',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Miniserie','Episodios cortos'],
+    personas:[],
+    ships:[],
+    sinopsis:'Un joven adinerado contrata a un entrenador personal para mejorar su condición física. La relación entre ambos comienza con enfrentamientos y diferencias de carácter, pero con el tiempo se transforma en amistad y posteriormente en una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MEET YOU AT THE BLOSSOM — DR000537 =================== */
+
+{
+    codigo:'DR000537',
+    titulo:'Meet You at the Blossom',
+    tituloOriginal:'花开有时颓靡无声',
+    alias:['Hua Kai You Shi Tui Mi Wu Sheng','花開有時頹靡無聲','Before the Flowers Bloom','ก่อนดอกไม้...บาน'],
+    pais:['CN','TW','TH'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000018',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Meet You at the Blossom',
+        tituloOriginal:'花开有时，颓靡无声',
+        autor:'Shui Qian Cheng',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2024-07-11',
+    finalizacion:'2024-08-15',
+    generos:['BL','Romance','Histórico','Drama','Artes Marciales'],
+    tags:['BL','Adaptación','Danmei','Coproducción','China-Taiwán-Tailandia','Wuxia'],
+    personas:[],
+    ships:[
+        {personajes:['Jin Xiaobao','Zongzheng Huai En']},
+        {personajes:['Jinbao','Que Siming']}
+    ],
+    sinopsis:'Jin Xiaobao, joven heredero de una poderosa familia, conoce a Zongzheng Huai En y se enamora de él mientras descubre su verdadera identidad. Su encuentro desencadena una historia de amor, secretos familiares, conflictos políticos y artes marciales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== BLUE CANVAS OF YOUTHFUL DAYS — DR000538 =================== */
+
+{
+    codigo:'DR000538',
+    titulo:'Blue Canvas of Youthful Days',
+    tituloOriginal:'路过我年少时光的蓝色',
+    alias:['Lu Guo Wo Nian Shao Shi Guang De Lan Se','Blue Time','Passing by Me the Blue of Youth'],
+    pais:['CN'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:28,
+    estado:'Finalizado',
+    estreno:'2024-08-06',
+    finalizacion:'2024-12-01',
+    generos:['BL','Romance','Juventud','Drama','Arte'],
+    tags:['BL','Adaptación','Juventud','Arte','Miniserie'],
+    personas:[],
+    ships:[
+        {personajes:['Qi Lu','Qin Xiao']},
+        {personajes:['Tan Yin','Liu Ming Yang']}
+    ],
+    sinopsis:'Qi Lu, hijo de una familia de artistas, conoce a Qin Xiao, un joven pintor con grandes dificultades familiares. Al descubrir que Qin Xiao es el artista online Lan, al que admiraba desde hacía tiempo, Qi Lu comienza a acercarse a él y sus sentimientos evolucionan más allá de la amistad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+
+	/* =============== THE SPIREALM — DR000540 =================== */
+
+{
+    codigo:'DR000539',
+    titulo:'The Spirealm',
+    tituloOriginal:'致命游戏',
+    alias:['Zhi Ming You Xi','Kaleidoscope of Death','死亡万花筒'],
+    pais:['CN'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Kaleidoscope of Death',
+        tituloOriginal:'死亡万花筒',
+        autor:'Xi Zi Xu',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:78,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2024-02-02',
+    finalizacion:'2024-02-02',
+    generos:['Bromance','Drama','Misterio','Terror','Fantasía','Aventura'],
+    tags:['Bromance','Adaptación','Danmei','Censura','Supervivencia'],
+    personas:[],
+    ships:[
+        {personajes:['Ling Jiushi','Ruan Lanzhu']}
+    ],
+    sinopsis:'Ling Jiushi, un diseñador de videojuegos de realidad virtual, entra accidentalmente en un misterioso mundo formado por doce puertas de hierro. Allí conoce a Ruan Lanzhu, un hombre enigmático que lo ayuda a sobrevivir a los peligros que se esconden tras cada puerta. Juntos deberán enfrentarse a desafíos mortales mientras descubren los secretos del mundo de las puertas y de su propia existencia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== I'LL TURN BACK THIS TIME — DR000540 =================== */
+
+{
+    codigo:'DR000540',
+    titulo:'I’ll Turn Back This Time',
+    tituloOriginal:'这次换我先回头',
+    alias:['Zhe Ci Huan Wo Xian Hui Tou'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-01-11',
+    finalizacion:'2025-02-15',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Familia','Reencuentro','Amor prohibido'],
+    personas:[],
+    ships:[
+        {personajes:['Shen Nan','Gu Shiwen']}
+    ],
+    sinopsis:'Shen Nan y Gu Shiwen se convierten en hermanastros después del matrimonio de sus padres. Lo que comienza como una relación familiar complicada evoluciona hacia sentimientos románticos que ambos deben afrontar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY ENEMY HAS A CRUSH ON ME — DR000541 =================== */
+
+{
+    codigo:'DR000541',
+    titulo:'My Enemy Has a Crush on Me',
+    tituloOriginal:'我的死对头暗恋我',
+    alias:['Wo De Si Dui Tou An Lian Wo'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:19,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-02-22',
+    finalizacion:null,
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Rivales','Enemigos a amantes','Vertical','Microdrama'],
+    personas:[],
+    ships:[
+        {personajes:['Fu Ci','Jiang Nai']}
+    ],
+    sinopsis:'Fu Ci y Jiang Nai han sido rivales desde hace años. Su relación cambia cuando vuelven a encontrarse y descubren que detrás de su enfrentamiento existe una atracción que ninguno de los dos había querido reconocer.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SECRETS HAPPENED ON THE LITCHI ISLAND — DR000542 =================== */
+
+{
+    codigo:'DR000542',
+    titulo:'Secrets Happened on the Litchi Island',
+    tituloOriginal:'荔枝树下热烈岛',
+    alias:['Li Zhi Shu Xia Re Lie Dao'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-03-03',
+    finalizacion:'2025-04-05',
+    generos:['BL','Romance','Drama','Juventud'],
+    tags:['BL','Juventud','Isla','Reencuentro','Extras'],
+    personas:[],
+    ships:[
+        {personajes:['Nie Xiaozhi','Chen Li']}
+    ],
+    sinopsis:'En una isla donde los recuerdos y los secretos del pasado vuelven a salir a la luz, Nie Xiaozhi y Chen Li desarrollan una relación que transforma sus vidas mientras afrontan sus sentimientos y las circunstancias que los rodean.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CAGED BIRD / THE FORBIDDEN FLAME — DR000543 =================== */
+
+{
+    codigo:'DR000543',
+    titulo:'Caged Bird',
+    tituloOriginal:'笼中雀',
+    alias:['Long Zhong Que','The Forbidden Flame'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:45,
+    duracion:2,
+    estado:'Finalizado',
+    estreno:'2025-02-03',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Vertical','Microdrama','Reencuentro','Relación prohibida'],
+    personas:[],
+    ships:[
+        {personajes:['Shen Bi','Song Yan']}
+    ],
+    sinopsis:'Shen Bi y Song Yan mantienen una relación marcada por una conexión prohibida. Después de una separación de años, ambos vuelven a encontrarse y deben enfrentarse a los sentimientos que todavía existen entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== INFIDELITY, IT'S A DISEASE — DR000544 =================== */
+
+{
+    codigo:'DR000544',
+    titulo:'Infidelity, It’s a Disease',
+    tituloOriginal:'花心，是一种病',
+    alias:['Hua Xin, Shi Yi Zhong Bing'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-05-01',
+    finalizacion:'2025-05-22',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Diferencia cultural','China-Taiwán','Relación a distancia'],
+    personas:[],
+    ships:[
+        {personajes:['Jiang Ye','Zi Rui']}
+    ],
+    sinopsis:'Jiang Ye conoce a Zi Rui, un masajista taiwanés, y ambos desarrollan una relación que debe superar las diferencias personales y las dificultades derivadas de sus circunstancias.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE AGREEMENT OF CHERRY BLOSSOM RAINY SEASON — DR000545 =================== */
+
+{
+    codigo:'DR000545',
+    titulo:'The Agreement of Cherry Blossom Rainy Season',
+    tituloOriginal:'樱花雨季的约定',
+    alias:['Ying Hua Yu Ji De Yue Ding'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:3,
+    estado:'Finalizado',
+    estreno:'2025-05-01',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:['BL','Primer amor','Reencuentro','Supernatural','Microdrama'],
+    personas:[],
+    ships:[
+        {personajes:['Gao Feng','Yu Yang']}
+    ],
+    sinopsis:'Gao Feng se reencuentra con Yu Yang, su primer amor, después de que este hubiera fallecido. El misterioso reencuentro da lugar a una nueva oportunidad para ambos y a una historia de amor marcada por los recuerdos del pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MOON AND DUST — DR000546 =================== */
+
+{
+    codigo:'DR000546',
+    titulo:'Moon and Dust',
+    tituloOriginal:'坏狗',
+    alias:['Huai Gou','Bad Dog'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Bad Dog',
+        tituloOriginal:'坏狗',
+        autor:'1 Bite Off',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-05-23',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Adaptación','Hermanos no biológicos','Relación prohibida'],
+    personas:[],
+    ships:[
+        {personajes:['Song Li','Song Qi']}
+    ],
+    sinopsis:'Song Li recoge a Song Qi cuando es niño y lo cría como si fuera su hermano menor. Con el paso de los años, los sentimientos de Song Qi evolucionan más allá de la relación fraternal, dando lugar a una relación amorosa complicada por los vínculos familiares que los unen.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== FALLING IN LOVE WITH A RIVAL — DR000547 =================== */
+
+{
+    codigo:'DR000547',
+    titulo:'Falling in Love with a Rival',
+    tituloOriginal:'逆袭之爱上情敌',
+    alias:['Ni Xi Zhi Ai Shang Qing Di','Counter Attack'],
+    pais:['CN'],
+    anio:2015,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000547',orden:1},
+    origen:{
+        tipo:'Novela',
+        titulo:'Counter Attack',
+        tituloOriginal:'逆袭',
+        autor:'Chai Ji Dan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2015-08-09',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL','Adaptación','Rivales','Censura'],
+    personas:[],
+    ships:[
+        {personajes:['Wu Suowei','Chi Cheng']}
+    ],
+    sinopsis:'Wu Suowei decide transformar su vida después de que su novia lo abandona por Chi Cheng. Al acercarse a su rival con la intención de vengarse, la relación entre ambos cambia progresivamente hasta convertirse en una atracción mutua.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== REVENGED LOVE — DR000548 =================== */
+
+{
+    codigo:'DR000548',
+    titulo:'Revenged Love',
+    tituloOriginal:'逆爱',
+    alias:['Ni Ai'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000547',orden:2},
+    origen:{
+        tipo:'Novela',
+        titulo:'Counter Attack',
+        tituloOriginal:'逆袭',
+        autor:'Chai Ji Dan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:24,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-06-16',
+    finalizacion:'2025-08-12',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL','Adaptación','Rivales','Reencuentro','Remake'],
+    personas:[],
+    ships:[
+        {personajes:['Wu Suowei','Chi Cheng']},
+        {personajes:['Guo Chengyu','Jiang Xiaoshuai']}
+    ],
+    sinopsis:'Wu Suowei, tras ser abandonado por su novia por Chi Cheng, decide acercarse a su rival para vengarse. Sin embargo, la convivencia y el enfrentamiento entre ambos hacen que sus sentimientos cambien hasta convertirse en amor. Paralelamente, Guo Chengyu y Jiang Xiaoshuai desarrollan su propia relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== A SKETCHY JOB! — DR000549 =================== */
+
+{
+    codigo:'DR000549',
+    titulo:'A Sketchy Job!',
+    tituloOriginal:'这见鬼的工作!',
+    alias:['Zhe Jian Gui De Gong Zuo'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-06-26',
+    finalizacion:'2025-07-10',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Trabajo','Novio de alquiler','Microdrama'],
+    personas:[],
+    ships:[
+        {personajes:['Lu Xiao','Liu Zairong']}
+    ],
+    sinopsis:'Lu Xiao trabaja como novio de alquiler y acepta un encargo que lo lleva a conocer a Liu Zairong. Lo que inicialmente parece un trabajo más termina convirtiéndose en una relación real cuando ambos comienzan a desarrollar sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ABO DESIRE — DR000550 =================== */
+
+{
+    codigo:'DR000550',
+    titulo:'ABO Desire',
+    tituloOriginal:'垂涎',
+    alias:['Chui Xian','Desire'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Desire',
+        tituloOriginal:'垂涎',
+        autor:'Nong Jian',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:16,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-07-12',
+    finalizacion:'2025-10-11',
+    generos:['BL','Romance','Drama','Ciencia ficción'],
+    tags:['BL','Adaptación','ABO','Omegaverse'],
+    personas:[],
+    ships:[
+        {personajes:['Hua Yong','Sheng Shaoyou']},
+        {personajes:['Gao Tu','Shen Wenlang']}
+    ],
+    sinopsis:'En un mundo regido por una estructura ABO, las relaciones entre alfa, beta y omega determinan buena parte de la vida social. Hua Yong y Sheng Shaoyou desarrollan una relación marcada por sus circunstancias, mientras Gao Tu y Shen Wenlang protagonizan una segunda historia de amor dentro del mismo universo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TO MY SHORE — DR000551 =================== */
+
+{
+    codigo:'DR000551',
+    titulo:'To My Shore',
+    tituloOriginal:'吾岸',
+    alias:['Wu An'],
+    pais:['CN','TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000019',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'Four-Faced Buddha',
+        tituloOriginal:'四面佛',
+        autor:'Su Erliang',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-11-15',
+    finalizacion:'2026-01-03',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Adaptación','Coproducción','China-Tailandia'],
+    personas:[],
+    ships:[
+        {personajes:['Fan Xiao','You Shulang']}
+    ],
+    sinopsis:'Fan Xiao y You Shulang se encuentran en circunstancias complicadas que ponen a prueba sus sentimientos y su confianza. A medida que su relación se desarrolla, ambos deben enfrentarse a los conflictos del pasado y a las dificultades que amenazan con separarlos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE SPARKLE IN YOUR EYE — DR000552 =================== */
+
+{
+    codigo:'DR000552',
+    titulo:'The Sparkle in Your Eye',
+    tituloOriginal:'你是我目光里的星',
+    alias:['Ni Shi Wo Mu Guang Li De Xing'],
+    pais:['SG'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-05-24',
+    finalizacion:'2025-06-28',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Juventud','Reencuentro'],
+    personas:[],
+    ships:[
+        {personajes:['Pei Jia','Su Yi']}
+    ],
+    sinopsis:'Pei Jia y Su Yi se conocen en circunstancias que hacen que sus vidas comiencen a entrelazarse. La relación entre ambos evoluciona progresivamente mientras afrontan sus sentimientos y las dificultades que surgen a su alrededor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== GHOST MARRIAGE: A STRAIGHT MAN FORCED TO MARRY THE KING OF THE UNDERWORLD — DR000553 =================== */
+
+{
+    codigo:'DR000553',
+    titulo:'Ghost Marriage: A Straight Man Forced to Marry the King of the Underworld',
+    tituloOriginal:'阴婚霸宠：直男被迫嫁冥王',
+    alias:['Yin Hun Ba Chong: Zhi Nan Bei Po Jia Ming Wang'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:null,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-05-15',
+    finalizacion:null,
+    generos:['BL','Romance','Fantasía','Sobrenatural','Drama'],
+    tags:['BL','Vertical','Matrimonio fantasma','Fantasmas','Sobrenatural','Relación forzada'],
+    personas:[],
+    ships:[
+        {personajes:['Gu Zao','Jiang Tian Ming']}
+    ],
+    sinopsis:'Gu Zao se ve obligado a participar en un matrimonio fantasma con Jiang Tian Ming, el hijo mayor de la familia Jiang, fallecido prematuramente. Ambas familias mantienen una tradición de matrimonios entrelazados que lleva a Gu Zao a convertirse en el esposo de un hombre muerto y a enfrentarse al mundo sobrenatural que rodea a su nueva relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TRAPPED IN OSAKA — DR000554 =================== */
+
+{
+    codigo:'DR000554',
+    titulo:'Trapped in Osaka',
+    tituloOriginal:'被困在大阪的男孩',
+    alias:['Bei Kun Zai Da Ban De Nan Hai'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-05-29',
+    finalizacion:'2025-06-19',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Vertical','Osaka','Enemigos a amantes','Convivencia forzada'],
+    personas:[],
+    ships:[
+        {personajes:['Chenxi','Haoyu']}
+    ],
+    sinopsis:'Chenxi se encuentra atrapado en Osaka mientras intenta hacer frente a sus deudas. Haoyu recibe el encargo de localizarlo y cobrar el dinero, pero las circunstancias hacen que ambos queden atrapados juntos. La convivencia forzada transforma gradualmente su enfrentamiento inicial en una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOST IN KYOTO — DR000555 =================== */
+
+{
+    codigo:'DR000555',
+    titulo:'Lost in Kyoto',
+    tituloOriginal:'情迷京都',
+    alias:['Qing Mi Jing Du'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-07-31',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Vertical','Kyoto','Reencuentro'],
+    personas:[],
+    ships:[
+        {personajes:['Kai Xu','Wen Xi']}
+    ],
+    sinopsis:'Kai Xu y Wen Xi se encuentran en Kioto y desarrollan una relación marcada por la atracción, los sentimientos y las circunstancias que los llevan a acercarse durante su estancia en Japón.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== BLURRED DESIRE — DR000556 =================== */
+
+{
+    codigo:'DR000556',
+    titulo:'Blurred Desire',
+    tituloOriginal:'懵動',
+    alias:['Meng Dong'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        titulo:'The Promise Sealed with Our Lips: Floating Clouds Out of the Cave',
+        tituloOriginal:'唇诺之浮云出岫',
+        autor:'Guan Gai Man Jing Hua',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:61,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-07-31',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Adaptación','Novela BL','Vertical','Microdrama'],
+    personas:[],
+    ships:[
+        {personajes:['Xiao Zhengyan','Liu Zimo']}
+    ],
+    sinopsis:'Xiao Zhengyan y Liu Zimo desarrollan una relación marcada inicialmente por el conflicto y la distancia. A medida que sus sentimientos evolucionan, la hostilidad inicial da paso a una atracción y un vínculo romántico.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE HEART OF TSUKUYOMI — DR000557 =================== */
+
+{
+    codigo:'DR000557',
+    titulo:'The Heart of Tsukuyomi',
+    tituloOriginal:'月读神之心',
+    alias:['Yue Du Shen Zhi Xin'],
+    pais:['CN','JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000020',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-08-14',
+    finalizacion:'2025-08-21',
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:['BL','Coproducción','China-Japón','Sobrenatural','Tsukuyomi'],
+    personas:[],
+    ships:[
+        {personajes:['Gushan Qiyue','Rong Yuewen']}
+    ],
+    sinopsis:'La historia gira en torno a Gushan Qiyue y Rong Yuewen, cuya relación se desarrolla en un contexto marcado por elementos sobrenaturales y por la conexión entre el mundo humano y el universo asociado a Tsukuyomi.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== NEVER DATE A CAPRICORN — DR000558 =================== */
+
+{
+    codigo:'DR000558',
+    titulo:'Never Date a Capricorn',
+    tituloOriginal:'别碰摩羯啊',
+    alias:['Bie Peng Mo Jie A'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-10-02',
+    finalizacion:'2025-10-23',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Vertical','Secret Of Us','Personalidades opuestas'],
+    personas:[],
+    ships:[
+        {personajes:['Cheng Hai','Ye Chengyun']}
+    ],
+    sinopsis:'Cheng Hai y Ye Chengyun se encuentran en circunstancias que ponen a prueba su relación y sus sentimientos. Lo que comienza como una interacción complicada evoluciona progresivamente hacia una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PLUTOCHARON — DR000559 =================== */
+
+{
+    codigo:'DR000559',
+    titulo:'PlutoCharon',
+    tituloOriginal:'星轨',
+    alias:['Xing Gui','Pluto Charon'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-10-19',
+    finalizacion:'2025-12-07',
+    generos:['BL','Romance','Fantasía','Ciencia ficción','Drama'],
+    tags:['BL','Universos paralelos','Espíritu','Ciencia ficción','Supernatural'],
+    personas:[],
+    ships:[
+        {personajes:['Yang You','Chen Shi']}
+    ],
+    sinopsis:'Yang You atraviesa accidentalmente hacia un universo paralelo y se convierte en un espíritu que debe permanecer a menos de 200 metros de Chen Shi para mantener su existencia. La convivencia entre ambos hace que su relación evolucione hasta convertirse en amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== UNTIL WE DROWN — DR000560 =================== */
+
+{
+    codigo:'DR000560',
+    titulo:'Until We Drown',
+    tituloOriginal:'沉溺到底',
+    alias:['Chen Ni Dao Di'],
+    pais:['CN','JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000020',
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-11-06',
+    finalizacion:'2025-12-07',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Coproducción','China-Japón','Reencuentro','Amor complicado'],
+    personas:[],
+    ships:[
+        {personajes:['Cheng Yu','Cheng Jiang']}
+    ],
+    sinopsis:'Cheng Yu y Cheng Jiang protagonizan una historia de amor marcada por los sentimientos, los recuerdos y las circunstancias que dificultan su relación. A medida que ambos se acercan, deberán enfrentarse a las consecuencias de sus decisiones y a los sentimientos que intentan contener.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== GU JIN NAN QIU — DR000561 =================== */
+
+{
+    codigo:'DR000561',
+    titulo:'Gu Jin Nan Qiu',
+    tituloOriginal:'顾禁南囚',
+    alias:['Gu Jinnan Prison','Forbidden & Captivity','Forbidden and Captivity'],
+    pais:['CN'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:18,
+    duracion:6,
+    estado:'Finalizado',
+    estreno:'2025-11-15',
+    finalizacion:'2026-01-13',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Vertical','Microdrama','Diferencia de edad','Familia','Medio hermanos','Tutela','Relación de poder','Coacción','Violencia','Venganza','Drama oscuro'],
+    personas:[],
+    ships:[
+        {personajes:['Wen Hai','Gu Huaizhou']},
+        {personajes:['Jiang Nan','Gu Leng']}
+    ],
+    sinopsis:'Tras la muerte accidental de sus padres, Wen Hai, de 17 años, queda bajo la tutela de su hermanastro Gu Huaizhou. La convivencia está marcada por el control, el conflicto y una relación cada vez más compleja. Paralelamente, Gu Leng se relaciona con Jiang Nan, quien queda atrapado en una situación de deuda y coerción. Ambas historias se entrelazan en un drama de relaciones familiares, poder, venganza y sentimientos conflictivos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
 },
 ];
