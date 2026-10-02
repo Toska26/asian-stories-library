@@ -75,4 +75,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia china formada por The Untamed y sus producciones cinematográficas derivadas The Living Dead y Fatal Journey. The Untamed: Special Edition pertenece al mismo universo, pero no forma parte de la franquicia al ser una reedición de la serie original.',
     activo:true
 },
+   {
+    codigo:'FR000034',
+    nombre:"Ossan's Love",
+    pais:'JP',
+    multimedia:{ portada:'' },
+    descripcion:"Franquicia japonesa formada por el especial televisivo de 2016 y las tres producciones de la serie Ossan's Love: Ossan's Love (2018), Ossan's Love-in the sky- (2019) y Ossan's Love-Returns- (2024).",
+    activo:true
+}, 
 ];
