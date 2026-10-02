@@ -67,4 +67,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia china formada por Love Is More Than a Word y Till Death Tear Us Apart. Ambas producciones están conectadas narrativamente y cuentan con los mismos protagonistas principales interpretando personajes vinculados mediante una idea de reencarnación.',
     activo:true
 },
+   {
+    codigo:'FR000033',
+    nombre:'The Untamed',
+    pais:'CN',
+    multimedia:{ portada:'' },
+    descripcion:'Franquicia china formada por The Untamed y sus producciones cinematográficas derivadas The Living Dead y Fatal Journey. The Untamed: Special Edition pertenece al mismo universo, pero no forma parte de la franquicia al ser una reedición de la serie original.',
+    activo:true
+},
 ];
