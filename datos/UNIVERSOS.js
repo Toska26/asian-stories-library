@@ -81,4 +81,22 @@ activo:true
     descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China y Japón.',
     activo:true
 },
+   {
+    codigo:'UN000021',
+    nombre:'Universo The Blood of Youth',
+    descripcion:'Universo wuxia compartido creado a partir de las obras de Zhou Munan. Agrupa Dashing Youth, The Blood of Youth y Blood River, cuyas historias transcurren en el mismo mundo y están conectadas por personajes, organizaciones y acontecimientos del Jianghu.',
+    activo:true
+},
+   {
+    codigo:'UN000022',
+    nombre:'Universo Daomu Biji',
+    descripcion:'Universo de aventuras, misterio y exploración basado en las obras de Nanpai Sanshu. Agrupa producciones relacionadas con Daomu Biji (The Grave Robbers’ Chronicles), incluyendo historias y personajes conectados con la familia Zhang, Wu Xie, Zhang Qiling y otras tramas del mismo mundo.',
+    activo:true
+},
+   {
+    codigo:'UN000023',
+    nombre:'Colaboraciones China–Hong Kong',
+    descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China continental y Hong Kong.',
+    activo:true
+},
 ];
