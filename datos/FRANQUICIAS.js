@@ -83,4 +83,12 @@ const FRANQUICIAS = [
     descripcion:"Franquicia japonesa formada por el especial televisivo de 2016 y las tres producciones de la serie Ossan's Love: Ossan's Love (2018), Ossan's Love-in the sky- (2019) y Ossan's Love-Returns- (2024).",
     activo:true
 }, 
+   {
+    codigo:'FR000035',
+    nombre:'Pornographer',
+    pais:'JP',
+    multimedia:{ portada:'' },
+    descripcion:'Franquicia japonesa basada en las obras de Maki Marukido y formada por Pornographer (2018), Mood Indigo (2019), Pornographer: Spring Life (2021), Pornographer: Playback (2021) y Pornographer: Continued Spring Life (2021). Las producciones desarrollan distintas etapas de la historia de Kijima Rio, Kuzumi Haruhiko y Kido Shiro, incluyendo una precuela, especiales y la continuación cinematográfica de la historia principal.',
+    activo:true
+},
 ];
