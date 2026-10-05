@@ -2339,7 +2339,7 @@ tituloOriginal:'นิ่งเฮียก็หาว่าซื่อ',
 alias:['Cutie Pie The Series'],
 tipo:'Drama',
 anio:2022,
-pais:'[TH'],
+pais: ['TH'],
 idioma:'th',
 franquicia:{
     codigo:'FR000011',
