@@ -141,5 +141,14 @@ const FRANQUICIAS = [
     },
     descripcion:'Franquicia japonesa basada en las novelas de Yuu Nagira y formada por las dos temporadas televisivas de My Beautiful Man y la película My Beautiful Man: Eternal, que continúa la historia de Hira Kazunari y Kiyoi Sou.',
     activo:true
-}
+},
+
+{
+    codigo:'FR000041',
+    nombre:'Takumi-kun Series',
+    pais:'JP',
+    tipo:'Franquicia',
+    descripcion:'Franquicia japonesa de adaptaciones audiovisuales de la obra Takumi-kun Series, que incluye la primera etapa cinematográfica, la nueva adaptación cinematográfica de 2023 y la adaptación televisiva de 2025.',
+    activo:true
+},
 ];
