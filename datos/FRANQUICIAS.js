@@ -91,4 +91,22 @@ const FRANQUICIAS = [
     descripcion:'Franquicia japonesa basada en las obras de Maki Marukido y formada por Pornographer (2018), Mood Indigo (2019), Pornographer: Spring Life (2021), Pornographer: Playback (2021) y Pornographer: Continued Spring Life (2021). Las producciones desarrollan distintas etapas de la historia de Kijima Rio, Kuzumi Haruhiko y Kido Shiro, incluyendo una precuela, especiales y la continuación cinematográfica de la historia principal.',
     activo:true
 },
+
+{
+    codigo:'FR000036',
+    nombre:'His',
+    pais:'JP',
+    multimedia:{ portada:'' },
+    descripcion:'Franquicia japonesa formada por la miniserie His: I Didn’t Think I Would Fall in Love (2019) y la película his (2020), que continúa la historia de Shun Igawa y Nagisa Hibino varios años después.',
+    activo:true
+},
+
+{
+    codigo:'FR000037',
+    nombre:'What Did You Eat Yesterday?',
+    pais:'JP',
+    multimedia:{ portada:'' },
+    descripcion:'Franquicia japonesa basada en el manga de Fumi Yoshinaga y centrada en la vida cotidiana de la pareja formada por Shiro Kakei y Kenji Yabuki. Incluye las temporadas televisivas, el especial de Año Nuevo de 2020 y la película de 2021.',
+    activo:true
+},
 ];
