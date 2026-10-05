@@ -781,6 +781,31 @@ DR000737	JP	2026	Duty First, Kiss Later
 DR000738	JP	2026	Hold on, Harutora-kun
 DR000739	JP	2026	Love Punch!
 
+DR000740	TH	2014	Love Sick: The Series
+DR000741	TH	2015	Love Sick 2
+DR000742	TH	2019	Reminders
+DR000743	TH	2024	Love Sick 2024
+
+DR000744	TH	2016	Make It Right
+DR000745	TH	2017	Make It Right 2
+DR000746	TH	2019	Make It Live: On The Beach
+DR000747	TH	2026	Make It Right 2026
+
+DR000748	TH	2014	My Bromance
+DR000749	TH	2015	My Bromance: Reunion
+DR000750	TH	2016	My Bromance: The Series
+DR000751	TH	2020	My Bromance 2: 5 Years Later
+DR000752	TH	2016	Gay OK Bangkok
+DR000753	TH	2017	Gay OK Bangkok 2
+DR000754	TH	2016	Grey Rainbow
+
+DR000755	TH	2018	What the Duck: The Series
+DR000756	TH	2019	What the Duck: Final Call
+
+DR000757	TH	2017	I Am Your King
+DR000758	TH	2019	I Am Your King 2
+
+
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
 Hanyang Studio → conservar EN000072 y eliminar EN000128.
