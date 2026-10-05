@@ -764,6 +764,7 @@ const DRAMAS = [
     pais: 'TH',
     idioma: 'th',
     universo: 'UN000001',
+	remake:{codigo:'RM000015',orden:1},
     temporadas: 1,
     temporada: 1,
     episodios: 13,
@@ -1951,6 +1952,7 @@ const DRAMAS = [
     pais: 'TH',
     idioma: 'th',
     universo: 'UN000001',
+	remake:{codigo:'RM000034',orden:1},
     temporadas: 1,
     temporada: 1,
     episodios: 12,
@@ -3630,6 +3632,7 @@ pais:'TH',
 idioma:'th',
 franquicia:'',
 universo:'',
+remake:{codigo:'RM000061',orden:2},
 serie:'SR000061',
 temporadas:1,
 temporada:1,
@@ -3938,6 +3941,7 @@ idioma:'th',
 franquicia:'',
 universo:'',
 serie:'SR000066',
+remake:{codigo:'RM000066',orden:2},
 temporadas:1,
 temporada:1,
 episodios:12,
@@ -29262,7 +29266,7 @@ activo:true
     pais:['JP'],
     anio:2019,
     tipo:'Drama',
-    franquicia:{codigo:'FR000034',orden:3},
+    franquicia:{codigo:'FR000034',orden:4},
     universo:null,
     serie:'SR000611',
     remake:null,
@@ -29304,7 +29308,7 @@ activo:true
     pais:['JP'],
     anio:2024,
     tipo:'Drama',
-    franquicia:{codigo:'FR000034',orden:4},
+    franquicia:{codigo:'FR000034',orden:5},
     universo:null,
     serie:'SR000611',
     remake:null,
@@ -29324,6 +29328,5911 @@ activo:true
         {personajes:['Izumi Ko','Rikudo Kikunosuke']}
     ],
     sinopsis:'Cinco años después de los acontecimientos de la primera historia, Haruta Soichi y Maki Ryota han vuelto a reunirse y comienzan su vida matrimonial juntos tras el periodo de distancia y la estancia de Maki en el extranjero. Sin embargo, descubrirán que estar casados también implica enfrentarse a las responsabilidades, diferencias y dificultades de la vida cotidiana. Mientras intentan construir su nueva vida como familia, el antiguo jefe de Haruta, Kurosawa Musashi, aparece como su nuevo empleado doméstico. Paralelamente, los vecinos Izumi Ko y Rikudo Kikunosuke esconden una historia relacionada con su pasado y desarrollan sus propios sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== PORNOGRAPHER / THE NOVELIST — DR000614 =================== */
+{
+    codigo:'DR000614',
+    titulo:'Pornographer',
+    tituloOriginal:'ポルノグラファー',
+    alias:['The Novelist','Pornographer: The Novelist'],
+    pais:['JP'],
+    anio:2018,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000035',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2018-07-28',
+    finalizacion:'2018-08-31',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Escritor','Universidad','Literatura','Convivencia','Adultos'],
+    personas:[],
+    ships:[
+        {personajes:['Kijima Rio','Kuzumi Haruhiko']}
+    ],
+    sinopsis:'Kuzumi Haruhiko, un estudiante universitario, atropella accidentalmente en bicicleta al escritor de novelas eróticas Kijima Rio y le fractura un brazo. Como Kijima no tiene seguro, propone a Kuzumi que le ayude a escribir sus novelas mediante dictado como compensación por el accidente. Lo que comienza como una relación circunstancial evoluciona gradualmente hacia un vínculo amoroso entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PORNOGRAPHER: MOOD INDIGO — DR000615 =================== */
+{
+    codigo:'DR000615',
+    titulo:'Pornographer: Mood Indigo',
+    tituloOriginal:'ポルノグラファー～インディゴの気分～',
+    alias:['Mood Indigo','Pornographer: Indigo Mood'],
+    pais:['JP'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000035',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2019-02-28',
+    finalizacion:'2019-04-04',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Precuela','Escritor','Editor','Universidad','Amor no correspondido','Pasado'],
+    personas:[],
+    ships:[
+        {personajes:['Kijima Rio','Kido Shiro']}
+    ],
+    sinopsis:'Kido Shiro se reencuentra con su antiguo compañero de universidad Kijima Rio durante el funeral de un profesor. Años atrás, Kijima ya destacaba como escritor y Kido había mantenido con él una relación marcada por la admiración, el deseo y los sentimientos no resueltos. La historia muestra el pasado de ambos y cómo Kijima terminó convirtiéndose en escritor de novelas eróticas. Kuzumi Haruhiko también aparece, conectando esta historia con Pornographer.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PORNOGRAPHER: SPRING LIFE — DR000616 =================== */
+{
+    codigo:'DR000616',
+    titulo:'Pornographer: Spring Life',
+    tituloOriginal:'ポルノグラファー～春的生活～',
+    alias:['Spring Life','Pornographer: Haru-teki Seikatsu'],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Especial',
+    franquicia:{codigo:'FR000035',orden:3},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:27,
+    estado:'Finalizado',
+    estreno:'2021-01-18',
+    finalizacion:'2021-01-18',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Pareja','Reencuentro','Familia','Vida en pareja','Prólogo'],
+    personas:[],
+    ships:[
+        {personajes:['Kijima Rio','Kuzumi Haruhiko']}
+    ],
+    sinopsis:'Kijima Rio continúa viviendo en la casa familiar del campo y trabajando como escritor, mientras Kuzumi Haruhiko ya trabaja en Tokio. Después de dos años y medio separados, Kuzumi visita nuevamente la casa de Kijima y ambos vuelven a encontrarse. El especial funciona como prólogo de Pornographer: Playback y muestra el reencuentro de la pareja antes de los acontecimientos de la película.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PORNOGRAPHER: PLAYBACK — DR000617 =================== */
+{
+    codigo:'DR000617',
+    titulo:'Pornographer: Playback',
+    tituloOriginal:'劇場版ポルノグラファー～プレイバック～',
+    alias:['Pornographer: Playback','Theatrical Edition Pornographer: Playback'],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Película',
+    franquicia:{codigo:'FR000035',orden:4},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:106,
+    estado:'Finalizado',
+    estreno:'2021-02-26',
+    finalizacion:'2021-02-26',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Pareja','Distancia','Familia','Reencuentro','Vida adulta','Conflicto emocional'],
+    personas:[],
+    ships:[
+        {personajes:['Kijima Rio','Kuzumi Haruhiko']}
+    ],
+    sinopsis:'Kijima Rio y Kuzumi Haruhiko mantienen una relación a distancia después de que Kijima regrese a su ciudad natal y Kuzumi comience su vida laboral en Tokio. Las dificultades de la distancia y las inseguridades de Kijima provocan un distanciamiento entre ambos. Cuando Kuzumi viaja para verlo, una nueva situación relacionada con una lesión de Kijima y un joven llamado Shizuo obliga a ambos a enfrentarse a sus sentimientos y decidir si quieren continuar construyendo una vida juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PORNOGRAPHER: CONTINUED SPRING LIFE — DR000618 =================== */
+{
+    codigo:'DR000618',
+    titulo:'Pornographer: Continued Spring Life',
+    tituloOriginal:'ポルノグラファー～続・春的生活～',
+    alias:['Continued Spring Life','Pornographer: Zoku Haru-teki Seikatsu'],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Especial',
+    franquicia:{codigo:'FR000035',orden:5},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:15,
+    estado:'Finalizado',
+    estreno:'2021-03-05',
+    finalizacion:'2021-03-05',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Pareja','Familia','Vida en pareja','Epílogo','Final'],
+    personas:[],
+    ships:[
+        {personajes:['Kijima Rio','Kuzumi Haruhiko']}
+    ],
+    sinopsis:'Después de superar sus diferencias, Kijima Rio y Kuzumi Haruhiko se encuentran nuevamente en la casa familiar de Kijima. Mientras Kuzumi convive con la familia, algunas preguntas sobre la relación de ambos provocan una situación incómoda. Kijima termina revelando a Kuzumi un secreto relacionado con su pasado y con Kido, cerrando la historia de la pareja después de los acontecimientos de Playback.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== HIS: I DIDN'T THINK I WOULD FALL IN LOVE — DR000619 =================== */
+{
+    codigo:'DR000619',
+    titulo:"His: I Didn't Think I Would Fall in Love",
+    tituloOriginal:'his〜恋するつもりなんてなかった〜',
+    alias:['His: I Didn’t Think I Would Fall in Love'],
+    pais:['JP'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000036',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:5,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2019-04-09',
+    finalizacion:'2019-05-07',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Primer amor','Escolar','Juventud','Surf','Descubrimiento personal','Reencuentro'],
+    personas:[],
+    ships:[
+        {personajes:['Igawa Shun','Hibino Nagisa']}
+    ],
+    sinopsis:'Durante las vacaciones de primavera, el estudiante de secundaria Shun Igawa llega a Fujisawa y conoce a Nagisa Hibino, un joven de su misma edad que vive solo junto al mar. Lo que comienza como una amistad se transforma poco a poco en su primer amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== WHAT DID YOU EAT YESTERDAY? — DR000620 =================== */
+{
+    codigo:'DR000620',
+    titulo:'What Did You Eat Yesterday?',
+    tituloOriginal:'きのう何食べた？',
+    alias:['Kinou Nani Tabeta?','What Did You Eat Yesterday?'],
+    pais:['JP'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000037',orden:1},
+    universo:null,
+    serie:'SR000620',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2019-04-05',
+    finalizacion:'2019-06-28',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL','Romance','Vida cotidiana','Pareja estable','Convivencia','Cocina','Familia','Adultos','Múltiples parejas'],
+    personas:[],
+    ships:[
+        {personajes:['Kakei Shiro','Yabuki Kenji']},
+        {personajes:['Kohinata Daisaku','Inoue Wataru']},
+        {personajes:['Honda Tetsuro','Nagashima Yoshiyuki']}
+    ],
+    sinopsis:'Shiro Kakei es un abogado meticuloso y ahorrador que vive en Tokio junto a su pareja, Kenji Yabuki, un peluquero de carácter mucho más abierto y afectuoso. La vida cotidiana de ambos gira alrededor de su convivencia, la cocina y las pequeñas dificultades que surgen en su relación, mientras también conocen a otras parejas de hombres de distintas generaciones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== OSSAN'S LOVE THE MOVIE: LOVE OR DEAD — DR000621 =================== */
+{
+    codigo:'DR000621',
+    titulo:"Ossan's Love The Movie: Love or Dead",
+    tituloOriginal:'劇場版おっさんずラブ ～LOVE or DEAD～',
+    alias:['Ossan's Love: Love or Dead','Gekijoban Ossan's Love: Love or Dead'],
+    pais:['JP'],
+    anio:2019,
+    tipo:'Película',
+    franquicia:{codigo:'FR000034',orden:3},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:114,
+    estado:'Finalizado',
+    estreno:'2019-08-23',
+    finalizacion:'2019-08-23',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Romance','Comedia','Oficina','Triángulo amoroso','Boda','Reencuentro'],
+    personas:[],
+    ships:[
+        {personajes:['Haruta Soichi','Maki Ryota']}
+    ],
+    sinopsis:'Haruta Soichi y Maki Ryota intentan continuar su vida en pareja mientras Haruta se ve envuelto nuevamente en una situación sentimental caótica. El regreso de Musashi Kurosawa y la aparición de nuevos personajes ponen a prueba la relación de la pareja.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+
+
+/* =============== LIFE~LOVE ON THE LINE — DR000623 =================== */
+{
+    codigo:'DR000623',
+    titulo:'Life~Love on the Line',
+    tituloOriginal:'Life 線上の僕ら',
+    alias:['Life Senjou no Bokura','Life: Love on the Line','Life on the Line'],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:27,
+    estado:'Finalizado',
+    estreno:'2020-06-19',
+    finalizacion:'2020-07-10',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Juventud','Escolar','Universidad','Vida adulta','Primer amor','Reencuentro','Separación','Matrimonio'],
+    personas:[],
+    ships:[
+        {personajes:['Ito Akira','Nishi Yuuki']}
+    ],
+    sinopsis:'Akira Ito y Yuuki Nishi se conocen accidentalmente durante la adolescencia mientras juegan a caminar sobre una línea blanca. Lo que comienza como un encuentro casual se convierte en una relación que atraviesa la escuela, la universidad, el trabajo y la vida adulta, mostrando cómo ambos intentan mantener su amor mientras cambian sus circunstancias.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+
+
+/* =============== BE LOVE — DR000625 =================== */
+{
+    codigo:'DR000625',
+    titulo:'BE LOVE',
+    tituloOriginal:'BE LOVE',
+    alias:[],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2020-10-16',
+    finalizacion:'2020-11-06',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Pareja estable','Convivencia','Literatura','Libros ilustrados','Celos','Pérdida','Duelo'],
+    personas:[],
+    ships:[
+        {personajes:['Tamamori Yuuta','Miyata Toshiya']}
+    ],
+    sinopsis:'Un escritor de libros ilustrados y el editor encargado de sus obras viven juntos mientras trabajan en un nuevo proyecto. Su relación amorosa se ve alterada por los celos, la pérdida y los recuerdos que permanecen incluso después de la muerte.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CHERRY MAGIC! THIRTY YEARS OF VIRGINITY CAN MAKE YOU A WIZARD?! — DR000622 =================== */
+{
+    codigo:'DR000622',
+    titulo:'Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!',
+    tituloOriginal:'30歳まで童貞だと魔法使いになれるらしい',
+    alias:[
+        'Cherry Magic!',
+        '30-sai Made Doutei da to Mahou Tsukai ni Nareru Rashii'
+    ],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:{
+        codigo:'FR000038',
+        orden:1
+    },
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000066',orden:1},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2020-10-09',
+    finalizacion:'2020-12-25',
+    generos:['BL','Romance','Comedia','Fantasía'],
+    tags:['BL','Romance','Comedia','Fantasía','Oficina','Lectura de mente','Amor correspondido','Múltiples parejas'],
+    personas:[],
+    ships:[
+        {personajes:['Adachi Kiyoshi','Kurosawa Yuichi']},
+        {personajes:['Tsuge Masato','Wataya Minato']}
+    ],
+    sinopsis:'Al cumplir treinta años sin haber tenido relaciones sexuales, el tímido oficinista Adachi Kiyoshi adquiere la capacidad de leer la mente de las personas cuando las toca. Al descubrir accidentalmente que su atractivo compañero Kurosawa Yuichi está enamorado de él, Adachi comienza a replantearse sus propios sentimientos. Paralelamente, su amigo Tsuge Masato inicia una relación con el repartidor Wataya Minato.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CHERRY MAGIC! VALENTINE'S DAY & ROKKAKU ARC — DR000627 =================== */
+
+{
+    codigo:'DR000627',
+    titulo:"Cherry Magic! Valentine's Day & Rokkaku Arc",
+    tituloOriginal:'30歳まで童貞だと魔法使いになれるらしい スピンオフ バレンタイン編＆六角編',
+    alias:[
+        "Cherry Magic! Spin-off: Valentine's Day & Rokkaku Arc",
+        'Cherry Magic! Valentine Arc & Rokkaku Arc'
+    ],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Especial',
+    franquicia:{
+        codigo:'FR000038',
+        orden:2
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2020-12-24',
+    finalizacion:'2020-12-24',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Oficina',
+        'San Valentín',
+        'Amor correspondido',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Adachi Kiyoshi','Kurosawa Yuichi']}
+    ],
+    sinopsis:'Especial dividido en dos historias. En Valentine Arc, Kurosawa recuerda sus antiguos San Valentín y se propone entregar por fin un chocolate a Adachi. En Rokkaku Arc, Rokkaku comienza a sospechar que existe algo especial entre Adachi y Kurosawa y decide investigar la relación entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CHERRY MAGIC! TSUGE & MINATO ARC — DR000628 =================== */
+
+{
+    codigo:'DR000628',
+    titulo:'Cherry Magic! Tsuge & Minato Arc',
+    tituloOriginal:'30歳まで童貞だと魔法使いになれるらしい スピンオフ 柘植・湊編',
+    alias:[
+        'Cherry Magic! Spin-off: Tsuge & Minato Arc'
+    ],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Especial',
+    franquicia:{
+        codigo:'FR000038',
+        orden:3
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2020-12-24',
+    finalizacion:'2020-12-24',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Convivencia',
+        'Malentendido',
+        'Amor correspondido',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tsuge Masato','Wataya Minato']}
+    ],
+    sinopsis:'Tsuge celebra que su nueva obra ha recibido un premio mientras Minato llega a la fase final de una importante audición de baile. Aunque ambos parecen estar viviendo un buen momento, Minato guarda una preocupación que Tsuge no consigue percibir, provocando un distanciamiento entre los dos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CHERRY MAGIC! THE MOVIE — DR000629 =================== */
+
+{
+    codigo:'DR000629',
+    titulo:'Cherry Magic! The Movie',
+    tituloOriginal:'チェリまほ THE MOVIE ～30歳まで童貞だと魔法使いになれるらしい～',
+    alias:[
+        'Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!: The Movie',
+        'Cherry Maho THE MOVIE'
+    ],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Película',
+    franquicia:{
+        codigo:'FR000038',
+        orden:4
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:104,
+    estado:'Finalizado',
+    estreno:'2022-04-08',
+    finalizacion:'2022-04-08',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía',
+        'Oficina',
+        'Relación a distancia',
+        'Traslado laboral',
+        'Pareja estable',
+        'Matrimonio'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Adachi Kiyoshi','Kurosawa Yuichi']}
+    ],
+    sinopsis:'Adachi y Kurosawa ya son pareja y disfrutan de su relación cuando Adachi recibe una oferta de traslado laboral a Nagasaki, a unos 1.200 kilómetros de Tokio. La posibilidad de vivir separados hace que ambos tengan que enfrentarse a sus dudas y decidir qué futuro quieren construir juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== WHAT DID YOU EAT YESTERDAY? NEW YEAR SPECIAL 2020 — DR000626 =================== */
+
+{
+    codigo:'DR000626',
+    titulo:'What Did You Eat Yesterday? New Year Special 2020',
+    tituloOriginal:'きのう何食べた？正月スペシャル2020',
+    alias:[
+        'What Did You Eat Yesterday? New Year Special 2020',
+        'Kinou Nani Tabeta? New Year Special 2020',
+        'What Did You Eat Yesterday? Oshogatsu Special 2020'
+    ],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Especial',
+    franquicia:{
+        codigo:'FR000037',
+        orden:2
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:90,
+    estado:'Finalizado',
+    estreno:'2020-01-01',
+    finalizacion:'2020-01-01',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Vida cotidiana',
+        'Pareja estable',
+        'Convivencia',
+        'Cocina',
+        'Familia',
+        'Celos',
+        'Trabajo',
+        'Adultos'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kakei Shiro','Yabuki Kenji']}
+    ],
+    sinopsis:'Shiro y Kenji continúan su vida cotidiana como pareja. Durante el especial, los dos afrontan distintas situaciones relacionadas con los celos, la familia, el trabajo, el dinero y la convivencia, mientras siguen compartiendo su día a día alrededor de la comida y de su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== WHAT DID YOU EAT YESTERDAY? THE MOVIE — DR000631 =================== */
+
+{
+    codigo:'DR000631',
+    titulo:'What Did You Eat Yesterday? The Movie',
+    tituloOriginal:'劇場版 きのう何食べた？',
+    alias:[
+        'What Did You Eat Yesterday? Movie',
+        'Gekijoban Kinou Nani Tabeta?',
+        'Kino Nani Tabeta? The Movie'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Película',
+    franquicia:{
+        codigo:'FR000037',
+        orden:3
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:120,
+    estado:'Finalizado',
+    estreno:'2021-11-03',
+    finalizacion:'2021-11-03',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Vida cotidiana',
+        'Pareja estable',
+        'Convivencia',
+        'Cocina',
+        'Familia',
+        'Celos',
+        'Viaje',
+        'Reencuentro',
+        'Adultos'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kakei Shiro','Yabuki Kenji']},
+        {personajes:['Kohinata Daisaku','Inoue Wataru']}
+    ],
+    sinopsis:'Shiro y Kenji continúan su vida como pareja y deciden viajar a Kioto para celebrar el cumpleaños de Kenji. Durante el viaje, una conversación sobre la familia de Shiro provoca que ambos empiecen a guardarse sus sentimientos. De vuelta en Tokio, nuevas circunstancias y la aparición de un joven peluquero harán que los dos tengan que enfrentarse a sus inseguridades y a lo que significa construir una vida juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== WHAT DID YOU EAT YESTERDAY? SEASON 2 — DR000630 =================== */
+
+{
+    codigo:'DR000630',
+    titulo:'What Did You Eat Yesterday? Season 2',
+    tituloOriginal:'きのう何食べた？ season2',
+    alias:[
+        'What Did You Eat Yesterday? Season 2',
+        'Kinou Nani Tabeta? Season 2'
+    ],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:{
+        codigo:'FR000037',
+        orden:4
+    },
+    universo:null,
+    serie:'SR000620',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2023-10-06',
+    finalizacion:'2023-12-22',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Vida cotidiana',
+        'Pareja estable',
+        'Convivencia',
+        'Cocina',
+        'Familia',
+        'Trabajo',
+        'Adultos',
+        'Envejecimiento',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kakei Shiro','Yabuki Kenji']},
+        {personajes:['Kohinata Daisaku','Inoue Wataru']}
+    ],
+    sinopsis:'Shiro y Kenji entran en una nueva etapa de su vida mientras se acercan a los cincuenta. Su rutina cotidiana continúa alrededor de la comida y de su convivencia, pero empiezan a aparecer cambios relacionados con el trabajo, la familia, la salud, el envejecimiento y la manera en que ambos imaginan su futuro juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE REASON WHY HE FELL IN LOVE WITH ME — DR000624 =================== */
+{
+    codigo:'DR000624',
+    titulo:'The Reason Why He Fell in Love with Me',
+    tituloOriginal:'彼が僕に恋した理由',
+    alias:['Why He Fell in Love with Me','Kare ga Boku ni Koishita Wake','BokuKoi'],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Drama',
+        franquicia:{
+        codigo:'FR000039',
+        orden:1
+    },
+    universo:null,
+    serie:'SR000624',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:4,
+    duracion:29,
+    estado:'Finalizado',
+    estreno:'2020-08-09',
+    finalizacion:'2020-08-30',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Profesores','Instituto','Oficina','Amor correspondido','Múltiples parejas'],
+    personas:[],
+    ships:[
+        {personajes:['Hikawa Toru','Akagi Masumi']}
+    ],
+    sinopsis:'Hikawa Toru, un profesor de matemáticas recién llegado a un instituto, comienza a trabajar junto al profesor de educación física Akagi Masumi. Aunque sus personalidades son muy diferentes, Akagi empieza a sentirse atraído por Hikawa y ambos terminan enfrentándose a las consecuencias de sus sentimientos dentro y fuera del instituto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE REASON WHY HE FELL IN LOVE WITH ME: DRAMA SPECIAL — DR000632 =================== */
+
+{
+    codigo:'DR000632',
+    titulo:'The Reason Why He Fell in Love with Me: Drama Special',
+    tituloOriginal:'彼が僕に恋した理由 ドラマスペシャル',
+    alias:[
+        'The Reason Why He Fell in Love with Me Special',
+        'Kare ga Boku ni Koishita Wake: Drama Special',
+        'BokuKoi Drama Special'
+    ],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Especial',
+    franquicia:{
+        codigo:'FR000039',
+        orden:2
+    },
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2020-12-28',
+    finalizacion:'2020-12-28',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Abogados',
+        'Oficina',
+        'Reencuentro',
+        'Nueva relación',
+        'Amor correspondido',
+        'Adultos'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Hikawa Toru','Takase Ryo']}
+    ],
+    sinopsis:'Tres años después de los acontecimientos de la primera temporada, Hikawa Toru ha dejado la enseñanza y se convierte en abogado. Tras comenzar a trabajar en un bufete, conoce al joven abogado Takase Ryo. La relación entre ambos evoluciona hasta convertirse en una nueva relación sentimental.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE REASON WHY HE FELL IN LOVE WITH ME SEASON 2 — DR000633 =================== */
+
+{
+    codigo:'DR000633',
+    titulo:'The Reason Why He Fell in Love with Me Season 2',
+    tituloOriginal:'彼が僕に恋した理由 SEASON2',
+    alias:[
+        'The Reason Why He Fell in Love with Me 2',
+        'Kare ga Boku ni Koishita Wake Season 2',
+        'BokuKoi Season 2'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:{
+        codigo:'FR000039',
+        orden:3
+    },
+    universo:null,
+    serie:'SR000624',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-04-09',
+    finalizacion:'2021-06-11',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Abogados',
+        'Oficina',
+        'Pareja estable',
+        'Triángulo amoroso',
+        'Expareja',
+        'Celos',
+        'Amor correspondido',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Hikawa Toru','Takase Ryo']}
+    ],
+    sinopsis:'Hikawa Toru trabaja como abogado y mantiene una relación con Takase Ryo. La aparición de Akagi Masumi, su antiguo amor, vuelve a poner a prueba la relación entre Hikawa y Takase mientras ambos intentan construir su futuro juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== A MAN WHO DEFIES THE WORLD OF BL — DR000634 =================== */
+{
+    codigo:'DR000634',
+    titulo:'A Man Who Defies the World of BL',
+    tituloOriginal:'絶対BLになる世界vs絶対BLになりたくない男',
+    alias:[
+        'Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko',
+        'A Man Who Defies the World of BL'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000634',
+    remake:null,
+    origen:null,
+    temporadas:4,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-03-27',
+    finalizacion:'2021-03-27',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Romance','Comedia','Metaficción','Parodia','Escolar','Universidad'],
+    personas:[],
+    ships:[],
+    sinopsis:'Un joven que vive en un mundo donde todos los hombres parecen destinados a convertirse en protagonistas de historias BL intenta desesperadamente evitar convertirse él mismo en uno de ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== A MAN WHO DEFIES THE WORLD OF BL 2 — DR000635 =================== */
+{
+    codigo:'DR000635',
+    titulo:'A Man Who Defies the World of BL 2',
+    tituloOriginal:'絶対BLになる世界VS絶対BLになりたくない男2',
+    alias:[
+        'Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko 2',
+        'A Man Who Defies the World of BL 2'
+    ],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000634',
+    remake:null,
+    origen:null,
+    temporadas:4,
+    temporada:2,
+    episodios:3,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2022-03-20',
+    finalizacion:'2022-03-20',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Romance','Comedia','Metaficción','Parodia','Escolar','Universidad'],
+    personas:[],
+    ships:[],
+    sinopsis:'Mobu continúa intentando sobrevivir en un mundo en el que los hombres terminan formando parejas BL. Después de convertirse accidentalmente en protagonista, intenta recuperar su posición como simple personaje secundario mientras nuevas situaciones románticas aparecen a su alrededor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== A MAN WHO DEFIES THE WORLD OF BL 2024 — DR000636 =================== */
+{
+    codigo:'DR000636',
+    titulo:'A Man Who Defies the World of BL 2024',
+    tituloOriginal:'絶対BLになる世界VS絶対BLになりたくない男 2024',
+    alias:[
+        'Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko 2024',
+        'A Man Who Defies the World of BL 2024'
+    ],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000634',
+    remake:null,
+    origen:null,
+    temporadas:4,
+    temporada:3,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2024-04-23',
+    finalizacion:'2024-05-28',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Romance','Comedia','Metaficción','Parodia','Universidad','Vida adulta'],
+    personas:[],
+    ships:[],
+    sinopsis:'Mobu continúa intentando desafiar las reglas del mundo BL mientras las relaciones y situaciones románticas que lo rodean hacen cada vez más difícil mantenerse al margen.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== A MAN WHO DEFIES THE WORLD OF BL FINAL — DR000637 =================== */
+{
+    codigo:'DR000637',
+    titulo:'A Man Who Defies the World of BL Final',
+    tituloOriginal:'絶対BLになる世界VS絶対BLになりたくない男 ファイナル',
+    alias:[
+        'Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko Final',
+        'A Man Who Defies the World of BL Final'
+    ],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000634',
+    remake:null,
+    origen:null,
+    temporadas:4,
+    temporada:4,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-11-10',
+    finalizacion:'2025-12-15',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Romance','Comedia','Metaficción','Parodia','Universidad','Vida adulta','Final'],
+    personas:[],
+    ships:[],
+    sinopsis:'Mobu afronta la etapa final de su lucha contra las reglas del mundo BL. Mientras las historias románticas continúan desarrollándose a su alrededor, intenta encontrar una forma definitiva de escapar de su inevitable destino como protagonista.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== GIVEN — DR000638 =================== */
+{
+    codigo:'DR000638',
+    titulo:'Given',
+    tituloOriginal:'ギヴン',
+    alias:[
+        'Given',
+        'GIVEN'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-07-17',
+    finalizacion:'2021-08-21',
+    generos:['BL','Romance','Drama','Música'],
+    tags:['BL','Romance','Drama','Música','Banda','Instituto','Universidad','Duelo','Amistad'],
+    personas:[],
+    ships:[
+        {personajes:['Uenoyama Ritsuka','Satou Mafuyu']},
+        {personajes:['Kaji Akihiko','Nakayama Haruki']}
+    ],
+    sinopsis:'Ritsuka Uenoyama, un estudiante de instituto que ha perdido el interés por la música, conoce a Mafuyu Satou y comienza a enseñarle a tocar la guitarra. A través de la música, ambos desarrollan una relación cada vez más profunda mientras se enfrentan a sus sentimientos y a las heridas de su pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MY LOVE MIX-UP! — DR000639 =================== */
+{
+    codigo:'DR000639',
+    titulo:'My Love Mix-Up!',
+    tituloOriginal:'消えた初恋',
+    alias:[
+        'Kieta Hatsukoi',
+        'My Love Mix-Up!'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000061',orden:1},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2021-10-09',
+    finalizacion:'2021-12-18',
+    generos:['BL','Romance','Comedia','Escolar'],
+    tags:['BL','Romance','Comedia','Escolar','Instituto','Amor correspondido','Malentendido','Primer amor'],
+    personas:[],
+    ships:[
+        {personajes:['Aoki Sota','Ida Kosuke']}
+    ],
+    sinopsis:'Aoki Sota está enamorado de Hashimoto, una compañera de clase. Cuando toma prestada su goma de borrar y descubre que lleva escrito el nombre de Ida, el chico que se sienta delante de él, comienza una cadena de malentendidos que hace que Ida crea que Aoki está enamorado de él.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MY BEAUTIFUL MAN — DR000640 =================== */
+{
+    codigo:'DR000640',
+    titulo:'My Beautiful Man',
+    tituloOriginal:'美しい彼',
+    alias:[
+        'Utsukushii Kare',
+        'My Beautiful Man'
+    ],
+    pais:['JP'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000040',orden:1},
+    universo:null,
+    serie:'SR000640',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-11-18',
+    finalizacion:'2021-12-23',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','Romance','Drama','Escolar','Instituto','Primer amor','Juventud','Fotografía','Personalidad introvertida'],
+    personas:[],
+    ships:[
+        {personajes:['Hira Kazunari','Kiyoi Sou']}
+    ],
+    sinopsis:'Hira Kazunari, un estudiante de instituto con problemas de tartamudez y escasas habilidades sociales, queda fascinado desde el primer momento por Kiyoi Sou, el chico más popular de su clase. Lo que comienza como una relación desigual evoluciona gradualmente hacia sentimientos románticos entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MY BEAUTIFUL MAN SEASON 2 — DR000641 =================== */
+{
+    codigo:'DR000641',
+    titulo:'My Beautiful Man Season 2',
+    tituloOriginal:'美しい彼 シーズン2',
+    alias:[
+        'Utsukushii Kare Season 2',
+        'My Beautiful Man 2',
+        'My Beautiful Man Season 2'
+    ],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000040',orden:2},
+    universo:null,
+    serie:'SR000640',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-02-07',
+    finalizacion:'2023-02-28',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Universidad','Vida adulta','Pareja estable','Convivencia','Actuación','Fotografía'],
+    personas:[],
+    ships:[
+        {personajes:['Hira Kazunari','Kiyoi Sou']}
+    ],
+    sinopsis:'Hira y Kiyoi continúan su relación mientras se acercan a una nueva etapa de sus vidas. Hira empieza a enfrentarse a decisiones sobre su futuro y Kiyoi amplía su carrera como actor, mientras ambos intentan avanzar juntos pese a sus inseguridades.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MY BEAUTIFUL MAN: ETERNAL — DR000642 =================== */
+{
+    codigo:'DR000642',
+    titulo:'My Beautiful Man: Eternal',
+    tituloOriginal:'劇場版 美しい彼〜eternal〜',
+    alias:[
+        'My Beautiful Man: Eternal',
+        'Gekijoban Utsukushii Kare: Eternal',
+        'My Beautiful Man The Movie'
+    ],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Película',
+    franquicia:{codigo:'FR000040',orden:3},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:103,
+    estado:'Finalizado',
+    estreno:'2023-04-07',
+    finalizacion:'2023-04-07',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Vida adulta','Pareja estable','Convivencia','Fotografía','Actuación'],
+    personas:[],
+    ships:[
+        {personajes:['Hira Kazunari','Kiyoi Sou']}
+    ],
+    sinopsis:'Hira y Kiyoi continúan su vida juntos mientras afrontan nuevos desafíos personales y profesionales. La película retoma directamente la historia después de la segunda temporada y desarrolla una nueva etapa de su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MINATO'S LAUNDROMAT — DR000643 =================== */
+{
+    codigo:'DR000643',
+    titulo:"Minato's Laundromat",
+    tituloOriginal:'みなと商事コインランドリー',
+    alias:['Minato Shouji Coin Laundry','Minato Shōji Coin Laundry'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000643',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:12,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2022-07-06',
+    finalizacion:'2022-09-21',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Diferencia de edad','Amor de juventud','Primer amor','Reencuentro','Coming of age','Relación profesor-alumno'],
+    personas:[],
+    ships:[
+        {personajes:['Minato Akira','Katsuki Shintaro']},
+        {personajes:['Hanabusa Asuka','Sakuma Shu']}
+    ],
+    sinopsis:'Minato Akira, un hombre de 30 años que ha heredado la antigua lavandería de su abuelo, lleva una vida tranquila hasta que conoce a Katsuki Shintaro, un atractivo estudiante de secundaria que empieza a frecuentar el local. Shintaro descubre que Minato es gay y poco a poco desarrolla sentimientos por él, mientras Minato intenta resistirse debido a la diferencia de edad y a las circunstancias de Shintaro. Paralelamente, Hanabusa Asuka se acerca a Sakuma Shu, dando lugar a una segunda historia de amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MINATO'S LAUNDROMAT 2 — DR000644 =================== */
+{
+    codigo:'DR000644',
+    titulo:"Minato's Laundromat 2",
+    tituloOriginal:'みなと商事コインランドリー2',
+    alias:['Minato Shouji Coin Laundry 2','Minato Shōji Coin Laundry 2'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000643',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:12,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2023-07-05',
+    finalizacion:'2023-09-20',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Diferencia de edad','Amor de juventud','Primer amor','Pareja estable','Amnesia','Convivencia','Segunda oportunidad'],
+    personas:[],
+    ships:[
+        {personajes:['Minato Akira','Katsuki Shintaro']},
+        {personajes:['Hanabusa Asuka','Sakuma Shu']}
+    ],
+    sinopsis:'Minato y Shintaro ya son pareja y disfrutan de su relación, aunque la diferencia de edad y sus distintas etapas de vida siguen planteándoles nuevos desafíos. Mientras ambos intentan construir un futuro juntos, un accidente provoca que Shintaro pierda parte de sus recuerdos y pone a prueba su relación. Paralelamente, Asuka y Shu continúan desarrollando su propia relación y afrontan juntos nuevas dificultades.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== I JUST WANT TO SEE YOU — DR000645 =================== */
+{
+    codigo:'DR000645',
+    titulo:'I Just Want to See You',
+    tituloOriginal:'君のことだけ見ていたい',
+    alias:['Kimi no Koto Dake Mite Itai'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Just Want to See You',
+        tituloOriginal:'君のことだけ見ていたい',
+        autor:'Janome',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:21,
+    estado:'Finalizado',
+    estreno:'2022-06-17',
+    finalizacion:'2022-06-17',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','Amigos de la infancia','Primer amor','Amor no correspondido','Juventud','Coming of age'],
+    personas:[],
+    ships:[
+        {personajes:['Asakura Sakura','Nagase Yuma']}
+    ],
+    sinopsis:'Asakura Sakura y Nagase Yuma son amigos de la infancia y han estado juntos desde la escuela primaria. Durante su último verano de instituto, Sakura decide confesar sus sentimientos a Yuma, que poco a poco empieza a darse cuenta de lo que siente por su amigo. Entre dudas, amistad y sentimientos que habían permanecido ocultos durante años, ambos se enfrentan a su primer amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== KEI × YAKU: DANGEROUS PARTNERS — DR000646 =================== */
+{
+    codigo:'DR000646',
+    titulo:'Kei × Yaku: Dangerous Partners',
+    tituloOriginal:'ケイ×ヤク −あぶない相棒−',
+    alias:['Kei × Yaku: Abunai Aibou'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Kei × Yaku: Dangerous Partners',
+        tituloOriginal:'ケイ×ヤク −あぶない相棒−',
+        autor:'Yoshie Kaoruhara',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:55,
+    estado:'Finalizado',
+    estreno:'2022-01-13',
+    finalizacion:'2022-03-17',
+    generos:['BL','Romance','Acción','Thriller','Crimen'],
+    tags:['BL','Policía','Yakuza','Falsa relación','Pareja de conveniencia','Convivencia','Misterio','Investigación','Suspense'],
+    personas:[],
+    ships:[
+        {personajes:['Kunishita Ichiro','Hanabusa Shiro']}
+    ],
+    sinopsis:'Kunishita Ichiro, investigador de la Policía Metropolitana, recibe la misión de vigilar a Hanabusa Shiro, el joven líder de una organización yakuza. Ambos terminan formando una alianza para investigar un caso sin resolver relacionado con una desaparición ocurrida tres años atrás y, para ocultar su verdadera relación, fingen ser pareja. Mientras avanzan en la investigación, su vínculo se vuelve cada vez más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== WE'RE BOTH GROOMS — DR000647 =================== */
+{
+    codigo:'DR000647',
+    titulo:"We're Both Grooms",
+    tituloOriginal:'僕もアイツも新郎です。',
+    alias:['Boku mo Aitsu mo Shinro desu'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:1,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2022-03-13',
+    finalizacion:'2022-03-13',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Boda','Pareja estable','Familia','Aceptación','Coming out'],
+    personas:[],
+    ships:[
+        {personajes:['Seto Ryosuke','Aikawa Mizuki']}
+    ],
+    sinopsis:'Seto Ryosuke, maestro de primaria, y Aikawa Mizuki, agricultor de limones, están a punto de celebrar su boda en un hermoso lugar frente al mar de Setouchi. El problema es que Ryosuke nunca ha contado a su familia ni a sus conocidos que su futuro esposo es un hombre. Cuando la verdad sale a la luz justo antes de la ceremonia, las dos familias se enfrentan a una serie de situaciones inesperadas que ponen a prueba la celebración.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MR. UNLUCKY HAS NO CHOICE BUT TO KISS! — DR000648 =================== */
+{
+    codigo:'DR000648',
+    titulo:"Mr. Unlucky Has No Choice But to Kiss!",
+    tituloOriginal:'不幸くんはキスするしかない！',
+    alias:['Fukou-kun wa Kiss Suru Shikanai!'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Mr. Unlucky Has No Choice But to Kiss!",
+        tituloOriginal:'不幸くんはキスするしかない！',
+        autor:'Gamoko Tsuyu',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2022-04-22',
+    finalizacion:'2022-06-10',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Comedia romántica','Mala suerte','Buena suerte','Universidad','Convivencia','Primer amor'],
+    personas:[],
+    ships:[
+        {personajes:['Fukuhara Kota','Shinomiya Naoya']}
+    ],
+    sinopsis:'Fukuhara Kota ha sufrido una cadena interminable de desgracias desde pequeño. Para intentar cambiar su suerte, empieza a fingir que todo le va bien, hasta que conoce a Shinomiya Naoya, un estudiante extremadamente afortunado. Cuando descubre que la buena fortuna de Naoya parece compensar su propia mala suerte, ambos comienzan una relación de conveniencia que poco a poco se convierte en algo más.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== FUDANSHI BARTENDER — DR000649 =================== */
+{
+    codigo:'DR000649',
+    titulo:'Fudanshi Bartender',
+    tituloOriginal:'腐男子バーテンダーの嗜み',
+    alias:['Fudanshi Bartender no Tashinami'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Fudanshi Bartender',
+        tituloOriginal:'腐男子バーテンダーの嗜み',
+        autor:'Naruko',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:2,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2022-05-31',
+    finalizacion:'2022-05-31',
+    generos:['BL','Comedia','Slice of Life'],
+    tags:['BL','Fudanshi','Otaku','Bar','Comedia','Imaginación','Cultura BL'],
+    personas:[],
+    ships:[],
+    sinopsis:'Hibiki Soichiro trabaja como bartender en un bar de Shonan y oculta un secreto: es un fudanshi apasionado por el BL. Mientras atiende a sus clientes, observa sus interacciones e imagina posibles parejas entre ellos, convirtiendo la vida cotidiana del bar en una comedia llena de fantasías BL.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== OLD FASHION CUPCAKE — DR000650 =================== */
+{
+    codigo:'DR000650',
+    titulo:'Old Fashion Cupcake',
+    tituloOriginal:'オールドファッションカップケーキ',
+    alias:[],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Old Fashion Cupcake',
+        tituloOriginal:'オールドファッションカップケーキ',
+        autor:'Sagan Sagan',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2022-06-13',
+    finalizacion:'2022-07-04',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['BL','Romance de oficina','Jefe y subordinado','Diferencia de edad','Primer amor','Amor no correspondido','Slow burn','Coming of age'],
+    personas:[],
+    ships:[
+        {personajes:['Nozue Togawa','Togawa Nozue']}
+    ],
+    sinopsis:'Nozue, un empleado de cuarenta años atrapado en una rutina que siente cada vez más vacía, acepta salir con su subordinado Togawa para probar nuevas experiencias. Entre cafés, dulces y pequeñas aventuras, Togawa empieza a revelar que sus sentimientos hacia su jefe son mucho más profundos que una simple admiración profesional.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SENPAI, THIS CAN'T BE LOVE! — DR000651 =================== */
+{
+    codigo:'DR000651',
+    titulo:"Senpai, This Can't Be Love!",
+    tituloOriginal:'先輩、断じて恋では！',
+    alias:['Senpai, Danjite Koi de wa!'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Senpai, This Can't Be Love!",
+        tituloOriginal:'先輩、断じて恋では！',
+        autor:'Shinta Harekawa',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2022-06-17',
+    finalizacion:'2022-08-12',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Romance de oficina','Senpai y kouhai','Diseño','Trabajo','Primer amor','Slow burn'],
+    personas:[],
+    ships:[
+        {personajes:['Yanase Atsushi','Kaneda Yuki']}
+    ],
+    sinopsis:'Yanase Atsushi, un diseñador gráfico experimentado, recibe como nuevo compañero a Kaneda Yuki, un diseñador novato al que ya conocía de su etapa como estudiante. Yanase intenta ayudarlo y acercarse profesionalmente, pero la actitud distante de Kaneda hace que sus sentimientos se vuelvan cada vez más difíciles de ignorar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKARA-KUN & AMAGI-KUN — DR000652 =================== */
+{
+    codigo:'DR000652',
+    titulo:'Takara-kun & Amagi-kun',
+    tituloOriginal:'高良くんと天城くん',
+    alias:['Takara-kun to Amagi-kun'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Takara-kun & Amagi-kun',
+        tituloOriginal:'高良くんと天城くん',
+        autor:'Hanage no Mai',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2022-08-19',
+    finalizacion:'2022-10-14',
+    generos:['BL','Romance','Comedia','Escolar'],
+    tags:['BL','Instituto','Novios secretos','Primer amor','Comedia romántica','Coming of age','Diferencias de personalidad'],
+    personas:[],
+    ships:[
+        {personajes:['Takara Shun','Amagi Taichi']}
+    ],
+    sinopsis:'Takara Shun es uno de los estudiantes más populares de su clase, mientras que Amagi Taichi es un chico alegre y querido aunque no pertenece al grupo más popular. Aunque parecen vivir en mundos diferentes, ambos se sienten atraídos y comienzan a salir en secreto. Las inseguridades de Amagi y la dificultad de Takara para expresar sus sentimientos ponen a prueba su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== KABE-KOJI-NEKOYASHIKI-KUN — DR000653 =================== */
+{
+    codigo:'DR000653',
+    titulo:'Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized',
+    tituloOriginal:'壁サー同人作家の猫屋敷くんは承認欲求をこじらせている',
+    alias:['Kabe-Koji','Kabe Koji'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized',
+        tituloOriginal:'壁サー同人作家の猫屋敷くんは承認欲求をこじらせている',
+        autor:'Kazuki Minamoto',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2022-10-03',
+    finalizacion:'2022-11-21',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Amigos de la infancia','Reencuentro','Ídolo','Mangaka','Doujinshi','Sueños','Amor de juventud'],
+    personas:[],
+    ships:[
+        {personajes:['Nekoyashiki Mamoru','Kazama Issei']}
+    ],
+    sinopsis:'Nekoyashiki Mamoru es un estudiante y creador de manga BL doujinshi que busca desesperadamente reconocimiento por su trabajo. Su vida cambia cuando se reencuentra con su amigo de la infancia Kazama Issei, ahora un popular idol del grupo SHINY SMILE. Los dos han tomado caminos completamente diferentes, pero su reencuentro despierta sentimientos y recuerdos que creían olvidados.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ETERNAL YESTERDAY — DR000654 =================== */
+{
+    codigo:'DR000654',
+    titulo:'Eternal Yesterday',
+    tituloOriginal:'永遠の昨日',
+    alias:['Eien no Kinō','Eien no Kinou'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Eternal Yesterday',
+        tituloOriginal:'永遠の昨日',
+        autor:'Yuri Enokida',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2022-10-21',
+    finalizacion:'2022-12-09',
+    generos:['BL','Romance','Drama','Fantasía','Sobrenatural'],
+    tags:['BL','Instituto','Primer amor','Amigos de clase','Sobrenatural','Duelo','Muerte','Amor eterno','Tragedia'],
+    personas:[],
+    ships:[
+        {personajes:['Yamada Koichi','Oumi Mitsuru']}
+    ],
+    sinopsis:'Yamada Koichi es un estudiante alegre y popular, mientras que Oumi Mitsuru es reservado y tiene dificultades para relacionarse con los demás. Los dos se sienten atraídos pese a sus diferencias, pero una mañana Koichi es atropellado delante de Mitsuru. Aunque parece seguir con vida, poco a poco las personas a su alrededor comienzan a olvidar que existe.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+	    {
+	        titulo:'Eternal Yesterday: Complete Edition',
+	        tipo:'Versión completa',
+	        anio:2023,
+	        episodios:8
+	    }
+	],
+    activo:true
+},
+
+/* =============== CANDY COLOR PARADOX — DR000655 =================== */
+{
+    codigo:'DR000655',
+    titulo:'Candy Color Paradox',
+    tituloOriginal:'飴色パラドックス',
+    alias:['Ameiro Paradox'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Candy Color Paradox',
+        tituloOriginal:'飴色パラドックス',
+        autor:'Isaku Natsume',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2022-12-15',
+    finalizacion:'2023-02-10',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Romance de oficina','Rivales a amantes','Periodismo','Investigación','Pareja de trabajo','Slow burn','Kenka couple'],
+    personas:[],
+    ships:[
+        {personajes:['Onoe Satoshi','Kaburagi Motoharu']}
+    ],
+    sinopsis:'Onoe Satoshi, reportero de una revista semanal, es trasladado a la sección de cotilleos y obligado a trabajar junto al fotógrafo Kaburagi Motoharu, a quien considera su rival. Sus métodos son completamente opuestos, pero mientras investigan juntos diferentes casos empiezan a comprenderse y a sentirse atraídos el uno por el otro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MORE THAN WORDS — DR000656 =================== */
+{
+    codigo:'DR000656',
+    titulo:'More Than Words',
+    tituloOriginal:'モアザンワーズ',
+    alias:[],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'More Than Words',
+        tituloOriginal:'モアザンワーズ',
+        autor:'Etsuko',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:35,
+    estado:'Finalizado',
+    estreno:'2022-09-16',
+    finalizacion:'2022-09-16',
+    generos:['LGBTQ+','Romance','Drama','Coming of age'],
+    tags:['LGBTQ+','Juventud','Amistad','Amor','Familia','Presión social','Embarazo','Pareja del mismo sexo','Reencuentro','Relaciones complejas'],
+    personas:[],
+    ships:[
+        {personajes:['Seno Makio','Fukunaga Eiji']},
+        {personajes:['Seno Makio','Sugimoto Asato']}
+    ],
+    sinopsis:'Mieko y Makio son amigos de instituto que conocen a Eiji, un universitario con quien empiezan a compartir su vida cotidiana. Eiji y Makio se enamoran, pero la presión familiar y social altera profundamente su relación. Años después, Makio se reencuentra con Asato, un viejo conocido que poco a poco se convierte en una nueva persona importante en su vida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE 8.2 SECOND RULE — DR000657 =================== */
+{
+    codigo:'DR000657',
+    titulo:'The 8.2 Second Rule',
+    tituloOriginal:'8.2秒の法則',
+    alias:['8.2 Byo no Hosoku','Law of Seconds'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2022-06-10',
+    finalizacion:'2022-06-10',
+    generos:['BL','Romance','Comedia','Escolar'],
+    tags:['BL','Instituto','Primer amor','Pastelería','Cocina','Amor a primera vista','Amores episódicos','YouTube'],
+    personas:[],
+    ships:[
+        {personajes:['Amai Koichi','Aoyama']}
+    ],
+    sinopsis:'Amai Koichi es un estudiante de instituto apasionado por la repostería que cree en la llamada regla de los 8,2 segundos: si dos personas se miran durante ese tiempo, pueden enamorarse. Mientras conoce a diferentes chicos con problemas personales, Amai intenta ayudarlos mediante sus dulces y termina descubriendo sus propios sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== SHIMBASHI KOI STORY — DR000658 =================== */
+{
+    codigo:'DR000658',
+    titulo:'Shimbashi Koi Story',
+    tituloOriginal:'シンバシコイ物語',
+    alias:['Shimbashi Koi Story: Chapter 1','Shimbashi Koi Story - First Chapter'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000658',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:1,
+    episodios:4,
+    duracion:15,
+    estado:'Finalizado',
+    estreno:'2022-10-23',
+    finalizacion:'2022-11-02',
+    generos:['BL','Romance','Drama','LGBTQ+'],
+    tags:['BL','Romance','Drama','LGBTQ+','Gay','Bar gay','Amistad','Vida cotidiana'],
+    personas:[],
+    ships:[
+        {personajes:['Tatsuya','Jun-nosuke']}
+    ],
+    sinopsis:'Tatsuya conoce a Jun-nosuke en el bar gay TUGBOAT de Shimbashi y ambos comienzan a sentirse atraídos el uno por el otro. Mientras su relación avanza, sus amigos y las personas que forman parte de su entorno acompañan sus primeros pasos como pareja.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SHIMBASHI KOI STORY 2 — DR000659 =================== */
+{
+    codigo:'DR000659',
+    titulo:'Shimbashi Koi Story 2',
+    tituloOriginal:'シンバシコイ物語２',
+    alias:['Shimbashi Koi Story: Chapter 2','Shimbashi Koi Story 2'],
+    pais:['JP'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000658',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:2,
+    episodios:4,
+    duracion:17,
+    estado:'Finalizado',
+    estreno:'2022-11-13',
+    finalizacion:'2022-12-04',
+    generos:['BL','Romance','Drama','LGBTQ+'],
+    tags:['BL','Romance','Drama','LGBTQ+','Gay','Bar gay','Pareja','Amistad','Celos','Relaciones'],
+    personas:[],
+    ships:[
+        {personajes:['Tatsuya','Jun-nosuke']}
+    ],
+    sinopsis:'Dos años después de los acontecimientos de la primera temporada, Tatsuya y Jun-nosuke continúan su relación. La llegada de nuevos personajes y los cambios en sus vidas ponen a prueba la estabilidad de la pareja y hacen aflorar nuevos sentimientos y conflictos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SHIMBASHI KOI STORY – FINAL CHAPTER — DR000660 =================== */
+{
+    codigo:'DR000660',
+    titulo:'Shimbashi Koi Story – Final Chapter',
+    tituloOriginal:'シンバシコイ物語 最終章',
+    alias:['Shimbashi Koi Story 3','Shimbashi Koi Story: Final Chapter','Shimbashi Koi Story – Last Chapter'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000658',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:3,
+    episodios:4,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2023-10-08',
+    finalizacion:'2023-10-29',
+    generos:['BL','Romance','Drama','LGBTQ+'],
+    tags:['BL','Romance','Drama','LGBTQ+','Gay','Bar gay','Reencuentro','Separación','Segundas oportunidades','Amistad'],
+    personas:[],
+    ships:[
+        {personajes:['Tatsuya','Jun-nosuke']}
+    ],
+    sinopsis:'Tras una separación y varios meses sin contacto, Tatsuya y Jun-nosuke afrontan las consecuencias de sus decisiones mientras sus amigos intentan ayudarlos. Los sentimientos que todavía existen entre ambos vuelven a salir a la superficie y la historia llega a su capítulo final con un reencuentro y una nueva oportunidad para la pareja.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I BECAME THE MAIN ROLE OF A BL DRAMA — DR000661 =================== */
+{
+    codigo:'DR000661',
+    titulo:'I Became the Main Role of a BL Drama',
+    tituloOriginal:'BLドラマの主演になりました',
+    alias:['BL Drama no Shuen ni Narimashita','BLドラマの主演になりました クランクアップ編','BL Drama no Shuen ni Narimashita: Crank Up Hen'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000661',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Became the Main Role of a BL Drama',
+        tituloOriginal:'BLドラマの主演になりました',
+        autor:'Suzuri Machi',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:3,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-12-24',
+    finalizacion:'2024-01-01',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Romance','Comedia','Showbiz','Actores','Convivencia','Amor correspondido','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Akafuji Yuichiro','Aoyagi Hajime']}
+    ],
+    sinopsis:'Los actores Akafuji Yuichiro y Aoyagi Hajime son elegidos como protagonistas de la adaptación de un popular manga BL. Para preparar sus papeles y promocionar la producción, ambos comienzan a vivir juntos. Akafuji intenta ocultar que es un fan obsesionado con Aoyagi, mientras Aoyagi interpreta su actitud distante como rechazo. Poco a poco, los sentimientos que ambos mantienen ocultos se convierten en amor real.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I BECAME THE MAIN ROLE OF A BL DRAMA 2 — DR000662 =================== */
+{
+    codigo:'DR000662',
+    titulo:'I Became the Main Role of a BL Drama 2',
+    tituloOriginal:'続・BLドラマの主演になりました',
+    alias:['Zoku BL Drama no Shuen ni Narimashita','Zoku: BL Drama no Shuen ni Narimashita','I Became the Main Role of a BL Drama: Season 2'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000661',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Became the Main Role of a BL Drama',
+        tituloOriginal:'BLドラマの主演になりました',
+        autor:'Suzuri Machi',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2025-06-13',
+    finalizacion:'2025-07-25',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Romance','Comedia','Showbiz','Actores','Convivencia','Pareja','Amor correspondido','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Akafuji Yuichiro','Aoyagi Hajime']}
+    ],
+    sinopsis:'Después de superar los obstáculos de su convivencia y comenzar oficialmente su relación, Akafuji Yuichiro y Aoyagi Hajime afrontan una nueva etapa de su amor. Mientras intentan avanzar como pareja, nuevas situaciones profesionales y personales ponen a prueba su relación, dando lugar a nuevos malentendidos y momentos de romance.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== THE END OF THE WORLD WITH YOU — DR000663 =================== */
+{
+    codigo:'DR000663',
+    titulo:'The End of the World With You',
+    tituloOriginal:'僕らのミクロな終末',
+    alias:['Bokura no Mikuro na Shūmatsu','Bokura no Micro na Shuumatsu','The End of the World, With You'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'The End of the World With You',
+        tituloOriginal:'僕らのミクロな終末',
+        autor:'Maki Marukido',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-01-30',
+    finalizacion:'2023-03-20',
+    generos:['BL','Romance','Drama','Ciencia ficción'],
+    tags:['BL','Romance','Drama','Ciencia ficción','Apocalipsis','Exparejas','Reencuentro','Supervivencia','Mundo postapocalíptico','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Nishina Masumi','Kusakabe Ritsu']}
+    ],
+    sinopsis:'Con un meteorito destinado a destruir la Tierra en pocos días, Nishina Masumi intenta pasar tranquilamente los últimos días de su vida. Sin embargo, se reencuentra con Kusakabe Ritsu, su antiguo amante de la universidad, con quien terminó de forma dolorosa años atrás. Obligados a afrontar juntos el fin del mundo, ambos deben enfrentarse a su pasado y a los sentimientos que todavía permanecen entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== JACK O' FROST — DR000664 =================== */
+{
+    codigo:'DR000664',
+    titulo:"Jack o' Frost",
+    tituloOriginal:'ジャックフロスト',
+    alias:['Jack Frost'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-02-17',
+    finalizacion:'2023-03-31',
+    generos:['BL','Romance','Drama','Misterio'],
+    tags:['BL','Romance','Drama','Amnesia','Pérdida de memoria','Exparejas','Convivencia','Reencuentro','Recuperación de recuerdos'],
+    personas:[],
+    ships:[
+        {personajes:['Okusawa Ritsu','Ikegami Fumiya']}
+    ],
+    sinopsis:'Okusawa Ritsu sufre un accidente y pierde los recuerdos relacionados con su relación con Ikegami Fumiya. Fumiya, que todavía vive con él, decide ayudarlo a reconstruir su pasado juntos. Mientras Ritsu intenta recuperar sus recuerdos, ambos vuelven a acercarse y descubren que sus sentimientos siguen presentes.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== BLUE SKY COMPLEX — DR000665 =================== */
+{
+    codigo:'DR000665',
+    titulo:'Blue Sky Complex',
+    tituloOriginal:'ブルースカイコンプレックス',
+    alias:['Blue Sky Complex'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Blue Sky Complex',
+        tituloOriginal:'ブルースカイコンプレックス',
+        autor:'Kei Ichikawa',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2023-02-27',
+    finalizacion:'2023-03-20',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','Romance','Drama','Escolar','Instituto','Biblioteca','Compañeros de clase','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Narasaki Genchika','Terashima Natsuki']}
+    ],
+    sinopsis:'Narasaki Genchika busca tranquilidad para poder estudiar y termina encargado de supervisar a Terashima Natsuki, un estudiante conocido por su mal comportamiento. Mientras ambos pasan tiempo juntos en la biblioteca, Narasaki comienza a interesarse por el misterioso Terashima y su relación evoluciona poco a poco.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== OUR DINING TABLE — DR000666 =================== */
+{
+    codigo:'DR000666',
+    titulo:'Our Dining Table',
+    tituloOriginal:'僕らの食卓',
+    alias:['Bokura no Shokutaku'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Our Dining Table',
+        tituloOriginal:'僕らの食卓',
+        autor:'Mita Ori',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2023-04-06',
+    finalizacion:'2023-06-08',
+    generos:['BL','Romance','Drama','Vida cotidiana','Familia'],
+    tags:['BL','Romance','Drama','Vida cotidiana','Cocina','Comida','Familia','Encontrar una familia','Sanación','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Hozumi Yutaka','Ueda Minoru']}
+    ],
+    sinopsis:'Hozumi Yutaka es un oficinista solitario que tiene dificultades para comer acompañado, a pesar de su talento para cocinar. Su vida cambia cuando conoce a Ueda Minoru y a su hermano pequeño Tane, quienes le piden que les enseñe a preparar sus comidas. A través de la cocina y de las comidas compartidas, Yutaka comienza a abrirse a los demás y desarrolla sentimientos por Minoru.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Our Dining Table: Spin-Off',
+            tituloOriginal:'僕らの食卓 スピンオフ',
+            alias:['Our Dining Table Spin-Off'],
+            tipo:'Spin-off',
+            anio:2023,
+            episodios:1,
+            estreno:'2023-06-15'
+        }
+    ],
+    activo:true
+},
+
+/* =============== NAKED DINING — DR000667 =================== */
+{
+    codigo:'DR000667',
+    titulo:'Naked Dining',
+    tituloOriginal:'全ラ飯',
+    alias:['Zenra Meshi','Naked Dining ~Love, Life and Liberation~'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2023-04-14',
+    finalizacion:'2023-06-30',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Romance','Comedia','Drama','Cocina','Comida','Estrés laboral','Vida cotidiana','Original'],
+    personas:[],
+    ships:[
+        {personajes:['Ichijou Souta','Miki Mahiro']}
+    ],
+    sinopsis:'Ichijou Souta es un trabajador de oficina aparentemente perfecto que tiene una peculiar forma de liberar el estrés: comer completamente desnudo. Cuando su secreto es descubierto accidentalmente por Miki Mahiro, un joven que trabaja en una tienda de frutas y verduras, ambos comienzan una relación que hará que Souta reconsidere sus prioridades y lo que realmente quiere de su vida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TOKYO IN APRIL IS... — DR000668 =================== */
+{
+    codigo:'DR000668',
+    titulo:'Tokyo in April Is...',
+    tituloOriginal:'４月の東京は…',
+    alias:['Shigatsu no Tokyo wa...','4gatsu no Tokyo wa...'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Tokyo in April Is...',
+        tituloOriginal:'４月の東京は…',
+        autor:'Haru',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-06-16',
+    finalizacion:'2023-08-04',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Reencuentro','Amigos de infancia','Primer amor','Oficina','Secretos','Trauma','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Takizawa Kazuma','Ishihara Ren']}
+    ],
+    sinopsis:'Después de pasar diez años en Estados Unidos, Takizawa Kazuma regresa a Tokio y comienza a trabajar en una prestigiosa agencia de publicidad. Allí descubre que su antiguo mejor amigo y primer amor, Ishihara Ren, trabaja en la misma empresa. El reencuentro despierta sentimientos del pasado, pero Ren mantiene una actitud fría y distante mientras ambos intentan enfrentarse a los secretos que los separaron.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY PERSONAL WEATHERMAN — DR000669 =================== */
+{
+    codigo:'DR000669',
+    titulo:'My Personal Weatherman',
+    tituloOriginal:'体感予報',
+    alias:['Taikan Yohou'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'My Personal Weatherman',
+        tituloOriginal:'体感予報',
+        autor:'Nikke Taino',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-08-10',
+    finalizacion:'2023-09-28',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Meteorólogo','Artista','Convivencia','Contrato de convivencia','Vida cotidiana','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Segasaki Mizuki','Tanada Yoh']}
+    ],
+    sinopsis:'Segasaki Mizuki es un popular meteorólogo que mantiene una imagen perfecta en televisión, pero en privado es mucho más exigente y dominante. Tanada Yoh, un artista de manga erótico con dificultades económicas, vive con él bajo un acuerdo peculiar: Segasaki proporciona comida, ropa y vivienda a cambio de que Yoh siga sus órdenes. Bajo esta convivencia aparentemente desigual comienzan a aflorar sentimientos que ambos han mantenido ocultos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I CANNOT REACH YOU — DR000670 =================== */
+{
+    codigo:'DR000670',
+    titulo:'I Cannot Reach You',
+    tituloOriginal:'君には届かない。',
+    alias:['Kimi ni wa Todokanai','No puedo llegar a ti'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Cannot Reach You',
+        tituloOriginal:'君には届かない。',
+        autor:'Mika',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2023-09-19',
+    finalizacion:'2023-11-07',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','Romance','Drama','Escolar','Amigos de infancia','Primer amor','Coming of age','Amistad','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Ashiya Yamato','Ohara Kakeru']}
+    ],
+    sinopsis:'Yamato y Kakeru son amigos de la infancia completamente diferentes. Yamato es atractivo y destaca académicamente, mientras Kakeru es un estudiante corriente que nunca se ha considerado especial. A medida que sus sentimientos cambian, Kakeru comienza a darse cuenta de que la admiración que siente por su mejor amigo puede ser algo mucho más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== IF IT'S WITH YOU — DR000671 =================== */
+{
+    codigo:'DR000671',
+    titulo:"If It's With You",
+    tituloOriginal:'君となら恋をしてみても',
+    alias:['Kimi to Nara Koi o Shite Mite mo','If It's You, I Might Try Falling in Love'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"If It's With You, I Might Try Falling in Love",
+        tituloOriginal:'君となら恋をしてみても',
+        autor:'Maru Kubota',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-10-05',
+    finalizacion:'2023-11-02',
+    generos:['BL','Romance','Drama','Coming of age'],
+    tags:['BL','Romance','Drama','Coming of age','Instituto','Amigos','Familia','Sanación','Primer amor','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Yamasuga Ryuji','Kaido Amane']}
+    ],
+    sinopsis:'Amane llega a Kamakura después de trasladarse a vivir con su padre y conoce a Ryuji, un joven que trabaja en un restaurante familiar. La relación que comienza como una amistad va transformándose poco a poco en un romance mientras ambos descubren lo que significa confiar en otra persona y enamorarse.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ONE ROOM ANGEL — DR000672 =================== */
+{
+    codigo:'DR000672',
+    titulo:'One Room Angel',
+    tituloOriginal:'ワンルームエンジェル',
+    alias:['One Room Angel'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'One Room Angel',
+        tituloOriginal:'ワンルームエンジェル',
+        autor:'Harada',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-10-19',
+    finalizacion:'2023-11-24',
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:['BL','Romance','Drama','Fantasía','Ángel','Sobrenatural','Sanación','Soledad','Convivencia','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Kouki','Tenshi']}
+    ],
+    sinopsis:'Kouki es un hombre solitario que trabaja en un supermercado y lleva una vida sin rumbo. Después de resultar herido en un incidente, ve a un misterioso ángel que aparece ante él. Tras recuperarse, descubre que el ángel se ha instalado en su casa. La convivencia entre ambos transforma poco a poco la vida de Kouki y crea un vínculo profundo entre los dos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MR. SAHARA & TOKI-KUN — DR000673 =================== */
+{
+    codigo:'DR000673',
+    titulo:'Mr. Sahara & Toki-kun',
+    tituloOriginal:'佐原先生と土岐くん',
+    alias:['Sahara-sensei to Toki-kun','Sahara-sensei and Toki-kun'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Mr. Sahara & Toki-kun',
+        tituloOriginal:'佐原先生と土岐くん',
+        autor:'Tori Ubu',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-12-01',
+    finalizacion:'2024-02-02',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','Romance','Drama','Escolar','Profesor','Alumno','Instituto','Primer amor','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Toki','Sahara']}
+    ],
+    sinopsis:'Toki es un estudiante problemático de instituto que desarrolla sentimientos por Sahara, uno de sus profesores. Mientras intenta acercarse a él, Sahara procura mantener la distancia debido a su posición como profesor y a la diferencia de edad. La historia explora los sentimientos de Toki y el conflicto de Sahara ante una relación que no puede aceptar fácilmente.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ME, MY HUSBAND & MY HUSBAND'S BOYFRIEND — DR000674 =================== */
+{
+    codigo:'DR000674',
+    titulo:"Me, My Husband & My Husband's Boyfriend",
+    tituloOriginal:'私と夫と夫の彼氏',
+    alias:['Watashi to Otto to Otto no Kareshi'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Me, My Husband & My Husband's Boyfriend",
+        tituloOriginal:'私と夫と夫の彼氏',
+        autor:'Ayano Ayano',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2023-03-28',
+    finalizacion:'2023-04-11',
+    generos:['LGBTQ+','Romance','Drama','BL'],
+    tags:['LGBTQ+','Romance','Drama','BL','Matrimonio','Infidelidad','Triángulo amoroso','Poliamor','Relaciones familiares','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Nakamichi Yuki','Ina Shuhei']},
+        {personajes:['Nakamichi Misaki','Nakamichi Yuki']}
+    ],
+    sinopsis:'Nakamichi Misaki lleva cinco años casada con Yuki, pero su matrimonio atraviesa una profunda crisis de intimidad. Cuando descubre que su marido mantiene una relación con Shuhei, un antiguo alumno suyo, comienza un proceso doloroso en el que los tres deben replantearse qué significa amar, ser pareja y formar una familia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== POLYETHYLENE TEREPHTHALATE — DR000675 =================== */
+{
+    codigo:'DR000675',
+    titulo:'Polyethylene Terephthalate',
+    tituloOriginal:'ポリエチレンテレフタレート',
+    alias:[],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:3,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-02-18',
+    finalizacion:'2023-03-18',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Drama','Convivencia','Pareja','Vida cotidiana','Ruptura','Desamor','Realismo','Producción independiente'],
+    personas:[],
+    ships:[
+        {personajes:['Ryo','Kaoru']}
+    ],
+    sinopsis:'Ryo y Kaoru son una pareja que comenzó su relación después de graduarse de la universidad y que lleva varios años viviendo junta. Mientras se acerca su segundo aniversario, la rutina, las diferencias personales y las dificultades de la convivencia hacen que ambos se cuestionen si todavía pueden continuar juntos. La historia retrata el desgaste de una relación desde el amor hasta la posibilidad de una separación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== PERFECT PROPOSE — DR000676 =================== */
+{
+    codigo:'DR000676',
+    titulo:'Perfect Propose',
+    tituloOriginal:'パーフェクトプロポーズ',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Perfect Propose',
+        tituloOriginal:'パーフェクトプロポーズ',
+        autor:'Mayo Tsurukame',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2024-02-02',
+    finalizacion:'2024-03-01',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Convivencia','Amigos de la infancia','Trabajo','Vida cotidiana'],
+    personas:[],
+    ships:[
+        {personajes:['Hirokuni Watari','Kai Fukaya']}
+    ],
+    sinopsis:'Hirokuni Watari vive agotado por el exceso de trabajo cuando reaparece Kai Fukaya, su amigo de la infancia, después de doce años. Kai necesita un lugar donde vivir y termina instalándose con Hirokuni, cambiando poco a poco la vida de ambos y haciendo que antiguos sentimientos vuelvan a surgir.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Perfect Propose: Dream Edition',
+            tituloOriginal:'パーフェクトプロポーズ Dream Edition',
+            alias:[],
+            tipo:'Película',
+            anio:2024,
+            episodios:null,
+            estreno:null
+        }
+    ],
+    activo:true
+},
+
+/* =============== ALTHOUGH I LOVE YOU, AND YOU? — DR000677 =================== */
+{
+    codigo:'DR000677',
+    titulo:'Although I Love You, and You?',
+    tituloOriginal:'好きやねんけどどうやろか',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Although I Love You, and You?',
+        tituloOriginal:'好きやねんけどどうやろか',
+        autor:'Ryoko Chiba',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2024-01-11',
+    finalizacion:'2024-03-15',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Love triangle','Restaurante','Vida adulta','Long distance'],
+    personas:[],
+    ships:[
+        {personajes:['Matsumoto Sakae','Soga Hisashi']}
+    ],
+    sinopsis:'Sakae, joven propietario de un pequeño restaurante de Osaka, se enamora a primera vista de Hisashi Soga, un empleado de oficina divorciado que acaba de trasladarse desde Tokio. Mientras ambos intentan entender sus sentimientos, la relación se complica por el regreso del antiguo amor de Soga.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== DON'T CARE FOR AN OLD MAN'S UNDERWEAR — DR000678 =================== */
+{
+    codigo:'DR000678',
+    titulo:"Don't Care for an Old Man's Underwear",
+    tituloOriginal:'おっさんのパンツがなんだっていいじゃないか！',
+    alias:["Don't Care for an Old Man's Underwear!"],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Don't Care for an Old Man's Underwear",
+        tituloOriginal:'おっさんのパンツがなんだっていいじゃないか！',
+        autor:'Nerima Zim',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:44,
+    estado:'Finalizado',
+    estreno:'2024-01-06',
+    finalizacion:'2024-03-16',
+    generos:['LGBTQ+','Drama','Comedia','Familia'],
+    tags:['LGBTQ+','Homofobia','Familia','Aceptación','Generaciones','Identidad','Cambio personal'],
+    personas:[],
+    ships:[
+        {personajes:['Daichi Igarashi','Madoka']}
+    ],
+    sinopsis:'Makoto Okita, un hombre de mediana edad aferrado a ideas tradicionales, comienza a cuestionar sus prejuicios cuando entra en contacto con personas de una generación más joven y, especialmente, con Daichi, un joven gay. La historia explora la aceptación, la familia y el cambio de mentalidad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY STRAWBERRY FILM — DR000679 =================== */
+{
+    codigo:'DR000679',
+    titulo:'My Strawberry Film',
+    tituloOriginal:'マイストロベリーフィルム',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2024-02-15',
+    finalizacion:'2024-04-04',
+    generos:['BL','Romance','Drama','Misterio','Escolar'],
+    tags:['BL','Escolar','Juventud','Amistad','Descubrimiento','Película misteriosa','Amor no correspondido'],
+    personas:[],
+    ships:[],
+    sinopsis:'Ryo, Hikaru y Chika son tres estudiantes de segundo curso de instituto que llevan una vida aparentemente tranquila hasta que encuentran una película de 8 mm que muestra a una misteriosa chica. La aparición de Minami, que se parece a la joven de la película, despierta sentimientos ocultos y altera el equilibrio entre los tres amigos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE IS BETTER THE SECOND TIME AROUND T1 — DR000680 =================== */
+{
+    codigo:'DR000680',
+    titulo:'Love Is Better the Second Time Around',
+    tituloOriginal:'恋をするなら二度目が上等',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000680',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Love Is Better the Second Time Around',
+        tituloOriginal:'恋をするなら二度目が上等',
+        autor:'Keiko Kinoshita',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-03-05',
+    finalizacion:'2024-04-09',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Primer amor','Reencuentro','Adultos','Trabajo','Profesor universitario'],
+    personas:[],
+    ships:[
+        {personajes:['Miyata Akihiro','Iwanaga Takashi']}
+    ],
+    sinopsis:'Akihiro Miyata, editor de una revista de negocios, se reencuentra inesperadamente con Takashi Iwanaga, un profesor universitario que resulta ser su primer amor. Aunque Miyata intenta mantener el pasado enterrado, Iwanaga vuelve a despertar sentimientos que creía superados.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE IS BETTER THE SECOND TIME AROUND T2 — DR000681 =================== */
+{
+    codigo:'DR000681',
+    titulo:'Love Is Better the Second Time Around',
+    tituloOriginal:'恋をするなら二度目が上等',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000680',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Love Is Better the Second Time Around',
+        tituloOriginal:'恋をするなら二度目が上等',
+        autor:'Keiko Kinoshita',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:25,
+    estado:'En emisión',
+    estreno:'2026-09-02',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Pareja establecida','Adultos','Trabajo','Continuación'],
+    personas:[],
+    ships:[
+        {personajes:['Miyata Akihiro','Iwanaga Takashi']}
+    ],
+    sinopsis:'Miyata e Iwanaga continúan su relación mientras afrontan nuevas dificultades en su vida adulta. La segunda temporada retoma la historia de la pareja después de los acontecimientos de la primera temporada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LIVING WITH HIM — DR000682 =================== */
+{
+    codigo:'DR000682',
+    titulo:'Living With Him',
+    tituloOriginal:'彼のいる生活',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Living With Him',
+        tituloOriginal:'彼のいる生活',
+        autor:'Miyata Toworu',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2024-04-12',
+    finalizacion:'2024-05-31',
+    generos:['BL','Romance','Drama','Juvenil'],
+    tags:['BL','Amigos de la infancia','Convivencia','Universidad','Vida cotidiana','Slow burn'],
+    personas:[],
+    ships:[
+        {personajes:['Natsukawa Ryota','Tanaka Kazuhito']}
+    ],
+    sinopsis:'Ryota Natsukawa comienza la universidad dispuesto a disfrutar de su independencia, pero descubre que su compañero de piso será Kazuhito Tanaka, su amigo de la infancia. Mientras intentan descubrir por qué Kazuhito nunca ha tenido novia, sus sentimientos comienzan a cambiar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== AT 25:00 IN AKASAKA T1 — DR000683 =================== */
+{
+    codigo:'DR000683',
+    titulo:'At 25:00 in Akasaka',
+    tituloOriginal:'25時、赤坂で',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000683',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'At 25:00 in Akasaka',
+        tituloOriginal:'25時、赤坂で',
+        autor:'Hiroko Natsuno',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:10,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-04-19',
+    finalizacion:'2024-06-21',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Actores','Rodaje','Romance laboral','Amigos de la universidad','Fama'],
+    personas:[],
+    ships:[
+        {personajes:['Shirasaki Yuki','Hayama Asami']}
+    ],
+    sinopsis:'El actor en ascenso Yuki Shirasaki consigue un papel protagonista en un drama BL y descubre que su compañero de reparto será Asami Hayama, un antiguo compañero de universidad convertido en una estrella. Lo que comienza como una relación profesional acaba haciendo que la frontera entre actuación y sentimientos reales se vuelva cada vez más difusa.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== AT 25:00 IN AKASAKA T2 — DR000684 =================== */
+{
+    codigo:'DR000684',
+    titulo:'At 25:00 in Akasaka',
+    tituloOriginal:'25時、赤坂で',
+    alias:[],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000683',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'At 25:00 in Akasaka',
+        tituloOriginal:'25時、赤坂で',
+        autor:'Hiroko Natsuno',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-10-02',
+    finalizacion:'2025-12-04',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Pareja establecida','Actores','Fama','Trabajo','Relación a distancia'],
+    personas:[],
+    ships:[
+        {personajes:['Shirasaki Yuki','Hayama Asami']}
+    ],
+    sinopsis:'Yuki y Hayama continúan su relación mientras afrontan las dificultades derivadas de sus carreras como actores y de la exposición pública de su romance. Su relación se pone a prueba mientras intentan encontrar un equilibrio entre su vida profesional y personal.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Hiru no Yume: Another Side',
+            tituloOriginal:'昼のゆめ another side',
+            alias:['At 25:00 in Akasaka Season 2 Spin-off: Hiru no Yume — Another Side'],
+            tipo:'Spin-off',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-12-11'
+        }
+    ],
+    activo:true
+},
+
+/* =============== COSMETIC PLAYLOVER T1 — DR000685 =================== */
+{
+    codigo:'DR000685',
+    titulo:'Cosmetic Playlover',
+    tituloOriginal:'コスメティック・プレイラバー',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000685',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Cosmetic Playlover',
+        tituloOriginal:'コスメティック・プレイラバー',
+        autor:'Sachi Narashima',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-08-06',
+    finalizacion:'2024-08-27',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Trabajo','Cosmética','Compañeros de trabajo','Romance laboral'],
+    personas:[],
+    ships:[
+        {personajes:['Natsume Sōichi','Sahashi Tōma']}
+    ],
+    sinopsis:'Natsume, consultor de belleza, mantiene una complicada relación laboral con su compañero Tōma. Lo que comienza como una rivalidad profesional se transforma poco a poco en una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== COSMETIC PLAYLOVER T2 — DR000686 =================== */
+{
+    codigo:'DR000686',
+    titulo:'Cosmetic Playlover',
+    tituloOriginal:'コスメティック・プレイラバー',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000685',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Cosmetic Playlover',
+        tituloOriginal:'コスメティック・プレイラバー',
+        autor:'Sachi Narashima',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-12-26',
+    finalizacion:'2026-03-20',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Pareja establecida','Trabajo','Cosmética','Relación a distancia','Vida profesional'],
+    personas:[],
+    ships:[
+        {personajes:['Natsume Sōichi','Sahashi Tōma']}
+    ],
+    sinopsis:'Natsume y Tōma continúan su relación mientras afrontan nuevos retos profesionales y personales, incluyendo cambios en sus carreras y nuevas responsabilidades dentro del mundo de la cosmética.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== CHASTITY HIGH — DR000687 =================== */
+{
+    codigo:'DR000687',
+    titulo:'Chastity High',
+    tituloOriginal:'恋愛バトルロワイヤル',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2024-08-29',
+    finalizacion:'2024-08-29',
+    generos:['LGBTQ+','Romance','Drama','Escolar'],
+    tags:['LGBTQ+','Escolar','Romance','Homofobia','Lesbianas','Pareja gay','No romance'],
+    personas:[],
+    ships:[
+        {personajes:['Ruka Ichinose','Yuma Nashinoki']}
+    ],
+    sinopsis:'En una prestigiosa escuela japonesa se impone una estricta prohibición de las relaciones románticas. Mientras una alumna comienza a ayudar en secreto a sus compañeros, las relaciones prohibidas y los secretos de los estudiantes salen a la luz, incluida la relación entre Ruka y Yuma.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKARA'S TREASURE — DR000688 =================== */
+{
+    codigo:'DR000688',
+    titulo:"Takara's Treasure",
+    tituloOriginal:'タカラのびいどろ',
+    alias:['Takara no Bīdoro'],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Takara's Treasure",
+        tituloOriginal:'タカラのびいどろ',
+        autor:'Minta Suzumaru',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-07-01',
+    finalizacion:'2024-09-09',
+    generos:['BL','Romance','Drama','Juvenil'],
+    tags:['BL','Universidad','Amor no correspondido','Persecución amorosa','Diferencia de edad','Fukuoka'],
+    personas:[],
+    ships:[
+        {personajes:['Takara Shiga','Taishin Nakano']}
+    ],
+    sinopsis:'Taishin se muda a Tokio para comenzar la universidad y reencontrarse con Takara, un joven que lo consoló en un momento difícil. Cuando Takara lo recibe con frialdad, Taishin decide acercarse a él hasta que sus sentimientos comienzan a cambiar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:"Takara's Treasure: Taishin Turns 20",
+            tituloOriginal:'大進、ハタチになる',
+            alias:[],
+            tipo:'Spin-off',
+            anio:2024,
+            episodios:1,
+            estreno:'2024-09-09'
+        }
+    ],
+    activo:true
+},
+
+/* =============== MR. MITSUYA'S PLANNED FEEDING — DR000689 =================== */
+{
+    codigo:'DR000689',
+    titulo:"Mr. Mitsuya's Planned Feeding",
+    tituloOriginal:'三ツ矢先生の計画的な餌付け。',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:"Mr. Mitsuya's Planned Feeding",
+        tituloOriginal:'三ツ矢先生の計画的な餌付け。',
+        autor:'Ayaka Matsumoto',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2024-07-25',
+    finalizacion:'2024-09-06',
+    generos:['BL','Romance','Drama','Gastronomía'],
+    tags:['BL','Diferencia de edad','Cocina','Trabajo','Vida cotidiana','Chef'],
+    personas:[],
+    ships:[
+        {personajes:['Ishida Tomoya','Mitsuya Ayumu']}
+    ],
+    sinopsis:'Tomoya Ishida, un joven editor de revistas, comienza a trabajar con Ayumu Mitsuya, un reconocido investigador culinario de mayor edad. A través de la comida y de una convivencia cada vez más cercana, ambos empiezan a descubrir sentimientos que van más allá de la admiración profesional.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I HEAR THE SUNSPOT — PELÍCULA — DR000690 =================== */
+{
+    codigo:'DR000690',
+    titulo:'I Hear the Sunspot',
+    tituloOriginal:'ひだまりが聴こえる',
+    alias:['The Silhouette of Your Voice'],
+    pais:['JP'],
+    anio:2017,
+    tipo:'Película',
+    franquicia:null,
+    universo:'UN000024',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Hear the Sunspot',
+        tituloOriginal:'ひだまりが聴こえる',
+        autor:'Yuki Fumino',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:null,
+    duracion:72,
+    estado:'Finalizado',
+    estreno:'2017-06-24',
+    finalizacion:'2017-06-24',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Universidad','Discapacidad auditiva','Amistad','Adaptación cinematográfica'],
+    personas:[],
+    ships:[
+        {personajes:['Sugihara Kohei','Sagawa Taichi']}
+    ],
+    sinopsis:'Taichi Sagawa conoce a Kohei Sugihara, un estudiante universitario con pérdida auditiva que tiene dificultades para seguir las clases. Taichi comienza a tomar apuntes para él a cambio de comida y, a medida que ambos se conocen, su amistad se transforma gradualmente en amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I HEAR THE SUNSPOT — DRAMA — DR000691 =================== */
+{
+    codigo:'DR000691',
+    titulo:'I Hear the Sunspot',
+    tituloOriginal:'ひだまりが聴こえる',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000024',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'I Hear the Sunspot',
+        tituloOriginal:'ひだまりが聴こえる',
+        autor:'Yuki Fumino',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-07-04',
+    finalizacion:'2024-09-19',
+    generos:['BL','Romance','Drama','Juvenil'],
+    tags:['BL','Universidad','Discapacidad auditiva','Amistad','Sanación','Adaptación de manga'],
+    personas:[],
+    ships:[
+        {personajes:['Sugihara Kohei','Sagawa Taichi']}
+    ],
+    sinopsis:'Kohei Sugihara, un estudiante universitario con pérdida auditiva, mantiene las distancias con los demás hasta conocer a Taichi Sagawa. Taichi comienza a tomar apuntes para Kohei y, mientras ambos aprenden a comunicarse y a comprenderse, su relación se convierte en algo más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== HAPPY OF THE END — DR000692 =================== */
+{
+    codigo:'DR000692',
+    titulo:'Happy of the End',
+    tituloOriginal:'ハッピー・オブ・ジ・エンド',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Happy of the End',
+        tituloOriginal:'ハッピー・オブ・ジ・エンド',
+        autor:'Ogeretsu Tanaka',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-09-03',
+    finalizacion:'2024-09-24',
+    generos:['BL','Romance','Thriller','Drama'],
+    tags:['BL','Thriller','Trauma','Violencia','Crimen','Sanación','Pasado traumático'],
+    personas:[],
+    ships:[
+        {personajes:['Kashiwagi Chihiro','Keito']}
+    ],
+    sinopsis:'Chihiro, rechazado por su familia y abandonado por su antiguo novio, conoce a Keito en un bar. Lo que comienza como un encuentro casual se transforma en una relación intensa marcada por el trauma, la violencia y los secretos del pasado de Keito.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SUGAR DOG LIFE — DR000693 =================== */
+{
+    codigo:'DR000693',
+    titulo:'Sugar Dog Life',
+    tituloOriginal:'シュガードッグライフ',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Sugar Dog Life',
+        tituloOriginal:'シュガードッグライフ',
+        autor:'Yoriko',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:9,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2024-08-03',
+    finalizacion:'2024-09-29',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Universidad','Policía','Diferencia de edad','Cocina','Vida cotidiana'],
+    personas:[],
+    ships:[
+        {personajes:['Sakuraba Isumi','Amasawa Kyo']}
+    ],
+    sinopsis:'Isumi Sakuraba, un estudiante universitario de baja estatura que trabaja en una tienda de conveniencia, conoce a Amasawa, un policía de mayor edad. Lo que comienza con encuentros casuales y comida compartida acaba convirtiéndose en una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SMELLS LIKE GREEN SPIRIT — DR000694 =================== */
+{
+    codigo:'DR000694',
+    titulo:'Smells Like Green Spirit',
+    tituloOriginal:'スメルズ ライク グリーン スピリット',
+    alias:[],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Smells Like Green Spirit',
+        tituloOriginal:'スメルズ ライク グリーン スピリット',
+        autor:'Saburō Nagai',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-09-19',
+    finalizacion:'2024-11-07',
+    generos:['BL','Drama','Romance','Escolar'],
+    tags:['BL','LGBTQ+','Identidad','Homofobia','Bullying','Adolescencia','Aceptación','Cross-dressing'],
+    personas:[],
+    ships:[
+        {personajes:['Mishima Futoshi','Yumeno Taro']}
+    ],
+    sinopsis:'Futoshi Mishima es acosado por sus compañeros debido a su aspecto femenino y a que le gustan los chicos. Un día descubre que Makoto Kirino, uno de sus acosadores, también oculta una parte de sí mismo. Mientras Mishima intenta encontrar su propia identidad, Yumeno comienza a reconocer sus sentimientos hacia él.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE IS A POISON — DR000695 =================== */
+{
+    codigo:'DR000695',
+    titulo:'Love Is a Poison',
+    tituloOriginal:'毒恋～毒もすぎれば恋となる～',
+    alias:['Doku Koi'],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Doku Koi: Doku mo Sugireba Koi to Naru',
+        tituloOriginal:'毒恋～毒もすぎれば恋となる～',
+        autor:'Keisuke Makino',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2024-09-10',
+    finalizacion:'2024-12-03',
+    generos:['BL','Romance','Thriller','Drama'],
+    tags:['BL','Crimen','Abogado','Estafador','Misterio','Investigación','Convivencia'],
+    personas:[],
+    ships:[
+        {personajes:['Shiba Ryoma','Haruto']}
+    ],
+    sinopsis:'Ryoma Shiba es un brillante abogado que conoce a Haruto, un joven estafador capaz de adoptar cualquier identidad. Impresionado por sus habilidades, Ryoma lo convierte en su socio secreto para resolver casos y ambos terminan viviendo juntos mientras sus sentimientos evolucionan hacia el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE IN THE AIR: PREMONITION OF LOVE — DR000696 =================== */
+{
+    codigo:'DR000696',
+    titulo:'Love in the Air: Premonition of Love',
+    tituloOriginal:'Love in The Air - 恋の予感',
+    alias:['Love in The Air -Premonition of Love-'],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000015',orden:2},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2024-11-03',
+    finalizacion:'2024-12-22',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Remake','Universidad','Amigos','Parejas múltiples','Motociclismo'],
+    personas:[],
+    ships:[
+        {personajes:['Hayase Arashi','Amemiya Rei']},
+        {personajes:['Kawai Fuma','Sorano Kai']}
+    ],
+    sinopsis:'Durante una noche de tormenta, Rei queda atrapado en la carretera y recibe la ayuda de Arashi. Lo que comienza como gratitud se transforma en una relación más profunda. Al mismo tiempo, el amigo de Rei, Kai, se acerca a Fuma después de un primer encuentro desastroso.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Love in the Air: Premonition of Love — Special 1',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Especial',
+            anio:2024,
+            episodios:1,
+            estreno:'2024-12-29'
+        },
+        {
+            titulo:'Love in the Air: Premonition of Love — Special 2',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-01-05'
+        }
+    ],
+    activo:true
+},
+
+/* =============== OUR YOUTH — DR000697 =================== */
+{
+    codigo:'DR000697',
+    titulo:'Our Youth',
+    tituloOriginal:'未成年～未熟な俺たちは不器用に進行中～',
+    alias:['Miseinen','Minor'],
+    pais:['JP'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Webtoon',
+        relacion:'Adaptación',
+        titulo:'Minor',
+        tituloOriginal:'미성년',
+        autor:'Hi Nun',
+        pais:'KR'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2024-11-05',
+    finalizacion:'2025-01-07',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:['BL','LGBTQ+','Escolar','Primer amor','Amistad','Familia','Abuso familiar','Sanación','Time skip'],
+    personas:[],
+    ships:[
+        {personajes:['Minase Jin','Hirukawa Haruki']}
+    ],
+    sinopsis:'Jin Minase es un estudiante ejemplar que intenta mantenerse al margen de los problemas del instituto. Su vida cambia cuando descubre la difícil situación familiar de Haruki Hirukawa, un compañero conflictivo al que hasta entonces había evitado. La cercanía entre ambos se transforma poco a poco en su primer amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Our Youth — Special',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-01-07'
+        }
+    ],
+    activo:true
+},
+	/* =============== LOVE SEA — DR000698 =================== */
+{
+    codigo:'DR000698',
+    titulo:'Love Sea',
+    tituloOriginal:'ต้องรักมหาสมุทร',
+    alias:['Love Sea The Series','Love Sea: Must Love Mahasamut'],
+    pais:['TH'],
+    anio:2024,
+    tipo:'Drama',
+    franquicia:null,
+    universo: 'UN000001',
+    serie:null,
+    remake:{codigo:'RM000698',orden:1},
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'ต้องรักมหาสมุทร',
+        tituloOriginal:'Love Sea',
+        autor:'MAME Orawan Vichayawannakul',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2024-06-09',
+    finalizacion:'2024-08-11',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Escritor','Isla','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Tongrak','Mahasamut']}
+    ],
+    sinopsis:'Tongrak, un popular escritor de novelas románticas, viaja en busca de inspiración para terminar su nuevo libro y conoce a Mahasamut, un joven del sur de Tailandia. Lo que comienza como un encuentro inesperado termina convirtiéndose en una relación que cambiará la vida de ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Love Sea: Special Episode',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Especial',
+            anio:2024,
+            episodios:1,
+            estreno:'2024-08-25'
+        }
+    ],
+    activo:true
+},
+
+/* =============== LOVE SEA: THE HOME FOR LOVERS — DR000699 =================== */
+{
+    codigo:'DR000699',
+    titulo:'Love Sea: The Home for Lovers',
+    tituloOriginal:'Love Sea ～愛の居場所～',
+    alias:['Love Sea: Ai no Ibasho'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000698',orden:2},
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación y remake',
+        titulo:'Love Sea',
+        tituloOriginal:'ต้องรักมหาสมุทร',
+        autor:'MAME Orawan Vichayawannakul',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2025-08-11',
+    finalizacion:'2025-09-29',
+    generos:['BL','GL','Romance','Drama'],
+    tags:['BL','GL','Romance','Remake','Escritor','Isla','Sanación','Pareja BL','Pareja GL'],
+    personas:[],
+    ships:[
+        {personajes:['楽本愛','武藤海心']},
+        {personajes:['宇井姫花','小椋ふみ']}
+    ],
+    sinopsis:'楽本愛, un popular escritor de novelas románticas que vive en Tokio, viaja a una isla para buscar inspiración para su nueva obra. Allí conoce a 武藤海心, un popular guía turístico de la isla. Aunque proceden de mundos y tienen valores completamente diferentes, ambos comienzan a acercarse mientras pasan tiempo juntos y afrontan las heridas de su pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Love Sea: The Home for Lovers — Special 1',
+            tituloOriginal:null,
+            alias:['Love Sea ～愛の居場所～ Special 1'],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:null
+        },
+        {
+            titulo:'Love Sea: The Home for Lovers — Special 2',
+            tituloOriginal:null,
+            alias:['Love Sea ～愛の居場所～ Special 2'],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:null
+        }
+    ],
+    activo:true
+},
+	/* =============== WHEN IT RAINS, IT POURS — DR000700 =================== */
+{
+    codigo:'DR000700',
+    titulo:'When It Rains, It Pours',
+    tituloOriginal:'ふったらどしゃぶり',
+    alias:['Futtara Doshaburi'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000700',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'When It Rains, It Pours',
+        tituloOriginal:'ふったらどしゃぶり',
+        autor:'Michi Ichiho',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:7,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2025-01-10',
+    finalizacion:'2025-02-21',
+    generos:['BL','Romance','Melodrama'],
+    tags:['BL','Romance','Adultos','Compañeros de trabajo','Correo electrónico','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Hagiwara Ikken','Nakarai Sei']}
+    ],
+    sinopsis:'Hagiwara Ikken y Nakarai Sei son compañeros de trabajo que, debido a un correo electrónico enviado por error, comienzan a compartir sus problemas personales y emocionales sin saber inicialmente quién se encuentra al otro lado. La relación que nace de esas conversaciones termina transformándose en un vínculo amoroso.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== DEPTH OF FIELD — DR000701 =================== */
+{
+    codigo:'DR000701',
+    titulo:'Depth of Field',
+    tituloOriginal:'被写界深度',
+    alias:['Hishakai Shindo'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Depth of Field',
+        tituloOriginal:'被写界深度',
+        autor:'Sono',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2025-06-20',
+    finalizacion:'2025-07-18',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Amistad','Instituto','Música','Fotografía','Reencuentro','Universidad','Celos'],
+    personas:[],
+    ships:[
+        {personajes:['Hayakawa Shuichiro','Konno Ryohei']}
+    ],
+    sinopsis:'Hayakawa Shuichiro, un joven que ha abandonado la música y carga con un profundo sentimiento de vacío, conoce en la azotea de su instituto a Konno Ryohei, un chico reservado y apasionado por la fotografía. La admiración, los celos y los sentimientos que surgen entre ambos transforman su amistad y continúan años después, cuando vuelven a encontrarse como universitarios.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE PROPER WAY TO WRITE LOVE — DR000702 =================== */
+{
+    codigo:'DR000702',
+    titulo:'The Proper Way to Write Love',
+    tituloOriginal:'恋愛ルビの正しいふりかた',
+    alias:['Renai Rubi no Tadashii Furikata'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000702',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'The Proper Way to Write Love',
+        tituloOriginal:'恋愛ルビの正しいふりかた',
+        autor:'Ogeretsu Tanaka',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:8,
+    duracion:26,
+    estado:'Finalizado',
+    estreno:'2025-07-14',
+    finalizacion:'2025-09-01',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Reencuentro','Instituto','Venganza','Compañeros de trabajo','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Suzuki Hiroshi','Washizawa Natsuo']}
+    ],
+    sinopsis:'Suzuki Hiroshi, ahora un exitoso estilista, vuelve a encontrarse con Washizawa Natsuo, un antiguo compañero de instituto que formó parte de los recuerdos dolorosos de su adolescencia. Hiroshi decide iniciar una relación con él con la intención de vengarse por el pasado, pero sus sentimientos terminan tomando un rumbo inesperado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== STAY BY MY SIDE AFTER THE RAIN — DR000703 =================== */
+{
+    codigo:'DR000703',
+    titulo:'Stay By My Side After the Rain',
+    tituloOriginal:'雨上がりの僕らについて',
+    alias:['Ameagari no Bokura ni Tsuite'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Stay By My Side After the Rain',
+        tituloOriginal:'雨上がりの僕らについて',
+        autor:'Rakuta Shoko',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2025-07-02',
+    finalizacion:'2025-09-17',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Reencuentro','Amigos de la infancia','Adultos','Coming out','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Kanade Shinichiro','Mashiro Kosuke']}
+    ],
+    sinopsis:'Kanade Shinichiro, un hombre que ha decidido no volver a enamorarse mientras oculta su orientación sexual, se reencuentra seis años después con Mashiro Kosuke, su antiguo mejor amigo de instituto. El reencuentro despierta los sentimientos que Kanade había intentado enterrar y ambos comienzan a enfrentarse a su pasado y a lo que realmente sienten.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE JOURNEY TO KILLING YOU — DR000704 =================== */
+{
+    codigo:'DR000704',
+    titulo:'The Journey to Killing You',
+    tituloOriginal:'あなたを殺す旅',
+    alias:['Anata o Korosu Tabi'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000704',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'The Journey to Killing You',
+        tituloOriginal:'あなたを殺す旅',
+        autor:'Asai Nishi',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2025-09-26',
+    finalizacion:'2025-10-31',
+    generos:['BL','Romance','Drama','Thriller'],
+    tags:['BL','Yakuza','Crimen','Venganza','Road Trip','Amor peligroso','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Kataoka Kinji','Odajima Ren']}
+    ],
+    sinopsis:'Kataoka Kinji, un respetado wakagashira de la yakuza, debe desaparecer temporalmente tras un incidente. Su encargado durante el viaje será Odajima Ren, un miembro de la organización que oculta una misión secreta: matar a Kataoka. Mientras recorren Japón juntos, el odio y la misión de Odajima comienzan a transformarse en sentimientos de amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PUNKS TRIANGLE — DR000705 =================== */
+{
+    codigo:'DR000705',
+    titulo:'Punks Triangle',
+    tituloOriginal:'PUNKS△TRIANGLE',
+    alias:['Punks Triangle'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'PUNKS△TRIANGLE',
+        tituloOriginal:'PUNKS△TRIANGLE',
+        autor:'Okita Yuho',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:26,
+    estado:'Finalizado',
+    estreno:'2025-10-09',
+    finalizacion:'2025-11-27',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Moda','Identidad secreta','Instituto profesional','Modelo','Triángulo amoroso'],
+    personas:[],
+    ships:[
+        {personajes:['Sumiura Chiaki','Enaga Ayumu']}
+    ],
+    sinopsis:'Sumiura Chiaki, estudiante de diseño de moda, sueña con ver sus creaciones sobre la pasarela llevadas por su modelo favorito, Ai. Cuando una competición le ofrece esa oportunidad, debe trabajar junto al torpe y poco elegante Enaga Ayumu. Lo que Chiaki no sabe es que Enaga oculta una identidad relacionada con el modelo al que admira.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SCHOOL TRIP: JOINED A GROUP I'M NOT CLOSE TO — DR000706 =================== */
+{
+    codigo:'DR000706',
+    titulo:"School Trip: Joined a Group I'm Not Close To",
+    tituloOriginal:'修学旅行で仲良くないグループに入りました',
+    alias:['Shugaku Ryoko de Nakayoku Nai Group ni Hairimashita'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000706',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:"School Trip: Joined a Group I'm Not Close To",
+        tituloOriginal:'修学旅行で仲良くないグループに入りました',
+        autor:'Kakuregi Uzura',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:10,
+    duracion:23,
+    estado:'Finalizado',
+    estreno:'2025-10-18',
+    finalizacion:'2025-12-20',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Instituto','Amor juvenil','Amigos','Celos','Primer amor','Viaje escolar'],
+    personas:[],
+    ships:[
+        {personajes:['Hioki Asahi','Watarai Tsukasa']}
+    ],
+    sinopsis:'Hioki Asahi, un estudiante de instituto corriente que no tiene amigos cercanos en su nueva clase, termina formando parte durante el viaje escolar de un grupo de cuatro chicos populares conocidos como los Cuatro Reyes Celestiales. Entre ellos se encuentra Watarai Tsukasa, un chico amable y popular cuya atención hacia Hioki pronto se convierte en algo mucho más intenso.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'School Trip: Joined a Group I’m Not Close To — After Story 1',
+            tituloOriginal:null,
+            alias:['After Story 1'],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-12-28'
+        },
+        {
+            titulo:'School Trip: Joined a Group I’m Not Close To — After Story 2',
+            tituloOriginal:null,
+            alias:['After Story 2'],
+            tipo:'Especial',
+            anio:2026,
+            episodios:1,
+            estreno:'2026-01-04'
+        }
+    ],
+    activo:true
+},
+
+/* =============== CHOSEN HOME — DR000707 =================== */
+{
+    codigo:'DR000707',
+    titulo:'Chosen Home',
+    tituloOriginal:'ぼくたちん家',
+    alias:['Bokutachinchi'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2025-10-12',
+    finalizacion:'2025-12-14',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Familia elegida','Cohabitación','Diferencia de edad','Adultos','Coming out','Familia'],
+    personas:[],
+    ships:[
+        {personajes:['Hatano Genichi','Sakuta Saku']}
+    ],
+    sinopsis:'Hatano Genichi, un hombre gay de 50 años que desea construir una vida junto a la persona que ama, se enamora de Sakuta Saku, un profesor de secundaria gay emocionalmente distante. Sus vidas cambian cuando una adolescente llamada Hotaru les pide que se conviertan en sus tutores, dando comienzo a una convivencia poco convencional.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Mou Hitori no Sakuta Saku, no Koi',
+            tituloOriginal:'もうひとりの作田索、の恋',
+            alias:['The Love of Another Sakuta Saku'],
+            tipo:'Historia original de Hulu',
+            anio:2025,
+            episodios:2,
+            estreno:'2025-12-07'
+        }
+    ],
+    activo:true
+},
+
+/* =============== LOVE BEGINS IN THE WORLD OF IF — DR000708 =================== */
+{
+    codigo:'DR000708',
+    titulo:'Love Begins in the World of If',
+    tituloOriginal:'ifの世界で恋がはじまる',
+    alias:['If no Sekai de Koi ga Hajimaru'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Love Begins in the World of If',
+        tituloOriginal:'ifの世界で恋がはじまる',
+        autor:'Umino Sachi',
+        pais:'JP'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:24,
+    estado:'Finalizado',
+    estreno:'2025-11-20',
+    finalizacion:'2025-12-25',
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:['BL','Mundo paralelo','Realidad alternativa','Oficina','Compañeros de trabajo','Amor adulto'],
+    personas:[],
+    ships:[
+        {personajes:['Kano Akihito','Ogami Seiji']}
+    ],
+    sinopsis:'Kano Akihito, un trabajador de oficina reservado que no consigue adaptarse a su entorno laboral, encuentra una misteriosa realidad paralela en la que su vida es diferente. Allí descubre que Ogami Seiji, su compañero de trabajo y antiguo objeto de admiración, le muestra unos sentimientos que nunca había visto en el mundo real.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== 10DANCE — DR000709 =================== */
+{
+    codigo:'DR000709',
+    titulo:'10DANCE',
+    tituloOriginal:'10DANCE',
+    alias:['10 Dance'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Película',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'10DANCE',
+        tituloOriginal:'10DANCE',
+        autor:'Inouesatoh',
+        pais:'JP'
+    },
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:126,
+    estado:'Finalizado',
+    estreno:'2025-12-18',
+    finalizacion:'2025-12-18',
+    generos:['BL','Romance','Drama','Deportes'],
+    tags:['BL','Danza','Competición','Rivales','Atracción','Película'],
+    personas:[],
+    ships:[
+        {personajes:['Shinya Suzuki','Shinya Sugiki']}
+    ],
+    sinopsis:'Shinya Suzuki, campeón japonés de baile latino, y Shinya Sugiki, campeón japonés de baile de salón estándar, son dos bailarines de personalidades opuestas que compiten en disciplinas diferentes. Sugiki propone a Suzuki entrenarse mutuamente para participar juntos en la exigente competición 10 Dance, y la rivalidad entre ambos comienza a transformarse en una atracción inesperada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== WHEN IT RAINS, IT POURS — T2 — DR000710 =================== */
+{
+    codigo:'DR000710',
+    titulo:'When It Rains, It Pours: Mellow Rain',
+    tituloOriginal:'ふったらどしゃぶり メロウレイン',
+    alias:['When It Rains, It Pours Season 2','Futtara Doshaburi: Mellow Rain'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000700',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'When It Rains, It Pours',
+        tituloOriginal:'ふったらどしゃぶり',
+        autor:'Michi Ichiho',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:'2026-11-05',
+    finalizacion:null,
+    generos:['BL','Romance','Melodrama'],
+    tags:['BL','Romance','Adultos','Pareja estable','Convivencia','Celos','Familia','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Hagiwara Ikken','Nakarai Sei']}
+    ],
+    sinopsis:'Cuatro meses después de que Hagiwara Ikken y Nakarai Sei finalmente reconocieran sus sentimientos y se convirtieran en pareja, ambos comienzan a construir una vida juntos. Mientras comparten su día a día, las heridas del pasado, los antiguos vínculos y las pequeñas inseguridades ponen a prueba la relación que acaban de empezar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE PROPER WAY TO WRITE LOVE — T2 — DR000711 =================== */
+{
+    codigo:'DR000711',
+    titulo:'The Proper Way to Write Love Season 2',
+    tituloOriginal:'恋愛ルビの正しいふりかた シーズン2',
+    alias:['The Proper Way to Write Love 2','Renai Rubi no Tadashii Furikata Season 2'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000702',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'The Proper Way to Write Love',
+        tituloOriginal:'恋愛ルビの正しいふりかた',
+        autor:'Ogeretsu Tanaka',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:'2026-10-29',
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance','Reencuentro','Adultos','Pareja','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Suzuki Hiroshi','Washizawa Natsuo']}
+    ],
+    sinopsis:'Continuación de la historia de Suzuki Hiroshi y Washizawa Natsuo tras los acontecimientos de la primera temporada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE JOURNEY TO KILLING YOU — T2 — DR000712 =================== */
+{
+    codigo:'DR000712',
+    titulo:'The Journey to Killing You Season 2',
+    tituloOriginal:'あなたを殺す旅 Season 2',
+    alias:['The Journey to Kill You Season 2','Anata wo Korosu Tabi Season 2'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000704',
+    remake:null,
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'The Journey to Killing You',
+        tituloOriginal:'あなたを殺す旅',
+        autor:'Asai Nishi',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:'2026-10-08',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Thriller'],
+    tags:['BL','Yakuza','Crimen','Venganza','Road Trip','Amor peligroso','Pareja estable','Sanación'],
+    personas:[],
+    ships:[
+        {personajes:['Kataoka Kinji','Odajima Ren']}
+    ],
+    sinopsis:'Tres años después de abandonar el mundo de la yakuza, Kataoka Kinji y Odajima Ren viven juntos como pareja en Okinawa, donde regentan una tienda de helados. Sin embargo, una nueva crisis relacionada con el antiguo clan de Kinji los obliga a regresar al mundo que habían dejado atrás.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SCHOOL TRIP: JOINED A GROUP I'M NOT CLOSE TO — T2 — DR000713 =================== */
+{
+    codigo:'DR000713',
+    titulo:"School Trip: Joined a Group I'm Not Close To Season 2",
+    tituloOriginal:'修学旅行で仲良くないグループに入りました2',
+    alias:['School Trip: Joined a Group I’m Not Close To 2','Shugaku Ryoko de Nakayoku Nai Group ni Hairimashita 2'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000706',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:"School Trip: Joined a Group I'm Not Close To",
+        tituloOriginal:'修学旅行で仲良くないグループに入りました',
+        autor:'Kakuregi Uzura',
+        pais:'JP'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:'2026-10-17',
+    finalizacion:null,
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['BL','Instituto','Amor juvenil','Pareja','Tercer año','Celos','Primer amor'],
+    personas:[],
+    ships:[
+        {personajes:['Hioki Asahi','Watarai Tsukasa']}
+    ],
+    sinopsis:'Dos meses después de comenzar su relación, Hioki Asahi y Watarai Tsukasa pasan a su tercer año de instituto y son separados en clases diferentes. Mientras intentan mantener su relación, deberán enfrentarse a nuevos cambios y a la distancia dentro de la escuela.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== TAKUMI-KUN SERIES: SOSHITE HARUKAZE NI SASAYAITE — DR000714 =================== */
+{
+    codigo:'DR000714',
+    titulo:'Takumi-kun Series: Soshite Harukaze ni Sasayaite',
+    tituloOriginal:'タクミくんシリーズ そして春風にささやいて',
+    alias:['Takumi-kun Series 1','And the Spring Breeze Whispers'],
+    pais:['JP'],
+    anio:2007,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'75 min',
+    estado:'Finalizado',
+    estreno:'2007-12-22',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']}
+    ],
+    sinopsis:'Takumi Hayama, un estudiante de segundo curso con una fuerte aversión al contacto físico, es asignado como compañero de habitación de Giichi Saki, conocido como Gii. La convivencia entre ambos transforma la vida de Takumi cuando Gii le confiesa que está enamorado de él.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES 2: NIJI-IRO NO GARASU — DR000715 =================== */
+{
+    codigo:'DR000715',
+    titulo:'Takumi-kun Series 2: Niji-iro no Garasu',
+    tituloOriginal:'タクミくんシリーズ 虹色の硝子',
+    alias:['Takumi-kun Series 2','Rainbow Colored Glass'],
+    pais:['JP'],
+    anio:2009,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'74 min',
+    estado:'Finalizado',
+    estreno:'2009-04-25',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']}
+    ],
+    sinopsis:'Takumi y Gii ya son pareja, pero la dificultad de Takumi para expresar físicamente sus sentimientos provoca nuevas inseguridades. La llegada de un atractivo estudiante de primer curso pone a prueba la confianza de Takumi en la relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES 3: BIBŌ NO DETAIL — DR000716 =================== */
+{
+    codigo:'DR000716',
+    titulo:'Takumi-kun Series 3: Bibō no Detail',
+    tituloOriginal:'タクミくんシリーズ 美貌のディテイル',
+    alias:['Takumi-kun Series 3','The Beauty of Detail'],
+    pais:['JP'],
+    anio:2010,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:3},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'82 min',
+    estado:'Finalizado',
+    estreno:'2010-01-30',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']},
+        {personajes:['Misu Arata','Shingyoji Kanemitsu']}
+    ],
+    sinopsis:'Al comenzar el tercer curso, Takumi deja de compartir habitación con Gii y pasa a convivir con Misu Arata. Mientras Takumi sufre al percibir un cambio en la actitud de Gii, Misu y Shingyoji forman una de las líneas románticas secundarias de la historia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES 4: PURE — DR000717 =================== */
+{
+    codigo:'DR000717',
+    titulo:'Takumi-kun Series 4: Pure',
+    tituloOriginal:'タクミくんシリーズ4 Pure 〜ピュア〜',
+    alias:['Takumi-kun Series 4','Pure'],
+    pais:['JP'],
+    anio:2010,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:4},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'79 min',
+    estado:'Finalizado',
+    estreno:'2010-12-18',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Misu Arata','Shingyoji Kanemitsu']},
+        {personajes:['Takabayashi Izumi','Yoshizawa Michio']}
+    ],
+    sinopsis:'La historia se centra principalmente en las relaciones de Misu Arata y Shingyoji Kanemitsu, y de Takabayashi Izumi y Yoshizawa Michio. Los problemas de comunicación y los celos ponen a prueba a ambas parejas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES 5: ANO, HARETA AOZORA — DR000718 =================== */
+{
+    codigo:'DR000718',
+    titulo:'Takumi-kun Series 5: Ano, Hareta Aozora',
+    tituloOriginal:'タクミくんシリーズ あの、晴れた青空',
+    alias:['Takumi-kun Series 5','That, Sunny Blue Sky'],
+    pais:['JP'],
+    anio:2011,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:5},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'89 min',
+    estado:'Finalizado',
+    estreno:'2011-08-20',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']},
+        {personajes:['Misu Arata','Shingyoji Kanemitsu']}
+    ],
+    sinopsis:'Cuando se aproxima el aniversario de la muerte del hermano de Takumi, Gii promete acompañarlo a visitar su tumba. Sin embargo, un torneo escolar amenaza con romper la promesa y provoca una nueva crisis entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES: NAGAI NAGAI MONOGATARI NO HAJIMARI NO ASA — DR000719 =================== */
+{
+    codigo:'DR000719',
+    titulo:'Takumi-kun Series: The Dawn of the Long Tales',
+    tituloOriginal:'タクミくんシリーズ 長い長い物語の始まりの朝。',
+    alias:['Takumi-kun Series 6','Nagai Nagai Monogatari no Hajimari no Asa'],
+    pais:['JP'],
+    anio:2023,
+    tipo:'Película',
+    franquicia:{codigo:'FR000041',orden:6},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'77 min',
+    estado:'Finalizado',
+    estreno:'2023-05-27',
+    finalizacion:null,
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']}
+    ],
+    sinopsis:'Durante el examen de ingreso en la Academia Shidō, Takumi conoce por primera vez a Gii. La historia muestra el comienzo de su relación y el nacimiento de la larga historia de amor entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TAKUMI-KUN SERIES -DRAMA- — DR000720 =================== */
+{
+    codigo:'DR000720',
+    titulo:'Takumi-kun Series -Drama-',
+    tituloOriginal:'タクミくんシリーズ －Drama－',
+    alias:['Takumi-kun Series Drama'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000041',orden:7},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2025-09-21',
+    finalizacion:'2025-10-26',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Hayama Takumi','Saki Giichi']},
+        {personajes:['Takabayashi Izumi','Yoshizawa Michio']}
+    ],
+    sinopsis:'Takumi y Gii comienzan el segundo curso como pareja y compañeros de habitación. Mientras ambos afrontan las dificultades derivadas del miedo de Takumi al contacto físico, otras relaciones románticas se desarrollan dentro de la Academia Shidō, especialmente la de Takabayashi y Yoshizawa.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== THERAPY GAME — DR000721 =================== */
+{
+    codigo:'DR000721',
+    titulo:'Therapy Game',
+    tituloOriginal:'セラピーゲーム',
+    alias:['Serapī Gēmu'],
+    pais:['JP'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:9,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2025-10-29',
+    finalizacion:'2025-12-24',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Mito Minato','Ikushima Shizuma']}
+    ],
+    sinopsis:'Minato Mito, un fotógrafo gay de carácter reservado y desconfiado en el amor, conoce en un bar a Shizuma Ikushima, un estudiante de veterinaria que acaba de sufrir una ruptura. Después de pasar una noche juntos, Shizuma no recuerda nada de Minato al despertar. Herido y enfadado, Minato apuesta con los empleados del bar que conseguirá enamorar a Shizuma para después abandonarlo. Sin embargo, cuanto más tiempo pasa con él, más difícil resulta mantener sus sentimientos al margen del juego.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== I'M KISHI KNIGHT: YOUR PRIVATE TUTOR — DR000722 =================== */
+{
+    codigo:'DR000722',
+    titulo:"I'm Kishi Knight: Your Private Tutor",
+    tituloOriginal:'家庭教師の岸騎士です。',
+    alias:['Kateikyoshi no Kishi Knight desu.','I’m Private Tutor, Kishi Knight'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'24 min',
+    estado:'Finalizado',
+    estreno:'2026-01-05',
+    finalizacion:'2026-03-09',
+    generos:['BL','Comedia','Romance','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[],
+    sinopsis:'Toru Takasugi, un estudiante de instituto problemático con pésimos resultados académicos, comienza a recibir clases de Kishi Knight, un tutor privado elegante y excepcionalmente competente. Mientras Kishi intenta ayudarle a mejorar sus estudios, Toru desarrolla sentimientos por él, aunque la relación permanece en el terreno del enamoramiento unilateral.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:['Special Lesson Part 1','Special Lesson Part 2'],
+    activo:true
+},
+
+/* =============== CONTRAST — DR000723 =================== */
+{
+    codigo:'DR000723',
+    titulo:'Contrast',
+    tituloOriginal:'コントラスト',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'25 min',
+    estado:'Finalizado',
+    estreno:'2026-03-13',
+    finalizacion:'2026-03-13',
+    generos:['BL','Romance','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Akira Senkawa','Kanata Aoyama']}
+    ],
+    sinopsis:'Kanata Aoyama es un estudiante popular y emocionalmente reservado, mientras que Akira Senkawa es un alumno solitario y brillante. Un encuentro casual en las escaleras que conducen a la azotea hace que ambos comiencen a compartir los sentimientos que normalmente esconden.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== COUNTDOWN TO YES — DR000724 =================== */
+{
+    codigo:'DR000724',
+    titulo:'Countdown to Yes',
+    tituloOriginal:'親友の「同棲して」に「うん」て言うまで',
+    alias:['Shinyuu no "Dousei Shite" ni "Un" te Iu Made','Until I Say Yes to My Best Friend’s "Live With Me"'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2026-01-13',
+    finalizacion:'2026-03-24',
+    generos:['BL','Romance','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Yokoi Minato','Nakano Wataru']}
+    ],
+    sinopsis:'Minato y Wataru son amigos íntimos desde sus años de estudiante y comparten una pasión por la fotografía. Después de haber vivido juntos durante la universidad y separarse cuando Minato comienza a trabajar, ambos vuelven a encontrarse mientras Wataru descubre que sus sentimientos por su mejor amigo son algo más que amistad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE BOY NEXT WORLD: MY DESTINY — DR000725 =================== */
+{
+    codigo:'DR000725',
+    titulo:'The Boy Next World: My Destiny',
+    tituloOriginal:'The Boy Next World ～並行世界の恋人～',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000034',orden:2},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'25-36 min',
+    estado:'Finalizado',
+    estreno:'2026-02-01',
+    finalizacion:'2026-03-01',
+    generos:['BL','Romance','Fantasía','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Sara Kogami','Yotsuba Fuu']}
+    ],
+    sinopsis:'Fuu Yotsuba lleva una vida universitaria normal hasta que Sara Kogami, un estudiante mayor al que apenas conoce, aparece asegurando que procede de un mundo paralelo donde ambos son pareja. Mientras intentan descubrir cómo devolver a Sara a su mundo, los sentimientos entre las dos versiones de su realidad comienzan a entrelazarse.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:['Special Episode 1','Special Episode 2'],
+    activo:true
+},
+
+/* =============== SOUL MATE — DR000726 =================== */
+{
+    codigo:'DR000726',
+    titulo:'Soul Mate',
+    tituloOriginal:'ソウルメイト',
+    alias:['Soulmate','Sôrumeito'],
+    pais:['JP','KR'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'34-47 min',
+    estado:'Finalizado',
+    estreno:'2026-05-14',
+    finalizacion:'2026-05-14',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Ryu Narutaki','Johan Hwang']}
+    ],
+    sinopsis:'Ryu Narutaki abandona Japón y termina en Berlín, donde conoce a Johan Hwang, un boxeador coreano. Aquel encuentro casual inicia una relación que se desarrolla durante diez años y atraviesa Berlín, Seúl y Tokio, mientras ambos afrontan pérdidas, distancia y cambios personales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LIFE IN SMOKEY BLUE — DR000727 =================== */
+{
+    codigo:'DR000727',
+    titulo:'Life in Smokey Blue',
+    tituloOriginal:'スモークブルーの雨のち晴れ',
+    alias:['Smoke Blue no Ame Nochi Hare'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'24 min',
+    estado:'Finalizado',
+    estreno:'2026-04-07',
+    finalizacion:'2026-06-09',
+    generos:['BL','Romance','Drama','Slice of Life'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Azuma Sakutaro','Kuji Shizuka']}
+    ],
+    sinopsis:'Sakutaro Azuma, antiguo empleado estrella de una farmacéutica, se encuentra desempleado y sin rumbo. Una noche vuelve a encontrarse con Shizuka Kuji, su antiguo compañero y rival, con quien tuvo un encuentro íntimo ocho años atrás. La inesperada reunión hace que ambos vuelvan a entrar en la vida del otro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== FAKE FACT LIPS — DR000728 =================== */
+{
+    codigo:'DR000728',
+    titulo:'Fake Fact Lips',
+    tituloOriginal:'フェイクファクトリップス',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'25-30 min',
+    estado:'Finalizado',
+    estreno:'2026-04-24',
+    finalizacion:'2026-06-26',
+    generos:['BL','Romance','Comedia','Oficina'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Yotsuya Ryo','Shido Zen']}
+    ],
+    sinopsis:'Ryo Yotsuya y Zen Shido son rivales desde la época escolar y ahora trabajan en la misma empresa. Tras una apuesta impulsiva sobre quién conseguirá que el otro se enamore primero, su competición profesional se transforma poco a poco en una relación amorosa real.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:['Bonus Special'],
+    activo:true
+},
+
+/* =============== UNEXPECTEDLY NAUGHTY FUKAMI — DR000729 =================== */
+{
+    codigo:'DR000729',
+    titulo:'Unexpectedly Naughty Fukami',
+    tituloOriginal:'やたらやらしい深見くん',
+    alias:['Yatara Yarashii Fukami-kun'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'24 min',
+    estado:'Finalizado',
+    estreno:'2026-04-07',
+    finalizacion:'2026-06-09',
+    generos:['BL','Romance','Comedia','Oficina'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Akihiro Kaji','Yu Fukami']}
+    ],
+    sinopsis:'Akihiro Kaji es el empleado estrella del departamento de ventas y un narcisista que juzga a los demás según su atractivo. Durante un viaje de trabajo termina compartiendo habitación con su discreto compañero Yu Fukami y descubre una faceta de él que cambia por completo la forma en que lo ve.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE BOY AND I WHO WILL BREAK UP IN 100 DAYS — DR000730 =================== */
+{
+    codigo:'DR000730',
+    titulo:'The Boy and I Who Will Break Up in 100 Days',
+    tituloOriginal:'100日後に別れる僕と彼',
+    alias:['100-Nichi-go ni Wakareru Boku to Kare'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'25 min',
+    estado:'Finalizado',
+    estreno:'2026-05-26',
+    finalizacion:'2026-06-30',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Kasuga Yuma','Hasegawa Itsuki']}
+    ],
+    sinopsis:'Yuma y Itsuki fueron pareja, pero su relación terminó antes de comenzar la grabación de un documental sobre ellos. Para las cámaras deciden fingir que siguen siendo una pareja perfecta durante cien días, mientras las heridas y los sentimientos que aún permanecen entre ambos salen a la superficie.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ORDINARY LOVE — DR000731 =================== */
+{
+    codigo:'DR000731',
+    titulo:'Ordinary Love',
+    tituloOriginal:'普通の恋愛',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2026-07-03',
+    finalizacion:'2026-08-21',
+    generos:['BL','Romance','Drama','Slice of Life'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Fumihara Ichiro','Higashi Kei']}
+    ],
+    sinopsis:'Ichiro Fumihara y Kei Higashi son compañeros de trabajo unidos inicialmente por su pasión por el cine. Lo que comienza como una relación de admiración y confianza se convierte poco a poco en una relación amorosa mientras ambos afrontan sus propias inseguridades y experiencias pasadas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE SERVANT PRINCE — DR000732 =================== */
+{
+    codigo:'DR000732',
+    titulo:'The Servant Prince',
+    tituloOriginal:'しもべの王子様',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2026-07-03',
+    finalizacion:'2026-08-21',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Goto Naoya','Sato Takaaki']}
+    ],
+    sinopsis:'Goto Naoya fue durante sus años escolares el chico intocable que dominaba la jerarquía social. Años después, su vida da un giro cuando vuelve a encontrarse con Sato Takaaki y la relación entre ambos evoluciona desde una dinámica de dependencia y resentimiento hacia sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:['Epilogue Special'],
+    activo:true
+},
+
+/* =============== ARE THE SEXY BUTTOCKS NOT GOOD? — DR000733 =================== */
+{
+    codigo:'DR000733',
+    titulo:'Are the Sexy Buttocks Not Good?',
+    tituloOriginal:'えっちなお尻じゃダメですか？',
+    alias:['Ecchi na Oshiri ja Dame desu ka?'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'13 min',
+    estado:'Finalizado',
+    estreno:'2026-07-06',
+    finalizacion:'2026-09-08',
+    generos:['BL','Romance','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Ainosuke Hizaki','Okumi']}
+    ],
+    sinopsis:'Ainosuke Hizaki conoce a Okumi después de que este lo ayude durante un incidente en el tren. Lo que comienza como un encuentro inesperado se convierte en una relación íntima y posteriormente en una historia de amor entre un joven universitario y un hombre mayor que además es el presidente de su empresa.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY SUMMER OF YOU — DR000734 =================== */
+{
+    codigo:'DR000734',
+    titulo:'My Summer of You',
+    tituloOriginal:'君は夏のなか',
+    alias:['Kimi wa Natsu no Naka'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'25 min',
+    estado:'Finalizado',
+    estreno:'2026-06-24',
+    finalizacion:'2026-09-09',
+    generos:['BL','Romance','Escolar','Juventud'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Toda Wataru','Saeki Chiharu']}
+    ],
+    sinopsis:'Wataru Toda y Chiharu Saeki son dos estudiantes de instituto unidos por su pasión por el cine. Una excursión de verano a distintos lugares relacionados con sus películas favoritas hace que su amistad se transforme gradualmente cuando Chiharu confiesa sus sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== YOUR SUMMER, MY STORM — DR000735 =================== */
+{
+    codigo:'DR000735',
+    titulo:'Your Summer, My Storm',
+    tituloOriginal:'夏色の雲が恋と嵐をまきおこす',
+    alias:['Natsuiro no Kumo ga Koi to Arashi wo Makiokosu'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'23-24 min',
+    estado:'Finalizado',
+    estreno:'2026-07-11',
+    finalizacion:'2026-09-12',
+    generos:['BL','Romance','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Takemiya Natsuki','Kobayagawa Sota']}
+    ],
+    sinopsis:'Natsuki Takemiya es un estudiante de último curso que, durante el verano, comienza a recibir clases de su tutor Sota Kobayagawa, el novio de su hermana. Lo que inicialmente parece una relación incómoda se convierte en su primer amor. Con el tiempo, Sota también reconoce sus sentimientos por Natsuki, aunque ambos deciden mantener una relación sin nombre mientras persiguen sus propios sueños.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== AFTER MOVING SEATS, THE BOY BEHIND ME HAS A CRUSH ON ME — DR000736 =================== */
+{
+    codigo:'DR000736',
+    titulo:'After Moving Seats, the Boy Behind Me Has a Crush on Me',
+    tituloOriginal:'席替えしたら、どうやら後ろの男が俺のこと好きらしい',
+    alias:[],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'25 min',
+    estado:'Finalizado',
+    estreno:'2026-08-06',
+    finalizacion:'2026-09-24',
+    generos:['BL','Romance','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Mayama Hare','Asamiya Kosei']}
+    ],
+    sinopsis:'Hare Mayama es un estudiante de instituto reservado y con poca confianza en sí mismo. Después de un cambio de asientos descubre una confesión escrita por Kosei Asamiya, el chico popular que se sienta detrás de él. Aunque Hare tiene dificultades para aceptar que alguien pueda quererlo, ambos comienzan a acercarse.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== DUTY FIRST, KISS LATER — DR000737 =================== */
+{
+    codigo:'DR000737',
+    titulo:'Duty First, Kiss Later',
+    tituloOriginal:'キスは捜査のあとで',
+    alias:['Kisu wa Sousa no Ato de','Kiss After the Investigation'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'30 min',
+    estado:'Finalizado',
+    estreno:'2026-07-26',
+    finalizacion:'2026-09-27',
+    generos:['BL','Romance','Comedia','Policial'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Takoi Heisuke','Shiono Shu']}
+    ],
+    sinopsis:'Heisuke Takoi es un detective veterano de una comisaría rural que se toma muy en serio incluso los problemas más pequeños de los vecinos. Su relación profesional con el detective Shu Shiono está marcada por los enfrentamientos, hasta que la tensión entre ambos comienza a transformarse en atracción.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== HOLD ON, HARUTORA-KUN — DR000738 =================== */
+{
+    codigo:'DR000738',
+    titulo:'Hold on, Harutora-kun',
+    tituloOriginal:'ちょっと待とうよ、春虎くん',
+    alias:['Chotto Matou yo, Harutora-kun'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'22 min',
+    estado:'Finalizado',
+    estreno:'2026-08-14',
+    finalizacion:'2026-10-02',
+    generos:['BL','Romance','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Kishida Sui','Kurobe Harutora']}
+    ],
+    sinopsis:'Kishida Sui utiliza una máscara emocional para protegerse de los demás. Su rutina cambia cuando el nuevo estudiante Kurobe Harutora se convierte en su compañero de habitación. Mientras Harutora se concentra en el baloncesto, Sui lo ayuda a entrenar y ambos comienzan a acercarse hasta que sus sentimientos salen a la luz.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE PUNCH! — DR000739 =================== */
+{
+    codigo:'DR000739',
+    titulo:'Love Punch!',
+    tituloOriginal:'純愛上等！',
+    alias:['Junai Joto!','Junai Jōtō!'],
+    pais:['JP'],
+    anio:2026,
+    tipo:'Película',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'102 min',
+    estado:'Finalizado',
+    estreno:'2026-02-13',
+    finalizacion:'2026-02-13',
+    generos:['BL','Romance','Juventud','Acción'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Kamei Madoka','Sato Mitsuru']}
+    ],
+    sinopsis:'Madoka Kamei es el líder de la escuela Benizakura, mientras que Mitsuru Sato lidera la escuela rival Shiraiwa. Dos años después de un enfrentamiento que dio lugar a una tregua entre ambas escuelas, Mitsuru acaba viviendo encima de la tienda de dulces de la abuela de Madoka. La convivencia hace que la rivalidad se transforme gradualmente en una historia de amor.',
     multimedia:{
         portada:[],
         trailer:[],
