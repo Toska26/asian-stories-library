@@ -805,7 +805,25 @@ DR000756	TH	2019	What the Duck: Final Call
 DR000757	TH	2017	I Am Your King
 DR000758	TH	2019	I Am Your King 2
 
+DR000759	TH	2017	2 Moons
+DR000760	TH	2019	2 Moons 2
+DR000761	TH	2022	2 Moons: The Ambassador
 
+DR000762	TH	2017	Water Boyy: The Series
+
+DR000763	TH	2017	My Dear Loser: Edge of 17
+DR000764	TH	2017	My Dear Loser: Monster Romance
+DR000765	TH	2017	My Dear Loser: Happy Ever After
+
+
+DR000766	TH	2017	Bangkok G Story
+DR000767	TH	2017	Slam Dance
+DR000768	TH	2017	Choose
+
+DR000769	TH	2018	My Dream
+DR000770	TH	2018	Roop Thong
+DR000771	TH	2018	'Cause You're My Boy
+DR000772	TH	2018	Our skyy
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
 Hanyang Studio → conservar EN000072 y eliminar EN000128.
