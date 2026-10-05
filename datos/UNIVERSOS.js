@@ -99,4 +99,10 @@ activo:true
     descripcion:'Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre China continental y Hong Kong.',
     activo:true
 },
+   {
+    codigo:'UN000024',
+    nombre:'I Hear the Sunspot',
+    descripcion:'Universo que agrupa las distintas adaptaciones audiovisuales de I Hear the Sunspot (Hidamari ga Kikoeru).',
+    activo:true
+},
 ];
