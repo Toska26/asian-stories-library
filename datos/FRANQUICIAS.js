@@ -151,4 +151,29 @@ const FRANQUICIAS = [
     descripcion:'Franquicia japonesa de adaptaciones audiovisuales de la obra Takumi-kun Series, que incluye la primera etapa cinematográfica, la nueva adaptación cinematográfica de 2023 y la adaptación televisiva de 2025.',
     activo:true
 },
+   {
+    codigo:'FR000042',
+    nombre:'Love Sick',
+    pais:'TH',
+    tipo:'Franquicia',
+    descripcion:'Franquicia tailandesa derivada de la obra Love Sick, que incluye Love Sick: The Series, su segunda temporada, la serie derivada Reminders y el remake de 2024.',
+    activo:true
+},
+
+{
+    codigo:'FR000043',
+    nombre:'My Bromance',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia centrada en la continuidad de My Bromance y sus producciones relacionadas.',
+    activo:true
+},
+   {
+    codigo:'FR000044',
+    nombre:'2 Moons',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia basada en la adaptación de la saga Moon Courting Moon, compuesta por 2 Moons, 2 Moons 2 y 2 Moons: The Ambassadors.',
+    activo:true
+},
 ];
