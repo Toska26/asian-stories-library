@@ -642,7 +642,144 @@ DR000611	JP	2018	Ossan's Love
 DR000612	JP	2019	Ossan's Love -in the sky-
 DR000613	JP	2024	Ossan's Love -Returns-
 
+DR000614	JP	2018	Pornographer
+DR000615	JP	2019	Pornographer: Mood Indigo
+DR000616	JP	2021	Pornographer: Spring Life
+DR000617	JP	2021	Pornographer: Playback
+DR000618	JP	2021	Pornographer: Continued Spring Life
 
+DR000619	JP	2019	His: I Didn't Think I Would Fall in Love
+DR000620	JP	2019	What Did You Eat Yesterday?
+DR000621	JP	2019	Ossan's Love The Movie: Love or Dead
+DR000622	JP	2020	Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
+DR000623	JP	2020	Life~Love on the Line
+DR000624	JP	2020	The Reason Why He Fell in Love with Me
+DR000625	JP	2020	BE LOVE
+
+DR000626	JP	2020	What Did You Eat Yesterday? New Year Special 2020
+DR000627	JP	2020	Cherry Magic! Valentine's Day & Rokkaku Arc
+DR000628	JP	2020	Cherry Magic! Tsuge & Minato Arc
+DR000629	JP	2022	Cherry Magic! The Movie
+DR000630	JP	2023	What Did You Eat Yesterday? Season 2
+DR000631	JP	2021	What Did You Eat Yesterday? The Movie
+
+DR000634	JP	2021	A Man Who Defies the World of BL
+DR000635	JP	2022	A Man Who Defies the World of BL 2
+DR000636	JP	2024	A Man Who Defies the World of BL 2024
+DR000637	JP	2025	A Man Who Defies the World of BL Final
+DR000638	JP	2021	Given
+DR000639	JP	2021	My Love Mix-Up!
+DR000640	JP	2021	My Beautiful Man
+DR000641	JP	2023	My Beautiful Man Season 2
+DR000642	JP	2023	My Beautiful Man: Eternal
+
+DR000643	JP	2022	Minato's Laundromat
+DR000644	JP	2023	Minato's Laundromat 2
+DR000645	JP	2022	I Just Want to See You
+DR000646	JP	2022	Kei × Yaku: Dangerous Partners
+DR000647	JP	2022	We're Both Grooms
+DR000648	JP	2022	Mr. Unlucky Has No Choice But to Kiss!
+DR000649	JP	2022	Fudanshi Bartender
+DR000650	JP	2022	Old Fashion Cupcake
+DR000651	JP	2022	Senpai, This Can't Be Love!
+DR000652	JP	2022	Takara-kun & Amagi-kun
+DR000653	JP	2022	Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized
+DR000654	JP	2022	Eternal Yesterday
+DR000655	JP	2022	Candy Color Paradox
+DR000656	JP	2022	More Than Words
+DR000657	JP	2022	The 8.2 Second Rule
+
+DR000658	JP	2022	Shimbashi Koi Story
+DR000659	JP	2022	Shimbashi Koi Story 2
+DR000660	JP	2023	Shimbashi Koi Story – Final Chapter
+DR000661	JP	2023	I Became the Main Role of a BL Drama
+DR000662	JP	2025	I Became the Main Role of a BL Drama 2
+
+DR000663	JP	2023	The End of the World With You
+DR000664	JP	2023	Jack o' Frost
+DR000665	JP	2023	Blue Sky Complex
+DR000666	JP	2023	Our Dining Table
+DR000667	JP	2023	Naked Dining
+DR000668	JP	2023	Tokyo in April Is...
+DR000669	JP	2023	My Personal Weatherman
+DR000670	JP	2023	I Cannot Reach You
+DR000671	JP	2023	If It's With You
+DR000672	JP	2023	One Room Angel
+DR000673	JP	2023	Mr. Sahara & Toki-kun
+DR000674	JP	2023	Me, My Husband & My Husband's Boyfriend
+DR000675	JP	2023	Polyethylene Terephthalate
+
+DR000676	JP	2024	Perfect Propose
+DR000677	JP	2024	Although I Love You, and You?
+DR000678	JP	2024	Don't Care for an Old Man's Underwear
+DR000679	JP	2024	My Strawberry Film
+DR000680	JP	2024	Love Is Better the Second Time Around t1
+DR000681	JP	2026	Love Is Better the Second Time Around t2
+DR000682	JP	2024	Living With Him
+DR000683	JP	2024	At 25:00 in Akasaka t1
+DR000684	JP	2025	At 25:00 in Akasaka t2
+DR000685	JP	2024	Cosmetic Playlover t1
+DR000686	JP	2026	Cosmetic Playlover t2
+DR000687	JP	2024	Chastity High
+DR000688	JP	2024	Takara's Treasure
+DR000689	JP	2024	Mr. Mitsuya's Planned Feeding
+DR000690	JP	2017	I Hear the Sunspot 
+DR000691	JP	2024	I Hear the Sunspot 
+DR000692	JP	2024	Happy of the End
+DR000693	JP	2024	Sugar Dog Life
+DR000694	JP	2024	Smells Like Green Spirit
+DR000695	JP	2024	Love Is a Poison
+DR000696	JP	2024	Love in the Air: Premonition of Love
+DR000697	JP	2024	Our Youth
+
+DR000698	TH	2024	Love Sea
+DR000699	JP	2025	Love Sea: The Home for Lovers
+
+DR000700	JP	2025	When It Rains, It Pours
+DR000701	JP	2025	Depth of Field
+DR000702	JP	2025	The Proper Way to Write Love
+DR000703	JP	2025	Stay By My Side After the Rain
+DR000704	JP	2025	The Journey to Killing You
+DR000705	JP	2025	Punks Triangle
+DR000706	JP	2025	School Trip: Joined a Group I'm Not Close To
+DR000707	JP	2025	Chosen Home
+DR000708	JP	2025	Love Begins in the World of If
+DR000709	JP	2025	10DANCE
+
+DR000710	JP	2026	When It Rains, It Pours: Mellow Rain 2
+DR000711	JP	2026	The Proper Way to Write Love Season 2
+DR000712	JP	2026	The Journey to Killing You Season 2
+DR000713	JP	2026	School Trip: Joined a Group I'm Not Close To Season 2
+
+
+DR000714	JP	2007	Takumi-kun Series: Soshite Harukaze ni Sasayaite
+DR000715	JP	2009	Takumi-kun Series 2: Niji-iro no Garasu
+DR000716	JP	2010	Takumi-kun Series 3: Bibō no Detail
+DR000717	JP	2010	Takumi-kun Series 4: Pure
+DR000718	JP	2011	Takumi-kun Series 5: Ano, Hareta Aozora
+DR000719	JP	2023	Takumi-kun Series: The Dawn of the Long Tales
+DR000720	JP	2025	Takumi-kun Series -Drama-
+
+DR000721	JP	2025	Therapy Game
+
+DR000722	JP	2026	I'm Kishi Knight: Your Private Tutor
+DR000723	JP	2026	Contrast
+DR000724	JP	2026	Countdown to Yes
+DR000725	JP	2026	The Boy Next World: My Destiny
+DR000726	JP	2026	Soul Mate
+DR000727	JP	2026	Life in Smokey Blue
+DR000728	JP	2026	Fake Fact Lips
+DR000729	JP	2026	Unexpectedly Naughty Fukami
+DR000730	JP	2026	The Boy and I Who Will Break Up in 100 Days
+DR000731	JP	2026	Ordinary Love
+DR000732	JP	2026	The Servant Prince
+DR000733	JP	2026	Are the Sexy Buttocks Not Good?
+DR000734	JP	2026	My Summer of You
+DR000735	JP	2026	Your Summer, My Storm
+DR000736	JP	2026	After Moving Seats, the Boy Behind Me Has a Crush on Me
+DR000737	JP	2026	Duty First, Kiss Later
+DR000738	JP	2026	Hold on, Harutora-kun
+DR000739	JP	2026	Love Punch!
 
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
