@@ -109,4 +109,37 @@ const FRANQUICIAS = [
     descripcion:'Franquicia japonesa basada en el manga de Fumi Yoshinaga y centrada en la vida cotidiana de la pareja formada por Shiro Kakei y Kenji Yabuki. Incluye las temporadas televisivas, el especial de Año Nuevo de 2020 y la película de 2021.',
     activo:true
 },
+
+{
+    codigo:'FR000038',
+    nombre:'Cherry Magic!',
+    pais:'JP',
+    multimedia:{
+        portada:''
+    },
+    descripcion:'Franquicia japonesa basada en el manga de Yuu Toyota y formada por la serie Cherry Magic! (2020), sus dos especiales spin-off de 2020 y la película Cherry Magic! The Movie (2022).',
+    activo:true
+},
+
+{
+    codigo:'FR000039',
+    nombre:'The Reason Why He Fell in Love with Me',
+    pais:'JP',
+    multimedia:{
+        portada:''
+    },
+    descripcion:'Franquicia japonesa formada por la serie The Reason Why He Fell in Love with Me (2020), su Drama Special de 2020 y la segunda temporada The Reason Why He Fell in Love with Me Season 2 (2021).',
+    activo:true
+},
+   
+{
+    codigo:'FR000040',
+    nombre:'My Beautiful Man',
+    pais:'JP',
+    multimedia:{
+        portada:''
+    },
+    descripcion:'Franquicia japonesa basada en las novelas de Yuu Nagira y formada por las dos temporadas televisivas de My Beautiful Man y la película My Beautiful Man: Eternal, que continúa la historia de Hira Kazunari y Kiyoi Sou.',
+    activo:true
+}
 ];
