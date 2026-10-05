@@ -168,12 +168,5 @@ const FRANQUICIAS = [
     descripcion:'Franquicia centrada en la continuidad de My Bromance y sus producciones relacionadas.',
     activo:true
 },
-   {
-    codigo:'FR000044',
-    nombre:'2 Moons',
-    pais:['TH'],
-    tipo:'Franquicia',
-    descripcion:'Franquicia basada en la adaptación de la saga Moon Courting Moon, compuesta por 2 Moons, 2 Moons 2 y 2 Moons: The Ambassadors.',
-    activo:true
-},
+
 ];
