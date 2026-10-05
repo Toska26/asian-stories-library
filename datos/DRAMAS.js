@@ -1104,6 +1104,18 @@ const DRAMAS = [
     especiales: [
         { titulo: 'SOTUS: Very Special EP', fecha: '2017-01-14' }
     ],
+	especiales:[
+    { titulo: 'SOTUS: Very Special EP', fecha: '2017-01-14' },
+	{
+        titulo:'Our Skyy — SOTUS',
+        tituloOriginal:'Our Skyy',
+        alias:['Our Skyy: Arthit & Kongpob'],
+        tipo:'Especial',
+        anio:2018,
+        episodios:1,
+        estreno:'2018-12-21'
+    }
+],
     activo: true
 },
 /* ========================================== SOTUS S ===================================================== */
@@ -1578,6 +1590,17 @@ const DRAMAS = [
         { codigo: 'EN000006', funcion: ['Emisora'] },
         { codigo: 'EN000022', funcion: ['Plataforma'] }
     ],
+	especiales:[
+    {
+        titulo:'Our Skyy — Kiss Me Again',
+        tituloOriginal:'Our Skyy',
+        alias:['Our Skyy: Pete & Kao'],
+        tipo:'Especial',
+        anio:2018,
+        episodios:1,
+        estreno:'2018-12-14'
+    }
+],
     activo: true
 },
 /* ========================================== Dark Blue Kiss ========================================== */
@@ -5612,7 +5635,17 @@ entidades:[
     {codigo:'EN000014',funcion:['Emisora']},
     {codigo:'EN000022',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy — Puppy Honey',
+        tituloOriginal:'Our Skyy',
+        alias:['Our Skyy: Pick & Rome'],
+        tipo:'Especial',
+        anio:2018,
+        episodios:1,
+        estreno:'2018-11-23'
+    }
+],
 activo:true
 },
 	/* ==========================================   SENIOR SECRET LOVE: PUPPY HONEY 2 — DR000096   ========================================== */
@@ -36039,6 +36072,673 @@ activo:true
     },
     entidades:[],
     especiales:[],
+    activo:true
+},
+	/* =============== 2 Moons — DR000759 =================== */
+
+{
+    codigo:'DR000759',
+    titulo:'2 Moons',
+    tituloOriginal:'เดือนเกี้ยวเดือน',
+    alias:['2 Moons: The Series','2Moons','2 Moons The Series'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000759',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2017-05-07',
+    finalizacion:'2017-07-23',
+    generos:['BL','Romance','Drama','Comedia','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Phana','Wayo']},
+        {personajes:['Ming','Kit']}
+    ],
+    sinopsis:'Wayo comienza sus estudios universitarios en la misma universidad que Phana, el chico del que lleva años enamorado. Cuando Wayo es elegido como la Luna de su facultad, debe trabajar junto a Phana, que fue la Luna de Medicina el año anterior y supervisa a los nuevos participantes. Mientras ambos se acercan, Ming, el mejor amigo de Wayo, comienza a cortejar a Kit, el mejor amigo de Phana.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== 2 Moons 2 — DR000760 =================== */
+
+{
+    codigo:'DR000760',
+    titulo:'2 Moons 2',
+    tituloOriginal:'เดือนเกี้ยวเดือน 2',
+    alias:['2 Moons 2: The Series','2Moons2','2 Moons 2'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000759',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:2,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2019-06-29',
+    finalizacion:'2019-09-14',
+    generos:['BL','Romance','Drama','Comedia','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Phana','Wayo']},
+        {personajes:['Ming','Kit']},
+        {personajes:['Forth','Beam']}
+    ],
+    sinopsis:'Wayo vuelve a encontrarse con Phana en la universidad y ambos continúan desarrollando su relación. La primera parte de la temporada vuelve a contar los acontecimientos principales de 2 Moons con un reparto nuevo, mientras que los episodios posteriores continúan la historia. Paralelamente, Ming profundiza su relación con Kit y Forth comienza a desarrollar una relación romántica con Beam.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== 2 Moons: The Ambassador — DR000761 =================== */
+
+{
+    codigo:'DR000761',
+    titulo:'2 Moons: The Ambassador',
+    tituloOriginal:'เดือนเกี้ยวเดือน',
+    alias:['2 Moons 3','2Moons 3: The Ambassador','2 Moons: The Ambassador The Series','2Moons: The Ambassador'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000759',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:3,
+    episodios:12,
+    duracion:42,
+    estado:'Finalizado',
+    estreno:'2022-10-10',
+    finalizacion:'2022-12-26',
+    generos:['BL','Romance','Drama','Comedia','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Phana','Wayo']},
+        {personajes:['Ming','Kit']},
+        {personajes:['Forth','Beam']},
+        {personajes:['Lomnaw','Tarntatch']}
+    ],
+    sinopsis:'La historia continúa después de los acontecimientos de 2 Moons 2. Phana y Wayo deben afrontar las consecuencias de la publicación de fotografías y vídeos de Wayo, mientras Ming y Kit y Forth y Beam continúan desarrollando sus relaciones. Paralelamente, Lomnaw, primo de Phana y estudiante de Agronomía, conoce a Tarntatch, un estudiante que podría haber representado a su facultad en el concurso de la Luna. Su rivalidad inicial evoluciona gradualmente hacia una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Water Boyy: The Series — DR000762 =================== */
+
+{
+    codigo:'DR000762',
+    titulo:'Water Boyy: The Series',
+    tituloOriginal:'รักใสใส..วัยรุ่นชอบ',
+    alias:['Waterboyy The Series','Water Boyy','Water Boyy 2017'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+	origen: {
+	    tipo:'Película',
+	    relacion:'Adaptación',
+	    titulo:'Water Boyy',
+	    tituloOriginal:'Water Boyy',
+	    autor:null,
+	    pais:'TH'
+	},
+    episodios:14,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2017-04-09',
+    finalizacion:'2017-07-09',
+    generos:['BL','Romance','Drama','Deportes','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Waii','Apo']},
+        {personajes:['Fah','Pan']}
+    ],
+    sinopsis:'Waii es el capitán del club de natación de Ocean College y mantiene una relación complicada con su padre, que además es el entrenador del equipo. La llegada de Apo, un nuevo integrante del club, cambia poco a poco la vida de Waii y hace que ambos desarrollen sentimientos románticos. Al mismo tiempo, Fah y Pan viven su propia historia de amor mientras el equipo lucha por mantener unido el club de natación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== My Dear Loser: Edge of 17 — DR000763 =================== */
+
+{
+    codigo:'DR000763',
+    titulo:'My Dear Loser: Edge of 17',
+    tituloOriginal:'My Dear Loser รักไม่เอาถ่าน ตอน Edge of 17',
+    alias:['Edge of 17','My Dear Loser: Edge of 17'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000763',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:1,
+    episodios:9,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2017-07-09',
+    finalizacion:'2017-09-03',
+    generos:['Romance','Drama','Comedia','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Oh','Peach']},
+        {personajes:['In','Sun']}
+    ],
+    sinopsis:'Oh es un estudiante de instituto inseguro que está enamorado de Peach, una chica popular del colegio. Su vida cambia cuando conoce a Sun, un nuevo alumno que se convierte en su amigo, mientras In, uno de los compañeros de Oh, empieza a desarrollar sentimientos por Sun. La historia sigue los conflictos sentimentales y escolares de los jóvenes durante su último año de instituto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+especiales:[
+    {
+        titulo:'Our Skyy — Edge of 17',
+        tituloOriginal:'Our Skyy',
+        alias:['Our Skyy: In & Sun'],
+        tipo:'Especial',
+        anio:2018,
+        episodios:1,
+        estreno:'2018-11-30'
+    }
+],
+    activo:true
+},
+
+/* =============== My Dear Loser: Monster Romance — DR000764 =================== */
+
+{
+    codigo:'DR000764',
+    titulo:'My Dear Loser: Monster Romance',
+    tituloOriginal:'My Dear Loser รักไม่เอาถ่าน ตอน Monster Romance',
+    alias:['Monster Romance','My Dear Loser: Monster Romance'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000763',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:2,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2017-09-10',
+    finalizacion:'2017-12-17',
+    generos:['Romance','Drama','Comedia','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Pong','Namking']}
+    ],
+    sinopsis:'Pong es un estudiante universitario que todavía arrastra las inseguridades de su adolescencia y tiene dificultades para relacionarse con los demás. Su vida cambia cuando conoce a Namking, una joven con una personalidad fuerte y muy diferente a la suya. Mientras intentan superar sus diferencias, ambos descubren que la atracción puede surgir entre personas aparentemente incompatibles.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== My Dear Loser: Happy Ever After — DR000765 =================== */
+
+{
+    codigo:'DR000765',
+    titulo:'My Dear Loser: Happy Ever After',
+    tituloOriginal:'My Dear Loser รักไม่เอาถ่าน ตอน Happy Ever After',
+    alias:['Happy Ever After','My Dear Loser: Happy Ever After'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000763',
+    remake:null,
+    origen:null,
+    temporadas:3,
+    temporada:3,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2017-12-24',
+    finalizacion:'2018-03-11',
+    generos:['Romance','Drama','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Ton','Koya']}
+    ],
+    sinopsis:'Ton y Koya llevan una vida matrimonial que parece haber alcanzado la felicidad, pero su relación comienza a deteriorarse hasta el punto de decidir divorciarse. A pesar de la separación, los sentimientos que todavía existen entre ambos hacen que tengan que enfrentarse a los motivos que llevaron a su ruptura y decidir si pueden recuperar su relación y encontrar finalmente su propio final feliz.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Bangkok G Story — DR000766 =================== */
+
+{
+    codigo:'DR000766',
+    titulo:'Bangkok G Story',
+    tituloOriginal:'Bangkok G Story',
+    alias:['Bangkok G Story ซีรี่ส์'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:20,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2017-12-09',
+    finalizacion:'2018-09-08',
+    generos:['LGBTQ+','Romance','Comedia','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['G','M']},
+        {personajes:['T','B']}
+    ],
+    sinopsis:'G se muda a Bangkok con la intención de encontrar un novio y comenzar una nueva vida. Allí comparte sus aventuras con T y B, dos amigos homosexuales con personalidades y formas de relacionarse muy diferentes. Mientras G busca una relación estable, T mantiene una vida sentimental y sexual mucho más complicada, y B intenta conseguir la vida que desea. La llegada de nuevos personajes y relaciones hace que los tres amigos tengan que enfrentarse al amor, los celos, la confianza y las consecuencias de sus decisiones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Bangkok G Story: Samet Island',
+            tituloOriginal:null,
+            alias:['Samet Island'],
+            tipo:'Especial',
+            anio:2019,
+            episodios:3,
+            estreno:'2019-04-02'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Slam Dance — DR000767 =================== */
+
+{
+    codigo:'DR000767',
+    titulo:'Slam Dance',
+    tituloOriginal:'ทุ่มฝันสนั่นฟลอร์',
+    alias:['Slam Dance: The Series'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2017-05-13',
+    finalizacion:'2017-08-05',
+    generos:['Romance','Drama','Deportes','Juvenil','LGBTQ+'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Nick','Pob']}
+    ],
+    sinopsis:'En una universidad deportiva, los estudiantes de danza deportiva y los de lucha libre se convierten en rivales cuando ambas disciplinas compiten por mantener sus respectivos departamentos. Mientras los equipos afrontan entrenamientos, competiciones y conflictos personales, los nuevos luchadores Pob y Nick comienzan a desarrollar sentimientos el uno por el otro, a pesar de las estrictas reglas de su disciplina que prohíben las relaciones entre compañeros.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Choose — DR000768 =================== */
+
+{
+    codigo:'DR000768',
+    titulo:'Choose',
+    tituloOriginal:'Choose',
+    alias:['Choose The Series'],
+    pais:['TH'],
+    anio:2017,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:12,
+    estado:'Finalizado',
+    estreno:'2017-03-06',
+    finalizacion:'2017-03-20',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Ton','Tawan']}
+    ],
+    sinopsis:'Ton y Tawan son una pareja que se quiere profundamente, pero su relación empieza a tambalearse cuando Ton contrata a una nueva secretaria que parece ser su pareja perfecta. Tawan comienza a distanciarse y a comportarse con frialdad, poniendo a prueba los sentimientos y la confianza que existen entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== My Dream — DR000769 =================== */
+
+{
+    codigo:'DR000769',
+    titulo:'My Dream',
+    tituloOriginal:'นายในฝัน The Series',
+    alias:['My Dream The Series'],
+    pais:['TH'],
+    anio:2018,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:40,
+    estado:'Finalizado',
+    estreno:'2018-10-10',
+    finalizacion:'2018-12-26',
+    generos:['BL','Romance','Fantasía','Sobrenatural','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Runway','Dream']},
+        {personajes:['Tanai','Guide']},
+        {personajes:['Dr. Good','Elle']},
+        {personajes:['Yim','Asawin']}
+    ],
+    sinopsis:'Runway, un estudiante de secundaria que sufre pesadillas desde la muerte de su padre, comienza a tener sueños agradables después de colgar en su habitación el antiguo atrapasueños de su padre. En esos sueños conoce a Dream, un misterioso joven que poco a poco se convierte en alguien muy importante para él. Al mismo tiempo, en el mundo real, su vecino Tanai le pide salir, haciendo que Runway se encuentre dividido entre sus sentimientos por Dream y lo que ocurre en su vida cotidiana. Paralelamente, sus amigos y sus propios problemas sentimentales se entrelazan con una historia sobrenatural relacionada con el mundo de los sueños.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Roop Thong — DR000770 =================== */
+
+{
+    codigo:'DR000770',
+    titulo:'Roop Thong',
+    tituloOriginal:'รูปทอง',
+    alias:['Gold','Golden','Rup Thong'],
+    pais:['TH'],
+    anio:2018,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:18,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2018-04-30',
+    finalizacion:'2018-06-26',
+    generos:['Drama','Romance','BL','LGBTQ+'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Seua','Lahb']}
+    ],
+    sinopsis:'Moo y Seua son dos hermanos que fueron separados durante años después del divorcio de sus padres. Tras la muerte de su padre, Moo regresa a la familia de su madre, donde comienza a descubrir los secretos y conflictos que han marcado la vida de su hermano Seua. Seua es considerado el hijo perfecto y mantiene una relación con Riawkhao, pero desde hace tiempo siente una atracción por los hombres que intenta reprimir por miedo al rechazo de su familia. Su relación con su mejor amigo Lahb se transforma en un romance que entra en conflicto con las expectativas familiares y con el matrimonio que su madre pretende imponerle.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== 'Cause You're My Boy / My Tee — DR000771 =================== */
+
+{
+    codigo:'DR000771',
+    titulo:"'Cause You're My Boy",
+    tituloOriginal:'อาตี๋ของผม',
+    alias:['My Tee','My Tee: The Series',"Cause You're My Boy"],
+    pais:['TH'],
+    anio:2018,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela gráfica',
+        relacion:'Adaptación',
+        titulo:"'Cause You're My Boy",
+        tituloOriginal:'อาตี๋ของผม',
+        autor:'CaffeineDekD',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2018-06-23',
+    finalizacion:'2018-09-22',
+    generos:['BL','Romance','Comedia','Drama','Escolar'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Mork','Tee']},
+        {personajes:['Gord','Morn']}
+    ],
+    sinopsis:'Mork es un estudiante de secundaria travieso que ayuda a su padre en una barbería. Después de arruinar accidentalmente el corte de pelo de Tee, ambos comienzan una serie de bromas y enfrentamientos. Cuando Tee pierde a su novia Bambie a causa de un malentendido, le pide a Mork que finja ser su novio para ponerla celosa. Lo que comienza como una relación falsa acaba convirtiéndose en sentimientos reales entre ambos. Mientras tanto, Gord, el mejor amigo de Morn, comienza a revelar sus propios sentimientos hacia él.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+    {
+        titulo:"'Cause You're My Boy — Our Skyy",
+        tituloOriginal:'Our Skyy',
+        alias:['Our Skyy: Mork & Tee'],
+        tipo:'Especial',
+        anio:2018,
+        episodios:1,
+        estreno:'2018-12-07'
+    }
+],
+    activo:true
+},
+	{
+    codigo:'DR000772',
+    titulo:'Our Skyy',
+    tituloOriginal:'Our Skyy',
+    alias:[],
+    pais:['TH'],
+    anio:2018,
+    tipo:'Antología',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2018-11-23',
+    finalizacion:'2018-12-21',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[],
+    sinopsis:'...',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+	episodiosRelacionados:[
+    {
+        episodio:1,
+        drama:'DR000095',
+        titulo:'Our Skyy — Puppy Honey',
+        personajes:['Pick','Rome']
+    },
+    {
+        episodio:2,
+        drama:'DR000763',
+        titulo:'Our Skyy — Edge of 17',
+        personajes:['In','Sun']
+    },
+    {
+        episodio:3,
+        drama:'DR000771',
+        titulo:"'Cause You're My Boy — Our Skyy",
+        personajes:['Mork','Tee']
+    },
+    {
+        episodio:4,
+        drama:'DR000027',
+        titulo:'Our Skyy — Kiss Me Again',
+        personajes:['Pete','Kao']
+    },
+    {
+        episodio:5,
+        drama:'DR000020',
+        titulo:'Our Skyy — SOTUS',
+        personajes:['Arthit','Kongpob']
+    }
+],
     activo:true
 },
 ];
