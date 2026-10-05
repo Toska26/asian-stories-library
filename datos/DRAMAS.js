@@ -29633,7 +29633,7 @@ activo:true
     codigo:'DR000621',
     titulo:"Ossan's Love The Movie: Love or Dead",
     tituloOriginal:'劇場版おっさんずラブ ～LOVE or DEAD～',
-    alias:['Ossan's Love: Love or Dead','Gekijoban Ossan's Love: Love or Dead'],
+    alias:['Ossan\'s Love: Love or Dead','Gekijoban Ossan\'s Love: Love or Dead'],
     pais:['JP'],
     anio:2019,
     tipo:'Película',
@@ -29807,10 +29807,10 @@ activo:true
 
 {
     codigo:'DR000627',
-    titulo:"Cherry Magic! Valentine's Day & Rokkaku Arc",
+    titulo:"Cherry Magic! Valentine\'s Day & Rokkaku Arc",
     tituloOriginal:'30歳まで童貞だと魔法使いになれるらしい スピンオフ バレンタイン編＆六角編',
     alias:[
-        "Cherry Magic! Spin-off: Valentine's Day & Rokkaku Arc",
+        "Cherry Magic! Spin-off: Valentine\'s Day & Rokkaku Arc",
         'Cherry Magic! Valentine Arc & Rokkaku Arc'
     ],
     pais:['JP'],
@@ -30746,7 +30746,7 @@ activo:true
 	/* =============== MINATO'S LAUNDROMAT — DR000643 =================== */
 {
     codigo:'DR000643',
-    titulo:"Minato's Laundromat",
+    titulo:"Minato\'s Laundromat",
     tituloOriginal:'みなと商事コインランドリー',
     alias:['Minato Shouji Coin Laundry','Minato Shōji Coin Laundry'],
     pais:['JP'],
@@ -30788,7 +30788,7 @@ activo:true
 /* =============== MINATO'S LAUNDROMAT 2 — DR000644 =================== */
 {
     codigo:'DR000644',
-    titulo:"Minato's Laundromat 2",
+    titulo:"Minato\'s Laundromat 2",
     tituloOriginal:'みなと商事コインランドリー2',
     alias:['Minato Shouji Coin Laundry 2','Minato Shōji Coin Laundry 2'],
     pais:['JP'],
@@ -32041,9 +32041,9 @@ activo:true
 /* =============== IF IT'S WITH YOU — DR000671 =================== */
 {
     codigo:'DR000671',
-    titulo:"If It's With You",
+    titulo:"If It\'s With You",
     tituloOriginal:'君となら恋をしてみても',
-    alias:['Kimi to Nara Koi o Shite Mite mo','If It's You, I Might Try Falling in Love'],
+    alias:['Kimi to Nara Koi o Shite Mite mo','If It\'s You, I Might Try Falling in Love'],
     pais:['JP'],
     anio:2023,
     tipo:'Drama',
@@ -32054,7 +32054,7 @@ activo:true
     origen:{
         tipo:'Manga',
         relacion:'Adaptación',
-        titulo:"If It's With You, I Might Try Falling in Love",
+        titulo:"If It\'s With You, I Might Try Falling in Love",
         tituloOriginal:'君となら恋をしてみても',
         autor:'Maru Kubota',
         pais:'JP'
@@ -32185,7 +32185,7 @@ activo:true
 /* =============== ME, MY HUSBAND & MY HUSBAND'S BOYFRIEND — DR000674 =================== */
 {
     codigo:'DR000674',
-    titulo:"Me, My Husband & My Husband's Boyfriend",
+    titulo:"Me, My Husband & My Husband\'s Boyfriend",
     tituloOriginal:'私と夫と夫の彼氏',
     alias:['Watashi to Otto to Otto no Kareshi'],
     pais:['JP'],
@@ -32198,7 +32198,7 @@ activo:true
     origen:{
         tipo:'Manga',
         relacion:'Adaptación',
-        titulo:"Me, My Husband & My Husband's Boyfriend",
+        titulo:"Me, My Husband & My Husband\'s Boyfriend",
         tituloOriginal:'私と夫と夫の彼氏',
         autor:'Ayano Ayano',
         pais:'JP'
@@ -32380,9 +32380,9 @@ activo:true
 /* =============== DON'T CARE FOR AN OLD MAN'S UNDERWEAR — DR000678 =================== */
 {
     codigo:'DR000678',
-    titulo:"Don't Care for an Old Man's Underwear",
+    titulo:"Don't Care for an Old Man\'s Underwear",
     tituloOriginal:'おっさんのパンツがなんだっていいじゃないか！',
-    alias:["Don't Care for an Old Man's Underwear!"],
+    alias:["Don't Care for an Old Man\'s Underwear!"],
     pais:['JP'],
     anio:2024,
     tipo:'Drama',
@@ -32393,7 +32393,7 @@ activo:true
     origen:{
         tipo:'Manga',
         relacion:'Adaptación',
-        titulo:"Don't Care for an Old Man's Underwear",
+        titulo:"Don't Care for an Old Man\'s Underwear",
         tituloOriginal:'おっさんのパンツがなんだっていいじゃないか！',
         autor:'Nerima Zim',
         pais:'JP'
@@ -32854,7 +32854,7 @@ activo:true
 /* =============== TAKARA'S TREASURE — DR000688 =================== */
 {
     codigo:'DR000688',
-    titulo:"Takara's Treasure",
+    titulo:"Takara\'s Treasure",
     tituloOriginal:'タカラのびいどろ',
     alias:['Takara no Bīdoro'],
     pais:['JP'],
@@ -32867,7 +32867,7 @@ activo:true
     origen:{
         tipo:'Manga',
         relacion:'Adaptación',
-        titulo:"Takara's Treasure",
+        titulo:"Takara\'s Treasure",
         tituloOriginal:'タカラのびいどろ',
         autor:'Minta Suzumaru',
         pais:'JP'
@@ -32897,7 +32897,7 @@ activo:true
     entidades:[],
     especiales:[
         {
-            titulo:"Takara's Treasure: Taishin Turns 20",
+            titulo:"Takara\'s Treasure: Taishin Turns 20",
             tituloOriginal:'大進、ハタチになる',
             alias:[],
             tipo:'Spin-off',
@@ -32912,7 +32912,7 @@ activo:true
 /* =============== MR. MITSUYA'S PLANNED FEEDING — DR000689 =================== */
 {
     codigo:'DR000689',
-    titulo:"Mr. Mitsuya's Planned Feeding",
+    titulo:"Mr. Mitsuya\'s Planned Feeding",
     tituloOriginal:'三ツ矢先生の計画的な餌付け。',
     alias:[],
     pais:['JP'],
@@ -32925,7 +32925,7 @@ activo:true
     origen:{
         tipo:'Manga',
         relacion:'Adaptación',
-        titulo:"Mr. Mitsuya's Planned Feeding",
+        titulo:"Mr. Mitsuya\'s Planned Feeding",
         tituloOriginal:'三ツ矢先生の計画的な餌付け。',
         autor:'Ayaka Matsumoto',
         pais:'JP'
