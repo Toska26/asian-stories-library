@@ -36696,7 +36696,7 @@ especiales:[
     tags:[],
     personas:[],
     ships:[],
-    sinopsis:'...',
+    sinopsis:'Antología de cinco historias especiales que retoman las relaciones de distintas series BL de GMMTV. Cada episodio continúa la historia de una pareja diferente: Pick y Rome de Puppy Honey, In y Sun de My Dear Loser: Edge of 17, Mork y Tee de \'Cause You\'re My Boy, Pete y Kao de Kiss Me Again, y Arthit y Kongpob de SOTUS.',
     multimedia:{
         portada:[],
         trailer:[],
@@ -36707,38 +36707,13 @@ especiales:[
     },
     entidades:[],
     especiales:[],
-	episodiosRelacionados:[
-    {
-        episodio:1,
-        drama:'DR000095',
-        titulo:'Our Skyy — Puppy Honey',
-        personajes:['Pick','Rome']
-    },
-    {
-        episodio:2,
-        drama:'DR000763',
-        titulo:'Our Skyy — Edge of 17',
-        personajes:['In','Sun']
-    },
-    {
-        episodio:3,
-        drama:'DR000771',
-        titulo:"'Cause You're My Boy — Our Skyy",
-        personajes:['Mork','Tee']
-    },
-    {
-        episodio:4,
-        drama:'DR000027',
-        titulo:'Our Skyy — Kiss Me Again',
-        personajes:['Pete','Kao']
-    },
-    {
-        episodio:5,
-        drama:'DR000020',
-        titulo:'Our Skyy — SOTUS',
-        personajes:['Arthit','Kongpob']
-    }
-],
+	relaciones:[
+	    {tipo:'Antología',drama:'DR000095',episodio:1},
+	    {tipo:'Antología',drama:'DR000763',episodio:2},
+	    {tipo:'Antología',drama:'DR000771',episodio:3},
+	    {tipo:'Antología',drama:'DR000027',episodio:4},
+	    {tipo:'Antología',drama:'DR000020',episodio:5}
+	],
     activo:true
 },
 ];
