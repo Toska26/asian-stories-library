@@ -29753,10 +29753,10 @@ activo:true
     activo:true
 },
 
-/* =============== CHERRY MAGIC! THIRTY YEARS OF VIRGINITY CAN MAKE YOU A WIZARD?! — DR000622 =================== */
+/* =============== CHERRY MAGIC! 30 OF VIRGINITY CAN MAKE YOU A WIZARD?! — DR000622 =================== */
 {
     codigo:'DR000622',
-    titulo:'Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!',
+    titulo:'Cherry Magic! 30 of Virginity Can Make You a Wizard?!',
     tituloOriginal:'30歳まで童貞だと魔法使いになれるらしい',
     alias:[
         'Cherry Magic!',
