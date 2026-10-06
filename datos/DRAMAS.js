@@ -104,7 +104,34 @@ const DRAMAS = [
         { codigo: 'EN000005', funcion: ['Productora'] },
         { codigo: 'EN000006', funcion: ['Emisora'] },
         { codigo: 'EN000022', funcion: ['Plataforma'] }
-    ]
+    ],
+	especiales:[
+    {
+        titulo:'Play2gether',
+        tituloOriginal:'Play2gether',
+        alias:[
+            'Play 2gether',
+            '2gether Play2gether'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:4,
+        estreno:'2020-05-25'
+    },
+    {
+        titulo:'2gether: Behind the Scenes',
+        tituloOriginal:'2gether: Behind the Scenes',
+        alias:[
+            '2gether Behind the Scenes',
+            '2gether BTS',
+            'Behind the Scenes Episode 10'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:1,
+        estreno:'2020-04-27'
+    }
+]
 },
 /* ========================================== Still 2gether ========================================== */
 {
@@ -149,7 +176,21 @@ const DRAMAS = [
         { ship: 'SH000004', personajes: ['Phukong', 'Mil'] }
     ],
     sinopsis: 'Después de convertirse en pareja, Sarawat y Tine afrontan nuevos retos en su relación mientras sus amigos también continúan desarrollando sus propias historias de amor.',
-    activo: true,
+    especiales:[
+    {
+        titulo:'Still 2gether: Behind the Scenes',
+        tituloOriginal:'Still 2gether: Behind the Scenes',
+        alias:[
+            'Still 2gether Behind the Scenes',
+            'Still 2gether BTS'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:1,
+        estreno:null
+    }
+],
+	activo: true,
     entidades: [
         { codigo: 'EN000004', funcion: ['Productora'] },
         { codigo: 'EN000006', funcion: ['Emisora'] },
@@ -1397,10 +1438,35 @@ const DRAMAS = [
         { codigo: 'EN000014', funcion: ['Emisora'] },
         { codigo: 'EN000022', funcion: ['Plataforma'] }
     ],
-    especiales: [
-        { titulo: 'TharnType Special: Our Final Love', fecha: '2020-01-19' }
-    ],
-    activo: true
+especiales:[
+    {
+        titulo:'Lhong\'s Story',
+        tituloOriginal:'Lhong\'s Story',
+        alias:[
+            'TharnType Special: Lhong\'s Story',
+            'Lhong Story',
+            'Episode 11.5'
+        ],
+        tipo:'Especial',
+        anio:2019,
+        episodios:1,
+        estreno:'2019-12-23'
+    },
+    {
+        titulo:'Our Final Love',
+        tituloOriginal:'Our Final Love',
+        alias:[
+            'TharnType Special: Our Final Love',
+            'TharnType Special',
+            'รักสุดท้ายของเรา'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:1,
+        estreno:'2020-01-19'
+    }
+],
+   activo: true
 },
 /* ========================================== TharnType 2: 7 Years of Love    ===================================================== */
 {
@@ -1470,9 +1536,21 @@ const DRAMAS = [
         { codigo: 'EN000024', funcion: ['Plataforma'] },
         { codigo: 'EN000028', funcion: ['Plataforma'] }
     ],
-    especiales: [
-        { titulo: 'Episode 13', fecha: '2021-02-13' }
-    ],
+   especiales:[
+    {
+        titulo:'The Wedding Day',
+        tituloOriginal:'The Wedding Day',
+        alias:[
+            'TharnType 2 Special: The Wedding Day',
+            'TharnType Wedding Day Special',
+            'Wedding Day'
+        ],
+        tipo:'Especial',
+        anio:2021,
+        episodios:1,
+        estreno:'2021-02-13'
+    }
+],
     activo: true
 },  
 /* ========================================== Kiss: The Series ========================================== */
@@ -5832,7 +5910,21 @@ entidades:[
     {codigo:'EN000006',funcion:['Emisora']},
     {codigo:'EN000022',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Stand By Me',
+        tituloOriginal:'Stand By Me',
+        alias:[
+            'Theory of Love: Special Episode "Stand By Me"',
+            'Theory of Love Special Episode',
+            'Stand By Me Special'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:1,
+        estreno:'2020-10-28'
+    }
+],
 activo:true
 },
 
@@ -9164,7 +9256,20 @@ entidades:[
     {codigo:'EN000028', funcion:['Plataforma']},
     {codigo:'EN000025', funcion:['Plataforma']}
 ],
-especiales:[], 
+especiales:[
+    {
+        titulo:'SaifahZon Story',
+        tituloOriginal:'SaifahZon Story',
+        alias:[
+            'Why R U? SaifahZon Story',
+            'Saifah & Zon Story'
+        ],
+        tipo:'Especial',
+        anio:2020,
+        episodios:3,
+        estreno:'2020-12-03'
+    }
+],
 activo:true 
 },
 
@@ -36908,6 +37013,524 @@ especiales:[
             episodios:[13,14,15,16]
         }
     ],
+    especiales:[],
+    activo:true
+},
+/* =============== 2WISH — DR000775 =================== */
+{
+    codigo:'DR000775',
+    titulo:'2Wish',
+    tituloOriginal:'2Wish The Series',
+    alias:['2Wish The Series','2 Wish','Two Wish','2Wish Everlasting Love'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000042',orden:4},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:2,
+    duracion:'27 min',
+    estado:'Finalizado',
+    estreno:'2019-11-21',
+    finalizacion:'2019-11-24',
+    generos:['BL','Romance','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Two','Wish']}
+    ],
+    sinopsis:'Después de graduarse, Two y Wish comienzan a vivir juntos mientras afrontan su transición a la vida adulta. Two consigue un trabajo de oficina, mientras Wish sigue buscando empleo y se ocupa de las tareas domésticas. La llegada de Aoey, una popular influencer que trabaja con Two, provoca celos y pone a prueba la relación de la pareja.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THANK GOD IT'S FRIDAY — DR000776 =================== */
+{
+    codigo:'DR000776',
+    titulo:"Thank God It's Friday",
+    tituloOriginal:'ขอบคุณวันสุข',
+    alias:['TGIF'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000042',orden:5},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'52 min',
+    estado:'Finalizado',
+    estreno:'2019-08-24',
+    finalizacion:'2019-11-09',
+    generos:['BL','Romance','Drama','Juventud','Música'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Jump','Home']},
+        {personajes:['Yong','Por']},
+        {personajes:['Lun','Nana']}
+    ],
+    sinopsis:'El club de música del Friday College de Bangkok corre el riesgo de desaparecer después de un año sin buenos resultados. Para salvarlo, su presidente Jump decide que todos los miembros viajen durante las vacaciones al Friday College de Khon Kaen para entrenar y preparar una competición. Durante el viaje y la estancia en la nueva escuela surgen nuevas amistades y relaciones sentimentales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== HE'S COMING TO ME — DR000777 =================== */
+{
+    codigo:'DR000777',
+    titulo:"He's Coming to Me",
+    tituloOriginal:'เขามาเชงเม้งข้างๆหลุมผมครับ',
+    alias:['Come to Me'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'65 min',
+    estado:'Finalizado',
+    estreno:'2019-03-07',
+    finalizacion:'2019-04-25',
+    generos:['BL','Romance','Fantasía','Misterio','Comedia','Drama'],
+    tags:['Sobrenatural','Fantasmas','Universidad','Vida después de la muerte'],
+    personas:[],
+    ships:[
+        {personajes:['Med','Thun']}
+    ],
+    sinopsis:'Med es el espíritu de un joven que murió prematuramente y permanece ligado a su tumba. Durante el festival de Qingming conoce a Thun, un estudiante capaz de verlo. Ambos comienzan a investigar las circunstancias de la muerte de Med mientras su relación se transforma gradualmente en amor y descubren un vínculo que conecta sus vidas de una forma inesperada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE POISON — DR000778 =================== */
+{
+    codigo:'DR000778',
+    titulo:'Love Poison',
+    tituloOriginal:'ข่อยฮักเจ้า เรารักกัน',
+    alias:['Khaawy Hak Jao Rao Rak Gan','Love Poison: The Series'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000778',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:8,
+    duracion:'27 min',
+    estado:'Finalizado',
+    estreno:'2019-11-20',
+    finalizacion:'2019-12-12',
+    generos:['BL','Romance','Comedia','Drama','Juventud','Música'],
+    tags:['Instituto','Rural','Deporte','Fútbol','Primer amor','Música'],
+    personas:[],
+    ships:[
+        {personajes:['Ko','Teng']},
+        {personajes:['Sek','Tak']}
+    ],
+    sinopsis:'Ko es un estudiante de secundaria que se ha hecho popular en internet por sus vídeos musicales y está enamorado de Teng, un atractivo jugador de fútbol que lo considera solamente un amigo. Convencido de que necesita cambiar los sentimientos de Teng, Ko busca un supuesto veneno de amor. Mientras intenta acercarse a Teng a través del fútbol y la música, la relación entre ambos evoluciona de forma inesperada. Paralelamente, Tak está enamorado de Sek, el hermano mayor de Ko.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE POISON 2 — DR000779 =================== */
+{
+    codigo:'DR000779',
+    titulo:'Love Poison 2',
+    tituloOriginal:'ข่อยฮักเจ้า เรารักกัน 2',
+    alias:['Love Poison Season 2','Khaawy Hak Jao Rao Rak Gan 2'],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000778',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:8,
+    duracion:'40 min',
+    estado:'Finalizado',
+    estreno:'2021-03-29',
+    finalizacion:'2021-03-29',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Instituto','Rural','Comunidad','Música','Familia','Continuación'],
+    personas:[],
+    ships:[
+        {personajes:['Ko','Teng']},
+        {personajes:['Sek','Tak']}
+    ],
+    sinopsis:'Las historias de amor de Teng y Ko, y de Sek y Tak, continúan mientras afrontan nuevos obstáculos. La comunidad se prepara para una gran celebración en el templo destinada a recaudar fondos para construir una nueva iglesia, pero la desaparición del dinero provoca nuevos conflictos que pondrán a prueba las relaciones y la confianza entre las parejas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE BEST TWINS — DR000780 =================== */
+{
+    codigo:'DR000780',
+    titulo:'The Best Twins',
+    tituloOriginal:'รักจิ้น ฟินเฟร่อ',
+    alias:[],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'35 min',
+    estado:'Finalizado',
+    estreno:'2019-03-30',
+    finalizacion:'2019-05-18',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Gemelos','Familia','Instituto','Vecindad','Expareja'],
+    personas:[],
+    ships:[
+        {personajes:['Car','Ball']}
+    ],
+    sinopsis:'Los gemelos Per y Car son muy diferentes: Per es heterosexual, mientras que Car es gay y mantiene una relación con su vecino Ball. La situación familiar se complica cuando Pad, su hermana mayor, se opone a que Car tenga una relación con otro hombre y cuando Tee, el exnovio de Car, vuelve a aparecer en sus vidas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE EFFECT — DR000781 =================== */
+{
+    codigo:'DR000781',
+    titulo:'The Effect',
+    tituloOriginal:'โลกออนร้าย',
+    alias:['The Effect: โลกออนร้าย'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:3,
+    duracion:'57 min',
+    estado:'Finalizado',
+    estreno:'2019-10-11',
+    finalizacion:'2019-10-25',
+    generos:['BL','Romance','Drama','Psicológico'],
+    tags:['Universidad','Ciberacoso','Redes sociales','Trauma','Salud mental','Violencia sexual'],
+    personas:[],
+    ships:[
+        {personajes:['Shin','Keng']}
+    ],
+    sinopsis:'Shin es un estudiante universitario tímido y reservado que siente admiración por Keng, un estudiante mayor, popular y aparentemente perfecto. Cuando la relación entre ambos se convierte en objeto de comentarios y críticas en las redes sociales, la presión y el ciberacoso desencadenan una serie de acontecimientos que dejan profundas consecuencias en sus vidas y en su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+    {
+        titulo:'The Effect — Special 1',
+        tituloOriginal:null,
+        alias:['Special Episode 1'],
+        tipo:'Especial',
+        anio:2019,
+        episodios:1,
+        estreno:'2019-09-20'
+    },
+    {
+        titulo:'The Effect — Special 2',
+        tituloOriginal:null,
+        alias:['Special Episode 2'],
+        tipo:'Especial',
+        anio:2019,
+        episodios:1,
+        estreno:'2019-09-27'
+    },
+    {
+        titulo:'The Effect — Episode 0',
+        tituloOriginal:'The Effect',
+        alias:['Episode 0'],
+        tipo:'Especial',
+        anio:2019,
+        episodios:1,
+        estreno:'2019-10-04'
+    }
+],
+    activo:true
+},
+
+/* =============== WITH LOVE — DR000782 =================== */
+{
+    codigo:'DR000782',
+    titulo:'With Love',
+    tituloOriginal:'With Love The Series',
+    alias:['With Love The Series'],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2019-09-24',
+    finalizacion:'2019-11-12',
+    generos:['BL','Romance','Drama','Comedia','Juventud'],
+    tags:['Universidad','Residencia','Amistad','Primer amor','Vida cotidiana'],
+    personas:[],
+    ships:[],
+    sinopsis:'Un grupo de jóvenes universitarios comienza a compartir una residencia y a convivir mientras afronta los estudios, las amistades y sus primeras relaciones amorosas. A través de diferentes vínculos y situaciones cotidianas, la convivencia hace que los sentimientos entre varios de ellos evolucionen y que tengan que descubrir qué significa realmente amar y confiar en otra persona.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+	/* =============== 3 Will Be Free — DR000783 =================== */
+{
+    codigo:'DR000783',
+    titulo:'3 Will Be Free',
+    tituloOriginal:'สามเราต้องรอด',
+    alias:[
+        '3 Will Be Free: The Series',
+        'Three Will Be Free',
+        'สามเราต้องรอด'
+    ],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2019-08-09',
+    finalizacion:'2019-10-11',
+    generos:['Drama','Acción','Romance','Crimen','Thriller'],
+    tags:[
+        'Mafia',
+        'Crimen',
+        'Acción',
+        'Supervivencia',
+        'Trabajo sexual',
+        'Poliamor'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Neo','Miw','Shin']}
+    ],
+    sinopsis:'Neo, un stripper que huye de la organización criminal de Thana, se encuentra con Shin, el hijo de Thana, y Miw, la gerente de un bar go-go. Tras verse involucrados en un asesinato durante la huida, los tres se ven obligados a escapar juntos mientras afrontan la persecución de los criminales y los sentimientos que surgen entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== He She It — DR000784 =================== */
+{
+    codigo:'DR000784',
+    titulo:'He She It',
+    tituloOriginal:'ตาย ไม่ ตาย',
+    alias:[
+        'He, She, It',
+        'He She It: Chapter I, II, III'
+    ],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:3,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2019-10-31',
+    finalizacion:'2020-07-01',
+    generos:['BL','Romance','Drama','Terror','Sobrenatural'],
+    tags:[
+        'Sobrenatural',
+        'Terror',
+        'Fantasma',
+        'Instituto',
+        'Amor secreto',
+        'Tragedia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mike','Peem']}
+    ],
+    sinopsis:'Mike y Peem son dos amigos que mantienen en secreto una relación amorosa mientras Mike también mantiene una relación con Pear. Cuando su romance clandestino sale a la luz, una serie de acontecimientos trágicos y sobrenaturales cambia para siempre la vida de los personajes.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Blacklist — DR000785 =================== */
+{
+    codigo:'DR000785',
+    titulo:'Blacklist',
+    tituloOriginal:'นักเรียนลับ บัญชีดำ',
+    alias:[
+        'Blacklist: The Series',
+        'Secret Student Blacklist'
+    ],
+    pais:['TH'],
+    anio:2019,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Blacklist',
+        tituloOriginal:'Blacklist',
+        autor:'Puifai',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2019-10-13',
+    finalizacion:'2019-12-29',
+    generos:['Drama','Misterio','Acción','Romance','Juventud'],
+    tags:[
+        'Instituto',
+        'Misterio',
+        'Investigación',
+        'Ciberacoso',
+        'Secretos',
+        'Amistad',
+        'Organización secreta'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Title','Cupcake']}
+    ],
+    sinopsis:'Traffic se matricula en la prestigiosa escuela Akeanan para investigar la desaparición de su hermana Fah. Allí se une a un grupo secreto de estudiantes conocido como Blacklist, cuyos integrantes investigan los misterios y secretos ocultos de la escuela mientras descubren una red de corrupción y actividades clandestinas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
     especiales:[],
     activo:true
 }
