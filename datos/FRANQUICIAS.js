@@ -168,5 +168,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia centrada en la continuidad de My Bromance y sus producciones relacionadas.',
     activo:true
 },
-
+{
+    codigo:'FR000044',
+    nombre:'The Promise',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa las producciones relacionadas con The Promise, incluyendo la precuela de 2022, la serie principal de 2023 y sus contenidos especiales.',
+    activo:true
+},
 ];
