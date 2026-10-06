@@ -9203,6 +9203,7 @@ idioma:'ko',
 franquicia:'', 
 universo:'', 
 serie:'', 
+remake:{codigo:'RM000786',orden:2},
 temporadas:1, 
 temporada:1, 
 episodios:8, 
@@ -9256,20 +9257,7 @@ entidades:[
     {codigo:'EN000028', funcion:['Plataforma']},
     {codigo:'EN000025', funcion:['Plataforma']}
 ],
-especiales:[
-    {
-        titulo:'SaifahZon Story',
-        tituloOriginal:'SaifahZon Story',
-        alias:[
-            'Why R U? SaifahZon Story',
-            'Saifah & Zon Story'
-        ],
-        tipo:'Especial',
-        anio:2020,
-        episodios:3,
-        estreno:'2020-12-03'
-    }
-],
+
 activo:true 
 },
 
@@ -37533,5 +37521,1516 @@ especiales:[
     entidades:[],
     especiales:[],
     activo:true
-}
+},
+	/* =============== Why R U? — DR000786 =================== */
+{
+    codigo:'DR000786',
+    titulo:'Why R U?',
+    tituloOriginal:'เพราะรักใช่ป่าว',
+    alias:[
+        'Why R U?: The Series',
+        'Why Are You?',
+        'Why Are You: The Series',
+        'Why Are You The One',
+        'The One to Me'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000786',orden:1},
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Why R U?',
+        tituloOriginal:'Why R U? เพราะรักใช่เปล่า',
+        autor:'Candy On',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:65,
+    estado:'Finalizado',
+    estreno:'2020-01-24',
+    finalizacion:'2020-04-24',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Enemies to Lovers',
+        'Múltiples parejas',
+        'Ficción dentro de la ficción',
+        'Escritura',
+        'Amistad',
+        'Música',
+        'Fantasía'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tutor','Fighter']},
+        {personajes:['Saifah','Zon']},
+        {personajes:['Japan','Tanthai']},
+        {personajes:['Dew','Blue']},
+        {personajes:['Day','Hwahwa']},
+        {personajes:['Zen','Natee']},
+        {personajes:['Junior','Soda']}
+    ],
+    sinopsis:'Zon, un estudiante universitario que aspira a convertirse en escritor de ciencia ficción, descubre que su hermana Zol ha escrito una novela BL en la que él y su rival Saifah son los protagonistas. Después de desafiar a su hermana y negar que la historia pueda hacerse realidad, Zon comienza a experimentar situaciones que parecen seguir el argumento de la novela. Mientras intenta descubrir si sus sentimientos por Saifah son realmente suyos o forman parte de la ficción, su amigo Tutor se acerca cada vez más a Fighter, un estudiante con quien mantenía una relación de rivalidad. A su alrededor se desarrollan también varias relaciones entre estudiantes, mientras la frontera entre la ficción y la realidad se vuelve cada vez más difícil de distinguir.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'SaifahZon Story',
+            tituloOriginal:'SaifahZon Story',
+            alias:[
+                'Why R U? SaifahZon Story',
+                'Saifah & Zon Story'
+            ],
+            tipo:'Especial',
+            anio:2020,
+            episodios:3,
+            estreno:'2020-12-03'
+        }
+    ],
+    activo:true
+},
+	/* =============== Gen Y — DR000787 =================== */
+{
+    codigo:'DR000787',
+    titulo:'Gen Y',
+    tituloOriginal:'วัยรุ่นวุ่นYรัก',
+    alias:[
+        'Gen Y: The Series',
+        'Gen Y The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000787'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-11-11',
+    finalizacion:'2021-01-27',
+    generos:[
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Instituto',
+        'Amistad',
+        'Múltiples parejas',
+        'Amor juvenil',
+        'Triángulo amoroso'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mark','Kit']},
+        {personajes:['Wayu','Pha']},
+        {personajes:['Tong','Pok']}
+    ],
+    sinopsis:'Wayu acaba de terminar su relación con Pha cuando su amigo Mark intenta ayudarlo a superar la ruptura. Al mismo tiempo, Mark se propone conquistar a Kit, un estudiante de Medicina conocido por ser difícil de acercar. Mientras Mark y Kit comienzan a desarrollar sentimientos, Wayu se encuentra con Thanu y ambos empiezan a acercarse. Sin embargo, la aparición de Phai, que mantiene un vínculo especial con Thanu, complica las relaciones y pone a prueba los sentimientos de todos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Gen Y 2 — DR000788 =================== */
+{
+    codigo:'DR000788',
+    titulo:'Gen Y 2',
+    tituloOriginal:'วัยรุ่นวุ่นYรัก 2',
+    alias:[
+        'Gen Y 2: The Series',
+        'Gen Y The Series 2'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000787'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-12-21',
+    finalizacion:'2022-03-08',
+    generos:[
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Amistad',
+        'Múltiples parejas',
+        'Relaciones',
+        'Distancia',
+        'Celos',
+        'Reencuentros'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mark','Kit']},
+        {personajes:['Wayu','Thanu']},
+        {personajes:['Tong','Pok']},
+        {personajes:['Jack','Koh']}
+    ],
+    sinopsis:'Wayu comienza una relación con Thanu, pero su nueva pareja debe enfrentarse a los sentimientos y conflictos que todavía rodean la relación entre Thanu y Phai. Mientras tanto, Mark y Kit ponen a prueba su relación al intentar afrontar una separación temporal. Tong y Pok también atraviesan nuevos conflictos mientras intentan reconstruir su relación. A su alrededor, Jack y Koh dejan atrás su rivalidad y finalmente dan un paso hacia una relación sentimental.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I Told Sunset About You — DR000789 =================== */
+{
+    codigo:'DR000789',
+    titulo:'I Told Sunset About You',
+    tituloOriginal:'แปลรักฉันด้วยใจเธอ',
+    alias:[
+        'I Told Sunset About You: Part 1',
+        'BKPP The Series',
+        'ITSAY'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000789'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:5,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-10-22',
+    finalizacion:'2020-11-19',
+    generos:[
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Coming-of-age'
+    ],
+    tags:[
+        'BL',
+        'Instituto',
+        'Amigos de la infancia',
+        'Rivales a amantes',
+        'Descubrimiento personal',
+        'Identidad',
+        'Familia',
+        'Universidad',
+        'Phuket'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Teh','Oh-aew']}
+    ],
+    sinopsis:'Teh y Oh-aew fueron mejores amigos durante su infancia, pero una disputa los convirtió en rivales. Años después se reencuentran en una academia de chino mientras ambos se preparan para entrar en la universidad. La antigua amistad vuelve a despertar sentimientos cada vez más intensos, obligándolos a enfrentarse a sus inseguridades, sus expectativas y a una relación que empieza a superar los límites de la amistad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Last Twilight in Phuket',
+            tituloOriginal:'แปลรักฉันด้วยใจเธอ Side Story',
+            alias:[
+                'Last Twilight in Phuket',
+                'I Told Sunset About You: Last Twilight in Phuket'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-05-20'
+        }
+    ],
+    activo:true
+},
+
+/* =============== I Promised You the Moon — DR000790 =================== */
+{
+    codigo:'DR000790',
+    titulo:'I Promised You the Moon',
+    tituloOriginal:'แปลรักฉันด้วยใจเธอ Part 2',
+    alias:[
+        'I Told Sunset About You: Part 2',
+        'IPYTM'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000789'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:5,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-05-27',
+    finalizacion:'2021-06-24',
+    generos:[
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Coming-of-age'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Relación de pareja',
+        'Distancia emocional',
+        'Celos',
+        'Infidelidad',
+        'Madurez',
+        'Identidad',
+        'Bangkok'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Teh','Oh-aew']}
+    ],
+    sinopsis:'Después de dejar Phuket para comenzar su vida universitaria en Bangkok, Teh y Oh-aew afrontan una nueva etapa de su relación. La distancia emocional, los nuevos amigos, las exigencias de la universidad y las nuevas experiencias ponen a prueba el vínculo que construyeron durante años. Mientras ambos intentan descubrir qué quieren para su futuro, deberán decidir si su amor puede sobrevivir a los cambios que trae consigo la vida adulta.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== The Moment I Need You — DR000791 =================== */
+{
+    codigo:'DR000791',
+    titulo:'The Moment I Need You',
+    tituloOriginal:'Moment แห่งความสุข',
+    alias:[
+        'The Moment',
+        'The Moment I Need You: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000791'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:4,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-02-08',
+    finalizacion:'2020-02-14',
+    generos:[
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Veterinario',
+        'Hotel',
+        'Montaña',
+        'Corazón roto',
+        'Sanación emocional',
+        'Encuentro inesperado'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mok','Bay']}
+    ],
+    sinopsis:'Mok, un joven veterinario que intenta recuperarse de un corazón roto, viaja a un hotel situado en las montañas para alejarse de sus problemas. Allí conoce a Bay, un joven camarero que, sin esperarlo, comienza a despertar en él nuevos sentimientos. El encuentro entre ambos transforma un momento de tristeza en una oportunidad para volver a abrir el corazón.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== The Moment Since — DR000792 =================== */
+{
+    codigo:'DR000792',
+    titulo:'The Moment Since',
+    tituloOriginal:'Moment ที่ทำให้หัวใจเต้นแรง',
+    alias:[
+        'The Moment: Since',
+        'The Moment Season 2'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000791'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:5,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-08-01',
+    finalizacion:'2020-08-09',
+    generos:[
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Pareja',
+        'Vacaciones',
+        'Playa',
+        'Cumpleaños',
+        'Amistad',
+        'Celos',
+        'Viaje'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mok','Bay']}
+    ],
+    sinopsis:'Después de comenzar su relación, Bay y Mok viajan a un resort junto al mar para celebrar el cumpleaños de Bay y disfrutar de unos días juntos. Sin embargo, sus vacaciones románticas se complican cuando Boston, el jefe de Bay, aparece acompañado de su amigo Jimmy. A pesar de las interrupciones y de los intentos de Jimmy por llamar la atención de Bay, Mok y Bay continúan descubriendo cómo desenvolverse como pareja y fortalecer su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== YYY — DR000793 =================== */
+{
+    codigo:'DR000793',
+    titulo:'YYY',
+    tituloOriginal:'YYY มันส์เว่อร์นะ',
+    alias:[
+        'YYY: The Series',
+        'YYY The Series',
+        'YYY มันส์เว่อร์นะ'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000793'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2020-04-28',
+    finalizacion:'2020-06-02',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Sitcom',
+        'Fantasía'
+    ],
+    tags:[
+        'BL',
+        'Comedia',
+        'Fingir una relación',
+        'Convivencia',
+        'Apartamento',
+        'Inventor',
+        'Vecinos',
+        'Parodia',
+        'Ruptura de la cuarta pared'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nott','Pun']}
+    ],
+    sinopsis:'Nott, un inventor que vive en un apartamento compartido, causa accidentalmente daños a la colección de CD yaoi de Porpla, la propietaria del lugar. Para evitar ser expulsado, convence al nuevo inquilino Pun de fingir que ambos son pareja. Lo que comienza como un acuerdo para resolver sus problemas de vivienda poco a poco se transforma en sentimientos reales mientras los dos conviven y se conocen mejor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'YYY Special: Episode 0',
+            tituloOriginal:'YYY มันส์เว่อร์นะ',
+            alias:[
+                'YYY Episode 0',
+                'YYY Special Episode 0'
+            ],
+            tipo:'Especial',
+            anio:2020,
+            episodios:1,
+            estreno:'2020-04-21'
+        }
+    ],
+    activo:true
+},
+
+/* =============== YYY 2 — DR000794 =================== */
+{
+    codigo:'DR000794',
+    titulo:'YYY 2',
+    tituloOriginal:'YYY มันส์ฟินนะ',
+    alias:[
+        'YYY Special',
+        'YYY Fin',
+        'YYY: Special'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:{codigo:'SR000793'},
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:3,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-09-29',
+    finalizacion:'2020-10-13',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Sitcom',
+        'Fantasía'
+    ],
+    tags:[
+        'BL',
+        'Comedia',
+        'Pareja',
+        'Convivencia',
+        'Reencuentro',
+        'Pandemia',
+        'Parodia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nott','Pun']}
+    ],
+    sinopsis:'Después de la separación de Pun, Nott continúa esperando su regreso mientras intenta seguir adelante con su vida. Cuando desea que Pun vuelva y se convierta en su pareja, su deseo parece hacerse realidad. Sin embargo, el mundo se encuentra afectado por una pandemia y el reencuentro de ambos vuelve a estar lleno de situaciones inesperadas y caóticas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Friend Forever — DR000795 =================== */
+{
+    codigo:'DR000795',
+    titulo:'Friend Forever',
+    tituloOriginal:'บทเพื่อน บทเพลง',
+    alias:[
+        'Friend Forever The Series',
+        'Our Love Is Sick The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-09-19',
+    finalizacion:'2020-12-12',
+    generos:[
+        'Drama',
+        'Romance',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Amigos de la infancia',
+        'Instituto',
+        'Música',
+        'Amistad',
+        'Amor no correspondido',
+        'Reencuentro'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tan','Oil']},
+        {personajes:['Sea','Tin']},
+        {personajes:['It','Voice']}
+    ],
+    sinopsis:'Tan y Oil crecieron juntos como amigos de la infancia y, con el paso de los años, Tan descubre que sus sentimientos por Oil van más allá de la amistad. Después de que Oil se marcha con su familia, ambos se separan durante dos años hasta que vuelven a encontrarse. Paralelamente, Sea recibe una oportunidad para estudiar en Green Field College gracias a su talento musical y allí conoce a Tin, que comienza a acercarse a él mientras lo ayuda a adaptarse a su nuevo entorno. Las relaciones de los distintos personajes se entrelazan entre la amistad, los sentimientos ocultos y los conflictos del instituto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Manner of Death — DR000796 =================== */
+{
+    codigo:'DR000796',
+    titulo:'Manner of Death',
+    tituloOriginal:'พฤติการณ์ที่ตาย',
+    alias:[
+        'Manner of Death: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Manner of Death',
+        tituloOriginal:'พฤติการณ์ที่ตาย',
+        autor:'Sammon',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-11-30',
+    finalizacion:'2021-02-22',
+    generos:[
+        'Misterio',
+        'Thriller',
+        'Crimen',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Forense',
+        'Asesinato',
+        'Investigación',
+        'Policía',
+        'Corrupción',
+        'Secretos',
+        'Sospechosos',
+        'Supervivencia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Bun','Tan']}
+    ],
+    sinopsis:'El doctor Bun, un médico forense que regresa a su ciudad natal, examina el cadáver de una mujer cuya muerte parece ser un suicidio. Sin embargo, las pruebas de la autopsia indican que se trata de un asesinato. Cuando alguien lo amenaza para que altere su informe, Bun comienza a investigar por su cuenta y sospecha de Tan, el novio de la víctima. A medida que ambos se ven obligados a colaborar para descubrir la verdad, la desconfianza inicial se transforma progresivamente en confianza y sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== My Engineer — DR000797 =================== */
+{
+    codigo:'DR000797',
+    titulo:'My Engineer',
+    tituloOriginal:'มีช็อป มีเกียร์ มีเมียรึยังวะ',
+    alias:[
+        'My Engineer: The Series',
+        'My Engineer Has a Shop, Has a Gear, Has a Wife Yet?'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'My Engineer',
+        tituloOriginal:'มีช็อป มีเกียร์ มีเมียรึยังวะ',
+        autor:'Mommae',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2020-03-14',
+    finalizacion:'2020-05-30',
+    generos:[
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Ingeniería',
+        'Medicina',
+        'Amistad',
+        'Enemies to Lovers',
+        'Friends to Lovers',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Bohn','Duen']},
+        {personajes:['Ram','King']},
+        {personajes:['Mek','Boss']}
+    ],
+    sinopsis:'Duen, un estudiante de primer año de Medicina, golpea accidentalmente a Bohn, un estudiante de Ingeniería, y como castigo debe llevarle una flor todos los días durante un mes. Lo que comienza como una relación marcada por las bromas y los enfrentamientos termina convirtiéndose en una historia de amor. Al mismo tiempo, Ram y King desarrollan una relación basada en su contraste de personalidades, mientras que la amistad entre Mek y Boss comienza a transformarse en sentimientos románticos. La serie sigue las historias de estas tres parejas dentro de la vida universitaria.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'My Engineer Summer Trip',
+            tituloOriginal:'My Engineer Summer Trip',
+            alias:[
+                'My Engineer Summer Trip Ep0',
+                'My Engineer Summer Trip'
+            ],
+            tipo:'Especial',
+            anio:2020,
+            episodios:4,
+            estreno:'2020-06-06'
+        }
+    ],
+    activo:true
+},
+
+/* =============== My Gear and Your Gown — DR000798 =================== */
+{
+    codigo:'DR000798',
+    titulo:'My Gear and Your Gown',
+    tituloOriginal:'เกียร์สีขาวกับกาวน์สีฝุ่น',
+    alias:[
+        'My Gear and Your Gown: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'My Gear and Your Gown',
+        tituloOriginal:'เกียร์สีขาวกับกาวน์สีฝุ่น',
+        autor:'Faddist',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:40,
+    estado:'Finalizado',
+    estreno:'2020-09-14',
+    finalizacion:'2020-11-30',
+    generos:[
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Instituto',
+        'Universidad',
+        'Medicina',
+        'Ingeniería',
+        'Rivales a amantes',
+        'Amistad',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Itt','Pai']},
+        {personajes:['Pure','Folk']},
+        {personajes:['Waan','Beau']}
+    ],
+    sinopsis:'Pai es un estudiante brillante de Medicina que durante su etapa escolar tenía poca confianza en sí mismo. Itt, un estudiante de Ingeniería y antiguo presidente del club deportivo, es su rival desde el instituto. Cuando Pai recibe la misión de ayudar a Itt con sus estudios, ambos comienzan a acercarse y los sentimientos que habían quedado ocultos durante años vuelven a aparecer. Paralelamente, Pure y Folk desarrollan una relación complicada que evoluciona de encuentros casuales a sentimientos reales, mientras Waan encuentra el amor en Beau.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Oxygen — DR000799 =================== */
+{
+    codigo:'DR000799',
+    titulo:'Oxygen',
+    tituloOriginal:'ออกซิเจน เดอะซีรีส์ - ดั่งลมหายใจ',
+    alias:[
+        'Oxygen The Series',
+        'Oxygen: The Series',
+        'Oxygen The Series - Dang Lohm Haai Jai'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Oxygen: Love You More Than the Air I Breathe',
+        tituloOriginal:'Oxygen: Love You More Than the Air I Breathe',
+        autor:'Chesshire',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-09-12',
+    finalizacion:'2020-12-05',
+    generos:[
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Cafetería',
+        'Amistad',
+        'Familia',
+        'Encuentro casual',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Solo','Gui']},
+        {personajes:['Kao','Phu']}
+    ],
+    sinopsis:'Solo, un estudiante universitario de una familia adinerada, conoce a Gui, un joven que trabaja en una cafetería. A pesar de sus diferencias, Solo comienza a visitar el café cada noche para comprar una taza de leche y pasar tiempo con Gui. Su relación crece lentamente mientras ambos afrontan sus problemas familiares y personales. Paralelamente, Kao y Phu desarrollan una relación marcada por el cuidado, la protección y el apoyo mutuo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== The Shipper — DR000800 =================== */
+{
+    codigo:'DR000800',
+    titulo:'The Shipper',
+    tituloOriginal:'จิ้นนายกลายเป็นฉัน',
+    alias:[
+        'The Shipper: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-05-22',
+    finalizacion:'2020-08-07',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Fantasía',
+        'Juventud'
+    ],
+    tags:[
+        'Instituto',
+        'Amistad',
+        'Ficción',
+        'Cambio de cuerpo',
+        'Intercambio de cuerpos',
+        'Fanfiction',
+        'Yaoi',
+        'Identidad',
+        'Ángeles',
+        'Coming-of-age'
+    ],
+    personas:[],
+    ships:[],
+    sinopsis:'Pan y Soda son dos estudiantes que escriben una historia BL sobre Kim y Way, dos compañeros de instituto a los que imaginan como pareja a pesar de que en realidad son amigos y ambos mantienen relaciones heterosexuales. Después de un accidente, Pan despierta dentro del cuerpo de Kim debido a un error de una deidad que guía las almas al más allá. Al vivir temporalmente como Kim, Pan comienza a descubrir que la realidad es muy distinta de las historias que escribía y que las personas a su alrededor esconden sentimientos y secretos que nunca había imaginado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Tonhon Chonlatee — DR000801 =================== */
+{
+    codigo:'DR000801',
+    titulo:'Tonhon Chonlatee',
+    tituloOriginal:'ต้นหนชลธี',
+    alias:[
+        'Tonhon Chonlatee: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-11-13',
+    finalizacion:'2021-01-22',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Amigos de la infancia',
+        'Universidad',
+        'Convivencia',
+        'Amor no correspondido',
+        'Friends to Lovers',
+        'Múltiples parejas',
+        'Familia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tonhon','Chonlatee']},
+        {personajes:['Ai','Ni']}
+    ],
+    sinopsis:'Tonhon y Chonlatee son amigos de la infancia que crecieron prácticamente como hermanos. Chonlatee lleva años enamorado de Ton, pero nunca se ha atrevido a confesar sus sentimientos. Cuando Ton regresa a la casa de su infancia después de una ruptura y Chon comienza a vivir con él y sus amigos, la convivencia hace que Ton empiece a cuestionar la naturaleza de sus sentimientos por su antiguo amigo. Al mismo tiempo, Ai y Ni intentan mantener su relación mientras afrontan las actitudes conservadoras de Ton.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== You Never Eat Alone — DR000802 =================== */
+{
+    codigo:'DR000802',
+    titulo:'You Never Eat Alone',
+    tituloOriginal:'เมื่ออาหารเป็นเรื่องของความรัก',
+    alias:[
+        'You Never Eat Alone The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2020-12-22',
+    finalizacion:'2021-03-09',
+    generos:[
+        'Comedia',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Universidad',
+        'Comida',
+        'Amistad',
+        'Convivencia',
+        'Miedo a comer solo',
+        'Familia',
+        'Aplicaciones',
+        'Superación personal'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Diew','Mix']}
+    ],
+    sinopsis:'Diew es un estudiante universitario que no puede comer solo debido a un trauma de su infancia. Cuando sus padres se trasladan al extranjero, debe adaptarse a vivir por su cuenta en una residencia universitaria. Allí conoce a varios compañeros y finalmente encuentra a Mix, otro estudiante que comparte su miedo a comer solo. Ambos empiezan a comer juntos y, mientras su amistad se hace cada vez más cercana, descubren que la relación entre ellos puede convertirse en algo más.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Ingredients — DR000803 =================== */
+{
+    codigo:'DR000803',
+    titulo:'Ingredients',
+    tituloOriginal:'ส่วนผสมที่ลงตัว',
+    alias:[
+        'Ingredients The Series',
+        'Ingredients: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:21,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2020-04-04',
+    finalizacion:'2021-01-09',
+    generos:[
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'BL',
+        'Cocina',
+        'Música',
+        'Convivencia',
+        'Amistad',
+        'Chef',
+        'Músico',
+        'Vida cotidiana',
+        'Friends to Lovers'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Win','Tops']}
+    ],
+    sinopsis:'Win, un joven músico, comparte casa con Tops, un apasionado cocinero que sueña con perfeccionar su arte. A través de la convivencia, la música y la comida, ambos comienzan a descubrir que su amistad se está convirtiendo en una relación más profunda. Cada episodio muestra pequeñas situaciones de su vida cotidiana mientras sus sentimientos crecen de manera natural.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Ingredients Special',
+            tituloOriginal:'Ingredients Special',
+            alias:[
+                'Ingredients: Special'
+            ],
+            tipo:'Especial',
+            anio:2020,
+            episodios:1,
+            estreno:'2020-03-28'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Puppy Love — DR000804 =================== */
+{
+    codigo:'DR000804',
+    titulo:'Puppy Love',
+    tituloOriginal:'วัยพันธุ์แสบ',
+    alias:[
+        'Puppy Love The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:18,
+    estado:'Finalizado',
+    estreno:'2020-03-07',
+    finalizacion:null,
+    generos:[
+        'Comedia',
+        'Romance',
+        'Juventud'
+    ],
+    tags:[
+        'BL',
+        'Instituto',
+        'Orfanato',
+        'Viaje en el tiempo',
+        'Cambio de edad',
+        'Amistad',
+        'Familia'
+    ],
+    personas:[],
+    ships:[],
+    sinopsis:'Un joven que sueña con convertirse en alguien tan exitoso como Steve Jobs y otro joven rebelde y adicto a los videojuegos ven sus vidas transformadas cuando, de manera inesperada, vuelven a convertirse en niños. Ambos deben adaptarse a vivir en un hogar para niños y afrontar una serie de situaciones que cambian por completo la forma en que entienden su pasado y su futuro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Calculating Love — DR000805 =================== */
+{
+    codigo:'DR000805',
+    titulo:'Calculating Love',
+    tituloOriginal:'Sineข้ามฉาก Tanข้ามชิด',
+    alias:[
+        'Calculate Love'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2020-07-18',
+    finalizacion:'2020-12-19',
+    generos:[
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Amigos de la infancia',
+        'Amor no correspondido',
+        'Mejores amigos',
+        'Confesión',
+        'Amistad',
+        'Música'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sine','Tan']}
+    ],
+    sinopsis:'Sine y Tan son mejores amigos que han estado juntos desde siempre. Sin embargo, Sine empieza a preguntarse si sus sentimientos por Tan son algo más que amistad. Mientras intenta calcular la mejor manera de confesar lo que siente, ambos deben enfrentarse al riesgo de cambiar una amistad que ha sido fundamental para sus vidas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Roommate — DR000806 =================== */
+{
+    codigo:'DR000806',
+    titulo:'Roommate',
+    tituloOriginal:'ห้องนี้พี่ให้นาย',
+    alias:[
+        'Roommate The Series',
+        'Roommate the Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000806',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:4,
+    duracion:'20 min',
+    estado:'Finalizado',
+    estreno:'2020-07-29',
+    finalizacion:'2020-08-19',
+    generos:[
+        'BL',
+        'Romance',
+        'Universidad'
+    ],
+    tags:[
+        'Compañeros de habitación',
+        'Universidad',
+        'Convivencia',
+        'Amistad',
+        'Romance',
+        'Vida universitaria'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['James','Sky']}
+    ],
+    sinopsis:'James se ve obligado por su madre a compartir habitación con Sky, un estudiante al que apenas conoce. La convivencia entre ambos comienza con cierta incomodidad, pero poco a poco desarrollan una relación cada vez más cercana que va más allá de la amistad.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Roommate Special Episode',
+            tituloOriginal:'ตอนที่ 5 (ตอนพิเศษ)',
+            alias:[
+                'Roommate Special'
+            ],
+            tipo:'Especial',
+            anio:2020,
+            episodios:1,
+            estreno:'2020-08-26'
+        }
+    ],
+    activo:true
+},
+	/* =============== Soulmate — DR000807 =================== */
+{
+    codigo:'DR000807',
+    titulo:'Soulmate',
+    tituloOriginal:'Roommate the Series ห้องนี้พี่ให้นาย Part II « พรหมลิขิต »',
+    alias:[
+        'Roommate 2: Soulmate',
+        'Soul Roommate',
+        'Roommate the Series Part 2'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000806',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:2,
+    duracion:'20 min',
+    estado:'Finalizado',
+    estreno:'2020-12-25',
+    finalizacion:'2020-12-29',
+    generos:[
+        'BL',
+        'Romance'
+    ],
+    tags:[
+        'Compañeros de habitación',
+        'Almas gemelas',
+        'Destino',
+        'Reencuentro',
+        'Romance',
+        'Convivencia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['James','Sky']}
+    ],
+    sinopsis:'La historia de James y Sky continúa cuando ambos descubren que su encuentro quizá no fue una simple coincidencia. Mientras profundizan en su relación, comienzan a preguntarse si existe un vínculo entre ellos que va más allá de las circunstancias que los llevaron a convertirse en compañeros de habitación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Ghost Runner — DR000808 =================== */
+{
+    codigo:'DR000808',
+    titulo:'Ghost Runner',
+    tituloOriginal:'ค่ายเฮี้ยนเรียนรัก',
+    alias:[
+        'Ghost Runner The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'45 min',
+    estado:'Finalizado',
+    estreno:'2020-09-25',
+    finalizacion:'2020-11-13',
+    generos:[
+        'BL',
+        'Romance',
+        'Misterio',
+        'Terror',
+        'Thriller',
+        'Juventud',
+        'Deporte'
+    ],
+    tags:[
+        'Atletismo',
+        'Campamento',
+        'Instituto',
+        'Fantasmas',
+        'Sobrenatural',
+        'Misterio',
+        'Secretos',
+        'Muerte',
+        'Espíritus'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mo','Link']}
+    ],
+    sinopsis:'Un grupo de jóvenes atletas llega a un campamento de entrenamiento situado en una antigua escuela. Allí comienzan a sucederse experiencias aterradoras relacionadas con fantasmas, muertes del pasado y secretos ocultos de la institución. Mientras Mo y Link desarrollan una relación, la aparición del espíritu del corredor Pond y otros fenómenos sobrenaturales ponen al descubierto la oscura historia del lugar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== So Much in Love — DR000809 =================== */
+{
+    codigo:'DR000809',
+    titulo:'So Much in Love',
+    tituloOriginal:'นิยามรัก',
+    alias:[
+        'So Much in Love The Series',
+        'So Much in Love: The Series',
+        'Ni Yam Ruk',
+        'Niyanruk: The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:'45 min',
+    estado:'Finalizado',
+    estreno:'2020-08-13',
+    finalizacion:'2020-11-05',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Misterio',
+        'Terror',
+        'Deporte',
+        'Juventud'
+    ],
+    tags:[
+        'Academia deportiva',
+        'Internado',
+        'Voleibol',
+        'Natación',
+        'Fantasmas',
+        'Sobrenatural',
+        'Amistad',
+        'Romance',
+        'Familia',
+        'Homofobia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jedi','Indy']},
+        {personajes:['North','Ongsah']},
+        {personajes:['Wan','Mai']},
+        {personajes:['Ten','Arm']},
+        {personajes:['Phil','Thun']}
+    ],
+    sinopsis:'En la Victory Academy, una academia deportiva donde conviven estudiantes de distintas disciplinas, las historias de amor, amistad y rivalidad se entrelazan con problemas familiares, prejuicios y una leyenda sobrenatural. Tras un accidente en la piscina, el espíritu de North permanece ligado al lugar mientras los estudiantes afrontan sus propios sentimientos y los secretos que rodean la academia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
 ];
