@@ -41698,7 +41698,7 @@ especiales:[
     codigo:'DR000859',
     titulo:"Dear Doctor, I'm Coming for Soul",
     tituloOriginal:'คุณหมอครับ ผมมารับวิญญาณคนไข้',
-    alias:['Dear Doctor','Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai','Dear Doctor, I'm Coming for Your Soul'],
+    alias:['Dear Doctor','Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai','Dear Doctor, I\'m Coming for Your Soul'],
     pais:['TH'],
     anio:2022,
     tipo:'Drama',
