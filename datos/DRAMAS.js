@@ -978,6 +978,7 @@ const DRAMAS = [
     anio: 2020,
     pais: ['TH'],
     idioma: 'th',
+	remake:{codigo:'RM000018',orden:1},
     franquicia: { codigo: 'FR000006', orden: 2 },
     temporadas: 1,
     temporada: 1,
@@ -39031,6 +39032,6854 @@ especiales:[
     },
     entidades:[],
     especiales:[],
+    activo:true
+},
+	/* =============== Fish Upon the Sky — DR000810 =================== */
+{
+    codigo:'DR000810',
+    titulo:'Fish Upon the Sky',
+    tituloOriginal:'ปลาบนฟ้า',
+    alias:[
+        'Fish Upon the Sky The Series',
+        'Pla Bon Fah',
+        'Fish from the Sky',
+        'Fish Upon the Sky'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Fish Upon the Sky',
+        tituloOriginal:'ปลาบนฟ้า',
+        autor:'JittiRain',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'45-60 min',
+    estado:'Finalizado',
+    estreno:'2021-04-09',
+    finalizacion:'2021-06-25',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Universidad',
+        'Odontología',
+        'Medicina',
+        'Amor no correspondido',
+        'Triángulo amoroso',
+        'Rivalidad',
+        'Amistad',
+        'Superación personal'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mork','Pi']},
+        {personajes:['Duean','Meen']}
+    ],
+    sinopsis:'Pi, un estudiante de odontología inseguro de sí mismo, se enamora de Muang Nan, un estudiante de medicina popular y amable. Convencido de que su aspecto le impide tener alguna posibilidad con él, Pi decide cambiar su imagen. Sin embargo, durante su intento de conquistar a Nan descubre que Mork, un estudiante de medicina cercano a Nan, parece ser su rival. Lo que Pi no sabe es que los sentimientos de Mork están dirigidos hacia él.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Lovely Writer — DR000811 =================== */
+{
+    codigo:'DR000811',
+    titulo:'Lovely Writer',
+    tituloOriginal:'นับสิบจะจูบ',
+    alias:[
+        'Lovely Writer The Series',
+        'Nubsib Will Kiss',
+        'Nubsib ja Jub'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Lovely Writer',
+        tituloOriginal:'นับสิบจะจูบ',
+        autor:'Wankling',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'60 min',
+    estado:'Finalizado',
+    estreno:'2021-02-24',
+    finalizacion:'2021-05-12',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'Escritor',
+        'Novela BL',
+        'Adaptación televisiva',
+        'Industria del entretenimiento',
+        'Actores',
+        'Productora',
+        'Secretos',
+        'Familia',
+        'Relación contractual',
+        'Homofobia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Gene','Nubsib']},
+        {personajes:['Tum','Tiffy']}
+    ],
+    sinopsis:'Gene es un escritor de novelas de fantasía y terror al que su editorial convence para escribir una novela BL. La obra se convierte en un éxito y es adaptada a una serie, donde Nubsib consigue el papel protagonista. Nubsib se acerca a Gene ocultando inicialmente sus verdaderas intenciones y ambos terminan enfrentándose a los problemas derivados de su relación, de la industria del entretenimiento y de las personas que intentan separarlos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'2 Years Later I 2Gether or not?',
+            tituloOriginal:null,
+            alias:[
+                'Lovely Writer Special'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-06-09'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Y-Destiny — DR000812 =================== */
+{
+    codigo:'DR000812',
+    titulo:'Y-Destiny',
+    tituloOriginal:'หรือนี่คือพรหมลิขิต',
+    alias:[
+        'Y Destiny',
+        'Y-Destiny The Series',
+        'Y Destiny ปิดกอง'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Y-Destiny',
+        tituloOriginal:'หรือนี่คือพรหมลิขิต',
+        autor:'More FIIN',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:'55-60 min',
+    estado:'Finalizado',
+    estreno:'2021-03-30',
+    finalizacion:'2021-07-06',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Sobrenatural'
+    ],
+    tags:[
+        'Antología',
+        'Siete amigos',
+        'Destino',
+        'Universidad',
+        'Amistad',
+        'Almas gemelas',
+        'Romance',
+        'Supernatural'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tue','Ake']},
+        {personajes:['Sun','Nuea']},
+        {personajes:['Mon','Team']},
+        {personajes:['Thurs','Pao']},
+        {personajes:['Puth','Payu']},
+        {personajes:['Masuk','Tee']},
+        {personajes:['Sat','Choke']}
+    ],
+    sinopsis:'Y-Destiny cuenta siete historias de amor protagonizadas por siete amigos, cada uno nacido en un día diferente de la semana. Sun, Mon, Tue, Puth, Thurs, Masuk y Sat poseen personalidades muy diferentes y cada uno encuentra a una persona que cambia su vida. La serie presenta sus historias de forma independiente, explorando cómo el destino, las circunstancias y sus propias decisiones los llevan hacia el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Y-Destiny Special',
+            tituloOriginal:null,
+            alias:[
+                'Y-Destiny Episode 10.5'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-06-17'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Golden Blood — DR000813 =================== */
+{
+    codigo:'DR000813',
+    titulo:'Golden Blood',
+    tituloOriginal:'รักมันมหาศาล',
+    alias:[
+        'Golden Blood: Love Enormously',
+        'Golden Blood: The Greatest Love',
+        'Golden Blood Love Enormously'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'55 min',
+    estado:'Finalizado',
+    estreno:'2021-06-23',
+    finalizacion:'2021-08-11',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Juventud'
+    ],
+    tags:[
+        'Guardaespaldas',
+        'Mafia',
+        'Heredero',
+        'Protección',
+        'Amor prohibido',
+        'Universidad',
+        'Convivencia',
+        'Familia',
+        'Peligro',
+        'Identidad'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sun','Sky']},
+        {personajes:['Pitch','Bank']}
+    ],
+    sinopsis:'Sky es el hijo de Phupha, un poderoso jefe de la mafia. Debido a su extraordinario grupo sanguíneo, Sky se convierte en un objetivo para quienes quieren utilizarlo. Su padre encarga a Sun, un guardaespaldas entrenado desde joven para protegerlo, que permanezca a su lado. La convivencia y las situaciones de peligro hacen que la relación entre ambos evolucione de la obligación y la desconfianza hacia el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Bite Me — DR000814 =================== */
+{
+    codigo:'DR000814',
+    titulo:'Bite Me',
+    tituloOriginal:'ส่งร้อน เสิร์ฟรัก',
+    alias:[
+        'Bite Me The Series',
+        'Grab a Bite',
+        'Grab Me a Bite to Eat',
+        'Send Hot Served Love'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Grab a Bite',
+        tituloOriginal:'ส่งร้อน เสิร์ฟรัก',
+        autor:'Sammon',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2021-08-29',
+    finalizacion:'2021-11-07',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'Cocina',
+        'Chef',
+        'Restaurante',
+        'Repartidor',
+        'Universidad',
+        'Gastronomía',
+        'Competición culinaria',
+        'Amistad',
+        'Familia',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Aue','Aek']},
+        {personajes:['Vich','Prem']},
+        {personajes:['Lek','Chompoo']},
+        {personajes:['Bie','Eve']}
+    ],
+    sinopsis:'Aue es un chef talentoso y finalista del concurso The Chef Master, pero siente que le falta algo para alcanzar la perfección culinaria. Un día conoce a Aek, un joven repartidor con un extraordinario sentido del gusto. Fascinado por sus capacidades, Aue intenta incorporarlo a su cocina y la relación entre ambos se transforma progresivamente en algo más profundo mientras afrontan sus inseguridades, sus sueños y las exigencias del mundo gastronómico.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Bite Me Special Episode',
+            tituloOriginal:null,
+            alias:[
+                'Bite Me Special'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-11-14'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Paint with Love — DR000815 =================== */
+{
+    codigo:'DR000815',
+    titulo:'Paint with Love',
+    tituloOriginal:'ใส่รักป้ายสี',
+    alias:[
+        'Paint With Love',
+        'Paint with Love The Series',
+        'Sai Rak Phai Si',
+        'Sai Rak Phai Si The Series'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Paint with Love',
+        tituloOriginal:'ใส่รักป้ายสี',
+        autor:'Indigo',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'42-58 min',
+    estado:'Finalizado',
+    estreno:'2021-11-26',
+    finalizacion:'2022-02-11',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Pintura',
+        'Arte',
+        'Organización de eventos',
+        'Bodas',
+        'Jefe y empleado',
+        'Deuda',
+        'Convivencia',
+        'Trabajo',
+        'Segunda oportunidad',
+        'Familia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Maze','Phap']},
+        {personajes:['Nueng','Tharn']}
+    ],
+    sinopsis:'Phap es un joven artista que recibe el encargo de realizar una pintura para la boda de una celebridad. El trabajo termina en desastre y provoca importantes pérdidas para Maze, el responsable de organizar el evento. Para compensar la deuda, Phap acaba trabajando para Maze. La convivencia y los constantes enfrentamientos entre ambos hacen que la relación profesional se transforme poco a poco en sentimientos románticos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Close Friend T2 — DR000824 =================== */
+{
+    codigo:'DR000824',
+    titulo:'Close Friend T2',
+    tituloOriginal:'โคตรแฟน Season 2',
+    alias:[
+        'Close Friend Season 2',
+        'Close Friend 2',
+        'Khot Faen 2'
+    ],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000030',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:'30-38 min',
+    estado:'Finalizado',
+    estreno:'2022-05-05',
+    finalizacion:'2022-06-09',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'Pareja establecida',
+        'Relación secreta',
+        'Familia',
+        'Trabajo',
+        'Industria musical',
+        'Actor',
+        'Ídolo',
+        'Fan',
+        'Pareja ficticia',
+        'Celos',
+        'Convivencia',
+        'Relaciones interpersonales'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Pierce','Typhoon']},
+        {personajes:['Jedi','Ray']}
+    ],
+    sinopsis:'Pierce y Typhoon continúan su relación, pero deben enfrentarse a un nuevo obstáculo cuando Pierce presenta a Typhoon ante sus padres únicamente como su hermano menor de universidad y no como su novio. Al mismo tiempo, Ray y Jedi mantienen su relación en secreto mientras Jedi es promocionado como pareja ficticia de la actriz Milin, lo que provoca inseguridad y celos en Ray. Ambas parejas deberán afrontar las dificultades derivadas de mantener y demostrar sus relaciones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Skinship T1 — DR000816 =================== */
+{
+    codigo:'DR000816',
+    titulo:'Skinship T1',
+    tituloOriginal:'สัมผัสรักของเราและนาย',
+    alias:[
+        'Skinship',
+        'Skinship The Series',
+        'SkinShip The Series'
+    ],
+    pais:['TH'],
+    anio:2020,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000816',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:3,
+    duracion:'30-33 min',
+    estado:'Finalizado',
+    estreno:'2020-10-10',
+    finalizacion:'2020-10-24',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Hospital',
+        'Piel',
+        'Trabajo',
+        'Amistad',
+        'Pareja falsa',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Win','Beauty']},
+        {personajes:['James','Teenoi']}
+    ],
+    sinopsis:'La historia sigue a un grupo de jóvenes relacionados con una clínica especializada en el cuidado de la piel. Win y Beauty terminan acercándose después de una situación inesperada, mientras James, asistente médico, debe cuidar de Teenoi, un paciente cuya personalidad resulta difícil de soportar. Las relaciones entre ambos pares evolucionan progresivamente hacia el romance.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Skinship T2 — DR000817 =================== */
+{
+    codigo:'DR000817',
+    titulo:'Skinship T2',
+    tituloOriginal:'สัมผัสรักของเราและนาย 2',
+    alias:[
+        'Skinship Season 2',
+        'SkinShip The Series Season 2',
+        'Skinship 2'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000816',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:3,
+    duracion:'30-33 min',
+    estado:'Finalizado',
+    estreno:'2021-04-24',
+    finalizacion:'2021-05-08',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Hospital',
+        'Amistad',
+        'Pareja',
+        'Citas',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Win','Beauty']},
+        {personajes:['James','Teenoi']}
+    ],
+    sinopsis:'La segunda temporada continúa las historias de los personajes de Skinship. Tras la ruptura de Beauty y Win, sus amigos intentan ayudar a Win a superar la situación, mientras Teenoi y James siguen desarrollando su relación y afrontan nuevas circunstancias personales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Country Boy T1 — DR000818 =================== */
+{
+    codigo:'DR000818',
+    titulo:'Country Boy T1',
+    tituloOriginal:'บ้านพักหลังป่วนกับก๊วนเด็กเมือง',
+    alias:[
+        'Country Boy',
+        'Country Boy The Series',
+        'Country Boy - The Movie'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000818',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:2,
+    duracion:'33-39 min',
+    estado:'Finalizado',
+    estreno:'2021-06-15',
+    finalizacion:'2021-06-22',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Pueblo',
+        'Casa rural',
+        'Chiang Mai',
+        'Familia',
+        'Convivencia',
+        'Diferencias sociales',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Keptawan','Nabdao']}
+    ],
+    sinopsis:'Keptawan, un joven de buena posición, viaja con sus amigos a una casa de huéspedes situada en las afueras de Chiang Mai. Allí conoce a Nabdao, el hijo del propietario, y ambos comienzan una relación que transforma la estancia de Keptawan y la vida de los dos jóvenes.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Country Boy T2 — DR000819 =================== */
+{
+    codigo:'DR000819',
+    titulo:'Country Boy T2',
+    tituloOriginal:'บ้านพักหลังป่วนกับก๊วนเด็กเมือง 2',
+    alias:[
+        'Country Boy 2',
+        'Country Boy Season 2'
+    ],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000818',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:2,
+    duracion:'33-38 min',
+    estado:'Finalizado',
+    estreno:'2022-03-29',
+    finalizacion:'2022-04-05',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Familia',
+        'Trabajo',
+        'Ciudad',
+        'Casa rural',
+        'Distancia',
+        'Relación a distancia',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Keptawan','Nabdao']}
+    ],
+    sinopsis:'Después de que la casa de huéspedes de Nabdao consigue recuperarse económicamente gracias a su estrategia de marketing, Keptawan viaja a la ciudad para trabajar en la cafetería de su tío. La distancia y las nuevas obligaciones dificultan su relación con Nabdao, pero ambos intentan encontrar la forma de volver a acercarse.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Love Area T1 — DR000820 =================== */
+{
+    codigo:'DR000820',
+    titulo:'Love Area T1',
+    tituloOriginal:'ครั้งหนึ่งเราเคยรักกัน',
+    alias:[
+        'Love Area',
+        'Love Area The Series',
+        'Love Area Part 1'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000820',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:'45-48 min',
+    estado:'Finalizado',
+    estreno:'2021-07-24',
+    finalizacion:'2021-08-28',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Restaurante',
+        'Trabajo',
+        'Familia',
+        'Universidad',
+        'Primer amor',
+        'Amistad',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Valen','Kaitoon']},
+        {personajes:['King','Peat']}
+    ],
+    sinopsis:'Valen, un joven que nunca ha conocido el amor ni siquiera dentro de su propia familia, conoce a Kaitoon, un estudiante que trabaja en el restaurante Love Area. El encuentro cambia poco a poco su forma de entender el afecto y lleva a ambos a desarrollar sentimientos mientras afrontan sus problemas personales y familiares.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Love Area Special Ep. 0',
+            tituloOriginal:null,
+            alias:[
+                'Love Area Part 1 Recap Episode'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-07-17'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Love Area T2 — DR000821 =================== */
+{
+    codigo:'DR000821',
+    titulo:'Love Area T2',
+    tituloOriginal:'ครั้งหนึ่งเราเคยรักกัน',
+    alias:[
+        'Love Area Part 2',
+        'Love Area Season 2'
+    ],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000820',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:8,
+    duracion:'43-50 min',
+    estado:'Finalizado',
+    estreno:'2022-01-15',
+    finalizacion:'2022-03-05',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Restaurante',
+        'Familia',
+        'Trabajo',
+        'Universidad',
+        'Primer amor',
+        'Celos',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Valen','Kaitoon']},
+        {personajes:['King','Peat']}
+    ],
+    sinopsis:'Valen y Kaitoon comienzan a reconocer sus sentimientos después de pasar tiempo juntos, mientras Non sigue esperando a Kaitoon. Al mismo tiempo, la relación entre King y Peat se complica con la llegada de Ice. Las diferentes parejas deben enfrentarse a sentimientos nuevos, antiguas promesas y las dificultades que amenazan sus relaciones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Love Area Part 2: Episode 0',
+            tituloOriginal:null,
+            alias:[
+                'Love Area Part 2: Season 1 Recap'
+            ],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-01-01'
+        },
+        {
+            titulo:'Love Area Part 2: Exclusive Episode',
+            tituloOriginal:null,
+            alias:[
+                'Love Area Part 2: Cast Reaction'
+            ],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-01-08'
+        }
+    ],
+    activo:true
+},
+	/* =============== Call It What You Want T1 — DR000822 =================== */
+{
+    codigo:'DR000822',
+    titulo:'Call It What You Want T1',
+    tituloOriginal:'จะรักก็รักเหอะ',
+    alias:[
+        'Call It What You Want',
+        'Call It What You Want Season 1',
+        'Call It What You Want: Season 1'
+    ],
+    pais:['TH','TW'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000822',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:'25-32 min',
+    estado:'Finalizado',
+    estreno:'2021-04-09',
+    finalizacion:'2021-05-07',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'Industria BL',
+        'Director',
+        'Actores',
+        'Productora',
+        'Relación secreta',
+        'Abuso de poder',
+        'Acoso',
+        'Trabajo',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['James','Ait']}
+    ],
+    sinopsis:'James es un director de series BL que comienza a desarrollar sentimientos por Ait, uno de los actores con los que trabaja. Mientras ambos intentan mantener su relación en secreto por las consecuencias que podría tener dentro de la industria, la producción también muestra los problemas de poder, explotación y acoso que pueden existir detrás de las cámaras.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Call It What You Want T2 — DR000823 =================== */
+{
+    codigo:'DR000823',
+    titulo:'Call It What You Want T2',
+    tituloOriginal:'จะรักก็รักเหอะ',
+    alias:[
+        'Call It What You Want Season 2',
+        'Call It What You Want 2',
+        'Call It What You Want: Season 2'
+    ],
+    pais:['TH','TW'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000822',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:6,
+    duracion:'23-31 min',
+    estado:'Finalizado',
+    estreno:'2021-07-23',
+    finalizacion:'2021-08-20',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'Industria BL',
+        'Actores',
+        'Director',
+        'Relación secreta',
+        'Acoso',
+        'Abuso de poder',
+        'Trauma',
+        'Salud mental',
+        'Trabajo',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['James','Ait']},
+        {personajes:['Marco','Bas']}
+    ],
+    sinopsis:'James y Ait continúan su relación en secreto mientras intentan proteger sus carreras y enfrentarse a las presiones de la industria. Paralelamente, Marco se acerca cada vez más a Bas, que se encuentra atrapado en una situación de abuso y control por parte de P’Tee. Ambas historias avanzan mientras los personajes intentan enfrentarse a las consecuencias de las relaciones de poder dentro del mundo de las series BL.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Nitiman — DR000825 =================== */
+{
+    codigo:'DR000825',
+    titulo:'Nitiman',
+    tituloOriginal:'นิติแมนแฟนวิศวะ',
+    alias:[
+        'Nitiman The Series',
+        'Nitiman Fan Engineering',
+        'NitiMan',
+        'NitiMan: Society and Lover'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'NITI man, society and lover',
+        tituloOriginal:'มนุษย์นิติสังคมและคนรัก',
+        autor:'Chamaij',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'45-60 min',
+    estado:'Finalizado',
+    estreno:'2021-05-07',
+    finalizacion:'2021-07-09',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Universidad',
+        'Ingeniería',
+        'Derecho',
+        'Fútbol',
+        'Amistad',
+        'Primer amor',
+        'Malentendidos',
+        'Amor no correspondido',
+        'Relación universitaria'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jin','BBomb']}
+    ],
+    sinopsis:'Jin, el popular estudiante de ingeniería y representante de su universidad, acaba de terminar su relación con Aim cuando conoce a BBomb, un estudiante de Derecho que lleva tiempo enamorado de él. Jin cree inicialmente que BBomb es el responsable de que Aim lo haya engañado, pero poco a poco descubre que sus sentimientos hacia él son sinceros y que la relación que comienza entre ambos puede convertirse en algo más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== My Boy — DR000826 =================== */
+{
+    codigo:'DR000826',
+    titulo:'My Boy',
+    tituloOriginal:'วุ่นนักรักซะเลย',
+    alias:[
+        'My Boy The Series',
+        'Wun Nak Rak Sa Loei'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'My Boy',
+        tituloOriginal:'วุ่นนักรักซะเลย',
+        autor:'Pych',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'26-30 min',
+    estado:'Finalizado',
+    estreno:'2021-06-27',
+    finalizacion:'2021-09-12',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Universidad',
+        'Club de fotografía',
+        'Diferencia de edad',
+        'Segundo comienzo',
+        'Exnovio',
+        'Infidelidad',
+        'Primer amor',
+        'Familia',
+        'Amistad',
+        'Superación personal'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nut','Satha']}
+    ],
+    sinopsis:'Nut abandona temporalmente la universidad después de sufrir una dolorosa ruptura con su novio, que le fue infiel. Cuando finalmente regresa para continuar sus estudios, conoce a Satha, un estudiante más joven, popular y músico del club de fotografía. A pesar de la diferencia de edad y de las heridas del pasado de Nut, ambos comienzan a acercarse y deben descubrir si pueden construir una relación basada en algo más que la atracción inicial.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== My Mate Match — DR000827 =================== */
+{
+    codigo:'DR000827',
+    titulo:'My Mate Match',
+    tituloOriginal:'โหวตให้หน่อยผมไม่ค่อยกล้าเลือก',
+    alias:[
+        'Help Me Choose Roommate',
+        'My Mate Match The Series'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'My Mate Match',
+        tituloOriginal:null,
+        autor:'Patrick Rangsimant',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:'40-45 min',
+    estado:'Finalizado',
+    estreno:'2021-10-09',
+    finalizacion:'2021-11-06',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Compañeros de piso',
+        'Convivencia',
+        'Triángulo amoroso',
+        'Vlog',
+        'YouTuber',
+        'Universidad',
+        'Amistad',
+        'Elección amorosa',
+        'Enemies to Lovers',
+        'Vida cotidiana'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Match','Mix']}
+    ],
+    sinopsis:'Match, un joven creador de contenido, necesita encontrar un compañero de piso para poder pagar el alquiler de su nueva vivienda. Por una confusión aparecen dos candidatos, Mix y Ryu, y Match decide permitir que ambos vivan con él durante unas semanas mientras graba un vlog para que sus seguidores voten por el mejor compañero. La convivencia hace que la rivalidad entre los dos candidatos se transforme en una historia de sentimientos y lleva a Match a descubrir quién ocupa realmente su corazón.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== The Cupid Coach — DR000828 =================== */
+{
+    codigo:'DR000828',
+    titulo:'The Cupid Coach',
+    tituloOriginal:'โค้ชลับสลับรัก',
+    alias:[
+        'The Cupid Coach',
+        'The Cupid Coach The Series',
+        'Coach Rak Salap Rak'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'30-35 min',
+    estado:'Finalizado',
+    estreno:'2021-01-12',
+    finalizacion:'2021-03-30',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía',
+        'Deportes'
+    ],
+    tags:[
+        'Fútbol',
+        'Deporte',
+        'Cupido',
+        'Dios del amor',
+        'Amor no correspondido',
+        'Universidad',
+        'Amistad',
+        'Destino',
+        'Supernatural'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Latte','Nice']}
+    ],
+    sinopsis:'Latte es un joven futbolista que está enamorado de Pudit, un médico deportivo y antiguo alumno de su universidad. Cuando intenta descubrir lo que realmente siente por él, aparece Nice, un dios del amor encargado de ayudarle a cumplir su deseo romántico. Sin embargo, cuanto más tiempo pasan juntos, Latte comienza a comprender que sus verdaderos sentimientos no están dirigidos hacia la persona que creía amar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Deal Lover — DR000829 =================== */
+{
+    codigo:'DR000829',
+    titulo:'Deal Lover',
+    tituloOriginal:'ซื้อง่ายขายรัก',
+    alias:[
+        'Deal Lover The Series',
+        'Buy Easy, Sell Love'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:'20-23 min',
+    estado:'Finalizado',
+    estreno:'2021-02-01',
+    finalizacion:'2021-03-01',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+    tags:[
+        'Casa',
+        'Convivencia',
+        'Competición',
+        'Familia',
+        'Universidad',
+        'Amistad',
+        'Romance'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tokyo','Tam']}
+    ],
+    sinopsis:'Din y Milan compiten por hacerse con la propiedad de una casa, pero la situación obliga a sus respectivos familiares y amigos a relacionarse. Mientras la disputa por la vivienda continúa, Tokyo, el hermano menor de Milan, conoce a Tam, el mejor amigo de Din, y ambos desarrollan rápidamente una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Brothers — DR000830 =================== */
+{
+    codigo:'DR000830',
+    titulo:'Brothers',
+    tituloOriginal:'รักนะน้องชาย รักนายครับผม',
+    alias:[
+        'Brothers The Series',
+        'Rak Na Nong Chai Rak Nai Khrap Phom'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:'42-45 min',
+    estado:'Finalizado',
+    estreno:'2021-02-05',
+    finalizacion:'2021-04-30',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Juventud'
+    ],
+    tags:[
+        'Instituto',
+        'Familia',
+        'Hermanastros',
+        'Convivencia',
+        'Fotografía',
+        'Música',
+        'Amistad',
+        'Amor prohibido',
+        'Primer amor'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Chon','Prab']}
+    ],
+    sinopsis:'Chon y Prab se convierten en hermanos por matrimonio después de que sus padres se casan. Al principio ambos chocan constantemente, pero la convivencia hace que empiecen a conocerse y a desarrollar sentimientos que van más allá de la relación familiar. Cuando otro estudiante muestra interés por Chon, Prab comienza a comprender lo que realmente siente por su hermanastro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Hidden Love — DR000831 =================== */
+{
+    codigo:'DR000831',
+    titulo:'Hidden Love',
+    tituloOriginal:null,
+    alias:[
+        'Hidden Love The Series'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:'44 min',
+    estado:'Finalizado',
+    estreno:'2021-03-14',
+    finalizacion:'2021-06-13',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía',
+        'Misterio',
+        'Sobrenatural'
+    ],
+    tags:[
+        'Universidad',
+        'Residencia universitaria',
+        'Fantasmas',
+        'Leyenda urbana',
+        'Misterio',
+        'Convivencia',
+        'Amistad',
+        'Romance',
+        'Sobrenatural'
+    ],
+    personas:[],
+    ships:[],
+    sinopsis:'Un grupo de estudiantes debe vivir durante dos semanas en una residencia universitaria marcada por una antigua leyenda y por la historia de un amor trágico ocurrido años atrás. Mientras intentan descubrir qué sucedió realmente, los acontecimientos sobrenaturales hacen que sus relaciones personales y románticas se vuelvan cada vez más complicadas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Second Chance — DR000832 =================== */
+{
+    codigo:'DR000832',
+    titulo:'Second Chance',
+    tituloOriginal:'จังหวะจะรัก',
+    alias:[
+        'Second Chance The Series',
+        'Jang Wa Ja Rak'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'38-46 min',
+    estado:'Finalizado',
+    estreno:'2021-03-29',
+    finalizacion:'2021-05-03',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Escolar'
+    ],
+    tags:[
+        'Instituto',
+        'Amistad',
+        'Primer amor',
+        'Segunda oportunidad',
+        'Bullying',
+        'Abuso',
+        'Muay Thai',
+        'Familia',
+        'Superación'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Paper','Sky']},
+        {personajes:['Chris','Jeno']},
+        {personajes:['Near','M']}
+    ],
+    sinopsis:'Sky, que acaba de perder a su padre, encuentra apoyo en su mejor amigo Paper. Con el tiempo, la relación entre ambos empieza a transformarse en algo más profundo. Paralelamente, Jeno intenta superar el daño causado por su antiguo novio Arthur mientras Chris trata de ayudarle a recuperar la confianza en el amor. Near también descubre sentimientos por M, un compañero de trabajo con quien mantiene una relación a través de un juego en línea.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Siew Sum Noi — DR000833 =================== */
+{
+    codigo:'DR000833',
+    titulo:'Siew Sum Noi',
+    tituloOriginal:'เสี่ยวซำน้อย',
+    alias:[
+        'Siew Sum Noi',
+        'Little Xiao Sam',
+        'Xiao Sum Noi',
+        'Youth Friendship'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'40-48 min',
+    estado:'Finalizado',
+    estreno:'2021-05-12',
+    finalizacion:'2021-07-28',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Juventud',
+        'Deportes',
+        'Musical'
+    ],
+    tags:[
+        'Universidad',
+        'Fútbol',
+        'Deporte',
+        'Isan',
+        'Bangkok',
+        'Ídolo de internet',
+        'Familia',
+        'Empresa familiar',
+        'Amistad',
+        'Fake Dating',
+        'Diferencias sociales'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Ruk','IG']}
+    ],
+    sinopsis:'Ruk, un joven futbolista de Isan que consigue una beca deportiva en Bangkok, conoce a IG, un popular ídolo de internet que también oculta sus raíces de Isan. Ambos vuelven a encontrarse durante unas vacaciones en su región natal y, mientras afrontan los problemas familiares y personales que mantienen ocultos, su amistad comienza a transformarse en una relación romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Top Secret Together — DR000834 =================== */
+{
+    codigo:'DR000834',
+    titulo:'Top Secret Together',
+    tituloOriginal:'ได้ครับพี่ดีครับน้อง',
+    alias:[
+        'Top Secret Together The Series',
+        'Dai Khrab Phi Dee Khrab Nong'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:'40 min',
+    estado:'Finalizado',
+    estreno:'2021-05-14',
+    finalizacion:'2021-08-20',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juventud'
+    ],
+    tags:[
+        'Antología',
+        'Cinco parejas',
+        'Universidad',
+        'Trabajo',
+        'Prácticas',
+        'Amistad',
+        'Relación secreta',
+        'Primer amor',
+        'Parejas ficticias',
+        'Familia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Simai','Lukmo']},
+        {personajes:['Phob','MaiEak']},
+        {personajes:['Taow','Tiger']},
+        {personajes:['Nampu','Copy']},
+        {personajes:['Both','Newyear']}
+    ],
+    sinopsis:'Top Secret Together reúne cinco historias románticas conectadas por un mismo tema: los secretos que cada pareja guarda sobre sus sentimientos y relaciones. Simai comienza unas prácticas bajo la supervisión de Lukmo; Phob mantiene sentimientos por su mejor amigo MaiEak; Taow y Tiger llevan años juntos; Nampu intenta conquistar a Copy; y Both y Newyear afrontan su relación dentro de la industria del entretenimiento.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== The Best Story — DR000835 =================== */
+{
+    codigo:'DR000835',
+    titulo:'The Best Story',
+    tituloOriginal:'ครั้งหนึ่งที่รัก',
+    alias:[
+        'The Best Story',
+        'The Best Story The Series'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:3,
+    duracion:'33-49 min',
+    estado:'Finalizado',
+    estreno:'2021-07-09',
+    finalizacion:'2021-07-23',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Coming of Age'
+    ],
+    tags:[
+        'Instituto',
+        'Amor secreto',
+        'Amor no correspondido',
+        'Música',
+        'Guitarra',
+        'Amistad',
+        'Celos',
+        'Primer amor',
+        'Familia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Dew','Best']}
+    ],
+    sinopsis:'Best, un estudiante tímido que suele sentirse como un fracasado, se enamora de Dew, un compañero popular y músico. Incapaz de confesar directamente sus sentimientos, Best comienza a escribir una canción para expresar lo que siente. Mientras el curso escolar llega a su fin, deberá decidir si finalmente se atreve a contarle a Dew la verdad sobre su amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== The Yearbook — DR000836 =================== */
+{
+    codigo:'DR000836',
+    titulo:'The Yearbook',
+    tituloOriginal:'หนังสือรุ่น',
+    alias:[
+        'The YearBook',
+        'The Yearbook หนังสือรุ่น'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Cortometraje',
+        relacion:'Adaptación',
+        titulo:'The Yearbook',
+        tituloOriginal:null,
+        autor:'Mean Phiravich Attachitsataporn',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'45-55 min',
+    estado:'Finalizado',
+    estreno:'2021-07-15',
+    finalizacion:'2021-09-02',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juventud',
+        'Coming of Age'
+    ],
+    tags:[
+        'Instituto',
+        'Amigos de la infancia',
+        'Reencuentro',
+        'Amor secreto',
+        'Separación',
+        'Nostalgia',
+        'Familia',
+        'Música',
+        'Años 2000',
+        'Segunda oportunidad'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nut','Phob']}
+    ],
+    sinopsis:'Nut y Phob son amigos de la infancia, compañeros de clase y vecinos. Durante su último año de instituto, una serie de malentendidos y sentimientos que ninguno de los dos se atreve a expresar termina separándolos. Cuatro años después, Phob regresa a su ciudad natal y el anuario escolar vuelve a abrir las heridas y recuerdos de aquella relación que quedó sin resolver.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Love With Benefits — DR000837 =================== */
+{
+    codigo:'DR000837',
+    titulo:'Love With Benefits',
+    tituloOriginal:'10 วันให้ฉันรักเธอ',
+    alias:[
+        'Love With Benefits The Series',
+        'Love With Benefits 10'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:'40-45 min',
+    estado:'Finalizado',
+    estreno:'2021-11-01',
+    finalizacion:'2021-11-29',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+    tags:[
+        'Industria BL',
+        'Actores',
+        'Convivencia',
+        'Relación fingida',
+        'Showbiz',
+        'Compañeros de piso',
+        'Celos',
+        'Amor no correspondido',
+        'Trabajo'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Play','First']}
+    ],
+    sinopsis:'Play y First son dos jóvenes actores seleccionados para protagonizar una nueva serie BL, pero su falta de química preocupa a la producción. Para conseguir que desarrollen una relación más natural frente a las cámaras, los obligan a vivir juntos durante diez días. La llegada de Pluto, un actor de mayor experiencia que además conoce a Play, complica todavía más sus sentimientos y pone a prueba la relación que empieza a surgir entre los dos protagonistas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Loveless Society — DR000838 =================== */
+{
+    codigo:'DR000838',
+    titulo:'Loveless Society',
+    tituloOriginal:'เพราะรัก.....ออกแบบไม่ได้',
+    alias:[
+        'Loveless Society The Series',
+        'Loveless The Series'
+    ],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Loveless Society',
+        tituloOriginal:null,
+        autor:'Miranda',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:'36-44 min',
+    estado:'Finalizado',
+    estreno:'2021-11-26',
+    finalizacion:'2021-12-25',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Arte',
+        'Amistad'
+    ],
+    tags:[
+        'Arte',
+        'Diseño',
+        'Fotografía',
+        'Publicidad',
+        'Trabajo',
+        'Competición',
+        'Agencia creativa',
+        'Amistad',
+        'Amor no correspondido',
+        'Enemies to Lovers'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nut','Guy']}
+    ],
+    sinopsis:'Nut es un artista y creativo que participa junto a sus amigos en una competición publicitaria. Para el proyecto debe trabajar con Guy, un fotógrafo conocido por su personalidad provocadora y por su éxito dentro de la industria. Mientras ambos afrontan la competición y sus diferencias profesionales, Guy comienza a desarrollar sentimientos por Nut, complicando tanto el trabajo como la amistad del grupo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Loveless Society Episode 0',
+            tituloOriginal:null,
+            alias:[
+                'Loveless Society Special Episode'
+            ],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-11-12'
+        }
+    ],
+    activo:true
+},
+	/* =============== 7 Project — DR000839 =================== */
+	{
+    codigo:'DR000839',
+    titulo:'7 Project',
+    tituloOriginal:'7 Project',
+    alias:['Seven Project','7 Project The Series'],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Antología',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2021-08-30',
+    finalizacion:'2021-10-11',
+    generos:['BL','GL','Romance','Drama'],
+    tags:['Antología','Juventud','Escolar','Universidad','Historias independientes','Studio Wabi Sabi'],
+    personas:[],
+    ships:[
+        {personajes:['Ozone','Sun']},
+        {personajes:['Rhythm','Pimdao']},
+        {personajes:['Mek','Balloon']},
+        {personajes:['Ryu','Jinny']},
+        {personajes:['Phupha','Tonnam']},
+        {personajes:['Beam','Tonkhao']}
+    ],
+    sinopsis:'Antología de siete historias independientes de romance, inspiradas en siete canciones y producidas por Studio Wabi Sabi. La producción presenta historias BL, GL y heterosexuales ambientadas principalmente en contextos escolares y universitarios. Cada episodio cuenta una historia diferente: Ozone y Sun en Would You Be My Love, Rhythm y Pimdao en Rhythm’s Heart, Proud y Jaidee en Remember, Mek y Balloon en Once Upon A Time, Ryu y Jinny en Breakup Zone, Phupha y Tonnam en VS Love, y Beam y Tonkhao en 50% My Puppy Love.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    relaciones:[
+        {tipo:'Antología',historia:'Would You Be My Love',pareja:'Ozone / Sun',episodio:1},
+        {tipo:'Antología',historia:"Rhythm's Heart",pareja:'Rhythm / Pimdao',episodio:2},
+        {tipo:'Antología',historia:'Remember',pareja:'Proud / Jaidee',episodio:3},
+        {tipo:'Antología',historia:'Once Upon A Time',pareja:'Mek / Balloon',episodio:4},
+        {tipo:'Antología',historia:'Breakup Zone',pareja:'Ryu / Jinny',episodio:5},
+        {tipo:'Antología',historia:'VS Love',pareja:'Phupha / Tonnam',episodio:6},
+        {tipo:'Antología',historia:'50% My Puppy Love',pareja:'Beam / Tonkhao',episodio:7}
+    ],
+    activo:true
+},
+	/* =============== Hometown's Embrace — DR000840 =================== */
+	{
+    codigo:'DR000840',
+    titulo:"Hometown's Embrace",
+    tituloOriginal:'อ้อมกอดบ้านเกิด',
+    alias:['Hometown\'s Embrace The Series','อ้อมกอดบ้านเกิด Series'],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2021-06-18',
+    finalizacion:'2021-08-06',
+    generos:['BL','Romance','Drama','Acción','Thriller'],
+    tags:['Isan','Pueblo','Regreso al hogar','Venganza','Comunidad','Tráfico de drogas','Protección'],
+    personas:[],
+    ships:[
+        {personajes:['Than','Din']},
+        {personajes:['Mongkon','Mek']},
+        {personajes:['Dan','Khet']}
+    ],
+    sinopsis:'Drama BL ambientado en la región de Isan, en el noreste de Tailandia. Than regresa a su pueblo natal después de terminar sus estudios con la intención de mejorar la vida de la comunidad, pero acaba enfrentándose a una organización criminal que amenaza a los habitantes. Din, que trabaja para los criminales mientras lucha con su propia conciencia, se acerca a Than. Paralelamente, Mongkon conoce al nuevo profesor Mek en la escuela de su familia, mientras Dan y Khet unen sus fuerzas para vengar la muerte de sus padres a manos de la misma organización.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== THE LOVE OF WINTER — DR000841 =================== */
+{
+    codigo:'DR000841',
+    titulo:'The Love of Winter',
+    tituloOriginal:'ก่อนฤดูหนาวผ่าน',
+    alias:['The Love Of Winter','Before Winter Passes'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:2,
+    duracion:22,
+    estado:'Finalizado',
+    estreno:'2022-01-28',
+    finalizacion:'2022-01-28',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Kinn','Tidnuer']}
+    ],
+    sinopsis:'Kinn, cansado de su vida cotidiana y de una reciente ruptura, viaja al norte de Tailandia buscando tranquilidad. Allí conoce a Tidnuer, un joven local que trabaja como guía y que le ayuda a descubrir la zona. Lo que comienza como un encuentro casual se transforma poco a poco en una relación romántica.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== BOY SCOUTS — DR000842 =================== */
+{
+    codigo:'DR000842',
+    titulo:'Boy Scouts',
+    tituloOriginal:'ลูกเสือ',
+    alias:['Boy Scouts The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:2,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2022-02-23',
+    finalizacion:'2022-03-02',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Anirut','Ram']}
+    ],
+    sinopsis:'Durante el último campamento de scouts de su infancia, Anirut y Ram, dos compañeros de escuela que apenas se conocen, son asignados al mismo grupo. Lejos de las aulas y de las expectativas de los demás, ambos comienzan a descubrirse mutuamente y a comprender los sentimientos que empiezan a surgir entre ellos.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== SOMETHING IN MY ROOM — DR000843 =================== */
+{
+    codigo:'DR000843',
+    titulo:'Something in My Room',
+    tituloOriginal:'ผมกับผีในห้อง',
+    alias:['Phom Kub Phee Nai Hong','My Dear Ghost Roommate'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Cómic',
+        relacion:'Adaptación',
+        titulo:'Something in My Room',
+        tituloOriginal:'ผมและผีในห้อง',
+        autor:'raflael',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-01-19',
+    finalizacion:'2022-03-23',
+    generos:['BL','Romance','Fantasía','Misterio'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Phat','Phob']}
+    ],
+    sinopsis:'Phat se muda con su madre a una nueva casa y pronto descubre que está habitada por Phob, un fantasma joven que ha perdido la memoria y no recuerda cómo murió. Phat comienza a ayudarlo a descubrir su pasado antes de que termine el tiempo que tiene para permanecer en el mundo de los vivos. Mientras investigan juntos, su convivencia se transforma en una relación cada vez más profunda.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== YOU'RE MY SKY — DR000844 =================== */
+{
+    codigo:'DR000844',
+    titulo:"You're My Sky",
+    tituloOriginal:'จุดหมายคือท้องฟ้า',
+    alias:["You're My Sky The Series",'Chutmai Khue Thongfa'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-01-08',
+    finalizacion:'2022-03-26',
+    generos:['BL','Romance','Deportes','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Tupfah','Thorn']},
+        {personajes:['Aii','Saen']}
+    ],
+    sinopsis:'Thorn, estudiante universitario y apasionado del baloncesto, vuelve a encontrarse con Tupfah, un antiguo jugador que abandonó sus sueños deportivos. Mientras intenta convencerlo para que vuelva a competir, Thorn descubre que sus sentimientos por él van mucho más allá de la amistad. Paralelamente, Aii y Saen desarrollan una relación mientras Aii lucha por equilibrar sus estudios, su futuro académico y el amor.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY RIDE — DR000845 =================== */
+{
+    codigo:'DR000845',
+    titulo:'My Ride',
+    tituloOriginal:'รักนาย',
+    alias:['My Ride The Series','My Ride, I Love You','Rak Nai'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'My Ride, I Love You',
+        tituloOriginal:null,
+        autor:'Patrick Rangsimant',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-01-27',
+    finalizacion:'2022-03-31',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Mork','Tawan']},
+        {personajes:['Tawan','Por']}
+    ],
+    sinopsis:'Tawan es un médico residente que conoce a Mork, un conductor de mototaxi al que comienza a contratar con frecuencia para desplazarse por Bangkok. Mientras Tawan atraviesa una relación complicada con Por y Mork acaba de salir de una relación, ambos comienzan a acercarse y descubren sentimientos que transforman su amistad en amor.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PHYSICAL THERAPY — DR000846 =================== */
+{
+    codigo:'DR000846',
+    titulo:'Physical Therapy',
+    tituloOriginal:'ผมปวดกาย นายปวดใจ',
+    alias:['Phom Puuad Kaai Naai Puuad Jai','Physical Therapy The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-01-23',
+    finalizacion:'2022-04-10',
+    generos:['BL','Romance','Drama','Medicina'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Milk','Pun']},
+        {personajes:['Milk','Ake']}
+    ],
+    sinopsis:'Milk, todavía afectado por la ruptura con su antiguo novio Ake, conoce al doctor Pun durante un proceso de rehabilitación. Lo que comienza como una relación entre paciente y médico se transforma gradualmente en un vínculo afectivo mientras ambos afrontan sus heridas personales y las dificultades que aparecen en su camino.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== RESTART(ED) — DR000847 =================== */
+{
+    codigo:'DR000847',
+    titulo:'Restart(ed)',
+    tituloOriginal:'ขอรักอีกครั้งได้ไหม',
+    alias:['Re•start(ed)','Restarted','Restart','The Restart(ed)'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-01-30',
+    finalizacion:'2022-04-17',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Yu','Chin']},
+        {personajes:['Zeemai','Zo']},
+        {personajes:['Jed','Unwa']}
+    ],
+    sinopsis:'Durante su primer año universitario, Yu conoce a Chin y entre ambos nace una amistad que poco a poco se convierte en algo más. Al mismo tiempo, Zeemai intenta dejar atrás su imagen de estudiante tímido y descubre nuevos sentimientos al conocer a Zo. Jed, que nunca ha tenido una relación, comienza a enamorarse de Unwa sin darse cuenta.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE TUXEDO — DR000848 =================== */
+{
+    codigo:'DR000848',
+    titulo:'The Tuxedo',
+    tituloOriginal:'สูทรักนักออกแบบ',
+    alias:['The Tuxedo The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2022-03-05',
+    finalizacion:'2022-04-22',
+    generos:['BL','Romance','Drama'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Nawee','Aioun']}
+    ],
+    sinopsis:'Nawee, heredero de una gran fortuna, es arrogante y distante debido a una grave fobia social provocada por un trauma de infancia. Su vida cambia cuando conoce a Aioun, un talentoso sastre que debe confeccionar sus trajes. A medida que trabajan juntos, la confianza y la atracción entre ambos crecen hasta convertirse en una relación amorosa.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE MIRACLE OF TEDDY BEAR — DR000849 =================== */
+{
+    codigo:'DR000849',
+    titulo:'The Miracle of Teddy Bear',
+    tituloOriginal:'คุณหมีปาฏิหาริย์',
+    alias:['Teddy Bear Miracle','Khun Mee Patihan'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Khun Mee Patihan',
+        tituloOriginal:'คุณหมีปาฏิหาริย์',
+        autor:'Prapt',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:16,
+    duracion:80,
+    estado:'Finalizado',
+    estreno:'2022-03-27',
+    finalizacion:'2022-05-01',
+    generos:['BL','Romance','Fantasía','Drama','Misterio'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Nut','Taohu']},
+        {personajes:['Nut','Tatarn']},
+        {personajes:['Kensit','Song']}
+    ],
+    sinopsis:'Taohu es un enorme oso de peluche que ha acompañado y consolado a Nut durante diez años. Un día, el oso se transforma milagrosamente en un joven sin recuerdos. Mientras intenta descubrir quién es y por qué se ha convertido en humano, Taohu se acerca cada vez más a Nut y descubre los secretos y traumas de su familia. Al mismo tiempo, el pasado de Nut y su antiguo novio Tatarn vuelve a aparecer en su vida.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== LOVE STAGE!! — DR000850 =================== */
+{
+    codigo:'DR000850',
+    titulo:'LOVE STAGE!!',
+    tituloOriginal:'LOVE STAGE!!',
+    alias:['Love Stage!!','Love Stage'],
+    pais:['JP'],
+    anio:2020,
+    tipo:'Película',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000850',orden:1},
+    origen:{
+        tipo:'Manga',
+        relacion:'Adaptación',
+        titulo:'Love Stage!!',
+        tituloOriginal:'ラブ ステージ!!',
+        autor:'Eiki Eiki',
+        ilustrador:'Taishi Zaou',
+        pais:'JP'
+    },
+    temporadas:null,
+    temporada:null,
+    episodios:1,
+    duracion:84,
+    estado:'Finalizado',
+    estreno:'2020-10-02',
+    finalizacion:'2020-10-02',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Adaptación de manga','Celebridades','Primer amor','Mundo del espectáculo','Universidad','Otaku'],
+    personas:[],
+    ships:[
+        {personajes:['Izumi Sena','Ryoma Ichijo']}
+    ],
+    sinopsis:null,
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== LOVE STAGE!! — DR000851 =================== */
+{
+    codigo:'DR000851',
+    titulo:'Love Stage!!',
+    tituloOriginal:'เลิฟสเตจ',
+    alias:['Love Stage','Love Stage!! The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000850',orden:2},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:44,
+    estado:'Finalizado',
+    estreno:'2022-01-29',
+    finalizacion:'2022-04-02',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Adaptación de manga','Celebridades','Primer amor','Romance secreto','Mundo del espectáculo','Mangaka'],
+    personas:[],
+    ships:[
+        {personajes:['Ryou','Anda']},
+        {personajes:['Thee','Jed']}
+    ],
+    sinopsis:'Anda es un estudiante universitario y aspirante a mangaka que nació en una famosa familia del mundo del espectáculo, aunque él no desea seguir los pasos de sus padres y su hermano. Diez años después de participar en un anuncio vestido de niña, una nueva grabación le obliga a repetir aquella experiencia. Allí se reencuentra con Ryo, el entonces niño que se enamoró de aquella misteriosa chica y que, ahora convertido en un popular actor, ha esperado durante años volver a encontrarla. Sin saber que aquella persona era en realidad Anda, Ryo tendrá que enfrentarse a sus sentimientos cuando descubra la verdad.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== RAK DIAO — DR000852 =================== */
+{
+    codigo:'DR000852',
+    titulo:'Rak Diao',
+    tituloOriginal:'รักเดียว',
+    alias:['One Love','The One and Only'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:47,
+    estado:'Finalizado',
+    estreno:'2022-01-23',
+    finalizacion:'2022-05-07',
+    generos:['BL','Romance','Comedia'],
+    tags:['Enemigos a amantes','Jefe y empleado','Compañeros de casa','Convivencia','Slow burn','Sitcom'],
+    personas:[],
+    ships:[
+        {personajes:['Rak','Diao']}
+    ],
+    sinopsis:'Diao, recién graduado y en busca de trabajo, se muda con su hermana y termina compartiendo casa con Rak, un ejecutivo que además se convierte en su jefe. Los dos tienen personalidades completamente opuestas y no tardan en enfrentarse tanto en casa como en el trabajo. Entre discusiones, convivencia forzada y situaciones cada vez más cercanas, la rivalidad inicial empieza a transformarse en algo diferente.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== SECRET CRUSH ON YOU — DR000854 =================== */
+{
+    codigo:'DR000854',
+    titulo:'Secret Crush on You',
+    tituloOriginal:'แอบหลงรัก',
+    alias:['Stalker the Series','Aep Long Rak','แอบหลงรักเดอะซีรีส์'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Stalker',
+        tituloOriginal:'แอบ.หลง.รัก',
+        autor:'Darin',
+        ilustrador:'Poppycage',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2022-02-11',
+    finalizacion:'2022-05-13',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Adaptación de novela','Universidad','Crush secreto','Amor no correspondido','Campus','Friends to lovers','Romance secundario','GL'],
+    personas:[],
+    ships:[
+        {personajes:['Toh','Nuea']},
+        {personajes:['Jao','Sky']},
+        {personajes:['Daisy','Touch']},
+        {personajes:['Som','Tor']},
+        {personajes:['Kongkwan','Fon']}
+    ],
+    sinopsis:'Toh es un estudiante universitario tímido e inseguro que lleva tiempo enamorado en secreto de Nuea, uno de los estudiantes más populares de la universidad. Incapaz de acercarse a él, Toh se limita a observarlo y guardar recuerdos de la persona que admira. Sin embargo, cuando las circunstancias hacen que ambos se acerquen, Nuea comienza a corresponder sus sentimientos y el secreto que Toh ha guardado durante tanto tiempo amenaza con salir a la luz.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Secret Crush on You — Special Episode',
+            tituloOriginal:'แอบหลงรัก Special Episode',
+            alias:['Behind The Scenes'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-05-20'
+        }
+    ],
+    activo:true
+},
+	/* =============== WHAT ZABB MAN! — DR000855 =================== */
+{
+    codigo:'DR000855',
+    titulo:'What Zabb Man!',
+    tituloOriginal:'รักวุ่นวายนายรสแซ่บ',
+    alias:['Mr. Rossab’s Chaotic Love','The Chaotic Love of Mr. Rossab','Mr Rozabb’s Chaotic Love'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'รักวุ่นวาย นายรสแซ่บ',
+        tituloOriginal:'รักวุ่นวาย นายรสแซ่บ',
+        autor:'Sutharat Dara',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-04-09',
+    finalizacion:'2022-05-28',
+    generos:['BL','Romance','Comedia','Drama'],
+    tags:['Adaptación de novela','Cocina','Gastronomía','Jefe y empleado','Chef','Foodie','Enemigos a amantes'],
+    personas:[],
+    ships:[
+        {personajes:['Poon','Athip']},
+        {personajes:['Mayom','Teng']}
+    ],
+    sinopsis:'Poon trabaja incansablemente para mantener a su hermano menor y se gana la vida vendiendo som tam en un puesto callejero. Su talento para la cocina llama la atención de un cliente que le ofrece trabajar como chef en un hotel de lujo. Allí conoce a Athip, el exigente propietario del hotel, y su relación comienza marcada por los enfrentamientos y las diferencias de carácter. Mientras tanto, el crítico gastronómico Mayom se acerca cada vez más a Teng.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== THAT'S MY CANDY — DR000856 =================== */
+{
+    codigo:'DR000856',
+    titulo:"That's My Candy",
+    tituloOriginal:'นายแคนดี้ของฉัน',
+    alias:['That’s My Candy','Nai Candy Khong Chan'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:44,
+    estado:'Finalizado',
+    estreno:'2022-04-24',
+    finalizacion:'2022-05-29',
+    generos:['BL','Romance','Comedia','Fantasía'],
+    tags:['Pareja de larga duración','Reconciliación','Magia','Dulces','Enfermería','Universidad','Supernatural'],
+    personas:[],
+    ships:[
+        {personajes:['Guy','Jing']}
+    ],
+    sinopsis:'Guy y Jing llevan tiempo siendo pareja, pero sus obligaciones hacen que apenas tengan tiempo para estar juntos. Después de una fuerte discusión, Jing decide terminar la relación. Desesperado por recuperar a su novio, Guy busca la ayuda del VJ favorito de Jing y acaba recibiendo un misterioso dulce con poderes mágicos que podría darle una oportunidad para reparar su relación.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== MEOW EARS UP — DR000857 =================== */
+{
+    codigo:'DR000857',
+    titulo:'Meow Ears Up',
+    tituloOriginal:'น้องเหมียวในห้องผม',
+    alias:['Nong Meow in My Room','Nong Meow Nai Hong Phom'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manhua',
+        relacion:'Adaptación',
+        titulo:'Hey, Your Ears Popped Out!',
+        tituloOriginal:'喂，看見耳朵啦',
+        autor:'Tracy Hu',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2022-04-12',
+    finalizacion:'2022-05-31',
+    generos:['BL','Romance','Comedia','Fantasía','Drama'],
+    tags:['Adaptación de manhua','Shapeshifter','Hombre gato','Artista de cómics','Huérfano','Convivencia','GL','Supernatural'],
+    personas:[],
+    ships:[
+        {personajes:['Dermdem','Meow']},
+        {personajes:['Evan','Faiyen']},,
+		
+        {personajes:['Jin','Manni']}
+    ],
+    sinopsis:'Dermdem es un dibujante de cómics solitario que creció en un orfanato y nunca ha conocido plenamente el calor de una familia. Un día encuentra un gato abandonado y decide llevárselo a casa, pero descubre sorprendido que el animal puede transformarse en humano. Meow pertenece a una tribu cuyos miembros poseen orejas y rasgos felinos. Su llegada cambia por completo la tranquila vida de Dermdem y le enseña a descubrir el cariño y la felicidad.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== LA CUISINE — DR000858 =================== */
+{
+    codigo:'DR000858',
+    titulo:'La Cuisine',
+    tituloOriginal:'เมนูลับฉบับแก้มยุ้ย',
+    alias:['The Secret Menu of Kaem Yui','Menu Lap Chabap Kaem Yui'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'La Cuisine',
+        tituloOriginal:'เมนูลับฉบับแก้มยุ้ย',
+        autor:'GrandPine',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:43,
+    estado:'Finalizado',
+    estreno:'2022-03-12',
+    finalizacion:'2022-06-04',
+    generos:['BL','Romance','Comedia'],
+    tags:['Adaptación de novela','Cocina','Universidad','Senior y junior','Postres tailandeses','Crush secreto','Comida'],
+    personas:[],
+    ships:[
+        {personajes:['Ram','Lukchup']}
+    ],
+    sinopsis:'Ram es un estudiante de arquitectura de tercer año, rico, popular y muy exigente con la comida. Lukchup, un estudiante menor de Alimentación y Nutrición, lleva tiempo enamorado de él pero no se atreve a confesar sus sentimientos. El destino hace que sus caminos se crucen a través de la comida y los postres tailandeses, dando comienzo a una relación que irá creciendo poco a poco.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== DEAR DOCTOR, I'M COMING FOR SOUL — DR000859 =================== */
+{
+    codigo:'DR000859',
+    titulo:"Dear Doctor, I'm Coming for Soul",
+    tituloOriginal:'คุณหมอครับ ผมมารับวิญญาณคนไข้',
+    alias:['Dear Doctor','Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai','Dear Doctor, I'm Coming for Your Soul'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:"Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai",
+        tituloOriginal:'คุณหมอครับ ผมมารับวิญญาณคนไข้',
+        autor:'Hungry Bird',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2022-03-23',
+    finalizacion:'2022-06-08',
+    generos:['BL','Romance','Fantasía','Drama','Medicina'],
+    tags:['Adaptación de novela','Médico','Segador de almas','Sobrenatural','Vida y muerte','Hospital','Romance sobrenatural'],
+    personas:[],
+    ships:[
+        {personajes:['Prakan','Tua Phee']}
+    ],
+    sinopsis:'Prakan es un cirujano dedicado a salvar vidas, pero posee la capacidad de ver a Tua Phee, un segador de almas que aparece cuando uno de sus pacientes está cerca de morir. Para Prakan, su presencia representa el fracaso de sus esfuerzos como médico. Sin embargo, ambos descubren que viven como vecinos y su enfrentamiento inicial comienza a transformarse en una relación mucho más profunda.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== KINNPORSCHE — DR000860 =================== */
+{
+    codigo:'DR000860',
+    titulo:'KinnPorsche',
+    tituloOriginal:'คินน์พอร์ช เดอะซีรีส์',
+    alias:['KinnPorsche The Series','KinnPorsche The Series: La Forte','Rak Khot Rai Sut Thai Khot Rak'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'KinnPorsche Story',
+        tituloOriginal:'รักโคตรร้าย สุดท้ายโคตรรัก',
+        autor:'Daemi',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:55,
+    estado:'Finalizado',
+    estreno:'2022-04-02',
+    finalizacion:'2022-07-09',
+    generos:['BL','Romance','Acción','Drama','Crimen'],
+    tags:['Adaptación de novela','Mafia','Guardaespaldas','Acción','Crimen organizado','Enemigos a amantes','Familia','Romance prohibido'],
+    personas:[],
+    ships:[
+        {personajes:['Kinn','Porsche']},
+        {personajes:['Vegas','Pete']},
+        {personajes:['Kim','Chay']},
+        {personajes:['Time','Tay']}
+    ],
+    sinopsis:'Porsche es un joven estudiante y hábil luchador que intenta mantener a su hermano menor mientras trabaja para sobrevivir. Cuando ayuda a Kinn, heredero de una poderosa familia mafiosa, este le ofrece convertirse en su guardaespaldas. Porsche se ve así arrastrado al peligroso mundo de la mafia y obligado a convivir cada vez más cerca de Kinn. Lo que comienza como una relación profesional marcada por los conflictos termina convirtiéndose en un vínculo amoroso que amenaza con complicar todavía más las luchas de poder entre las dos familias.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[
+        {
+            titulo:'KinnPorsche — Special Episode',
+            tituloOriginal:'Special Episode',
+            alias:['iQIYI Special Episode'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-04-16'
+        },
+        {
+            titulo:'KinnPorsche — Side Story',
+            tituloOriginal:'Side Story',
+            alias:['KinnPorsche Side Story'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            duracion:9,
+            estreno:'2022-05-19'
+        }
+    ],
+    activo:true
+},
+	/* =============== RAINBOW LAGOON — DR000861 =================== */
+{
+    codigo:'DR000861',
+    titulo:'Rainbow Lagoon',
+    tituloOriginal:'ห้วยตึงเฒ่า',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:2,
+    duracion:28,
+    estado:'Finalizado',
+    estreno:'2022-07-04',
+    finalizacion:'2022-07-11',
+    generos:['BL','Romance'],
+    tags:['Rivales a amantes','Reencuentro','Triángulo amoroso','Corto','YouTube'],
+    personas:[],
+    ships:[
+        {personajes:['Oak','Khao Nueng']}
+    ],
+    sinopsis:'Dos chicos se enfrentan por el amor de una chica, pero ella termina eligiendo a otro. Tiempo después, sus caminos vuelven a cruzarse y descubren que, pese a su rivalidad inicial, tienen más cosas en común de lo que imaginaban. Lo que comenzó como una competición acaba dando paso a una inesperada atracción.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== TRIAGE — DR000862 =================== */
+{
+    codigo:'DR000862',
+    titulo:'Triage',
+    tituloOriginal:'ทริอาช',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Triage',
+        tituloOriginal:'Triage',
+        autor:'Sammon',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:'45-60 min',
+    estado:'Finalizado',
+    estreno:'2022-04-18',
+    finalizacion:'2022-07-11',
+    generos:['BL','Romance','Médico','Fantasía','Suspense','Viajes en el tiempo'],
+    tags:['Adaptación de novela','Médicos','Viajes en el tiempo','Bucle temporal','Rescate','Destino','Segundas oportunidades','Misterio'],
+    personas:[],
+    ships:[
+        {personajes:['Tin','Tol']},
+        {personajes:['Sing','Gap']}
+    ],
+    sinopsis:'Tin, un médico de urgencias, queda atrapado en un bucle temporal en el que revive repetidamente la misma noche. Para romper el ciclo y salvar a Tol, un joven ingresado tras un accidente, deberá descubrir qué está provocando su muerte y enfrentarse a una serie de decisiones que cambiarán tanto su destino como el de quienes lo rodean.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+/* =============== IN A RELATIONSHIP — DR000863 =================== */
+{
+    codigo:'DR000863',
+    titulo:'In a Relationship',
+    tituloOriginal:'สถานะรักเธอ',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:20,
+    duracion:'5 min',
+    estado:'Finalizado',
+    estreno:'2022-06-10',
+    finalizacion:'2022-07-23',
+    generos:['BL','Romance','Juvenil','Comedia','Videojuegos','Redes sociales'],
+    tags:['Influencer','Gamer','Videojuegos','Redes sociales','Enemigos a amantes','Amor a distancia','Crush','Mini-serie'],
+    personas:[],
+    ships:[
+        {personajes:['Boss','Tono']}
+    ],
+    sinopsis:'Boss, un influencer conocido en el mundo online, reta a Tono, un gamer, a vencerlo en un duelo virtual. El perdedor deberá cumplir tres deseos del ganador. Boss utiliza el desafío como una oportunidad para acercarse a su crush, mientras Tono descubre que el último deseo puede cambiar por completo la relación entre ambos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+/* =============== CHECK OUT — DR000864 =================== */
+{
+    codigo:'DR000864',
+    titulo:'Check Out',
+    tituloOriginal:'คืนนั้นกับนายดาวเหนือ',
+    alias:['Check Out The Series','Khuen Nan Kap Nai Daonuea'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'60-70 min',
+    estado:'Finalizado',
+    estreno:'2022-06-11',
+    finalizacion:'2022-08-27',
+    generos:['BL','Romance','Drama','Juvenil','Viajes'],
+    tags:['Viaje','Reencuentro','Primer amor','Exparejas','Triángulo amoroso','Hotel','Segundas oportunidades','Relaciones complicadas'],
+    personas:[],
+    ships:[
+        {personajes:['Nine','Daonuea']},
+        {personajes:['Tee','Ice']}
+    ],
+    sinopsis:'Daonuea viaja solo tras terminar su primera relación y conoce en un resort a Nine, un desconocido con quien surge una conexión inmediata. Cuando regresan a sus vidas cotidianas, Nine desaparece durante meses. Daonuea intenta seguir adelante y comienza una relación con su antiguo amor Tee, pero el inesperado regreso de Nine vuelve a poner en conflicto sus sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Check Out — Episode 0',
+            tituloOriginal:'คืนนั้นกับนายดาวเหนือ',
+            alias:['Episode 0','Prologue'],
+            tipo:'Especial',
+            anio:2021,
+            episodios:1,
+            estreno:'2021-08-22'
+        },
+        {
+            titulo:'Check Out — Special Episode 13',
+            tituloOriginal:'Check Out Special Episode 13',
+            alias:['Episode 13','Epilogue'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-09-03'
+        }
+    ],
+    activo:true
+},
+
+/* =============== 21 DAYS THEORY — DR000865 =================== */
+{
+    codigo:'DR000865',
+    titulo:'21 Days Theory',
+    tituloOriginal:'21 วัน มีฉันมีเธอ',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:'38-44 min',
+    estado:'Finalizado',
+    estreno:'2022-08-07',
+    finalizacion:'2022-08-28',
+    generos:['BL','Romance','Juvenil','Drama'],
+    tags:['Instituto','Reto','Rivales a amantes','Primer amor','Cuenta atrás','Amistad','Adolescencia','Mini-serie'],
+    personas:[],
+    ships:[
+        {personajes:['X','Q']}
+    ],
+    sinopsis:'Q es un estudiante que lucha constantemente por alcanzar sus objetivos y que acepta un reto de X, un alumno brillante y popular. El desafío les da solo 21 días para conseguir que Mook, una conocida influencer, lo invite a una ceremonia. Lo que comienza como una competición termina acercándolos y haciendo que ambos descubran sentimientos que no esperaban.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+/* =============== ON CLOUD NINE — DR000866 =================== */
+{
+    codigo:'DR000866',
+    titulo:'On Cloud Nine',
+    tituloOriginal:'On Cloud Nine',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'24-33 min',
+    estado:'Finalizado',
+    estreno:'2022-08-06',
+    finalizacion:'2022-09-10',
+    generos:['BL','Romance','Fantasía','Misterio','Drama'],
+    tags:['Reencuentro','Recuerdos','Almas gemelas','Promesas','Amor perdido','Segundas oportunidades','Chiang Mai','Fantasía'],
+    personas:[],
+    ships:[
+        {personajes:['Tiew','Mork']}
+    ],
+    sinopsis:'Tiew y Mork se prometieron esperarse a pesar de la distancia que los separaba. Cuando finalmente vuelven a encontrarse, descubren que el tiempo ha cambiado algunas cosas, pero que sus sentimientos siguen ligados a una promesa del pasado. Entre recuerdos, secretos y una atmósfera casi onírica, ambos intentan comprender qué ocurrió realmente entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'On Cloud Nine — Special Scenes',
+            tituloOriginal:'Special Scenes',
+            alias:['Special Scenes'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-10-09'
+        }
+    ],
+    activo:true
+},
+
+/* =============== WHAT IF — DR000867 =================== */
+{
+    codigo:'DR000867',
+    titulo:'What If',
+    tituloOriginal:'สมมติว่า',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:'10 min',
+    estado:'Finalizado',
+    estreno:'2022-08-22',
+    finalizacion:'2022-09-12',
+    generos:['BL','Romance','Juvenil','Música'],
+    tags:['Amigos de la infancia','Vecinos','Amor secreto','Coming of age','Universidad','Música','Reencuentro','Primer amor'],
+    personas:[],
+    ships:[
+        {personajes:['Peach','Smart']}
+    ],
+    sinopsis:'Peach y Smart son vecinos y amigos inseparables desde niños. Aunque siempre han sentido algo especial el uno por el otro, ninguno se atreve a poner nombre a esos sentimientos. Cuando Peach comienza la universidad y se distancia de Smart, este comprende cuánto significa para él y decide ingresar en la misma universidad, donde ambos podrán reencontrarse y perseguir juntos su sueño de convertirse en cantantes.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+/* =============== COFFEE MELODY — DR000868 =================== */
+{
+    codigo:'DR000868',
+    titulo:'Coffee Melody',
+    tituloOriginal:'เพลงที่รัก',
+    alias:['Coffee Melody The Series','Phleng Thee Rak'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Coffee Melody',
+        tituloOriginal:'Coffee Melody',
+        autor:'Gorachanok Boonma',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'35-47 min',
+    estado:'Finalizado',
+    estreno:'2022-07-18',
+    finalizacion:'2022-09-19',
+    generos:['BL','Romance','Drama','Música','Mundo laboral'],
+    tags:['Adaptación de novela','Cafetería','Compositor','Música','Canciones de amor','Romance laboral','Primer amor','Bandas musicales'],
+    personas:[],
+    ships:[
+        {personajes:['Duean Yi','Plengrak']},
+        {personajes:['Thitnuea','Jean']}
+    ],
+    sinopsis:'Duean Yi, un famoso compositor, atraviesa un bloqueo creativo mientras intenta escribir una nueva canción de amor. Su inspiración cambia cuando conoce a Plengrak, el atractivo propietario de una cafetería. Mientras ambos descubren sus sentimientos y aprenden a confiar el uno en el otro, también se desarrollan otras historias de amor alrededor de la cafetería y de la banda Winter.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Coffee Melody Special Episode 1 — Pleng Ruk & Duan Yi',
+            tituloOriginal:'Coffee Melody เพลงที่รัก Special Episode 1',
+            alias:['Pleng Ruk & Duan Yi'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-12-18'
+        },
+        {
+            titulo:'Coffee Melody Special Episode 2 — Tid Nuea & Jean',
+            tituloOriginal:'Coffee Melody เพลงที่รัก Special Episode 2',
+            alias:['Tid Nuea & Jean'],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-12-25'
+        }
+    ],
+    activo:true
+},
+
+/* =============== WORK FROM HEART — DR000869 =================== */
+{
+    codigo:'DR000869',
+    titulo:'Work From Heart',
+    tituloOriginal:'รักป่วนก๊วนออฟฟิศ',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:'42-48 min',
+    estado:'Finalizado',
+    estreno:'2022-08-25',
+    finalizacion:'2022-09-29',
+    generos:['BL','Romance','Comedia','Mundo laboral'],
+    tags:['Oficina','Trabajo','Prácticas profesionales','Jefe y empleado','Exparejas','Diferencias sociales','Homofobia','Romance laboral'],
+    personas:[],
+    ships:[
+        {personajes:['Dee','Knight']},
+        {personajes:['Songthee','Veve']},
+        {personajes:['Boss','Noppadol']}
+    ],
+    sinopsis:'Dee, heredero de una poderosa familia, debe realizar unas prácticas para demostrar que puede desenvolverse por sí mismo. Su abuelo interviene para que termine trabajando en DIFA, donde conoce a Knight, un serio responsable de marketing que no puede evitar recordar a su antigua pareja al ver a Dee. Mientras ambos se acercan, las relaciones y conflictos sentimentales dentro de la oficina complican todavía más la situación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+	/* =============== LOVE MECHANICS — DR000870 =================== */
+{
+    codigo:'DR000870',
+    titulo:'Love Mechanics',
+    tituloOriginal:'กลรักรุ่นพี่',
+    alias:['Kon Rak Run Phi','Love Mechanics: The Series','En of Love: Love Mechanics'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000006',orden:4},
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000018',orden:2},
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'55-65 min',
+    estado:'Finalizado',
+    estreno:'2022-06-18',
+    finalizacion:'2022-08-13',
+    generos:['BL','Romance','Drama','Juvenil'],
+    tags:[
+        'Remake',
+        'Adaptación de novela',
+        'Universidad',
+        'Ingeniería',
+        'Amor complicado',
+        'Infidelidad',
+        'Celos',
+        'Triángulo amoroso',
+        'Diferencia de edad',
+        'Primer amor',
+        'Segundas oportunidades'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Vee','Mark']},
+        {personajes:['Bar','Gun']}
+    ],
+    sinopsis:'Mark, un estudiante de primer año de ingeniería, está enamorado de Bar, un alumno de cursos superiores que ya mantiene una relación con Gun. Después de ser rechazado, Mark intenta ahogar sus penas en una noche de fiesta y termina teniendo un encuentro inesperado con Vee, el mejor amigo de Bar. Vee, que lleva tres años saliendo con Ploy, intenta mantener las distancias, pero la atracción y los sentimientos que surgen entre ambos hacen que su relación se vuelva cada vez más complicada. Entre celos, secretos, infidelidades, malentendidos y la aparición de Nuea y del exnovio de Mark, Vee y Mark tendrán que decidir qué quieren realmente y si están dispuestos a luchar por su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:null,
+    activo:true
+},
+
+/* =============== UNFORGOTTEN NIGHT — DR000871 =================== */
+{
+    codigo:'DR000871',
+    titulo:'Unforgotten Night',
+    tituloOriginal:'ร้ายนักนะ รักของมาเฟีย',
+    alias:['Mafia’s Bad Love','Rai Nak Na Rak Khong Mafia','Unforgotten Night The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000025',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Mafia’s Bad Love',
+        tituloOriginal:'ร้ายนักนะ...รักของมาเฟีย',
+        autor:'Yeo Nim',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'45 min',
+    estado:'Finalizado',
+    estreno:'2022-06-22',
+    finalizacion:'2022-09-07',
+    generos:['BL','Romance','Drama','Acción','Mafia','Mature'],
+    tags:[
+        'Adaptación de novela',
+        'Mafia',
+        'Jefe y empleado',
+        'One Night Stand',
+        'Amor posesivo',
+        'Protección',
+        'Romance adulto',
+        'Acción',
+        'Venganza',
+        'Exparejas',
+        'Universo Love Syndrome'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kamol','Kim']},
+        {personajes:['Day','Itt']}
+    ],
+    entidades:[],
+    sinopsis:'Kim, un oficinista de 25 años que lleva años enamorado de su compañero Day, intenta superar sus sentimientos pasando una noche con un desconocido que conoce en un bar. El hombre resulta ser Kamol, un poderoso jefe de la mafia que queda obsesionado con Kim después de descubrir que es capaz de satisfacer sus necesidades. Kamol comienza a perseguirlo y a protegerlo, mientras Kim se ve arrastrado poco a poco a su peligroso mundo. Entre amenazas, rivales y secretos del pasado, ambos terminan construyendo una relación que cambia sus vidas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    especiales:null,
+    activo:true
+},
+
+/* =============== LOVE SYNDROME III — DR000872 =================== */
+{
+    codigo:'DR000872',
+    titulo:'Love Syndrome III',
+    tituloOriginal:'รักโคตรๆ โหดอย่างมึง 3',
+    alias:['Love Syndrome 3','Rak Khot Khot Hot Yang Mueng 3'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:'UN000025',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Love Syndrome',
+        tituloOriginal:'Love Syndrome',
+        autor:'Yeo Nim',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'60 min',
+    estado:'Finalizado',
+    estreno:'2023-03-04',
+    finalizacion:'2023-05-20',
+    generos:['BL','Romance','Drama','Mature','Acción'],
+    tags:[
+        'Adaptación de novela',
+        'Tercer libro',
+        'Amnesia',
+        'Pareja estable',
+        'Mafia',
+        'Reencuentro',
+        'Celos',
+        'Segundas oportunidades',
+        'Familia',
+        'Universo Love Syndrome'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Day','Itt']},
+        {personajes:['Night','Gear']},
+        {personajes:['Neil','Nick']},
+        {personajes:['Kamol','Kim']}
+    ],
+    entidades:[],
+    sinopsis:'Day e Itt llevan casi tres años juntos y mantienen una relación intensa en la que Day está acostumbrado a cuidar y consentir constantemente a Itt. Un día, mientras regresa bajo una fuerte lluvia para cumplir uno de los deseos de Itt, Day sufre un grave accidente y pierde los recuerdos de los últimos tres años, incluido todo lo relacionado con su relación. Itt deberá ayudarle a recuperar la memoria y demostrarle que el vínculo que compartían sigue existiendo, mientras los secretos de su pasado y las relaciones de Night, Gear, Neil y Nick vuelven a salir a la luz.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    especiales:null,
+    activo:true
+},
+
+/* =============== LOVE SYNDROME: THE BEGINNING — DR000873 =================== */
+{
+    codigo:'DR000873',
+    titulo:'Love Syndrome: The Beginning',
+    tituloOriginal:'รักโคตรๆโหดอย่างมึง 1',
+    alias:['Love Syndrome: The Beginning','Rak Khot Khot Hot Yang Mueng 1','Love Syndrome I'],
+    pais:['TH'],
+    anio:2024,
+    tipo:'Película',
+    franquicia:null,
+    universo:'UN000025',
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Love Syndrome',
+        tituloOriginal:'Love Syndrome',
+        autor:'Yeo Nim',
+        pais:'TH'
+    },
+    temporadas:null,
+    temporada:null,
+    episodios:null,
+    duracion:'90 min',
+    estado:'Finalizado',
+    estreno:'2024-05-09',
+    finalizacion:'2024-05-09',
+    generos:['BL','Romance','Drama','Mature'],
+    tags:[
+        'Adaptación de novela',
+        'Precuela',
+        'Primer encuentro',
+        'Day e Itt',
+        'Night y Gear',
+        'Relación tóxica',
+        'Venganza',
+        'Mafia',
+        'Abuso',
+        'Romance oscuro',
+        'Universo Love Syndrome'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Day','Itt']},
+        {personajes:['Night','Gear']}
+    ],
+    entidades:[],
+    sinopsis:'La película muestra los comienzos de las relaciones de Day e Itt y de Night y Gear antes de los acontecimientos de Love Syndrome III. Tras descubrir que Itt estuvo implicado en el plan que perjudicó a su hermano Night, Day busca vengarse y somete a Itt a una relación marcada por el control, el chantaje y el abuso. Al mismo tiempo, se desarrolla la historia de Night y Gear, cuyo vínculo comienza en circunstancias igualmente traumáticas. Con el tiempo, los sentimientos entre los protagonistas complican todavía más unas relaciones nacidas de la venganza y el conflicto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    especiales:null,
+    activo:true
+},
+/* =============== MY ROOMMATE — DR000874 =================== */
+{
+    codigo:'DR000874',
+    titulo:'My Roommate',
+    tituloOriginal:'My Roommate',
+    alias:['My Roommate The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:32,
+    duracion:'1-2 min',
+    estado:'Finalizado',
+    estreno:'2022-10-08',
+    finalizacion:'2022-10-29',
+    generos:['Romance','Comedia','BL'],
+    tags:['Convivencia','Compañeros de piso','Amigos a amantes','Duelo','Fotografía','Streamer','Vida cotidiana'],
+    personas:[],
+    ships:[
+        {personajes:['Xian','Time']}
+    ],
+    entidades:[],
+    sinopsis:'Xian regresa a Bangkok tras enterarse de la muerte de su madre y descubrir que ha heredado la casa familiar. Al llegar, descubre que cinco personas viven allí como inquilinos y trata de conseguir que se marchen. Sin embargo, termina compartiendo espacio con ellos y, especialmente, con Time, un joven de personalidad cálida que le ofrece apoyo cuando más lo necesita. Mientras Xian intenta recuperar su pasión por la fotografía y adaptarse a la convivencia, la cercanía entre ambos hace que su relación evolucione hacia algo más profundo.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== 180 DEGREE LONGITUDE PASSES THROUGH US — DR000875 =================== */
+{
+    codigo:'DR000875',
+    titulo:'180 Degree Longitude Passes Through Us',
+    tituloOriginal:'เส้นลองจิจูดที่ 180 องศาลากผ่านเรา',
+    alias:['180 Degrees Longitude Between Us','180 Degree Longitude Between Us'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2022-08-14',
+    finalizacion:'2022-10-02',
+    generos:['BL','Drama','Romance','Filosofía'],
+    tags:['Diferencia de edad','Amor prohibido','Relación familiar','Duelo','Madre e hijo','Amistad','Filosofía','Conflicto emocional'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    sinopsis:'Wang vive con su madre Sasiwimol, una directora de cine de éxito que ha criado a su hijo manteniendo una relación cercana y abierta con él. Sus vidas cambian cuando conocen a Inthawut, el antiguo mejor amigo de su padre fallecido. La llegada de Inthawut despierta sentimientos inesperados en Wang y obliga a los tres a enfrentarse a recuerdos, pérdidas y límites que parecían inamovibles. Entre el pasado que une a Sasiwimol e Inthawut y los sentimientos que Wang comienza a experimentar, los tres deberán decidir hasta dónde están dispuestos a cruzar las líneas que los separan.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== OH! MY SUNSHINE NIGHT — DR000876 =================== */
+{
+    codigo:'DR000876',
+    titulo:'Oh! My Sunshine Night',
+    tituloOriginal:'เลิฟ@นาย',
+    alias:['Love at 9','Oh My Sunshine Night'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:18,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2022-07-04',
+    finalizacion:'2022-10-24',
+    generos:['BL','Romance','Drama','Música','Fantasía'],
+    tags:['Universidad','Música','Familia adinerada','Diferencia de clase','Enfermedad','Amor de infancia','Amor prohibido','Secretos familiares'],
+    personas:[],
+    ships:[
+        {personajes:['Kim','Sun']},
+        {personajes:['Rain','Phayu']},
+        {personajes:['Pie','Petch']}
+    ],
+    entidades:[],
+    sinopsis:'Kim y Rain son hermanos pertenecientes a una poderosa familia inmobiliaria. Rain es un estudiante universitario popular y carismático, mientras que Kim es reservado, distante y apasionado por la música. La vida de Kim cambia cuando conoce a Sun, un estudiante transferido y guitarrista de carácter optimista que padece una enfermedad cardíaca. Mientras ambos se acercan a través de la música, Rain mantiene sus propios sentimientos por Phayu, el hijo del mayordomo de la familia, una relación complicada por las diferencias sociales. A su alrededor también surgen otros romances, conflictos universitarios y secretos familiares que terminarán poniendo a todos en peligro.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== MY ONLY 12% — DR000877 =================== */
+{
+    codigo:'DR000877',
+    titulo:'My Only 12%',
+    tituloOriginal:'ลุ้นรัก 12%',
+    alias:['Lun Rak 12%'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'12%',
+        tituloOriginal:'12%',
+        autor:'Afterday',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:'40 min',
+    estado:'Finalizado',
+    estreno:'2022-08-12',
+    finalizacion:'2022-11-11',
+    generos:['BL','Romance','Drama','Juvenil'],
+    tags:['Adaptación de novela','Amigos de infancia','Primer amor','Vecinos','Universidad','Coming-of-age','Amor no correspondido','Familia','Amor a distancia','Amigos a amantes'],
+    personas:[],
+    ships:[
+        {personajes:['Cake','Seeiw']}
+    ],
+    entidades:[],
+    sinopsis:'Cake y Seeiw son vecinos y amigos inseparables desde que nacieron. Aunque tienen personalidades muy diferentes, han crecido compartiendo cada etapa de sus vidas y se consideran prácticamente hermanos. Con el paso de los años, Seeiw comienza a comprender que sus sentimientos por Cake van más allá de la amistad, mientras que Cake empieza a descubrir que también siente algo diferente por su amigo. Cuando Cake se marcha al extranjero y regresa convertido en una persona distinta, su relación se enfrenta a los cambios propios de crecer, a los celos, a la familia y al miedo de perder a la persona que siempre ha estado a su lado.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== SELF — DR000879 =================== */
+{
+    codigo:'DR000879',
+    titulo:'Self',
+    tituloOriginal:'เราเห็นนาย',
+    alias:['Self, I See You','Self, We See You','Rao Hen Nai'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'18-26 min',
+    estado:'Finalizado',
+    estreno:'2022-10-13',
+    finalizacion:'2022-11-17',
+    generos:['BL','Romance','Drama','Fantasía','Misterio'],
+    tags:['Espejos','Reflejo','Misterio','Música','Adolescencia','Identidad','Supernatural','Rumores','Ciberacoso','Segundas oportunidades'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    sinopsis:'Tang es un joven músico que sueña con convertirse en artista profesional, pero un día descubre que su reflejo ha desaparecido del espejo y ha sido sustituido por el rostro de un extraño llamado Neo. Intrigado y desconcertado, Tang intenta descubrir quién es ese chico y por qué aparece en su reflejo. La investigación lo lleva a conocer el pasado de Neo, marcado por rumores, pérdida y acusaciones, mientras ambos desarrollan una relación de confianza cada vez más estrecha. Entre secretos, recuerdos y una amenaza que vuelve del pasado, Tang tendrá que decidir hasta dónde está dispuesto a llegar para salvar a Neo y recuperar aquello que ha perdido.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== GHOST HOST, GHOST HOUSE — DR000880 =================== */
+{
+    codigo:'DR000880',
+    titulo:'Ghost Host, Ghost House',
+    tituloOriginal:'รัก เล่า เรื่องผี',
+    alias:['Ghost Host Ghost House','Ghost House Ghost House'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'57 min',
+    estado:'Finalizado',
+    estreno:'2022-10-05',
+    finalizacion:'2022-11-23',
+    generos:['BL','Romance','Comedia','Fantasía','Sobrenatural','Terror'],
+    tags:['Fantasmas','Caza de fantasmas','Streamer','Duelo','Trauma','Familia','Casa encantada','Vida y muerte','Secretos','Paranormal'],
+    personas:[],
+    ships:[
+        {personajes:['Kevin','Pluem']}
+    ],
+    entidades:[],
+    sinopsis:'Kevin, un streamer dedicado a la exploración urbana y a la caza de fantasmas, regresa a Tailandia después de pasar gran parte de su vida en Estados Unidos. Al instalarse en casa de su tía, descubre que la familia oculta un secreto relacionado con los espíritus que habitan el lugar. Allí conoce a Pluem, un joven que trabaja para su familia y que parece comprender mejor que nadie el dolor y las pérdidas que Kevin arrastra desde el pasado. Mientras ambos recorren lugares encantados y se enfrentan a fenómenos inexplicables, su vínculo se vuelve cada vez más profundo y deberán afrontar una verdad que cambiará sus vidas.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:[
+        {
+            titulo:'Knock Knock',
+            tituloOriginal:'Knock Knock',
+            alias:[],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-10-03'
+        }
+    ],
+    activo:true
+},
+
+/* =============== BIG DRAGON — DR000881 =================== */
+{
+    codigo:'DR000881',
+    titulo:'Big Dragon',
+    tituloOriginal:'มังกรกินใหญ่',
+    alias:['Big Dragon The Series','Mangkon Kin Yai','Mangkorn Yai'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Big Dragon',
+        tituloOriginal:'มังกรกินใหญ่',
+        autor:'Aiden N Vivienne',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'50 min',
+    estado:'Finalizado',
+    estreno:'2022-10-08',
+    finalizacion:'2022-11-26',
+    generos:['BL','Romance','Drama','Universidad'],
+    tags:['Adaptación de novela','Enemigos a amantes','Universidad','Arquitectura','Primera noche','Rivalidad','Celos','Venganza','Negocios','Atracción física'],
+    personas:[],
+    ships:[
+        {personajes:['Mangkorn','Yai']}
+    ],
+    entidades:[],
+    sinopsis:'Yai y Mangkorn son dos universitarios que mantienen una relación de rivalidad y enfrentamiento constante. Después de una noche impulsiva que ninguno de los dos esperaba, Yai decide renovar su local para borrar todo rastro de aquel encuentro. Sin embargo, el destino vuelve a poner a Mangkorn en su camino cuando descubre que él será el arquitecto encargado de diseñar la reforma. Obligados a trabajar juntos, los dos tendrán que enfrentarse a la atracción que existe entre ellos y descubrir si su hostilidad puede transformarse en algo mucho más profundo.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== HARD LOVE MISSION — DR000882 =================== */
+{
+    codigo:'DR000882',
+    titulo:'Hard Love Mission',
+    tituloOriginal:'ภารกิจโหดเปลี่ยนเป็นโหมดรัก',
+    alias:[],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:'22-27 min',
+    estado:'Finalizado',
+    estreno:'2022-10-15',
+    finalizacion:'2022-11-26',
+    generos:['BL','Romance','Comedia','Juvenil'],
+    tags:['Celebridades','Manager','Periodismo','Entrevista','Isla','Convivencia','Forced proximity','Mundo del espectáculo','Trabajo','Enemigos a amantes'],
+    personas:[],
+    ships:[
+        {personajes:['Yoshi','Putter']}
+    ],
+    entidades:[],
+    sinopsis:'Yoshi y Ampere reciben la oportunidad de realizar una entrevista exclusiva a Putter, una de las mayores estrellas del momento. Ambos viajan a la isla de Ko Samet, pero una serie de circunstancias inesperadas obliga a Yoshi a convertirse temporalmente en el manager personal del actor. Además de encargarse de sus necesidades y completar las numerosas misiones que Putter le impone, Yoshi debe evitar que Vivi se acerque demasiado a la estrella y provoque un escándalo mediático. La convivencia y el tiempo que pasan juntos hacen que Yoshi descubra una faceta mucho más vulnerable de Putter y que la relación profesional entre ambos se transforme poco a poco en algo más.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== FAHLANRUK — DR000883 =================== */
+{
+    codigo:'DR000883',
+    titulo:'Fahlanruk',
+    tituloOriginal:'ฟ้าลั่นรัก',
+    alias:['Fahlanruk The Series','FahLanRak','Friends with Benefits'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Fahlanruk',
+        tituloOriginal:'ฟ้าลั่นรัก',
+        autor:'BamBam',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'38-43 min',
+    estado:'Finalizado',
+    estreno:'2022-09-11',
+    finalizacion:'2022-11-27',
+    generos:['BL','Romance','Drama','Juvenil','Universidad'],
+    tags:['Adaptación de novela','Universidad','Friends with benefits','Amigos a amantes','Primera relación','Miedo al compromiso','Celos','Relaciones complicadas','Pareja secundaria'],
+    personas:[],
+    ships:[
+        {personajes:['Fahlan','Sherbet']},
+        {personajes:['Prince','Gear']},
+        {personajes:['Ping','Tap']}
+    ],
+    entidades:[],
+    sinopsis:'Fahlan es un estudiante de economía destacado tanto por sus estudios como por el deporte, mientras que Sherbet estudia arquitectura y destaca por su talento musical. Después de conocerse y sentirse atraídos, ambos comienzan una relación basada inicialmente en encuentros sexuales sin compromiso. Fahlan pronto descubre que quiere algo más, pero Sherbet intenta mantener las distancias porque teme enamorarse y terminar herido. Mientras los dos luchan contra sus propios sentimientos, sus amigos Prince y Gear también comienzan a acercarse, y Ping y Tap se enfrentan a la dificultad de transformar una amistad de años en una relación sentimental.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+/* =============== THE PROMISE — DR000878 =================== */
+{
+    codigo:'DR000878',
+    titulo:'The Promise',
+    tituloOriginal:'สัญญา I ไม่ลืม',
+    alias:['The Promise: Phupha','The Promise: Nanfah','Sanya Mai Luem'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000044',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:null,
+    temporada:null,
+    episodios:2,
+    duracion:'34-45 min',
+    estado:'Finalizado',
+    estreno:'2022-08-24',
+    finalizacion:'2022-11-15',
+    generos:['BL','Romance','Drama'],
+    tags:['Precuela','Amigos de infancia','Amor secreto','Primer amor','Amor no correspondido','Amistad','Promesa','Separación','Diferencia de clases','Superación'],
+    personas:[],
+    ships:[
+        {personajes:['Phupha','Nanfah']}
+    ],
+    entidades:[],
+    sinopsis:'Phupha y Nanfah son amigos inseparables desde la infancia. Sus padres regentan negocios situados frente a frente y los dos chicos crecen compartiendo prácticamente todos los momentos importantes de sus vidas. Con el paso de los años, la amistad de Phupha y Nanfah comienza a transformarse en sentimientos que ninguno de los dos se atreve a reconocer abiertamente. Estos dos especiales muestran sus respectivas perspectivas y los acontecimientos que preceden a la repentina desaparición de Phupha tras terminar la universidad, estableciendo la historia que continuará diez años después en The Promise.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:[
+        {
+            titulo:'Phupha',
+            tituloOriginal:'ภูผา',
+            alias:[],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-08-24'
+        },
+        {
+            titulo:'Nanfah',
+            tituloOriginal:'น่านฟ้า',
+            alias:[],
+            tipo:'Especial',
+            anio:2022,
+            episodios:1,
+            estreno:'2022-11-15'
+        }
+    ],
+    activo:true
+},
+
+/* =============== THE PROMISE — DR000884 =================== */
+{
+    codigo:'DR000884',
+    titulo:'The Promise',
+    tituloOriginal:'สัญญา I ไม่ลืม',
+    alias:['The Promise The Series','Sanya Mai Luem','The Promise: I Won’t Forget'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000044',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'35-60 min',
+    estado:'Finalizado',
+    estreno:'2023-03-01',
+    finalizacion:'2023-05-24',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:['Amigos de infancia','Amigos a amantes','Reencuentro','Amor secreto','Amor no correspondido','Slow burn','Sanación','Café','Ghosting','Separación','Diez años después','Segundas oportunidades'],
+    personas:[],
+    ships:[
+        {personajes:['Phupha','Nanfah']}
+    ],
+    entidades:[],
+    sinopsis:'Phupha y Nanfah fueron mejores amigos desde la infancia, pero después de terminar la universidad Phupha desapareció de la vida de Nanfah sin darle ninguna explicación. Durante diez años, Nanfah intentó seguir adelante mientras cargaba con la ausencia de la persona más importante de su vida. Cuando Phupha reaparece y se muda al apartamento situado frente al suyo, ambos vuelven a encontrarse y se ven obligados a afrontar todo aquello que dejaron sin resolver. Entre recuerdos, secretos, sentimientos ocultos y el miedo a perder nuevamente al otro, tendrán que descubrir si su vínculo puede finalmente superar la frontera entre la amistad y el amor.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:[
+        {
+            titulo:'Honeymoon Lost and Found',
+            tituloOriginal:'Honeymoon Lost and Found',
+            alias:['The Promise Special Episode: Honeymoon Lost and Found'],
+            tipo:'Especial',
+            anio:2023,
+            episodios:1,
+            estreno:'2023-09-09'
+        }
+    ],
+    activo:true
+},
+	/* =============== TO SIR, WITH LOVE — DR000885 =================== */
+{
+    codigo:'DR000885',
+    titulo:'To Sir, With Love',
+    tituloOriginal:'คุณชาย',
+    alias:['Khun Chai','Khun Chai The Series','To Sir With Love'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:17,
+    duracion:'65-75 min',
+    estado:'Finalizado',
+    estreno:'2022-10-03',
+    finalizacion:'2022-11-28',
+    generos:['BL','Romance','Drama','Histórico','Familia'],
+    tags:['Drama de época','Tailandia de los años 30','Familia chino-tailandesa','Familia poderosa','Herencia','Rivalidad familiar','Amor prohibido','Homofobia','Secretos familiares','Matrimonio concertado','Diferencia de clases','Intriga familiar','Veneno','Asesinato'],
+    personas:[],
+    ships:[
+        {personajes:['Thian','Jiu']}
+    ],
+    entidades:[],
+    sinopsis:'En el Siam de los años 30, la familia Song lidera el Gremio de los Cinco Dragones y mantiene una posición de enorme poder dentro de la comunidad chino-tailandesa. Thian, el hijo mayor de Song, está destinado a convertirse en el heredero de la familia, pero guarda un secreto que podría destruir su futuro: está enamorado de otro hombre. Cuando conoce a Jiu, un joven de origen humilde, sus sentimientos se hacen imposibles de ignorar. Mientras tanto, las rivalidades entre las esposas de Song y sus hijos desencadenan una lucha por la herencia marcada por secretos, manipulaciones, asesinatos y prejuicios. Thian tendrá que elegir entre cumplir con el deber impuesto por su familia o luchar por el amor que siente por Jiu.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== AI LONG NHAI — DR000886 =================== */
+{
+    codigo:'DR000886',
+    titulo:'Ai Long Nhai',
+    tituloOriginal:'อัยย์หลงไน๋',
+    alias:['Ai Long Nhai The Series','Ai Long Nai','Ai Long Nhai: The Series'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Ai Long Nhai',
+        tituloOriginal:'อัยย์หลงไน๋',
+        autor:'Nottakorn',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'40-45 min',
+    estado:'Finalizado',
+    estreno:'2022-09-26',
+    finalizacion:'2022-12-12',
+    generos:['BL','Romance','Comedia','Drama','Juvenil'],
+    tags:['Adaptación de novela','Universidad','Amor a primera vista','Amigos a amantes','Convivencia','Motocicleta','Familia','Celos','Primer amor','Romance universitario','Comedia romántica','Pareja estable'],
+    personas:[],
+    ships:[
+        {personajes:['Ai','Nhai']}
+    ],
+    entidades:[],
+    sinopsis:'Ai regresa a Tailandia después de ser expulsado de su universidad en Canadá y se matricula en la universidad donde trabaja su padre. El primer día conoce a Nhai, un estudiante alegre y algo despistado que llama inmediatamente su atención. Lo que comienza como una amistad entre compañeros se transforma rápidamente cuando Ai se enamora de él y decide conquistarlo. Nhai, que inicialmente no sabe cómo responder a los sentimientos de Ai, termina aceptando probar una relación con él. Entre convivencia, celos, problemas familiares y los intentos de la madre de Ai por separarlos, ambos aprenden a construir una relación basada en la confianza y el cariño.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:[
+        {
+            titulo:'Ai Nhai',
+            tituloOriginal:'Ai Nhai',
+            alias:[],
+            tipo:'Especial',
+            anio:2023,
+            episodios:1,
+            estreno:'2023-03-25'
+        }
+    ],
+    activo:true
+},
+
+/* =============== WHY YOU… Y ME? — DR000887 =================== */
+{
+    codigo:'DR000887',
+    titulo:'Why You… Y Me?',
+    tituloOriginal:'วุ่นรักนักจิ้น',
+    alias:['Why You Y Me?','Why You... Y Me?','Woon Rak Nak Jin'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2022-10-19',
+    finalizacion:'2022-12-21',
+    generos:['BL','Romance','Comedia','Música','Juvenil'],
+    tags:['Fandom','Cultura BL','Fans','Música','Banda','Universidad','Amistad','Amor secreto','Amigos a amantes','Relación oculta','Celebridades','Redes sociales','Ghost ship'],
+    personas:[],
+    ships:[
+        {personajes:['Maitoh','Shogun']},
+        {personajes:['Paul','Nice']}
+    ],
+    entidades:[],
+    sinopsis:'Namwah es una joven aficionada a crear y promocionar parejas ficticias entre sus compañeros, especialmente dentro del mundo de la música y las redes sociales. Cuando empieza a colaborar con Gap y su banda, su afición por los ships y el fandom se mezcla con las relaciones reales que se desarrollan a su alrededor. Green lleva años enamorado de su mejor amigo Maitoh, pero Maitoh solo lo considera un amigo y acaba sintiéndose atraído por Shogun, el hermano de Namwah. Al mismo tiempo, el manager Paul y el músico Nice comienzan una relación que intentan mantener en secreto. Entre malentendidos, fandom, música y sentimientos no correspondidos, los personajes tendrán que descubrir la diferencia entre un ship creado por los fans y una relación que realmente existe.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== TILL THE WORLD ENDS — DR000888 =================== */
+{
+    codigo:'DR000888',
+    titulo:'Till the World Ends',
+    tituloOriginal:'รักกันวันโลกแตก',
+    alias:['Till the World Ends The Series','Rak Kan Wan Lok Taek','TTWE'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2022-10-29',
+    finalizacion:'2023-01-07',
+    generos:['BL','Romance','Drama','Thriller','Apocalipsis','Supervivencia'],
+    tags:['Apocalipsis','Fin del mundo','Supervivencia','Cuenta atrás','Convivencia forzada','Amor inesperado','Sacrificio','Miedo','Distopía','Superación','Viaje','Amor antes de morir','Drama psicológico'],
+    personas:[],
+    ships:[
+        {personajes:['Golf','Art']}
+    ],
+    entidades:[],
+    sinopsis:'Golf es un estudiante de medicina que atraviesa una crisis personal mientras se enfrenta a una relación sentimental que se está desmoronando. Cuando el gobierno anuncia que una catástrofe global provocará el fin del mundo en pocos días, Golf se encuentra accidentalmente junto a Art, un estudiante más joven con quien acaba de tener un enfrentamiento. Mientras el caos se apodera de la ciudad y la población busca refugio, ambos se ven obligados a permanecer juntos para sobrevivir. El miedo, la violencia y la incertidumbre hacen que Golf y Art comiencen a replantearse sus vidas y sus sentimientos, descubriendo que incluso cuando el tiempo se acaba todavía pueden encontrar una razón para vivir y amar.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== I WILL KNOCK YOU — DR000889 =================== */
+{
+    codigo:'DR000889',
+    titulo:'I Will Knock You',
+    tituloOriginal:'พี่จะตีนะเนย',
+    alias:['I Will Hit You','I Will Hit You Na, Noei','Phi Ja Tee Na Noei'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'I Will Hit You Na, Noei',
+        tituloOriginal:'พี่จะตีนะเนย',
+        autor:'KoreanRabbit',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'40-45 min',
+    estado:'Finalizado',
+    estreno:'2022-11-18',
+    finalizacion:'2023-02-03',
+    generos:['BL','Romance','Comedia','Juvenil'],
+    tags:['Adaptación de novela','Tutor y alumno','Universidad','Instituto','Enemigos a amantes','Amor a primera vista','Diferencia de edad','Pandilla escolar','Comedia romántica','Amor juvenil','Superación','Familia','Reforma personal'],
+    personas:[],
+    ships:[
+        {personajes:['Thi','Noey']}
+    ],
+    entidades:[],
+    sinopsis:'Thi es un estudiante universitario que trabaja como tutor para otros jóvenes. Un día interviene cuando uno de sus alumnos es acosado por Noey, un joven que lidera una pequeña pandilla con una estética inspirada en los años ochenta. Después del enfrentamiento, Noey interpreta erróneamente que Thi está interesado en él y comienza a perseguirlo con una mezcla de determinación y torpeza. Lo que empieza como una serie de encuentros incómodos acaba transformándose en una relación cada vez más cercana cuando Thi se convierte también en tutor de Noey. Mientras Noey intenta cambiar su comportamiento y Thi descubre una faceta más vulnerable del chico, ambos terminan enamorándose.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+
+/* =============== THE WARP EFFECT — DR000890 =================== */
+{
+    codigo:'DR000890',
+    titulo:'The Warp Effect',
+    tituloOriginal:'รูปลับรหัสวาร์ป',
+    alias:['Rup Lap Rahat Warp'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'50 min',
+    estado:'Finalizado',
+    estreno:'2022-12-12',
+    finalizacion:'2023-02-27',
+    generos:['Drama','Romance','Comedia','Fantasía','Sobrenatural'],
+    tags:['Viaje temporal','Efecto mariposa','Fotografía','Polaroid','Amistad','Coming-of-age','Sexualidad','Educación sexual','Identidad','Segundas oportunidades','Trauma','Familia','Romance','Supernatural'],
+    personas:[],
+    ships:[
+        {personajes:['Alex','Jean']},
+        {personajes:['See-Ew','Liu']},
+        {personajes:['Nim','Molly']},
+        {personajes:['Army','Joe']},
+        {personajes:['Jedi','Rose']}
+    ],
+    entidades:[],
+    sinopsis:'Alex es un adolescente de diecisiete años apasionado por la fotografía que todavía no ha tenido relaciones sexuales debido a una promesa que hizo a su madre antes de que ella muriera. Durante una fiesta organizada por su amigo Jedi, una serie de acontecimientos extraños cambia por completo su vida. Al despertar, Alex descubre que ha viajado diez años hacia el futuro y que ahora es un ginecólogo de veintisiete años. Para regresar a su vida original debe descubrir qué ocurrió aquella noche y utilizar una misteriosa cámara Polaroid que le permite observar las consecuencias de sus decisiones. Mientras intenta corregir su futuro, Alex descubre que sus amigos también han seguido caminos inesperados en el amor, la sexualidad y la vida adulta.',
+    multimedia:{portada:[],trailer:[],teaser:[],pilot:[],ost:[],videos:[]},
+    especiales:null,
+    activo:true
+},
+	/* =============== 609 Bedtime Story — DR000891 =================== */
+{
+    codigo:'DR000891',
+    titulo:'609 Bedtime Story',
+    tituloOriginal:'เบดไทม์สตอรี่',
+    alias:['609 Bedtime Story The Series','609 Bedtime Story'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'609 Bedtime Story',
+        tituloOriginal:'609 Bedtime Story',
+        autor:'Saoyrampun',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2022-12-02',
+    finalizacion:'2023-02-10',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Misterio',
+        'Fantasía',
+        'Ciencia ficción'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Universos paralelos',
+        'Viaje entre universos',
+        'Líneas temporales',
+        'Tiempo invertido',
+        'Habitación 609',
+        'Misterio',
+        'Asesinato',
+        'Investigación',
+        'Destino',
+        'Amor prohibido',
+        'Triángulo amoroso',
+        'Amigos a amantes',
+        'Relación secreta',
+        'Segundas oportunidades',
+        'Realidades alternativas',
+        'Final alternativo'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Mum','Dew']},
+        {personajes:['Games','Vee']},
+        {personajes:['Dew','Mint']},
+        {personajes:['Vee','A']}
+    ],
+    sinopsis:'Mum, un joven propietario de un apartamento, comienza a encontrarse en sus sueños con Dew, un hombre procedente de un universo paralelo en el que el tiempo transcurre en sentido inverso. A medida que ambos mundos comienzan a entrelazarse, Mum se ve atrapado en un misterio relacionado con Dew, sus relaciones y una serie de acontecimientos que parecen conectados entre las distintas realidades. Mientras intenta descubrir qué está ocurriendo, sus sentimientos por Dew se hacen cada vez más profundos y deberá enfrentarse a las consecuencias de sus decisiones y a las diferencias entre ambos universos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Dream On',
+            tituloOriginal:'Dream On',
+            alias:[],
+            tipo:'Final alternativo',
+            anio:2023,
+            episodios:1,
+            estreno:'2023-02-10'
+        }
+    ],
+    activo:true
+},
+	/* =============== War of Y — DR000892 =================== */
+{
+    codigo:'DR000892',
+    titulo:'War of Y',
+    tituloOriginal:'วอร์ ออฟ วาย',
+    alias:['War of Y The Series','War Of Y'],
+    pais:['TH'],
+    anio:2022,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:20,
+    duracion:56,
+    estado:'Finalizado',
+    estreno:'2022-08-02',
+    finalizacion:'2022-12-13',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Psicológico'
+    ],
+    tags:[
+        'Antología',
+        'Industria del entretenimiento',
+        'Industria BL',
+        'Cultura de los ships',
+        'Fanservice',
+        'Fandom',
+        'Actores',
+        'Managers',
+        'Agencias',
+        'Fama',
+        'Celebridades',
+        'Redes sociales',
+        'Escándalo',
+        'Competición',
+        'Reality show',
+        'Supervivencia',
+        'Traición',
+        'Rivalidad',
+        'Relaciones secretas',
+        'Presión mediática',
+        'Imagen pública',
+        'Amor y trabajo'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nott','Pan']},
+        {personajes:['Gus','Bew']},
+        {personajes:['Kla','Pete']},
+        {personajes:['Moss','Achi']},
+        {personajes:['Achi','Fern']}
+    ],
+    sinopsis:'Antología que explora los conflictos, relaciones y juegos de poder que se esconden detrás de la industria del entretenimiento BL tailandesa. A través de cuatro historias independientes pero ambientadas en el mismo mundo de la industria, la serie muestra cómo los ships, el fanservice, los managers, las agencias, la fama y las expectativas del público pueden afectar profundamente la vida de los actores. The New Ship sigue a Nott y Pan, una nueva pareja de actores cuya relación profesional comienza a mezclarse con sentimientos reales. War of Managers se centra en Gus y Bew, una pareja que se enamora fuera de las cámaras mientras sus managers convierten su carrera en un campo de batalla. Y-Idol presenta una competición para encontrar nuevos talentos capaces de cantar, bailar y actuar. Finalmente, Wife aborda las consecuencias que afronta Achi cuando mantiene una relación con Fern mientras forma junto a Moss una popular pareja BL en pantalla.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'The New Ship',
+            tituloOriginal:'The New Ship',
+            alias:['The New Ship #1-5'],
+            tipo:'Historia',
+            anio:2022,
+            episodios:5,
+            estreno:'2022-08-02'
+        },
+        {
+            titulo:'War of Managers',
+            tituloOriginal:'War of Managers',
+            alias:['War of Managers #1-5'],
+            tipo:'Historia',
+            anio:2022,
+            episodios:5,
+            estreno:'2022-09-06'
+        },
+        {
+            titulo:'Y-Idol',
+            tituloOriginal:'Y-Idol',
+            alias:['Y-Idol #1-5'],
+            tipo:'Historia',
+            anio:2022,
+            episodios:5,
+            estreno:'2022-10-11'
+        },
+        {
+            titulo:'Wife',
+            tituloOriginal:'Wife',
+            alias:['Wife #1-5'],
+            tipo:'Historia',
+            anio:2022,
+            episodios:5,
+            estreno:'2022-11-15'
+        }
+    ],
+    activo:true
+},
+	/* =============== MY UNIVERSE — DR000893 =================== */
+{
+    codigo:'DR000893',
+    titulo:'My Universe',
+    tituloOriginal:'มาย Universe รักเราเท่าจักรวาล',
+    alias:['My Universe The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:24,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2023-08-20',
+    finalizacion:'2024-01-28',
+    generos:['BL','Romance','Drama','Comedia','Thriller','Sobrenatural'],
+    tags:[
+        'antología',
+        'historias independientes',
+        'romance',
+        'amistad',
+        'relaciones',
+        'parejas',
+        'universidad',
+        'instituto',
+        'familia',
+        'sobrenatural',
+        'misterio',
+        'comedia',
+        'drama'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Khunkhao','Pluem']},
+        {personajes:['Tob','Boss']},
+        {personajes:['Phat','Mok']},
+        {personajes:['Butr','Korn']},
+        {personajes:['Meen','Jeng']},
+        {personajes:['Camp','Talay']},
+        {personajes:['Pun','Jay']},
+        {personajes:['Phim','Phon']},
+        {personajes:['Third','Pai']},
+        {personajes:['Pond','Mawin']}
+    ],
+    sinopsis:'Antología tailandesa compuesta por doce historias independientes que exploran distintas formas de amor, amistad y relaciones. Las historias abarcan romance, comedia, drama, misterio y elementos sobrenaturales, siguiendo a diferentes parejas y personajes cuyas vidas quedan conectadas por el universo del amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Casanova Begins',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: เกิดใหม่อีกครั้งเป็นคาสโนว่า',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-08-20'
+        },
+        {
+            titulo:'Marry Go Round',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: สับรางทางหัวใจ',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-09-03'
+        },
+        {
+            titulo:'Right Time, Right You',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: ใช่ชอบบอกรัก',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-09-17'
+        },
+        {
+            titulo:'You Are My Soulmate',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: เปิดกล้องบังไม่เอิญ',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-10-01'
+        },
+        {
+            titulo:'Lucky Love',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: เสิร์ฟรัก',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-10-15'
+        },
+        {
+            titulo:'The Camp Fire',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: แคมป์ผีมีรัก',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-10-29'
+        },
+        {
+            titulo:'Friends Forever',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-11-12'
+        },
+        {
+            titulo:'Fake Love',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: รักหรอกเลยหลอกรัก',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-11-26'
+        },
+        {
+            titulo:'Pisces of Me',
+            tituloOriginal:null,
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-12-10'
+        },
+        {
+            titulo:'1626',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: ใจนี้พี่จอง',
+            alias:[],
+            tipo:'Historia',
+            anio:2023,
+            episodios:2,
+            estreno:'2023-12-24'
+        },
+        {
+            titulo:'Refund Love',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: รักนี้ต้องชำระ',
+            alias:[],
+            tipo:'Historia',
+            anio:2024,
+            episodios:2,
+            estreno:'2024-01-07'
+        },
+        {
+            titulo:'I Wish You Love',
+            tituloOriginal:'มาย Universe รักเราเท่าจักรวาล: อธิษฐานสานใจ',
+            alias:[],
+            tipo:'Historia',
+            anio:2024,
+            episodios:2,
+            estreno:'2024-01-21'
+        }
+    ],
+    activo:true,
+
+    relaciones:[
+        {tipo:'Antología',historia:'Casanova Begins',pareja:'Khunkhao / Pluem',episodio:1},
+        {tipo:'Antología',historia:'Marry Go Round',pareja:'Tob / Boss',episodio:2},
+        {tipo:'Antología',historia:'Right Time, Right You',pareja:'Phat / Mok',episodio:3},
+        {tipo:'Antología',historia:'You Are My Soulmate',pareja:'Butr / Korn',episodio:4},
+        {tipo:'Antología',historia:'Lucky Love',pareja:'Meen / Jeng',episodio:5},
+        {tipo:'Antología',historia:'The Camp Fire',pareja:'Camp / Talay',episodio:6},
+        {tipo:'Antología',historia:'Friends Forever',pareja:'Pun / Jay',episodio:7},
+        {tipo:'Antología',historia:'Fake Love',pareja:'Phim / Phon',episodio:8},
+        {tipo:'Antología',historia:'Pisces of Me',pareja:null,episodio:9},
+        {tipo:'Antología',historia:'1626',pareja:null,episodio:10},
+        {tipo:'Antología',historia:'Refund Love',pareja:'Third / Pai',episodio:11},
+        {tipo:'Antología',historia:'I Wish You Love',pareja:'Pond / Mawin',episodio:12}
+    ]
+},
+	/* =============== 7 Days Before Valentine — DR000894 =================== */
+{
+    codigo:'DR000894',
+    titulo:'7 Days Before Valentine',
+    tituloOriginal:'7 วันก่อนวาเลนไทน์',
+    alias:['7 Days Before Valentine','7 Wan Kon Valentine'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'7 Days Before Valentine',
+        tituloOriginal:'7 วันก่อนวาเลนไทน์',
+        autor:'Patrick Rangsimant',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-11-22',
+    finalizacion:'2024-02-07',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Fantasía'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Segundas oportunidades',
+        'Destino',
+        'Viaje temporal',
+        'Reescribir el destino',
+        'Deseos',
+        'Amor perdido',
+        'Amor no correspondido',
+        'Expareja',
+        'San Valentín'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sunshine','Rain']}
+    ],
+    sinopsis:'Sunshine es un joven modelo y actor cuya relación con Rain se encuentra al borde de la ruptura. Cuando recibe la posibilidad de cambiar el destino y recuperar a su antiguo amor durante siete días, comienza a pedir deseos para eliminar los obstáculos que se interponen entre ambos. Sin embargo, cada cambio tiene un precio y Sunshine deberá enfrentarse a las consecuencias de intentar alterar el pasado y forzar un futuro diferente.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Absolute Zero — DR000895 =================== */
+{
+    codigo:'DR000895',
+    titulo:'Absolute Zero',
+    tituloOriginal:'องศาสูญ',
+    alias:['Absolute Zero The Series','Absolute Zero Ongsa Sun'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Absolute Zero',
+        tituloOriginal:'องศาสูญ',
+        autor:'Salil',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-09-27',
+    finalizacion:'2023-12-13',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Fantasía',
+        'Ciencia ficción'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Viaje temporal',
+        'Líneas temporales',
+        'Paradojas temporales',
+        'Destino',
+        'Segundas oportunidades',
+        'Amor juvenil',
+        'Amor a través del tiempo',
+        'Accidente',
+        'Universo alternativo',
+        'Reencuentro'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Ongsa','Suansoon']}
+    ],
+    sinopsis:'Suansoon y Ongsa se conocen siendo jóvenes y comienzan una relación que se prolonga durante años. Diez años después, un accidente cambia sus vidas y Suansoon desea no haber conocido nunca a Ongsa. Cuando despierta en el pasado y se encuentra con el joven Ongsa, ambos quedan atrapados en una serie de acontecimientos temporales que los obligan a enfrentarse a las consecuencias de sus decisiones y a luchar por un futuro en el que puedan permanecer juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Bake Me Please — DR000896 =================== */
+{
+    codigo:'DR000896',
+    titulo:'Bake Me Please',
+    tituloOriginal:'พิชิตใจ นายสายหวาน',
+    alias:['Bake Me Please The Series','Phichit Chai Nai Sai Wan'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-11-19',
+    finalizacion:'2023-12-24',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia'
+    ],
+    tags:[
+        'Cocina',
+        'Repostería',
+        'Panadería',
+        'Lugar de trabajo',
+        'Compañeros de trabajo',
+        'Rivalidad',
+        'De rivales a amantes',
+        'Grumpy x Sunshine',
+        'Amor no correspondido',
+        'Triángulo amoroso',
+        'Segundas oportunidades',
+        'Abandono',
+        'Amistad'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Shin','Peach']}
+    ],
+    sinopsis:'Shin es un chef de repostería conocido por su carácter frío y exigente. Su vida cambia cuando Peach llega a la pastelería para trabajar junto a él. Lo que comienza como una relación marcada por las diferencias y la rivalidad profesional se transforma poco a poco en sentimientos más profundos. Mientras trabajan junto a Guy, Oab y Atom, los cinco deberán enfrentarse a sus propias ambiciones, inseguridades y sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Bake Me Please Epilogue',
+            tituloOriginal:'Bake Me Please Epilogue',
+            alias:['Epilogue (Special)'],
+            tipo:'Episodio especial',
+            anio:2024,
+            episodios:1,
+            estreno:'2024-01-28'
+        }
+    ],
+    activo:true
+},
+
+/* =============== Be My Favorite — DR000897 =================== */
+{
+    codigo:'DR000897',
+    titulo:'Be My Favorite',
+    tituloOriginal:'บทกวีของปีแสง',
+    alias:['Be My Favorite The Series','You Are My Favorite'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'บทกวีของปีแสง',
+        tituloOriginal:'บทกวีของปีแสง',
+        autor:'JittiRain',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-05-26',
+    finalizacion:'2023-08-11',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Ciencia ficción'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Viaje temporal',
+        'Línea temporal alternativa',
+        'Segundas oportunidades',
+        'Amor universitario',
+        'Amigos a amantes',
+        'Amor no correspondido',
+        'Triángulo amoroso',
+        'Destino',
+        'Cambio personal',
+        'Bola de cristal'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kawi','Pisaeng']},
+        {personajes:['Kawi','Pear']}
+    ],
+    sinopsis:'Kawi es un joven solitario que siempre ha sentido que su vida no salió como esperaba. Cuando una misteriosa bola de cristal le permite viajar al pasado, decide utilizar la oportunidad para cambiar su futuro y acercarse a Pear, la chica que siempre ha amado. Sin embargo, sus cambios alteran las relaciones de todos a su alrededor y, especialmente, hacen que Pisaeng se convierta en una presencia cada vez más importante en su vida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Beyond the Star — DR000898 =================== */
+{
+    codigo:'DR000898',
+    titulo:'Beyond the Star',
+    tituloOriginal:'เส้นทางรักพิชิตดวงดาว',
+    alias:['Beyond the Star: เส้นทางรักพิชิตดวงดาว'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-11-11',
+    finalizacion:'2023-12-30',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Juvenil',
+        'Música'
+    ],
+    tags:[
+        'Idols',
+        'Industria del entretenimiento',
+        'Agencia de talentos',
+        'Trainees',
+        'Boyband',
+        'Sueños',
+        'Amistad',
+        'Amor secreto',
+        'Relaciones prohibidas',
+        'Rivalidad',
+        'Múltiples parejas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kita','Natee']},
+        {personajes:['Kengkla','Namo']},
+        {personajes:['Mawin','Mungkorn']}
+    ],
+    sinopsis:'El proyecto Beyond the Star reúne a jóvenes que sueñan con convertirse en artistas. Dentro de una agencia de entretenimiento, los trainees deben superar entrenamientos, rivalidades, presión profesional y sentimientos que complican sus relaciones. Mientras persiguen sus sueños de convertirse en estrellas, varios de ellos descubren que el amor puede ser tan difícil de alcanzar como el éxito.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Boyband — DR000899 =================== */
+{
+    codigo:'DR000899',
+    titulo:'Boyband',
+    tituloOriginal:'เบื้องหน้าบอยแบนด์เบื้องหลังบอยเฟรนด์',
+    alias:['Boyband The Series','Boyband The Series: Behind the Boyband'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-02-16',
+    finalizacion:'2023-03-23',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Música',
+        'Juvenil'
+    ],
+    tags:[
+        'Boyband',
+        'Idols',
+        'Audiciones',
+        'Trainees',
+        'Industria del entretenimiento',
+        'Amor secreto',
+        'Relación prohibida',
+        'Rivales a amantes',
+        'Amor entre compañeros',
+        'Sueños'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Top','Juju']}
+    ],
+    sinopsis:'Top y Juju compiten por formar parte de una nueva boyband, pero detrás de su rivalidad existe una relación amorosa que deben mantener en secreto. Las normas de la agencia prohíben las relaciones entre los miembros del grupo, mientras los fans empiezan a imaginar que ambos son pareja por la química que muestran. Para alcanzar su sueño de convertirse en estrellas deberán mantener ocultos sus verdaderos sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Chains of Heart — DR000900 =================== */
+{
+    codigo:'DR000900',
+    titulo:'Chains of Heart',
+    tituloOriginal:'Chains of Heart',
+    alias:['Chains of Heart: The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Chains of Heart',
+        tituloOriginal:'Chains of Heart',
+        autor:'TJ Tommys',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-02-18',
+    finalizacion:'2023-04-22',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Misterio',
+        'Thriller'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Venganza',
+        'Misterio',
+        'Crimen',
+        'Contrabando',
+        'Identidad secreta',
+        'Amor perdido',
+        'Reencuentro',
+        'Pareja separada',
+        'Investigación',
+        'Supervivencia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Ken','Din']}
+    ],
+    sinopsis:'Ken y Din son pareja y trabajan juntos contra una organización dedicada al contrabando. Cuando Din parece morir después de proteger a Ken, este queda devastado. Tiempo después, un misterioso hombre aparece en su vida y guarda un extraordinario parecido con Din. Ken comienza a sospechar que su antiguo novio podría seguir vivo mientras se ve arrastrado nuevamente a una peligrosa red de secretos, venganza e identidades ocultas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Crazy Handsome Rich — DR000901 =================== */
+{
+    codigo:'DR000901',
+    titulo:'Crazy Handsome Rich',
+    tituloOriginal:'บ้านชายมอง',
+    alias:['Crazy Handsome Rich The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-08-27',
+    finalizacion:'2023-10-01',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+    tags:[
+        'Familia rica',
+        'Mayordomo',
+        'Diferencias sociales',
+        'Amor entre clases sociales',
+        'Destino',
+        'Flechazo',
+        'Familia',
+        'Hermanos',
+        'Comedia romántica'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Thad','Luv']}
+    ],
+    sinopsis:'Luv es un joven de origen humilde que acepta trabajar como mayordomo para una familia extremadamente rica. Allí conoce a Thad, uno de los hijos de la familia, que queda fascinado por él desde el primer momento. Las diferencias sociales, las estrictas reglas de la mansión y los secretos familiares complican una relación que parece estar marcada por el destino.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Dead Friend Forever — DR000902 =================== */
+{
+    codigo:'DR000902',
+    titulo:'Dead Friend Forever',
+    tituloOriginal:'เพื่อนนายแค่หนึ่งเดียว',
+    alias:['Dead Friend Forever - DFF','DFF'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-12-23',
+    finalizacion:'2024-03-09',
+    generos:[
+        'BL',
+        'Drama',
+        'Terror',
+        'Misterio',
+        'Thriller'
+    ],
+    tags:[
+        'Amistad',
+        'Instituto',
+        'Casa aislada',
+        'Grupo de amigos',
+        'Venganza',
+        'Culpa',
+        'Trauma',
+        'Secretos',
+        'Bullying',
+        'Pasado oscuro',
+        'Película dentro de la historia',
+        'Supervivencia',
+        'Horror psicológico',
+        'Identidad',
+        'Alucinaciones'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Phee','Jin']},
+        {personajes:['Tee','White']}
+    ],
+    sinopsis:'Un grupo de amigos se reúne en una casa aislada para despedir a Jin antes de que se marche al extranjero. Allí descubren antiguas grabaciones relacionadas con Non, un antiguo compañero que desapareció años atrás después de sufrir una serie de abusos y humillaciones. Cuando empiezan a suceder acontecimientos inexplicables y violentos, los secretos del pasado salen a la luz y el grupo debe enfrentarse a las consecuencias de sus actos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Destiny Seeker — DR000903 =================== */
+{
+    codigo:'DR000903',
+    titulo:'Destiny Seeker',
+    tituloOriginal:'ราชาวิหค',
+    alias:['Destiny Seeker The Series','Racha Wihok'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Racha Wihok',
+        tituloOriginal:'ราชาวิหค',
+        autor:'Chiffon_cake',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-02-14',
+    finalizacion:'2023-04-11',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Juvenil'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Universidad',
+        'Ingeniería',
+        'Residencias universitarias',
+        'Rivales',
+        'Rivales a amantes',
+        'Amor universitario',
+        'Amor secreto',
+        'Competencia',
+        'Amistad',
+        'Relación a escondidas'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Songkhram','Ai']},
+        {personajes:['Pluster','Nano']}
+    ],
+    sinopsis:'Songkhram y Ai son los líderes de dos residencias universitarias rivales dentro de la facultad de ingeniería. Mientras sus dormitorios compiten constantemente, la rivalidad entre ambos empieza a transformarse en una atracción que ninguno quiere reconocer. Entre competiciones, amistades y presiones para mantener su relación en secreto, los dos deberán decidir si están dispuestos a desafiar las reglas y las expectativas de quienes los rodean.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== Dinosaur Love — DR000904 =================== */
+{
+    codigo:'DR000904',
+    titulo:'Dinosaur Love',
+    tituloOriginal:'ไดโนซอร์รัก',
+    alias:['Dinosaur Love The Series','Dinosaur Love'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Dinosaur Love',
+        tituloOriginal:'ไดโนซอร์รัก',
+        autor:'Scriper',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-06-25',
+    finalizacion:'2023-08-27',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Juvenil'
+    ],
+    tags:[
+        'Adaptación de novela',
+        'Universidad',
+        'Amor universitario',
+        'Flechazo',
+        'De desconocidos a amantes',
+        'Expareja',
+        'Ruptura',
+        'Segundo amor',
+        'Amor no correspondido',
+        'Diferencias de personalidad',
+        'Vida universitaria'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Dino','Ruk']},
+        {personajes:['Mek','Kram']}
+    ],
+    sinopsis:'Ruk mantiene una relación con Mek desde hace años, pero la creciente cercanía entre Mek y su compañero de trabajo Kram hace que la relación comience a deteriorarse. Cuando Ruk conoce accidentalmente a Dino, un joven de otra universidad que se enamora de él a primera vista, su vida sentimental da un giro inesperado. Dino insiste en conquistar a Ruk mientras este intenta superar el dolor de su antigua relación y volver a confiar en el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Dinosaur Love: Go to Vietnam',
+            tituloOriginal:'Dinosaur Love: Go to Vietnam',
+            alias:['Dinosaur Love Special Episode'],
+            tipo:'Episodio especial',
+            anio:2023,
+            episodios:1,
+            estreno:'2023-12-04'
+        }
+    ],
+    activo:true
+},
+	/* =============== FOR HIM — DR000905 =================== */
+{
+    codigo:'DR000905',
+    titulo:'For Him',
+    tituloOriginal:'ยอมเป็นของฮิม',
+    alias:['Yom Pen Khong Him','For Him The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'45-50 min',
+    estado:'Finalizado',
+    estreno:'2023-11-30',
+    finalizacion:'2024-02-15',
+    generos:['BL','Romance','Drama'],
+    tags:['BL','Romance adulto','One-night stand','Relaciones complicadas'],
+    personas:[],
+    ships:[
+        {personajes:['Him','Nail']}
+    ],
+    sinopsis:'Him y Nail comienzan su relación después de una noche juntos. Lo que para Nail debía ser algo pasajero no lo es para Him, que decide seguir acercándose a él. A medida que la relación avanza, ambos deben enfrentarse a sus sentimientos y a las dificultades que surgen entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== FUTURE — DR000906 =================== */
+{
+    codigo:'DR000906',
+    titulo:'Future',
+    tituloOriginal:'วิศวะสุดหล่อขอหมอเป็นเมีย',
+    alias:['Future The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Future',
+        tituloOriginal:'วิศวะสุดหล่อขอหมอเป็นเมีย',
+        autor:'Faddist',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-03-12',
+    finalizacion:'2023-04-16',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Universidad','Ingeniería','Odontología','Flechazo','Comedia romántica'],
+    personas:[],
+    ships:[
+        {personajes:['Fuse','Ana']}
+    ],
+    sinopsis:'Fuse, un estudiante de ingeniería, queda fascinado por Ana, un estudiante de odontología de quinto año. Decidido a conquistarle, comienza a acercarse a él hasta que el juego de seducción se convierte en una relación real.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== HIT BITE LOVE — DR000907 =================== */
+{
+    codigo:'DR000907',
+    titulo:'Hit Bite Love',
+    tituloOriginal:'รักชอบเจ็บ',
+    alias:['Hit Bite Love The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:'52 min',
+    estado:'Finalizado',
+    estreno:'2023-01-21',
+    finalizacion:'2023-02-25',
+    generos:['BL','Romance','Drama','Misterio'],
+    tags:['BL','Instituto','Amor adolescente','Relación secreta','Hermanastros','Triángulo amoroso','Investigación policial','Muerte misteriosa'],
+    personas:[],
+    ships:[
+        {personajes:['Ken','Shokun']},
+        {personajes:['Burger','King']},
+        {personajes:['Hida','Saint']}
+    ],
+    sinopsis:'Las historias de varios estudiantes se entrelazan alrededor del amor, los secretos y las consecuencias de sus decisiones. Ken y Shokun mantienen una relación secreta; Burger y King se acercan tras un malentendido; y Hida desarrolla sentimientos por Saint, su hermanastro. Todas las historias quedan conectadas por una investigación policial relacionada con la muerte de un estudiante.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Hit Bite Love: Episode 0',
+            tituloOriginal:'Episode 0',
+            anio:2023,
+            fecha:'2023-01-14'
+        }
+    ],
+    activo:true
+},
+
+/* =============== HOUSE OF STARS — DR000908 =================== */
+{
+    codigo:'DR000908',
+    titulo:'House of Stars',
+    tituloOriginal:'สถาบันปั้นดาว',
+    alias:['House of Stars The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-05-01',
+    finalizacion:'2023-07-17',
+    generos:['BL','Romance','Drama','Misterio'],
+    tags:['BL','Actores','Academia de talentos','Convivencia','Competencia','Secretos','Rivalidad','Romance','Drama psicológico'],
+    personas:[],
+    ships:[
+        {personajes:['Wayha','Wayu']},
+        {personajes:['Korn','Pawin']}
+    ],
+    sinopsis:'Un grupo de jóvenes aspirantes a convertirse en estrellas vive en una casa dirigida con mano firme por una poderosa representante. La convivencia, la competencia por alcanzar la fama y los secretos de los residentes generan relaciones, conflictos y romances.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== I FEEL YOU LINGER IN THE AIR — DR000909 =================== */
+{
+    codigo:'DR000909',
+    titulo:'I Feel You Linger in the Air',
+    tituloOriginal:'หอมกลิ่นความรัก',
+    alias:['Hom Klin Khwam Rak','The Scent of Love','The Fragrance of Love','Sweet Smell of Love'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'I Feel You Linger in the Air',
+        tituloOriginal:'หอมกลิ่นความรัก',
+        autor:'Violet Rain',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'46 min',
+    estado:'Finalizado',
+    estreno:'2023-08-18',
+    finalizacion:'2023-11-03',
+    generos:['BL','Romance','Drama','Fantasia','Historico'],
+    tags:['BL','Viaje temporal','Vidas pasadas','Reencarnación','1920s','Amor sobrenatural','Casa histórica','Alma gemela'],
+    personas:[],
+    ships:[
+        {personajes:['Jom','Yai']}
+    ],
+    sinopsis:'Jom, un joven arquitecto encargado de restaurar una antigua casa en Chiang Mai, sufre un accidente y viaja misteriosamente al año 1927. Allí conoce a Yai, el hombre que había aparecido repetidamente en sus sueños. Su encuentro da lugar a una historia de amor que atraviesa distintas épocas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Scent of Memory',
+            tituloOriginal:'Special: Scent of Memory',
+            anio:2023,
+            fecha:'2023-12-17'
+        }
+    ],
+    activo:true
+},
+
+/* =============== LA PLUIE — DR000910 =================== */
+{
+    codigo:'DR000910',
+    titulo:'La Pluie',
+    tituloOriginal:'ฝนตกครั้งนั้นฉันรักเธอ',
+    alias:['La Pluie The Series','Fon Tok Khrang Nan Chan Rak Thoe','I Loved You, That Time It Rained'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'La Pluie',
+        tituloOriginal:'ฝนตกครั้งนั้น…ฉันรักเธอ',
+        autor:'Eddy',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'50-55 min',
+    estado:'Finalizado',
+    estreno:'2023-04-29',
+    finalizacion:'2023-07-15',
+    generos:['BL','Romance','Fantasia','Sobrenatural'],
+    tags:['BL','Almas gemelas','Telepatía','Lluvia','Destino','Soulmates','Amor sobrenatural','Parejas secundarias'],
+    personas:[],
+    ships:[
+        {personajes:['Saengtai','Phat']},
+        {personajes:['Saengthian','Lomfon']}
+    ],
+    sinopsis:'Saengtai posee una extraña condición que hace que, cuando llueve, solo pueda escuchar la voz de su alma gemela. Aunque no cree en el destino, conoce a Phat, quien lleva años esperando encontrar a la persona cuya voz puede escuchar bajo la lluvia. Paralelamente, la historia de Saengthian y Lomfon introduce una segunda relación marcada por los vínculos entre almas gemelas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LAWS OF ATTRACTION — DR000911 =================== */
+{
+    codigo:'DR000911',
+    titulo:'Laws of Attraction',
+    tituloOriginal:'กฎแห่งรักดึงดูด',
+    alias:['Kot Haeng Rak Dueng Dut'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-07-15',
+    finalizacion:'2023-09-02',
+    generos:['BL','Romance','Drama','Crimen','Suspense'],
+    tags:['BL','Abogados','Justicia','Corrupción','Investigación','Venganza','Crimen','Caso judicial','Enemigos a amantes'],
+    personas:[],
+    ships:[
+        {personajes:['Charn','Tinn']}
+    ],
+    sinopsis:'Charn es un abogado brillante y calculador que acepta casos capaces de proporcionarle dinero o notoriedad. Tinn, que busca justicia tras la muerte de su sobrina, recurre a él. Mientras investigan el caso y descubren una red de corrupción, ambos desarrollan sentimientos que complican todavía más su búsqueda de justicia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOVE IN TRANSLATION — DR000912 =================== */
+{
+    codigo:'DR000912',
+    titulo:'Love in Translation',
+    tituloOriginal:'รักไม่รู้ภาษา',
+    alias:['Love in Translation The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-08-19',
+    finalizacion:'2023-10-07',
+    generos:['BL','Romance','Comedia'],
+    tags:['BL','Diferencias culturales','Barrera lingüística','Chino-tailandés','Negocios','Tienda','Amor a primera vista','Pareja secundaria'],
+    personas:[],
+    ships:[
+        {personajes:['Yang','Phumjai']},
+        {personajes:['Phojai','Tag']}
+    ],
+    sinopsis:'Yang es un empresario chino que llega a Tailandia para desarrollar su negocio. Allí conoce a Phumjai, un joven que intenta aprender chino para acercarse a una influencer. Las diferencias de idioma y cultura no impiden que ambos terminen desarrollando sentimientos. Paralelamente, Phojai y Tag viven su propia historia de amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== LOW FREQUENCY — DR000913 =================== */
+{
+    codigo:'DR000913',
+    titulo:'Low Frequency',
+    tituloOriginal:'คลื่นความถี่ต่ำ',
+    alias:['Low Frequency The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Low Frequency',
+        tituloOriginal:'คลื่นความถี่ต่ำ',
+        autor:'Dawin',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-07-08',
+    finalizacion:'2023-08-26',
+    generos:['BL','Romance','Drama','Fantasia','Sobrenatural'],
+    tags:['BL','Fantasmas','Espíritus','Accidente','Coma','Médium','Investigación','Misterio','Celebridad'],
+    personas:[],
+    ships:[
+        {personajes:['Mon','Thames']}
+    ],
+    sinopsis:'Mon, un joven diseñador de interiores capaz de ver espíritus, descubre que Thames, un joven actor que ha sufrido un accidente, puede aparecer ante él mientras permanece inconsciente. Mon decide ayudarlo a descubrir qué ocurrió y a resolver los misterios relacionados con el accidente.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Low Frequency Special Episode',
+            tituloOriginal:'Special Episode',
+            anio:2023,
+            fecha:'2023-09-02'
+        }
+    ],
+    activo:true
+},
+
+/* =============== MAKE A WISH — DR000914 =================== */
+{
+    codigo:'DR000914',
+    titulo:'Make a Wish',
+    tituloOriginal:'ภารกิจนายเทวดา',
+    alias:['Make a Wish The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Make a Wish',
+        tituloOriginal:'ภารกิจนายเทวดา',
+        autor:'Sammon',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-03-22',
+    finalizacion:'2023-04-26',
+    generos:['BL','Romance','Comedia','Fantasia','Sobrenatural'],
+    tags:['BL','Ángeles','Deseos','Fantasmas','Médico','Sobrenatural','Misterio','Concesión de deseos','Comedia romántica'],
+    personas:[],
+    ships:[
+        {personajes:['Phakphum','Krit']}
+    ],
+    sinopsis:'Phakphum es un médico que puede ver espíritus desde niño y desea librarse de esa capacidad. Su vida cambia cuando conoce a Krit, un ángel encargado de conceder deseos. Mientras ambos trabajan juntos para resolver distintos problemas sobrenaturales, su relación se transforma en algo más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== MY DEAR GANGSTER OPPA — DR000915 =================== */
+{
+    codigo:'DR000915',
+    titulo:'My Dear Gangster Oppa',
+    tituloOriginal:'พี่นักเลงที่รัก',
+    alias:['Phi Nakleng Thi Rak'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Webtoon',
+        relacion:'Adaptación',
+        titulo:'The Ideal Relationship',
+        tituloOriginal:'호형호제',
+        autor:'KEN',
+        pais:'KR'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-10-26',
+    finalizacion:'2023-12-14',
+    generos:['BL','Romance','Drama','Crimen'],
+    tags:['BL','Mafia','Videojuegos','Amor no correspondido','Mejores amigos','Identidad secreta','Gángsters','Triángulo amoroso','Webtoon'],
+    personas:[],
+    ships:[
+        {personajes:['Guy','Tew']}
+    ],
+    sinopsis:'Guy es un estudiante universitario tímido que está enamorado en secreto de su mejor amigo Whan. Para escapar de sus sentimientos se refugia en los videojuegos, donde conoce a Yuri. Más tarde descubre que Yuri es en realidad la hermana del mafioso Tew, y su relación con él cambia por completo su vida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'My Dear Gangster Oppa Special Episode',
+            tituloOriginal:'Special Episode',
+            anio:2023,
+            fecha:'2023-12-21'
+        }
+    ],
+    activo:true
+},
+	/* =============== ONLY FRIENDS — DR000916 =================== */
+
+{
+    codigo:'DR000916',
+    titulo:'Only Friends',
+    tituloOriginal:'เพื่อนต้องห้าม',
+    alias:['Only Friends The Series','Only Friends: The Series','Phuean Tong Ham','Forbidden Friends'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000045',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-08-12',
+    finalizacion:'2023-10-28',
+    generos:['BL','Romance','Drama'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Amistad',
+        'Universidad',
+        'Friends with Benefits',
+        'Relaciones',
+        'Triángulo amoroso',
+        'Infidelidad',
+        'Celos',
+        'Secretos',
+        'Vida universitaria'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sand','Ray']},
+        {personajes:['Mew','Top']},
+        {personajes:['Boston','Nick']}
+    ],
+    sinopsis:'Mew, Ray, Boston y Cheum son un grupo de amigos universitarios que trabajan juntos en un proyecto relacionado con un hostel. Cuando Top entra en la vida de Mew y Sand conoce a Ray, las relaciones, los deseos y los secretos comienzan a desdibujar los límites de su amistad. Boston y Nick también se ven atrapados en una relación marcada por la atracción, los celos y las dificultades para definir sus sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== ONLY FRIENDS: DREAM ON — DR000917 =================== */
+
+{
+    codigo:'DR000917',
+    titulo:'Only Friends: Dream On',
+    tituloOriginal:'โอนลีเฟรนด์ : ดรีมออน',
+    alias:['Only Friends Dream On','Only Friends: Dream On The Series'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000045',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2026-02-27',
+    finalizacion:'2026-05-15',
+    generos:['BL','Romance','Drama'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Universidad',
+        'Teatro',
+        'Amistad',
+        'Relaciones',
+        'Exparejas',
+        'Celos',
+        'Secretos',
+        'Sueños',
+        'Adaptación teatral',
+        'Romeo y Julieta'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jack','Dean']},
+        {personajes:['Arnold','Tua']},
+        {personajes:['Rome','Raffy']}
+    ],
+    sinopsis:'Jack dirige una producción teatral universitaria basada en una reinterpretación de Romeo y Julieta protagonizada por dos hombres. Su exnovio Dean obtiene uno de los papeles principales, mientras que Raffy compite por el papel de Romeo y continúa teniendo sentimientos por Jack. Paralelamente, Arnold y Tua se acercan mientras trabajan en la producción, y Rome desarrolla una relación cada vez más cercana con Raffy. La historia recupera además a algunos personajes de Only Friends, conectando ambas producciones dentro de la misma franquicia.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== STEP BY STEP — DR000918 =================== */
+
+{
+    codigo:'DR000918',
+    titulo:'Step by Step',
+    tituloOriginal:'ค่อย ๆ รัก',
+    alias:['Step By Step','Khoi Khoi Rak','Gradually Love'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000046',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2023-04-18',
+    finalizacion:'2023-07-05',
+    generos:['BL','Romance','Drama'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Oficina',
+        'Jefe × empleado',
+        'Adultos',
+        'Diferencia de edad',
+        'Slow Burn',
+        'Relaciones laborales',
+        'Amor de oficina',
+        'Segundas oportunidades'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jeng','Pat']},
+        {personajes:['Jaab','Jane']}
+    ],
+    sinopsis:'Pat regresa a Tailandia después de estudiar en el extranjero y comienza a trabajar en una empresa de marketing digital. Allí descubre que Jeng, el exigente y distante hijo del propietario de la empresa, es su nuevo jefe. La difícil relación profesional entre ambos evoluciona poco a poco hacia sentimientos que ninguno de los dos esperaba, mientras deben enfrentarse a los límites entre la vida laboral y personal, los desequilibrios de poder y las heridas del pasado.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE CHEMISTRY — DR000919 =================== */
+
+{
+    codigo:'DR000919',
+    titulo:'The Chemistry',
+    tituloOriginal:'จ๊าบเจน',
+    alias:['Jaab Jane','The Chemistry #JaabJane'],
+    pais:['TH'],
+    anio:2027,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000046',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'The Chemistry #จ๊าบเจน',
+        tituloOriginal:'The Chemistry #จ๊าบเจน',
+        autor:'summer december',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:null,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:null,
+    finalizacion:null,
+    generos:['BL','Romance','Drama'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Oficina',
+        'Compañeros de trabajo',
+        'Amor no correspondido',
+        'Friends to Lovers',
+        'Amor unilateral',
+        'Novela adaptada',
+        'Secuela',
+        'Spin-off'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jaab','Jane']}
+    ],
+    sinopsis:'Jaab Phongkit trabaja como director y lleva una vida rutinaria hasta que Jane Jennarong se incorpora al equipo de producción como nuevo asistente. Jane se sienta junto a Jaab y rápidamente destaca por su amabilidad, consideración y cercanía con sus compañeros. Jaab comienza a sentir una fuerte atracción por él, pero existe un problema: Jane ya tiene novio. La historia desarrolla la relación entre ambos compañeros y explora los sentimientos de Jaab mientras intenta comprender qué significa realmente la química entre dos personas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== THE LUMINOUS SOLUTION — DR000920 =================== */
+
+{
+    codigo:'DR000920',
+    titulo:'The Luminous Solution',
+    tituloOriginal:'แสงส่องรัก',
+    alias:['The Luminous Solution The Series','Luminous Series','Saeng Song Rak'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000920',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:6,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2023-05-27',
+    finalizacion:'2023-07-01',
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Fantasía',
+        'Sobrenatural',
+        'Cafetería mágica',
+        'Deseos',
+        'Precio de los deseos',
+        'Pareja estable',
+        'Infidelidad',
+        'Amor adolescente',
+        'Líneas temporales'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Thana','Patis']},
+        {personajes:['Mai','Ryou']}
+    ],
+    sinopsis:'Thana atraviesa una crisis tanto laboral como sentimental después de perder su trabajo y sentir que su relación de nueve años con Patis, su novio y médico, se ha deteriorado. Una misteriosa cafetería aparece ante él y le ofrece la posibilidad de pedir un deseo, aunque todo deseo tiene un precio. Paralelamente, el joven Ryou conoce a Mai y comienza a desarrollar sentimientos por él. Las historias de ambos se entrelazan con los secretos de la cafetería y con las consecuencias de los deseos concedidos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Side Story Nack-Napat',
+            fecha:'2023-08-05'
+        },
+        {
+            titulo:'Side Story Mai-Thana',
+            fecha:'2023-08-12'
+        },
+        {
+            titulo:'Side Story Ryou-Patis',
+            fecha:'2023-08-19'
+        },
+        {
+            titulo:'Side Story Keaw-Kanda',
+            fecha:'2023-08-26'
+        },
+        {
+            titulo:'Side Story Pain',
+            fecha:'2023-09-02'
+        }
+    ],
+    activo:true
+},
+
+/* =============== THE LUMINOUS BEGINS — DR000921 =================== */
+
+{
+    codigo:'DR000921',
+    titulo:'The Luminous Begins',
+    tituloOriginal:'แสงแรกรัก',
+    alias:['The Luminous Solution Season 2','Luminous Begins','Saeng Raek Rak'],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000920',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:10,
+    duracion:20,
+    estado:'Finalizado',
+    estreno:'2025-08-20',
+    finalizacion:'2025-10-22',
+    generos:['BL','Romance','Drama','Fantasía'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Fantasía',
+        'Sobrenatural',
+        'Precuela',
+        'Cafetería mágica',
+        'Deseos',
+        'Maldición',
+        'Amor trágico',
+        'Destino',
+        'Sacrificio',
+        'Origen de la maldición'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nont','Nai']}
+    ],
+    sinopsis:'Precuela de The Luminous Solution que revela cómo comenzó la maldición relacionada con la misteriosa cafetería que concede deseos. La historia se centra en Nont y Nai y en el nacimiento de su relación, mientras los primeros deseos concedidos desencadenan una serie de acontecimientos trágicos que terminarán dando origen a la maldición que afecta a las historias posteriores.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== NIGHT DREAM — DR000922 =================== */
+{
+    codigo:'DR000922',
+    titulo:'Night Dream',
+    tituloOriginal:'คืนฝันของฉันและเธอ',
+    alias:['Night Dream: คืนฝันของฉันและเธอ','Khuen Fan Khong Chan Lae Thoe'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Night Dream',
+        tituloOriginal:'คืนฝันของฉันและเธอ',
+        autor:'Faddist',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:6,
+    duracion:30,
+    estado:'Finalizado',
+    estreno:'2023-12-16',
+    finalizacion:'2024-01-27',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Amigos de la infancia',
+        'Amigos de la escuela',
+        'Reencuentro',
+        'Segunda oportunidad',
+        'Amor de amigos',
+        'Slow burn',
+        'Universidad',
+        'Estudiantes',
+        'Literatura',
+        'Escritor',
+        'Cafetería',
+        'Malentendidos',
+        'Flashbacks'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Night','Dream']}
+    ],
+    sinopsis:'Night es un estudiante de literatura que está a punto de graduarse y necesita terminar su proyecto final sobre el amor, pero no consigue comprender ni expresar qué significa realmente ese sentimiento. La situación cambia cuando se reencuentra con Dream, su antiguo mejor amigo del instituto, que ahora regenta una cafetería. La reunión despierta recuerdos y sentimientos que ambos habían dejado atrás, obligándolos a enfrentarse a lo que realmente existe entre ellos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PAST-SENGER — DR000923 =================== */
+{
+    codigo:'DR000923',
+    titulo:'Past-Senger',
+    tituloOriginal:'เพื่อนพ่อ เดอะซีรีส์',
+    alias:['Past Senger','Past-Senger The Series','Phuean Pho The Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2023-03-08',
+    finalizacion:'2023-05-24',
+    generos:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía',
+        'Viaje en el tiempo',
+        'Viaje temporal',
+        'Años 90',
+        'Universidad',
+        'Arquitectura',
+        'Estudiantes',
+        'Amigos',
+        'Familia',
+        'Padre e hijo',
+        'Destino',
+        'Reencuentro',
+        'Amor'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Kiao','Bamee']}
+    ],
+    sinopsis:'Kiao es un adolescente de los años 90 que sueña con estudiar arquitectura. Tras un extraño acontecimiento, termina transportado veinticinco años hacia el futuro, donde conoce a Bamee, un reservado estudiante de arquitectura cuyo padre falleció. Mientras intenta encontrar una forma de regresar a su época, Kiao se acerca cada vez más a Bamee y descubre que su propia historia está inesperadamente conectada con la familia del joven.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PIT BABE T1 — DR000924 =================== */
+{
+    codigo:'DR000924',
+    titulo:'Pit Babe',
+    tituloOriginal:'พิษเบ๊บ',
+    alias:['Pit Babe The Series','Pit Babe the Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000924',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Pit Babe',
+        tituloOriginal:'พิษเบ๊บ',
+        autor:'_alittlebitch',
+        pais:'TH'
+    },
+    temporadas:2,
+    temporada:1,
+    episodios:13,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2023-11-10',
+    finalizacion:'2024-02-09',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Thriller',
+        'Deportes',
+        'Omegaverse'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Thriller',
+        'Deportes',
+        'Omegaverse',
+        'Alfa',
+        'Beta',
+        'Omega',
+        'Carreras',
+        'Automovilismo',
+        'Pilotos',
+        'Competición',
+        'Familia encontrada',
+        'Secretos',
+        'Traición',
+        'Poderes especiales',
+        'Habilidades especiales',
+        'Adopción',
+        'Mafia',
+        'Crimen',
+        'Venganza',
+        'Protección',
+        'Amor prohibido'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Babe','Charlie']},
+        {personajes:['Alan','Jeff']},
+        {personajes:['North','Sonic']},
+        {personajes:['Kenta','Kim']},
+        {personajes:['Pete','Way']}
+    ],
+    sinopsis:'Babe es un famoso piloto de carreras y el corredor más destacado del equipo X-Hunter. Charlie, un joven aficionado al automovilismo, se acerca a él con el sueño de convertirse en piloto. Lo que comienza como un acuerdo entre ambos se transforma rápidamente en una relación marcada por la atracción y el amor. Mientras Babe y Charlie se acercan, salen a la luz los secretos de Tony y de los jóvenes que fueron criados bajo su control, obligándolos a enfrentarse a una peligrosa red de manipulación, poderes especiales, carreras y traiciones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PIT BABE T2 — DR000925 =================== */
+{
+    codigo:'DR000925',
+    titulo:'Pit Babe 2',
+    tituloOriginal:'พิษเบ๊บ 2',
+    alias:['Pit Babe Season 2','PIT BABE The Series 2','พิษเบ๊บ เดอะ ซีรีส์ 2'],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000924',
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Pit Babe 2: The Initium',
+        tituloOriginal:'พิษเบ๊บ 2: The Initium',
+        autor:'_alittlebitch',
+        pais:'TH'
+    },
+    temporadas:2,
+    temporada:2,
+    episodios:13,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2025-05-02',
+    finalizacion:'2025-07-25',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Thriller',
+        'Deportes',
+        'Omegaverse'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Thriller',
+        'Deportes',
+        'Omegaverse',
+        'Alfa',
+        'Beta',
+        'Omega',
+        'Carreras',
+        'Automovilismo',
+        'Competición',
+        'Pareja establecida',
+        'Celos',
+        'Confianza',
+        'Trauma',
+        'Superación',
+        'Familia encontrada',
+        'Laboratorio',
+        'Investigación',
+        'Poderes especiales',
+        'Supresión de habilidades',
+        'Secuestro',
+        'Rescate',
+        'Crimen',
+        'Venganza'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Babe','Charlie']},
+        {personajes:['Alan','Jeff']},
+        {personajes:['North','Sonic']},
+        {personajes:['Kenta','Kim']},
+        {personajes:['Pete','Way']}
+    ],
+    sinopsis:'Un año después de los acontecimientos de la primera temporada, Babe y Charlie intentan construir una vida juntos mientras siguen enfrentándose a las consecuencias de su pasado. Charlie dedica cada vez más tiempo a la investigación destinada a comprender y suprimir las habilidades especiales de los alfas, mientras Babe continúa compitiendo y tratando de proteger a las personas que considera su familia. El regreso de amenazas relacionadas con Tony y el surgimiento de nuevos conflictos ponen a prueba la relación de Babe y Charlie y vuelven a reunir al equipo X-Hunter.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PLAYBOYY T1 — DR000926 =================== */
+{
+    codigo:'DR000926',
+    titulo:'Playboyy',
+    tituloOriginal:'เล่นจนเป็นเรื่อง',
+    alias:['Playboyy The Series','PLAYBOYY THE SERIES'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000926',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:14,
+    duracion:64,
+    estado:'Finalizado',
+    estreno:'2023-11-16',
+    finalizacion:'2024-02-29',
+    generos:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Misterio',
+        'Thriller'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Misterio',
+        'Thriller',
+        'Desaparición',
+        'Investigación',
+        'Gemelos',
+        'Industria sexual',
+        'Trabajo sexual',
+        'Pornografía',
+        'Pornografía ilegal',
+        'Prostitución',
+        'Adicción',
+        'Sexo',
+        'Drogas',
+        'Venganza',
+        'Secretos',
+        'Universidad',
+        'Amistad',
+        'Relaciones tóxicas',
+        'Celos',
+        'Deseo'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Teena','Zouy']},
+        {personajes:['Soong','First']},
+        {personajes:['Prom','Nont']},
+        {personajes:['Aob','Puen']},
+        {personajes:['Keen','Captain']},
+        {personajes:['Nuth','Phop']},
+        {personajes:['Jump','Porsche']}
+    ],
+    sinopsis:'Cuando Nant desaparece misteriosamente, su hermano gemelo Nont regresa para descubrir qué le ocurrió. Zouy, el mejor amigo de Nant, y First se unen a la investigación, que poco a poco los introduce en un oscuro mundo relacionado con la industria sexual, la pornografía ilegal, las drogas, el trabajo sexual y redes clandestinas. Mientras buscan respuestas sobre la desaparición de Nant, los protagonistas también se enfrentan a sus propios deseos, relaciones y secretos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== PLAYBOYY T2 — DR000927 =================== */
+{
+    codigo:'DR000927',
+    titulo:'Playboyy Season 2',
+    tituloOriginal:null,
+    alias:['Playboyy T2','Playboyy 2','Playboyy The Series Season 2'],
+    pais:['TH'],
+    anio:null,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR000926',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:null,
+    duracion:null,
+    estado:'Próximamente',
+    estreno:null,
+    finalizacion:null,
+    generos:[
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Secuela',
+        'Industria sexual',
+        'Relaciones',
+        'Deseo',
+        'Misterio',
+        'Secretos'
+    ],
+    personas:[],
+    ships:[],
+    sinopsis:'Segunda temporada de Playboyy, anunciada oficialmente mediante un casting para nuevos episodios. Por el momento no se han confirmado públicamente una fecha de estreno, número de episodios, reparto definitivo ni una sinopsis oficial suficientemente detallada para completar esos campos en ASL.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== SHADOW — DR000928 =================== */
+
+{
+    codigo:'DR000928',
+    titulo:'Shadow',
+    tituloOriginal:'เงา/ล่า/ตาย',
+    alias:['Shadow เงา ล่า ตาย'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:14,
+    duracion:46,
+    estado:'Finalizado',
+    estreno:'2023-10-31',
+    finalizacion:'2023-12-07',
+    generos:['Drama','Misterio','Fantasía','Sobrenatural','Terror','Suspense','Thriller'],
+    tags:[
+        'BL',
+        'Drama',
+        'Misterio',
+        'Fantasía',
+        'Sobrenatural',
+        'Terror',
+        'Suspense',
+        'Thriller',
+        'Instituto',
+        'Internado',
+        'Amistad',
+        'Fantasmas',
+        'Espíritus',
+        'Secretos',
+        'Trauma',
+        'Investigación',
+        'Década de 1990'
+    ],
+    personas:[],
+    ships:[],
+    sinopsis:'En un internado tailandés situado en la década de 1990, Dan ocupa el lugar de Trin, un estudiante que desapareció misteriosamente. Mientras intenta adaptarse a su nueva vida, Dan comienza a experimentar fenómenos sobrenaturales relacionados con una misteriosa sombra. Junto a Nai y otros estudiantes, investigará la desaparición de Trin y los oscuros secretos que rodean al colegio.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== THE SIGN — DR000929 =================== */
+
+{
+    codigo:'DR000929',
+    titulo:'The Sign',
+    tituloOriginal:'ลางสังหรณ์',
+    alias:['The Sign Series','Laang Sangsorn'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Premonition',
+        tituloOriginal:'ลางสังหรณ์',
+        autor:'I-Rain-Yia',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:70,
+    estado:'Finalizado',
+    estreno:'2023-11-25',
+    finalizacion:'2024-02-10',
+    generos:['BL','Romance','Drama','Acción','Fantasía','Misterio'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Acción',
+        'Fantasía',
+        'Misterio',
+        'Sobrenatural',
+        'Investigación',
+        'Policía',
+        'Fuerzas especiales',
+        'Premoniciones',
+        'Vidas pasadas',
+        'Reencarnación',
+        'Destino',
+        'Garuda',
+        'Naga',
+        'Mitología tailandesa',
+        'Almas gemelas',
+        'Crimen',
+        'Secuestro'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Phaya','Tharn']},
+        {personajes:['Khem','Thongthai']}
+    ],
+    sinopsis:'Tharn posee desde niño la capacidad de percibir premoniciones y visiones relacionadas con acontecimientos futuros. Al incorporarse a la unidad especial de investigación conoce a Phaya, un brillante oficial con quien siente una extraña conexión. Mientras ambos investigan diversos casos y se enfrentan a una amenaza criminal, descubren que su vínculo se remonta a vidas pasadas y está relacionado con las antiguas leyendas de Garuda y Naga.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode Encore',
+            fecha:'2024-05-26',
+            duracion:85
+        }
+    ],
+    activo:true
+},
+
+/* =============== TIN TEM JAI — DR000930 =================== */
+
+{
+    codigo:'DR000930',
+    titulo:'Tin Tem Jai',
+    tituloOriginal:'ติณณ์เต็มใจ',
+    alias:['Tin Tem Jai The Series','Tin Tem Jai the Series'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Tin Tem Jai',
+        tituloOriginal:'ติณณ์เต็มใจ',
+        autor:'Taohu Khai',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:42,
+    estado:'Finalizado',
+    estreno:'2023-02-27',
+    finalizacion:'2023-05-01',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia',
+        'Amor no correspondido',
+        'Amigos de la infancia',
+        'Vecinos',
+        'Compañeros de piso',
+        'Triángulo amoroso',
+        'Celos',
+        'Panadería',
+        'Vida cotidiana',
+        'Juventud',
+        'Familia',
+        'Universidad'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Tin','Park']},
+        {personajes:['Pao','Khana']}
+    ],
+    sinopsis:'Tin vive junto a la familia de Park, su vecino y amigo de toda la vida, por quien lleva años sintiendo algo más. Aunque Park rechaza constantemente sus intentos de acercamiento, Tin continúa persiguiendo su amor. La llegada de Plearn, un estudiante que muestra interés por Tin, hace que Park empiece a enfrentarse a sus propios sentimientos. Paralelamente, Pao y Khana desarrollan su propia relación dentro del grupo de amigos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode 1',
+            fecha:'2023-06-03',
+            duracion:38
+        },
+        {
+            titulo:'Special Episode 2',
+            fecha:'2023-06-04',
+            duracion:31
+        }
+    ],
+    activo:true
+},
+
+/* =============== TWINS — DR000931 =================== */
+
+{
+    codigo:'DR000931',
+    titulo:'Twins',
+    tituloOriginal:'สองกายใจเดียว',
+    alias:['Twins The Series','Two Bodies, One Heart'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2023-11-03',
+    finalizacion:'2024-01-19',
+    generos:['BL','Romance','Comedia','Drama','Deportes'],
+    tags:[
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Deportes',
+        'Voleibol',
+        'Jiu-jitsu',
+        'Universidad',
+        'Gemelos',
+        'Hermanos',
+        'Identidad falsa',
+        'Suplantación',
+        'Accidente',
+        'Amistad',
+        'Competición',
+        'Celos'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sprite','First']}
+    ],
+    sinopsis:'Zee y Sprite son gemelos que destacan en disciplinas deportivas diferentes: Zee es un jugador de voleibol y Sprite practica jiu-jitsu. Después de que Zee sufre un accidente, Sprite debe hacerse pasar por su hermano para proteger su lugar dentro del equipo de voleibol. Mientras intenta mantener su identidad en secreto, Sprite se acerca cada vez más a First, uno de los compañeros de equipo de Zee, y ambos terminan desarrollando sentimientos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+
+/* =============== VENUS IN THE SKY — DR000932 =================== */
+
+{
+    codigo:'DR000932',
+    titulo:'Venus in the Sky',
+    tituloOriginal:'ห้ามฟ้าห่มดาว',
+    alias:['Venus in the Sky The Series','Ham Fa Hom Dao'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2023-09-02',
+    finalizacion:'2023-11-04',
+    generos:['BL','Romance','Drama'],
+    tags:[
+        'BL',
+        'Romance',
+        'Drama',
+        'Segunda oportunidad',
+        'Amigos de la universidad',
+        'Reencuentro',
+        'Amor no correspondido',
+        'Amor de oficina',
+        'Médicos',
+        'Diseño de interiores',
+        'Familia',
+        'Hermanos',
+        'Celos',
+        'Parejas establecidas',
+        'Vida cotidiana',
+        'Tienda de conveniencia'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Venus','Sky']},
+        {personajes:['Janus','Bomb']},
+        {personajes:['Paitong','Tonkla']}
+    ],
+    sinopsis:'Tres años después de que Sky rechazara su confesión de amor, Venus abandona su trabajo y regresa a su ciudad natal para tomarse un descanso. Mientras ayuda a su hermano Janus en una tienda de conveniencia, comienza a realizar entregas a domicilio y un día se encuentra inesperadamente con Sky, su antiguo amor y ahora médico. El reencuentro abre la puerta a una segunda oportunidad para ambos, mientras las relaciones de Janus y Bomb y de Paitong y Tonkla atraviesan sus propios conflictos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode',
+            fecha:'2023-11-11',
+            duracion:33
+        }
+    ],
     activo:true
 },
 ];
