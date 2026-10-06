@@ -50,7 +50,7 @@ DR000049		TH		2020		'I\'m Tee, Me Too'
 DR000050		TH		2025		'The Ex-Morning'			
 DR000051		TH		2026		'Write You Again'			
 DR000052		TH		2022		'Vice Versa'
-DR000053		TH		2023		titulo:'Last Twilight'		
+DR000053		TH		2023		'Last Twilight'		
 DR000054		TH		2025		'My Magic Prophecy'			
 DR000055		TH		2026		'I Will Always Save You'	
 DR000056		TH		2022		'Even Sun'	
@@ -173,7 +173,6 @@ DR000172		KR		2025		'My Secret Vampire'
 DR000173		KR		2025		'The Story of Bihyung: Enchanted Master of the Goblin'	
 DR000174		KR		2025		'Peach Trap'			
 DR000175		KR		2025		'Thundercloud Rainstorm'
-
 DR000176		KR		2026		'Fan Service'
 DR000177		KR		2026		'Opposites Attract'
 DR000178		KR		2026		'Love in Protocol'
@@ -387,7 +386,6 @@ DR000385    	PH    	2024    	Marahuyo Project
 DR000386    	PH    	2024    	Sky Valley
 DR000387    	PH    	2024    	Where I Found You
 DR000388    	PH    	2024    	Haunted Hearts
-DR000388    	PH    	2024    	Haunted Hearts
 DR000389    	PH    	2025    	Sashes and Hearts
 DR000390    	PH    	2025    	Hermoso
 DR000391    	PH    	2026    	Hermoso — Season 2
@@ -451,7 +449,6 @@ DR000448	VN	2021	You Are My Sunshine t2
 DR000449	VN	2022	You Are My Stupid Boy t3
 DR000450	VN	2021	Hey Rival, I Love You!
 DR000451	VN	2021	Beef, Cupcakes And Him
-
 DR000452	VN	2021	You Are Ma Boy
 DR000453	VN	2021	FOOLs – Những Kẻ Khờ
 DR000454	VN	2021	School's Out! Let's Date Now!
@@ -459,27 +456,23 @@ DR000455	VN	2021	The Most Peaceful Place Is My Place
 DR000456	VN	2021	My Lascivious Boss
 DR000457	VN	2021	Mr Cinderella
 DR000458	VN	2023	Mr Cinderella 2
-
 DR000459	VN	2022	A Love Song For My Beloved
 DR000460	VN	2022	The Promise
 DR000461	VN	2022	Want to See You
 DR000462	VN	2022	Memory
 DR000463	VN	2022	Love Bill
 DR000464	VN	2022	The Star Always Follows You
-
 DR000465	VN	2023	For You A Thousand Times
 DR000466	VN	2023	Oh My God
 DR000467	VN	2023	Stupid Genius
 DR000468	VN	2023	ViAn
 DR000469	VN	2023	My Goofy Deskmate
-
 DR000470	VN	2024	Be Your Star
 DR000471	VN	2024	Under the Oak Tree
 DR000472	VN	2024	The Fate Trap
 DR000473	VN	2024	Teenager Judge
 DR000474	VN	2024	People Come Later
 DR000475	VN	2024	Stand By Me
-
 DR000476	VN	2025	Fight for Love
 DR000477	VN	2025	My Sweet Brother in Law
 DR000478	VN	2025	I Have a Little Story
@@ -492,14 +485,11 @@ DR000484	VN	2025	The Sound of Nostalgia
 DR000485	VN	2026	The Night Before Blossom
 DR000486	VN	2026	Hạ Cuối, Biển Xanh Và Em
 DR000487	VN	2026	Sending My Pain to the Wind
-
 DR000488	HK	2018	Hehe & He t1
 DR000489	HK	2020	Hehe & He t2
 DR000490	HK	2021	Hehe & He t3
 DR000491	HK	2026	Sammy's Children's Day
 DR000492	HK	2026	Ash
-
-
 DR000493	HK	2024	I'm a Fool for You t4
 DR000494	HK	2024	Our Golden Times
 DR000495	HK	2023	My Colleague at BL Shop Might Be The Meant-To-Be
@@ -510,16 +500,12 @@ DR000499	HK	2021	I'm a Fool for You t2
 DR000500	HK	2021	I'm a Fool for You t1
 DR000501	HK	2021	Ossan's Love
 DR000502	HK	2021	The Love That Dare Not Speak Its Name
-
 DR000503	MY	2022	Wu Di in Love
 DR000504	MY	2026	Love Algorithm
-
 DR000505	SG	2026	Lost to You
 DR000506	SG	2025	Kill to Love
-
 DR000507	SG	2022	Getaway
 DR000508	SG	2026	Double Helix
-
 DR000509	CN	2016	Addicted
 DR000510	CN	2017	Advance Bravely
 DR000511	CN	2016	Love Is More Than a Word
@@ -528,7 +514,6 @@ DR000513	CN	2017	The Fairy Fox
 DR000514	CN	2017	Holy Fox Son 1: Advent
 DR000515	CN	2017	Holy Fox Son 2: Fairy Mountain Battle
 DR000516	CN	2017	Beloved Enemy
-
 DR000517	CN	2018	Guardian
 DR000518	CN	2019	The Untamed
 DR000519	CN	2019	The Untamed: Special Edition
@@ -540,7 +525,6 @@ DR000524	CN	2021	Word of Honor
 DR000525	CN	2021	Killer and Healer
 DR000526	CN	2020	Winter Begonia
 DR000527	CN	2020	The Sleuth of the Ming Dynasty
-
 DR000528	CN	2020	I Don't Want to Be Friends with You
 DR000529	CN	2022	In Your Heart
 DR000530	CN	2022	I Don't Want to Be Brothers with You
@@ -549,20 +533,16 @@ DR000532	CN	2023	Stay With Me
 DR000533	CN	2023	A League of Nobleman
 DR000534	CN	2023	Mysterious Lotus Casebook
 DR000535	CN	2024	Under the Skin II
-
-
 DR000536	CN	2024	Gym Affairs
 DR000537	CN	2024	Meet You at the Blossom
 DR000538	CN	2024	Blue Canvas of Youthful Days
 DR000539	CN	2024	The Spirealm
-
 DR000540	CN	2025	I’ll Turn Back This Time
 DR000541	CN	2025	My Enemy Has a Crush on Me
 DR000542	CN	2025	Secrets Happened on the Litchi Island
 DR000543	CN	2025	Caged Bird
 DR000544	CN	2025	Infidelity, It’s a Disease
 DR000545	CN	2025	The Agreement of Cherry Blossom Rainy Season
-
 DR000546	CN	2025	Moon and Dust
 DR000547	CN	2015	Falling in Love with a Rival
 DR000548	CN	2025	Revenged Love
@@ -570,7 +550,6 @@ DR000549	CN	2025	A Sketchy Job!
 DR000550	CN	2025	ABO Desire
 DR000551	CN	2025	To My Shore
 DR000552	SG	2025	The Sparkle in Your Eye
-
 DR000553	CN	2025	Ghost Marriage: A Straight Man Forced to Marry the King of the Underworld
 DR000554	CN	2025	Trapped in Osaka
 DR000555	CN	2025	Lost in Kyoto
@@ -580,12 +559,10 @@ DR000558	CN	2025	Never Date a Capricorn
 DR000559	CN	2025	PlutoCharon
 DR000560	CN	2025	Until We Drown
 DR000561	CN	2025	Gu Jin Nan Qiu
-
 DR000562	CN	2025	The Leopard Cat Scholar
 DR000563	CN	2025	The Leopard Cat Scholar 2
 DR000564	CN	2024	Pink Summer
 DR000565	CN	2025	Happy, Happy
-
 DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
 DR000567	CN	2025	Yu Jun Chang Ge
 DR000568	CN	2025	Out of Control Starlight
@@ -603,14 +580,10 @@ DR000579	CN	2025	He Should Have Shone Brightly
 DR000580	CN	2025	Time Raiders
 DR000581	CN	2025	Echoes of a Distant Chord
 DR000582	CN	2025	Disguise Game
-
 DR000583	CN	2022	The Blood of Youth
 DR000584	CN	2024	Dashing Youth
-
-
 DR000585	CN	2026	Archives: The Nanyang Mystery
 DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
-
 DR000587	CN	2026	Awakening the Steppe
 DR000588	CN	2026	Love After Addiction
 DR000589	CN-HK	2026	Feel What You Feel
@@ -618,14 +591,12 @@ DR000590	CN	2026	Private Galaxy
 DR000591	CN	2026	A Mountain Can Hold Two Tigers
 DR000592	HK	2026	The Gaze
 DR000593	CN	2026	Journey With You
-
 DR000594	CN	2026	Blackout
 DR000595	CN	2026	The Summer You Kissed Me
 DR000596	CN	2026	A Winter Sun Wakes the Wind in Spring Hills' Dream
 DR000597	CN	2026	Blazing Him
 DR000598	CN-SG	2026	Deep In
 DR000599	HK	2026	Unfold
-
 DR000600	CN	2026	Bittersweet Love
 DR000601	CN	2026	Blue Lips
 DR000602	CN	2026	The Last Secret
@@ -636,18 +607,15 @@ DR000606	CN	2026	The Missing Piece
 DR000607	CN	2026	Till I See You
 DR000608	CN	2026	Sleep Therapist
 DR000609	CN-TH	2026	Not Yours
-
 DR000610	JP	2016	Ossan's Love
 DR000611	JP	2018	Ossan's Love
 DR000612	JP	2019	Ossan's Love -in the sky-
 DR000613	JP	2024	Ossan's Love -Returns-
-
 DR000614	JP	2018	Pornographer
 DR000615	JP	2019	Pornographer: Mood Indigo
 DR000616	JP	2021	Pornographer: Spring Life
 DR000617	JP	2021	Pornographer: Playback
 DR000618	JP	2021	Pornographer: Continued Spring Life
-
 DR000619	JP	2019	His: I Didn't Think I Would Fall in Love
 DR000620	JP	2019	What Did You Eat Yesterday?
 DR000621	JP	2019	Ossan's Love The Movie: Love or Dead
@@ -655,14 +623,14 @@ DR000622	JP	2020	Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
 DR000623	JP	2020	Life~Love on the Line
 DR000624	JP	2020	The Reason Why He Fell in Love with Me
 DR000625	JP	2020	BE LOVE
-
 DR000626	JP	2020	What Did You Eat Yesterday? New Year Special 2020
 DR000627	JP	2020	Cherry Magic! Valentine's Day & Rokkaku Arc
 DR000628	JP	2020	Cherry Magic! Tsuge & Minato Arc
 DR000629	JP	2022	Cherry Magic! The Movie
 DR000630	JP	2023	What Did You Eat Yesterday? Season 2
 DR000631	JP	2021	What Did You Eat Yesterday? The Movie
-
+DR000632	JP	2020	The Reason Why He Fell in Love with Me: Drama Special
+DR000633	JP	2021	The Reason Why He Fell in Love with Me Season 2
 DR000634	JP	2021	A Man Who Defies the World of BL
 DR000635	JP	2022	A Man Who Defies the World of BL 2
 DR000636	JP	2024	A Man Who Defies the World of BL 2024
@@ -672,7 +640,6 @@ DR000639	JP	2021	My Love Mix-Up!
 DR000640	JP	2021	My Beautiful Man
 DR000641	JP	2023	My Beautiful Man Season 2
 DR000642	JP	2023	My Beautiful Man: Eternal
-
 DR000643	JP	2022	Minato's Laundromat
 DR000644	JP	2023	Minato's Laundromat 2
 DR000645	JP	2022	I Just Want to See You
@@ -688,13 +655,11 @@ DR000654	JP	2022	Eternal Yesterday
 DR000655	JP	2022	Candy Color Paradox
 DR000656	JP	2022	More Than Words
 DR000657	JP	2022	The 8.2 Second Rule
-
 DR000658	JP	2022	Shimbashi Koi Story
 DR000659	JP	2022	Shimbashi Koi Story 2
 DR000660	JP	2023	Shimbashi Koi Story – Final Chapter
 DR000661	JP	2023	I Became the Main Role of a BL Drama
 DR000662	JP	2025	I Became the Main Role of a BL Drama 2
-
 DR000663	JP	2023	The End of the World With You
 DR000664	JP	2023	Jack o' Frost
 DR000665	JP	2023	Blue Sky Complex
@@ -708,7 +673,6 @@ DR000672	JP	2023	One Room Angel
 DR000673	JP	2023	Mr. Sahara & Toki-kun
 DR000674	JP	2023	Me, My Husband & My Husband's Boyfriend
 DR000675	JP	2023	Polyethylene Terephthalate
-
 DR000676	JP	2024	Perfect Propose
 DR000677	JP	2024	Although I Love You, and You?
 DR000678	JP	2024	Don't Care for an Old Man's Underwear
@@ -731,10 +695,8 @@ DR000694	JP	2024	Smells Like Green Spirit
 DR000695	JP	2024	Love Is a Poison
 DR000696	JP	2024	Love in the Air: Premonition of Love
 DR000697	JP	2024	Our Youth
-
 DR000698	TH	2024	Love Sea
 DR000699	JP	2025	Love Sea: The Home for Lovers
-
 DR000700	JP	2025	When It Rains, It Pours
 DR000701	JP	2025	Depth of Field
 DR000702	JP	2025	The Proper Way to Write Love
@@ -745,13 +707,10 @@ DR000706	JP	2025	School Trip: Joined a Group I'm Not Close To
 DR000707	JP	2025	Chosen Home
 DR000708	JP	2025	Love Begins in the World of If
 DR000709	JP	2025	10DANCE
-
 DR000710	JP	2026	When It Rains, It Pours: Mellow Rain 2
 DR000711	JP	2026	The Proper Way to Write Love Season 2
 DR000712	JP	2026	The Journey to Killing You Season 2
 DR000713	JP	2026	School Trip: Joined a Group I'm Not Close To Season 2
-
-
 DR000714	JP	2007	Takumi-kun Series: Soshite Harukaze ni Sasayaite
 DR000715	JP	2009	Takumi-kun Series 2: Niji-iro no Garasu
 DR000716	JP	2010	Takumi-kun Series 3: Bibō no Detail
@@ -759,9 +718,7 @@ DR000717	JP	2010	Takumi-kun Series 4: Pure
 DR000718	JP	2011	Takumi-kun Series 5: Ano, Hareta Aozora
 DR000719	JP	2023	Takumi-kun Series: The Dawn of the Long Tales
 DR000720	JP	2025	Takumi-kun Series -Drama-
-
 DR000721	JP	2025	Therapy Game
-
 DR000722	JP	2026	I'm Kishi Knight: Your Private Tutor
 DR000723	JP	2026	Contrast
 DR000724	JP	2026	Countdown to Yes
@@ -780,17 +737,14 @@ DR000736	JP	2026	After Moving Seats, the Boy Behind Me Has a Crush on Me
 DR000737	JP	2026	Duty First, Kiss Later
 DR000738	JP	2026	Hold on, Harutora-kun
 DR000739	JP	2026	Love Punch!
-
 DR000740	TH	2014	Love Sick: The Series
 DR000741	TH	2015	Love Sick 2
 DR000742	TH	2019	Reminders
 DR000743	TH	2024	Love Sick 2024
-
 DR000744	TH	2016	Make It Right
 DR000745	TH	2017	Make It Right 2
 DR000746	TH	2019	Make It Live: On The Beach
 DR000747	TH	2026	Make It Right 2026
-
 DR000748	TH	2014	My Bromance
 DR000749	TH	2015	My Bromance: Reunion
 DR000750	TH	2016	My Bromance: The Series
@@ -798,53 +752,38 @@ DR000751	TH	2020	My Bromance 2: 5 Years Later
 DR000752	TH	2016	Gay OK Bangkok
 DR000753	TH	2017	Gay OK Bangkok 2
 DR000754	TH	2016	Grey Rainbow
-
 DR000755	TH	2018	What the Duck: The Series
 DR000756	TH	2019	What the Duck: Final Call
-
 DR000757	TH	2017	I Am Your King
 DR000758	TH	2019	I Am Your King 2
-
 DR000759	TH	2017	2 Moons
 DR000760	TH	2019	2 Moons 2
 DR000761	TH	2022	2 Moons: The Ambassador
-
 DR000762	TH	2017	Water Boyy: The Series
-
 DR000763	TH	2017	My Dear Loser: Edge of 17
 DR000764	TH	2017	My Dear Loser: Monster Romance
 DR000765	TH	2017	My Dear Loser: Happy Ever After
-
-
 DR000766	TH	2017	Bangkok G Story
 DR000767	TH	2017	Slam Dance
 DR000768	TH	2017	Choose
-
 DR000769	TH	2018	My Dream
 DR000770	TH	2018	Roop Thong
 DR000771	TH	2018	'Cause You're My Boy
-
-
 DR000772	TH	2021	Bad Buddy
 DR000773	TH	2023	Our skyy 2
 DR000774	TH	2018	Our skyy
-
 DR000775	TH	2019	2Wish
 DR000776	TH	2019	Thank God It's Friday
-
 DR000777	TH	2019	He's Coming to Me
 DR000778	TH	2019	Love Poison
 DR000779	TH	2021	Love Poison 2
 DR000780	TH	2019	The Best Twins
 DR000781	TH	2019	The Effect
 DR000782	TH	2019	With Love
-
 DR000783	TH	2019	3 Will Be Free
 DR000784	TH	2019	He She It
 DR000785	TH	2019	Blacklist
-
 DR000786	TH	2020	Why R U?
-
 DR000787	TH	2020	Gen Y
 DR000788	TH	2021	Gen Y 2
 DR000789	TH	2020	I Told Sunset About You
@@ -853,7 +792,6 @@ DR000791	TH	2020	The Moment I Need You
 DR000792	TH	2020	The Moment Since
 DR000793	TH	2020	YYY
 DR000794	TH	2020	YYY 2
-
 DR000795	TH	2020	Friend Forever
 DR000796	TH	2020	Manner of Death
 DR000797	TH	2020	My Engineer
@@ -865,11 +803,149 @@ DR000802	TH	2020	You Never Eat Alone
 DR000803	TH	2020	Ingredients
 DR000804	TH	2020	Puppy Love
 DR000805	TH	2020	Calculating Love
-
 DR000806	TH	2020	Roommate
 DR000807	TH	2020	Soulmate
 DR000808	TH	2020	Ghost Runner
 DR000809	TH	2020	So Much in Love
+DR000810	TH	2021	Fish Upon the Sky
+DR000811	TH	2021	Lovely Writer
+DR000812	TH	2021	Y-Destiny
+DR000813	TH	2021	Golden Blood
+DR000814	TH	2021	Bite Me
+DR000815	TH	2021	Paint with Love
+DR000816	TH	2020	Skinship T1
+DR000817	TH	2021	Skinship T2
+DR000818	TH	2021	Country Boy T1
+DR000819	TH	2022	Country Boy T2
+DR000820	TH	2021	Love Area T1
+DR000821	TH	2022	Love Area T2
+DR000822	TH/TW	2021	Call It What You Want T1
+DR000823	TH/TW	2021	Call It What You Want T2
+DR000824	TH	2022	Close Friend T2
+DR000825	TH	2021	Nitiman
+DR000826	TH	2021	My Boy
+DR000827	TH	2021	My Mate Match
+DR000828	TH	2021	The Cupid Coach
+DR000829	TH	2021	Deal Lover
+DR000830	TH	2021	Brothers
+DR000831	TH	2021	Hidden Love
+DR000832	TH	2021	Second Chance
+DR000833	TH	2021	Siew Sum Noi
+DR000834	TH	2021	Top Secret Together
+DR000835	TH	2021	The Best Story
+DR000836	TH	2021	The Yearbook
+DR000837	TH	2021	Love With Benefits
+DR000838	TH	2021	Loveless Society
+DR000839	TH	2021	7 Project
+DR000840	TH	2021	Hometown's Embrace
+DR000841	TH	2022	The Love of Winter
+DR000842	TH	2022	Boy Scouts
+DR000843	TH	2022	Something in My Room
+DR000844	TH	2022	You're My Sky
+DR000845	TH	2022	My Ride
+DR000846	TH	2022	Physical Therapy
+DR000847	TH	2022	Restart(ed)
+DR000848	TH	2022	The Tuxedo
+DR000849	TH	2022	The Miracle of Teddy Bear
+
+DR000850	JP	2020	LOVE STAGE!!
+DR000851	TH	2022	Love Stage!!
+
+DR000852	TH	2022	Rak Diao
+DR000853	TH	2022	Our Days
+DR000854	TH	2022	Secret Crush on You
+DR000855	TH	2022	What Zabb Man!
+DR000856	TH	2022	That's My Candy
+DR000857	TH	2022	Meow Ears Up
+DR000858	TH	2022	La Cuisine
+DR000859	TH	2022	Dear Doctor, I'm Coming for Soul
+DR000860	TH	2022	KinnPorsche
+DR000861	TH	2022	Rainbow Lagoon
+
+DR000862	TH	2022	Triage
+DR000863	TH	2022	In a Relationship
+DR000864	TH	2022	Check Out
+DR000865	TH	2022	21 Days Theory
+DR000866	TH	2022	On Cloud Nine
+DR000867	TH	2022	What If
+DR000868	TH	2022	Coffee Melody
+DR000869	TH	2022	Work From Heart
+
+DR000870	TH	2022	Love Mechanics
+
+DR000871 TH 2022 Unforgotten Night 
+DR000872 TH 2023 Love Syndrome III 
+DR000873 TH 2024 Love Syndrome: The Beginning
+
+DR000874	TH	2022	My Roommate
+DR000875	TH	2022	180 Degree Longitude Passes Through Us
+DR000876	TH	2022	Oh! My Sunshine Night
+DR000877	TH	2022	My Only 12%
+DR000879	TH	2022	Self
+DR000880	TH	2022	Ghost Host, Ghost House
+DR000881	TH	2022	Big Dragon
+DR000882	TH	2022	Hard Love Mission
+DR000883	TH	2022	Fahlanruk
+
+DR000878	TH	2022	The Promise
+DR000884	TH	2023	The Promise 2
+
+DR000885	TH	2022	To Sir, With Love
+DR000886	TH	2022	Ai Long Nhai
+DR000887	TH	2022	Why You… Y Me?
+DR000888	TH	2022	Till the World Ends
+DR000889	TH	2022	I Will Knock You
+DR000890	TH	2022	The Warp Effect 
+DR000891	TH	2022	609 Bedtime Story
+DR000892	TH	2022	War of Y
+DR000893	TH	2023	My Universe
+DR000894	TH	2023	7 Days Before Valentine
+DR000895	TH	2023	Absolute Zero
+DR000896	TH	2023	Bake Me Please
+DR000897	TH	2023	Be My Favorite
+DR000898	TH	2023	Beyond the Star
+DR000899	TH	2023	Boyband
+DR000900	TH	2023	Chains of Heart
+DR000901	TH	2023	Crazy Handsome Rich
+DR000902	TH	2023	Dead Friend Forever
+DR000903	TH	2023	Destiny Seeker
+DR000904	TH	2023	Dinosaur Love
+
+DR000905	TH	2023	For Him
+DR000906	TH	2023	Future
+DR000907	TH	2023	Hit Bite Love
+DR000908	TH	2023	House of Stars
+DR000909	TH	2023	I Feel You Linger in the Air
+DR000910	TH	2023	La Pluie
+DR000911	TH	2023	Laws of Attraction
+DR000912	TH	2023	Love in Translation
+DR000913	TH	2023	Low Frequency
+DR000914	TH	2023	Make a Wish
+DR000915	TH	2023	My Dear Gangster Oppa
+
+DR000916	TH	2023	Only Friends
+DR000917	TH	2026	Only Friends: Dream On
+
+
+DR000918	TH	2023	Step by Step
+DR000919	TH	2027	The Chemistry
+
+DR000920	TH	2023	The Luminous Solution
+DR000921	TH	2025	The Luminous Begins
+
+DR000922	TH	2023	Night Dream
+DR000923	TH	2023	Past-Senger
+DR000924	TH	2023	Pit Babe
+DR000925	TH	2025	Pit Babe 2
+DR000926	TH	2023	Playboyy
+DR000927	TH	null	Playboyy Season 2
+
+DR000928	TH	2023	Shadow
+DR000929	TH	2023	The Sign
+DR000930	TH	2023	Tin Tem Jai
+DR000931	TH	2023	Twins
+DR000932	TH	2023	Venus in the Sky
+
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
 Hanyang Studio → conservar EN000072 y eliminar EN000128.
