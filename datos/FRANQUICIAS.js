@@ -176,4 +176,20 @@ const FRANQUICIAS = [
     descripcion:'Franquicia que agrupa las producciones relacionadas con The Promise, incluyendo la precuela de 2022, la serie principal de 2023 y sus contenidos especiales.',
     activo:true
 },
+   {
+    codigo:'FR000045',
+    nombre:'Only Friends',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa las producciones relacionadas con Only Friends, incluyendo la serie original de 2023 y Only Friends: Dream On de 2026, ambientada en el mismo universo narrativo.',
+    activo:true
+},
+   {
+    codigo:'FR000046',
+    nombre:'Step by Step',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa las producciones relacionadas con Step by Step, incluyendo la serie original de 2023 y The Chemistry, continuación centrada en los personajes Jaab y Jane.',
+    activo:true
+},
 ];
