@@ -3196,7 +3196,17 @@ entidades:[
     {codigo:'EN000004',funcion:['Productora']}
 ],
 
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — Vice Versa',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: Vice Versa'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-05-10'
+    }
+],
 activo:true
 },
 
@@ -3577,7 +3587,17 @@ entidades:[
 {codigo:'EN000004',funcion:['Productora']}
 ],
 
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — My School President',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: My School President'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-05-17'
+    }
+],
 activo:true
 },
 
@@ -4323,7 +4343,17 @@ entidades:[
     {codigo:'EN000004',funcion:['Productora']},
     {codigo:'EN000006',funcion:['Emisora']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — Never Let Me Go',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: Never Let Me Go'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-04-19'
+    }
+],
 activo:true
 },
 
@@ -4582,7 +4612,17 @@ entidades:[
     {codigo:'EN000006',funcion:['Emisora']},
     {codigo:'EN000031',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — A Boss and a Babe',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: A Boss and a Babe'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-05-24'
+    }
+],
 activo:true
 },
 
@@ -4738,7 +4778,17 @@ entidades:[
     {codigo:'EN000006',funcion:['Emisora']},
     {codigo:'EN000031',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — Star in My Mind',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: Star in My Mind'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-04-26'
+    }
+],
 activo:true
 },
 
@@ -5052,7 +5102,17 @@ entidades:[
     {codigo:'EN000006',funcion:['Emisora']},
     {codigo:'EN000022',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — A Tale of Thousand Stars',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: Bad Buddy × A Tale of Thousand Stars'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:4,
+        estreno:'2023-05-31'
+    }
+],
 activo:true
 },
 
@@ -5260,7 +5320,17 @@ entidades:[
     {codigo:'EN000006',funcion:['Emisora']},
     {codigo:'EN000031',funcion:['Plataforma']}
 ],
-especiales:[],
+especiales:[
+    {
+        titulo:'Our Skyy 2 — The Eclipse',
+        tituloOriginal:'Our Skyy 2',
+        alias:['Our Skyy 2: The Eclipse'],
+        tipo:'Especial',
+        anio:2023,
+        episodios:2,
+        estreno:'2023-05-03'
+    }
+],
 activo:true
 },	
 	/* ==========================================   CAT FOR CASH — DR000090  ========================================== */
@@ -36672,8 +36742,9 @@ especiales:[
 ],
     activo:true
 },
+	/* =============== Our Skyy  — DR000774 =================== */
 	{
-    codigo:'DR000772',
+    codigo:'DR000774',
     titulo:'Our Skyy',
     tituloOriginal:'Our Skyy',
     alias:[],
@@ -36716,4 +36787,128 @@ especiales:[
 	],
     activo:true
 },
+	/* =============== Bad Buddy — DR000772 =================== */
+
+{
+    codigo:'DR000772',
+    titulo:'Bad Buddy',
+    tituloOriginal:'แค่เพื่อนครับเพื่อน',
+    alias:['Bad Buddy: The Series','Khae Phuean Khrap Phuean'],
+    pais:['TH'],
+    anio:2021,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Behind the Scenes',
+        tituloOriginal:'หลังม่าน',
+        autor:'Afterday & -West-',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:55,
+    estado:'Finalizado',
+    estreno:'2021-10-29',
+    finalizacion:'2022-01-21',
+    generos:['BL','Romance','Comedia','Drama','Juvenil'],
+    tags:[],
+    personas:[],
+    ships:[
+        {personajes:['Pat','Pran']}
+    ],
+    sinopsis:'Pat y Pran nacieron en dos familias enfrentadas que llevan generaciones compitiendo entre sí. La rivalidad familiar se traslada también a la universidad, donde ambos pertenecen a facultades rivales y mantienen públicamente la imagen de enemigos. Sin embargo, lejos de las miradas de sus familias y compañeros, ambos han desarrollado una amistad secreta que poco a poco se transforma en amor. Su relación les obliga a enfrentarse a la rivalidad entre sus familias y a decidir hasta dónde están dispuestos a luchar por estar juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+},
+	/* =============== Our Skyy 2 — DR000773 =================== */
+
+{
+    codigo:'DR000773',
+    titulo:'Our Skyy 2',
+    tituloOriginal:'Our Skyy 2',
+    alias:['Our Skyy Season 2'],
+    pais:['TH'],
+    anio:2023,
+    tipo:'Antología',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:16,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2023-04-19',
+    finalizacion:'2023-06-08',
+    generos:['BL','Romance','Drama','Comedia'],
+    tags:[],
+    personas:[],
+    ships:[],
+    sinopsis:'Antología de continuaciones y nuevas historias ambientadas en ocho series BL de GMMTV. Los dos primeros episodios continúan la historia de Palm y Nuengdiao de Never Let Me Go; los episodios 3 y 4 continúan la relación de Daonuea y Khabkluen de Star in My Mind; los episodios 5 y 6 retoman a Akk y Ayan de The Eclipse; los episodios 7 y 8 continúan la historia de Talay y Puen de Vice Versa; los episodios 9 y 10 presentan una nueva historia de Tinn y Gun de My School President; y los episodios 11 y 12 continúan la relación de Cher y Gun de A Boss and a Babe. Los cuatro episodios finales forman una historia crossover entre Bad Buddy y A Tale of Thousand Stars, reuniendo a Pat y Pran con Phupha y Tian en una historia compartida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    relaciones:[
+        {
+            tipo:'Antología',
+            drama:'DR000071',
+            episodios:[1,2]
+        },
+        {
+            tipo:'Antología',
+            drama:'DR000079',
+            episodios:[3,4]
+        },
+        {
+            tipo:'Antología',
+            drama:'DR000089',
+            episodios:[5,6]
+        },
+        {
+            tipo:'Antología',
+            drama:'DR000052',
+            episodios:[7,8]
+        },
+        {
+            tipo:'Antología',
+            drama:'DR000059',
+            episodios:[9,10]
+        },
+        {
+            tipo:'Antología',
+            drama:'DR000076',
+            episodios:[11,12]
+        },
+        {
+            tipo:'Crossover',
+            dramas:['DR000772','DR000085'],
+            episodios:[13,14,15,16]
+        }
+    ],
+    especiales:[],
+    activo:true
+}
 ];
