@@ -105,4 +105,10 @@ activo:true
     descripcion:'Universo que agrupa las distintas adaptaciones audiovisuales de I Hear the Sunspot (Hidamari ga Kikoeru).',
     activo:true
 },
+   {
+    codigo:'UN000025',
+    nombre:'Love Syndrome',
+    descripcion:'Universo que agrupa las producciones audiovisuales relacionadas con Love Syndrome, incluyendo Unforgotten Night, Love Syndrome III y Love Syndrome: The Beginning.',
+    activo:true
+},
 ];
