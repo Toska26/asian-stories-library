@@ -192,4 +192,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia que agrupa las producciones relacionadas con Step by Step, incluyendo la serie original de 2023 y The Chemistry, continuación centrada en los personajes Jaab y Jane.',
     activo:true
 },
+   {
+    codigo:'FR000047',
+    nombre:'Fourever You',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa las producciones audiovisuales basadas en las novelas de Howlsairy que forman el proyecto Fourever You, incluyendo las historias de East, North, South, West y Lately, It’s Winter Season.',
+    activo:true
+},
 ];
