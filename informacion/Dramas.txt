@@ -534,7 +534,7 @@ DR000533	CN	2023	A League of Nobleman
 DR000534	CN	2023	Mysterious Lotus Casebook
 DR000535	CN	2024	Under the Skin II
 DR000536	CN	2024	Gym Affairs
-DR000537	CN	2024	Meet You at the Blossom
+DR000537	CN TH TW	2024	Meet You at the Blossom
 DR000538	CN	2024	Blue Canvas of Youthful Days
 DR000539	CN	2024	The Spirealm
 DR000540	CN	2025	I’ll Turn Back This Time
@@ -933,6 +933,92 @@ DR000932	TH	2023	Venus in the Sky
 DR000933	TH	2022	My Tempo
 DR000934	TH	2023	My Tempo
 DR000935	TH	2023	The Whisperer
+DR000936	TH	2024	Every You, Every Me
+DR000937	TH	2024	Addicted Heroin
+DR000938	TH	2024	Close Friend 3: Soju Bomb!
+DR000939	TH	2024	Fourever You
+DR000940	TH	2025	Beside The Sky
+DR000941	TH	2026	The Sun From Another Star
+DR000942	TH	2026	Lately, It’s Winter Season
+DR000943	TH	2024	The Outing
+DR000944	TH	2024	A Secretly Love
+DR000945	TH	2024	1000 Years Old
+DR000946	TH	2024	Time
+DR000947	TH	2024	City of Stars
+DR000948	TH	2024	To Be Continued
+DR000949	TH	2024	Deep Night
+DR000950	TH	2024	Only Boo!
+DR000951	TH	2024	Wandee Goodday
+DR000952	TH	2024	My Stand-In
+DR000953	TH	2024	Kiseki in Tokyo Chapter 2
+DR000954	TH	2025	Season of Love in Shimane
+DR000955	TH	2024	Knock Knock, Boys!
+DR000956	TH	2024	Sunset x Vibes
+DR000957	TH	2024	The Rebound
+DR000958	TH	2024	This Love Doesn't Have Long Beans
+DR000959	TH	2024	Century of Love
+DR000960	TH	2024	I Saw You in My Dream
+DR000961	TH	2024	4Minutes
+DR000962	TH	2024	Battle of the Writers
+DR000963	TH	2024	Monster Next Door
+DR000964	TH	2024	Peaceful Property
+DR000965	TH	2024	Live in Love
+DR000966	TH	2024	Kidnap
+DR000967	TH	2024	The Hidden Moon
+DR000968	TH	2024	Jack & Joker: U Steal My Heart!
+DR000969	TH	2024	Bad Guy My Boss
+DR000970	TH	2024	High School Frenemy
+DR000971	TH	2024	Caged Again
+DR000972	TH	2024	Your Sky
+DR000973	TH	2024	Spare Me Your Mercy
+DR000974	TH	2024	ThamePo: Heart That Skips a Beat
+DR000975	TH	2024	Sangmin Dinneaw
+DR000976	TH	2024	Memory in the Letter
+DR000977	TH	2024	OMG! Vampire
+DR000978	TH	2025	MU-TE-LUV: "Hi" by My Luck
+DR000979	TH	2025	MU-TE-LUV: Not My Father
+DR000980	TH	2025	MU-TE-LUV: Diva Deva Mata
+DR000981	TH	2025	MU-TE-LUV: Fist Foot Fusion
+DR000982	TH	2025	MU-TE-LUV: Hello, Is This Luck?
+DR000983	TH	2026	MU-TE-LUV: Love Lock
+DR000984	TH	2026	MU-TE-LUV: Love Me if You Swear
+DR000985	TH	2025	4 Destiny
+DR000986	TH	2025	Flirt Milk
+DR000987	TH	2025	Gelboys
+DR000988	TH	2026	Gelboys 2
+DR000989	TH	2025	The Last Time
+DR000990	TH	2025	Last Meal Universe
+DR000991	TH	2025	Lost in the Woods
+DR000992	TH	2025	Top Form
+DR000993	TH	2025	My Golden Blood
+DR000994	TH	2025	Sweet Tooth, Good Dentist
+DR000995	TH	2025	Eye Contact
+DR000996	TH	2025	Loy Kaew First Love
+DR000997	TH	2025	Secret Ghost
+DR000998	TH	2025	Boys in Love
+DR000999	TH	2025	I Promise I Will Come Back
+DR001000	TH	2025	The Bangkok Boy
+DR001001	TH	2025	Knock Out
+DR001002	TH	2025	SUNTINY
+DR001003	TH	2025	My Sweetheart Jom
+DR001004	TH	2025	Reset
+DR001005	TH	2025	DogBro
+DR001006	TH	2025	Shine
+DR001007	TH	2025	Doctor's Mine
+DR001008	TH,JP	2025	Dating Game
+DR001009	TH	2025	Rearrange
+DR001010	TH	2025	MANDATE The Series
+DR001011	TH	2025	Love in the Moonlight
+DR001012	TH	2025	I'm the Most Beautiful Count
+DR001013	TH	2025	Lover Merman
+DR001014	TH	2025	The Cursed Love
+DR001015	TH	2025	The Wicked Game
+
+
+
+
+
+
 
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
