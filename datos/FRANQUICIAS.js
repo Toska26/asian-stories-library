@@ -207,5 +207,13 @@ const FRANQUICIAS = [
     tipo:'Franquicia',
     descripcion:'Franquicia que agrupa las producciones audiovisuales que continúan la historia de P, Pan y Plai en Japón, iniciada con Kiseki in Tokyo Chapter 2 y continuada con Season of Love in Shimane.',
     activo:true
-}
+},
+   {
+    codigo:'FR000049',
+    nombre:'Y-Destiny',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa Y-Destiny y SUNTINY, continuación centrada en la historia de Sun y Nuea varios años después de los acontecimientos de Y-Destiny.',
+    activo:true
+},
 ];
