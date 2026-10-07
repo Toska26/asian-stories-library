@@ -111,4 +111,12 @@ activo:true
     descripcion:'Universo que agrupa las producciones audiovisuales relacionadas con Love Syndrome, incluyendo Unforgotten Night, Love Syndrome III y Love Syndrome: The Beginning.',
     activo:true
 },
+
+{
+    codigo:'UN000026',
+    nombre:'Close Friend',
+    descripcion:'Universo que agrupa las distintas producciones audiovisuales de Close Friend, incluyendo Close Friend T1, Close Friend T2 y Close Friend 3: Soju Bomb!, aunque sus historias y personajes no mantienen continuidad entre todas las entregas.',
+    activo:true
+}
+
 ];
