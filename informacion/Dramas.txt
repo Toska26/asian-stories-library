@@ -847,10 +847,8 @@ DR000846	TH	2022	Physical Therapy
 DR000847	TH	2022	Restart(ed)
 DR000848	TH	2022	The Tuxedo
 DR000849	TH	2022	The Miracle of Teddy Bear
-
 DR000850	JP	2020	LOVE STAGE!!
 DR000851	TH	2022	Love Stage!!
-
 DR000852	TH	2022	Rak Diao
 DR000853	TH	2022	Our Days
 DR000854	TH	2022	Secret Crush on You
@@ -861,7 +859,6 @@ DR000858	TH	2022	La Cuisine
 DR000859	TH	2022	Dear Doctor, I'm Coming for Soul
 DR000860	TH	2022	KinnPorsche
 DR000861	TH	2022	Rainbow Lagoon
-
 DR000862	TH	2022	Triage
 DR000863	TH	2022	In a Relationship
 DR000864	TH	2022	Check Out
@@ -870,13 +867,10 @@ DR000866	TH	2022	On Cloud Nine
 DR000867	TH	2022	What If
 DR000868	TH	2022	Coffee Melody
 DR000869	TH	2022	Work From Heart
-
 DR000870	TH	2022	Love Mechanics
-
 DR000871 TH 2022 Unforgotten Night 
 DR000872 TH 2023 Love Syndrome III 
 DR000873 TH 2024 Love Syndrome: The Beginning
-
 DR000874	TH	2022	My Roommate
 DR000875	TH	2022	180 Degree Longitude Passes Through Us
 DR000876	TH	2022	Oh! My Sunshine Night
@@ -886,10 +880,8 @@ DR000880	TH	2022	Ghost Host, Ghost House
 DR000881	TH	2022	Big Dragon
 DR000882	TH	2022	Hard Love Mission
 DR000883	TH	2022	Fahlanruk
-
 DR000878	TH	2022	The Promise
 DR000884	TH	2023	The Promise 2
-
 DR000885	TH	2022	To Sir, With Love
 DR000886	TH	2022	Ai Long Nhai
 DR000887	TH	2022	Why You… Y Me?
@@ -910,7 +902,6 @@ DR000901	TH	2023	Crazy Handsome Rich
 DR000902	TH	2023	Dead Friend Forever
 DR000903	TH	2023	Destiny Seeker
 DR000904	TH	2023	Dinosaur Love
-
 DR000905	TH	2023	For Him
 DR000906	TH	2023	Future
 DR000907	TH	2023	Hit Bite Love
@@ -922,29 +913,26 @@ DR000912	TH	2023	Love in Translation
 DR000913	TH	2023	Low Frequency
 DR000914	TH	2023	Make a Wish
 DR000915	TH	2023	My Dear Gangster Oppa
-
 DR000916	TH	2023	Only Friends
 DR000917	TH	2026	Only Friends: Dream On
-
-
 DR000918	TH	2023	Step by Step
 DR000919	TH	2027	The Chemistry
-
 DR000920	TH	2023	The Luminous Solution
 DR000921	TH	2025	The Luminous Begins
-
 DR000922	TH	2023	Night Dream
 DR000923	TH	2023	Past-Senger
 DR000924	TH	2023	Pit Babe
 DR000925	TH	2025	Pit Babe 2
 DR000926	TH	2023	Playboyy
 DR000927	TH	null	Playboyy Season 2
-
 DR000928	TH	2023	Shadow
 DR000929	TH	2023	The Sign
 DR000930	TH	2023	Tin Tem Jai
 DR000931	TH	2023	Twins
 DR000932	TH	2023	Venus in the Sky
+DR000933	TH	2022	My Tempo
+DR000934	TH	2023	My Tempo
+DR000935	TH	2023	The Whisperer
 
 
 Matchbox → conservar EN000085 y eliminar después EN000120.
