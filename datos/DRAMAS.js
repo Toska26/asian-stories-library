@@ -50305,7 +50305,415 @@ especiales:[
     },
     activo:true
 },
+/* =============== MY SECRET OF SEER — DR001016 =================== */
+{
+    codigo:'DR001016',
+    titulo:'My Secret of Seer',
+    tituloOriginal:'การโต้กลับของซินแส',
+    alias:[
+        'The Counterattack of the Seer',
+        'The Seer’s Counterattack',
+        'Counterattack of the Fortune Teller',
+        'My Secret of Seer The Series'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'การโต้กลับของซินแส',
+        tituloOriginal:'การโต้กลับของซินแส',
+        autor:'wickedwish_',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'50 min',
+    estado:'Finalizado',
+    estreno:'2025-10-20',
+    finalizacion:'2025-12-22',
+    generos:[
+        'BL','Romance','Drama','Misterio','Sobrenatural','Fantasía'
+    ],
+    tags:[
+        'Adivinación','Maldición','Fantasmas','Espiritualidad','Talismán','Destino','Opuestos','Slow Burn'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Win','Phloeng']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Win, un joven adivino que puede percibir fenómenos sobrenaturales, descubre que su mala suerte está relacionada con una maldición que debe romper antes de cumplir años. Para conseguirlo necesita encontrar a una persona con una rara energía espiritual. Esa búsqueda lo lleva hasta Phloeng, presentador de un programa de televisión dedicado a desenmascarar supuestos fenómenos paranormales. La convivencia entre el creyente y el escéptico termina transformando su relación mientras ambos se enfrentan a secretos y fuerzas sobrenaturales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
 
+/* =============== MYSTIQUE IN THE MIRROR — DR001017 =================== */
+{
+    codigo:'DR001017',
+    titulo:'Mystique in the Mirror',
+    tituloOriginal:'ใครในกระจก',
+    alias:[
+        'Someone in the Mirror',
+        'Khrai Nai Krajok'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Mystique in the Mirror',
+        tituloOriginal:'ใครในกระจก',
+        autor:'Patrick III Rangsimant',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:'47 min',
+    estado:'Finalizado',
+    estreno:'2025-10-22',
+    finalizacion:'2025-12-10',
+    generos:[
+        'BL','Romance','Drama','Misterio','Sobrenatural','Thriller'
+    ],
+    tags:[
+        'Espejo','Hospital psiquiátrico','Memoria','Identidad','Misterio','Sobrenatural','Secretos'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Alan','Darwin']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Alan comienza a experimentar fenómenos extraños cada vez que se mira en un espejo, donde aparece la figura de un anciano. Su familia, preocupada por su estado mental, lo lleva a un hospital psiquiátrico. Allí conoce a Darwin, un joven que parece estar relacionado con los misterios que rodean sus recuerdos y su identidad. Mientras ambos intentan descubrir qué se esconde detrás de las apariciones, su relación se transforma en algo más profundo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== INTERMINABLE — DR001018 =================== */
+{
+    codigo:'DR001018',
+    titulo:'Interminable',
+    tituloOriginal:'อสงไขย',
+    alias:[
+        'Interminable',
+        'Asongkhai'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'อสงไขย',
+        tituloOriginal:'อสงไขย',
+        autor:'Sine',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:null,
+    estado:'Finalizado',
+    estreno:'2025-11-07',
+    finalizacion:'2026-01-16',
+    generos:[
+        'BL','Romance','Drama','Fantasía','Sobrenatural','Histórico'
+    ],
+    tags:[
+        'Reencarnación','Fantasmas','Vida pasada','Amor eterno','Casa encantada','Destino','Época','Promesa'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Yai','Kaewta']}
+    ],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Interminable Special Episode',
+            tituloOriginal:null,
+            alias:['Interminable Special'],
+            tipo:'Especial',
+            anio:2026,
+            episodios:1,
+            estreno:'2026-01-23'
+        }
+    ],
+    sinopsis:'Yai, un noble cuya existencia quedó ligada a una antigua casa, lleva siglos esperando el regreso de Kaewta, la persona que amó en una vida pasada. Cuando Kaewta reaparece en otra vida, el vínculo entre ambos vuelve a despertar. La historia combina romance, fantasmas, recuerdos de vidas anteriores y una promesa de amor que ha sobrevivido durante incontables años.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== A(IR) MOMENT — DR001019 =================== */
+{
+    codigo:'DR001019',
+    titulo:'A(ir) Moment',
+    tituloOriginal:'โอกาส อากาศ',
+    alias:[
+        'A(ir) Moment The Series',
+        'Air Moment',
+        'Okat Akat',
+        'A(ir) Moment: Opportunity'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:7,
+    duracion:'50 min',
+    estado:'Finalizado',
+    estreno:'2025-10-05',
+    finalizacion:'2026-01-25',
+    generos:[
+        'BL','Romance','Drama','Ciencia ficción','Distopía'
+    ],
+    tags:[
+        'Futuro','Distopía','Aire','Supervivencia','Sociedad','Supervivencia urbana','Amor'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Leo','Earth']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'En una Tailandia del futuro donde el aire respirable se ha convertido en un recurso escaso, un joven llega a una zona aislada buscando un lugar donde todavía pueda encontrarse aire limpio. Allí se cruza con un guardián encargado de proteger el distrito. Lo que comienza como una relación marcada por la desconfianza y las circunstancias termina convirtiéndose en un vínculo capaz de desafiar las reglas de un mundo al borde del colapso.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LET ME INTO YOUR HEART — DR001020 =================== */
+{
+    codigo:'DR001020',
+    titulo:'Let Me Into Your Heart',
+    tituloOriginal:'ขอเป็นพระเอกในหัวใจพระเอก',
+    alias:[
+        'Kho Pen Phra-ek Nai Huajai Phra-ek',
+        'Likay Hero the Series',
+        'Likay the Series',
+        'Phra-ek Likay The Series',
+        'ขอเป็นพระเอกในหัวใจ...พระเอก?',
+        'พระเอกลิเก The Series',
+        'ลิเกเดอะซีรีส์'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Let Me Into Your Heart',
+        tituloOriginal:'ขอเป็นพระเอกในหัวใจพระเอก?',
+        autor:'P.PICHA',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'47 min',
+    estado:'Finalizado',
+    estreno:'2025-12-03',
+    finalizacion:'2026-02-11',
+    generos:[
+        'BL','Romance','Comedia','Drama','Showbiz','Música','Cultura tailandesa'
+    ],
+    tags:[
+        'Likay','Teatro tradicional','Actores','Famosos','Rodaje','Romance laboral','Rivalidad','Showbiz'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jack','Ja']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Jack es un joven actor de éxito que recibe el papel protagonista de una nueva producción inspirada en el likay, una forma tradicional de teatro musical tailandés. Para preparar el personaje debe trabajar con Ja, un reconocido intérprete de likay. Los dos proceden de mundos profesionales muy diferentes y chocan constantemente, pero la convivencia durante la preparación y el rodaje hace que la rivalidad inicial se transforme progresivamente en atracción y afecto.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== MY STUBBORN — DR001021 =================== */
+{
+    codigo:'DR001021',
+    titulo:'My Stubborn',
+    tituloOriginal:'ไหนเฮียบอกไม่ชอบเด็ก',
+    alias:[
+        'Nai Hia Bok Mai Chop Dek',
+        'ไหนเฮียบอกไม่ชอบเด็ก'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Nai Hia Bok Mai Chop Dek',
+        tituloOriginal:'ไหนเฮียบอกไม่ชอบเด็ก',
+        autor:'MissPa_Ob',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:'53 min',
+    estado:'Finalizado',
+    estreno:'2025-04-20',
+    finalizacion:'2025-07-06',
+    generos:[
+        'BL','Romance','Drama','Comedia','Workplace'
+    ],
+    tags:[
+        'Oficina','Prácticas','Enemies to Lovers','Age Gap','Mentor-Mentee','Celos','Romance adulto'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sorn','Jun']},
+        {personajes:['Tai','Champ']}
+    ],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'My Stubborn Special Episode',
+            tituloOriginal:'ไหนเฮียบอกไม่ชอบเด็ก Special Episode',
+            alias:['My Stubborn Special EP1'],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-09-21'
+        },
+        {
+            titulo:'My Stubborn Special Episode 2',
+            tituloOriginal:null,
+            alias:['My Stubborn Special EP2'],
+            tipo:'Especial',
+            anio:2025,
+            episodios:1,
+            estreno:'2025-09-28'
+        }
+    ],
+    sinopsis:'Jun es un joven estudiante en prácticas, alegre, travieso y experto en sacar de quicio a Sorn, un trabajador de RT Design conocido por su carácter serio y su rechazo a relacionarse con personas más jóvenes. Después de años de enfrentamientos y bromas, una situación inesperada cambia la naturaleza de su relación. Lo que empieza como una relación sin compromiso termina convirtiéndose en sentimientos reales, mientras los celos, las inseguridades y las dificultades del entorno laboral ponen a prueba a ambos. Paralelamente, Tai y Champ desarrollan su propia historia romántica.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== MISSION TO THE MOON — DR001022 =================== */
+{
+    codigo:'DR001022',
+    titulo:'Mission to the Moon',
+    tituloOriginal:'ภารกิจพิชิตจันทรา',
+    alias:[
+        'ภารกิจพิชิตจันทรา',
+        'Mission To The Moon'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:30,
+    duracion:'10 min',
+    estado:'Finalizado',
+    estreno:'2025-05-06',
+    finalizacion:'2025-07-10',
+    generos:[
+        'BL','Romance','Drama','Fantasía','Sobrenatural','Histórico'
+    ],
+    tags:[
+        'Reencarnación','Espíritus','Vida pasada','Memoria','Amor eterno','Luna','Vida después de la muerte'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Srisinvade','Narvee']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Srisinvade murió hace dos mil años, pero cuando la órbita de la Luna vuelve a acercarse a la Tierra, su espíritu regresa con una misión: encontrar al hombre que amó. Ese hombre se ha reencarnado como Narvee, que no cree inicialmente en la historia del espíritu que aparece ante él. A medida que ambos descubren los vínculos entre sus vidas pasadas y presentes, intentan evitar que su amor vuelva a desaparecer con el paso del tiempo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
 
 
 
