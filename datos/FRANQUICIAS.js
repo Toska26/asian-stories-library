@@ -200,4 +200,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia que agrupa las producciones audiovisuales basadas en las novelas de Howlsairy que forman el proyecto Fourever You, incluyendo las historias de East, North, South, West y Lately, It’s Winter Season.',
     activo:true
 },
+   {
+    codigo:'FR000048',
+    nombre:'Kiseki',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa las producciones audiovisuales que continúan la historia de P, Pan y Plai en Japón, iniciada con Kiseki in Tokyo Chapter 2 y continuada con Season of Love in Shimane.',
+    activo:true
+}
 ];
