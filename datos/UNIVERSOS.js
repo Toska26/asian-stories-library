@@ -117,6 +117,12 @@ activo:true
     nombre:'Close Friend',
     descripcion:'Universo que agrupa las distintas producciones audiovisuales de Close Friend, incluyendo Close Friend T1, Close Friend T2 y Close Friend 3: Soju Bomb!, aunque sus historias y personajes no mantienen continuidad entre todas las entregas.',
     activo:true
-}
+},
+   {
+    codigo:'UN000027',
+    nombre:'MU-TE-LUV',
+    descripcion:'Universo que agrupa las siete historias independientes que forman MU-TE-LUV, un proyecto antológico de GMMTV centrado en el amor, la superstición, la fe y las creencias, donde cada historia presenta personajes y situaciones diferentes.',
+    activo:true
+},
 
 ];
