@@ -98,7 +98,7 @@ DR000097		TH		2019		'Theory of Love'
 DR000098		TH		2021		'Not Me'	
 DR000099		TH		2023		'Cooking Crush'
 DR000100		TH		2024		'The Trainee'
-DR000101		TH		2025		'Burnout Syndrome'			
+  DR000101		TH		2025		'Burnout Syndrome'			
 DR000102		TH		2026		'Gunshot'	
 DR000103		KR		2020		'Where Your Eyes Linger'	
 DR000104		KR		2020		'Mr. Heart'	
@@ -1013,7 +1013,13 @@ DR001012	TH	2025	I'm the Most Beautiful Count
 DR001013	TH	2025	Lover Merman
 DR001014	TH	2025	The Cursed Love
 DR001015	TH	2025	The Wicked Game
-
+DR001016	TH	2025	My Secret of Seer
+DR001017	TH	2025	Mystique in the Mirror
+DR001018	TH	2025	Interminable
+DR001019	TH	2025	A(ir) Moment
+DR001020	TH	2025	Let Me Into Your Heart
+DR001021	TH	2025	My Stubborn
+DR001022	TH	2025	Mission to the Moon
 
 
 
