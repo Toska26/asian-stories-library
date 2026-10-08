@@ -15,7 +15,7 @@ window.dramaActual = {
     estado: 'Finalizado',
     estreno: '2020-02-21',
     finalizacion: '2020-05-15',
-    generos: [        'Comedia',        'Romance'    ],
+    generos: [      'Comedia',        'Romance'    ],
     tags: [     'BL',        'Universidad',        'Música',        'Fake Dating',        'Friends to Lovers'    ],
     multimedia: {
         portada: ['https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg'],
