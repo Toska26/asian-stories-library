@@ -1,16 +1,18 @@
-// build-biblioteca.js
+// build-biblioteca.js (Guardado en la raíz del repositorio)
 const fs = require('fs');
 const path = require('path');
 
-// --- 1. CONFIGURACIÓN DE RUTAS ---
-const carpetaDramas = path.join(__dirname, 'dramas');
-const archivoSalida = path.join(__dirname, 'biblioteca.js');
+// --- 1. CONFIGURACIÓN DE RUTAS SEGÚN TU ESTRUCTURA ---
+// La carpeta datos contiene 'dramas', los archivos en mayúsculas y 'biblioteca.js'
+const carpetaDatos = path.join(__dirname, 'datos');
+const carpetaDramas = path.join(carpetaDatos, 'dramas');
+const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
 
-// Rutas de tus archivos globales existentes (si no existen aún localmente, creamos arrays vacíos)
-const rutaShips = path.join(__dirname, 'ships.js');
-const rutaPersonas = path.join(__dirname, 'personas.js');
+// Archivos globales en mayúsculas dentro de /datos/
+const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
+const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
 
-// --- 2. CARGAR DATO GLOBAL: SHIPS Y PERSONAS ---
+// --- 2. CARGAR SHIPS.js Y PERSONAS.js ---
 let shipsGlobales = [];
 let personasGlobales = [];
 
@@ -24,6 +26,8 @@ function cargarArchivoGlobal(ruta, variableName) {
     } catch (e) {
       console.warn(`⚠️ No se pudo cargar ${variableName} desde ${ruta}:`, e.message);
     }
+  } else {
+    console.warn(`⚠️ Archivo no encontrado: ${ruta}`);
   }
   return [];
 }
@@ -31,14 +35,14 @@ function cargarArchivoGlobal(ruta, variableName) {
 shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
 personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
 
-// --- 3. FUNCIÓN AUXILIAR PARA RESOLVER LOS SHIPS ---
+// --- 3. RESOLVER SHIPS PARA CADA DRAMA ---
 function obtenerShipsCalculados(drama) {
   if (!drama.ships || !Array.isArray(drama.ships) || drama.ships.length === 0) {
     return [];
   }
 
   const nombresResueltos = drama.ships.map(itemShip => {
-    // CASO A: Tiene un código de Ship Oficial (ej. { ship: 'SH000002' })
+    // CASO A: Ship Oficial con código (ej. SH000002)
     if (itemShip.ship) {
       const shipEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
       if (shipEncontrado && shipEncontrado.nombre) {
@@ -46,16 +50,14 @@ function obtenerShipsCalculados(drama) {
       }
     }
 
-    // CASO B: Relación por personajes y personas (ej. { personajes: ['Sorn', 'Jun'] })
+    // CASO B: No oficial, cruzando con PERSONAS.js por personaje
     if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
       if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-        // Buscar los códigos de persona asociados a esos personajes
         const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
           const rel = drama.personas.find(p => p.nombre === nombrePersonaje);
           return rel ? rel.persona : null;
         }).filter(Boolean);
 
-        // Obtener los 'nombreArtistico' de personas.js
         const nombresArtisticos = codigosPersonas.map(cod => {
           const pEncontrada = personasGlobales.find(p => p.codigo === cod);
           return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
@@ -66,7 +68,6 @@ function obtenerShipsCalculados(drama) {
         }
       }
 
-      // Si no hay mapeo con personas.js, usa los nombres de los personajes directamente
       return itemShip.personajes.join(' & ');
     }
 
@@ -76,9 +77,9 @@ function obtenerShipsCalculados(drama) {
   return nombresResueltos;
 }
 
-// --- 4. LEER LA CARPETA /DRAMAS/ Y GENERAR LA BIBLIOTECA ---
+// --- 4. LEER /datos/dramas/ Y GENERAR /datos/biblioteca.js ---
 if (!fs.existsSync(carpetaDramas)) {
-  console.error(`❌ La carpeta '/dramas/' no existe. Créala y añade algunos archivos de prueba.`);
+  console.error(`❌ La carpeta '${carpetaDramas}' no existe.`);
   process.exit(1);
 }
 
@@ -94,7 +95,6 @@ archivosDramas.forEach(archivo => {
     const evalFunc = new Function('window', contenido);
     evalFunc(windowFake);
 
-    // Soporta tanto window.dramaActual como un objeto drama directo
     const d = windowFake.dramaActual || {};
 
     if (d && d.codigo) {
@@ -103,7 +103,6 @@ archivosDramas.forEach(archivo => {
         ? d.multimedia.portada[0] 
         : `${d.codigo}.jpg`;
 
-      // Construcción del objeto optimizado para biblioteca.js
       listaBiblioteca.push({
         codigo: d.codigo,
         titulo: d.titulo || '',
@@ -142,12 +141,12 @@ archivosDramas.forEach(archivo => {
       });
     }
   } catch (err) {
-    console.error(`❌ Error al procesar el archivo de prueba ${archivo}:`, err.message);
+    console.error(`❌ Error al procesar '${archivo}':`, err.message);
   }
 });
 
-// --- 5. GUARDAR ARCHIVO BIBLIOTECA.JS ---
+// --- 5. ESCRIBIR EN /datos/biblioteca.js ---
 const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = ${JSON.stringify(listaBiblioteca, null, 2)};\n`;
 
 fs.writeFileSync(archivoSalida, contenidoFinal, 'utf-8');
-console.log(`✅ ¡Éxito! Se ha generado 'biblioteca.js' con ${listaBiblioteca.length} drama(s) de prueba.`);
+console.log(`✅ ¡Éxito! Se ha actualizado 'datos/biblioteca.js' con ${listaBiblioteca.length} drama(s).`);
