@@ -11,8 +11,8 @@ const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
 const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
 const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
 
-// --- 2. CARGADOR ROBUSTO Y FLEXIBLE ---
-function cargarArchivoGlobal(ruta, nombreVar) {
+// --- 2. CARGADOR MULTI-MAYÚSCULA Y ROBUSTO ---
+function cargarArchivoGlobal(ruta, variantesNombres) {
   if (!fs.existsSync(ruta)) {
     console.warn(`⚠️ No existe el archivo: ${ruta}`);
     return [];
@@ -21,32 +21,45 @@ function cargarArchivoGlobal(ruta, nombreVar) {
   try {
     const contenido = fs.readFileSync(ruta, 'utf-8');
     const context = { window: {} };
-    context[nombreVar] = [];
-    context.window[nombreVar] = context[nombreVar];
+
+    // Definimos las variantes tanto en el contexto como en window (ej: SHIPS, ships)
+    variantesNombres.forEach(nombre => {
+      context[nombre] = [];
+      context.window[nombre] = context[nombre];
+    });
 
     vm.createContext(context);
     vm.runInContext(contenido, context);
 
-    // Intenta extraer la variable declarada con const/let/var o asignada a window
-    let resultado = context.window[nombreVar] || context[nombreVar] || [];
-
-    // Si sigue vacío, buscar mediante regex la estructura 'const ships = [...]'
-    if (!Array.isArray(resultado) || resultado.length === 0) {
-      const match = contenido.match(new RegExp(`(?:const|var|let|window\\.)\\s*${nombreVar}\\s*=\\s*(\\[[\\s\\S]*?\\]);`));
-      if (match && match[1]) {
-        resultado = eval(match[1]);
+    // Buscamos cuál de las variantes contiene datos
+    for (const nombre of variantesNombres) {
+      const res = context.window[nombre] || context[nombre];
+      if (Array.isArray(res) && res.length > 0) {
+        return res;
       }
     }
 
-    return Array.isArray(resultado) ? resultado : [];
+    // Intento secundario vía Regex por si no se asignó en contexto
+    const inicioArray = contenido.indexOf('[');
+    const finArray = contenido.lastIndexOf(']');
+    
+    if (inicioArray !== -1 && finArray !== -1 && finArray > inicioArray) {
+      const codigoArray = contenido.substring(inicioArray, finArray + 1);
+      const evalFunc = new Function(`return ${codigoArray};`);
+      const resEval = evalFunc();
+      if (Array.isArray(resEval)) return resEval;
+    }
+
+    return [];
   } catch (e) {
-    console.warn(`⚠️ Error leyendo ${nombreVar} desde ${ruta}:`, e.message);
+    console.warn(`⚠️ Error leyendo desde ${ruta}:`, e.message);
     return [];
   }
 }
 
-const shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
-const personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
+// Carga reconociendo tanto 'SHIPS'/'ships' como 'PERSONAS'/'personas'
+const shipsGlobales = cargarArchivoGlobal(rutaShips, ['SHIPS', 'ships']);
+const personasGlobales = cargarArchivoGlobal(rutaPersonas, ['PERSONAS', 'personas']);
 
 console.log(`📌 Cargados ${shipsGlobales.length} ships desde SHIPS.js`);
 console.log(`📌 Cargadas ${personasGlobales.length} personas desde PERSONAS.js`);
@@ -55,9 +68,9 @@ console.log(`📌 Cargadas ${personasGlobales.length} personas desde PERSONAS.js
 function obtenerPrimerShipResuelto(itemShip, drama) {
   if (!itemShip) return null;
 
-  // CASO A: Tiene un código de Ship (ej. { ship: 'SH000002' })
   const codigoBuscado = itemShip.ship || itemShip.codigo;
 
+  // CASO A: Ship Oficial con código (ej. SH000002 -> BrightWin)
   if (codigoBuscado) {
     const sEncontrado = shipsGlobales.find(s => 
       s.codigo && String(s.codigo).trim().toUpperCase() === String(codigoBuscado).trim().toUpperCase()
@@ -65,12 +78,10 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
 
     if (sEncontrado && sEncontrado.nombre) {
       return sEncontrado.nombre; // Retorna "BrightWin"
-    } else {
-      console.warn(`⚠️ Drama '${drama.codigo}': No se encontró el ship '${codigoBuscado}' en SHIPS.js.`);
     }
   }
 
-  // CASO B: Sin código de ship oficial -> Mapeo a PERSONAS.js
+  // CASO B: Mapeo a PERSONAS.js
   if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
     if (Array.isArray(drama.personas) && drama.personas.length > 0) {
       const codigos = itemShip.personajes.map(nombreP => {
@@ -164,7 +175,7 @@ archivosDramas.forEach(archivo => {
   }
 });
 
-// --- 5. GUARDAR /datos/biblioteca.js ---
+// --- 5. GUARDAR EN /datos/biblioteca.js ---
 const lineasDramas = listaBiblioteca.map(drama => "  " + JSON.stringify(drama));
 const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = [\n${lineasDramas.join(',\n')}\n];\n`;
 
