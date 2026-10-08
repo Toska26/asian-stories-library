@@ -216,4 +216,12 @@ const FRANQUICIAS = [
     descripcion:'Franquicia que agrupa Y-Destiny y SUNTINY, continuación centrada en la historia de Sun y Nuea varios años después de los acontecimientos de Y-Destiny.',
     activo:true
 },
+   {
+    codigo:'FR000050',
+    nombre:'Me and Thee',
+    pais:['TH'],
+    tipo:'Franquicia',
+    descripcion:'Franquicia que agrupa Me and Thee y Peach and Me, continuación directa centrada en la vida de Thee y Peach después de su matrimonio.',
+    activo:true
+},
 ];
