@@ -1,18 +1,16 @@
-// build-biblioteca.js (Guardado en la raíz del repositorio)
+// build-biblioteca.js
 const fs = require('fs');
 const path = require('path');
 
-// --- 1. CONFIGURACIÓN DE RUTAS SEGÚN TU ESTRUCTURA ---
-// La carpeta datos contiene 'dramas', los archivos en mayúsculas y 'biblioteca.js'
+// --- 1. RUTAS DE TU PROYECTO ---
 const carpetaDatos = path.join(__dirname, 'datos');
 const carpetaDramas = path.join(carpetaDatos, 'dramas');
 const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
 
-// Archivos globales en mayúsculas dentro de /datos/
 const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
 const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
 
-// --- 2. CARGAR SHIPS.js Y PERSONAS.js ---
+// --- 2. CARGAR SHIPS Y PERSONAS ---
 let shipsGlobales = [];
 let personasGlobales = [];
 
@@ -35,14 +33,14 @@ function cargarArchivoGlobal(ruta, variableName) {
 shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
 personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
 
-// --- 3. RESOLVER SHIPS PARA CADA DRAMA ---
+// --- 3. RESOLVER SHIPS ---
 function obtenerShipsCalculados(drama) {
   if (!drama.ships || !Array.isArray(drama.ships) || drama.ships.length === 0) {
     return [];
   }
 
-  const nombresResueltos = drama.ships.map(itemShip => {
-    // CASO A: Ship Oficial con código (ej. SH000002)
+  return drama.ships.map(itemShip => {
+    // 1. Ship Oficial (ej: SH000002 -> BrightWin)
     if (itemShip.ship) {
       const shipEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
       if (shipEncontrado && shipEncontrado.nombre) {
@@ -50,7 +48,7 @@ function obtenerShipsCalculados(drama) {
       }
     }
 
-    // CASO B: No oficial, cruzando con PERSONAS.js por personaje
+    // 2. Mapeo no oficial a PERSONAS.js (ej: Im Ji & Oh Jun)
     if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
       if (Array.isArray(drama.personas) && drama.personas.length > 0) {
         const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
@@ -67,17 +65,14 @@ function obtenerShipsCalculados(drama) {
           return nombresArtisticos.join(' & ');
         }
       }
-
       return itemShip.personajes.join(' & ');
     }
 
     return null;
   }).filter(Boolean);
-
-  return nombresResueltos;
 }
 
-// --- 4. LEER /datos/dramas/ Y GENERAR /datos/biblioteca.js ---
+// --- 4. LEER /datos/dramas/ ---
 if (!fs.existsSync(carpetaDramas)) {
   console.error(`❌ La carpeta '${carpetaDramas}' no existe.`);
   process.exit(1);
@@ -103,7 +98,7 @@ archivosDramas.forEach(archivo => {
         ? d.multimedia.portada[0] 
         : `${d.codigo}.jpg`;
 
-      listaBiblioteca.push({
+      const itemDrama = {
         codigo: d.codigo,
         titulo: d.titulo || '',
         tituloOriginal: d.tituloOriginal || null,
@@ -115,11 +110,6 @@ archivosDramas.forEach(archivo => {
         portada: portadaPrincipal,
         activo: d.activo !== undefined ? d.activo : true,
 
-        // Ships
-        numShips: arrayShips.length,
-        ships: arrayShips,
-
-        // Banderas e indicadores de iconos
         numEspeciales: Array.isArray(d.especiales) ? d.especiales.length : 0,
         tieneSinopsis: typeof d.sinopsis === 'string' && d.sinopsis.trim().length > 0,
         tieneOrigen: Boolean(d.origen),
@@ -133,20 +123,27 @@ archivosDramas.forEach(archivo => {
           )
         ),
 
-        // Universos y franquicias
         tieneFranquicia: Boolean(d.franquicia),
         tieneUniverso: Boolean(d.universo),
         tieneSerie: Boolean(d.serie),
         tieneRemake: Boolean(d.remake)
-      });
+      };
+
+      // Si tiene ships resueltos, añade la propiedad
+      if (arrayShips.length > 0) {
+        itemDrama.ships = arrayShips;
+      }
+
+      listaBiblioteca.push(itemDrama);
     }
   } catch (err) {
     console.error(`❌ Error al procesar '${archivo}':`, err.message);
   }
 });
 
-// --- 5. ESCRIBIR EN /datos/biblioteca.js ---
-const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = ${JSON.stringify(listaBiblioteca, null, 2)};\n`;
+// --- 5. ESCRIBIR EN /datos/biblioteca.js (1 DRAMA POR LÍNEA) ---
+const lineasDramas = listaBiblioteca.map(drama => "  " + JSON.stringify(drama));
+const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = [\n${lineasDramas.join(',\n')}\n];\n`;
 
 fs.writeFileSync(archivoSalida, contenidoFinal, 'utf-8');
 console.log(`✅ ¡Éxito! Se ha actualizado 'datos/biblioteca.js' con ${listaBiblioteca.length} drama(s).`);
