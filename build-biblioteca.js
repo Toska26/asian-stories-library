@@ -135,7 +135,6 @@ archivosDramas.forEach(archivo => {
       const itemDrama = {
         codigo: d.codigo,
         titulo: d.titulo || '',
-        tituloOriginal: d.tituloOriginal || null,
         pais: Array.isArray(d.pais) ? d.pais : [],
         anio: d.anio || null,
         tipo: d.tipo || 'Serie',
@@ -152,6 +151,8 @@ archivosDramas.forEach(archivo => {
         tieneMultimedia: Boolean(
           d.multimedia && (
             (d.multimedia.trailer && d.multimedia.trailer.length > 0) ||
+            (d.multimedia.pilot && d.multimedia.pilot.length > 0) ||
+            (d.multimedia.videos && d.multimedia.videos.length > 0) ||
             (d.multimedia.ost && d.multimedia.ost.length > 0) ||
             (d.multimedia.teaser && d.multimedia.teaser.length > 0)
           )
