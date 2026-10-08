@@ -10,7 +10,7 @@ window.dramaActual =	{
     franquicia:null,
     universo:null,
     serie:null,
-    remake:null,
+    remake:null, 
     origen:null,
     temporadas:1,
     temporada:1,
