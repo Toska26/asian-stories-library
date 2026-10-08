@@ -73,20 +73,18 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
     );
 
     if (sEncontrado && sEncontrado.nombre) {
-      return sEncontrado.nombre; // Retorna ej. "BrightWin"
+      return sEncontrado.nombre;
     }
   }
 
-  // OPCIÓN 2: Búsqueda por mapa Personajes -> Drama.personas -> PERSONAS.js (Nombres Artísticos)
+  // OPCIÓN 2: Búsqueda por mapa Personajes -> Drama.personas -> PERSONAS.js
   if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
     if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-      // Obtenemos los códigos PRXXXXXX desde la relación del drama
       const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
         const rel = drama.personas.find(p => p.nombre === nombrePersonaje);
         return rel ? rel.persona : null;
       }).filter(Boolean);
 
-      // Buscamos los nombres artísticos en PERSONAS.js
       if (codigosPersonas.length >= 2) {
         const nombresArtisticos = codigosPersonas.map(cod => {
           const pEncontrada = personasGlobales.find(p => p.codigo === cod);
@@ -100,7 +98,6 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
     }
   }
 
-  // Si no se pudo resolver ni en SHIPS.js ni en PERSONAS.js, queda vacío
   return null;
 }
 
@@ -128,10 +125,6 @@ archivosDramas.forEach(archivo => {
       const totalShips = Array.isArray(d.ships) ? d.ships.length : 0;
       const primerShipNombre = totalShips > 0 ? obtenerPrimerShipResuelto(d.ships[0], d) : null;
 
-      const portadaPrincipal = Array.isArray(d.multimedia?.portada) && d.multimedia.portada.length > 0 
-        ? d.multimedia.portada[0] 
-        : `${d.codigo}.jpg`;
-
       const itemDrama = {
         codigo: d.codigo,
         titulo: d.titulo || '',
@@ -140,7 +133,6 @@ archivosDramas.forEach(archivo => {
         tipo: d.tipo || 'Serie',
         temporada: d.temporada || 1,
         estado: d.estado || 'Finalizado',
-        portada: portadaPrincipal,
         activo: d.activo !== undefined ? d.activo : true,
 
         numEspeciales: Array.isArray(d.especiales) ? d.especiales.length : 0,
@@ -151,8 +143,6 @@ archivosDramas.forEach(archivo => {
         tieneMultimedia: Boolean(
           d.multimedia && (
             (d.multimedia.trailer && d.multimedia.trailer.length > 0) ||
-            (d.multimedia.pilot && d.multimedia.pilot.length > 0) ||
-            (d.multimedia.videos && d.multimedia.videos.length > 0) ||
             (d.multimedia.ost && d.multimedia.ost.length > 0) ||
             (d.multimedia.teaser && d.multimedia.teaser.length > 0)
           )
@@ -164,6 +154,12 @@ archivosDramas.forEach(archivo => {
         tieneRemake: Boolean(d.remake)
       };
 
+      // Adjunta la portada SOLO si está explícitamente declarada en multimedia.portada
+      if (Array.isArray(d.multimedia?.portada) && d.multimedia.portada.length > 0) {
+        itemDrama.portada = d.multimedia.portada[0];
+      }
+
+      // Adjunta el ship SOLO si se resolvió correctamente
       if (primerShipNombre) {
         itemDrama.ship = primerShipNombre;
         itemDrama.numShips = totalShips;
