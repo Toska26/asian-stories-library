@@ -50714,8 +50714,1145 @@ especiales:[
     },
     activo:true
 },
+/* ======================================================
+   THE LOVE NEVER SETS — DR001023
+====================================================== */
+{
+    codigo:'DR001023',
+    titulo:'The Love Never Sets',
+    tituloOriginal:'ฉากนั้น...ยังเป็นเธอ',
+    alias:['The Love Never Sets: ฉากนั้น...ยังเป็นเธอ'],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Ai Ru Yong Zhou',
+        tituloOriginal:'爱如永昼',
+        autor:'Ni Zhoumo You Le',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2025-10-14',
+    finalizacion:'2026-01-06',
+    generos:['Romance','Drama'],
+    tags:['BL'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Saint e Ice son rivales que terminan obligados a interpretar a una pareja en una producción audiovisual. La situación transforma poco a poco su rivalidad en una relación marcada por sentimientos que ambos habían intentado ocultar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
 
 
+/* ======================================================
+   ME AND THEE — DR001024
+====================================================== */
+{
+    codigo:'DR001024',
+    titulo:'Me and Thee',
+    tituloOriginal:'มีสติหน่อยคุณธีร์',
+    alias:[],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000050',orden:1},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Me and Thee',
+        tituloOriginal:'มีสติหน่อยคุณธีร์',
+        autor:'laWila',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2025-11-15',
+    finalizacion:'2026-01-17',
+    generos:['Romance','Comedia'],
+    tags:['BL'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Thee and Thee',
+            fecha:'2026-01-24'
+        }
+    ],
+    sinopsis:'Thee, un poderoso empresario con una personalidad intensa y obsesiva, conoce a Peach, un joven fotógrafo de espíritu libre que termina alterando por completo su vida. Lo que comienza como una relación complicada acaba convirtiéndose en una historia de amor inesperada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
 
 
+/* ======================================================
+   GODDESS BLESS YOU FROM DEATH — DR001025
+====================================================== */
+{
+    codigo:'DR001025',
+    titulo:'Goddess Bless You from Death',
+    tituloOriginal:'สิงสาลาตาย',
+    alias:[],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Goddess Bless You from Death',
+        tituloOriginal:'สิงสาลาตาย',
+        autor:'MTRD.S.',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:13,
+    duracion:58,
+    estado:'Finalizado',
+    estreno:'2025-10-31',
+    finalizacion:'2026-01-30',
+    generos:['Romance','Drama','Suspense'],
+    tags:['BL','Misterio','Sobrenatural','Crimen'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Thup posee una capacidad sobrenatural que le permite percibir los rastros de los muertos. Cuando una serie de asesinatos rituales vuelve a aparecer, sus habilidades lo llevan hasta un caso que conecta el mundo de los vivos con fuerzas sobrenaturales y una antigua maldición.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   RELOVED — DR001026
+====================================================== */
+{
+    codigo:'DR001026',
+    titulo:'Reloved',
+    tituloOriginal:'เริ่มใหม่หัวใจเดิม',
+    alias:['Reloved The Series','Roem Mai Huajai Doem'],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:57,
+    estado:'Finalizado',
+    estreno:'2025-11-29',
+    finalizacion:'2026-02-07',
+    generos:['Romance','Drama','Comedia'],
+    tags:['BL','Segundas oportunidades','Familia'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Reloved Special Episode',
+            fecha:'2026-01-03'
+        },
+        {
+            titulo:'Otherwise, Us',
+            fecha:'2026-02-21'
+        }
+    ],
+    sinopsis:'Than, un hombre soltero que dirige un gimnasio y cuida de su sobrina tras la muerte de su hermano, se reencuentra inesperadamente con Akin, su antiguo novio, ahora también padre. El encuentro despierta sentimientos del pasado y obliga a ambos a enfrentarse a las razones que provocaron su separación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   HARD NIGHTS — DR001027
+====================================================== */
+{
+    codigo:'DR001027',
+    titulo:'Hard Nights',
+    tituloOriginal:'คืนนี้ผมนอนไม่หลับ',
+    alias:['Muea Khuen Ni Phom Non Mai Lap','I Can’t Sleep Tonight'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:16,
+    duracion:55,
+    estado:'Finalizado',
+    estreno:'2026-01-11',
+    finalizacion:'2026-03-15',
+    generos:['Romance','Drama'],
+    tags:['BL','LGBTQ+','Pareja adulta','Crisis de pareja'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Ohn, un dibujante de 54 años, atraviesa una etapa de crisis personal y profesional mientras su relación con Jira, su pareja de 55 años, comienza a deteriorarse después de casi siete años juntos. La pareja deberá enfrentarse a los problemas acumulados y decidir si todavía pueden recuperar la relación que construyeron.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   PEACH LOVER — DR001028
+====================================================== */
+{
+    codigo:'DR001028',
+    titulo:'Peach Lover',
+    tituloOriginal:'ลูกพีชทานสด',
+    alias:['Peach Lover The Series'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Peach Lover',
+        tituloOriginal:'ลูกพีชทานสด',
+        autor:'HAMSTER',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2026-01-20',
+    finalizacion:'2026-03-24',
+    generos:['Romance','Drama'],
+    tags:['BL','Contenido adulto','Redes sociales'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Peach Lover Special Episode'
+        }
+    ],
+    sinopsis:'Po es un ilustrador que lleva años siguiendo a un popular creador anónimo de contenido para adultos conocido como Peach Lover. Cuando Peach Lover regresa después de un año y busca a alguien que participe junto a él en sus vídeos, Po ve la oportunidad de acercarse finalmente a la persona que ha admirado durante tanto tiempo.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   TOO CLOSE FRIEND — T1 — DR001029
+====================================================== */
+{
+    codigo:'DR001029',
+    titulo:'Too Close Friend',
+    tituloOriginal:'เพื่อนเล่น ไม่เล่นเพื่อน',
+    alias:['Too Close Friends','Phuean Len Mai Len Phuean'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR001029',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:1,
+    episodios:9,
+    duracion:11,
+    estado:'Finalizado',
+    estreno:'2026-01-24',
+    finalizacion:'2026-05-31',
+    generos:['Romance','Drama','Juventud'],
+    tags:['BL','Instituto','Amigos a amantes','Serie corta'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Tee y K son mejores amigos y comparten cada aspecto de su vida cotidiana. Cuando Win entra en la vida de K, los celos y los sentimientos que Tee nunca se ha atrevido a reconocer empiezan a poner en peligro una amistad que ya no parece suficiente para definir su relación.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   PEACH AND ME — DR001030
+====================================================== */
+{
+    codigo:'DR001030',
+    titulo:'Peach and Me',
+    tituloOriginal:'มีสติแล้วลูกพีช',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:{codigo:'FR000050',orden:2},
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:4,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-07-11',
+    finalizacion:'2026-08-01',
+    generos:['Romance','Comedia'],
+    tags:['BL','Secuela','Matrimonio'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Después de su boda, Thee y Peach comienzan su vida matrimonial. Thee decide demostrar que puede comportarse con más sensatez, aunque su entusiasmo por pasar tiempo con Peach lo lleva a organizar una luna de miel cada semana mientras ambos intentan compaginar su vida de pareja con el trabajo y las responsabilidades familiares.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+
+/* ======================================================
+   TOO CLOSE FRIEND 2 — DR001031
+====================================================== */
+{
+    codigo:'DR001031',
+    titulo:'Too Close Friend 2',
+    tituloOriginal:'เพื่อนเล่น ไม่เล่นเพื่อน 2',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:'SR001029',
+    remake:null,
+    origen:null,
+    temporadas:2,
+    temporada:2,
+    episodios:9,
+    duracion:15,
+    estado:'Finalizado',
+    estreno:'2026-06-14',
+    finalizacion:'2026-08-09',
+    generos:['Romance','Drama','Juventud'],
+    tags:['BL','Instituto','Amigos a amantes','Serie corta'],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Tee y K intentan avanzar en su relación mientras afrontan nuevas amenazas y secretos familiares. La vuelta a clase marca una nueva etapa para ambos, pero la aparición de una presencia misteriosa y la llegada de la hermana de Tee complican el equilibrio de la pareja.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LOVE ALERT — DR001032 =============== */
+
+{
+    codigo:'DR001032',
+    titulo:'Love Alert',
+    tituloOriginal:'มีคำเตือน โปรดระมัดระวัง',
+    alias:['Love Alert: Please Be Careful','Mi Kham Tuean Prot Ramatrawang'],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'มีคำเตือน โปรดระมัดระวัง',
+        tituloOriginal:'มีคำเตือน โปรดระมัดระวัง',
+        autor:'Nottakorn',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2025-12-28',
+    finalizacion:'2026-03-01',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode',
+            fecha:'2026-03-12'
+        }
+    ],
+    sinopsis:'Jimmy es un estudiante universitario acostumbrado a convertir las relaciones en un juego. Después de otra ruptura, se fija en Plaifah, un joven que no parece impresionado por sus encantos. Para acercarse a él, Jimmy intenta utilizar a Teh, pero el juego comienza a complicarse cuando los sentimientos y las relaciones entre los personajes dejan de estar bajo su control.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== YESTERDAY — DR001033 =============== */
+
+{
+    codigo:'DR001033',
+    titulo:'Yesterday',
+    tituloOriginal:'รอยรักวันวาน',
+    alias:['Yesterday: Love Footprint from the Past','Yesterday The Series'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'昨天',
+        tituloOriginal:'昨天',
+        autor:'Feng Nong',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2026-02-09',
+    finalizacion:'2026-04-06',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode',
+            fecha:'2026-04-13'
+        }
+    ],
+    sinopsis:'Veir, heredero del grupo VPG, regresa después de haber desaparecido durante un año y descubre que la empresa familiar atraviesa una grave crisis. En medio de la lucha empresarial vuelve a encontrarse con Kelvin, el hombre al que amó en el pasado. La traición, el resentimiento y los sentimientos que nunca desaparecieron harán que ambos tengan que enfrentarse a su historia compartida.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== A GOOD YESTERDAY — DR001034 =============== */
+
+{
+    codigo:'DR001034',
+    titulo:'A Good Yesterday',
+    tituloOriginal:'รักไม่เคยลืม',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:3,
+    duracion:60,
+    estado:'Finalizado',
+    estreno:'2026-02-11',
+    finalizacion:'2026-02-25',
+    generos:['Thriller','Misterio','Terror','Romance','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Jedi, un joven YouTuber, viaja a Kaen Makrut para grabar un programa de viajes. Allí conoce a Asi, un joven perteneciente a una minoría étnica de la región, y entre ambos surge una atracción inmediata. Sin embargo, Jedi descubre que Asi está atrapado en una compleja red de relaciones y que varias desapariciones de parejas LGBTQ+ están relacionadas con el lugar.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== THE MASKED HEARTS — DR001035 =============== */
+
+{
+    codigo:'DR001035',
+    titulo:'The Masked Hearts',
+    tituloOriginal:'นายโขน',
+    alias:['Nai Khon'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela web',
+        relacion:'Adaptación',
+        titulo:'Nai Khon',
+        tituloOriginal:'นายโขน',
+        autor:'NooDangzz',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:25,
+    estado:'Finalizado',
+    estreno:'2026-02-21',
+    finalizacion:'2026-04-11',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Sand, un joven apasionado por el cosplay y fascinado por el arte del Khon, se une al club universitario dedicado a esta tradición con la intención de modernizarla. Allí choca con Lucky, el estricto presidente del club. Mientras la rivalidad entre ambos crece, comienzan a aparecer recuerdos de una vida pasada en la que fueron un maestro y su sirviente separados por las diferencias de clase.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LOVE LIKE A BIKE — DR001036 =============== */
+
+{
+    codigo:'DR001036',
+    titulo:'Love Like a Bike',
+    tituloOriginal:'ปั่นไปให้ถึงรัก',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-03-02',
+    finalizacion:'2026-04-20',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Tres hermanos adoptivos regentan juntos una cafetería especializada en bicicletas en Pattaya. Nab-Nueng, el mayor, es psicólogo; Tawan, el segundo, es un antiguo piloto que arrastra el trauma de un accidente aéreo; y Sky, el menor, trabaja como anfitrión de un club nocturno. Cada uno tendrá que enfrentarse a sus propios problemas sentimentales mientras una aventura en bicicleta los lleva hacia nuevas oportunidades de amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== BLING BLING THE SERIES — DR001037 =============== */
+
+{
+    codigo:'DR001037',
+    titulo:'Bling Bling The Series',
+    tituloOriginal:'เพชรประกาย',
+    alias:['Petchprakai'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-03-13',
+    finalizacion:'2026-05-29',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Petch-thae se ve obligado a asumir el liderazgo de la compañía de likay de su familia después de la muerte de su fundador. Sin experiencia para afrontar la responsabilidad, tendrá que enfrentarse a los problemas internos de la compañía, proteger su legado y demostrar que el arte tradicional tailandés todavía puede encontrar un lugar en la era digital.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LOVE UPON A TIME — DR001038 =============== */
+
+{
+    codigo:'DR001038',
+    titulo:'Love Upon a Time',
+    tituloOriginal:'ภพเธอ',
+    alias:['Love Upon a Time Series','Phop Thoe'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'ภพเธอ',
+        tituloOriginal:'ภพเธอ',
+        autor:'Littlebbear96',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:69,
+    estado:'Finalizado',
+    estreno:'2026-03-27',
+    finalizacion:'2026-06-12',
+    generos:['Romance','Drama','Histórico','Fantasía','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Nakhun, un estudiante universitario de veinte años escéptico ante las supersticiones, ve su vida alterada cuando un acontecimiento inesperado lo transporta casi cuatrocientos años al pasado, hasta el Reino de Ayutthaya. Allí, quienes lo rodean están convencidos de que es Klao, una persona de otra época. Mientras intenta comprender qué ha sucedido y encontrar la forma de regresar a su tiempo, deberá enfrentarse a los sentimientos y vínculos que lo unen a esa vida pasada.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+/* =============== MAGIC MOVE — DR001039 =============== */
+
+{
+    codigo:'DR001039',
+    titulo:'Magic Move',
+    tituloOriginal:'เขมจิราต้องรอด',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-07',
+    finalizacion:'2026-06-23',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode',
+            fecha:null
+        }
+    ],
+    sinopsis:'Un joven con la capacidad de percibir fenómenos sobrenaturales se ve envuelto en una serie de acontecimientos que cambiarán su vida cuando conoce a una persona relacionada con su pasado y con poderes que no comprende.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LOVE OF SILOM — DR001040 =============== */
+
+{
+    codigo:'DR001040',
+    titulo:'Love of Silom',
+    tituloOriginal:'รักแห่งสีลม',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2026-04-24',
+    finalizacion:'2026-07-10',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episodes',
+            fecha:null
+        }
+    ],
+    sinopsis:'La historia de dos jóvenes cuyos caminos se cruzan en Silom y que, pese a sus diferencias y a las circunstancias que los rodean, terminan desarrollando una relación que pondrá a prueba sus sentimientos y sus decisiones.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== FLOWER BOY: ENCHANTED BY THE SCENT OF POLLEN — DR001041 =============== */
+
+{
+    codigo:'DR001041',
+    titulo:'Flower Boy: Enchanted by the Scent of Pollen',
+    tituloOriginal:'รักวุ่นๆ นายดอกไม้',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2026-04-25',
+    finalizacion:'2026-06-13',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Una historia romántica protagonizada por jóvenes que descubren que el amor puede aparecer de las formas más inesperadas, mientras las relaciones entre ellos se complican por secretos, sentimientos no correspondidos y situaciones propias de la juventud.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== ONE YEAR — DR001042 =============== */
+
+{
+    codigo:'DR001042',
+    titulo:'One Year',
+    tituloOriginal:'เลือนรางและจางหาย',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-04-26',
+    finalizacion:'2026-06-14',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Una historia sobre el paso del tiempo, los recuerdos y los sentimientos que permanecen incluso cuando las personas intentan dejar atrás el pasado. Los protagonistas deberán afrontar aquello que creían olvidado cuando sus caminos vuelven a cruzarse.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== WU — DR001043 =============== */
+
+{
+    codigo:'DR001043',
+    titulo:'Wu',
+    tituloOriginal:'อู',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:9,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-05',
+    finalizacion:'2026-06-30',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Wu Special',
+            fecha:'2026-04-28'
+        }
+    ],
+    sinopsis:'Una historia de amor y crecimiento personal en la que los protagonistas deberán enfrentarse a sus propios sentimientos, a las expectativas de quienes los rodean y a las decisiones que pueden cambiar el rumbo de sus vidas.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== YOUR DEAR DADDY — DR001044 =============== */
+
+{
+    codigo:'DR001044',
+    titulo:'Your Dear Daddy',
+    tituloOriginal:'เรียกแด๊ดว่าแด๊ด',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-09',
+    finalizacion:'2026-06-27',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'เรียกแด๊ดมาเล่น (Come Play, Dear Daddy)',
+            fecha:'2026-04-25'
+        },
+        {
+            titulo:'เรียกแด๊ดมาเล่น (Come Play, Dear Daddy)',
+            fecha:'2026-05-02'
+        }
+    ],
+    sinopsis:'La relación entre un joven y la figura que ocupa un lugar especial en su vida se transforma cuando los sentimientos comienzan a superar los límites que ambos habían establecido. Entre situaciones familiares, vínculos afectivos y nuevos desafíos, tendrán que descubrir qué significa realmente estar juntos.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== WHEN ORANGES FALL — DR001045 =============== */
+
+{
+    codigo:'DR001045',
+    titulo:'When Oranges Fall',
+    tituloOriginal:'ต้นส้มอยู่บ้านเขา แต่ผลส้มหล่นมาบ้านเราตลอดเลย',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-13',
+    finalizacion:'2026-07-29',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'When Oranges Fall Special',
+            fecha:'2026-05-06'
+        }
+    ],
+    sinopsis:'Una historia de amor que comienza a desarrollarse a partir de una relación aparentemente cotidiana y de los pequeños acontecimientos que acercan progresivamente a sus protagonistas. Entre sentimientos inesperados y situaciones familiares, ambos tendrán que decidir qué lugar quieren ocupar en la vida del otro.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== MY GRANDPA IS A BL WRITER — DR001046 =============== */
+
+{
+    codigo:'DR001046',
+    titulo:'My Grandpa Is a BL Writer',
+    tituloOriginal:'คุณปู่เป็นนักเขียน BL',
+    alias:[],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-16',
+    finalizacion:'2026-06-21',
+    generos:['Romance','Comedia','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Un joven descubre que su abuelo, un hombre aparentemente tradicional, escribe novelas BL en secreto. A partir de este descubrimiento, la vida familiar comienza a cambiar y el joven termina involucrándose en situaciones relacionadas con las historias y personajes que su abuelo crea.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== PAYBACK THE SERIES — DR001047 =============== */
+
+{
+    codigo:'DR001047',
+    titulo:'PayBack The Series',
+    tituloOriginal:'페이백',
+    alias:['Payback'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Manhwa',
+        relacion:'Adaptación',
+        titulo:'PAYBACK',
+        tituloOriginal:'페이백',
+        autor:'samk',
+        ilustrador:'Fujoking',
+        pais:'KR'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-05-23',
+    finalizacion:'2026-08-01',
+    generos:['Romance','Drama','BL'],
+    tags:[],
+    personas:[],
+    ships:[],
+    entidades:[],
+    especiales:[
+        {
+            titulo:'Special Episode 11',
+            fecha:null
+        }
+    ],
+    sinopsis:'Lee Yoon-han ha pasado años intentando escapar de un pasado marcado por la violencia y la delincuencia. Cuando las circunstancias vuelven a ponerlo frente a personas relacionadas con aquella etapa de su vida, decide enfrentarse a quienes le hicieron daño. En el camino encuentra a alguien que cambia sus planes y que le obliga a replantearse qué significa realmente la venganza y el amor.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
 ];
