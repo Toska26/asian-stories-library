@@ -6,7 +6,7 @@ window.dramaActual = {
     anio: 2020,
     pais: ['TH'],
     idioma: 'th',
-    franquicia: { codigo: 'FR000001', orden: 1 },
+    franquicia: {codigo: 'FR000001', orden: 1 },
   	serie: 'SR000002',
     temporadas: 2,
     temporada: 1,
