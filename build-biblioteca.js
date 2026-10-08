@@ -1,8 +1,9 @@
 // build-biblioteca.js
 const fs = require('fs');
 const path = require('path');
+const vm = require('vm');
 
-// --- 1. RUTAS DE TU PROYECTO ---
+// --- 1. CONFIGURACIÓN DE RUTAS ---
 const carpetaDatos = path.join(__dirname, 'datos');
 const carpetaDramas = path.join(carpetaDatos, 'dramas');
 const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
@@ -10,69 +11,66 @@ const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
 const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
 const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
 
-// --- 2. CARGAR SHIPS Y PERSONAS ---
-let shipsGlobales = [];
-let personasGlobales = [];
+// --- 2. CARGADOR ROBUSTO (VM) ---
+function cargarArchivoGlobal(ruta, nombreVar) {
+  if (!fs.existsSync(ruta)) return [];
 
-function cargarArchivoGlobal(ruta, variableName) {
-  if (fs.existsSync(ruta)) {
-    try {
-      const contenido = fs.readFileSync(ruta, 'utf-8');
-      const windowFake = {};
-      const evalFunc = new Function('window', 'const ' + variableName + ' = []; ' + contenido + `; return typeof ${variableName} !== 'undefined' ? ${variableName} : (window.${variableName} || []);`);
-      return evalFunc(windowFake) || [];
-    } catch (e) {
-      console.warn(`⚠️ No se pudo cargar ${variableName} desde ${ruta}:`, e.message);
-    }
-  } else {
-    console.warn(`⚠️ Archivo no encontrado: ${ruta}`);
-  }
-  return [];
-}
+  try {
+    const contenido = fs.readFileSync(ruta, 'utf-8');
+    const context = { window: {} };
+    context[nombreVar] = [];
+    context.window[nombreVar] = context[nombreVar];
 
-shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
-personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
+    vm.createContext(context);
+    vm.runInContext(contenido, context);
 
-// --- 3. RESOLVER SHIPS ---
-function obtenerShipsCalculados(drama) {
-  if (!drama.ships || !Array.isArray(drama.ships) || drama.ships.length === 0) {
+    const resultado = context.window[nombreVar] || context[nombreVar] || [];
+    return Array.isArray(resultado) ? resultado : [];
+  } catch (e) {
+    console.warn(`⚠️ Error leyendo ${nombreVar}:`, e.message);
     return [];
   }
-
-  return drama.ships.map(itemShip => {
-    // 1. Ship Oficial (ej: SH000002 -> BrightWin)
-    if (itemShip.ship) {
-      const shipEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
-      if (shipEncontrado && shipEncontrado.nombre) {
-        return shipEncontrado.nombre;
-      }
-    }
-
-    // 2. Mapeo no oficial a PERSONAS.js (ej: Im Ji & Oh Jun)
-    if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
-      if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-        const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
-          const rel = drama.personas.find(p => p.nombre === nombrePersonaje);
-          return rel ? rel.persona : null;
-        }).filter(Boolean);
-
-        const nombresArtisticos = codigosPersonas.map(cod => {
-          const pEncontrada = personasGlobales.find(p => p.codigo === cod);
-          return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
-        }).filter(Boolean);
-
-        if (nombresArtisticos.length > 0) {
-          return nombresArtisticos.join(' & ');
-        }
-      }
-      return itemShip.personajes.join(' & ');
-    }
-
-    return null;
-  }).filter(Boolean);
 }
 
-// --- 4. LEER /datos/dramas/ ---
+const shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
+const personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
+
+// --- 3. RESOLVER ÚNICAMENTE EL PRIMER SHIP ---
+function obtenerPrimerShipResuelto(itemShip, drama) {
+  if (!itemShip) return null;
+
+  // CASO A: Código oficial de Ship (ej. SH000002 -> BrightWin)
+  if (itemShip.ship) {
+    const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
+    if (sEncontrado && sEncontrado.nombre) {
+      return sEncontrado.nombre;
+    }
+  }
+
+  // CASO B: Pareja por Personajes -> Nombres Artísticos en PERSONAS.js
+  if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
+    if (Array.isArray(drama.personas) && drama.personas.length > 0) {
+      const codigos = itemShip.personajes.map(nombreP => {
+        const rel = drama.personas.find(p => p.nombre === nombreP);
+        return rel ? rel.persona : null;
+      }).filter(Boolean);
+
+      const nombresArtisticos = codigos.map(cod => {
+        const pEncontrada = personasGlobales.find(p => p.codigo === cod);
+        return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
+      }).filter(Boolean);
+
+      if (nombresArtisticos.length > 0) {
+        return nombresArtisticos.join(' & ');
+      }
+    }
+    return itemShip.personajes.join(' & ');
+  }
+
+  return null;
+}
+
+// --- 4. PROCESAR /datos/dramas/ ---
 if (!fs.existsSync(carpetaDramas)) {
   console.error(`❌ La carpeta '${carpetaDramas}' no existe.`);
   process.exit(1);
@@ -86,14 +84,16 @@ archivosDramas.forEach(archivo => {
   const contenido = fs.readFileSync(rutaArchivo, 'utf-8');
 
   try {
-    const windowFake = {};
-    const evalFunc = new Function('window', contenido);
-    evalFunc(windowFake);
+    const context = { window: {} };
+    vm.createContext(context);
+    vm.runInContext(contenido, context);
 
-    const d = windowFake.dramaActual || {};
+    const d = context.window.dramaActual || context.dramaActual || {};
 
     if (d && d.codigo) {
-      const arrayShips = obtenerShipsCalculados(d);
+      const totalShips = Array.isArray(d.ships) ? d.ships.length : 0;
+      const primerShipNombre = totalShips > 0 ? obtenerPrimerShipResuelto(d.ships[0], d) : null;
+
       const portadaPrincipal = Array.isArray(d.multimedia?.portada) && d.multimedia.portada.length > 0 
         ? d.multimedia.portada[0] 
         : `${d.codigo}.jpg`;
@@ -110,6 +110,7 @@ archivosDramas.forEach(archivo => {
         portada: portadaPrincipal,
         activo: d.activo !== undefined ? d.activo : true,
 
+        // Indicadores e Iconos
         numEspeciales: Array.isArray(d.especiales) ? d.especiales.length : 0,
         tieneSinopsis: typeof d.sinopsis === 'string' && d.sinopsis.trim().length > 0,
         tieneOrigen: Boolean(d.origen),
@@ -129,9 +130,10 @@ archivosDramas.forEach(archivo => {
         tieneRemake: Boolean(d.remake)
       };
 
-      // Si tiene ships resueltos, añade la propiedad
-      if (arrayShips.length > 0) {
-        itemDrama.ships = arrayShips;
+      // Si tiene al menos un ship resuelto, agregamos solo 'ship' y 'numShips'
+      if (primerShipNombre) {
+        itemDrama.ship = primerShipNombre;
+        itemDrama.numShips = totalShips;
       }
 
       listaBiblioteca.push(itemDrama);
@@ -141,7 +143,7 @@ archivosDramas.forEach(archivo => {
   }
 });
 
-// --- 5. ESCRIBIR EN /datos/biblioteca.js (1 DRAMA POR LÍNEA) ---
+// --- 5. GUARDAR EN /datos/biblioteca.js ---
 const lineasDramas = listaBiblioteca.map(drama => "  " + JSON.stringify(drama));
 const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = [\n${lineasDramas.join(',\n')}\n];\n`;
 
