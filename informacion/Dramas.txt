@@ -1020,9 +1020,31 @@ DR001019	TH	2025	A(ir) Moment
 DR001020	TH	2025	Let Me Into Your Heart
 DR001021	TH	2025	My Stubborn
 DR001022	TH	2025	Mission to the Moon
-
-
-
+DR001023	TH	2025	The Love Never Sets
+DR001024	TH	2025	Me and Thee
+DR001025	TH	2025	Goddess Bless You from Death
+DR001026	TH	2025	Reloved
+DR001027	TH	2026	Hard Nights
+DR001028	TH	2026	Peach Lover
+DR001029	TH	2026	Too Close Friend
+DR001030	TH	2026	Peach and Me
+DR001031	TH	2026	Too Close Friend 2
+DR001032	TH	2025	Love Alert
+DR001033	TH	2026	Yesterday
+DR001034	TH	2026	A Good Yesterday
+DR001035	TH	2026	The Masked Hearts
+DR001036	TH	2026	Love Like a Bike
+DR001037	TH	2026	Bling Bling The Series
+DR001038	TH	2026	Love Upon a Time
+DR001039	TH	2026	Magic Move
+DR001040	TH	2026	Love of Silom
+DR001041	TH	2026	Flower Boy: Enchanted by the Scent of Pollen
+DR001042	TH	2026	One Year
+DR001043	TH	2026	Wu
+DR001044	TH	2026	Your Dear Daddy
+DR001045	TH	2026	When Oranges Fall
+DR001046	TH	2026	My Grandpa Is a BL Writer
+DR001047	TH	2026	PayBack The Series
 
 
 
