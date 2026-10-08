@@ -3,7 +3,7 @@ window.dramaActual = {
     codigo:'DR000939',
     titulo:'Fourever You',
     tituloOriginal:'เพราะรักนำทาง',
-    alias:['Fourever You Project','Fourever You 1','Phro Rak Nam Thang'],
+    alias:['Fourever  You Project','Fourever You 1','Phro Rak Nam Thang'],
     pais:['TH'],
     anio:2024,
     tipo:'Drama',
