@@ -22,7 +22,6 @@ function cargarArchivoGlobal(ruta, variantesNombres) {
     const contenido = fs.readFileSync(ruta, 'utf-8');
     const context = { window: {} };
 
-    // Definimos las variantes tanto en el contexto como en window (ej: SHIPS, ships)
     variantesNombres.forEach(nombre => {
       context[nombre] = [];
       context.window[nombre] = context[nombre];
@@ -31,7 +30,6 @@ function cargarArchivoGlobal(ruta, variantesNombres) {
     vm.createContext(context);
     vm.runInContext(contenido, context);
 
-    // Buscamos cuál de las variantes contiene datos
     for (const nombre of variantesNombres) {
       const res = context.window[nombre] || context[nombre];
       if (Array.isArray(res) && res.length > 0) {
@@ -39,7 +37,6 @@ function cargarArchivoGlobal(ruta, variantesNombres) {
       }
     }
 
-    // Intento secundario vía Regex por si no se asignó en contexto
     const inicioArray = contenido.indexOf('[');
     const finArray = contenido.lastIndexOf(']');
     
@@ -57,50 +54,53 @@ function cargarArchivoGlobal(ruta, variantesNombres) {
   }
 }
 
-// Carga reconociendo tanto 'SHIPS'/'ships' como 'PERSONAS'/'personas'
 const shipsGlobales = cargarArchivoGlobal(rutaShips, ['SHIPS', 'ships']);
 const personasGlobales = cargarArchivoGlobal(rutaPersonas, ['PERSONAS', 'personas']);
 
 console.log(`📌 Cargados ${shipsGlobales.length} ships desde SHIPS.js`);
 console.log(`📌 Cargadas ${personasGlobales.length} personas desde PERSONAS.js`);
 
-// --- 3. BÚSQUEDA Y RESOLUCIÓN DEL PRIMER SHIP ---
+// --- 3. BÚSQUEDA RESOLUTIVA (SHIPS.JS -> PERSONAS.JS) ---
 function obtenerPrimerShipResuelto(itemShip, drama) {
   if (!itemShip) return null;
 
   const codigoBuscado = itemShip.ship || itemShip.codigo;
 
-  // CASO A: Ship Oficial con código (ej. SH000002 -> BrightWin)
+  // OPCIÓN 1: Búsqueda en SHIPS.js por código oficial
   if (codigoBuscado) {
     const sEncontrado = shipsGlobales.find(s => 
       s.codigo && String(s.codigo).trim().toUpperCase() === String(codigoBuscado).trim().toUpperCase()
     );
 
     if (sEncontrado && sEncontrado.nombre) {
-      return sEncontrado.nombre; // Retorna "BrightWin"
+      return sEncontrado.nombre; // Retorna ej. "BrightWin"
     }
   }
 
-  // CASO B: Mapeo a PERSONAS.js
+  // OPCIÓN 2: Búsqueda por mapa Personajes -> Drama.personas -> PERSONAS.js (Nombres Artísticos)
   if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
     if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-      const codigos = itemShip.personajes.map(nombreP => {
-        const rel = drama.personas.find(p => p.nombre === nombreP);
+      // Obtenemos los códigos PRXXXXXX desde la relación del drama
+      const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
+        const rel = drama.personas.find(p => p.nombre === nombrePersonaje);
         return rel ? rel.persona : null;
       }).filter(Boolean);
 
-      const nombresArtisticos = codigos.map(cod => {
-        const pEncontrada = personasGlobales.find(p => p.codigo === cod);
-        return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
-      }).filter(Boolean);
+      // Buscamos los nombres artísticos en PERSONAS.js
+      if (codigosPersonas.length >= 2) {
+        const nombresArtisticos = codigosPersonas.map(cod => {
+          const pEncontrada = personasGlobales.find(p => p.codigo === cod);
+          return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
+        }).filter(Boolean);
 
-      if (nombresArtisticos.length > 0) {
-        return nombresArtisticos.join(' & ');
+        if (nombresArtisticos.length >= 2) {
+          return nombresArtisticos.join(' & ');
+        }
       }
     }
-    return itemShip.personajes.join(' & ');
   }
 
+  // Si no se pudo resolver ni en SHIPS.js ni en PERSONAS.js, queda vacío
   return null;
 }
 
