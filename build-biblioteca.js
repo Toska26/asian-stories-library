@@ -11,9 +11,12 @@ const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
 const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
 const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
 
-// --- 2. CARGADOR ROBUSTO (VM) ---
+// --- 2. CARGADOR ROBUSTO Y FLEXIBLE ---
 function cargarArchivoGlobal(ruta, nombreVar) {
-  if (!fs.existsSync(ruta)) return [];
+  if (!fs.existsSync(ruta)) {
+    console.warn(`⚠️ No existe el archivo: ${ruta}`);
+    return [];
+  }
 
   try {
     const contenido = fs.readFileSync(ruta, 'utf-8');
@@ -24,10 +27,20 @@ function cargarArchivoGlobal(ruta, nombreVar) {
     vm.createContext(context);
     vm.runInContext(contenido, context);
 
-    const resultado = context.window[nombreVar] || context[nombreVar] || [];
+    // Intenta extraer la variable declarada con const/let/var o asignada a window
+    let resultado = context.window[nombreVar] || context[nombreVar] || [];
+
+    // Si sigue vacío, buscar mediante regex la estructura 'const ships = [...]'
+    if (!Array.isArray(resultado) || resultado.length === 0) {
+      const match = contenido.match(new RegExp(`(?:const|var|let|window\\.)\\s*${nombreVar}\\s*=\\s*(\\[[\\s\\S]*?\\]);`));
+      if (match && match[1]) {
+        resultado = eval(match[1]);
+      }
+    }
+
     return Array.isArray(resultado) ? resultado : [];
   } catch (e) {
-    console.warn(`⚠️ Error leyendo ${nombreVar}:`, e.message);
+    console.warn(`⚠️ Error leyendo ${nombreVar} desde ${ruta}:`, e.message);
     return [];
   }
 }
@@ -35,19 +48,29 @@ function cargarArchivoGlobal(ruta, nombreVar) {
 const shipsGlobales = cargarArchivoGlobal(rutaShips, 'ships');
 const personasGlobales = cargarArchivoGlobal(rutaPersonas, 'personas');
 
-// --- 3. RESOLVER ÚNICAMENTE EL PRIMER SHIP ---
+console.log(`📌 Cargados ${shipsGlobales.length} ships desde SHIPS.js`);
+console.log(`📌 Cargadas ${personasGlobales.length} personas desde PERSONAS.js`);
+
+// --- 3. BÚSQUEDA Y RESOLUCIÓN DEL PRIMER SHIP ---
 function obtenerPrimerShipResuelto(itemShip, drama) {
   if (!itemShip) return null;
 
-  // CASO A: Código oficial de Ship (ej. SH000002 -> BrightWin)
-  if (itemShip.ship) {
-    const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
+  // CASO A: Tiene un código de Ship (ej. { ship: 'SH000002' })
+  const codigoBuscado = itemShip.ship || itemShip.codigo;
+
+  if (codigoBuscado) {
+    const sEncontrado = shipsGlobales.find(s => 
+      s.codigo && String(s.codigo).trim().toUpperCase() === String(codigoBuscado).trim().toUpperCase()
+    );
+
     if (sEncontrado && sEncontrado.nombre) {
-      return sEncontrado.nombre;
+      return sEncontrado.nombre; // Retorna "BrightWin"
+    } else {
+      console.warn(`⚠️ Drama '${drama.codigo}': No se encontró el ship '${codigoBuscado}' en SHIPS.js.`);
     }
   }
 
-  // CASO B: Pareja por Personajes -> Nombres Artísticos en PERSONAS.js
+  // CASO B: Sin código de ship oficial -> Mapeo a PERSONAS.js
   if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
     if (Array.isArray(drama.personas) && drama.personas.length > 0) {
       const codigos = itemShip.personajes.map(nombreP => {
@@ -70,7 +93,7 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
   return null;
 }
 
-// --- 4. PROCESAR /datos/dramas/ ---
+// --- 4. PROCESAR CARPETA /datos/dramas/ ---
 if (!fs.existsSync(carpetaDramas)) {
   console.error(`❌ La carpeta '${carpetaDramas}' no existe.`);
   process.exit(1);
@@ -110,7 +133,6 @@ archivosDramas.forEach(archivo => {
         portada: portadaPrincipal,
         activo: d.activo !== undefined ? d.activo : true,
 
-        // Indicadores e Iconos
         numEspeciales: Array.isArray(d.especiales) ? d.especiales.length : 0,
         tieneSinopsis: typeof d.sinopsis === 'string' && d.sinopsis.trim().length > 0,
         tieneOrigen: Boolean(d.origen),
@@ -130,7 +152,6 @@ archivosDramas.forEach(archivo => {
         tieneRemake: Boolean(d.remake)
       };
 
-      // Si tiene al menos un ship resuelto, agregamos solo 'ship' y 'numShips'
       if (primerShipNombre) {
         itemDrama.ship = primerShipNombre;
         itemDrama.numShips = totalShips;
@@ -143,7 +164,7 @@ archivosDramas.forEach(archivo => {
   }
 });
 
-// --- 5. GUARDAR EN /datos/biblioteca.js ---
+// --- 5. GUARDAR /datos/biblioteca.js ---
 const lineasDramas = listaBiblioteca.map(drama => "  " + JSON.stringify(drama));
 const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = [\n${lineasDramas.join(',\n')}\n];\n`;
 
