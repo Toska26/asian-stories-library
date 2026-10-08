@@ -1,0 +1,56 @@
+/* =============== MY SECRET OF SEER — DR001016 =================== */
+window.dramaActual = {
+    codigo:'DR001016',
+    titulo:'My Secret of Seer',
+    tituloOriginal:'การโต้กลับของซินแส',
+    alias:[
+        'The Counterattack of the Seer',
+        'The Seer’s Counterattack',
+        'Counterattack of the Fortune Teller',
+        'My Secret of Seer The Series'
+    ],
+    pais:['TH'],
+    anio:2025,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'การโต้กลับของซินแส',
+        tituloOriginal:'การโต้กลับของซินแส',
+        autor:'wickedwish_',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:10,
+    duracion:'50 min',
+    estado:'Finalizado',
+    estreno:'2025-10-20',
+    finalizacion:'2025-12-22',
+    generos:[
+        'BL','Romance','Drama','Misterio','Sobrenatural','Fantasía'
+    ],
+    tags:[
+        'Adivinación','Maldición','Fantasmas','Espiritualidad','Talismán','Destino','Opuestos','Slow Burn'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Win','Phloeng']}
+    ],
+    entidades:[],
+    especiales:[],
+    sinopsis:'Win, un joven adivino que puede percibir fenómenos sobrenaturales, descubre que su mala suerte está relacionada con una maldición que debe romper antes de cumplir años. Para conseguirlo necesita encontrar a una persona con una rara energía espiritual. Esa búsqueda lo lleva hasta Phloeng, presentador de un programa de televisión dedicado a desenmascarar supuestos fenómenos paranormales. La convivencia entre el creyente y el escéptico termina transformando su relación mientras ambos se enfrentan a secretos y fuerzas sobrenaturales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+}
