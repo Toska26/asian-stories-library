@@ -1,0 +1,34 @@
+name: Generar Biblioteca de Dramas
+
+on:
+  push:
+    paths:
+      - 'datos/dramas/**'
+      - 'datos/SHIPS.js'
+      - 'datos/PERSONAS.js'
+      - 'build-biblioteca.js'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Otorga permisos para que la Action pueda guardar el biblioteca.js actualizado
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ejecutar script de biblioteca
+        run: node build-biblioteca.js
+
+      - name: Guardar cambios en GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "bot: actualización automática de datos/biblioteca.js"
+          file_pattern: "datos/biblioteca.js"
