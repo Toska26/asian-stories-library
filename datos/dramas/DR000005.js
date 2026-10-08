@@ -35,7 +35,6 @@ window.dramaActual ={
     ],
     ships: [
 		 { personajes: ['Ji Hyun', 'Jae Won'] }
-       /* { ship: 'SH000005', personajes: ['Ji Hyun', 'Jae Won'] }*/
     ],
     sinopsis: 'Ji Hyun, un estudiante universitario de primer año, conoce a Jae Won, un estudiante veterano marcado por experiencias difíciles del pasado. A través de su pasión compartida por el surf, ambos desarrollan una intensa relación que les ayuda a enfrentarse a sus miedos, descubrirse a sí mismos y encontrar un nuevo sentido a sus vidas.',
     activo: true,
