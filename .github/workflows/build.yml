@@ -8,12 +8,16 @@ on:
       - 'datos/PERSONAS.js'
       - 'build-biblioteca.js'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # Otorga permisos para que la Action pueda guardar el biblioteca.js actualizado
+      contents: write
 
     steps:
       - name: Descargar repositorio
@@ -22,7 +26,7 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Ejecutar script de biblioteca
         run: node build-biblioteca.js
