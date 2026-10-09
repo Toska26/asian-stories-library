@@ -108,6 +108,26 @@ const biblioteca = [
     "tieneSinopsis": true
   },
   {
+    "codigo": "DR000011",
+    "titulo": "Stay by My Side",
+    "pais": [
+      "TW"
+    ],
+    "anio": 2023,
+    "tipo": "Drama",
+    "estado": "Finalizado",
+    "activo": true,
+    "tieneSinopsis": true,
+    "tienePersonas": true,
+    "tieneEntidades": true,
+    "portada": "https://media.senscritique.com/media/000023042370/0/stay_by_my_side.jpg",
+    "universo": {
+      "codigo": "UN000002"
+    },
+    "ship": "Wei-Che Hung & Isaac Yang",
+    "numShips": 1
+  },
+  {
     "codigo": "DR000003",
     "titulo": "Still 2gether",
     "pais": [
