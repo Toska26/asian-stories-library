@@ -23,7 +23,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
-    "ship": "",
+    "ship": "SH000002",
     "numShips": 3
   },
   {
@@ -50,7 +50,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
-    "ship": "",
+    "ship": "SH000002",
     "numShips": 3
   },
   {
@@ -74,7 +74,7 @@ const biblioteca = [
     "tieneEntidades": false,
     "tieneMultimedia": false,
     "portada": "",
-    "ship": "",
+    "ship": "Ozone & Sun",
     "numShips": 6
   },
   {
@@ -101,7 +101,7 @@ const biblioteca = [
     "tieneEntidades": false,
     "tieneMultimedia": false,
     "portada": "",
-    "ship": "",
+    "ship": "Hill & Easter",
     "numShips": 2
   },
   {
@@ -125,7 +125,7 @@ const biblioteca = [
     "tieneEntidades": false,
     "tieneMultimedia": false,
     "portada": "",
-    "ship": "",
+    "ship": "Win & Phloeng",
     "numShips": 1
   },
   {
@@ -152,7 +152,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg",
-    "ship": "",
+    "ship": "SH000002",
     "numShips": 3
   },
   {
@@ -176,7 +176,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg",
-    "ship": "",
+    "ship": "Ji Hyun & Jae Won",
     "numShips": 1
   }
 ];
