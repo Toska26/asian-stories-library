@@ -9,7 +9,7 @@ window.dramaActual = {
     pais: ['TH'],
     idioma: 'th',
     franquicia: { codigo: 'FR000001', orden: 2 },
-    serie:'SR000002',
+    
     temporadas: 2,
     temporada: 2,
     episodios: 5,
