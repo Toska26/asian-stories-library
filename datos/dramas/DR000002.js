@@ -49,7 +49,7 @@ window.dramaActual = {
         { ship: 'SH000003', personajes: ['Man', 'Type'] },
         { ship: 'SH000004', personajes: ['Phukong', 'Mil'] }
     ],
-    sinopsis: 'Tine intenta librarse de un admirador insistente convenciendo al popular Sarawat para que finja ser su novio. Lo que comienza como un simple acuerdo acaba transformándose en una historia de amor mientras ambos descubren sus verdaderos sentimientos.',
+    sinopsis: 'Tine intenta  librarse de un admirador insistente convenciendo al popular Sarawat para que finja ser su novio. Lo que comienza como un simple acuerdo acaba transformándose en una historia de amor mientras ambos descubren sus verdaderos sentimientos.',
     activo: true,
     entidades: [
         { codigo: 'EN000004', funcion: ['Productora'] },
