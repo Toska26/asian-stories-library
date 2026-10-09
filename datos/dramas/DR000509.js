@@ -1,0 +1,46 @@
+	/* =============== ADDICTED — DR000509 =================== */
+window.dramaActual = {
+    codigo:'DR000509',
+    titulo:'Addicted',
+    tituloOriginal:'上瘾',
+    alias:['Heroin','Addicted Heroin','Shang Yin','Shàngyǐn','你丫上瘾了'],
+    pais: ['CN'],
+    anio:2016,
+    tipo:'Drama',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:{codigo:'RM000509',orden:1},
+    origen:{
+        tipo:'Novela',
+        titulo:'Are You Addicted?',
+        tituloOriginal:'你丫上瘾了',
+        autor:'Chai Jidan',
+        pais:'CN'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:15,
+    duracion:20,
+    estado:'Cancelado',
+    estreno:'2016-01-29',
+    finalizacion:'2016-02-23',
+    generos:['BL','Romance','Drama','Juventud'],
+    tags:['BL','Adaptación'],
+    personas:[],
+    ships:[
+        {personajes:['Bai Luo Yin','Gu Hai']}
+    ],
+    sinopsis:'Bai Luo Yin es un estudiante de dieciséis años que vive con su padre y su abuela. Cuando su madre se casa con un militar de alto rango, Luo Yin descubre que su nuevo hermanastro es Gu Hai. Ambos terminan estudiando en la misma clase y, pese a sus diferencias y conflictos familiares, desarrollan una relación cada vez más profunda.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    entidades:[],
+    especiales:[],
+    activo:true
+}
