@@ -4655,7 +4655,7 @@ anio:2023,
 pais: ['TH'],
 idioma:'th',
 franquicia:'',
-universo:'',
+universo:'UN000028',
 serie:'SR000076',
 temporadas:1,
 temporada:1,
@@ -51855,4 +51855,996 @@ especiales:[
     },
     activo:true
 },
+	/* =============== ZANTIIS: MISS YOU — DR001048 =============== */
+
+{
+    codigo:'DR001048',
+    titulo:'Zantiis: Miss You',
+    tituloOriginal:'Zantiis คิดถึงเธอ',
+    alias:['Zantiis','Zantiis Misses You'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:10,
+    estado:'Finalizado',
+    estreno:'2026-06-19',
+    finalizacion:'2026-08-07',
+    generos:[
+        'Romance',
+        'Comedia romántica',
+        'Romance sanador',
+        'Romance adulto'
+    ],
+    tags:[
+        'CEO encubierto',
+        'Burnout',
+        'Insomnio',
+        'Sanación emocional',
+        'Proximidad forzada',
+        'Compañeros de habitación',
+        'Jefe y empleado',
+        'Identidad oculta',
+        'Los opuestos se atraen',
+        'Sentimientos secretos',
+        'Entorno rural',
+        'De la ciudad al campo'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Sila','Tonnam']}
+    ],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Sila, un joven empresario agotado que sufre insomnio, se refugia de incógnito en una de sus propiedades para escapar de la presión laboral. Allí conoce a Tonnam, un amable recepcionista con quien termina compartiendo alojamiento. La convivencia y la tranquilidad del entorno ayudan a Sila a recuperar el equilibrio y a descubrir sentimientos inesperados.',
+    multimedia:{
+        portada:[
+            'https://image.tmdb.org/t/p/original/7kRygWbR7pXVzEOzmVrkBrTQMYV.jpg'
+        ],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== LOST TO LIGHT — DR001049 =============== */
+
+{
+    codigo:'DR001049',
+    titulo:'Lost to Light',
+    tituloOriginal:'Lost to Light',
+    alias:['Lost to Light UNCUT'],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:'Lost to Light',
+        tituloOriginal:'อยากจะดัง หรือ อาจจะยัง',
+        autor:'BamBam',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:5,
+    duracion:52,
+    estado:'Finalizado',
+    estreno:'2026-06-20',
+    finalizacion:'2026-07-18',
+    generos:[
+        'Romance',
+        'Comedia romántica',
+        'Drama musical',
+        'Drama'
+    ],
+    tags:[
+        'Industria musical',
+        'Grupo idol',
+        'Vida de idols',
+        'Música',
+        'Baile',
+        'Sueños de fama',
+        'Grupo en crisis',
+        'Rivales a amantes',
+        'Amor no correspondido',
+        'Primer amor',
+        'Segundas oportunidades',
+        'Identidad falsa',
+        'Comedia',
+        'BL',
+        'GL'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jeng','Mai']},
+        {personajes:['Sithian','Bailiu']}
+    ],
+    entidades:[],
+    especiales:[
+        'Special EP1',
+        'Special EP2'
+    ],
+    sinopsis:'Un grupo idol que sueña con alcanzar la fama atraviesa una crisis y acaba obligado a llevar disfraces de mascota. Para evitar su disolución, su jefe impone una condición: incorporar a Mai al grupo. Mientras Jeng y Mai desarrollan una relación entre tensiones y sentimientos inesperados, Sithian debe recurrir a Bailiu, su primer amor y ahora un poderoso empresario musical, para salvar el proyecto.',
+    multimedia:{
+        portada:[
+            'https://image.tmdb.org/t/p/original/nEEX1lTFrr2sAZinjNbEpCDayq1.jpg'
+        ],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== THE EDGE OF HORIZON — DR001050 =============== */
+
+{
+    codigo:'DR001050',
+    titulo:'The Edge of Horizon',
+    tituloOriginal:'อรุณรุ่ง',
+    alias:[
+        'Arun Rung: The Edge of Horizon',
+        'Arun Rung',
+        'Dawn: The Edge of Horizon'
+    ],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:11,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-06-20',
+    finalizacion:'2026-08-29',
+    generos:[
+        'Histórico',
+        'Drama romántico',
+        'Drama de época',
+        'Romance prohibido'
+    ],
+    tags:[
+        'Monarquía',
+        'Príncipe',
+        'Diferencia de clase',
+        'Noble y plebeyo',
+        'Jerarquía social',
+        'Desigualdad de poder',
+        'Amor prohibido',
+        'Relación secreta',
+        'Deber frente al amor',
+        'Lealtad familiar',
+        'Deber y sacrificio',
+        'Siam histórico',
+        '1932'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Prince Thinnakon Varakulwathin','Phob']}
+    ],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Ambientada en Siam en 1932, la historia sigue al príncipe Thinnakon y a Phob, hijo de la nodriza de la familia real. Criados juntos a pesar de sus diferentes posiciones sociales, ambos desarrollan un vínculo que se convierte en amor. Las obligaciones familiares, las jerarquías de palacio y los cambios políticos amenazan su relación.',
+    multimedia:{
+        portada:[
+            'https://www.iboy.tv/media/titles/the-edge-of-horizon/poster.jpg'
+        ],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== WHEN LIGHT FADES — DR001051 =============== */
+
+{
+    codigo:'DR001051',
+    titulo:'When Light Fades',
+    tituloOriginal:'แสงดาว แสงศรัทธา',
+    alias:[
+        'When Light Fades The Series',
+        'Saeng Dao Saeng Sattha',
+        'Saengdao Saengsattha'
+    ],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:8,
+    duracion:45,
+    estado:'Finalizado',
+    estreno:'2026-06-25',
+    finalizacion:'2026-08-13',
+    generos:[
+        'Histórico',
+        'Drama romántico',
+        'Drama rural',
+        'Romance prohibido',
+        'Tragedia'
+    ],
+    tags:[
+        'Entorno rural',
+        'Romance político',
+        'Deber frente al amor',
+        'Romance peligroso',
+        'Inspiración histórica',
+        'Amor frente a la supervivencia',
+        'Peligro',
+        'Activismo político',
+        'Historia de Tailandia',
+        'Comunismo',
+        'Guerrilla',
+        'Conflicto político',
+        'Amor en tiempos de conflicto',
+        'Compañeros a amantes'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Yue','Rawin']}
+    ],
+    entidades:[],
+    especiales:null,
+    sinopsis:'En el contexto de la agitación política de Tailandia en torno a 1976, Rawin, un joven activista estudiantil, se ve obligado a huir al bosque y unirse al Partido Comunista de Tailandia. Allí conoce al camarada Yue, cuya disciplina y lealtad esconden una ternura que transforma la vida de ambos. Su relación debe sobrevivir a la lucha ideológica, el peligro y el conflicto entre el deber y los sentimientos.',
+    multimedia:{
+        portada:[
+            'https://image.tmdb.org/t/p/original/asObI5BixnoumvMG93EOuUsdwZh.jpg'
+        ],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== DON'T BE TOO EMOTIONAL — DR001052 =============== */
+
+{
+    codigo:'DR001052',
+    titulo:"Don't Be Too Emotional",
+    tituloOriginal:'อย่าขอพี่เจน',
+    alias:[
+        'Rule No.1: Don’t Be Too Emotional',
+        'Don’t Ask P’Jane',
+        'Ya Kho Phi Jane'
+    ],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:{
+        tipo:'Novela',
+        relacion:'Adaptación',
+        titulo:"Rule No.1: Don't Be Too Emotional",
+        tituloOriginal:'อย่าขอพี่เจน',
+        autor:'Hwang Seol',
+        pais:'TH'
+    },
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-06-26',
+    finalizacion:'2026-09-11',
+    generos:[
+        'Drama romántico',
+        'Universitario',
+        'Misterio',
+        'Romance oscuro',
+        'Thriller psicológico'
+    ],
+    tags:[
+        'Universidad',
+        'Fútbol',
+        'Concesión de deseos',
+        'Poder sobrenatural',
+        'Precio por los deseos',
+        'Rumores y secretos',
+        'Desigualdad de poder',
+        'Romance peligroso',
+        'Sentimientos secretos',
+        'Slow burn',
+        'Dilemas morales',
+        'Secretos y traiciones',
+        'Vida universitaria'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Jane Patrick','Jane Aree']}
+    ],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Jane Patrick es un estudiante mayor rodeado de rumores: se dice que puede conceder cualquier deseo, pero quien acepta su ayuda debe devolverle el favor bajo sus condiciones. Jane Aree, un joven universitario aficionado al fútbol y al dibujo, conoce a Patrick y empieza a descubrir que detrás de su reputación intimidante hay una persona más compleja. La atracción entre ambos crece entre secretos, obligaciones y dilemas morales.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+
+/* =============== KNOT — DR001053 =============== */
+
+{
+    codigo:'DR001053',
+    titulo:'KNOT',
+    tituloOriginal:'KNOT',
+    alias:[
+        'KNOT The Series',
+        'KNOT: Alpha Omega Series',
+        'KNOT: Real Omegaverse'
+    ],
+    pais:['TH'],
+    anio:2026,
+    tipo:'Serie',
+    franquicia:null,
+    universo:null,
+    serie:null,
+    remake:null,
+    origen:null,
+    temporadas:1,
+    temporada:1,
+    episodios:12,
+    duracion:50,
+    estado:'Finalizado',
+    estreno:'2026-06-30',
+    finalizacion:'2026-09-15',
+    generos:[
+        'Omegaverse',
+        'Drama romántico',
+        'Pareja predestinada'
+    ],
+    tags:[
+        'Alfa y Omega',
+        'True Alpha',
+        'Feromonas',
+        'Vínculo de pareja',
+        'Pareja predestinada',
+        'Mordida',
+        'Jerarquía de poder',
+        'Protagonista posesivo',
+        'Celos',
+        'Convivencia forzada',
+        'Conflicto familiar',
+        'Herencia familiar',
+        'Identidad desconocida',
+        'Peligro y rescate',
+        'Instinto y elección'
+    ],
+    personas:[],
+    ships:[
+        {personajes:['Nakhun','Phatsa']}
+    ],
+    entidades:[],
+    especiales:null,
+    sinopsis:'Phatsa ha crecido sin saber que los Alfas, Betas y Omegas conviven con la sociedad corriente. Su vida cambia cuando conoce a Nakhun, un heredero de una familia poderosa y un raro True Alpha. Una mordida crea entre ellos un vínculo difícil de romper y los obliga a afrontar las consecuencias de sus instintos, sus diferencias sociales y sus sentimientos. Phatsa deberá defender su independencia mientras ambos descubren si su conexión puede convertirse en una relación elegida libremente.',
+    multimedia:{
+        portada:[],
+        trailer:[],
+        teaser:[],
+        pilot:[],
+        ost:[],
+        videos:[]
+    },
+    activo:true
+},
+	/* =============== MR.KILL — DR001054 =============== */
+{
+    codigo: 'DR001054',
+    titulo: 'Mr. Kill',
+    tituloOriginal: 'มังงะสั่งตาย',
+    alias: [
+        'Mr Kill',
+        'Mr.Kill Mangnga Sang Tai'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Mr.Kill',
+        tituloOriginal: 'MR.KILL มังงะสั่งตาย',
+        autor: 'wednesdaytus',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 10,
+    duracion: 50,
+    estado: 'Finalizado',
+    estreno: '2026-07-07',
+    finalizacion: '2026-09-08',
+
+    generos: [
+        'Misterio',
+        'Suspense',
+        'Crimen',
+        'Drama'
+    ],
+
+    tags: [
+        'Investigación policial',
+        'Asesinatos',
+        'Manga',
+        'Asesino en serie',
+        'Artista',
+        'Secretos',
+        'Bromance'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Kaye',
+                'Phat'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Kaye, un reconocido artista de manga, queda relacionado con una investigación policial cuando una serie de asesinatos comienza a reproducir escenas de Nekros, un manga underground vinculado a su trabajo. Phat, un joven policía que confía en las normas y los procedimientos, dirige la investigación y empieza a vigilar de cerca al artista. A medida que ambos se adentran en el caso, deberán descubrir quién está convirtiendo las páginas del manga en crímenes reales y qué secretos se esconden detrás de las similitudes.',
+
+    multimedia: {
+        portada: [
+            'https://m.media-amazon.com/images/M/MV5BNGFkYmZjZjEtYjg0Mi00YWZhLTg3YWQtZDE5NDczZjlhMjdlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== PEACH AND ME — DR001055 =============== */
+{
+    codigo: 'DR001055',
+    titulo: 'Peach and Me',
+    tituloOriginal: 'มีสติแล้วลูกพีช',
+    alias: [
+        'Mi Sati Laeo Luk Peach',
+        'Me and Thee 2',
+        'Me and Thee Special Sequel'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: {
+        codigo: 'FR000050',
+        orden: 2
+    },
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 4,
+    duracion: 50,
+    estado: 'Finalizado',
+    estreno: '2026-07-11',
+    finalizacion: '2026-08-01',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+
+    tags: [
+        'BL',
+        'Matrimonio',
+        'Vida en pareja',
+        'Luna de miel',
+        'Vida cotidiana',
+        'Relación estable',
+        'Continuación'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Thee',
+                'Peach'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Después de los acontecimientos de Me and Thee, Thee y Peach comienzan una nueva etapa como matrimonio. Thee quiere demostrar que puede ser un marido más atento y organizado, por lo que planea escapadas románticas de fin de semana durante seis meses. Entre momentos cotidianos, gestos exagerados de cariño y nuevos retos familiares y profesionales, ambos tendrán que aprender a convivir y a cuidar de su relación mientras se acostumbran a esta nueva vida juntos.',
+
+    multimedia: {
+        portada: [
+            'https://pic0.iqiyipic.com/image/20260630/d3/d7/a_100907199_m_600_zh-CN_m2_440_608.webp'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== LOVE DESTINY (2026) — DR001056 =============== */
+{
+    codigo: 'DR001056',
+    titulo: 'Love Destiny',
+    tituloOriginal: 'บุพเพสันนิวาส',
+    alias: [
+        'Love Destiny (BL)',
+        'Love Destiny 2026',
+        'Bupphesanniwat 2026',
+        'Buppesannivas 2026'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+
+    remake: {
+        codigo: 'RM001060',
+        orden: 2
+    },
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Bupphesanniwat',
+        tituloOriginal: 'บุพเพสันนิวาส',
+        autor: 'Rompaeng',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 10,
+    duracion: 45,
+    estado: 'Finalizado',
+    estreno: '2026-07-14',
+    finalizacion: '2026-09-15',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Fantasía',
+        'Drama histórico'
+    ],
+
+    tags: [
+        'BL',
+        'Viajes en el tiempo',
+        'Ayutthaya',
+        'Reencarnación',
+        'Destino',
+        'Cambio de identidad',
+        'Adaptación literaria',
+        'Universos paralelos',
+        'Romance histórico'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Dech',
+                'Gaew'
+            ]
+        },
+        {
+            personajes: [
+                'Rueang',
+                'Wad'
+            ]
+        },
+        {
+            personajes: [
+                'Phin',
+                'Yaem'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Esta reinterpretación BL de Love Destiny combina la Tailandia contemporánea con el reino histórico de Ayutthaya. Dech y Gaew quedan unidos por una historia que atraviesa épocas e identidades. A medida que Gaew comienza a utilizar conocimientos modernos para ayudar a quienes le rodean, Dech descubre una faceta inesperada de él. El encuentro entre ambos transforma sus vidas y da paso a un romance que desafía las convenciones de su tiempo.',
+
+    multimedia: {
+        portada: [
+            'https://img.mundobl.com.ar/series/1784186437510_8lwmtz_card.webp'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== BE MY PLAYER TWO — DR001057 =============== */
+{
+    codigo: 'DR001057',
+    titulo: 'Be My Player Two',
+    tituloOriginal: 'ซอโซ่ล่ามธีร์',
+    alias: [
+        'Be My Player 2',
+        'So So Lam Thi'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: 'UN000028',
+    serie: null,
+    remake: null,
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Gamer Lae Nong Doe Khong Khao',
+        tituloOriginal: 'เกมเมอร์และน้องเด๋อของเขา #ซอโซ่ล่ามธีร์',
+        autor: 'Brave2Y',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 10,
+    duracion: 55,
+    estado: 'Finalizado',
+    estreno: '2026-07-16',
+    finalizacion: '2026-09-10',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Deportes electrónicos'
+    ],
+
+    tags: [
+        'BL',
+        'Videojuegos',
+        'E-sports',
+        'Streaming',
+        'Rivales a amantes',
+        'Trabajo en equipo',
+        'Competición',
+        'Adaptación literaria',
+        'Mundo digital'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Thi',
+                'Zo'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Thi, conocido en internet como Thr33Gamer, es un streamer famoso y competitivo que está acostumbrado a ganar. Durante una retransmisión en directo, un jugador desconocido llamado Derya MK12 consigue derrotarlo y despierta su curiosidad y su orgullo herido. Detrás de ese nombre se encuentra Zo, un jugador novato con mucho talento. Cuando Thi necesita completar su equipo de videojuegos, decide reclutar a su rival. La convivencia y el entrenamiento transforman su enfrentamiento en una alianza inesperada, mientras ambos descubren que confiar el uno en el otro puede ser más difícil —y más importante— que ganar una partida.',
+
+    multimedia: {
+        portada: [
+            'https://static.tvmaze.com/uploads/images/original_untouched/596/1490935.jpg'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== CLASS CRUSH CRISIS — DR001058 =============== */
+{
+    codigo: 'DR001058',
+    titulo: 'Class Crush Crisis',
+    tituloOriginal: 'เพื่อนสนิทระวังคิดไม่ซื่อ',
+    alias: [
+        'CCC',
+        'Phuean Sanit Rawang Khit Mai Sue'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Class Crush Crisis',
+        tituloOriginal: 'เพื่อนสนิทระวังคิดไม่ซื่อ',
+        autor: 'JittiRain',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 8,
+    duracion: 45,
+    estado: 'Finalizado',
+    estreno: '2026-07-24',
+    finalizacion: '2026-09-11',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Drama juvenil',
+        'Escolar'
+    ],
+
+    tags: [
+        'BL',
+        'Instituto',
+        'Amistad',
+        'Primer amor',
+        'Música',
+        'Grupo de amigos',
+        'Adaptación literaria',
+        'Crecimiento personal'
+    ],
+
+    personas: [],
+    ships: [],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Lee-ith es un estudiante rebelde que sueña con convertirse en músico de rock y no presta demasiada atención a sus estudios. Sus padres, cansados de sus prioridades, lo presionan para ingresar en un prestigioso centro educativo que antes era exclusivo para chicas y que ahora admite alumnos varones. Lee-ith llega acompañado de Indy, su mejor amigo y teclista, esperando tener más libertad, pero pronto descubre que adaptarse al nuevo entorno y a las relaciones que surgen en él será mucho más complicado de lo que imaginaba.',
+
+    multimedia: {
+        portada: [
+            'https://thaicontentdb.com/_next/image?q=75&url=https%3A%2F%2Fthaitvseriesimage.sgp1.digitaloceanspaces.com%2Fposters%2Fdrama%2Fcmky5451p04ugmw0jpyvn13pv%2F2026%2F01%2Fdrama__d9493552-f6b4-4437-91b9-a51eabc6cc4f.jpg&w=1080'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== MATCH POINT — DR001059 =============== */
+{
+    codigo: 'DR001059',
+    titulo: 'Match Point',
+    tituloOriginal: 'รักนี้ต้องเสิร์ฟ',
+    alias: [
+        'Rak Nee Tong Serve'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 10,
+    duracion: 45,
+    estado: 'Finalizado',
+    estreno: '2026-07-26',
+    finalizacion: '2026-09-27',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Drama',
+        'Deportes'
+    ],
+
+    tags: [
+        'BL',
+        'Tenis',
+        'Rivales a amantes',
+        'Rivalidad familiar',
+        'Restaurantes',
+        'Competición',
+        'Amistad',
+        'Deporte escolar'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Sun',
+                'Bay'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Sun, un estudiante ejemplar y estrella del equipo de tenis, pertenece a una familia que regenta un restaurante tradicional de dim sum. Bay, un joven artista de espíritu libre, es hijo de los propietarios de un restaurante rival famoso por sus shumai. La enemistad entre sus padres viene de lejos y amenaza con convertirlos también a ellos en adversarios. Cuando Sun propone una tregua para disfrutar de su último semestre escolar, Bay responde retándolo en la pista. Una lesión y una apuesta entre las dos familias complican la rivalidad y obligan a ambos a enfrentarse a lo que sienten realmente.',
+
+    multimedia: {
+        portada: [
+            'https://m.media-amazon.com/images/M/MV5BM2Y5ZDUzYzctMDllNi00OTQyLThkZDctYTQ4MTA4ZDVjZDcyXkFqcGc%40._V1_.jpg'
+        ],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+	
+/* =============== LOVE DESTINY (2018) — DR001060 =============== */
+{
+    codigo: 'DR001060',
+    titulo: 'Love Destiny',
+    tituloOriginal: 'บุพเพสันนิวาส',
+    alias: [
+        'Bupphesanniwat',
+        'Buppesannivas'
+    ],
+    pais: ['TH'],
+    anio: 2018,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+
+    remake: {
+        codigo: 'RM001060',
+        orden: 1
+    },
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Bupphesanniwat',
+        tituloOriginal: 'บุพเพสันนิวาส',
+        autor: 'Rompaeng',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: null,
+    episodios: 15,
+    duracion: null,
+    estado: 'Finalizado',
+    estreno: '2018-02-21',
+    finalizacion: '2018-04-11',
+
+    generos: [
+        'Romance',
+        'Comedia',
+        'Drama histórico',
+        'Fantasía',
+        'Viajes en el tiempo'
+    ],
+
+    tags: [
+        'Viajes en el tiempo',
+        'Cambio de cuerpo',
+        'Ayutthaya',
+        'Romance histórico',
+        'Reencarnación',
+        'Identidad secreta',
+        'Adaptación literaria',
+        'Tailandia histórica'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: [
+                'Kadesurang',
+                'Muen Suntorndewa'
+            ]
+        }
+    ],
+
+    entidades: [],
+    especiales: null,
+
+    sinopsis: 'Kadesurang, una estudiante de arqueología de la época actual, sufre un accidente y su espíritu despierta en el cuerpo de Karaket, una joven noble de carácter cruel que vivió durante el reino de Ayutthaya en el siglo XVII. Mientras intenta adaptarse a una época desconocida y comprender su nueva identidad, su relación con Muen Suntorndewa evoluciona desde el rechazo hasta el amor. Sus conocimientos del futuro también influirán en las personas y los acontecimientos que la rodean.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+	
 ];
