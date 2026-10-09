@@ -124,5 +124,11 @@ activo:true
     descripcion:'Universo que agrupa las siete historias independientes que forman MU-TE-LUV, un proyecto antológico de GMMTV centrado en el amor, la superstición, la fe y las creencias, donde cada historia presenta personajes y situaciones diferentes.',
     activo:true
 },
+   {
+    codigo: 'UN000028',
+    nombre: 'A Boss and a Babe',
+    descripcion: 'Universo que conecta A Boss and a Babe y Be My Player Two. Esta última desarrolla la historia de Three (Thi) y Zo, una pareja secundaria de A Boss and a Babe, y amplía las relaciones entre personajes de ambas series.',
+    activo: true
+},
 
 ];
