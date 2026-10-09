@@ -26,11 +26,9 @@ function cargarArchivoGlobal(rutaArchivo, posiblesNombres) {
         vm.createContext(sandbox);
         vm.runInContext(contenido, sandbox);
 
-        // Probar cada variante de nombre (ej. SHIPS, ships, PERSONAS, personas)
         for (const nombre of posiblesNombres) {
             let data = sandbox[nombre] || sandbox.window?.[nombre];
 
-            // Si se usó const/let, forzamos la extracción directa de la variable
             if (!data) {
                 try {
                     data = vm.runInContext(`(function() { ${contenido}; return (typeof ${nombre} !== 'undefined' ? ${nombre} : null); })()`, sandbox);
@@ -51,21 +49,17 @@ function cargarArchivoGlobal(rutaArchivo, posiblesNombres) {
     }
 }
 
-// Carga única de colecciones globales (soporta SHIPS / ships y PERSONAS / personas)
+// Carga única de colecciones globales
 const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, ['SHIPS', 'ships', 'Ships']);
 const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, ['PERSONAS', 'personas', 'Personas']);
 
 /**
- * Resuelve únicamente el primer ship según las reglas estrictas:
- * 1. Si tiene 'ship' (código) -> Busca 'nombre' en SHIPS.js (ej. BrightWin)
- * 2. Si no tiene 'ship' pero tiene 'personajes' -> Mapea 'nombre' ficticio al código de persona
- *    del drama y busca 'nombreArtistico' (o 'nombre') en PERSONAS.js (ej. Im Ji & Oh Jun)
- * 3. Si no hay datos resueltos -> Devuelve null
+ * Resuelve únicamente el primer ship según las reglas estrictas
  */
 function obtenerPrimerShipResuelto(itemShip, drama) {
     if (!itemShip) return null;
 
-    // REGLA 1: Código oficial de Ship en SHIPS.js (ej. SH000002 -> BrightWin)
+    // REGLA 1: Código oficial de Ship en SHIPS.js
     if (itemShip.ship) {
         const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
         if (sEncontrado && sEncontrado.nombre) {
@@ -76,13 +70,11 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
     // REGLA 2: Mapeo por personajes ficticios -> Nombres Artísticos en PERSONAS.js
     if (Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
         if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-            // Mapear nombre ficticio del personaje al código de persona (PRXXXXXX)
             const codigosPersonas = itemShip.personajes.map(nombreFicticio => {
                 const rel = drama.personas.find(p => p.nombre === nombreFicticio);
                 return rel ? rel.persona : null;
             }).filter(Boolean);
 
-            // Buscar cada código en PERSONAS.js y extraer nombreArtistico (o nombre)
             const nombresArtisticos = codigosPersonas.map(cod => {
                 const pEncontrada = personasGlobales.find(p => p.codigo === cod);
                 return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
@@ -94,12 +86,11 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
         }
     }
 
-    // Si no se encuentra ship oficial ni actores mapeados, omitir
     return null;
 }
 
 /**
- * Procesa la ficha individual de un drama
+ * Procesa la ficha individual de un drama generando un objeto ultra ligero
  */
 function compilarDramaParaBiblioteca(drama) {
     if (!drama || !drama.codigo) return null;
@@ -114,37 +105,7 @@ function compilarDramaParaBiblioteca(drama) {
         (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    // 2. Extracción y normalización de relaciones directas
-    const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
-        ? drama.franquicia.codigo
-        : (drama.franquicia || '');
-
-    const ordenFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
-        ? (Number(drama.franquicia.orden) || null)
-        : null;
-
-    const codUniverso = (drama.universo && typeof drama.universo === 'object')
-        ? drama.universo.codigo
-        : (drama.universo || '');
-
-    const codRemake = (drama.remake && typeof drama.remake === 'object')
-        ? drama.remake.codigo
-        : (drama.remake || '');
-
-    const ordenRemake = (drama.remake && typeof drama.remake === 'object')
-        ? (Number(drama.remake.orden) || null)
-        : null;
-
-    // 3. Resolución del Ship principal y recuento total
-    let shipResuelto = null;
-    let totalShips = 0;
-
-    if (Array.isArray(drama.ships) && drama.ships.length > 0) {
-        totalShips = drama.ships.length;
-        shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
-    }
-
-    // 4. Objeto final para biblioteca.js
+    // 2. Construcción del objeto base con campos obligatorios
     const objetoBiblioteca = {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
@@ -153,14 +114,6 @@ function compilarDramaParaBiblioteca(drama) {
         tipo: drama.tipo || 'Drama',
         estado: drama.estado || 'Finalizado',
         activo: drama.activo !== undefined ? drama.activo : true,
-
-        // RELACIONES DIRECTAS
-        serie: drama.serie || null,
-        temporada: Number(drama.temporada) || 1,
-        temporadas: Number(drama.temporadas) || 1,
-        franquicia: codFranquicia ? { codigo: codFranquicia, orden: ordenFranquicia } : null,
-        universo: codUniverso ? { codigo: codUniverso } : null,
-        remake: codRemake ? { codigo: codRemake, orden: ordenRemake } : null,
 
         // FLAGS DE CONTENIDOS PESADOS
         tieneSinopsis: Boolean(drama.sinopsis && drama.sinopsis.trim() !== ''),
@@ -172,10 +125,50 @@ function compilarDramaParaBiblioteca(drama) {
         portada: drama.portada || (m.portada && m.portada[0]) || ''
     };
 
-    // Agregar propiedades de ships únicamente si tenemos un ship resuelto válido
-    if (shipResuelto && totalShips > 0) {
-        objetoBiblioteca.ship = shipResuelto;
-        objetoBiblioteca.numShips = totalShips;
+    // 3. Inclusión CONDICIONAL de relaciones (se omiten por completo si son nulas)
+    if (drama.serie) {
+        objetoBiblioteca.serie = drama.serie;
+        if (drama.temporada) objetoBiblioteca.temporada = Number(drama.temporada);
+        if (drama.temporadas) objetoBiblioteca.temporadas = Number(drama.temporadas);
+    }
+
+    const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
+        ? drama.franquicia.codigo
+        : (drama.franquicia || '');
+    const ordenFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
+        ? (Number(drama.franquicia.orden) || null)
+        : null;
+
+    if (codFranquicia) {
+        objetoBiblioteca.franquicia = { codigo: codFranquicia, orden: ordenFranquicia };
+    }
+
+    const codUniverso = (drama.universo && typeof drama.universo === 'object')
+        ? drama.universo.codigo
+        : (drama.universo || '');
+
+    if (codUniverso) {
+        objetoBiblioteca.universo = { codigo: codUniverso };
+    }
+
+    const codRemake = (drama.remake && typeof drama.remake === 'object')
+        ? drama.remake.codigo
+        : (drama.remake || '');
+    const ordenRemake = (drama.remake && typeof drama.remake === 'object')
+        ? (Number(drama.remake.orden) || null)
+        : null;
+
+    if (codRemake) {
+        objetoBiblioteca.remake = { codigo: codRemake, orden: ordenRemake };
+    }
+
+    // 4. Inclusión CONDICIONAL de ships
+    if (Array.isArray(drama.ships) && drama.ships.length > 0) {
+        const shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
+        if (shipResuelto) {
+            objetoBiblioteca.ship = shipResuelto;
+            objetoBiblioteca.numShips = drama.ships.length;
+        }
     }
 
     return objetoBiblioteca;
@@ -185,7 +178,7 @@ function compilarDramaParaBiblioteca(drama) {
  * Función principal de compilación
  */
 function construirBiblioteca() {
-    console.log('🔄 Reconstruyendo biblioteca.js...');
+    console.log('🔄 Reconstruyendo biblioteca.js ultraligera...');
     console.log(`📦 Globales cargados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
