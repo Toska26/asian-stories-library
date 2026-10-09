@@ -52847,6 +52847,463 @@ especiales:[
     activo: true
 },
 
+/* =============== NEW BOYFRIEND — DR001061 =============== */
+{
+    codigo: 'DR001061',
+    titulo: 'New Boyfriend',
+    tituloOriginal: 'แฟนใหม่ใกล้ฉัน',
+    alias: [
+        'Faen Mai Klai Chan',
+        'Fan Mai Klai Chan'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 10,
+    duracion: 20,
+    estado: 'Finalizado',
+    estreno: '2026-08-05',
+    finalizacion: '2026-10-07',
+
+    generos: [
+        'BL',
+        'Romance',
+        'Drama'
+    ],
+
+    tags: [
+        'Romance laboral',
+        'Segundas oportunidades',
+        'Amores del pasado',
+        'Reencuentro',
+        'Convivencia forzada',
+        'Celos',
+        'Múltiples parejas',
+        'Relaciones complicadas',
+        'OHAO Studio'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Dan', 'Pond']
+        },
+        {
+            personajes: ['Tontae', 'Best']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'Dan ha decidido centrarse en su trabajo después de una decepción amorosa. Su rutina cambia cuando Pond, un antiguo amor con quien las cosas terminaron mal, vuelve a su vida como nuevo becario de la empresa. Obligados a convivir y trabajar juntos, ambos deben enfrentarse a los sentimientos que intentaban dejar atrás. Mientras tanto, Dan encuentra apoyo en Best, un compañero de trabajo, pero su cercanía despierta las dudas de Tontae, que lleva tiempo interesado en Best. Entre malentendidos, celos y sentimientos no resueltos, los cuatro tendrán que descubrir si pueden construir una relación nueva sin quedar atrapados en el pasado.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== UNLUCKY BAE — DR001062 =============== */
+{
+    codigo: 'DR001062',
+    titulo: 'Unlucky Bae',
+    tituloOriginal: 'จุดจีบสายมู',
+    alias: [
+        'Jut Jeeb Sai Mu'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 10,
+    duracion: null,
+    estado: 'Finalizado',
+    estreno: '2026-08-06',
+    finalizacion: '2026-10-08',
+
+    generos: [
+        'BL',
+        'Romance',
+        'Comedia',
+        'Fantasía'
+    ],
+
+    tags: [
+        'Maldiciones',
+        'Superstición',
+        'Rituales',
+        'Destino',
+        'Protección',
+        'Amor inesperado',
+        'Universidad',
+        'Múltiples parejas',
+        'Amigos a amantes',
+        'GMMTV'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Rin', 'Khobfah']
+        },
+        {
+            personajes: ['Krit', 'Mochi']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'Rin, un joven procedente de una familia vinculada a las creencias y los rituales espirituales, siempre ha intentado apartarse de esa tradición. Cuando descubre que su expareja, Krit, está con Mochi, se deja llevar por la rabia y realiza un ritual para maldecir a su antiguo amor. Sin embargo, utiliza por error un bolígrafo que pertenece a Khobfah, un estudiante de Administración y amigo de Krit. Al comprender que ha condenado a la persona equivocada, Rin se acerca a Khobfah para protegerlo de la mala suerte provocada por la maldición. Lo que comienza como un intento de reparar el error se convierte en una relación inesperada. En paralelo, Krit y Mochi deberán descubrir si lo que empezó como una relación sin compromiso puede transformarse en amor verdadero.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== LOVE MUST BE FIXED — DR001063 =============== */
+{
+    codigo: 'DR001063',
+    titulo: 'Love Must Be Fixed',
+    tituloOriginal: 'รักต้องซ่อม',
+    alias: [
+        'Rak Tong Som'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 8,
+    duracion: 35,
+    estado: 'Finalizado',
+    estreno: '2026-08-06',
+    finalizacion: '2026-09-24',
+
+    generos: [
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+
+    tags: [
+        'Romance laboral',
+        'Competencia empresarial',
+        'Diferencias de clase',
+        'Múltiples parejas',
+        'Pareja BL secundaria',
+        'Herencia empresarial',
+        'Superación personal',
+        'BSRUTV'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Din', 'Ya']
+        },
+        {
+            personajes: ['Kanghan', 'Time']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'Din es un técnico especializado en reparar tuberías que destaca por su habilidad práctica y su sentido de la justicia. Su vida cambia cuando se ve involucrado en una gran empresa y participa en The Next Leader, una competición destinada a encontrar a la próxima generación de dirigentes. Allí conoce a Ya, una heredera que carga con responsabilidades y conflictos personales, y debe desenvolverse en un entorno donde el poder y las conexiones parecen importar más que el talento. Mientras Din afronta los desafíos empresariales, su asistente Kanghan inicia su propio intento de conquistar a Time, un joven privilegiado acostumbrado a recibir un trato especial. Entre rivalidades, diferencias sociales y problemas laborales, ambas relaciones muestran que reparar un sistema puede ser más sencillo que reconstruir la confianza y comprender los sentimientos de otra persona.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== NOUR — DR001065 =============== */
+{
+    codigo: 'DR001065',
+    titulo: 'Nour',
+    tituloOriginal: 'นูร์',
+    alias: [
+        'Nour The Series',
+        'NOUR'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 10,
+    duracion: null,
+    estado: 'En emisión',
+    estreno: '2026-08-25',
+    finalizacion: null,
+
+    generos: [
+        'BL',
+        'Romance',
+        'Fantasía',
+        'Misterio',
+        'Crimen'
+    ],
+
+    tags: [
+        'Investigación policial',
+        'Medicina forense',
+        'Incendios provocados',
+        'Maldición ancestral',
+        'Elementos sobrenaturales',
+        'Secretos del pasado',
+        'Destino',
+        'Parejas paralelas',
+        'WeTV Original',
+        'TaiLai Entertainment'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['James', 'Ken']
+        },
+        {
+            personajes: ['Jirat', 'Chita']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'El joven policía James se encuentra con el enigmático sargento Ken cuando ambos investigan una serie de incendios relacionados con un antiguo caso sin resolver. A medida que avanzan en la investigación, sus destinos quedan cada vez más unidos y empiezan a surgir sentimientos que ninguno de los dos había previsto. Paralelamente, el médico forense Jirat desarrolla una relación especial con Chita, su asistente, mientras trabajan para descubrir la verdad que esconden las pruebas y las muertes que rodean el caso. Las pesquisas revelan que los incendios están conectados con una maldición que se extiende a lo largo de varias generaciones. Entre secretos, corrupción y fuerzas sobrenaturales, las dos parejas tendrán que enfrentarse a un pasado que amenaza con destruir sus vidas.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== YOU MANIAC — DR001066 =============== */
+{
+    codigo: 'DR001066',
+    titulo: 'You Maniac',
+    tituloOriginal: 'เดี๋ยวจะรักซะให้บ้า',
+    alias: [
+        'Hold On, I’ll Love You Like Crazy',
+        'Diao Ja Rak Sa Hai Ba',
+        'Diao Cha Rak Sa Hai Ba'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+    origen: null,
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 10,
+    duracion: null,
+    estado: 'En emisión',
+    estreno: '2026-08-29',
+    finalizacion: null,
+
+    generos: [
+        'BL',
+        'Romance',
+        'Comedia',
+        'Drama'
+    ],
+
+    tags: [
+        'Relación fingida',
+        'Mujeriego',
+        'Opuestos se atraen',
+        'Triángulo amoroso',
+        'Enamoramiento no correspondido',
+        'Señales contradictorias',
+        'Artistas',
+        'Celos',
+        'GMMTV'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Dean', 'Moth']
+        },
+        {
+            personajes: ['Ten', 'Pun']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'Dean es un joven atractivo, sociable y acostumbrado a coquetear sin comprometerse sentimentalmente. Su amigo Ten quiere conquistar a Pun, pero Pun ya siente algo por Moth, un artista excéntrico y de personalidad directa. Para ayudar a Ten, Dean acepta acercarse a Moth y distraerlo, convencido de que podrá controlar la situación sin enamorarse. Sin embargo, Moth no responde a sus habituales técnicas de seducción y convierte el reto en una competición que despierta sentimientos genuinos en Dean. Mientras la relación entre Dean y Moth evoluciona de manera inesperada, Ten y Pun también empiezan a aclarar lo que sienten el uno por el otro.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+/* =============== MR. FANBOY — DR001067 =============== */
+{
+    codigo: 'DR001067',
+    titulo: 'Mr. Fanboy',
+    tituloOriginal: 'รักสุดใจนายแฟนบอย',
+    alias: [
+        'Rak Sut Jai Nai Fanboy',
+        'Mr. Fanboy Series'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Drama',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+
+    origen: {
+        tipo: 'Novela',
+        relacion: 'Adaptación',
+        titulo: 'Mr. Fanboy',
+        tituloOriginal: 'รักสุดใจนายแฟนบอย',
+        autor: 'littlebbear96',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 12,
+    duracion: null,
+    estado: 'En emisión',
+    estreno: '2026-08-29',
+    finalizacion: null,
+
+    generos: [
+        'BL',
+        'Romance',
+        'Comedia'
+    ],
+
+    tags: [
+        'Adaptación literaria',
+        'Cultura fan',
+        'Industria del entretenimiento',
+        'Vida universitaria',
+        'De enemigos a amantes',
+        'Slow burn',
+        'Celos',
+        'Fama y privacidad',
+        'Pareja secundaria',
+        'Mandee Work'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Wan', 'Third']
+        },
+        {
+            personajes: ['Renji', 'Time']
+        }
+    ],
+
+    entidades: [],
+    especiales: [],
+    relaciones: [],
+
+    sinopsis: 'Wan es un joven alegre y un fanboy entregado al popular actor Nine, a quien admira desde la distancia. Su vida cambia cuando consigue una audición y entra en la misma industria del entretenimiento que su ídolo. Allí conoce a Third, compañero de trabajo de Nine, que inicialmente desconfía de Wan y cree que ha cruzado los límites de un fan. A medida que los rodajes se complican, Third termina ayudándolo y ambos empiezan a descubrir una conexión que va más allá de sus primeras impresiones. Wan tendrá que distinguir entre la imagen idealizada que construyó de Nine y los sentimientos que nacen junto a Third. Paralelamente, sus compañeros Renji y Time amplían la trama romántica dentro del mundo profesional que Wan acaba de descubrir.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
 /* =============== LOVE×3: THE MANDATORY LOVE COURSE — DR001064 =============== */
 {
     codigo: 'DR001064',
