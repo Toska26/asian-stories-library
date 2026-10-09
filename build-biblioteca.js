@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const vm = require('vm');
 
 // Configuración de rutas relativas
 const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
@@ -8,7 +9,8 @@ const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.js');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
 /**
- * Carga de forma segura un archivo de datos global (SHIPS.js, PERSONAS.js)
+ * Carga de forma segura archivos globales (SHIPS.js / PERSONAS.js)
+ * independientemente de cómo estén declaradas sus variables (const, let, var, window).
  */
 function cargarArchivoGlobal(rutaArchivo, nombreVariable) {
     if (!fs.existsSync(rutaArchivo)) {
@@ -18,13 +20,16 @@ function cargarArchivoGlobal(rutaArchivo, nombreVariable) {
     try {
         const contenido = fs.readFileSync(rutaArchivo, 'utf8');
         const sandbox = { window: {} };
-        const scriptFunction = new Function('window', contenido);
-        scriptFunction(sandbox.window);
+        sandbox.window = sandbox;
 
-        const data = sandbox.window[nombreVariable] || sandbox.window.window?.[nombreVariable];
-        return Array.isArray(data) ? data : [];
+        vm.createContext(sandbox);
+
+        // Evaluamos el contenido y forzamos la devolución de la variable en el mismo contexto
+        const resultado = vm.runInContext(`${contenido};\n(typeof ${nombreVariable} !== 'undefined' ? ${nombreVariable} : (window.${nombreVariable} || []));`, sandbox);
+
+        return Array.isArray(resultado) ? resultado : [];
     } catch (error) {
-        console.error(`❌ Error al cargar ${rutaArchivo}:`, error.message);
+        console.error(`❌ Error al evaluar ${rutaArchivo}:`, error.message);
         return [];
     }
 }
@@ -34,12 +39,15 @@ const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, 'ships');
 const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, 'personas');
 
 /**
- * Resuelve únicamente el primer ship según las reglas de SHIPS.js o PERSONAS.js
+ * Resuelve únicamente el primer ship según las reglas estrictas:
+ * 1. Si tiene 'ship' (código) -> Busca 'nombre' en SHIPS.js (ej. BrightWin)
+ * 2. Si no tiene 'ship' pero tiene 'personajes' -> Mapea 'nombre' ficticio al código de persona
+ *    del drama y busca 'nombreArtistico' (o 'nombre') en PERSONAS.js (ej. Im Ji & Oh Jun)
  */
 function obtenerPrimerShipResuelto(itemShip, drama) {
     if (!itemShip) return null;
 
-    // CASO A: Código oficial de Ship (ej. SH000002 -> BrightWin)
+    // REGLA 1: Código oficial de Ship en SHIPS.js (ej. SH000002 -> BrightWin)
     if (itemShip.ship) {
         const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
         if (sEncontrado && sEncontrado.nombre) {
@@ -47,23 +55,27 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
         }
     }
 
-    // CASO B: Pareja por Personajes -> Nombres Artísticos en PERSONAS.js
-    if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
+    // REGLA 2: Mapeo por personajes ficticios -> Nombres Artísticos en PERSONAS.js
+    if (Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
         if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-            const codigos = itemShip.personajes.map(nombreP => {
-                const rel = drama.personas.find(p => p.nombre === nombreP);
+            // Obtener los códigos de personas (PRXXXXXX) desde el reparto del drama
+            const codigosPersonas = itemShip.personajes.map(nombreFicticio => {
+                const rel = drama.personas.find(p => p.nombre === nombreFicticio);
                 return rel ? rel.persona : null;
             }).filter(Boolean);
 
-            const nombresArtisticos = codigos.map(cod => {
+            // Obtener nombreArtistico o nombre de cada persona en PERSONAS.js
+            const nombresArtisticos = codigosPersonas.map(cod => {
                 const pEncontrada = personasGlobales.find(p => p.codigo === cod);
                 return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
             }).filter(Boolean);
 
-            if (nombresArtisticos.length > 0) {
+            if (nombresArtisticos.length >= 2) {
                 return nombresArtisticos.join(' & ');
             }
         }
+
+        // Fallback si no coinciden las claves
         return itemShip.personajes.join(' & ');
     }
 
@@ -71,12 +83,12 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
 }
 
 /**
- * Procesa la ficha individual de un drama y devuelve el objeto ligero para biblioteca.js
+ * Procesa la ficha individual de un drama
  */
 function compilarDramaParaBiblioteca(drama) {
     if (!drama || !drama.codigo) return null;
 
-    // 1. Detección de presencia de multimedia
+    // 1. Detección de multimedia
     const m = drama.multimedia || {};
     const tieneMedia = Boolean(
         (Array.isArray(m.trailer) && m.trailer.length > 0) ||
@@ -86,7 +98,7 @@ function compilarDramaParaBiblioteca(drama) {
         (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    // 2. Extracción y normalización de relaciones directas
+    // 2. Normalización de relaciones directas
     const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
         ? drama.franquicia.codigo
         : (drama.franquicia || '');
@@ -116,7 +128,7 @@ function compilarDramaParaBiblioteca(drama) {
         shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
     }
 
-    // 4. Construcción del objeto ligero final
+    // 4. Objeto para biblioteca.js
     const objetoBiblioteca = {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
@@ -144,7 +156,6 @@ function compilarDramaParaBiblioteca(drama) {
         portada: drama.portada || (m.portada && m.portada[0]) || ''
     };
 
-    // Agregar propiedades de ships únicamente si tiene al menos uno
     if (shipResuelto && totalShips > 0) {
         objetoBiblioteca.ship = shipResuelto;
         objetoBiblioteca.numShips = totalShips;
@@ -154,10 +165,11 @@ function compilarDramaParaBiblioteca(drama) {
 }
 
 /**
- * Función principal de compilación segura
+ * Función principal de compilación
  */
 function construirBiblioteca() {
-    console.log('🔄 Reconstruyendo biblioteca.js con resolución de Ships...');
+    console.log('🔄 Reconstruyendo biblioteca.js...');
+    console.log(`📦 Globales detectados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
         console.error('❌ Error: No existe la carpeta:', RUTA_DRAMAS);
@@ -179,12 +191,13 @@ function construirBiblioteca() {
         try {
             const contenido = fs.readFileSync(rutaArchivo, 'utf8');
             const sandbox = { window: {} };
-            
-            const scriptFunction = new Function('window', contenido);
-            scriptFunction(sandbox.window);
+            sandbox.window = sandbox;
+
+            vm.createContext(sandbox);
+            vm.runInContext(contenido, sandbox);
 
             const codigoDrama = archivo.replace('.js', '');
-            const dramaObjeto = sandbox.window[codigoDrama] || sandbox.window.DRAMA_ACTUAL || sandbox.window.dramaActual;
+            const dramaObjeto = sandbox[codigoDrama] || sandbox.window?.[codigoDrama] || sandbox.DRAMA_ACTUAL || sandbox.dramaActual || sandbox.window?.dramaActual;
 
             if (dramaObjeto) {
                 const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
@@ -198,18 +211,15 @@ function construirBiblioteca() {
         }
     });
 
-    // Ordenar alfabéticamente por título
     listaCompilada.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es', { sensitivity: 'base' }));
 
-    // Guardar archivo biblioteca.js formateado
     const contenidoOutput = `const biblioteca = ${JSON.stringify(listaCompilada, null, 2)};\n`;
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
-    console.log(`\n✅ ¡Proceso finalizado! ${listaCompilada.length} drama(s) procesados en biblioteca.js.`);
+    console.log(`\n✅ Proceso finalizado: ${listaCompilada.length} drama(s) procesados.`);
     if (erroresContador > 0) {
-        console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores de sintaxis.`);
+        console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores.`);
     }
 }
 
-// Ejecutar compilación
 construirBiblioteca();
