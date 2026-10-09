@@ -48,8 +48,8 @@ const biblioteca = [
     "tieneSinopsis": true,
     "tienePersonas": true,
     "tieneEntidades": true,
-    "tieneMultimedia": true,
-    "portada": "https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
+    "tieneMultimedia": false,
+    "portada": "h",
     "ship": "",
     "numShips": 3
   },
