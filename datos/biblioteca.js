@@ -138,7 +138,7 @@ const biblioteca = [
     "tipo": "Drama",
     "estado": "Finalizado",
     "activo": true,
-    "serie": "SR000002",
+    "serie": null,
     "temporada": 2,
     "temporadas": 2,
     "franquicia": {
