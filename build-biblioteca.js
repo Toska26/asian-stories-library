@@ -60,6 +60,7 @@ const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, ['PERSONAS', 'person
  * 1. Si tiene 'ship' (código) -> Busca 'nombre' en SHIPS.js (ej. BrightWin)
  * 2. Si no tiene 'ship' pero tiene 'personajes' -> Mapea 'nombre' ficticio al código de persona
  *    del drama y busca 'nombreArtistico' (o 'nombre') en PERSONAS.js (ej. Im Ji & Oh Jun)
+ * 3. Si no hay datos resueltos -> Devuelve null
  */
 function obtenerPrimerShipResuelto(itemShip, drama) {
     if (!itemShip) return null;
@@ -91,11 +92,9 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
                 return nombresArtisticos.join(' & ');
             }
         }
-
-        // Fallback en caso de no encontrar coincidencia en PERSONAS.js
-        return itemShip.personajes.join(' & ');
     }
 
+    // Si no se encuentra ship oficial ni actores mapeados, omitir
     return null;
 }
 
@@ -173,7 +172,7 @@ function compilarDramaParaBiblioteca(drama) {
         portada: drama.portada || (m.portada && m.portada[0]) || ''
     };
 
-    // Agregar propiedades de ships únicamente si tiene al menos uno
+    // Agregar propiedades de ships únicamente si tenemos un ship resuelto válido
     if (shipResuelto && totalShips > 0) {
         objetoBiblioteca.ship = shipResuelto;
         objetoBiblioteca.numShips = totalShips;
