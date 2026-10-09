@@ -1,6 +1,8 @@
 /* ========================================== 2gether: The Movie ========================================== */
 window.dramaActual = {
-    codigo: 'DR000004',    titulo: '2gether: The Movie',    tituloOriginal: 'เพราะเราคู่กัน The Movie',
+    codigo: 'DR000004',
+    titulo: '2gether: The Movie',
+    tituloOriginal: 'เพราะเราคู่กัน The Movie',
     alias: [],
     tipo: 'Película',
     anio: 2021,
@@ -14,16 +16,25 @@ window.dramaActual = {
     estado: 'Finalizado',
     estreno: '2021-04-22',
     finalizacion: '2021-04-22',
-    generos: [        'Comedia',        'Romance'    ],
-    tags: [        'BL',        'Universidad',        'Música',        'Recopilatoria'    ],
+    generos: [
+        'Comedia',
+        'Romance'
+    ],
+    tags: [
+        'BL',
+        'Universidad',
+        'Música',
+        'Recopilatoria'
+    ],
     multimedia: {
-        portada: 'https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg',
-        trailerYoutube: 'https://www.youtube.com/watch?v=Ryta9zAkVjU',
-        trailerYoutube2: '',
-        teaserYoutube: '',
-        teaserYoutube2: ''
+        portada: ['https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg'],
+        trailer: ['https://www.youtube.com/watch?v=Ryta9zAkVjU'],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
     },
-  personas: [
+    personas: [
         { nombre: 'Sarawat', persona: 'PR000008', funcion: ['Actor'], principal: true },
         { nombre: 'Tine', persona: 'PR000009', funcion: ['Actor'], principal: true },
         { nombre: 'Man', persona: 'PR000010', funcion: ['Actor'], principal: false },
@@ -37,8 +48,8 @@ window.dramaActual = {
         { nombre: 'Dim', persona: 'PR000020', funcion: ['Actor'], principal: false },
         { nombre: 'Pear', persona: 'PR000021', funcion: ['Actor'], principal: false },
         { nombre: 'Pam', persona: 'PR000022', funcion: ['Actor'], principal: false },
-        { persona: 'PR000014', funcion: 'Director' },
-        { persona: 'PR000015', funcion: 'Guionista' }
+        { persona: 'PR000014', funcion: ['Director'], principal: false },
+        { persona: 'PR000015', funcion: ['Guionista'], principal: false }
     ],
     ships: [
         { ship: 'SH000002', personajes: ['Sarawat', 'Tine'] },
@@ -56,4 +67,4 @@ window.dramaActual = {
         { codigo: 'EN000018', funcion: ['Distribuidora'] },
         { codigo: 'EN000026', funcion: ['Plataforma'] }
     ]
-}
+};
