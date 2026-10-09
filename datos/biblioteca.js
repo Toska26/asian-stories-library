@@ -59,6 +59,22 @@ const biblioteca = [
     "tieneSinopsis": true
   },
   {
+    "codigo": "DR000509",
+    "titulo": "Addicted",
+    "pais": [
+      "CN"
+    ],
+    "anio": 2016,
+    "tipo": "Drama",
+    "estado": "Cancelado",
+    "activo": true,
+    "tieneSinopsis": true,
+    "remake": {
+      "codigo": "RM000509",
+      "orden": 1
+    }
+  },
+  {
     "codigo": "DR000006",
     "titulo": "Bad Romance: The Series",
     "pais": [
