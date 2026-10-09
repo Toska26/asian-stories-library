@@ -1,6 +1,8 @@
 /* ========================================== 2gether ========================================== */
 window.dramaActual = {
-    codigo: 'DR000002',    titulo: '2gether',    tituloOriginal: 'เพราะเราคู่กัน',
+    codigo: 'DR000002',    
+	titulo: '2gether',    
+	tituloOriginal: 'เพราะเราคู่กัน',
     alias: ['2gether The Series'],
     tipo: 'Drama',
     anio: 2020,
