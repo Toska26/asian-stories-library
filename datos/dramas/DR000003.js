@@ -17,8 +17,8 @@ window.dramaActual = {
     estado: 'Finalizado',
     estreno: '2020-08-14',
     finalizacion: '2020-09-11',
-    generos: [        'Comedia',        'Romance'    ],
-    tags: [        'BL',        'Universidad',        'Música',        'Secuela'    ],
+    generos: [ 'Comedia', 'Romance'    ],
+    tags: [ 'BL',  'Universidad',  'Música',   'Secuela'  ],
 
     multimedia: {
         portada: ['https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg'],
