@@ -23,16 +23,6 @@ window.dramaActual = {
         teaserYoutube: '',
         teaserYoutube2: ''
     },
-    multimedia: {
-        portada: ['https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg'],
-        trailer: ['https://www.youtube.com/watch?v=Ryta9zAkVjU'],
-        teaser: [],
-        pilot: [],
-        ost: []
-    },
-
-
-
   personas: [
         { nombre: 'Sarawat', persona: 'PR000008', funcion: ['Actor'], principal: true },
         { nombre: 'Tine', persona: 'PR000009', funcion: ['Actor'], principal: true },
