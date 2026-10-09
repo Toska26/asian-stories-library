@@ -56,11 +56,7 @@ const biblioteca = [
     "tipo": "Antología",
     "estado": "Finalizado",
     "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": false,
-    "tieneEntidades": false,
-    "tieneMultimedia": false,
-    "portada": ""
+    "tieneSinopsis": true
   },
   {
     "codigo": "DR000006",
@@ -75,7 +71,6 @@ const biblioteca = [
     "tieneSinopsis": true,
     "tienePersonas": true,
     "tieneEntidades": true,
-    "tieneMultimedia": false,
     "portada": "https://artworks.thetvdb.com/banners/posters/314649-1.jpg",
     "franquicia": {
       "codigo": "FR000002",
@@ -95,10 +90,6 @@ const biblioteca = [
     "estado": "Finalizado",
     "activo": true,
     "tieneSinopsis": true,
-    "tienePersonas": false,
-    "tieneEntidades": false,
-    "tieneMultimedia": false,
-    "portada": "",
     "franquicia": {
       "codigo": "FR000047",
       "orden": 1
@@ -114,11 +105,7 @@ const biblioteca = [
     "tipo": "Serie",
     "estado": "Finalizado",
     "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": false,
-    "tieneEntidades": false,
-    "tieneMultimedia": false,
-    "portada": ""
+    "tieneSinopsis": true
   },
   {
     "codigo": "DR000003",
