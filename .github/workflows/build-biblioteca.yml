@@ -10,6 +10,14 @@ on:
     branches:
       - main
 
+# Evita que ejecuciones simultáneas se cancelen; las pone en cola de forma ordenada
+concurrency:
+  group: build-biblioteca-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +33,7 @@ jobs:
       - name: Generar biblioteca.js
         run: node build-biblioteca.js
 
-      - name: Guardar cambios en el repositorio
+      - name: Guardar y subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
