@@ -105,7 +105,7 @@ function compilarDramaParaBiblioteca(drama) {
         (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    // 2. Construcción del objeto base con campos obligatorios
+    // 2. Objeto base con campos esenciales obligatorios
     const objetoBiblioteca = {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
@@ -113,19 +113,26 @@ function compilarDramaParaBiblioteca(drama) {
         anio: drama.anio || null,
         tipo: drama.tipo || 'Drama',
         estado: drama.estado || 'Finalizado',
-        activo: drama.activo !== undefined ? drama.activo : true,
-
-        // FLAGS DE CONTENIDOS PESADOS
-        tieneSinopsis: Boolean(drama.sinopsis && drama.sinopsis.trim() !== ''),
-        tienePersonas: Boolean(Array.isArray(drama.personas) && drama.personas.length > 0),
-        tieneEntidades: Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0),
-        tieneMultimedia: tieneMedia,
-
-        // PORTADA
-        portada: drama.portada || (m.portada && m.portada[0]) || ''
+        activo: drama.activo !== undefined ? drama.activo : true
     };
 
-    // 3. Inclusión CONDICIONAL de relaciones (se omiten por completo si son nulas)
+    // 3. Flags booleanos: Solo se agregan si son `true`
+    const tieneSinopsis = Boolean(drama.sinopsis && drama.sinopsis.trim() !== '');
+    const tienePersonas = Boolean(Array.isArray(drama.personas) && drama.personas.length > 0);
+    const tieneEntidades = Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0);
+
+    if (tieneSinopsis) objetoBiblioteca.tieneSinopsis = true;
+    if (tienePersonas) objetoBiblioteca.tienePersonas = true;
+    if (tieneEntidades) objetoBiblioteca.tieneEntidades = true;
+    if (tieneMedia) objetoBiblioteca.tieneMultimedia = true;
+
+    // 4. Portada: Solo se agrega si no está vacía
+    const urlPortada = drama.portada || (m.portada && m.portada[0]) || '';
+    if (urlPortada.trim() !== '') {
+        objetoBiblioteca.portada = urlPortada;
+    }
+
+    // 5. Relaciones directas (se omiten por completo si no existen)
     if (drama.serie) {
         objetoBiblioteca.serie = drama.serie;
         if (drama.temporada) objetoBiblioteca.temporada = Number(drama.temporada);
@@ -162,7 +169,7 @@ function compilarDramaParaBiblioteca(drama) {
         objetoBiblioteca.remake = { codigo: codRemake, orden: ordenRemake };
     }
 
-    // 4. Inclusión CONDICIONAL de ships
+    // 6. Inclusión condicional de ships
     if (Array.isArray(drama.ships) && drama.ships.length > 0) {
         const shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
         if (shipResuelto) {
