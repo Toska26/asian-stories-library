@@ -78,6 +78,33 @@ const biblioteca = [
     "numShips": 6
   },
   {
+    "codigo": "DR000006",
+    "titulo": "Bad Romance: The Series",
+    "pais": [
+      "TH"
+    ],
+    "anio": 2016,
+    "tipo": "Drama",
+    "estado": "Finalizado",
+    "activo": true,
+    "serie": null,
+    "temporada": 1,
+    "temporadas": 1,
+    "franquicia": {
+      "codigo": "FR000002",
+      "orden": 1
+    },
+    "universo": null,
+    "remake": null,
+    "tieneSinopsis": true,
+    "tienePersonas": true,
+    "tieneEntidades": true,
+    "tieneMultimedia": false,
+    "portada": "https://artworks.thetvdb.com/banners/posters/314649-1.jpg",
+    "ship": "Korn & Knock",
+    "numShips": 4
+  },
+  {
     "codigo": "DR000939",
     "titulo": "Fourever You",
     "pais": [
