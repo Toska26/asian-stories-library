@@ -3,7 +3,72 @@ const path = require('path');
 
 // Configuración de rutas relativas
 const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
+const RUTA_SHIPS = path.join(__dirname, 'datos', 'SHIPS.js');
+const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.js');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
+
+/**
+ * Carga de forma segura un archivo de datos global (SHIPS.js, PERSONAS.js)
+ */
+function cargarArchivoGlobal(rutaArchivo, nombreVariable) {
+    if (!fs.existsSync(rutaArchivo)) {
+        console.warn(`⚠️ No se encontró el archivo global: ${rutaArchivo}`);
+        return [];
+    }
+    try {
+        const contenido = fs.readFileSync(rutaArchivo, 'utf8');
+        const sandbox = { window: {} };
+        const scriptFunction = new Function('window', contenido);
+        scriptFunction(sandbox.window);
+
+        const data = sandbox.window[nombreVariable] || sandbox.window.window?.[nombreVariable];
+        return Array.isArray(data) ? data : [];
+    } catch (error) {
+        console.error(`❌ Error al cargar ${rutaArchivo}:`, error.message);
+        return [];
+    }
+}
+
+// Carga única de colecciones globales en memoria
+const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, 'ships');
+const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, 'personas');
+
+/**
+ * Resuelve únicamente el primer ship según las reglas de SHIPS.js o PERSONAS.js
+ */
+function obtenerPrimerShipResuelto(itemShip, drama) {
+    if (!itemShip) return null;
+
+    // CASO A: Código oficial de Ship (ej. SH000002 -> BrightWin)
+    if (itemShip.ship) {
+        const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
+        if (sEncontrado && sEncontrado.nombre) {
+            return sEncontrado.nombre;
+        }
+    }
+
+    // CASO B: Pareja por Personajes -> Nombres Artísticos en PERSONAS.js
+    if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
+        if (Array.isArray(drama.personas) && drama.personas.length > 0) {
+            const codigos = itemShip.personajes.map(nombreP => {
+                const rel = drama.personas.find(p => p.nombre === nombreP);
+                return rel ? rel.persona : null;
+            }).filter(Boolean);
+
+            const nombresArtisticos = codigos.map(cod => {
+                const pEncontrada = personasGlobales.find(p => p.codigo === cod);
+                return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
+            }).filter(Boolean);
+
+            if (nombresArtisticos.length > 0) {
+                return nombresArtisticos.join(' & ');
+            }
+        }
+        return itemShip.personajes.join(' & ');
+    }
+
+    return null;
+}
 
 /**
  * Procesa la ficha individual de un drama y devuelve el objeto ligero para biblioteca.js
@@ -42,37 +107,17 @@ function compilarDramaParaBiblioteca(drama) {
         ? (Number(drama.remake.orden) || null)
         : null;
 
-    // 3. Procesamiento seguro de Ships (Caso 1: Sección ships / Caso 2: Derivado de personas)
-    let shipResumen = drama.ship || '';
+    // 3. Resolución del Ship principal y recuento total
+    let shipResuelto = null;
     let totalShips = 0;
 
     if (Array.isArray(drama.ships) && drama.ships.length > 0) {
-        // Caso 1: Definido directamente en el array 'ships'
         totalShips = drama.ships.length;
-        const primerShip = drama.ships[0];
-        if (primerShip) {
-            if (primerShip.ship) {
-                shipResumen = primerShip.ship;
-            } else if (Array.isArray(primerShip.personajes)) {
-                shipResumen = primerShip.personajes.join(' & ');
-            }
-        }
-    } else if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-        // Caso 2: Búsqueda dinámica en el reparto (personas principales)
-        const principales = drama.personas.filter(p => p && p.principal === true && p.nombre);
-        if (principales.length >= 2) {
-            shipResumen = principales.slice(0, 2).map(p => p.nombre).join(' & ');
-            totalShips = 1;
-        } else if (principales.length === 1) {
-            shipResumen = principales[0].nombre;
-            totalShips = 1;
-        }
-    } else if (drama.ship) {
-        totalShips = Number(drama.numShips) || 1;
+        shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
     }
 
-    // 4. Salida del objeto ligero para biblioteca.js
-    return {
+    // 4. Construcción del objeto ligero final
+    const objetoBiblioteca = {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
         pais: Array.isArray(drama.pais) ? drama.pais : [],
@@ -95,22 +140,27 @@ function compilarDramaParaBiblioteca(drama) {
         tieneEntidades: Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0),
         tieneMultimedia: tieneMedia,
 
-        // PORTADA Y SHIPS
-        portada: drama.portada || (m.portada && m.portada[0]) || '',
-        ship: shipResumen,
-        numShips: totalShips
+        // PORTADA
+        portada: drama.portada || (m.portada && m.portada[0]) || ''
     };
+
+    // Agregar propiedades de ships únicamente si tiene al menos uno
+    if (shipResuelto && totalShips > 0) {
+        objetoBiblioteca.ship = shipResuelto;
+        objetoBiblioteca.numShips = totalShips;
+    }
+
+    return objetoBiblioteca;
 }
 
 /**
  * Función principal de compilación segura
  */
 function construirBiblioteca() {
-    console.log('🔄 Reconstruyendo biblioteca.js desde /datos/dramas/...');
+    console.log('🔄 Reconstruyendo biblioteca.js con resolución de Ships...');
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
         console.error('❌ Error: No existe la carpeta:', RUTA_DRAMAS);
-        console.log('💡 Ejecuta el comando desde la raíz de tu proyecto.');
         process.exit(1);
     }
 
@@ -140,7 +190,7 @@ function construirBiblioteca() {
                 const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
                 if (elementoBiblio) listaCompilada.push(elementoBiblio);
             } else {
-                console.warn(`⚠️ Objeto de drama no detectado en: ${archivo}`);
+                console.warn(`⚠️ Objeto no detectado en: ${archivo}`);
             }
         } catch (error) {
             erroresContador++;
@@ -151,15 +201,15 @@ function construirBiblioteca() {
     // Ordenar alfabéticamente por título
     listaCompilada.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es', { sensitivity: 'base' }));
 
-    // Guardar biblioteca.js formateada
+    // Guardar archivo biblioteca.js formateado
     const contenidoOutput = `const biblioteca = ${JSON.stringify(listaCompilada, null, 2)};\n`;
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
-    console.log(`\n✅ ¡Proceso finalizado! ${listaCompilada.length} drama(s) guardados en biblioteca.js.`);
+    console.log(`\n✅ ¡Proceso finalizado! ${listaCompilada.length} drama(s) procesados en biblioteca.js.`);
     if (erroresContador > 0) {
         console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores de sintaxis.`);
     }
 }
 
-// Ejecutar compilador
+// Ejecutar compilación
 construirBiblioteca();
