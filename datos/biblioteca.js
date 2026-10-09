@@ -73,9 +73,7 @@ const biblioteca = [
     "tienePersonas": false,
     "tieneEntidades": false,
     "tieneMultimedia": false,
-    "portada": "",
-    "ship": "Ozone & Sun",
-    "numShips": 6
+    "portada": ""
   },
   {
     "codigo": "DR000006",
@@ -127,9 +125,7 @@ const biblioteca = [
     "tienePersonas": false,
     "tieneEntidades": false,
     "tieneMultimedia": false,
-    "portada": "",
-    "ship": "Hill & Easter",
-    "numShips": 2
+    "portada": ""
   },
   {
     "codigo": "DR001016",
@@ -151,9 +147,7 @@ const biblioteca = [
     "tienePersonas": false,
     "tieneEntidades": false,
     "tieneMultimedia": false,
-    "portada": "",
-    "ship": "Win & Phloeng",
-    "numShips": 1
+    "portada": ""
   },
   {
     "codigo": "DR000003",
