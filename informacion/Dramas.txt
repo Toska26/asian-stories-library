@@ -1045,6 +1045,22 @@ DR001044	TH	2026	Your Dear Daddy
 DR001045	TH	2026	When Oranges Fall
 DR001046	TH	2026	My Grandpa Is a BL Writer
 DR001047	TH	2026	PayBack The Series
+DR001048	TH	2026	Zantiis: Miss You
+DR001049	TH	2026	Lost to Light
+DR001050	TH	2026	The Edge of Horizon
+DR001051	TH	2026	When Light Fades
+DR001052	TH	2026	Don't Be Too Emotional
+DR001053	TH	2026	KNOT
+DR001054	TH	2026	Mr. Kill
+DR001055	TH	2026	Peach and Me
+DR001056	TH	2026	Love Destiny
+DR001057	TH	2026	Be My Player Two
+DR001058	TH	2026	Class Crush Crisis
+DR001059	TH	2026	Match Point
+DR001060	TH	2018	Love Destiny
+
+
+
 
 
 
