@@ -1,6 +1,8 @@
 /* ========================================== The Eighth Sense ========================================== */
 window.dramaActual ={
-    codigo: 'DR000005',    titulo: 'The Eighth Sense',    tituloOriginal: '여덟 번째 감각',
+    codigo: 'DR000005',    
+	titulo: 'The Eighth Sense',    
+	tituloOriginal: '여덟 번째 감각',
     alias: [],
     tipo: 'Drama',
     anio: 2023,
