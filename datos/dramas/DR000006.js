@@ -59,4 +59,4 @@ window.dramaActual = {
         { codigo: 'EN000022', funcion: ['Plataforma'] }
     ],
     activo: true
-},
+}
