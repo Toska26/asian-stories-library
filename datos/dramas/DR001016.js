@@ -43,7 +43,7 @@ window.dramaActual = {
     ],
     entidades:[],
     especiales:[],
-    sinopsis:'Win,  un joven adivino que puede percibir fenómenos sobrenaturales, descubre que su mala suerte está relacionada con una maldición que debe romper antes de cumplir años. Para conseguirlo necesita encontrar a una persona con una rara energía espiritual. Esa búsqueda lo lleva hasta Phloeng, presentador de un programa de televisión dedicado a desenmascarar supuestos fenómenos paranormales. La convivencia entre el creyente y el escéptico termina transformando su relación mientras ambos se enfrentan a secretos y fuerzas sobrenaturales.',
+    sinopsis:'Win, un joven adivino que puede percibir fenómenos sobrenaturales, descubre que su mala suerte está relacionada con una maldición que debe romper antes de cumplir años. Para conseguirlo necesita encontrar a una persona con una rara energía espiritual. Esa búsqueda lo lleva hasta Phloeng, presentador de un programa de televisión dedicado a desenmascarar supuestos fenómenos paranormales. La convivencia entre el creyente y el escéptico termina transformando su relación mientras ambos se enfrentan a secretos y fuerzas sobrenaturales.',
     multimedia:{
         portada:[],
         trailer:[],
