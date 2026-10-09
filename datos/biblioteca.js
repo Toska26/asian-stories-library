@@ -23,7 +23,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
-    "ship": "SH000002",
+    "ship": "Sarawat & Tine",
     "numShips": 3
   },
   {
@@ -50,7 +50,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
-    "ship": "SH000002",
+    "ship": "Sarawat & Tine",
     "numShips": 3
   },
   {
@@ -152,7 +152,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg",
-    "ship": "SH000002",
+    "ship": "Sarawat & Tine",
     "numShips": 3
   },
   {
