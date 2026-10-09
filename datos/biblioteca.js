@@ -205,5 +205,32 @@ const biblioteca = [
     "portada": "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg",
     "ship": "Ji Hyun & Jae Won",
     "numShips": 1
+  },
+  {
+    "codigo": "DR000007",
+    "titulo": "Together with Me",
+    "pais": [
+      "TH"
+    ],
+    "anio": 2017,
+    "tipo": "Drama",
+    "estado": "Finalizado",
+    "activo": true,
+    "serie": "SR000007",
+    "temporada": 1,
+    "temporadas": 2,
+    "franquicia": {
+      "codigo": "FR000002",
+      "orden": 2
+    },
+    "universo": null,
+    "remake": null,
+    "tieneSinopsis": true,
+    "tienePersonas": true,
+    "tieneEntidades": true,
+    "tieneMultimedia": true,
+    "portada": "https://s.isanook.com/mv/0/ui/13/67289/c8aukntv4aawxm8_1491280258.jpg",
+    "ship": "Korn & Knock",
+    "numShips": 4
   }
 ];
