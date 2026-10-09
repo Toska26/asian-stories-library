@@ -1059,6 +1059,13 @@ DR001058	TH	2026	Class Crush Crisis
 DR001059	TH	2026	Match Point
 DR001060	TH	2018	Love Destiny
 
+DR001061	TH	2026	New Boyfriend
+DR001062	TH	2026	Unlucky Bae
+DR001063	TH	2026	Love Must Be Fixed
+DR001064  TH  2026  LOVE×3: The Mandatory Love Course
+DR001065	TH	2026	Nour
+DR001066	TH	2026	You Maniac
+DR001067	TH	2026	Mr. Fanboy
 
 
 
