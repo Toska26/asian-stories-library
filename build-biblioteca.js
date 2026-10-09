@@ -9,34 +9,51 @@ const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.js');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
 /**
- * Carga de forma segura archivos globales (SHIPS.js / PERSONAS.js)
- * independientemente de cómo estén declaradas sus variables (const, let, var, window).
+ * Carga de forma segura archivos globales (SHIPS.js, PERSONAS.js)
+ * buscando nombres de variables tanto en mayúsculas como en minúsculas.
  */
-function cargarArchivoGlobal(rutaArchivo, nombreVariable) {
+function cargarArchivoGlobal(rutaArchivo, posiblesNombres) {
     if (!fs.existsSync(rutaArchivo)) {
         console.warn(`⚠️ No se encontró el archivo global: ${rutaArchivo}`);
         return [];
     }
     try {
         const contenido = fs.readFileSync(rutaArchivo, 'utf8');
+        
         const sandbox = { window: {} };
         sandbox.window = sandbox;
 
         vm.createContext(sandbox);
+        vm.runInContext(contenido, sandbox);
 
-        // Evaluamos el contenido y forzamos la devolución de la variable en el mismo contexto
-        const resultado = vm.runInContext(`${contenido};\n(typeof ${nombreVariable} !== 'undefined' ? ${nombreVariable} : (window.${nombreVariable} || []));`, sandbox);
+        // Probar cada variante de nombre (ej. SHIPS, ships, PERSONAS, personas)
+        for (const nombre of posiblesNombres) {
+            let data = sandbox[nombre] || sandbox.window?.[nombre];
 
-        return Array.isArray(resultado) ? resultado : [];
+            // Si se usó const/let, forzamos la extracción directa de la variable
+            if (!data) {
+                try {
+                    data = vm.runInContext(`(function() { ${contenido}; return (typeof ${nombre} !== 'undefined' ? ${nombre} : null); })()`, sandbox);
+                } catch (e) {
+                    data = null;
+                }
+            }
+
+            if (Array.isArray(data) && data.length > 0) {
+                return data;
+            }
+        }
+
+        return [];
     } catch (error) {
-        console.error(`❌ Error al evaluar ${rutaArchivo}:`, error.message);
+        console.error(`❌ Error al cargar ${rutaArchivo}:`, error.message);
         return [];
     }
 }
 
-// Carga única de colecciones globales en memoria
-const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, 'ships');
-const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, 'personas');
+// Carga única de colecciones globales (soporta SHIPS / ships y PERSONAS / personas)
+const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, ['SHIPS', 'ships', 'Ships']);
+const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, ['PERSONAS', 'personas', 'Personas']);
 
 /**
  * Resuelve únicamente el primer ship según las reglas estrictas:
@@ -58,13 +75,13 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
     // REGLA 2: Mapeo por personajes ficticios -> Nombres Artísticos en PERSONAS.js
     if (Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
         if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-            // Obtener los códigos de personas (PRXXXXXX) desde el reparto del drama
+            // Mapear nombre ficticio del personaje al código de persona (PRXXXXXX)
             const codigosPersonas = itemShip.personajes.map(nombreFicticio => {
                 const rel = drama.personas.find(p => p.nombre === nombreFicticio);
                 return rel ? rel.persona : null;
             }).filter(Boolean);
 
-            // Obtener nombreArtistico o nombre de cada persona en PERSONAS.js
+            // Buscar cada código en PERSONAS.js y extraer nombreArtistico (o nombre)
             const nombresArtisticos = codigosPersonas.map(cod => {
                 const pEncontrada = personasGlobales.find(p => p.codigo === cod);
                 return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
@@ -75,7 +92,7 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
             }
         }
 
-        // Fallback si no coinciden las claves
+        // Fallback en caso de no encontrar coincidencia en PERSONAS.js
         return itemShip.personajes.join(' & ');
     }
 
@@ -88,7 +105,7 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
 function compilarDramaParaBiblioteca(drama) {
     if (!drama || !drama.codigo) return null;
 
-    // 1. Detección de multimedia
+    // 1. Detección de presencia de multimedia
     const m = drama.multimedia || {};
     const tieneMedia = Boolean(
         (Array.isArray(m.trailer) && m.trailer.length > 0) ||
@@ -98,7 +115,7 @@ function compilarDramaParaBiblioteca(drama) {
         (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    // 2. Normalización de relaciones directas
+    // 2. Extracción y normalización de relaciones directas
     const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
         ? drama.franquicia.codigo
         : (drama.franquicia || '');
@@ -128,7 +145,7 @@ function compilarDramaParaBiblioteca(drama) {
         shipResuelto = obtenerPrimerShipResuelto(drama.ships[0], drama);
     }
 
-    // 4. Objeto para biblioteca.js
+    // 4. Objeto final para biblioteca.js
     const objetoBiblioteca = {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
@@ -156,6 +173,7 @@ function compilarDramaParaBiblioteca(drama) {
         portada: drama.portada || (m.portada && m.portada[0]) || ''
     };
 
+    // Agregar propiedades de ships únicamente si tiene al menos uno
     if (shipResuelto && totalShips > 0) {
         objetoBiblioteca.ship = shipResuelto;
         objetoBiblioteca.numShips = totalShips;
@@ -169,7 +187,7 @@ function compilarDramaParaBiblioteca(drama) {
  */
 function construirBiblioteca() {
     console.log('🔄 Reconstruyendo biblioteca.js...');
-    console.log(`📦 Globales detectados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
+    console.log(`📦 Globales cargados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
         console.error('❌ Error: No existe la carpeta:', RUTA_DRAMAS);
@@ -218,7 +236,7 @@ function construirBiblioteca() {
 
     console.log(`\n✅ Proceso finalizado: ${listaCompilada.length} drama(s) procesados.`);
     if (erroresContador > 0) {
-        console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores.`);
+        console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores de sintaxis.`);
     }
 }
 
