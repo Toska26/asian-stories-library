@@ -5,13 +5,14 @@ const path = require('path');
 const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
+
 /**
- * Procesa un archivo individual y devuelve su objeto normalizado para biblioteca.js
+ * Procesa la ficha individual de un drama y devuelve el objeto ligero para biblioteca.js
  */
 function compilarDramaParaBiblioteca(drama) {
     if (!drama || !drama.codigo) return null;
 
-    // 1. Detección de Multimedia
+    // 1. Detección de multimedia
     const m = drama.multimedia || {};
     const tieneMedia = Boolean(
         (Array.isArray(m.trailer) && m.trailer.length > 0) ||
@@ -21,7 +22,7 @@ function compilarDramaParaBiblioteca(drama) {
         (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    // 2. Extraer o formatear relaciones
+    // 2. Extracción y normalización de relaciones
     const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
         ? drama.franquicia.codigo
         : (drama.franquicia || '');
@@ -42,11 +43,7 @@ function compilarDramaParaBiblioteca(drama) {
         ? (Number(drama.remake.orden) || null)
         : null;
 
-    // 3. Resumen de Ship principal
-    let shipNombre = drama.ship || '';
-    let numShips = Array.isArray(drama.ships) ? drama.ships.length : (drama.numShips || 0);
-
-    // 4. Objeto final comprimido para biblioteca.js
+    // 3. Objeto limpio para biblioteca.js
     return {
         codigo: drama.codigo,
         titulo: drama.titulo || '',
@@ -56,28 +53,24 @@ function compilarDramaParaBiblioteca(drama) {
         estado: drama.estado || 'Finalizado',
         activo: drama.activo !== undefined ? drama.activo : true,
 
-        // RELACIONES INCLUIDAS PARA BÚSQUEDA INSTANTÁNEA EN POPUPS
-        serie: drama.serie || '',
+        // RELACIONES (Si existen guardan el valor/objeto; si no, quedan en null / '')
+        serie: drama.serie || null,
         temporada: Number(drama.temporada) || 1,
         temporadas: Number(drama.temporadas) || 1,
         franquicia: codFranquicia ? { codigo: codFranquicia, orden: ordenFranquicia } : null,
         universo: codUniverso ? { codigo: codUniverso } : null,
         remake: codRemake ? { codigo: codRemake, orden: ordenRemake } : null,
 
-        // FLAGS BOOLEANAS DE UI
+        // FLAGS BOOLEANAS ÚNICAMENTE PARA CONTENIDOS PESADOS
         tieneSinopsis: Boolean(drama.sinopsis && drama.sinopsis.trim() !== ''),
         tienePersonas: Boolean(Array.isArray(drama.personas) && drama.personas.length > 0),
         tieneEntidades: Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0),
         tieneMultimedia: tieneMedia,
-        tieneFranquicia: Boolean(codFranquicia),
-        tieneUniverso: Boolean(codUniverso),
-        tieneSerie: Boolean(drama.serie || Number(drama.temporadas) > 1),
-        tieneRemake: Boolean(codRemake),
 
-        // DATOS DE PORTADA Y SHIP
+        // PORTADA Y SHIPS
         portada: drama.portada || (m.portada && m.portada[0]) || '',
-        ship: shipNombre,
-        numShips: numShips
+        ship: drama.ship || '',
+        numShips: Array.isArray(drama.ships) ? drama.ships.length : (drama.numShips || 0)
     };
 }
 
