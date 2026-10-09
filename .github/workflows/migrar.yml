@@ -1,7 +1,7 @@
 name: Migrar dramas a JSON
 
 on:
-  workflow_dispatch: # Permite ejecutar el proceso manualmente desde la pestaña Actions
+  workflow_dispatch:
 
 jobs:
   migrar:
@@ -15,13 +15,13 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Ejecutar script de migración
+      - name: Ejecutar migración
         run: node migrar-dramas.js
 
-      - name: Guardar cambios en el repositorio
+      - name: Guardar cambios en GitHub
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dramas/
-          git commit -m "Migración automática de dramas a JSON" || exit 0
+          git commit -m "Migración automática de dramas_old.js a /dramas/*.json" || exit 0
           git push
