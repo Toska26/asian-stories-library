@@ -1,4 +1,4 @@
-name: Generar Biblioteca de Dramas
+name: Build Biblioteca
 
 on:
   push:
@@ -7,32 +7,27 @@ on:
       - 'datos/SHIPS.js'
       - 'datos/PERSONAS.js'
       - 'build-biblioteca.js'
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - name: Descargar repositorio
+      - name: Checkout código
         uses: actions/checkout@v4
 
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '20'
 
-      - name: Ejecutar script de biblioteca
+      - name: Generar biblioteca.js
         run: node build-biblioteca.js
 
-      - name: Guardar cambios en GitHub
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "bot: actualización automática de datos/biblioteca.js"
-          file_pattern: "datos/biblioteca.js"
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add datos/biblioteca.js
+          git diff --staged --quiet || (git commit -m "chore: auto-build biblioteca.js [skip ci]" && git push)
