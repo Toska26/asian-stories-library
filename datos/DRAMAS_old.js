@@ -52846,5 +52846,124 @@ especiales:[
 
     activo: true
 },
-	
+
+/* =============== LOVE×3: THE MANDATORY LOVE COURSE — DR001064 =============== */
+{
+    codigo: 'DR001064',
+    titulo: 'LOVE×3: The Mandatory Love Course',
+    tituloOriginal: 'LOVEx3 หลักสูตร (รัก) ภาคบังคับ',
+    alias: [
+        'LOVEx3',
+        'Love³',
+        'Love x 3',
+        'Love Yok Kamlang 3',
+        'Love Yok Kamlang 3 Lak Sut (Rak) Phak Bangkhap'
+    ],
+    pais: ['TH'],
+    anio: 2026,
+    tipo: 'Antología',
+
+    franquicia: null,
+    universo: null,
+    serie: null,
+    remake: null,
+
+    origen: {
+        tipo: 'Novelas',
+        relacion: 'Adaptación',
+        titulo: 'Rak Rai Khong Phu Chai Cool Cool; Khao Mun Rop Khwam Rak; Pha Rak Sueksa',
+        tituloOriginal: 'รักร้ายของผู้ชายคูลๆ; เขาหมุนรอบความรัก; พารักศึกษา',
+        autor: 'Chiffon_cake',
+        pais: 'TH'
+    },
+
+    temporadas: 1,
+    temporada: 1,
+    episodios: 15,
+    duracion: null,
+    estado: 'En emisión',
+    estreno: '2026-08-16',
+    finalizacion: null,
+
+    generos: [
+        'BL',
+        'Romance',
+        'Drama',
+        'Comedia romántica',
+        'Escolar',
+        'Juventud'
+    ],
+
+    tags: [
+        'Antología',
+        'Historias conectadas',
+        'Múltiples parejas',
+        'Adaptación literaria',
+        'Amor secreto',
+        'Amigos a amantes',
+        'Primer amor',
+        'Segundas oportunidades',
+        'Promesas del pasado',
+        'Instituto',
+        'Universidad',
+        'TIA51'
+    ],
+
+    personas: [],
+
+    ships: [
+        {
+            personajes: ['Fuen', 'Physics']
+        },
+        {
+            personajes: ['Din', 'Star']
+        },
+        {
+            personajes: ['Aof', 'Chemi']
+        }
+    ],
+
+    entidades: [],
+
+    especiales: [],
+
+    relaciones: [
+    {
+        tipo: 'Antología',
+        historia: 'Rak Rai Khong Phu Chai Cool Cool',
+        pareja: 'Fuen / Physics',
+        episodio: null,
+        foto: 'https://cms.dmpcdn.com/ugcarticle/2025/12/09/ed095ee0-d511-11f0-bfb0-91a2dae0258c_webp_original.webp'
+    },
+    {
+        tipo: 'Antología',
+        historia: 'Khao Mun Rop Khwam Rak',
+        pareja: 'Din / Star',
+        episodio: null,
+        foto: null
+    },
+    {
+        tipo: 'Antología',
+        historia: 'Pha Rak Sueksa',
+        pareja: 'Aof / Chemi',
+        episodio: null,
+        foto: 'https://cms.dmpcdn.com/ugcarticle/2025/12/09/ee582600-d511-11f0-bfb0-91a2dae0258c_webp_original.webp'
+    }
+],
+
+    sinopsis: 'Seis estudiantes deben afrontar tres lecciones diferentes sobre el amor. Fuen está enamorado de Star, pero descubre que este quiere acercarse a Physics, su mejor amigo, y termina atrapado entre sus propios sentimientos y el deseo de ayudarlo. Mientras tanto, Din, presidente del consejo estudiantil, intenta conquistar a Star comenzando por conseguir su LINE. La tercera historia sigue a Chemi, que vuelve a encontrarse con Aof, el amigo de su hermano que le prometió cortejarlo cuando fuera mayor. Las tres historias románticas se entrelazan a través de sus personajes y muestran cómo la amistad, los sentimientos ocultos y las promesas del pasado pueden cambiar la vida de los protagonistas.',
+
+    multimedia: {
+        portada: [],
+        trailer: [],
+        teaser: [],
+        pilot: [],
+        ost: [],
+        videos: []
+    },
+
+    activo: true
+},
+
+
 ];
