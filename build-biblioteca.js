@@ -1,180 +1,133 @@
-// build-biblioteca.js
 const fs = require('fs');
 const path = require('path');
-const vm = require('vm');
 
-// --- 1. CONFIGURACIÓN DE RUTAS ---
-const carpetaDatos = path.join(__dirname, 'datos');
-const carpetaDramas = path.join(carpetaDatos, 'dramas');
-const archivoSalida = path.join(carpetaDatos, 'biblioteca.js');
+// Rutas del proyecto
+const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
+const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
-const rutaShips = path.join(carpetaDatos, 'SHIPS.js');
-const rutaPersonas = path.join(carpetaDatos, 'PERSONAS.js');
+/**
+ * Procesa un archivo individual y devuelve su objeto normalizado para biblioteca.js
+ */
+function compilarDramaParaBiblioteca(drama) {
+    if (!drama || !drama.codigo) return null;
 
-// --- 2. CARGADOR MULTI-MAYÚSCULA Y ROBUSTO ---
-function cargarArchivoGlobal(ruta, variantesNombres) {
-  if (!fs.existsSync(ruta)) {
-    console.warn(`⚠️ No existe el archivo: ${ruta}`);
-    return [];
-  }
-
-  try {
-    const contenido = fs.readFileSync(ruta, 'utf-8');
-    const context = { window: {} };
-
-    variantesNombres.forEach(nombre => {
-      context[nombre] = [];
-      context.window[nombre] = context[nombre];
-    });
-
-    vm.createContext(context);
-    vm.runInContext(contenido, context);
-
-    for (const nombre of variantesNombres) {
-      const res = context.window[nombre] || context[nombre];
-      if (Array.isArray(res) && res.length > 0) {
-        return res;
-      }
-    }
-
-    const inicioArray = contenido.indexOf('[');
-    const finArray = contenido.lastIndexOf(']');
-    
-    if (inicioArray !== -1 && finArray !== -1 && finArray > inicioArray) {
-      const codigoArray = contenido.substring(inicioArray, finArray + 1);
-      const evalFunc = new Function(`return ${codigoArray};`);
-      const resEval = evalFunc();
-      if (Array.isArray(resEval)) return resEval;
-    }
-
-    return [];
-  } catch (e) {
-    console.warn(`⚠️ Error leyendo desde ${ruta}:`, e.message);
-    return [];
-  }
-}
-
-const shipsGlobales = cargarArchivoGlobal(rutaShips, ['SHIPS', 'ships']);
-const personasGlobales = cargarArchivoGlobal(rutaPersonas, ['PERSONAS', 'personas']);
-
-console.log(`📌 Cargados ${shipsGlobales.length} ships desde SHIPS.js`);
-console.log(`📌 Cargadas ${personasGlobales.length} personas desde PERSONAS.js`);
-
-// --- 3. BÚSQUEDA RESOLUTIVA (SHIPS.JS -> PERSONAS.JS) ---
-function obtenerPrimerShipResuelto(itemShip, drama) {
-  if (!itemShip) return null;
-
-  const codigoBuscado = itemShip.ship || itemShip.codigo;
-
-  // OPCIÓN 1: Búsqueda en SHIPS.js por código oficial
-  if (codigoBuscado) {
-    const sEncontrado = shipsGlobales.find(s => 
-      s.codigo && String(s.codigo).trim().toUpperCase() === String(codigoBuscado).trim().toUpperCase()
+    // 1. Detección de Multimedia
+    const m = drama.multimedia || {};
+    const tieneMedia = Boolean(
+        (Array.isArray(m.trailer) && m.trailer.length > 0) ||
+        (Array.isArray(m.teaser) && m.teaser.length > 0) ||
+        (Array.isArray(m.pilot) && m.pilot.length > 0) ||
+        (Array.isArray(m.ost) && m.ost.length > 0) ||
+        (Array.isArray(m.videos) && m.videos.length > 0)
     );
 
-    if (sEncontrado && sEncontrado.nombre) {
-      return sEncontrado.nombre;
+    // 2. Extraer o formatear relaciones
+    const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
+        ? drama.franquicia.codigo
+        : (drama.franquicia || '');
+
+    const ordenFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
+        ? (Number(drama.franquicia.orden) || null)
+        : null;
+
+    const codUniverso = (drama.universo && typeof drama.universo === 'object')
+        ? drama.universo.codigo
+        : (drama.universo || '');
+
+    const codRemake = (drama.remake && typeof drama.remake === 'object')
+        ? drama.remake.codigo
+        : (drama.remake || '');
+
+    const ordenRemake = (drama.remake && typeof drama.remake === 'object')
+        ? (Number(drama.remake.orden) || null)
+        : null;
+
+    // 3. Resumen de Ship principal
+    let shipNombre = drama.ship || '';
+    let numShips = Array.isArray(drama.ships) ? drama.ships.length : (drama.numShips || 0);
+
+    // 4. Objeto final comprimido para biblioteca.js
+    return {
+        codigo: drama.codigo,
+        titulo: drama.titulo || '',
+        pais: Array.isArray(drama.pais) ? drama.pais : [],
+        anio: drama.anio || null,
+        tipo: drama.tipo || 'Drama',
+        estado: drama.estado || 'Finalizado',
+        activo: drama.activo !== undefined ? drama.activo : true,
+
+        // RELACIONES INCLUIDAS PARA BÚSQUEDA INSTANTÁNEA EN POPUPS
+        serie: drama.serie || '',
+        temporada: Number(drama.temporada) || 1,
+        temporadas: Number(drama.temporadas) || 1,
+        franquicia: codFranquicia ? { codigo: codFranquicia, orden: ordenFranquicia } : null,
+        universo: codUniverso ? { codigo: codUniverso } : null,
+        remake: codRemake ? { codigo: codRemake, orden: ordenRemake } : null,
+
+        // FLAGS BOOLEANAS DE UI
+        tieneSinopsis: Boolean(drama.sinopsis && drama.sinopsis.trim() !== ''),
+        tienePersonas: Boolean(Array.isArray(drama.personas) && drama.personas.length > 0),
+        tieneEntidades: Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0),
+        tieneMultimedia: tieneMedia,
+        tieneFranquicia: Boolean(codFranquicia),
+        tieneUniverso: Boolean(codUniverso),
+        tieneSerie: Boolean(drama.serie || Number(drama.temporadas) > 1),
+        tieneRemake: Boolean(codRemake),
+
+        // DATOS DE PORTADA Y SHIP
+        portada: drama.portada || (m.portada && m.portada[0]) || '',
+        ship: shipNombre,
+        numShips: numShips
+    };
+}
+
+/**
+ * Función principal que lee el directorio de datos y compila biblioteca.js
+ */
+function construirBiblioteca() {
+    console.log('🔄 Iniciando compilación de biblioteca.js...');
+
+    if (!fs.existsSync(RUTA_DRAMAS)) {
+        console.error('❌ Error: No se encontró la carpeta:', RUTA_DRAMAS);
+        return;
     }
-  }
 
-  // OPCIÓN 2: Búsqueda por mapa Personajes -> Drama.personas -> PERSONAS.js
-  if (itemShip.personajes && Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
-    if (Array.isArray(drama.personas) && drama.personas.length > 0) {
-      const codigosPersonas = itemShip.personajes.map(nombrePersonaje => {
-        const rel = drama.personas.find(p => p.nombre === nombrePersonaje);
-        return rel ? rel.persona : null;
-      }).filter(Boolean);
+    const archivos = fs.readdirSync(RUTA_DRAMAS).filter(f => f.endsWith('.js'));
+    const listaCompilada = [];
 
-      if (codigosPersonas.length >= 2) {
-        const nombresArtisticos = codigosPersonas.map(cod => {
-          const pEncontrada = personasGlobales.find(p => p.codigo === cod);
-          return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
-        }).filter(Boolean);
+    archivos.forEach(archivo => {
+        const rutaArchivo = path.join(RUTA_DRAMAS, archivo);
+        const contenido = fs.readFileSync(rutaArchivo, 'utf8');
 
-        if (nombresArtisticos.length >= 2) {
-          return nombresArtisticos.join(' & ');
+        try {
+            // Entorno de evaluación seguro para extraer el objeto JS del archivo individual
+            const sandbox = { window: {} };
+            const scriptFunction = new Function('window', contenido);
+            scriptFunction(sandbox.window);
+
+            const codigoDrama = archivo.replace('.js', '');
+            const dramaObjeto = sandbox.window[codigoDrama] || sandbox.window.DRAMA_ACTUAL || sandbox.window.dramaActual;
+
+            if (dramaObjeto) {
+                const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
+                if (elementoBiblio) listaCompilada.push(elementoBiblio);
+            } else {
+                console.warn(`⚠️ No se pudo extraer el objeto del archivo: ${archivo}`);
+            }
+        } catch (error) {
+            console.error(`❌ Error al procesar ${archivo}:`, error.message);
         }
-      }
-    }
-  }
+    });
 
-  return null;
+    // Ordenar por título por defecto
+    listaCompilada.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es', { sensitivity: 'base' }));
+
+    // Generar archivo final biblioteca.js
+    const contenidoOutput = `const biblioteca = ${JSON.stringify(listaCompilada, null, 2)};\n`;
+    fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
+
+    console.log(`✅ ¡Éxito! Se compilaron ${listaCompilada.length} dramas en ${RUTA_OUTPUT}`);
 }
 
-// --- 4. PROCESAR CARPETA /datos/dramas/ ---
-if (!fs.existsSync(carpetaDramas)) {
-  console.error(`❌ La carpeta '${carpetaDramas}' no existe.`);
-  process.exit(1);
-}
-
-const archivosDramas = fs.readdirSync(carpetaDramas).filter(f => f.endsWith('.js'));
-const listaBiblioteca = [];
-
-archivosDramas.forEach(archivo => {
-  const rutaArchivo = path.join(carpetaDramas, archivo);
-  const contenido = fs.readFileSync(rutaArchivo, 'utf-8');
-
-  try {
-    const context = { window: {} };
-    vm.createContext(context);
-    vm.runInContext(contenido, context);
-
-    const d = context.window.dramaActual || context.dramaActual || {};
-
-    if (d && d.codigo) {
-      const totalShips = Array.isArray(d.ships) ? d.ships.length : 0;
-      const primerShipNombre = totalShips > 0 ? obtenerPrimerShipResuelto(d.ships[0], d) : null;
-
-      const itemDrama = {
-        codigo: d.codigo,
-        titulo: d.titulo || '',
-        pais: Array.isArray(d.pais) ? d.pais : [],
-        anio: d.anio || null,
-        tipo: d.tipo || 'Serie',
-        temporada: d.temporada || 1,
-        estado: d.estado || 'Finalizado',
-        activo: d.activo !== undefined ? d.activo : true,
-
-        numEspeciales: Array.isArray(d.especiales) ? d.especiales.length : 0,
-        tieneSinopsis: typeof d.sinopsis === 'string' && d.sinopsis.trim().length > 0,
-        tieneOrigen: Boolean(d.origen),
-        tienePersonas: Array.isArray(d.personas) && d.personas.length > 0,
-        tieneEntidades: Array.isArray(d.entidades) && d.entidades.length > 0,
-        tieneMultimedia: Boolean(
-          d.multimedia && (
-            (d.multimedia.trailer && d.multimedia.trailer.length > 0) ||
-            (d.multimedia.ost && d.multimedia.ost.length > 0) ||
-            (d.multimedia.teaser && d.multimedia.teaser.length > 0)
-          )
-        ),
-
-        tieneFranquicia: Boolean(d.franquicia),
-        tieneUniverso: Boolean(d.universo),
-        tieneSerie: Boolean(d.serie),
-        tieneRemake: Boolean(d.remake)
-      };
-
-      // Adjunta la portada SOLO si está explícitamente declarada en multimedia.portada
-      if (Array.isArray(d.multimedia?.portada) && d.multimedia.portada.length > 0) {
-        itemDrama.portada = d.multimedia.portada[0];
-      }
-
-      // Adjunta el ship SOLO si se resolvió correctamente
-      if (primerShipNombre) {
-        itemDrama.ship = primerShipNombre;
-        itemDrama.numShips = totalShips;
-      }
-
-      listaBiblioteca.push(itemDrama);
-    }
-  } catch (err) {
-    console.error(`❌ Error al procesar '${archivo}':`, err.message);
-  }
-});
-
-// --- 5. GUARDAR EN /datos/biblioteca.js ---
-const lineasDramas = listaBiblioteca.map(drama => "  " + JSON.stringify(drama));
-const contenidoFinal = `/* ARCHIVO GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO */\nconst biblioteca = [\n${lineasDramas.join(',\n')}\n];\n`;
-
-fs.writeFileSync(archivoSalida, contenidoFinal, 'utf-8');
-console.log(`✅ ¡Éxito! Se ha actualizado 'datos/biblioteca.js' con ${listaBiblioteca.length} drama(s).`);
+// Ejecutar compilador
+construirBiblioteca();
