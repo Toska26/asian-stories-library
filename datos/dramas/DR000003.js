@@ -1,6 +1,6 @@
 /* ========================================== Still 2gether ========================================== */
 window.dramaActual = {
-    codigo: 'DR000003',    titulo: 'Still 2gether',    tituloOriginal: 'เพราะเรา(ยัง)คู่กัน',
+    codigo: 'DR000003',     titulo: 'Still 2gether',    tituloOriginal: 'เพราะเรา(ยัง)คู่กัน',
     alias: [],
     tipo: 'Drama',
     anio: 2020,
