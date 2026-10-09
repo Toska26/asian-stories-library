@@ -23,7 +23,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
-    "ship": "Sarawat & Tine",
+    "ship": "BrightWin",
     "numShips": 3
   },
   {
@@ -50,7 +50,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
-    "ship": "Sarawat & Tine",
+    "ship": "BrightWin",
     "numShips": 3
   },
   {
@@ -101,7 +101,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": false,
     "portada": "https://artworks.thetvdb.com/banners/posters/314649-1.jpg",
-    "ship": "Korn & Knock",
+    "ship": "MaxTul",
     "numShips": 4
   },
   {
@@ -179,7 +179,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg",
-    "ship": "Sarawat & Tine",
+    "ship": "BrightWin",
     "numShips": 3
   },
   {
@@ -203,7 +203,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg",
-    "ship": "Ji Hyun & Jae Won",
+    "ship": "Im Ji & Oh Jun",
     "numShips": 1
   },
   {
@@ -230,7 +230,7 @@ const biblioteca = [
     "tieneEntidades": true,
     "tieneMultimedia": true,
     "portada": "https://s.isanook.com/mv/0/ui/13/67289/c8aukntv4aawxm8_1491280258.jpg",
-    "ship": "Korn & Knock",
+    "ship": "MaxTul",
     "numShips": 4
   }
 ];
