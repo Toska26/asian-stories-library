@@ -97,24 +97,6 @@ const biblioteca = [
     "numShips": 1
   },
   {
-    "codigo": "DR000005",
-    "titulo": "The Eighth Sense",
-    "pais": [
-      "KR"
-    ],
-    "anio": 2023,
-    "tipo": "Drama",
-    "estado": "Finalizado",
-    "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": true,
-    "tieneEntidades": true,
-    "tieneMultimedia": true,
-    "portada": "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg",
-    "ship": "Im Ji & Oh Jun",
-    "numShips": 1
-  },
-  {
     "codigo": "DR000007",
     "titulo": "Together with Me",
     "pais": [
