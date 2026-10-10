@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000462",
+  "titulo": "Memory",
+  "alias": [
+    "Anh, Mình Bình Yên Nhé!",
+    "Mình Bình Yên Nhé"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2022-07-07",
+  "finalizacion": "2022-10-09",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Amnesia",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khánh Đăng",
+        "Anh Hào"
+      ]
+    }
+  ],
+  "sinopsis": "Tras sufrir un accidente, Khánh Đăng pierde parte de sus recuerdos y solo conserva la idea de que mantenía una relación con una mujer. La aparición de Anh Hào en sus sueños le hace cuestionarse sus recuerdos, sus sentimientos y su propia identidad.",
+  "activo": true
+}

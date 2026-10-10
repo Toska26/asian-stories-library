@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000313",
+  "titulo": "HeartBreak Mountain",
+  "alias": [
+    "HeartBreak Mountain The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-03-29",
+  "finalizacion": "2021-06-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Hadas",
+    "Venganza",
+    "Mitología"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Austin",
+        "John"
+      ]
+    }
+  ],
+  "sinopsis": "Austin es un ser mágico que cree haber sido traicionado por el hombre al que ama. Consumido por el dolor y el deseo de venganza, utiliza sus poderes contra quienes considera responsables de su sufrimiento. Mientras los secretos y las verdaderas circunstancias de la supuesta traición salen a la luz, Austin deberá enfrentarse a las consecuencias de sus decisiones y descubrir quién estuvo realmente a su lado.",
+  "activo": true
+}

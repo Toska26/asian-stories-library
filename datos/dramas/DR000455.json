@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000455",
+  "titulo": "The Most Peaceful Place Is My Place",
+  "alias": [
+    "Nơi Bình Yên Nhất Là Về Bên Em",
+    "The Most Peaceful Place Is with You",
+    "The Most Peaceful Place"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2021-03-23",
+  "finalizacion": "2021-05-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phúc",
+        "Tùng"
+      ]
+    }
+  ],
+  "sinopsis": "Tùng regresa a Đà Lạt y se queda con su amigo de la infancia Phúc. La convivencia hace aflorar sentimientos, malentendidos y conflictos que ponen a prueba su relación.",
+  "activo": true
+}

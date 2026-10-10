@@ -1,0 +1,130 @@
+{
+  "codigo": "DR000094",
+  "titulo": "That Summer",
+  "tituloOriginal": "ผมเจอเจ้าชายบนชายหาด",
+  "alias": [
+    "Pom Choe Chaochai Bon Chai Hat"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000094",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2025-09-19",
+  "finalizacion": "2025-11-21",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Aventura"
+  ],
+  "tags": [
+    "BL",
+    "Playa",
+    "Isla",
+    "Amnesia",
+    "Príncipe",
+    "Verano",
+    "Familia",
+    "Identidad oculta"
+  ],
+  "personas": [
+    {
+      "nombre": "Lava",
+      "persona": "PR000524",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Davin",
+      "persona": "PR000525",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pheng",
+      "persona": "PR000293",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wut",
+      "persona": "PR000555",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000085",
+      "personajes": [
+        "Lava",
+        "Davin"
+      ]
+    },
+    {
+      "ship": "SH000107",
+      "personajes": [
+        "Pheng",
+        "Wut"
+      ]
+    }
+  ],
+  "sinopsis": "Lava es enviado por su madre a vivir junto al mar con su tío Pheng. Allí encuentra en la playa a un joven que ha perdido la memoria y que resulta ser Davin, un príncipe. Mientras intenta descubrir quién es realmente, Lava lo acoge y lo llama Wave, y ambos comienzan a convivir mientras surge una relación cada vez más cercana. Al mismo tiempo, Pheng y el doctor Wut forman su propia historia alrededor de la vida en la isla.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/43/19/2f/43192fe46cf51d3f508c2696d56055e4.jpg",
+      "https://i.pinimg.com/736x/37/86/39/37863982a80618afe8f2109b20a56b62.jpg",
+      "https://i.pinimg.com/736x/d4/8d/9b/d48d9b05f8dc3ebe75cbca39c8b3d38a.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2Y2Yzk3NDUtNzA0My00MjQxLWFhYjItMDFlYjM4ZjIxNGE3XkEyXkFqcGc%40._V1_.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=oE2qF1AB-ks"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=-TYPNqkn9p4"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=0-TWkSAljyM",
+      "https://www.youtube.com/watch?v=ejF6Ye_aiGA",
+      "https://www.youtube.com/watch?v=0dpOb9QxZt0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000072",
+  "titulo": "Dangerous Romance",
+  "tituloOriginal": "หัวใจในสายลม",
+  "alias": [
+    "Hua Jai Nai Lom"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000072",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2023-08-18",
+  "finalizacion": "2023-11-03",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Kanghan",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sailom",
+      "persona": "PR000548",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000101",
+      "personajes": [
+        "Kanghan",
+        "Sailom"
+      ]
+    }
+  ],
+  "sinopsis": "Sailom es un estudiante becado con pocos recursos que, tras enfrentarse a Kanghan, un compañero rico y problemático, termina trabajando como su tutor particular. Lo que comienza como una relación marcada por los conflictos y las diferencias sociales se transforma gradualmente en una amistad y después en sentimientos que ninguno de los dos esperaba.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/bb/b0/17/bbb01756181ada9d0a2ec61a3a1a0e84.jpg",
+      "https://i.pinimg.com/736x/f5/73/2c/f5732cf3863d37167d6e026eaaaeb927.jpg",
+      "https://i.pinimg.com/1200x/8c/dd/3a/8cdd3a371c4f51a4cc53e3a4da4fe6b6.jpg",
+      "https://cms.dmpcdn.com/ugcarticle/2023/08/20/5a185af0-3f3b-11ee-8dbf-6f718e4dc00c_webp_original.webp",
+      "https://bancodeseries.com.br/images/posters/31433.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=-gV6qWZIJmg",
+      "https://www.youtube.com/watch?v=HEmIL-kZQjQ"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=8P9N82LkW7U",
+      "https://www.youtube.com/watch?v=nQj3Bw8qFAQ",
+      "https://www.youtube.com/watch?v=oYxA2EbIJFc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000660",
+  "titulo": "Shimbashi Koi Story – Final Chapter",
+  "tituloOriginal": "シンバシコイ物語 最終章",
+  "alias": [
+    "Shimbashi Koi Story 3",
+    "Shimbashi Koi Story: Final Chapter",
+    "Shimbashi Koi Story – Last Chapter"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000658",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 4,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2023-10-08",
+  "finalizacion": "2023-10-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+",
+    "Gay",
+    "Bar gay",
+    "Reencuentro",
+    "Separación",
+    "Segundas oportunidades",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tatsuya",
+        "Jun-nosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Tras una separación y varios meses sin contacto, Tatsuya y Jun-nosuke afrontan las consecuencias de sus decisiones mientras sus amigos intentan ayudarlos. Los sentimientos que todavía existen entre ambos vuelven a salir a la superficie y la historia llega a su capítulo final con un reencuentro y una nueva oportunidad para la pareja.",
+  "activo": true
+}

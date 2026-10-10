@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000297",
+  "titulo": "Got'chu Fam!",
+  "alias": [
+    "Got'chu Fam! The Series",
+    "Got'chu Fam! BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2020-11-29",
+  "finalizacion": "2021-02-14",
+  "generos": [
+    "BL",
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "sinopsis": "Cinco jóvenes —King, Kylie, Paul, Carlo y Spencer— viven juntos en una pensión e intentan salvar su hogar de una hipoteca mientras construyen una fuerte amistad.",
+  "activo": true
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "DR000103",
+  "titulo": "Where Your Eyes Linger",
+  "tituloOriginal": "너의 시선이 머무는 곳에",
+  "alias": [
+    "Neoeui Siseoni Meomuneun Gose",
+    "The Place Where Your Gaze Rests",
+    "Before Your Eyes Stop",
+    "Beyond Your Line of Sight"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000103",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2020-05-22",
+  "finalizacion": "2020-06-12",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Melodrama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Chaebol",
+    "Guardaespaldas",
+    "Amigos de infancia",
+    "Amor secreto",
+    "Familia",
+    "Artes marciales"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Tae-joo",
+      "persona": "PR000567",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang-gook",
+      "persona": "PR000568",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Tae-joo",
+        "Kang-gook"
+      ]
+    }
+  ],
+  "sinopsis": "Han Tae-joo es el único heredero de TB Group y vive bajo la estricta vigilancia de su familia. Su mejor amigo de la infancia, Kang-gook, es también su guardaespaldas y permanece siempre a su lado. Cuando una nueva compañera de clase comienza a acercarse a Kang-gook, los sentimientos que ambos habían mantenido ocultos empiezan a salir a la superficie y su relación deja de parecer una simple amistad.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/40/f3/d2/40f3d2c1535fd13a38c0929f796c3506.jpg",
+      "https://i.pinimg.com/736x/f4/db/64/f4db64b75323543809e6daedaa60b6c3.jpg",
+      "https://pimg.1px.tw/pink03049/1589087541-3219822327.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1166381v"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=DAkkbcKfwaU",
+      "https://www.youtube.com/watch?v=t_b61QULfTA",
+      "https://www.youtube.com/watch?v=Y0_urZWQJ5Q"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000058",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

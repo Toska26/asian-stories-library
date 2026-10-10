@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000691",
+  "titulo": "I Hear the Sunspot",
+  "tituloOriginal": "ひだまりが聴こえる",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "universo": "UN000024",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Hear the Sunspot",
+    "tituloOriginal": "ひだまりが聴こえる",
+    "autor": "Yuki Fumino",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-07-04",
+  "finalizacion": "2024-09-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Discapacidad auditiva",
+    "Amistad",
+    "Sanación",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sugihara Kohei",
+        "Sagawa Taichi"
+      ]
+    }
+  ],
+  "sinopsis": "Kohei Sugihara, un estudiante universitario con pérdida auditiva, mantiene las distancias con los demás hasta conocer a Taichi Sagawa. Taichi comienza a tomar apuntes para Kohei y, mientras ambos aprenden a comunicarse y a comprenderse, su relación se convierte en algo más profundo.",
+  "activo": true
+}

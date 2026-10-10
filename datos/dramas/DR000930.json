@@ -1,0 +1,80 @@
+{
+  "codigo": "DR000930",
+  "titulo": "Tin Tem Jai",
+  "tituloOriginal": "ติณณ์เต็มใจ",
+  "alias": [
+    "Tin Tem Jai The Series",
+    "Tin Tem Jai the Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Tin Tem Jai",
+    "tituloOriginal": "ติณณ์เต็มใจ",
+    "autor": "Taohu Khai",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 42,
+  "estado": "Finalizado",
+  "estreno": "2023-02-27",
+  "finalizacion": "2023-05-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Amor no correspondido",
+    "Amigos de la infancia",
+    "Vecinos",
+    "Compañeros de piso",
+    "Triángulo amoroso",
+    "Celos",
+    "Panadería",
+    "Vida cotidiana",
+    "Juventud",
+    "Familia",
+    "Universidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tin",
+        "Park"
+      ]
+    },
+    {
+      "personajes": [
+        "Pao",
+        "Khana"
+      ]
+    }
+  ],
+  "sinopsis": "Tin vive junto a la familia de Park, su vecino y amigo de toda la vida, por quien lleva años sintiendo algo más. Aunque Park rechaza constantemente sus intentos de acercamiento, Tin continúa persiguiendo su amor. La llegada de Plearn, un estudiante que muestra interés por Tin, hace que Park empiece a enfrentarse a sus propios sentimientos. Paralelamente, Pao y Khana desarrollan su propia relación dentro del grupo de amigos.",
+  "especiales": [
+    {
+      "titulo": "Special Episode 1",
+      "fecha": "2023-06-03",
+      "duracion": 38
+    },
+    {
+      "titulo": "Special Episode 2",
+      "fecha": "2023-06-04",
+      "duracion": 31
+    }
+  ],
+  "activo": true
+}

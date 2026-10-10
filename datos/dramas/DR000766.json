@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000766",
+  "titulo": "Bangkok G Story",
+  "tituloOriginal": "Bangkok G Story",
+  "alias": [
+    "Bangkok G Story ซีรี่ส์"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "Finalizado",
+  "estreno": "2017-12-09",
+  "finalizacion": "2018-09-08",
+  "generos": [
+    "LGBTQ+",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "G",
+        "M"
+      ]
+    },
+    {
+      "personajes": [
+        "T",
+        "B"
+      ]
+    }
+  ],
+  "sinopsis": "G se muda a Bangkok con la intención de encontrar un novio y comenzar una nueva vida. Allí comparte sus aventuras con T y B, dos amigos homosexuales con personalidades y formas de relacionarse muy diferentes. Mientras G busca una relación estable, T mantiene una vida sentimental y sexual mucho más complicada, y B intenta conseguir la vida que desea. La llegada de nuevos personajes y relaciones hace que los tres amigos tengan que enfrentarse al amor, los celos, la confianza y las consecuencias de sus decisiones.",
+  "especiales": [
+    {
+      "titulo": "Bangkok G Story: Samet Island",
+      "alias": [
+        "Samet Island"
+      ],
+      "tipo": "Especial",
+      "anio": 2019,
+      "episodios": 3,
+      "estreno": "2019-04-02"
+    }
+  ],
+  "activo": true
+}

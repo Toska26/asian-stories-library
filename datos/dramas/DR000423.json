@@ -1,0 +1,28 @@
+{
+  "codigo": "DR000423",
+  "titulo": "Trật Tự Mới",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "universo": "UN000013",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2019-06-19",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Crimen",
+    "Mafia",
+    "Lealtad",
+    "Amistad"
+  ],
+  "sinopsis": "Los conflictos del mundo criminal de Chợ Mới continúan mientras diferentes personajes se enfrentan por el poder, la lealtad y el establecimiento de un nuevo orden.",
+  "activo": true
+}

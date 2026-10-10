@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000702",
+  "titulo": "The Proper Way to Write Love",
+  "tituloOriginal": "恋愛ルビの正しいふりかた",
+  "alias": [
+    "Renai Rubi no Tadashii Furikata"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000702",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The Proper Way to Write Love",
+    "tituloOriginal": "恋愛ルビの正しいふりかた",
+    "autor": "Ogeretsu Tanaka",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 26,
+  "estado": "Finalizado",
+  "estreno": "2025-07-14",
+  "finalizacion": "2025-09-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Reencuentro",
+    "Instituto",
+    "Venganza",
+    "Compañeros de trabajo",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Suzuki Hiroshi",
+        "Washizawa Natsuo"
+      ]
+    }
+  ],
+  "sinopsis": "Suzuki Hiroshi, ahora un exitoso estilista, vuelve a encontrarse con Washizawa Natsuo, un antiguo compañero de instituto que formó parte de los recuerdos dolorosos de su adolescencia. Hiroshi decide iniciar una relación con él con la intención de vengarse por el pasado, pero sus sentimientos terminan tomando un rumbo inesperado.",
+  "activo": true
+}

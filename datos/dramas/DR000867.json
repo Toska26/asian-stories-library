@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000867",
+  "titulo": "What If",
+  "tituloOriginal": "สมมติว่า",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-22",
+  "finalizacion": "2022-09-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juvenil",
+    "Música"
+  ],
+  "tags": [
+    "Amigos de la infancia",
+    "Vecinos",
+    "Amor secreto",
+    "Coming of age",
+    "Universidad",
+    "Música",
+    "Reencuentro",
+    "Primer amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Peach",
+        "Smart"
+      ]
+    }
+  ],
+  "sinopsis": "Peach y Smart son vecinos y amigos inseparables desde niños. Aunque siempre han sentido algo especial el uno por el otro, ninguno se atreve a poner nombre a esos sentimientos. Cuando Peach comienza la universidad y se distancia de Smart, este comprende cuánto significa para él y decide ingresar en la misma universidad, donde ambos podrán reencontrarse y perseguir juntos su sueño de convertirse en cantantes.",
+  "activo": true
+}

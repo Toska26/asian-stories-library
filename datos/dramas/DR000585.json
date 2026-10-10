@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000585",
+  "titulo": "Archives: The Nanyang Mystery",
+  "tituloOriginal": "南部档案",
+  "alias": [
+    "The Southern Archives",
+    "The Southern Anecdote",
+    "The South Bureau",
+    "Nan Bu Dang An"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000022",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Southern Archives",
+    "tituloOriginal": "南部档案",
+    "autor": "Nanpai Sanshu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 33,
+  "duracion": 42,
+  "estado": "Finalizado",
+  "estreno": "2026-06-11",
+  "finalizacion": "2026-06-23",
+  "generos": [
+    "Misterio",
+    "Aventura",
+    "Acción",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación",
+    "Novela",
+    "Daomu Biji",
+    "The Grave Robbers’ Chronicles",
+    "Universo compartido",
+    "Época republicana",
+    "Investigación",
+    "Supervivencia"
+  ],
+  "sinopsis": "Durante los primeros años de la República de China, Zhang Haiyan y Zhang Haixia, miembros de los Archivos del Sur enviados por la familia Zhang, investigan una serie de sucesos misteriosos ocurridos en Nanyang. La investigación los conduce a una peligrosa conspiración relacionada con la familia Zhang y al gigantesco barco Nan’an, mientras Haiyan intenta descubrir la verdad y sobrevivir a una sucesión de amenazas.",
+  "activo": true
+}

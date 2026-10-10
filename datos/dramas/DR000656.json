@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000656",
+  "titulo": "More Than Words",
+  "tituloOriginal": "モアザンワーズ",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "More Than Words",
+    "tituloOriginal": "モアザンワーズ",
+    "autor": "Etsuko",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2022-09-16",
+  "finalizacion": "2022-09-16",
+  "generos": [
+    "LGBTQ+",
+    "Romance",
+    "Drama",
+    "Coming of age"
+  ],
+  "tags": [
+    "LGBTQ+",
+    "Juventud",
+    "Amistad",
+    "Amor",
+    "Familia",
+    "Presión social",
+    "Embarazo",
+    "Pareja del mismo sexo",
+    "Reencuentro",
+    "Relaciones complejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seno Makio",
+        "Fukunaga Eiji"
+      ]
+    },
+    {
+      "personajes": [
+        "Seno Makio",
+        "Sugimoto Asato"
+      ]
+    }
+  ],
+  "sinopsis": "Mieko y Makio son amigos de instituto que conocen a Eiji, un universitario con quien empiezan a compartir su vida cotidiana. Eiji y Makio se enamoran, pero la presión familiar y social altera profundamente su relación. Años después, Makio se reencuentra con Asato, un viejo conocido que poco a poco se convierte en una nueva persona importante en su vida.",
+  "activo": true
+}

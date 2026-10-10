@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000381",
+  "titulo": "Toreros",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 18,
+  "estado": "Finalizado",
+  "estreno": "2023-03-31",
+  "finalizacion": "2023-07-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción",
+    "Thriller"
+  ],
+  "tags": [
+    "Lucha clandestina",
+    "Supervivencia",
+    "Amor",
+    "Pobreza",
+    "Violencia",
+    "Sacrificio",
+    "Deseo",
+    "Traición",
+    "Prisioneros"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "New Blood",
+        "Blu Bull"
+      ]
+    },
+    {
+      "personajes": [
+        "Wild Child",
+        "Magician"
+      ]
+    }
+  ],
+  "sinopsis": "En un mundo de combates clandestinos, varios jóvenes se ven obligados a luchar para sobrevivir y conseguir dinero. New Blood entra en la competición y establece un vínculo cada vez más profundo con Blu Bull, mientras otros luchadores como Wild Child y Magician desarrollan su propia historia de amor. La violencia, la explotación, los sacrificios y la necesidad de sobrevivir ponen a prueba las relaciones que nacen dentro de la arena.",
+  "activo": true
+}

@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000356",
+  "titulo": "PRE-BO: The Beginning",
+  "alias": [
+    "PRE-BO",
+    "PRE-BO The Beginning"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000010",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2022-02-24",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Matrimonio",
+    "Infidelidad",
+    "Secretos",
+    "Pasión",
+    "Deseo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pablo Baldemor",
+        "Preston Boris Odevillas"
+      ]
+    },
+    {
+      "personajes": [
+        "Pablo Baldemor",
+        "Alexa"
+      ]
+    }
+  ],
+  "sinopsis": "Vincent Magbanua y Precious Burton interpretan a un matrimonio al borde de la ruptura. La aparición de un hombre misterioso, interpretado por Vin Drigo, desencadena una serie de secretos y pasiones que transforman la relación entre los personajes y conducen la historia hacia un desenlace explosivo.",
+  "activo": true
+}

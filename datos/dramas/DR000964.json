@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000964",
+  "titulo": "Peaceful Property",
+  "tituloOriginal": "บ้านหลอน On Sale",
+  "alias": [
+    "Peaceful Property",
+    "Peaceful Property On Sale",
+    "Ban Lon On Sale",
+    "Haunted House On Sale"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 46,
+  "estado": "Finalizado",
+  "estreno": "2024-08-28",
+  "finalizacion": "2024-11-13",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural",
+    "Terror"
+  ],
+  "tags": [
+    "Fantasmas",
+    "Exorcismo",
+    "Familia",
+    "Herencia",
+    "Casas encantadas"
+  ],
+  "sinopsis": "Home, heredero de una familia rica y famosa, regresa a Tailandia tras la muerte de su abuelo para hacerse cargo de una herencia formada por varias propiedades consideradas malditas. Para poder venderlas debe enfrentarse a los espíritus que las habitan. Peach, un chef que desarrolla la capacidad de ver fantasmas después de un accidente, se convierte en su aliado para resolver los casos sobrenaturales. Juntos forman un equipo junto a sus familiares y amigos mientras descubren los secretos de las casas.",
+  "activo": true
+}

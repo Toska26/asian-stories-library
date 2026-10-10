@@ -1,0 +1,98 @@
+{
+  "codigo": "DR000086",
+  "titulo": "Cupid's Last Wish",
+  "tituloOriginal": "พินัยกรรมกามเทพ",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000086",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "43 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-21",
+  "finalizacion": "2022-03-22",
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Aventura"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Cambio de cuerpo",
+    "Amistad",
+    "Viaje"
+  ],
+  "personas": [
+    {
+      "nombre": "Korn",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Win",
+      "persona": "PR000514",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000079",
+      "personajes": [
+        "Korn",
+        "Win"
+      ]
+    }
+  ],
+  "sinopsis": "Win y su hermana Lin sufren un accidente que provoca que sus cuerpos se intercambien. Win, atrapado en el cuerpo de su hermana, debe emprender un viaje junto a Korn, su antiguo mejor amigo, para conseguir el agua sagrada de cuatro templos y recuperar su cuerpo antes de que se cumplan siete días. Durante el viaje, la relación entre ambos comienza a cambiar y los sentimientos que habían permanecido ocultos salen a la luz.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/72/42/c1/7242c13ff0d652dea76620160fb32cc3.jpg",
+      "https://i.pinimg.com/1200x/01/f5/46/01f546dbc6cb0863c0fa7a748d7e05e2.jpg",
+      "https://i.pinimg.com/1200x/f9/e4/d7/f9e4d78e6a2c49d4e79208a040c36da2.jpg",
+      "https://media.senscritique.com/media/000020377948/0/cupid_s_last_wish.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=_-M8vcelnQM"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=zpys4Ga3q_Q",
+      "https://www.youtube.com/watch?v=muL7HT50TXA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000026",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

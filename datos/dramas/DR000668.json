@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000668",
+  "titulo": "Tokyo in April Is...",
+  "tituloOriginal": "４月の東京は…",
+  "alias": [
+    "Shigatsu no Tokyo wa...",
+    "4gatsu no Tokyo wa..."
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Tokyo in April Is...",
+    "tituloOriginal": "４月の東京は…",
+    "autor": "Haru",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-06-16",
+  "finalizacion": "2023-08-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Reencuentro",
+    "Amigos de infancia",
+    "Primer amor",
+    "Oficina",
+    "Secretos",
+    "Trauma",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Takizawa Kazuma",
+        "Ishihara Ren"
+      ]
+    }
+  ],
+  "sinopsis": "Después de pasar diez años en Estados Unidos, Takizawa Kazuma regresa a Tokio y comienza a trabajar en una prestigiosa agencia de publicidad. Allí descubre que su antiguo mejor amigo y primer amor, Ishihara Ren, trabaja en la misma empresa. El reencuentro despierta sentimientos del pasado, pero Ren mantiene una actitud fría y distante mientras ambos intentan enfrentarse a los secretos que los separaron.",
+  "activo": true
+}

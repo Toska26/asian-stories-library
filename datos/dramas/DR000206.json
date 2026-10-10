@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000206",
+  "titulo": "Uncovered",
+  "tituloOriginal": "벗는사이",
+  "alias": [
+    "Uncovered",
+    "Beotneun Sai"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "12 min",
+  "estado": "Finalizado",
+  "estreno": "2026-08-09",
+  "finalizacion": "2026-09-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Exparejas",
+    "Segunda oportunidad",
+    "Fotografía",
+    "Fotógrafo",
+    "Lugar de trabajo",
+    "Reencuentro",
+    "Rencor",
+    "Deseo",
+    "Angst",
+    "18+"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Seojin",
+      "persona": "PR000750",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Taeyun",
+      "persona": "PR000751",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Seojin",
+        "Taeyun"
+      ]
+    }
+  ],
+  "sinopsis": "Han Seojin vuelve a encontrarse con Taeyun cuando el trabajo y la fotografía los colocan de nuevo frente a frente. Lo que parecía un capítulo cerrado de su pasado empieza a abrirse cuando las antiguas heridas chocan con una atracción que nunca desapareció por completo. Entre cámaras, silencios y recuerdos, ambos deberán decidir si pueden enfrentarse a aquello que los separó.",
+  "entidades": [
+    {
+      "codigo": "EN000155",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000154",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000488",
+  "titulo": "Hehe & He",
+  "alias": [
+    "我的HeHe室友 第一季",
+    "Hehe & He Season 1"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "serie": "SR000488",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2018-10-04",
+  "finalizacion": "2020-04-10",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Sitcom",
+    "Compañeros de piso",
+    "Amistad",
+    "Vida cotidiana",
+    "Convivencia",
+    "Homosexualidad",
+    "Amor",
+    "Relaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zik",
+        "Radar"
+      ]
+    }
+  ],
+  "sinopsis": "Zik y Radar son dos jóvenes muy diferentes que terminan compartiendo piso en Hong Kong. Zik es abiertamente gay, mientras que Radar se considera heterosexual, y la convivencia entre ambos da lugar a situaciones cotidianas llenas de humor, incomodidades y momentos de afecto. A medida que comparten problemas, amistades y experiencias, su relación se vuelve cada vez más cercana y difícil de definir.",
+  "especiales": [
+    "EP0",
+    "Special Episode 1",
+    "Special Episode 2"
+  ],
+  "activo": true
+}

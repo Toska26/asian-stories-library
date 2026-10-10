@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000957",
+  "titulo": "The Rebound",
+  "tituloOriginal": "เกมนี้เพื่อนาย",
+  "alias": [
+    "The Rebound",
+    "The Rebound Series",
+    "Game Ni Phuea Nai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 49,
+  "estado": "Finalizado",
+  "estreno": "2024-06-26",
+  "finalizacion": "2024-08-01",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Deportes"
+  ],
+  "tags": [
+    "Adaptación?",
+    "Baloncesto",
+    "Instituto",
+    "Amigos a amantes",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryu",
+        "Zen"
+      ]
+    }
+  ],
+  "sinopsis": "Zen, estudiante de undécimo curso, lucha por conseguir una beca que le permita continuar sus estudios mientras intenta salvar el club de baloncesto de su instituto. Para reconstruir el equipo vuelve a encontrarse con Ryu, su antiguo mejor amigo, con quien mantiene asuntos pendientes. Mientras trabajan juntos por el futuro del equipo, la antigua amistad entre ambos comienza a transformarse en algo más.",
+  "activo": true
+}

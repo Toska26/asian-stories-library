@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000306",
+  "titulo": "Influencers",
+  "alias": [
+    "#Influencers",
+    "Influencers The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "universo": "UN000008",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2020-11-18",
+  "finalizacion": "2021-01-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Influencers",
+    "Redes sociales",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ram Agoncillo",
+        "Migo Valle"
+      ]
+    }
+  ],
+  "sinopsis": "Ram Agoncillo, un influencer dedicado a mostrar su vida cotidiana, y Migo Valle, un analista y comentarista sociopolítico, pertenecen a mundos muy diferentes dentro de las redes sociales. Cuando sus caminos se cruzan, ambos comienzan a desarrollar una relación mientras afrontan la presión de las redes, el juicio social y las dificultades de mostrar su verdadero yo ante el público.",
+  "activo": true
+}

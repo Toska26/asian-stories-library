@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000565",
+  "titulo": "Happy, Happy",
+  "tituloOriginal": "开心开心",
+  "alias": [
+    "Happy Happy",
+    "Pink Summer 2",
+    "Pink Summer Season 2",
+    "Before the End of the Summer 2",
+    "这个夏天结束前2",
+    "这个夏天结束前第二季"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000564",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 40,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2025-08-30",
+  "finalizacion": "2025-08-30",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Bromance",
+    "Secuela",
+    "Reencuentro",
+    "Trabajo",
+    "Amistad",
+    "Miniserie",
+    "Episodios cortos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sheng Kai Xin",
+        "Gu Yi Sen"
+      ]
+    }
+  ],
+  "sinopsis": "Sheng Kai Xin, de 28 años, se encuentra en el peor momento de su vida tras quedar en bancarrota, perder su trabajo y ser perseguido por sus deudas. Cuando consigue un nuevo empleo, descubre que su jefe Gu Yi Sen es un antiguo amigo de la infancia que desapareció de su vida diez años atrás. El reencuentro desencadena una serie de situaciones entre ambos.",
+  "activo": true
+}

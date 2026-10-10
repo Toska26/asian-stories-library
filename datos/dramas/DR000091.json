@@ -1,0 +1,176 @@
+{
+  "codigo": "DR000091",
+  "titulo": "We Are",
+  "tituloOriginal": "We Are คือเรารักกัน",
+  "alias": [
+    "We Are คือเรารักกัน"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000091",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2024-04-03",
+  "finalizacion": "2024-07-17",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Estudiantes",
+    "Amistad",
+    "Vida universitaria",
+    "Enamoramiento"
+  ],
+  "personas": [
+    {
+      "nombre": "Phum",
+      "persona": "PR000515",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Peem",
+      "persona": "PR000284",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Q",
+      "persona": "PR000524",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Toey",
+      "persona": "PR000525",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tan",
+      "persona": "PR000533",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang",
+      "persona": "PR000534",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chain",
+      "persona": "PR000561",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pun",
+      "persona": "PR000556",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000080",
+      "personajes": [
+        "Phum",
+        "Peem"
+      ]
+    },
+    {
+      "ship": "SH000085",
+      "personajes": [
+        "Q",
+        "Toey"
+      ]
+    },
+    {
+      "ship": "SH000092",
+      "personajes": [
+        "Tan",
+        "Fang"
+      ]
+    },
+    {
+      "ship": "SH000113",
+      "personajes": [
+        "Chain",
+        "Pun"
+      ]
+    }
+  ],
+  "sinopsis": "Un grupo de amigos universitarios intenta compaginar sus estudios, la amistad y los sentimientos que comienzan a surgir entre ellos. Phum y Peem, Q y Toey, Tan y Fang, y Chain y Pun vivirán diferentes etapas de sus relaciones mientras descubren que el amor puede aparecer en medio de la amistad y de las situaciones más caóticas de la vida universitaria.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/fa/2f/04/fa2f044dea673902a386061519533709.jpg",
+      "https://i.pinimg.com/736x/3a/79/3a/3a793a544640dfee9ec27869bdd8c87c.jpg",
+      "https://i.pinimg.com/1200x/70/9a/e0/709ae096a8e4023777c06fead82829fd.jpg",
+      "https://i.pinimg.com/736x/cc/f3/bb/ccf3bbc9d5afe4aec80cc166ed430925.jpg",
+      "https://i.pinimg.com/736x/48/bf/88/48bf8882b625705e3be03b73dee350e7.jpg",
+      "https://i.pinimg.com/736x/2b/a7/c7/2ba7c715e9cb1b540d937157bc4a5797.jpg",
+      "https://i.pinimg.com/1200x/9c/42/e6/9c42e63e276dfc973ad564a8f83ffc1e.jpg",
+      "https://bldramas.com/wp-content/uploads/2024/04/we-are-poster.webp"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=LHiFM1mfahk"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=RRD1Rtsj4cE",
+      "https://www.youtube.com/watch?v=3Om0znCNfJ0",
+      "https://www.youtube.com/watch?v=-Y9NfUPdlFg",
+      "https://www.youtube.com/watch?v=B9RqVCGTRxE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

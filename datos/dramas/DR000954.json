@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000954",
+  "titulo": "Season of Love in Shimane",
+  "tituloOriginal": "Ai no Kisetsu ฤดูกาลแห่งรัก in Shimane",
+  "alias": [
+    "Season of Love",
+    "Ai no Kisetsu",
+    "ฤดูกาลแห่งรัก in Shimane",
+    "Kiseki Season of Miracles"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000048",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2025-05-18",
+  "finalizacion": "2025-07-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Viajes",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Relación a distancia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "P",
+        "Pan"
+      ]
+    },
+    {
+      "personajes": [
+        "Plai",
+        "PJ"
+      ]
+    }
+  ],
+  "sinopsis": "Un año después de su viaje a Tokio, P se instala en Shimane para trabajar como bloguero de viajes. Cuando Pan regresa a Japón acompañado por su representante y el joven artista PJ, P vuelve a enfrentarse a los sentimientos que nunca llegó a expresar. Mientras P y Pan intentan descubrir qué quieren de su relación, Plai también encuentra una nueva conexión con PJ.",
+  "activo": true
+}

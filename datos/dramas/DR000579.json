@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000579",
+  "titulo": "He Should Have Shone Brightly",
+  "tituloOriginal": "他本该光芒万丈",
+  "alias": [
+    "Ta Ben Gai Guang Mang Wan Zhang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 69,
+  "duracion": 2,
+  "estado": "Finalizado",
+  "estreno": "2025-08-06",
+  "finalizacion": "2025-08-08",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Bromance",
+    "Familia adoptiva",
+    "Amnesia",
+    "Reencuentro",
+    "Protección",
+    "Conflicto familiar",
+    "Vertical",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "A Che",
+        "Fu Wen Shu"
+      ]
+    }
+  ],
+  "sinopsis": "A Che, heredero adoptivo de la familia Fu, se mueve dentro de una familia marcada por el control y los secretos. Su relación con Fu Wen Shu, también adoptado por la familia, queda marcada por una mezcla de protección, conflicto y vínculos de infancia. Después de un accidente que provoca que A Che pierda la memoria, ambos vuelven a enfrentarse a los recuerdos de su pasado.",
+  "activo": true
+}

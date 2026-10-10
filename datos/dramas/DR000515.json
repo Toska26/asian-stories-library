@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000515",
+  "titulo": "Holy Fox Son 2: Fairy Mountain Battle",
+  "tituloOriginal": "灵狐圣子2：仙山大战",
+  "alias": [
+    "Holy Fox Son 2",
+    "Holy Fox Son: Fairy Mountain Battle",
+    "Ling Hu Sheng Zi 2: Xian Shan Da Zhan"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000031",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2017-08-25",
+  "finalizacion": "2017-08-25",
+  "generos": [
+    "BL",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Fantasía",
+    "Precuela"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Bai",
+        "Xiao Jing Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Segunda película de la franquicia The Fairy Fox y continuación de Holy Fox Son 1: Advent. La historia desarrolla los acontecimientos relacionados con Lu Bai y el conflicto entre los clanes sobrenaturales.",
+  "activo": true
+}

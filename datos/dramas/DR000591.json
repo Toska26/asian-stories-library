@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000591",
+  "titulo": "A Mountain Can Hold Two Tigers",
+  "tituloOriginal": "一山能容二虎",
+  "alias": [
+    "Yi Shan Neng Rong Er Hu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "A Mountain Can Hold Two Tigers",
+    "tituloOriginal": "一山能容二虎",
+    "autor": "Liang Xin",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 14,
+  "estado": "Finalizado",
+  "estreno": "2026-05-03",
+  "finalizacion": "2026-05-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Novela BL",
+    "Rivales",
+    "Enemigos a amantes",
+    "Celebridades",
+    "Industria del entretenimiento",
+    "Amor secreto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mu Yaoxin",
+        "Yuan Jinyong"
+      ]
+    }
+  ],
+  "sinopsis": "En Tianjing Entertainment, Mu Yaoxin, un reconocido actor, y Yuan Jinyong, una de las mayores estrellas de la música, son dos figuras que aparentemente no pueden soportarse. Su rivalidad pública oculta unos sentimientos mucho más profundos, mientras ambos deben enfrentarse a las consecuencias de una relación que desafía la imagen que mantienen ante los demás.",
+  "activo": true
+}

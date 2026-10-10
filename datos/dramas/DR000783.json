@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000783",
+  "titulo": "3 Will Be Free",
+  "tituloOriginal": "สามเราต้องรอด",
+  "alias": [
+    "3 Will Be Free: The Series",
+    "Three Will Be Free",
+    "สามเราต้องรอด"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2019-08-09",
+  "finalizacion": "2019-10-11",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Romance",
+    "Crimen",
+    "Thriller"
+  ],
+  "tags": [
+    "Mafia",
+    "Crimen",
+    "Acción",
+    "Supervivencia",
+    "Trabajo sexual",
+    "Poliamor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Neo",
+        "Miw",
+        "Shin"
+      ]
+    }
+  ],
+  "sinopsis": "Neo, un stripper que huye de la organización criminal de Thana, se encuentra con Shin, el hijo de Thana, y Miw, la gerente de un bar go-go. Tras verse involucrados en un asesinato durante la huida, los tres se ven obligados a escapar juntos mientras afrontan la persecución de los criminales y los sentimientos que surgen entre ellos.",
+  "activo": true
+}

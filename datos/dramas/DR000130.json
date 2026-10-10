@@ -1,0 +1,106 @@
+{
+  "codigo": "DR000130",
+  "titulo": "Roommates of Poongduck 304",
+  "tituloOriginal": "풍덕빌라 304호의 사정",
+  "alias": [
+    "Roommates of Poongduck 304",
+    "The Circumstances of Pungdeok Villa Room 304"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000003",
+  "serie": "SR000130",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-13",
+  "finalizacion": "2022-11-03",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Chaebol",
+    "Convivencia",
+    "Compañeros de trabajo",
+    "Casero e inquilino",
+    "Enemigos a amantes",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Ho Joon",
+      "persona": "PR000589",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seo Jae Yoon",
+      "persona": "PR000026",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji Ho Joon",
+        "Seo Jae Yoon"
+      ]
+    }
+  ],
+  "sinopsis": "Ji Ho Jun es un chaebol de tercera generación que recibe de su padre un ultimátum: abandonar su cómoda vida, sobrevivir sin dinero durante dos años y demostrar que puede convertirse en un buen líder dentro de la empresa familiar. Obligado a mudarse, termina alquilando una habitación en la villa de Seo Jae Yoon, un hombre con quien choca desde el primer momento. La situación se complica cuando ambos descubren que también trabajan en la misma empresa y que Jae Yoon pasa a formar parte del equipo dirigido por Ho Jun.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/2c/5e/eb/2c5eeb82fd73ba4919caf7d629189418.jpg",
+      "https://i.pinimg.com/736x/78/4b/44/784b44d45d7b37400976e20f4bbcedf5.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1201304v"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=DDAyMSLlSeA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

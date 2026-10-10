@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000460",
+  "titulo": "The Promise",
+  "alias": [
+    "Biển Lặng"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2022-04-22",
+  "finalizacion": "2022-05-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "LGBTQ+",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tân",
+        "Vũ"
+      ]
+    }
+  ],
+  "sinopsis": "Tân y Vũ son hermanastros que viven bajo el mismo techo y mantienen una relación conflictiva. Mientras afrontan problemas escolares y familiares, sus sentimientos comienzan a superar los límites de una relación fraternal.",
+  "activo": true
+}

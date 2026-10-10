@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000651",
+  "titulo": "Senpai, This Can't Be Love!",
+  "tituloOriginal": "先輩、断じて恋では！",
+  "alias": [
+    "Senpai, Danjite Koi de wa!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Senpai, This Can't Be Love!",
+    "tituloOriginal": "先輩、断じて恋では！",
+    "autor": "Shinta Harekawa",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2022-06-17",
+  "finalizacion": "2022-08-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Senpai y kouhai",
+    "Diseño",
+    "Trabajo",
+    "Primer amor",
+    "Slow burn"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yanase Atsushi",
+        "Kaneda Yuki"
+      ]
+    }
+  ],
+  "sinopsis": "Yanase Atsushi, un diseñador gráfico experimentado, recibe como nuevo compañero a Kaneda Yuki, un diseñador novato al que ya conocía de su etapa como estudiante. Yanase intenta ayudarlo y acercarse profesionalmente, pero la actitud distante de Kaneda hace que sus sentimientos se vuelvan cada vez más difíciles de ignorar.",
+  "activo": true
+}

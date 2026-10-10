@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000767",
+  "titulo": "Slam Dance",
+  "tituloOriginal": "ทุ่มฝันสนั่นฟลอร์",
+  "alias": [
+    "Slam Dance: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2017-05-13",
+  "finalizacion": "2017-08-05",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Deportes",
+    "Juvenil",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nick",
+        "Pob"
+      ]
+    }
+  ],
+  "sinopsis": "En una universidad deportiva, los estudiantes de danza deportiva y los de lucha libre se convierten en rivales cuando ambas disciplinas compiten por mantener sus respectivos departamentos. Mientras los equipos afrontan entrenamientos, competiciones y conflictos personales, los nuevos luchadores Pob y Nick comienzan a desarrollar sentimientos el uno por el otro, a pesar de las estrictas reglas de su disciplina que prohíben las relaciones entre compañeros.",
+  "activo": true
+}

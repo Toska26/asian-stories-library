@@ -1,0 +1,228 @@
+{
+  "codigo": "DR000031",
+  "titulo": "Remember Me",
+  "tituloOriginal": "ความรักเขียนด้วยความรัก",
+  "alias": [
+    "Remember Me The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2022-10-09",
+  "finalizacion": "2023-01-08",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amistad",
+    "Coming of Age"
+  ],
+  "personas": [
+    {
+      "nombre": "Gun",
+      "persona": "PR000248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Golf",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Name",
+      "persona": "PR000316",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Em",
+      "persona": "PR000317",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nan",
+      "persona": "PR000066",
+      "funcion": [
+        "Actor",
+        "Director"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Champ",
+      "persona": "PR000250",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gun’s Mother",
+      "persona": "PR000199",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ’s Grandfather",
+      "persona": "PR000318",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ’s Mother",
+      "persona": "PR000319",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Po",
+      "persona": "PR000320",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cha-em",
+      "persona": "PR000321",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "NoName",
+      "persona": "PR000322",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Young Gun",
+      "persona": "PR000323",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ’s Father",
+      "persona": "PR000324",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chompu",
+      "persona": "PR000345",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000075",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000343",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000344",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000040",
+      "personajes": [
+        "Golf",
+        "Gun"
+      ]
+    },
+    {
+      "ship": "SH000058",
+      "personajes": [
+        "Em",
+        "Name"
+      ]
+    },
+    {
+      "ship": "SH000059",
+      "personajes": [
+        "Nan",
+        "Chompu"
+      ]
+    }
+  ],
+  "sinopsis": "En un pequeño barrio de Tailandia, un grupo de amigos crece unido mientras sus vidas van cambiando al ritmo de una nueva era de comunicación. Gun comienza a cartearse con Golf, un estudiante de otra escuela al que conoce únicamente a través de sus cartas, y con el paso de los años su relación evoluciona de las cartas al MSN y, posteriormente, a otras formas de comunicación. Mientras tanto, Em intenta mantener el contacto con Name, su amigo de la infancia, cuya dificultad para comunicarse hace que sus sentimientos permanezcan ocultos durante mucho tiempo. Nan, el más despreocupado del grupo, también descubrirá que el amor puede aparecer de la forma más inesperada, mientras Champ intenta encontrar su propio camino lejos de su familia. A medida que los amigos pasan de la adolescencia a la universidad y después a la vida adulta, deberán enfrentarse a la distancia, los cambios, los malentendidos, las pérdidas y los sentimientos que durante años no se atrevieron a expresar. A través de cartas, ordenadores, teléfonos y mensajes, Remember Me retrata el paso del tiempo y demuestra que, aunque las formas de comunicarnos cambien, algunas personas permanecen conectadas en nuestra memoria y en nuestro corazón.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/w500/gArcpCalXZ5szroNrXPueV9InAT.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=9W5E2WrmaXc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000032",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000033",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

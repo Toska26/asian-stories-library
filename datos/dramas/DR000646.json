@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000646",
+  "titulo": "Kei × Yaku: Dangerous Partners",
+  "tituloOriginal": "ケイ×ヤク −あぶない相棒−",
+  "alias": [
+    "Kei × Yaku: Abunai Aibou"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Kei × Yaku: Dangerous Partners",
+    "tituloOriginal": "ケイ×ヤク −あぶない相棒−",
+    "autor": "Yoshie Kaoruhara",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2022-01-13",
+  "finalizacion": "2022-03-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Acción",
+    "Thriller",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Policía",
+    "Yakuza",
+    "Falsa relación",
+    "Pareja de conveniencia",
+    "Convivencia",
+    "Misterio",
+    "Investigación",
+    "Suspense"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kunishita Ichiro",
+        "Hanabusa Shiro"
+      ]
+    }
+  ],
+  "sinopsis": "Kunishita Ichiro, investigador de la Policía Metropolitana, recibe la misión de vigilar a Hanabusa Shiro, el joven líder de una organización yakuza. Ambos terminan formando una alianza para investigar un caso sin resolver relacionado con una desaparición ocurrida tres años atrás y, para ocultar su verdadera relación, fingen ser pareja. Mientras avanzan en la investigación, su vínculo se vuelve cada vez más profundo.",
+  "activo": true
+}

@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000979",
+  "titulo": "MU-TE-LUV: Not My Father",
+  "tituloOriginal": "พระบิดาแกสิ",
+  "alias": [
+    "Not My Father",
+    "MuTeLuv: Not My Father",
+    "Not My Father!"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-09-22",
+  "finalizacion": "2025-10-13",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Sobrenatural",
+    "Misterio"
+  ],
+  "tags": [
+    "Culto",
+    "Superstición",
+    "Investigación",
+    "Universitario",
+    "Crimen",
+    "Amor no correspondido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ploy",
+        "Phupha"
+      ]
+    }
+  ],
+  "sinopsis": "La vida tranquila de Ploy cambia cuando Phupha, el estudiante veterano del que está enamorada, la invita a participar en una peligrosa misión para investigar a la familia Chantharusati, un culto que extiende su fanatismo supersticioso por la región. Mientras Ploy intenta acercarse a Phupha, Wutkrai, un joven miembro del culto, vigila cada uno de sus movimientos y la investigación la lleva cada vez más cerca de un líder conocido como el Padre.",
+  "activo": true
+}

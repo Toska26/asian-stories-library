@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000244",
+  "titulo": "Double Shuffle",
+  "tituloOriginal": "心機",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000021",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 0,
+  "duracion": "",
+  "estado": "Próximo estreno",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Continuación",
+    "Crimen",
+    "Mafia",
+    "Reencuentro"
+  ],
+  "sinopsis": "Continuación de Kiseki: Dear to Me centrada en nuevos acontecimientos relacionados con el entorno criminal y los personajes de la historia original.",
+  "activo": true
+}

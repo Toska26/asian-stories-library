@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000907",
+  "titulo": "Hit Bite Love",
+  "tituloOriginal": "รักชอบเจ็บ",
+  "alias": [
+    "Hit Bite Love The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "52 min",
+  "estado": "Finalizado",
+  "estreno": "2023-01-21",
+  "finalizacion": "2023-02-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amor adolescente",
+    "Relación secreta",
+    "Hermanastros",
+    "Triángulo amoroso",
+    "Investigación policial",
+    "Muerte misteriosa"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ken",
+        "Shokun"
+      ]
+    },
+    {
+      "personajes": [
+        "Burger",
+        "King"
+      ]
+    },
+    {
+      "personajes": [
+        "Hida",
+        "Saint"
+      ]
+    }
+  ],
+  "sinopsis": "Las historias de varios estudiantes se entrelazan alrededor del amor, los secretos y las consecuencias de sus decisiones. Ken y Shokun mantienen una relación secreta; Burger y King se acercan tras un malentendido; y Hida desarrolla sentimientos por Saint, su hermanastro. Todas las historias quedan conectadas por una investigación policial relacionada con la muerte de un estudiante.",
+  "especiales": [
+    {
+      "titulo": "Hit Bite Love: Episode 0",
+      "tituloOriginal": "Episode 0",
+      "anio": 2023,
+      "fecha": "2023-01-14"
+    }
+  ],
+  "activo": true
+}

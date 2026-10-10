@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000473",
+  "titulo": "Teenager Judge",
+  "alias": [
+    "Thẩm Phán Học Đường"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "Finalizado",
+  "estreno": "2024-09-28",
+  "finalizacion": "2025-02-22",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Bullying",
+    "Justicia",
+    "Vigilante",
+    "Acoso escolar",
+    "Amistad",
+    "Adolescencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hoàng Bách",
+        "Minh Đạt"
+      ]
+    }
+  ],
+  "sinopsis": "En un instituto marcado por el acoso, los conflictos entre estudiantes y los problemas que permanecen ocultos tras la vida escolar cotidiana, Hoàng Bách y Minh Đạt desarrollan una relación que evoluciona mientras ambos afrontan las dificultades de su entorno. La historia combina romance juvenil con una trama centrada en el bullying, la justicia y las consecuencias de los abusos dentro del instituto.",
+  "activo": true
+}

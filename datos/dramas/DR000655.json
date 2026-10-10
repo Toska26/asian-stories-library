@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000655",
+  "titulo": "Candy Color Paradox",
+  "tituloOriginal": "飴色パラドックス",
+  "alias": [
+    "Ameiro Paradox"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Candy Color Paradox",
+    "tituloOriginal": "飴色パラドックス",
+    "autor": "Isaku Natsume",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2022-12-15",
+  "finalizacion": "2023-02-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Rivales a amantes",
+    "Periodismo",
+    "Investigación",
+    "Pareja de trabajo",
+    "Slow burn",
+    "Kenka couple"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Onoe Satoshi",
+        "Kaburagi Motoharu"
+      ]
+    }
+  ],
+  "sinopsis": "Onoe Satoshi, reportero de una revista semanal, es trasladado a la sección de cotilleos y obligado a trabajar junto al fotógrafo Kaburagi Motoharu, a quien considera su rival. Sus métodos son completamente opuestos, pero mientras investigan juntos diferentes casos empiezan a comprenderse y a sentirse atraídos el uno por el otro.",
+  "activo": true
+}

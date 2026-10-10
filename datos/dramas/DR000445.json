@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000445",
+  "titulo": "My Monster In Law",
+  "alias": [
+    "Mẹ Chồng Chàng Dâu"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2017,
+  "tipo": "Webdrama",
+  "franquicia": {
+    "codigo": "FR000030",
+    "orden": 2
+  },
+  "serie": "SR000445",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 31,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2017-05-12",
+  "finalizacion": "2017-09-04",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Sitcom",
+    "Familia",
+    "Matrimonio",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hùng Cường",
+        "Jackie"
+      ]
+    }
+  ],
+  "sinopsis": "Hùng Cường regresa a Vietnam junto a Jackie, su esposo, después de varios años en Estados Unidos. Su madre esperaba recibir a una nuera y descubrir que su hijo está casado con otro hombre provoca un conflicto familiar lleno de situaciones cómicas, choques culturales y dificultades para aceptar su relación.",
+  "activo": true
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000185",
+  "titulo": "First Page",
+  "tituloOriginal": "퍼스트 페이지",
+  "alias": [
+    "First Page",
+    "Peoseuteu Peiji"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000016",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2025-11-27",
+  "finalizacion": "2025-12-18",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Precuela",
+    "Primer amor",
+    "Primer encuentro",
+    "Universidad",
+    "Amigos a amantes",
+    "Romance juvenil",
+    "Reencuentro"
+  ],
+  "personas": [
+    {
+      "nombre": "Jae Hyeon",
+      "persona": "PR000705",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "U Jin",
+      "persona": "PR000708",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jae Hyeon",
+        "U Jin"
+      ]
+    }
+  ],
+  "sinopsis": "Antes de convertirse en la pareja de Love Reset, Jae Hyeon y U Jin tuvieron que descubrir qué significaba estar juntos. First Page regresa al comienzo de su historia para mostrar el primer encuentro entre ambos, cuando todavía eran estudiantes y apenas se conocían. Lo que comienza con incomodidad, dudas y pequeños roces va dando paso a una relación cada vez más cercana, marcada por sus primeras citas, sentimientos que empiezan a hacerse evidentes y las decisiones que sentarán las bases de su futuro juntos.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=jj3TTs3_ksk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

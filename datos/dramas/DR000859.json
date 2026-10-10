@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000859",
+  "titulo": "Dear Doctor, I'm Coming for Soul",
+  "tituloOriginal": "คุณหมอครับ ผมมารับวิญญาณคนไข้",
+  "alias": [
+    "Dear Doctor",
+    "Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai",
+    "Dear Doctor, I'm Coming for Your Soul"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai",
+    "tituloOriginal": "คุณหมอครับ ผมมารับวิญญาณคนไข้",
+    "autor": "Hungry Bird",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2022-03-23",
+  "finalizacion": "2022-06-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Drama",
+    "Medicina"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Médico",
+    "Segador de almas",
+    "Sobrenatural",
+    "Vida y muerte",
+    "Hospital",
+    "Romance sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Prakan",
+        "Tua Phee"
+      ]
+    }
+  ],
+  "sinopsis": "Prakan es un cirujano dedicado a salvar vidas, pero posee la capacidad de ver a Tua Phee, un segador de almas que aparece cuando uno de sus pacientes está cerca de morir. Para Prakan, su presencia representa el fracaso de sus esfuerzos como médico. Sin embargo, ambos descubren que viven como vecinos y su enfrentamiento inicial comienza a transformarse en una relación mucho más profunda.",
+  "activo": true
+}

@@ -1,0 +1,328 @@
+{
+  "codigo": "DR000021",
+  "titulo": "SOTUS S",
+  "tituloOriginal": "โซตัส เอส",
+  "alias": [
+    "SOTUS S: The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "serie": "SR000020",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2017-12-09",
+  "finalizacion": "2018-03-10",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Arthit",
+      "persona": "PR000162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kongphop",
+      "persona": "PR000163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tew",
+      "persona": "PR000165",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dae",
+      "persona": "PR000166",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nai",
+      "persona": "PR000167",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yong",
+      "persona": "PR000020",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "M",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "May",
+      "persona": "PR000022",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Todd",
+      "persona": "PR000168",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Earth",
+      "persona": "PR000169",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khao Fang",
+      "persona": "PR000170",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "John",
+      "persona": "PR000171",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cherry",
+      "persona": "PR000172",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Somoh",
+      "persona": "PR000173",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Prem",
+      "persona": "PR000019",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wad",
+      "persona": "PR000175",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bright",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Maprang",
+      "persona": "PR000180",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Knot",
+      "persona": "PR000176",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tutah",
+      "persona": "PR000178",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Praepailin",
+      "persona": "PR000179",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oak",
+      "persona": "PR000181",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Durian",
+      "persona": "PR000190",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000159",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000158",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000159",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000158",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000160",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000161",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000029",
+      "personajes": [
+        "Arthit",
+        "Kongphop"
+      ]
+    },
+    {
+      "ship": "SH000031",
+      "personajes": [
+        "Tew",
+        "Dae"
+      ]
+    },
+    {
+      "ship": "SH000032",
+      "personajes": [
+        "M",
+        "May"
+      ]
+    },
+    {
+      "ship": "SH000030",
+      "personajes": [
+        "Prem",
+        "Wad"
+      ]
+    },
+    {
+      "ship": "SH000033",
+      "personajes": [
+        "Nai",
+        "Yong"
+      ]
+    }
+  ],
+  "sinopsis": "Dos años después de los acontecimientos de SOTUS, Kongphop se ha convertido en el jefe del sistema SOTUS de su facultad, mientras que Arthit trabaja en la empresa Ocean Electric. Durante su último año de universidad, Kongphop necesita realizar unas prácticas y consigue trabajar en la misma empresa que Arthit. El reencuentro entre ambos les llevará a afrontar nuevos retos personales y profesionales mientras intentan encontrar su lugar en esta nueva etapa de su relación.",
+  "multimedia": {
+    "portada": [
+      "https://i0.wp.com/lovewithoutgender.com/wp-content/uploads/2019/03/cc3db-sotus-s.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=06gVTxbxEuU"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=JCjpicEtIA0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000013",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

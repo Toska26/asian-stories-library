@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000304",
+  "titulo": "Kumusta Bro?",
+  "alias": [
+    "How Are You, Bro?",
+    "Hello Bro?"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "serie": "SR000304",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 38,
+  "estado": "Finalizado",
+  "estreno": "2020-07-20",
+  "finalizacion": "2020-09-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Kumu App",
+    "Live Stream",
+    "Amistad",
+    "Romance",
+    "Pandemia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thirdy",
+        "Bench"
+      ]
+    }
+  ],
+  "sinopsis": "Thirdy, un popular streamer de Kumu que intenta superar una ruptura, vuelve a encontrarse con Bench, un antiguo compañero de universidad, durante una transmisión en directo. Lo que comienza como un reto de pareja virtual impulsado por la audiencia hace que ambos se acerquen y comiencen a descubrir sentimientos que van más allá de la amistad.",
+  "activo": true
+}

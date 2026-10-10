@@ -1,0 +1,103 @@
+{
+  "codigo": "DR000125",
+  "titulo": "Cherry Blossoms After Winter",
+  "tituloOriginal": "겨울 지나 벚꽃",
+  "alias": [
+    "Cherry Blossoms After Winter",
+    "Gyeoul Jina Beotkkot"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000125",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-24",
+  "finalizacion": "2022-04-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Universidad",
+    "Amigos de infancia",
+    "Familia",
+    "Convivencia",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Seo Hae Bom",
+      "persona": "PR000599",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jo Tae Sung",
+      "persona": "PR000600",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seo Hae Bom",
+        "Jo Tae Sung"
+      ]
+    }
+  ],
+  "sinopsis": "Tras quedarse huérfano, Haebom es acogido por la familia de su mejor amigo, Taesung, y ambos crecen juntos bajo el mismo techo. Aunque siempre han sido muy diferentes, al llegar al último año de instituto comienzan a pasar más tiempo juntos y Haebom empieza a darse cuenta de que sus sentimientos por Taesung van más allá de la amistad. La cercanía entre ambos cambia su relación y les obliga a enfrentarse a sentimientos que hasta entonces habían mantenido ocultos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/37/30/3e/37303ee1ad4426fdeb0bc7957b89b194.jpg",
+      "https://i.pinimg.com/736x/04/0d/c6/040dc6e3f3685c88d4d33bb9b9a9903f.jpg",
+      "https://i.pinimg.com/736x/3a/cd/40/3acd40cb6df961f8985d3fa353769691.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1192634v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000081",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000082",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

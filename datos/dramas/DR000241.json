@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000241",
+  "titulo": "My Tooth Your Love",
+  "tituloOriginal": "我的牙想你",
+  "alias": [
+    "My Teeth Misses You"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "30-40 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-14",
+  "finalizacion": "2022-12-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Dentista",
+    "Restaurante",
+    "Fobia",
+    "Amigos a amantes",
+    "Diferencia de edad",
+    "Pareja secundaria",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bai Lang",
+        "Jin Xun An"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhou Cheng Hao",
+        "He Qing Tian"
+      ]
+    }
+  ],
+  "sinopsis": "Bai Lang, propietario de un restaurante-bar, tiene miedo de acudir al dentista hasta que conoce a Jin Xun An, un joven y reservado dentista. La relación entre ambos evoluciona desde sus primeros encuentros profesionales hacia el amor. Paralelamente, Zhou Cheng Hao desarrolla una relación con He Qing Tian.",
+  "activo": true
+}

@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000571",
+  "titulo": "Jian Hun",
+  "tituloOriginal": "剑魂",
+  "alias": [
+    "Jian Hun",
+    "Sword Soul"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2025-03-20",
+  "finalizacion": "2025-04-10",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Acción",
+    "Fantasía",
+    "Histórico"
+  ],
+  "tags": [
+    "Bromance",
+    "Doble protagonista",
+    "Viaje en el tiempo",
+    "Antigua China",
+    "Artes marciales",
+    "Supervivencia",
+    "Redención",
+    "Episodios cortos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qin Fang",
+        "Meng Yu"
+      ]
+    }
+  ],
+  "sinopsis": "Qin Fang, un joven procedente de una familia dedicada a la espada, es transportado inesperadamente a la época de la dinastía Qin por el poder de un espíritu de espada. Allí conoce a Meng Yu, un esclavo perteneciente al bando contrario. Aunque comienzan enfrentándose, las circunstancias los obligan a luchar juntos y su relación se transforma a través de experiencias compartidas y actos de confianza.",
+  "activo": true
+}

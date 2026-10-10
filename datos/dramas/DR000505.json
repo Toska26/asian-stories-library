@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000505",
+  "titulo": "Lost to You",
+  "tituloOriginal": "沦陷",
+  "alias": [
+    "Lun Xian",
+    "Wishing Fish Noodle House",
+    "愿望鱼面馆",
+    "Yuan Wang Yu Mian Guan"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000015",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 32,
+  "estado": "Finalizado",
+  "estreno": "2026-05-15",
+  "finalizacion": "2026-07-03",
+  "generos": [
+    "BL",
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "GL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhan Wang",
+        "Xu Yuan"
+      ]
+    },
+    {
+      "personajes": [
+        "Bian Ye",
+        "Zhan Xu"
+      ]
+    },
+    {
+      "personajes": [
+        "Lin Xia",
+        "Xu Nuo"
+      ]
+    }
+  ],
+  "sinopsis": "A los 17 años, Zhan Wang regresa de Pekín a su ciudad natal llevando en secreto un diagnóstico de cáncer cerebral terminal. Allí conoce a Xu Yuan, también de 17 años, un estudiante brillante al que todo el pueblo considera un niño de la desgracia. Mientras ambos cargan con sus propios secretos y heridas, su encuentro transforma sus vidas y da paso a una relación marcada por el amor, la enfermedad, la superstición y el paso del tiempo.",
+  "activo": true
+}

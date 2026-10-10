@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000248",
+  "titulo": "First Note of Love",
+  "tituloOriginal": "彈一場完美戀愛",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "28-30 min",
+  "estado": "Finalizado",
+  "estreno": "2024-08-12",
+  "finalizacion": "2024-10-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Cantante",
+    "Compositor",
+    "Reencuentro",
+    "Primer amor",
+    "Diferencia de edad",
+    "Superación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Neil",
+        "Sea"
+      ]
+    }
+  ],
+  "sinopsis": "Un antiguo cantante que abandonó su carrera musical conoce a un joven músico que está intentando abrirse camino en la industria. La música les permite acercarse y enfrentarse a heridas del pasado mientras descubren nuevos sentimientos.",
+  "activo": true
+}

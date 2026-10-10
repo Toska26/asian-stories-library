@@ -1,0 +1,105 @@
+{
+  "codigo": "DR000113",
+  "titulo": "The Tasty Florida",
+  "tituloOriginal": "플로리다반점",
+  "alias": [
+    "The Tasty Florida",
+    "Florida Banjeom"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000113",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10-12 min",
+  "estado": "Finalizado",
+  "estreno": "2021-09-24",
+  "finalizacion": "2021-10-15",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Restaurante",
+    "Cocina",
+    "Casa de huéspedes",
+    "Primer amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Seo Hae Won",
+      "persona": "PR000582",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Baek Eun Gyu",
+      "persona": "PR000583",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seo Hae Won",
+        "Baek Eun Gyu"
+      ]
+    }
+  ],
+  "sinopsis": "Seo Hae Won es un estudiante universitario de primer año que se muda a una casa de huéspedes. En la azotea descubre Florida Banjeom, un restaurante chino atendido por varios jóvenes. Allí conoce a Baek Eun Gyu y comienza una relación que transforma su vida universitaria.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/c3/b3/77/c3b3771f65cac320bb7a1f95fc8e56e6.jpg",
+      "https://i.pinimg.com/1200x/23/a1/b5/23a1b54634484d48e6582c54cbbc96f6.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

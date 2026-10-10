@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000226",
+  "titulo": "La Boum",
+  "tituloOriginal": "第一次",
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000020",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10-12 min",
+  "estado": "Finalizado",
+  "estreno": "2017-12-13",
+  "finalizacion": "2018",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Primer amor",
+    "Instituto",
+    "Juventud",
+    "Familia",
+    "Amistad",
+    "Crecimiento personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Ruo Lei",
+        "Jiang Wei Lun"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Ruo Lei es una estudiante de instituto que ha vivido siguiendo las decisiones de sus padres. Su relación con Jiang Wei Lun, un joven de personalidad romántica y artística, la lleva a enfrentarse a sus propias decisiones y a descubrir el amor y la independencia durante su juventud.",
+  "activo": true
+}

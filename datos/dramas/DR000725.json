@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000725",
+  "titulo": "The Boy Next World: My Destiny",
+  "tituloOriginal": "The Boy Next World ～並行世界の恋人～",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000034",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "25-36 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-01",
+  "finalizacion": "2026-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sara Kogami",
+        "Yotsuba Fuu"
+      ]
+    }
+  ],
+  "sinopsis": "Fuu Yotsuba lleva una vida universitaria normal hasta que Sara Kogami, un estudiante mayor al que apenas conoce, aparece asegurando que procede de un mundo paralelo donde ambos son pareja. Mientras intentan descubrir cómo devolver a Sara a su mundo, los sentimientos entre las dos versiones de su realidad comienzan a entrelazarse.",
+  "especiales": [
+    "Special Episode 1",
+    "Special Episode 2"
+  ],
+  "activo": true
+}

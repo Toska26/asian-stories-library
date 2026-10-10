@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000288",
+  "titulo": "My Extraordinary",
+  "alias": [
+    "My Extra Ordinary"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2020-09-27",
+  "finalizacion": "2020-11-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shake",
+        "Ken"
+      ]
+    }
+  ],
+  "sinopsis": "Shake y Ken son dos estudiantes universitarios que, después de conocerse por casualidad, comienzan a desarrollar sentimientos mientras afrontan las expectativas de sus familias y de la sociedad.",
+  "activo": true
+}

@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000813",
+  "titulo": "Golden Blood",
+  "tituloOriginal": "รักมันมหาศาล",
+  "alias": [
+    "Golden Blood: Love Enormously",
+    "Golden Blood: The Greatest Love",
+    "Golden Blood Love Enormously"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "55 min",
+  "estado": "Finalizado",
+  "estreno": "2021-06-23",
+  "finalizacion": "2021-08-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Juventud"
+  ],
+  "tags": [
+    "Guardaespaldas",
+    "Mafia",
+    "Heredero",
+    "Protección",
+    "Amor prohibido",
+    "Universidad",
+    "Convivencia",
+    "Familia",
+    "Peligro",
+    "Identidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Sky"
+      ]
+    },
+    {
+      "personajes": [
+        "Pitch",
+        "Bank"
+      ]
+    }
+  ],
+  "sinopsis": "Sky es el hijo de Phupha, un poderoso jefe de la mafia. Debido a su extraordinario grupo sanguíneo, Sky se convierte en un objetivo para quienes quieren utilizarlo. Su padre encarga a Sun, un guardaespaldas entrenado desde joven para protegerlo, que permanezca a su lado. La convivencia y las situaciones de peligro hacen que la relación entre ambos evolucione de la obligación y la desconfianza hacia el amor.",
+  "activo": true
+}

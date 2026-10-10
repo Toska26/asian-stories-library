@@ -1,0 +1,90 @@
+{
+  "codigo": "DR000124",
+  "titulo": "Blueming",
+  "tituloOriginal": "블루밍",
+  "alias": [
+    "Blueming",
+    "Bluming"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000124",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-03-31",
+  "finalizacion": "2022-03-31",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Cine",
+    "Estudiantes de cine",
+    "Popularidad",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Si Won",
+      "persona": "PR000597",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hyeong Da Un",
+      "persona": "PR000598",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cha Si Won",
+        "Hyeong Da Un"
+      ]
+    }
+  ],
+  "sinopsis": "Si Won es un estudiante de cine que ha construido su imagen en torno a la idea de que lo tiene todo bajo control. Su seguridad comienza a tambalearse cuando conoce a Da Woon, un compañero popular y aparentemente perfecto que se convierte en su rival y, poco a poco, en alguien mucho más importante para él. Mientras trabajan juntos y se enfrentan a sus propias inseguridades, ambos empiezan a descubrir qué significa realmente enamorarse y mostrarse tal como son.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/f8/2e/be/f82ebebb3497489c08a3d6c838604a28.jpg",
+      "https://i.pinimg.com/1200x/74/73/46/74734662e62179859f17df76f45a8e0c.jpg"
+    ],
+    "trailer": [
+      "https://www.iq.com/short/1e1wgnr4a7w"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000080",
+      "funcion": [
+        "Productora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

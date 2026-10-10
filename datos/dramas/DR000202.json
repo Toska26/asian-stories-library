@@ -1,0 +1,99 @@
+{
+  "codigo": "DR000202",
+  "titulo": "Buddy Boy",
+  "tituloOriginal": "버디보이",
+  "alias": [
+    "Buddy Boy",
+    "Beodi Boi"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000202",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 45,
+  "duracion": "2 min",
+  "estado": "Finalizado",
+  "estreno": "2024-10-22",
+  "finalizacion": "2024-10-22",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance juvenil",
+    "Chico de ciudad",
+    "Vida rural",
+    "Amigos a amantes",
+    "Primer amor",
+    "Atracción intensa",
+    "Obsesión",
+    "Relación complicada",
+    "Triángulo amoroso",
+    "Familia",
+    "Adolescencia"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Ho",
+      "persona": "PR000719",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Gu",
+      "persona": "PR000720",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Ho",
+        "Jin Gu"
+      ]
+    }
+  ],
+  "sinopsis": "Yu Ho, un joven procedente de la ciudad, se traslada al campo junto a su padre después de que su familia atraviese una difícil situación. Allí conoce a Jin Gu, un chico de su misma edad con una personalidad muy diferente a la suya. Desde el primer encuentro, Yu Ho siente una atracción intensa e inesperada que poco a poco comienza a transformar su relación. Mientras ambos intentan comprender lo que sienten, la cercanía de Rina y los problemas familiares de Yu Ho complican todavía más una relación que oscila entre la amistad, el deseo y la obsesión.",
+  "multimedia": {
+    "portada": [
+      "https://prcdn.freetls.fastly.net/release_image/155551/10/155551-10-37675f3b01ea0be081370824e007a7ad-400x560.png?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400"
+    ],
+    "trailer": [
+      "https://www.youtube.com/shorts/tX65BpAfeFA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000141",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

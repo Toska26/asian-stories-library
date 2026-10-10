@@ -1,0 +1,118 @@
+{
+  "codigo": "DR000063",
+  "titulo": "Only Boo!",
+  "tituloOriginal": "แค่ที่แกง",
+  "alias": [
+    "Khae Thi Kaeng",
+    "Kae Tee Kaeng"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000063",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-03-31",
+  "finalizacion": "2024-06-23",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud",
+    "Música"
+  ],
+  "personas": [
+    {
+      "nombre": "Kang",
+      "persona": "PR000526",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Moo",
+      "persona": "PR000527",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Potae",
+      "persona": "PR000553",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Payos",
+      "persona": "PR000554",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000086",
+      "personajes": [
+        "Kang",
+        "Moo"
+      ]
+    },
+    {
+      "ship": "SH000106",
+      "personajes": [
+        "Potae",
+        "Payos"
+      ]
+    }
+  ],
+  "sinopsis": "Moo, un estudiante de secundaria que sueña con debutar como integrante de un grupo de chicos, conoce a Kang, un joven que vende comida preparada. Moo queda fascinado por la amabilidad de Kang y comienza a cortejarlo mientras continúa entrenándose para convertirse en idol. Sin embargo, cuando finalmente consigue debutar, descubre que el contrato de su agencia incluye una estricta prohibición de tener pareja.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/81/6a/b6/816ab6a6a9338f197a57f47d0a078319.jpg",
+      "https://i.pinimg.com/736x/2b/b5/83/2bb583b2cc1ebd0d0a9cade060224ede.jpg",
+      "https://i.pinimg.com/736x/82/4f/89/824f890c8147dcaa31b457352dff3f42.jpg",
+      "https://i.pinimg.com/736x/d6/59/fa/d659facc83a2401e1b5c072db3281d77.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=kNJHaz3VgJI"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=sU4_YSbfLdg",
+      "https://www.youtube.com/watch?v=Gp_5O-U-KAA",
+      "https://www.youtube.com/watch?v=FlubMEV94SM",
+      "https://www.youtube.com/watch?v=OAWVsWucowQ",
+      "https://www.youtube.com/watch?v=7OqvmVanrBc",
+      "https://www.youtube.com/watch?v=wq6BZgnWzxI",
+      "https://www.youtube.com/watch?v=7TrTUZM68J0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "especiales": [
+    "บุกที่กอง แค่ที่แกง Only Boo!"
+  ],
+  "activo": true
+}

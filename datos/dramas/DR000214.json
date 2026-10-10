@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000214",
+  "titulo": "Checkered Shirt 2",
+  "tituloOriginal": "체크남방을 입은 사나이 시즌2",
+  "alias": [
+    "Checkered Shirt 2",
+    "The Man in the Checkered Shirt 2",
+    "Checkered Shirt Season 2",
+    "Chekeunambangeul Ibeun Sanae Season 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000213",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2025-12-05",
+  "finalizacion": "2026-01-20",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Cinco años después",
+    "Servicio militar",
+    "Ruptura",
+    "Malentendidos",
+    "Exnovio tóxico",
+    "Celos",
+    "Secretos",
+    "Confianza",
+    "Sanación"
+  ],
+  "personas": [
+    {
+      "nombre": "Jeong Woo",
+      "persona": "PR000670",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Gyeol",
+      "persona": "PR000595",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Young Hoon",
+      "persona": "PR000721",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jeong Woo",
+        "Han Gyeol"
+      ]
+    }
+  ],
+  "sinopsis": "La relación de Jeong Woo y Han Gyeol parecía haber encontrado su equilibrio, pero la inminente partida de Jeong Woo para cumplir el servicio militar cambia sus planes. Un conflicto relacionado con el pasado de Han Gyeol termina provocando una separación dolorosa y deja sentimientos sin resolver entre ambos. Cinco años después, vuelven a encontrarse en un entorno laboral, donde las heridas del pasado siguen presentes. Mientras intentan trabajar juntos y ocultar lo que todavía sienten, tendrán que enfrentarse a los malentendidos y a las personas que contribuyeron a separarlos.",
+  "multimedia": {
+    "portada": [
+      "https://world-of-bl.com/uploads/CheckeredShirt/CheckeredShirt2-Logo.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=GegWff3m7Zo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000139",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

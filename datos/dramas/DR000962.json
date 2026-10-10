@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000962",
+  "titulo": "Battle of the Writers",
+  "tituloOriginal": "รัก...ใต้บรรทัด",
+  "alias": [
+    "Battle of the Writers",
+    "Rak Tai Banthat",
+    "Game Rak Tai Banthat",
+    "You Xi Da Zuo Zhan",
+    "เกมรัก...ใต้บรรทัด"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Great Battle of Games",
+    "tituloOriginal": "游戏大作战",
+    "autor": "Ping Guo Shu Shu Shu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 49,
+  "estado": "Finalizado",
+  "estreno": "2024-07-29",
+  "finalizacion": "2024-10-14",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Escritores",
+    "Rivales a amantes",
+    "Literatura",
+    "Redes sociales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ob-un",
+        "Shan"
+      ]
+    }
+  ],
+  "sinopsis": "Ob-un, un joven escritor que compagina su trabajo con la publicación de novelas en internet, es acusado públicamente de plagiar a Shan, el escritor más popular de una plataforma de literatura online. Determinado a aclarar el malentendido, intenta contactar con Shan. El enfrentamiento inicial entre ambos termina convirtiéndose en una relación cada vez más cercana cuando son incorporados al mismo equipo de escritores.",
+  "activo": true
+}

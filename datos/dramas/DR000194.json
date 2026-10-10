@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000194",
+  "titulo": "Backdoor",
+  "tituloOriginal": "백도어",
+  "alias": [
+    "Backdoor",
+    "Back Door",
+    "Baekdo-eo",
+    "Baekdoeo"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000018",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-30",
+  "finalizacion": "2026-06-18",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Enemies to Lovers",
+    "Jefe y empleado",
+    "Rivalidad laboral",
+    "Secretos",
+    "Identidad secreta",
+    "Salvador anónimo",
+    "Desconfianza",
+    "Jerarquía laboral",
+    "Poder y control"
+  ],
+  "personas": [
+    {
+      "nombre": "Kwon Do-yoon",
+      "persona": "PR000713",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seo Ji-hyeok",
+      "persona": "PR000714",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kwon Do-yoon",
+        "Seo Ji-hyeok"
+      ]
+    }
+  ],
+  "sinopsis": "Kwon Do-yoon es un jefe de equipo exigente y perfeccionista cuya carrera queda en peligro cuando se enfrenta a una inesperada crisis profesional. Cuando un desconocido anónimo interviene para ayudarlo, Do-yoon consigue salir adelante sin saber quién fue su salvador. Poco después descubre que se trata de Seo Ji-hyeok, el nuevo empleado privilegiado al que menos soporta. La revelación cambia por completo la relación entre ambos y convierte la desconfianza, la jerarquía laboral y los secretos en el punto de partida de una inesperada atracción.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=2HeTi3i5FOM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000139",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

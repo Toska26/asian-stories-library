@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000419",
+  "titulo": "Ghe Bẹo Ghẹo Ai",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "franquicia": {
+    "codigo": "FR000029",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2019-06-06",
+  "finalizacion": "2019-07-25",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Amor",
+    "Familia",
+    "Prejuicios",
+    "Identidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mến",
+        "Nhớ"
+      ]
+    }
+  ],
+  "sinopsis": "Mến y Nhớ se conocen en circunstancias que hacen que sus vidas terminen entrelazadas. A medida que su relación se desarrolla, ambos deben enfrentarse a los sentimientos, los prejuicios y las dificultades familiares que rodean su amor.",
+  "activo": true
+}

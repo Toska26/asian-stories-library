@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000677",
+  "titulo": "Although I Love You, and You?",
+  "tituloOriginal": "好きやねんけどどうやろか",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Although I Love You, and You?",
+    "tituloOriginal": "好きやねんけどどうやろか",
+    "autor": "Ryoko Chiba",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2024-01-11",
+  "finalizacion": "2024-03-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Love triangle",
+    "Restaurante",
+    "Vida adulta",
+    "Long distance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Matsumoto Sakae",
+        "Soga Hisashi"
+      ]
+    }
+  ],
+  "sinopsis": "Sakae, joven propietario de un pequeño restaurante de Osaka, se enamora a primera vista de Hisashi Soga, un empleado de oficina divorciado que acaba de trasladarse desde Tokio. Mientras ambos intentan entender sus sentimientos, la relación se complica por el regreso del antiguo amor de Soga.",
+  "activo": true
+}

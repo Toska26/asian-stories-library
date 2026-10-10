@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000574",
+  "titulo": "Wildfire by Daylight",
+  "tituloOriginal": "白昼焚野",
+  "alias": [
+    "Bai Zhou Fen Ye"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 70,
+  "duracion": 2,
+  "estado": "Finalizado",
+  "estreno": "2025-09-15",
+  "finalizacion": "2025-09-15",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "Bromance",
+    "Investigación",
+    "Crimen",
+    "Reencuentro",
+    "Caso sin resolver",
+    "Vertical",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Yanbai",
+        "Cheng Ye"
+      ]
+    }
+  ],
+  "sinopsis": "Cinco años después de que Cheng Ye perdiera a su hermano Cheng Shen durante la investigación de un caso de asesinatos relacionados con las llamadas Flores Gemelas, Jiang Yanbai regresa cuando el caso vuelve a aparecer. Aunque las sospechas vuelven a recaer sobre él, ambos se ven obligados a colaborar para descubrir la verdad.",
+  "activo": true
+}

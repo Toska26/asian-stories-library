@@ -1,0 +1,45 @@
+{
+  "codigo": "DR001011",
+  "titulo": "Love in the Moonlight",
+  "tituloOriginal": "สลักรักในแสงจันทร์",
+  "alias": [
+    "Love in the Moonlight",
+    "สลักรักในแสงจันทร์"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "estado": "Finalizado",
+  "estreno": "2025-09-12",
+  "finalizacion": "2025-10-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Época",
+    "Tailandia",
+    "Príncipe",
+    "Matrimonio arreglado",
+    "Familia",
+    "Secreto",
+    "Amor prohibido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Saenkaew",
+        "Sasin"
+      ]
+    }
+  ],
+  "sinopsis": "En 1963, el príncipe Saenkaew es enviado a Bangkok para cumplir un matrimonio concertado con Pinanong. El hermano de ella, Sasin, desconfía inicialmente del príncipe y ambos chocan desde el primer momento. Sin embargo, mientras descubren la verdad que se esconde tras el matrimonio arreglado, entre Saenkaew y Sasin surge una relación que los obliga a elegir entre el amor y las expectativas de sus familias.",
+  "activo": true
+}

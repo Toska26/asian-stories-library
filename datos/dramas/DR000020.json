@@ -1,0 +1,300 @@
+{
+  "codigo": "DR000020",
+  "titulo": "SOTUS",
+  "tituloOriginal": "พี่ว้ากตัวร้ายกับนายปีหนึ่ง",
+  "alias": [
+    "SOTUS: The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2016,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "serie": "SR000020",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2016-08-20",
+  "finalizacion": "2017-01-14",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Arthit",
+      "persona": "PR000162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kongphop",
+      "persona": "PR000163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "M",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tew",
+      "persona": "PR000165",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Day",
+      "persona": "PR000166",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nai",
+      "persona": "PR000167",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Knot",
+      "persona": "PR000176",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bright",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tutah",
+      "persona": "PR000178",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Praepailin",
+      "persona": "PR000179",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Maprang",
+      "persona": "PR000180",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oak",
+      "persona": "PR000181",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minnie",
+      "persona": "PR000182",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tee",
+      "persona": "PR000183",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Koi",
+      "persona": "PR000184",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ple",
+      "persona": "PR000185",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tim",
+      "persona": "PR000186",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yacht",
+      "persona": "PR000187",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tum",
+      "persona": "PR000188",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Namtan",
+      "persona": "PR000189",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Deer",
+      "persona": "PR000190",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Prem",
+      "persona": "PR000019",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wad",
+      "persona": "PR000175",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "May",
+      "persona": "PR000022",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jay",
+      "persona": "PR000016",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000158",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000158",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000029",
+      "personajes": [
+        "Arthit",
+        "Kongphop"
+      ]
+    }
+  ],
+  "sinopsis": "Kongphop es un estudiante de primer año de Ingeniería que se enfrenta al estricto sistema SOTUS dirigido por Arthit, un estudiante de tercer año encargado de la formación de los nuevos alumnos. Lo que comienza como una relación marcada por los enfrentamientos y la rivalidad va transformándose poco a poco en una conexión más profunda, mientras ambos descubren sentimientos que van más allá de la relación entre un senior y un junior.",
+  "multimedia": {
+    "portada": [
+      "https://artworks.thetvdb.com/banners/posters/314882-2.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Ke3RRiXo7rg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "SOTUS: Very Special EP",
+      "fecha": "2017-01-14"
+    },
+    {
+      "titulo": "Our Skyy — SOTUS",
+      "tituloOriginal": "Our Skyy",
+      "alias": [
+        "Our Skyy: Arthit & Kongpob"
+      ],
+      "tipo": "Especial",
+      "anio": 2018,
+      "episodios": 1,
+      "estreno": "2018-12-21"
+    }
+  ],
+  "activo": true
+}

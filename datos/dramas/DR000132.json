@@ -1,0 +1,118 @@
+{
+  "codigo": "DR000132",
+  "titulo": "Happy Ending Romance",
+  "tituloOriginal": "펜스 밖은 해피엔딩",
+  "alias": [
+    "Happy Ending Romance",
+    "Beyond the Fence Is Happy Ending",
+    "Penseu Bak-eun Haepi Ending"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000132",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-11-24",
+  "finalizacion": "2022-12-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Escritor",
+    "Literatura",
+    "Editorial",
+    "Triángulo amoroso",
+    "Secretos",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Jung Woo",
+      "persona": "PR000610",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Jung Hyun",
+      "persona": "PR000611",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Tae Young",
+      "persona": "PR000612",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cha Jung Woo",
+        "Kim Jung Hyun"
+      ]
+    },
+    {
+      "personajes": [
+        "Cha Jung Woo",
+        "Han Tae Young"
+      ]
+    }
+  ],
+  "sinopsis": "Kim Jung-hyun es un escritor prometedor que intenta abrirse camino en el mundo literario mientras permanece ligado a su mentor. Su vida cambia cuando aparece Han Tae-young, un poderoso editor que ve su potencial y le ofrece una nueva oportunidad. Dividido entre la lealtad hacia quien le ayudó al principio de su carrera y la posibilidad de alcanzar el éxito junto a Tae-young, Jung-hyun deberá enfrentarse a las decisiones y sentimientos que pueden cambiar tanto su carrera como su vida personal.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/73/eb/93/73eb931e7eb7e6c1ce46b01744c8a54f.jpg",
+      "https://i.pinimg.com/1200x/60/e2/70/60e270a379a61a5f108a55ff03efad82.jpg",
+      "https://i.pinimg.com/1200x/9c/c8/b8/9cc8b86da71ac37e128bf237297b2f2c.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1203486v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000087",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

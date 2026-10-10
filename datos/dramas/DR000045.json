@@ -1,0 +1,197 @@
+{
+  "codigo": "DR000045",
+  "titulo": "Your Third",
+  "tituloOriginal": "ที่สามของเธอ",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "universo": "",
+  "serie": "SR000045",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "En emisión",
+  "estreno": "2026-07-26",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Sam",
+      "persona": "PR000309",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jam",
+      "persona": "PR000308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song",
+      "persona": "PR000450",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sib",
+      "persona": "PR000487",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thee",
+      "persona": "PR000434",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Decha",
+      "persona": "PR000488",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pimai",
+      "persona": "PR000054",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lantao",
+      "persona": "PR000445",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ning",
+      "persona": "PR000489",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nueng",
+      "persona": "PR000490",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wasin",
+      "persona": "PR000491",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000492",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000054",
+      "personajes": [
+        "Sam",
+        "Jam"
+      ]
+    },
+    {
+      "ship": "SH000076",
+      "personajes": [
+        "Sib",
+        "Pimai"
+      ]
+    }
+  ],
+  "sinopsis": "Sam ha guardado durante años sus sentimientos por Pimai, pero cuando descubre que ella se ha convertido en la pareja de su hermano mayor, Sib, decide alejarse de su familia. Sib encarga a Jam que encuentre a Sam y consiga que regrese. Lo que comienza como una misión de trabajo acaba acercando a Jam y Sam mientras ambos afrontan sus sentimientos y las heridas del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://stat.ameba.jp/user_images/20250228/12/sana-sanyaa/49/5f/j/o3281409615549223876.jpg",
+      "https://pbs.twimg.com/media/HAcIxdZaEAA2lyg.jpg",
+      "https://img.youtube.com/vi/GweuZgo2gOU/maxresdefault.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=GweuZgo2gOU"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=GO4a4PWVSfg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=5KHgFEiPD4g"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=7EaocGI6tSw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000043",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000047",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000048",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

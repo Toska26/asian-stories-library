@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000752",
+  "titulo": "Gay OK Bangkok",
+  "tituloOriginal": "เกย์โอเค แบงค็อก",
+  "alias": [
+    "Gay OK Bangkok 1",
+    "GayOK Bangkok"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2016,
+  "tipo": "Drama",
+  "serie": "SR000752",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2016-02-21",
+  "finalizacion": "2016-03-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Arm",
+        "Nat"
+      ]
+    },
+    {
+      "personajes": [
+        "Aof",
+        "Big"
+      ]
+    }
+  ],
+  "sinopsis": "La historia sigue la vida de seis hombres homosexuales que viven en Bangkok y afrontan relaciones, amistad, trabajo, familia y cuestiones relacionadas con la salud sexual. Pom y Arm son amigos y compañeros de piso, pero ambos se sienten atraídos por Nat, mientras Aof y Big intentan mantener su relación de varios años a pesar de sus problemas.",
+  "activo": true
+}

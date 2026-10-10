@@ -1,0 +1,52 @@
+{
+  "codigo": "DR001002",
+  "titulo": "SUNTINY",
+  "tituloOriginal": "หรือ…อลวนที่พรหมลิขิต",
+  "alias": [
+    "Suntiny",
+    "SUNTINY: Or… The Chaos of Destiny"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "franquicia": {
+    "codigo": "FR000049",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 32,
+  "estado": "Finalizado",
+  "estreno": "2025-06-17",
+  "finalizacion": "2025-08-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Secuela",
+    "Y-Destiny",
+    "Sun y Nuea",
+    "Intercambio de cuerpos",
+    "Destino",
+    "Pareja estable",
+    "Magia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Nuea"
+      ]
+    }
+  ],
+  "sinopsis": "Años después de los acontecimientos de Y-Destiny, Sun y Nuea son pareja, pero atraviesan dificultades en su relación. Un extraño incidente relacionado con un jabón mágico provoca que sus cuerpos se intercambien. Obligados a vivir temporalmente la vida del otro, ambos tendrán que comprender mejor sus problemas y sentimientos para intentar recuperar sus cuerpos y reconstruir su relación.",
+  "activo": true
+}

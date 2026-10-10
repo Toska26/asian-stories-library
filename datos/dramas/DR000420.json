@@ -1,0 +1,26 @@
+{
+  "codigo": "DR000420",
+  "titulo": "Bệnh Viện Thần Ái",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-06-14",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Terror"
+  ],
+  "tags": [
+    "Hospital",
+    "Fantasmas",
+    "Misterio",
+    "Investigación"
+  ],
+  "sinopsis": "La historia se desarrolla en un hospital en el que comienzan a suceder acontecimientos extraños. Los personajes se ven involucrados en una serie de misterios relacionados con el lugar y con las presencias sobrenaturales que lo habitan.",
+  "activo": true
+}

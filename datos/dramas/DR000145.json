@@ -1,0 +1,110 @@
+{
+  "codigo": "DR000145",
+  "titulo": "Sing My Crush",
+  "tituloOriginal": "따라바람",
+  "alias": [
+    "Sing My Crush",
+    "Follow the Wind",
+    "Ttara Baram",
+    "Ttalabaram"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "27 min",
+  "estado": "Finalizado",
+  "estreno": "2023-08-02",
+  "finalizacion": "2023-08-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Banda",
+    "Amistad",
+    "Instituto",
+    "Primer amor",
+    "Amor no confesado"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Ba Ram",
+      "persona": "PR000643",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Im Han Tae",
+      "persona": "PR000644",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Ba Ram",
+        "Im Han Tae"
+      ]
+    }
+  ],
+  "sinopsis": "Ba Ram y Han Tae se conocen durante su etapa escolar y, después de un incidente que cambia su relación, terminan convirtiéndose en grandes amigos. Años más tarde, Ba Ram se ha convertido en el vocalista de una banda mientras Han Tae permanece a su lado como amigo y representante. Sin embargo, los sentimientos de Ba Ram han dejado de ser solo amistad y cada vez resulta más difícil ocultarlos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/db/09/cf/db09cf291ab2af198b867fa90b3bf19b.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=uKTvU9MLMbk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000103",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000104",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000109",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000774",
+  "titulo": "Our Skyy",
+  "tituloOriginal": "Our Skyy",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Antología",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2018-11-23",
+  "finalizacion": "2018-12-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "sinopsis": "Antología de cinco historias especiales que retoman las relaciones de distintas series BL de GMMTV. Cada episodio continúa la historia de una pareja diferente: Pick y Rome de Puppy Honey, In y Sun de My Dear Loser: Edge of 17, Mork y Tee de 'Cause You're My Boy, Pete y Kao de Kiss Me Again, y Arthit y Kongpob de SOTUS.",
+  "relaciones": [
+    {
+      "tipo": "Antología",
+      "drama": "DR000095",
+      "episodio": 1
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000763",
+      "episodio": 2
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000771",
+      "episodio": 3
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000027",
+      "episodio": 4
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000020",
+      "episodio": 5
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000647",
+  "titulo": "We're Both Grooms",
+  "tituloOriginal": "僕もアイツも新郎です。",
+  "alias": [
+    "Boku mo Aitsu mo Shinro desu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2022-03-13",
+  "finalizacion": "2022-03-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Boda",
+    "Pareja estable",
+    "Familia",
+    "Aceptación",
+    "Coming out"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seto Ryosuke",
+        "Aikawa Mizuki"
+      ]
+    }
+  ],
+  "sinopsis": "Seto Ryosuke, maestro de primaria, y Aikawa Mizuki, agricultor de limones, están a punto de celebrar su boda en un hermoso lugar frente al mar de Setouchi. El problema es que Ryosuke nunca ha contado a su familia ni a sus conocidos que su futuro esposo es un hombre. Cuando la verdad sale a la luz justo antes de la ceremonia, las dos familias se enfrentan a una serie de situaciones inesperadas que ponen a prueba la celebración.",
+  "activo": true
+}

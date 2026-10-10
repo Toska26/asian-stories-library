@@ -1,0 +1,75 @@
+{
+  "codigo": "DR000211",
+  "titulo": "Boy, with Caution",
+  "tituloOriginal": "소년, 주의",
+  "alias": [
+    "Boy, with Caution",
+    "Mind the Boy",
+    "Sonyeon, Juui"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "2026-09-30",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Profesor sustituto",
+    "Estudiante",
+    "Diferencia de edad",
+    "Primer amor",
+    "Atracción",
+    "Coming of Age"
+  ],
+  "personas": [
+    {
+      "nombre": "Jang Ki-woo",
+      "persona": "PR000759",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Hyun-jae",
+      "persona": "PR000760",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Jang Ki-woo ha dejado atrás sus sueños y lleva una vida aparentemente tranquila como profesor sustituto. Todo cambia cuando conoce a Lee Hyun-jae, un estudiante de veintiún años cuya presencia irrumpe en su rutina como un desastre imposible de ignorar. La atracción entre ambos comienza a crecer, pero las circunstancias que los rodean hacen que acercarse sea mucho más complicado de lo que parecía.",
+  "entidades": [
+    {
+      "codigo": "EN000157",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

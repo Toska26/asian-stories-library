@@ -1,0 +1,254 @@
+{
+  "codigo": "DR000027",
+  "titulo": "Kiss Me Again",
+  "tituloOriginal": "จูบให้ได้ถ้านายแน่จริง",
+  "alias": [
+    "Kiss Me Again The Series",
+    "Kiss Me Again"
+  ],
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000009",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2018-04-22",
+  "finalizacion": "2018-07-22",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Sanwan",
+      "persona": "PR000289",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "R",
+      "persona": "PR000267",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sanson",
+      "persona": "PR000273",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Matt",
+      "persona": "PR000293",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kao",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pete",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sansuay",
+      "persona": "PR000269",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "So",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Na",
+      "persona": "PR000290",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sandee",
+      "persona": "PR000276",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thada",
+      "persona": "PR000270",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "June",
+      "persona": "PR000171",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mork",
+      "persona": "PR000268",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sun",
+      "persona": "PR000291",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pluem",
+      "persona": "PR000285",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000014",
+      "funcion": [
+        "Director",
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000275",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000264",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000015",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000297",
+      "funcion": [
+        "Historia"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Pete",
+        "Kao"
+      ]
+    },
+    {
+      "ship": "SH000048",
+      "personajes": [
+        "Sanwan",
+        "R"
+      ]
+    },
+    {
+      "ship": "SH000049",
+      "personajes": [
+        "Sanson",
+        "Matt"
+      ]
+    },
+    {
+      "ship": "SH000050",
+      "personajes": [
+        "Sansuay",
+        "So"
+      ]
+    }
+  ],
+  "sinopsis": "La historia se centra en un grupo de jóvenes cuyas vidas sentimentales se cruzan entre la amistad, la atracción y los sentimientos que todavía no se atreven a reconocer. Sanwan y R mantienen una relación complicada en la que los sentimientos del pasado y las dificultades para comunicarse ponen a prueba su vínculo. Por otro lado, Sanson y Matt comienzan a acercarse mientras intentan descubrir qué quieren realmente el uno del otro, enfrentándose a sus propias inseguridades y a las circunstancias que los rodean. Paralelamente, las historias de Sandee, Thada, Kao, Pete y el resto de sus amigos continúan desarrollándose y conectan esta nueva etapa con los acontecimientos de Kiss: The Series. Entre nuevos romances, relaciones que cambian y sentimientos que resurgen, los protagonistas deberán decidir si están dispuestos a dejar atrás sus dudas y luchar por las personas que realmente quieren.",
+  "multimedia": {
+    "portada": [
+      "https://boyslovefrance.wordpress.com/wp-content/uploads/2020/07/kissmeagain_poster02-1.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy — Kiss Me Again",
+      "tituloOriginal": "Our Skyy",
+      "alias": [
+        "Our Skyy: Pete & Kao"
+      ],
+      "tipo": "Especial",
+      "anio": 2018,
+      "episodios": 1,
+      "estreno": "2018-12-14"
+    }
+  ],
+  "activo": true
+}

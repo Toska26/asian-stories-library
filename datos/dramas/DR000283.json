@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000283",
+  "titulo": "Even After",
+  "alias": [
+    "Even After The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 8,
+  "estado": "Finalizado",
+  "estreno": "2020-07-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zig",
+        "Zag"
+      ]
+    }
+  ],
+  "sinopsis": "Durante la cuarentena, Zig y Zag se conocen a través de las redes sociales y desarrollan una relación mientras intentan afrontar el aislamiento y sus propias circunstancias.",
+  "activo": true
+}

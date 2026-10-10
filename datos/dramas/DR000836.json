@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000836",
+  "titulo": "The Yearbook",
+  "tituloOriginal": "หนังสือรุ่น",
+  "alias": [
+    "The YearBook",
+    "The Yearbook หนังสือรุ่น"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Cortometraje",
+    "relacion": "Adaptación",
+    "titulo": "The Yearbook",
+    "autor": "Mean Phiravich Attachitsataporn",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "45-55 min",
+  "estado": "Finalizado",
+  "estreno": "2021-07-15",
+  "finalizacion": "2021-09-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Coming of Age"
+  ],
+  "tags": [
+    "Instituto",
+    "Amigos de la infancia",
+    "Reencuentro",
+    "Amor secreto",
+    "Separación",
+    "Nostalgia",
+    "Familia",
+    "Música",
+    "Años 2000",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nut",
+        "Phob"
+      ]
+    }
+  ],
+  "sinopsis": "Nut y Phob son amigos de la infancia, compañeros de clase y vecinos. Durante su último año de instituto, una serie de malentendidos y sentimientos que ninguno de los dos se atreve a expresar termina separándolos. Cuatro años después, Phob regresa a su ciudad natal y el anuario escolar vuelve a abrir las heridas y recuerdos de aquella relación que quedó sin resolver.",
+  "activo": true
+}

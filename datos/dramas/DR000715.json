@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000715",
+  "titulo": "Takumi-kun Series 2: Niji-iro no Garasu",
+  "tituloOriginal": "タクミくんシリーズ 虹色の硝子",
+  "alias": [
+    "Takumi-kun Series 2",
+    "Rainbow Colored Glass"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2009,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "74 min",
+  "estado": "Finalizado",
+  "estreno": "2009-04-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    }
+  ],
+  "sinopsis": "Takumi y Gii ya son pareja, pero la dificultad de Takumi para expresar físicamente sus sentimientos provoca nuevas inseguridades. La llegada de un atractivo estudiante de primer curso pone a prueba la confianza de Takumi en la relación.",
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000500",
+  "titulo": "I'm a Fool for You",
+  "tituloOriginal": "那個傻的 請一直傻下去",
+  "alias": [
+    "I’m a Fool for You Season 2",
+    "那個傻的 請一直傻下去 第二季"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000499",
+  "temporadas": 4,
+  "temporada": 2,
+  "episodios": 4,
+  "duracion": 11,
+  "estado": "Finalizado",
+  "estreno": "2021-07-15",
+  "finalizacion": "2021-08-26",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Romance",
+    "Juventud",
+    "Relaciones",
+    "Separación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hin",
+        "Yiu"
+      ]
+    }
+  ],
+  "sinopsis": "La segunda temporada continúa la historia de los protagonistas y profundiza en las relaciones y decisiones sentimentales que comenzaron a desarrollarse en la primera temporada.",
+  "activo": true
+}

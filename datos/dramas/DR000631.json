@@ -1,0 +1,63 @@
+{
+  "codigo": "DR000631",
+  "titulo": "What Did You Eat Yesterday? The Movie",
+  "tituloOriginal": "劇場版 きのう何食べた？",
+  "alias": [
+    "What Did You Eat Yesterday? Movie",
+    "Gekijoban Kinou Nani Tabeta?",
+    "Kino Nani Tabeta? The Movie"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000037",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 120,
+  "estado": "Finalizado",
+  "estreno": "2021-11-03",
+  "finalizacion": "2021-11-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Vida cotidiana",
+    "Pareja estable",
+    "Convivencia",
+    "Cocina",
+    "Familia",
+    "Celos",
+    "Viaje",
+    "Reencuentro",
+    "Adultos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kakei Shiro",
+        "Yabuki Kenji"
+      ]
+    },
+    {
+      "personajes": [
+        "Kohinata Daisaku",
+        "Inoue Wataru"
+      ]
+    }
+  ],
+  "sinopsis": "Shiro y Kenji continúan su vida como pareja y deciden viajar a Kioto para celebrar el cumpleaños de Kenji. Durante el viaje, una conversación sobre la familia de Shiro provoca que ambos empiecen a guardarse sus sentimientos. De vuelta en Tokio, nuevas circunstancias y la aparición de un joven peluquero harán que los dos tengan que enfrentarse a sus inseguridades y a lo que significa construir una vida juntos.",
+  "activo": true
+}

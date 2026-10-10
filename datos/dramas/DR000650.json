@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000650",
+  "titulo": "Old Fashion Cupcake",
+  "tituloOriginal": "オールドファッションカップケーキ",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Old Fashion Cupcake",
+    "tituloOriginal": "オールドファッションカップケーキ",
+    "autor": "Sagan Sagan",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2022-06-13",
+  "finalizacion": "2022-07-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Jefe y subordinado",
+    "Diferencia de edad",
+    "Primer amor",
+    "Amor no correspondido",
+    "Slow burn",
+    "Coming of age"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nozue Togawa",
+        "Togawa Nozue"
+      ]
+    }
+  ],
+  "sinopsis": "Nozue, un empleado de cuarenta años atrapado en una rutina que siente cada vez más vacía, acepta salir con su subordinado Togawa para probar nuevas experiencias. Entre cafés, dulces y pequeñas aventuras, Togawa empieza a revelar que sus sentimientos hacia su jefe son mucho más profundos que una simple admiración profesional.",
+  "activo": true
+}

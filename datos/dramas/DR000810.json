@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000810",
+  "titulo": "Fish Upon the Sky",
+  "tituloOriginal": "ปลาบนฟ้า",
+  "alias": [
+    "Fish Upon the Sky The Series",
+    "Pla Bon Fah",
+    "Fish from the Sky",
+    "Fish Upon the Sky"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Fish Upon the Sky",
+    "tituloOriginal": "ปลาบนฟ้า",
+    "autor": "JittiRain",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45-60 min",
+  "estado": "Finalizado",
+  "estreno": "2021-04-09",
+  "finalizacion": "2021-06-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Odontología",
+    "Medicina",
+    "Amor no correspondido",
+    "Triángulo amoroso",
+    "Rivalidad",
+    "Amistad",
+    "Superación personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mork",
+        "Pi"
+      ]
+    },
+    {
+      "personajes": [
+        "Duean",
+        "Meen"
+      ]
+    }
+  ],
+  "sinopsis": "Pi, un estudiante de odontología inseguro de sí mismo, se enamora de Muang Nan, un estudiante de medicina popular y amable. Convencido de que su aspecto le impide tener alguna posibilidad con él, Pi decide cambiar su imagen. Sin embargo, durante su intento de conquistar a Nan descubre que Mork, un estudiante de medicina cercano a Nan, parece ser su rival. Lo que Pi no sabe es que los sentimientos de Mork están dirigidos hacia él.",
+  "activo": true
+}

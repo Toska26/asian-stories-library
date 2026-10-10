@@ -1,0 +1,88 @@
+{
+  "codigo": "DR000121",
+  "titulo": "Oh! Boarding House",
+  "tituloOriginal": "하숙집 오!번지",
+  "alias": [
+    "Oh! Boarding House",
+    "Boarding House No. 5",
+    "Hasukjip O!beonji"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000121",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-22",
+  "finalizacion": "2022-03-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Pensión",
+    "Convivencia",
+    "Instituto",
+    "Amistad",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Seol Won",
+      "persona": "PR000592",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Cheol Soo",
+      "persona": "PR000626",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seol Won",
+        "Kim Cheol Soo"
+      ]
+    }
+  ],
+  "sinopsis": "Sul Won, un joven que acaba de perder su trabajo, se queda al frente de la casa de huéspedes de bajo coste que regenta su madre cuando ella decide marcharse. De repente tiene que hacerse cargo de un grupo de residentes muy diferentes entre sí: un estudiante de instituto, un antiguo amigo, un profesor y un estudiante de arte. La convivencia hace que entre ellos surjan nuevas amistades, conflictos y sentimientos inesperados, mientras Sul Won descubre que algunos de sus inquilinos sienten algo más por él.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/5f/3e/d3/5f3ed3851bf5860fe95f0ca335adf7c7.jpg",
+      "https://i.pinimg.com/736x/57/95/a7/5795a7355df848af3aaf202a71d22389.jpg",
+      "https://i.pinimg.com/736x/70/42/0c/70420cca23497d1570bb155d130ae54f.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000076",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

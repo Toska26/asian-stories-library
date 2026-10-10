@@ -1,0 +1,117 @@
+{
+  "codigo": "DR000153",
+  "titulo": "Always Meet Again",
+  "tituloOriginal": "언제나 다시 만나",
+  "alias": [
+    "Always Meet Again",
+    "We’ll Always Meet Again",
+    "Eonjena Dashi Manna"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000014",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-03-05",
+  "finalizacion": "2026-03-26",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Viaje en el tiempo",
+    "Primer amor",
+    "Reencuentro",
+    "Instituto",
+    "Segunda oportunidad",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Jang Hye Seong",
+      "persona": "PR000652",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Woo Jin",
+      "persona": "PR000653",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jang Hye Seong",
+        "Lee Woo Jin"
+      ]
+    }
+  ],
+  "sinopsis": "Jang Hye Seong, un ilustrador reconocido, regresa a su antiguo instituto para dar una conferencia y encuentra un viejo cuaderno de dibujos en el que aparece retratado su primer amor, Lee U Jin. Al terminar de dibujar de nuevo su rostro, Hye Seong es transportado misteriosamente al año 2008 y vuelve a tener dieciocho años. Allí se reencuentra con U Jin y decide intentar cambiar los errores que separaron sus vidas, aunque sus sentimientos vuelven a crecer mientras lucha contra un destino que parecía ya escrito.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/9b/89/7b/9b897bd5f9e8eb5530f488df4d25a6a9.jpg",
+      "https://i.pinimg.com/736x/0c/63/1e/0c631ec8fce9b46c6473ede8f36a7fa7.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=vdF1Nsl24mI",
+      "https://www.youtube.com/watch?v=Lizb9-kowlM"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=fDhm7e-0qO4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000108",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000111",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

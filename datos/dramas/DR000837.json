@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000837",
+  "titulo": "Love With Benefits",
+  "tituloOriginal": "10 วันให้ฉันรักเธอ",
+  "alias": [
+    "Love With Benefits The Series",
+    "Love With Benefits 10"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": "40-45 min",
+  "estado": "Finalizado",
+  "estreno": "2021-11-01",
+  "finalizacion": "2021-11-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Industria BL",
+    "Actores",
+    "Convivencia",
+    "Relación fingida",
+    "Showbiz",
+    "Compañeros de piso",
+    "Celos",
+    "Amor no correspondido",
+    "Trabajo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Play",
+        "First"
+      ]
+    }
+  ],
+  "sinopsis": "Play y First son dos jóvenes actores seleccionados para protagonizar una nueva serie BL, pero su falta de química preocupa a la producción. Para conseguir que desarrollen una relación más natural frente a las cámaras, los obligan a vivir juntos durante diez días. La llegada de Pluto, un actor de mayor experiencia que además conoce a Play, complica todavía más sus sentimientos y pone a prueba la relación que empieza a surgir entre los dos protagonistas.",
+  "activo": true
+}

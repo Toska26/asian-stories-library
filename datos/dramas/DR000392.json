@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000392",
+  "titulo": "Got My Eyes on You",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 37,
+  "duracion": 5,
+  "estado": "Finalizado",
+  "estreno": "2025-09-03",
+  "finalizacion": "2025-11-26",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Enemies to Lovers",
+    "Rivalidad",
+    "Trabajo",
+    "Competición",
+    "Amistad",
+    "Atracción",
+    "Relaciones",
+    "Secretos",
+    "Segundas oportunidades",
+    "BL",
+    "Serie vertical"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Drew",
+        "Shawn"
+      ]
+    },
+    {
+      "personajes": [
+        "Kirk",
+        "Wilfred"
+      ]
+    }
+  ],
+  "sinopsis": "Drew y Shawn son compañeros de trabajo y rivales que compiten por el mismo puesto de gerente. Lo que comienza como una relación marcada por la rivalidad y los enfrentamientos profesionales se transforma progresivamente en una atracción que ninguno de los dos esperaba. Mientras intentan equilibrar sus ambiciones laborales con sus sentimientos, también se desarrolla la relación entre Kirk, un joven adinerado interesado en Wilfred, y Wilfred, un trabajador del resort que inicialmente se muestra cauteloso debido a experiencias sentimentales anteriores. Ambas relaciones terminan poniendo el amor y las aspiraciones personales a prueba.",
+  "activo": true
+}

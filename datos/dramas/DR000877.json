@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000877",
+  "titulo": "My Only 12%",
+  "tituloOriginal": "ลุ้นรัก 12%",
+  "alias": [
+    "Lun Rak 12%"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "12%",
+    "tituloOriginal": "12%",
+    "autor": "Afterday",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": "40 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-12",
+  "finalizacion": "2022-11-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Amigos de infancia",
+    "Primer amor",
+    "Vecinos",
+    "Universidad",
+    "Coming-of-age",
+    "Amor no correspondido",
+    "Familia",
+    "Amor a distancia",
+    "Amigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cake",
+        "Seeiw"
+      ]
+    }
+  ],
+  "sinopsis": "Cake y Seeiw son vecinos y amigos inseparables desde que nacieron. Aunque tienen personalidades muy diferentes, han crecido compartiendo cada etapa de sus vidas y se consideran prácticamente hermanos. Con el paso de los años, Seeiw comienza a comprender que sus sentimientos por Cake van más allá de la amistad, mientras que Cake empieza a descubrir que también siente algo diferente por su amigo. Cuando Cake se marcha al extranjero y regresa convertido en una persona distinta, su relación se enfrenta a los cambios propios de crecer, a los celos, a la familia y al miedo de perder a la persona que siempre ha estado a su lado.",
+  "activo": true
+}

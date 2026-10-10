@@ -1,0 +1,125 @@
+{
+  "codigo": "DR000221",
+  "titulo": "HIStory3: Trapped",
+  "tituloOriginal": "HIStory3 - 圈套",
+  "alias": [
+    "Trapped",
+    "HIStory3: Trap",
+    "Quān Tào"
+  ],
+  "tipo": "Drama",
+  "anio": 2019,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 6
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 3,
+  "episodios": 20,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2019-04-16",
+  "finalizacion": "2019-06-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Crimen",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Policía",
+    "Mafia",
+    "Crimen organizado",
+    "Investigación",
+    "Venganza",
+    "Secuestro",
+    "Enemigos a amantes",
+    "Persecución",
+    "Justicia",
+    "Socios"
+  ],
+  "personas": [
+    {
+      "nombre": "Meng Shao Fei",
+      "persona": "PR000775",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tang Yi",
+      "persona": "PR000776",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jack",
+      "persona": "PR000777",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Li An",
+      "persona": "PR000778",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Meng Shao Fei",
+        "Tang Yi"
+      ]
+    },
+    {
+      "personajes": [
+        "Jack",
+        "Zhao Li An"
+      ]
+    }
+  ],
+  "sinopsis": "Después de un tiroteo que acaba con la vida de un policía y del líder de una organización criminal, el detective Meng Shao Fei dedica años a investigar a Tang Yi, el único superviviente y nuevo jefe del grupo Hsin-Tien. La persecución entre ambos cambia cuando son secuestrados juntos y se ven obligados a colaborar para sobrevivir. La investigación, la venganza y la atracción terminan mezclándose mientras intentan descubrir la verdad que se esconde tras el tiroteo del pasado.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=iDH57dqgVtA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

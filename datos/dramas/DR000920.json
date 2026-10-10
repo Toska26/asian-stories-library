@@ -1,0 +1,81 @@
+{
+  "codigo": "DR000920",
+  "titulo": "The Luminous Solution",
+  "tituloOriginal": "แสงส่องรัก",
+  "alias": [
+    "The Luminous Solution The Series",
+    "Luminous Series",
+    "Saeng Song Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000920",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2023-05-27",
+  "finalizacion": "2023-07-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural",
+    "Cafetería mágica",
+    "Deseos",
+    "Precio de los deseos",
+    "Pareja estable",
+    "Infidelidad",
+    "Amor adolescente",
+    "Líneas temporales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thana",
+        "Patis"
+      ]
+    },
+    {
+      "personajes": [
+        "Mai",
+        "Ryou"
+      ]
+    }
+  ],
+  "sinopsis": "Thana atraviesa una crisis tanto laboral como sentimental después de perder su trabajo y sentir que su relación de nueve años con Patis, su novio y médico, se ha deteriorado. Una misteriosa cafetería aparece ante él y le ofrece la posibilidad de pedir un deseo, aunque todo deseo tiene un precio. Paralelamente, el joven Ryou conoce a Mai y comienza a desarrollar sentimientos por él. Las historias de ambos se entrelazan con los secretos de la cafetería y con las consecuencias de los deseos concedidos.",
+  "especiales": [
+    {
+      "titulo": "Side Story Nack-Napat",
+      "fecha": "2023-08-05"
+    },
+    {
+      "titulo": "Side Story Mai-Thana",
+      "fecha": "2023-08-12"
+    },
+    {
+      "titulo": "Side Story Ryou-Patis",
+      "fecha": "2023-08-19"
+    },
+    {
+      "titulo": "Side Story Keaw-Kanda",
+      "fecha": "2023-08-26"
+    },
+    {
+      "titulo": "Side Story Pain",
+      "fecha": "2023-09-02"
+    }
+  ],
+  "activo": true
+}

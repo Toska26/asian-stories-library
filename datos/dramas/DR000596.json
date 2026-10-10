@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000596",
+  "titulo": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+  "tituloOriginal": "寒阳风起春山境",
+  "alias": [
+    "Han Yang Feng Qi Chun Shan Jing"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-06-12",
+  "finalizacion": "2026-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Showbiz",
+    "Rural"
+  ],
+  "tags": [
+    "BL",
+    "Celebridad",
+    "Persona común",
+    "Industria del entretenimiento",
+    "Entorno rural",
+    "Diferencia de clase",
+    "Amor secreto",
+    "Sanación",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Feng Qinglang",
+        "Xu Changyang"
+      ]
+    },
+    {
+      "personajes": [
+        "Han Lu",
+        "Qi Haoyu"
+      ]
+    }
+  ],
+  "sinopsis": "El famoso actor Feng Qinglang se refugia en una zona montañosa de Yunnan para alejarse temporalmente de la presión de la fama. Allí conoce a Xu Changyang, un joven productor de té, y entre ambos nace una relación que desafía sus mundos completamente diferentes. Mientras su relación se enfrenta a la presión pública y familiar, Han Lu y Qi Haoyu desarrollan paralelamente su propia historia de amor.",
+  "activo": true
+}

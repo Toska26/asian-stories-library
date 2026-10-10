@@ -1,0 +1,74 @@
+{
+  "codigo": "DR000834",
+  "titulo": "Top Secret Together",
+  "tituloOriginal": "ได้ครับพี่ดีครับน้อง",
+  "alias": [
+    "Top Secret Together The Series",
+    "Dai Khrab Phi Dee Khrab Nong"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": "40 min",
+  "estado": "Finalizado",
+  "estreno": "2021-05-14",
+  "finalizacion": "2021-08-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Antología",
+    "Cinco parejas",
+    "Universidad",
+    "Trabajo",
+    "Prácticas",
+    "Amistad",
+    "Relación secreta",
+    "Primer amor",
+    "Parejas ficticias",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Simai",
+        "Lukmo"
+      ]
+    },
+    {
+      "personajes": [
+        "Phob",
+        "MaiEak"
+      ]
+    },
+    {
+      "personajes": [
+        "Taow",
+        "Tiger"
+      ]
+    },
+    {
+      "personajes": [
+        "Nampu",
+        "Copy"
+      ]
+    },
+    {
+      "personajes": [
+        "Both",
+        "Newyear"
+      ]
+    }
+  ],
+  "sinopsis": "Top Secret Together reúne cinco historias románticas conectadas por un mismo tema: los secretos que cada pareja guarda sobre sus sentimientos y relaciones. Simai comienza unas prácticas bajo la supervisión de Lukmo; Phob mantiene sentimientos por su mejor amigo MaiEak; Taow y Tiger llevan años juntos; Nampu intenta conquistar a Copy; y Both y Newyear afrontan su relación dentro de la industria del entretenimiento.",
+  "activo": true
+}

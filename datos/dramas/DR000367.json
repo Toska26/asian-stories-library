@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000367",
+  "titulo": "Stranger's Love",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 14,
+  "estado": "Finalizado",
+  "estreno": "2022-07-04",
+  "finalizacion": "2022-09-12",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Extraños",
+    "Desamor",
+    "Encuentro",
+    "Soledad",
+    "Consuelo",
+    "Atracción",
+    "Relaciones"
+  ],
+  "sinopsis": "Dos desconocidos que atraviesan momentos de desamor encuentran consuelo el uno en el otro después de un encuentro inesperado. Lo que comienza como una conexión entre dos personas heridas se transforma en una relación marcada por la intimidad, la vulnerabilidad y la posibilidad de volver a encontrar el amor.",
+  "activo": true
+}

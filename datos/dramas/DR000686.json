@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000686",
+  "titulo": "Cosmetic Playlover",
+  "tituloOriginal": "コスメティック・プレイラバー",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000685",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Cosmetic Playlover",
+    "tituloOriginal": "コスメティック・プレイラバー",
+    "autor": "Sachi Narashima",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-12-26",
+  "finalizacion": "2026-03-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Pareja establecida",
+    "Trabajo",
+    "Cosmética",
+    "Relación a distancia",
+    "Vida profesional"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Natsume Sōichi",
+        "Sahashi Tōma"
+      ]
+    }
+  ],
+  "sinopsis": "Natsume y Tōma continúan su relación mientras afrontan nuevos retos profesionales y personales, incluyendo cambios en sus carreras y nuevas responsabilidades dentro del mundo de la cosmética.",
+  "activo": true
+}

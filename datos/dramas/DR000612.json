@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000612",
+  "titulo": "Ossan's Love -in the sky-",
+  "tituloOriginal": "おっさんずラブ-in the sky-",
+  "alias": [
+    "Ossan's Love in the Sky",
+    "Ossan's Love Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000034",
+    "orden": 4
+  },
+  "serie": "SR000611",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2019-11-02",
+  "finalizacion": "2019-12-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Mundo paralelo",
+    "Aerolínea",
+    "Compañeros de trabajo",
+    "Triángulo amoroso",
+    "Amor adulto",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruta Soichi",
+        "Kurosawa Musashi"
+      ]
+    },
+    {
+      "personajes": [
+        "Naruse Ryu",
+        "Shinomiya Kaname"
+      ]
+    }
+  ],
+  "sinopsis": "En esta historia ambientada en el mundo de la aviación, Haruta Soichi pierde su trabajo y comienza una nueva vida como auxiliar de vuelo en la compañía aérea Tenku Peach Airlines. Allí se ve envuelto en una nueva cadena de sentimientos cuando el capitán Kurosawa Musashi se enamora de él, mientras el copiloto Naruse Ryu y el mecánico Shinomiya Kaname desarrollan su propia historia de amor. Esta producción presenta una historia paralela con nuevos personajes y relaciones dentro del universo de Ossan’s Love.",
+  "activo": true
+}

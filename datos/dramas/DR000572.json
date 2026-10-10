@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000572",
+  "titulo": "Returned Master",
+  "tituloOriginal": "将军家的小儿子",
+  "alias": [
+    "The General’s Youngest Son",
+    "The General’s Son",
+    "Jiang Jun Jia De Xiao Er Zi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 18,
+  "estado": "Finalizado",
+  "estreno": "2025-07-16",
+  "finalizacion": "2025-07-25",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Wuxia",
+    "Histórico",
+    "Misterio"
+  ],
+  "tags": [
+    "Bromance",
+    "Venganza",
+    "Identidad oculta",
+    "Enemigos a aliados",
+    "Artes marciales",
+    "Intriga",
+    "Redención"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Jianwei",
+        "Chen Xiaoxi"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la masacre de su familia, Li Jianwei sobrevive y adopta una nueva identidad para infiltrarse en el Valle Fantasma y vengarse de los responsables. Allí se acerca a Chen Xiaoxi, el joven heredero del valle. A medida que avanzan sus planes, ambos descubren que la verdad sobre sus familias y sus propias identidades es mucho más compleja de lo que parecía.",
+  "activo": true
+}

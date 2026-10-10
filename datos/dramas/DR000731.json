@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000731",
+  "titulo": "Ordinary Love",
+  "tituloOriginal": "普通の恋愛",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-03",
+  "finalizacion": "2026-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Slice of Life"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fumihara Ichiro",
+        "Higashi Kei"
+      ]
+    }
+  ],
+  "sinopsis": "Ichiro Fumihara y Kei Higashi son compañeros de trabajo unidos inicialmente por su pasión por el cine. Lo que comienza como una relación de admiración y confianza se convierte poco a poco en una relación amorosa mientras ambos afrontan sus propias inseguridades y experiencias pasadas.",
+  "activo": true
+}

@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000389",
+  "titulo": "Sashes and Hearts",
+  "alias": [
+    "Sashes & Hearts"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2025-02-22",
+  "finalizacion": "2025-05-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Concursos de belleza",
+    "Competición",
+    "Modelaje",
+    "Amistad",
+    "Rivalidad",
+    "Presión social",
+    "Ambición",
+    "Secretos",
+    "Amor",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gin",
+        "Jarret"
+      ]
+    }
+  ],
+  "sinopsis": "Jack, un joven decidido y apasionado, consigue un título nacional de belleza masculina y comienza su preparación para representar al país en una competición internacional. Mientras él y los demás candidatos luchan por la corona, descubren las presiones, rivalidades y controversias que existen detrás de los concursos. Entre ellos destacan Gin y Jarret, cuya relación evoluciona mientras afrontan juntos las exigencias de la competición y las dificultades personales que surgen bajo los focos.",
+  "activo": true
+}

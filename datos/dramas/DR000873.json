@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000873",
+  "titulo": "Love Syndrome: The Beginning",
+  "tituloOriginal": "รักโคตรๆโหดอย่างมึง 1",
+  "alias": [
+    "Love Syndrome: The Beginning",
+    "Rak Khot Khot Hot Yang Mueng 1",
+    "Love Syndrome I"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Película",
+  "universo": "UN000025",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Love Syndrome",
+    "tituloOriginal": "Love Syndrome",
+    "autor": "Yeo Nim",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "90 min",
+  "estado": "Finalizado",
+  "estreno": "2024-05-09",
+  "finalizacion": "2024-05-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Mature"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Precuela",
+    "Primer encuentro",
+    "Day e Itt",
+    "Night y Gear",
+    "Relación tóxica",
+    "Venganza",
+    "Mafia",
+    "Abuso",
+    "Romance oscuro",
+    "Universo Love Syndrome"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Day",
+        "Itt"
+      ]
+    },
+    {
+      "personajes": [
+        "Night",
+        "Gear"
+      ]
+    }
+  ],
+  "sinopsis": "La película muestra los comienzos de las relaciones de Day e Itt y de Night y Gear antes de los acontecimientos de Love Syndrome III. Tras descubrir que Itt estuvo implicado en el plan que perjudicó a su hermano Night, Day busca vengarse y somete a Itt a una relación marcada por el control, el chantaje y el abuso. Al mismo tiempo, se desarrolla la historia de Night y Gear, cuyo vínculo comienza en circunstancias igualmente traumáticas. Con el tiempo, los sentimientos entre los protagonistas complican todavía más unas relaciones nacidas de la venganza y el conflicto.",
+  "activo": true
+}

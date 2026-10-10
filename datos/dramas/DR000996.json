@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000996",
+  "titulo": "Loy Kaew First Love",
+  "tituloOriginal": "ลอยแก้ว",
+  "alias": [
+    "Loy Kaew",
+    "Loy Kaew First Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-05-16",
+  "finalizacion": "2025-06-20",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amigos de infancia",
+    "Vida rural",
+    "Amor juvenil",
+    "Familia",
+    "Celos",
+    "Amor no correspondido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Loy",
+        "Kaew"
+      ]
+    },
+    {
+      "personajes": [
+        "Wan",
+        "Loy"
+      ]
+    },
+    {
+      "personajes": [
+        "Phat",
+        "Loy"
+      ]
+    }
+  ],
+  "sinopsis": "Loy y Kaew son amigos de infancia que viven en una comunidad rural y cuyos sentimientos evolucionan hasta convertirse en un amor profundo. Sin embargo, Kaew es hijo del jefe del pueblo y su hermana Wan también está enamorada de Loy. A la situación se suma Phat, otro joven que ama obsesivamente a Loy y está dispuesto a enfrentarse a él y a Kaew para conseguir lo que desea.",
+  "activo": true
+}

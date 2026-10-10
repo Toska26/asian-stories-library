@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000943",
+  "titulo": "The Outing",
+  "tituloOriginal": "ทริปซ่อนชู้",
+  "alias": [
+    "The Outing",
+    "Thip Son Chu"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-02-15",
+  "finalizacion": "2024-03-03",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Tragedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chess",
+        "Peng"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Historia",
+      "historia": "Familia Anan",
+      "orden": 1
+    },
+    {
+      "tipo": "Historia",
+      "historia": "Familia Phupha",
+      "orden": 2
+    },
+    {
+      "tipo": "Historia",
+      "historia": "Familia Taurus",
+      "orden": 3
+    }
+  ],
+  "sinopsis": "Durante un viaje anual de empresa, los miembros de tres familias vinculadas a una agencia de publicidad quedan aislados en un resort durante tres días y dos noches. Lo que comienza como una escapada de convivencia se convierte en una sucesión de secretos, infidelidades, celos y traiciones que salen a la luz entre las veintidós personas reunidas.",
+  "activo": true
+}

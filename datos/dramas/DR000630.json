@@ -1,0 +1,63 @@
+{
+  "codigo": "DR000630",
+  "titulo": "What Did You Eat Yesterday? Season 2",
+  "tituloOriginal": "きのう何食べた？ season2",
+  "alias": [
+    "What Did You Eat Yesterday? Season 2",
+    "Kinou Nani Tabeta? Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000037",
+    "orden": 4
+  },
+  "serie": "SR000620",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2023-10-06",
+  "finalizacion": "2023-12-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Vida cotidiana",
+    "Pareja estable",
+    "Convivencia",
+    "Cocina",
+    "Familia",
+    "Trabajo",
+    "Adultos",
+    "Envejecimiento",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kakei Shiro",
+        "Yabuki Kenji"
+      ]
+    },
+    {
+      "personajes": [
+        "Kohinata Daisaku",
+        "Inoue Wataru"
+      ]
+    }
+  ],
+  "sinopsis": "Shiro y Kenji entran en una nueva etapa de su vida mientras se acercan a los cincuenta. Su rutina cotidiana continúa alrededor de la comida y de su convivencia, pero empiezan a aparecer cambios relacionados con el trabajo, la familia, la salud, el envejecimiento y la manera en que ambos imaginan su futuro juntos.",
+  "activo": true
+}

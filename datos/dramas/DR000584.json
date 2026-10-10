@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000584",
+  "titulo": "Dashing Youth",
+  "tituloOriginal": "少年白马醉春风",
+  "alias": [
+    "Shao Nian Bai Ma Zui Chun Feng",
+    "Dashing Youth",
+    "The Young Brewmaster’s Adventure"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "universo": "UN000021",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Dashing Youth",
+    "tituloOriginal": "少年白马醉春风",
+    "autor": "Zhou Munan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-07-19",
+  "finalizacion": "2024-08-14",
+  "generos": [
+    "Bromance",
+    "Wuxia",
+    "Aventura",
+    "Acción",
+    "Fantasía",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela",
+    "Precuela",
+    "Jianghu",
+    "Artes marciales",
+    "Generación anterior",
+    "Universo compartido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Baili Dongjun",
+        "Ye Dingzhi"
+      ]
+    }
+  ],
+  "sinopsis": "Baili Dongjun, joven heredero del Marqués de Zhenxi, prefiere elaborar vino antes que convertirse en guerrero. Su encuentro con Ye Dingzhi y su incorporación al mundo de las artes marciales lo llevan a participar en conflictos que marcarán a la generación anterior a los protagonistas de The Blood of Youth.",
+  "activo": true
+}

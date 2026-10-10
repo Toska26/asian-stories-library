@@ -1,0 +1,52 @@
+{
+  "codigo": "DR001063",
+  "titulo": "Love Must Be Fixed",
+  "tituloOriginal": "รักต้องซ่อม",
+  "alias": [
+    "Rak Tong Som"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2026-08-06",
+  "finalizacion": "2026-09-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Competencia empresarial",
+    "Diferencias de clase",
+    "Múltiples parejas",
+    "Pareja BL secundaria",
+    "Herencia empresarial",
+    "Superación personal",
+    "BSRUTV"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Din",
+        "Ya"
+      ]
+    },
+    {
+      "personajes": [
+        "Kanghan",
+        "Time"
+      ]
+    }
+  ],
+  "sinopsis": "Din es un técnico especializado en reparar tuberías que destaca por su habilidad práctica y su sentido de la justicia. Su vida cambia cuando se ve involucrado en una gran empresa y participa en The Next Leader, una competición destinada a encontrar a la próxima generación de dirigentes. Allí conoce a Ya, una heredera que carga con responsabilidades y conflictos personales, y debe desenvolverse en un entorno donde el poder y las conexiones parecen importar más que el talento. Mientras Din afronta los desafíos empresariales, su asistente Kanghan inicia su propio intento de conquistar a Time, un joven privilegiado acostumbrado a recibir un trato especial. Entre rivalidades, diferencias sociales y problemas laborales, ambas relaciones muestran que reparar un sistema puede ser más sencillo que reconstruir la confianza y comprender los sentimientos de otra persona.",
+  "activo": true
+}

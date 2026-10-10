@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000164",
+  "titulo": "FC Soldout",
+  "tituloOriginal": "FC 솔드아웃",
+  "alias": [
+    "FC Soldout",
+    "FC Soldout"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "27 min",
+  "estado": "Finalizado",
+  "estreno": "2025-01-17",
+  "finalizacion": "2025-03-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Fútbol",
+    "Deporte",
+    "Equipo deportivo",
+    "Famoso",
+    "Celebridad",
+    "Entrenamiento",
+    "Fan a amante"
+  ],
+  "personas": [
+    {
+      "nombre": "Jong-hoon",
+      "persona": "PR000680",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Deok-won",
+      "persona": "PR000681",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Do Ji-woo",
+        "Ryu Kyung-jae"
+      ]
+    }
+  ],
+  "sinopsis": "Un equipo de fútbol profesional en dificultades es adquirido por una gran empresa de entretenimiento que pretende convertirlo en un equipo lleno de jugadores atractivos y populares. Do Ji-woo, uno de los jugadores originales, descubre que entre las nuevas incorporaciones está Yoo Kang-jae, el actor al que admira. Lo que comienza como la llegada de su ídolo al equipo se transforma poco a poco en una relación marcada por los conflictos, la convivencia y sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/haX6tI8bGGzaVMcHWLCdLQtKLKl.jpg"
+    ],
+    "trailer": [
+      "https://player.vimeo.com/video/1069457413"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000129",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000114",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

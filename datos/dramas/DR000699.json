@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000699",
+  "titulo": "Love Sea: The Home for Lovers",
+  "tituloOriginal": "Love Sea ～愛の居場所～",
+  "alias": [
+    "Love Sea: Ai no Ibasho"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000698",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación y remake",
+    "titulo": "Love Sea",
+    "tituloOriginal": "ต้องรักมหาสมุทร",
+    "autor": "MAME Orawan Vichayawannakul",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-08-11",
+  "finalizacion": "2025-09-29",
+  "generos": [
+    "BL",
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "GL",
+    "Romance",
+    "Remake",
+    "Escritor",
+    "Isla",
+    "Sanación",
+    "Pareja BL",
+    "Pareja GL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "楽本愛",
+        "武藤海心"
+      ]
+    },
+    {
+      "personajes": [
+        "宇井姫花",
+        "小椋ふみ"
+      ]
+    }
+  ],
+  "sinopsis": "楽本愛, un popular escritor de novelas románticas que vive en Tokio, viaja a una isla para buscar inspiración para su nueva obra. Allí conoce a 武藤海心, un popular guía turístico de la isla. Aunque proceden de mundos y tienen valores completamente diferentes, ambos comienzan a acercarse mientras pasan tiempo juntos y afrontan las heridas de su pasado.",
+  "especiales": [
+    {
+      "titulo": "Love Sea: The Home for Lovers — Special 1",
+      "alias": [
+        "Love Sea ～愛の居場所～ Special 1"
+      ],
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1
+    },
+    {
+      "titulo": "Love Sea: The Home for Lovers — Special 2",
+      "alias": [
+        "Love Sea ～愛の居場所～ Special 2"
+      ],
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1
+    }
+  ],
+  "activo": true
+}

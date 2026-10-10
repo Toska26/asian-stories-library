@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000602",
+  "titulo": "The Last Secret",
+  "tituloOriginal": "最后的秘密",
+  "alias": [
+    "Zui Hou De Mi Mi",
+    "Zuihou de Mimi",
+    "The Secrets",
+    "Mi Mi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 11,
+  "estado": "Finalizado",
+  "estreno": "2026-07-16",
+  "finalizacion": "2026-07-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Misterio",
+    "Sobrenatural",
+    "Terror",
+    "Drama"
+  ],
+  "tags": [
+    "Ritual",
+    "Maldición",
+    "Templo",
+    "Dios sobrenatural",
+    "Secretos",
+    "Suspense",
+    "Supervivencia",
+    "Confesión de amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yun Feng",
+        "Hua An"
+      ]
+    }
+  ],
+  "sinopsis": "Yun Feng y Hua An viajan juntos a un lugar remoto después de descubrir en Internet la existencia de un templo relacionado con una antigua leyenda. Lo que comienza como una escapada entre dos amigos se convierte en una pesadilla cuando entran en contacto con una entidad sobrenatural que exige secretos a cambio de permitirles sobrevivir. Atrapados por un ritual que deben completar, ambos se ven obligados a enfrentarse a verdades que llevaban demasiado tiempo ocultando. Lo que parecía una amistad marcada por bromas y confianza acaba revelando sentimientos mucho más profundos.",
+  "activo": true
+}

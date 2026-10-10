@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000988",
+  "titulo": "Gelboys 2",
+  "tituloOriginal": "GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน",
+  "alias": [
+    "GELBOYS 2",
+    "Gelboys Season 2",
+    "Gelboys 2: Fandom Status",
+    "ตกอยู่ในสถานะติ่งแฟน"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "serie": "SR000987",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 65,
+  "estado": "Finalizado",
+  "estreno": "2026-08-08",
+  "finalizacion": "2026-09-26",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juvenil",
+    "Música"
+  ],
+  "tags": [
+    "Temporada 2",
+    "Idols",
+    "T-Pop",
+    "Fandom",
+    "Relación secreta",
+    "Redes sociales",
+    "Celos",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fou4Mod",
+        "Chian"
+      ]
+    },
+    {
+      "personajes": [
+        "Baabin",
+        "Bua"
+      ]
+    },
+    {
+      "personajes": [
+        "Gelz",
+        "Baby"
+      ]
+    }
+  ],
+  "sinopsis": "La segunda temporada continúa la historia de los cuatro protagonistas después de que Fou4Mod y Chian se conviertan oficialmente en pareja, mientras Baabin y Bua también consolidan su relación. Fou4Mod debuta como idol y su relación con Chian debe mantenerse en secreto para proteger su carrera. Al mismo tiempo, Baabin y Bua descubren que su pasión por el T-Pop y sus respectivos fandoms comienza a afectar a su relación. La temporada también amplía la historia de Gelz y Baby y conecta el presente de los jóvenes con el pasado de sus familias.",
+  "activo": true
+}

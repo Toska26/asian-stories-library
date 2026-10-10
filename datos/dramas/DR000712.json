@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000712",
+  "titulo": "The Journey to Killing You Season 2",
+  "tituloOriginal": "あなたを殺す旅 Season 2",
+  "alias": [
+    "The Journey to Kill You Season 2",
+    "Anata wo Korosu Tabi Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000704",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The Journey to Killing You",
+    "tituloOriginal": "あなたを殺す旅",
+    "autor": "Asai Nishi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "estado": "Próximamente",
+  "estreno": "2026-10-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Yakuza",
+    "Crimen",
+    "Venganza",
+    "Road Trip",
+    "Amor peligroso",
+    "Pareja estable",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kataoka Kinji",
+        "Odajima Ren"
+      ]
+    }
+  ],
+  "sinopsis": "Tres años después de abandonar el mundo de la yakuza, Kataoka Kinji y Odajima Ren viven juntos como pareja en Okinawa, donde regentan una tienda de helados. Sin embargo, una nueva crisis relacionada con el antiguo clan de Kinji los obliga a regresar al mundo que habían dejado atrás.",
+  "activo": true
+}

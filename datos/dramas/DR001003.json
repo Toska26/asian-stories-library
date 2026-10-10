@@ -1,0 +1,53 @@
+{
+  "codigo": "DR001003",
+  "titulo": "My Sweetheart Jom",
+  "tituloOriginal": "หวานใจผู้ใหญ่จอม",
+  "alias": [
+    "Wanjai Phuyai Jom"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Wanjai Phuyai Jom",
+    "tituloOriginal": "หวานใจผู้ใหญ่จอม",
+    "autor": "Naoto",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-05-16",
+  "finalizacion": "2025-08-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Pueblo",
+    "Romance rural",
+    "Enemigos a amantes",
+    "Diferencias sociales",
+    "Familia",
+    "Convivencia",
+    "Slow burn"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jom",
+        "Yothin"
+      ]
+    }
+  ],
+  "sinopsis": "Yothin, un joven de ciudad procedente de una familia adinerada, se ve obligado a trasladarse al pueblo de Bang Pho después de verse implicado en un conflicto relacionado con el hijo de un mafioso. Allí queda bajo la supervisión de Jom, el responsable y estricto nieto del jefe local. Sus personalidades chocan desde el principio, pero la convivencia hace que ambos comiencen a comprenderse y a desarrollar sentimientos.",
+  "activo": true
+}

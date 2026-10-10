@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000787",
+  "titulo": "Gen Y",
+  "tituloOriginal": "วัยรุ่นวุ่นYรัก",
+  "alias": [
+    "Gen Y: The Series",
+    "Gen Y The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000787"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2020-11-11",
+  "finalizacion": "2021-01-27",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Instituto",
+    "Amistad",
+    "Múltiples parejas",
+    "Amor juvenil",
+    "Triángulo amoroso"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mark",
+        "Kit"
+      ]
+    },
+    {
+      "personajes": [
+        "Wayu",
+        "Pha"
+      ]
+    },
+    {
+      "personajes": [
+        "Tong",
+        "Pok"
+      ]
+    }
+  ],
+  "sinopsis": "Wayu acaba de terminar su relación con Pha cuando su amigo Mark intenta ayudarlo a superar la ruptura. Al mismo tiempo, Mark se propone conquistar a Kit, un estudiante de Medicina conocido por ser difícil de acercar. Mientras Mark y Kit comienzan a desarrollar sentimientos, Wayu se encuentra con Thanu y ambos empiezan a acercarse. Sin embargo, la aparición de Phai, que mantiene un vínculo especial con Thanu, complica las relaciones y pone a prueba los sentimientos de todos.",
+  "activo": true
+}

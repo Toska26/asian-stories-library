@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000542",
+  "titulo": "Secrets Happened on the Litchi Island",
+  "tituloOriginal": "荔枝树下热烈岛",
+  "alias": [
+    "Li Zhi Shu Xia Re Lie Dao"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "estado": "Finalizado",
+  "estreno": "2025-03-03",
+  "finalizacion": "2025-04-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Isla",
+    "Reencuentro",
+    "Extras"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nie Xiaozhi",
+        "Chen Li"
+      ]
+    }
+  ],
+  "sinopsis": "En una isla donde los recuerdos y los secretos del pasado vuelven a salir a la luz, Nie Xiaozhi y Chen Li desarrollan una relación que transforma sus vidas mientras afrontan sus sentimientos y las circunstancias que los rodean.",
+  "activo": true
+}

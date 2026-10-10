@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000941",
+  "titulo": "The Sun From Another Star",
+  "tituloOriginal": "อาทิตย์ดาวตก",
+  "alias": [
+    "West: The Sun From Another Star",
+    "Fourever You Part 2: The Sun From Another Star",
+    "Fourever You 2: The Sun From Another Star",
+    "Arthit Daotok"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000047",
+    "orden": 3
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "West: The Sun From Another Star",
+    "tituloOriginal": "อาทิตย์ดาวตก",
+    "autor": "Howlsairy",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2026-03-04",
+  "finalizacion": "2026-04-22",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Universitario"
+  ],
+  "tags": [
+    "Adaptación",
+    "Fantasmas",
+    "Sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Arthit",
+        "Daotok"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "The Sun From Another Star — Special Episode",
+      "estreno": "2026-08-04",
+      "duracion": 57
+    }
+  ],
+  "sinopsis": "Daotok es un joven reservado con la capacidad de percibir y comunicarse con espíritus. Cuando Arthit, un estudiante de Medicina que vive cerca de él, necesita su ayuda para encontrar el espíritu de su madre fallecida, ambos comienzan a relacionarse de una manera inesperada. Lo que empieza como una búsqueda sobrenatural acaba acercándolos y transformando su relación en una historia de amor.",
+  "activo": true
+}

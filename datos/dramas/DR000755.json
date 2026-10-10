@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000755",
+  "titulo": "What the Duck: The Series",
+  "tituloOriginal": "รักแลนดิ้ง",
+  "alias": [
+    "What the Duck",
+    "What The Duck"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "serie": "SR000755",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2018-01-01",
+  "finalizacion": "2018-03-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pop",
+        "Oat"
+      ]
+    },
+    {
+      "personajes": [
+        "Pree",
+        "Rambo"
+      ]
+    }
+  ],
+  "sinopsis": "Pop sueña con convertirse en auxiliar de vuelo, pero tras no superar las pruebas termina trabajando en el departamento de catering de una compañía aérea. Allí conoce a Oat, un compañero problemático cuya relación con Pop evoluciona gradualmente desde los enfrentamientos y la amistad hasta los sentimientos románticos. Paralelamente, Pree y Rambo mantienen una relación estable que se ve amenazada por las presiones familiares y el matrimonio que el padre de Rambo quiere imponerle.",
+  "activo": true
+}

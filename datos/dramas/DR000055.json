@@ -1,0 +1,74 @@
+{
+  "codigo": "DR000055",
+  "titulo": "I Will Always Save You",
+  "tituloOriginal": "โปรดอยู่ในความคุ้มครองของป้องปืน",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000055",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 0,
+  "duracion": 0,
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Acción",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "",
+      "persona": "PR000520",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "",
+      "persona": "PR000521",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000083",
+      "personajes": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "sinopsis": "Una nueva serie de acción, romance y comedia protagonizada por Jimmy Jitaraphol Potiwihok y Sea Tawinan Anukoolprasert, anunciada por GMMTV para 2026.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/57/fe/0f/57fe0f2349332ca9630f0cff8b955d76.jpg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=6oXwGSyvsxg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

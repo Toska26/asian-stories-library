@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000075",
+  "titulo": "Enchanté",
+  "tituloOriginal": "ใครคืออองชองเต",
+  "alias": [
+    "Who Is Enchanté?"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000075",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2022-01-28",
+  "finalizacion": "2022-04-01",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Akk",
+      "persona": "PR000516",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Theo",
+      "persona": "PR000517",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000081",
+      "personajes": [
+        "Akk",
+        "Theo"
+      ]
+    }
+  ],
+  "sinopsis": "Theo regresa a Tailandia después de haber vivido varios años en Francia y retoma su amistad con Akk, su vecino y amigo de la infancia. Al encontrar en un libro de la biblioteca unos mensajes firmados por alguien que se identifica como Enchanté, Theo comienza a buscar su identidad. Cuatro estudiantes se presentan como el misterioso Enchanté, mientras Akk lo ayuda a descubrir quién está detrás de los mensajes. Durante la búsqueda, la relación entre Theo y Akk empieza a cambiar y ambos deben enfrentarse a sentimientos que habían permanecido ocultos desde su infancia.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000020508093/0/enchante.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=7nBxV1IRIcg"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=IHT_jd61RFQ",
+      "https://www.youtube.com/watch?v=02f64J53ry4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

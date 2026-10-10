@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000439",
+  "titulo": "Follow My Sunshine",
+  "alias": [
+    "Follow My Sunshine The Series"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2020-12-23",
+  "finalizacion": "2021-01-20",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Amor",
+    "Juventud",
+    "Reencuentro",
+    "LGBT"
+  ],
+  "sinopsis": "Una historia romántica centrada en dos jóvenes cuyo vínculo se desarrolla mientras afrontan sus sentimientos y las circunstancias que ponen a prueba su relación.",
+  "activo": true
+}

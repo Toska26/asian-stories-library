@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000955",
+  "titulo": "Knock Knock, Boys!",
+  "tituloOriginal": "บ้านหนุ่มโสด โหมดพร้อมเลิฟ",
+  "alias": [
+    "Knock Knock, Boys!",
+    "Knock Knock House",
+    "Ban Num Sot Mode Phrom Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-05-30",
+  "finalizacion": "2024-08-08",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Cohabitación",
+    "Universitario",
+    "Amor juvenil",
+    "Friends to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Latte",
+        "Almond"
+      ]
+    },
+    {
+      "personajes": [
+        "Thanwa",
+        "Peak"
+      ]
+    }
+  ],
+  "sinopsis": "Cuatro jóvenes solteros, Peak, Thanwa, Latte y Almond, terminan compartiendo una casa de alquiler. Almond, que nunca ha tenido una relación, propone a sus compañeros un trato: si consiguen ayudarlo a conquistar al chico que le gusta y a vivir su primera experiencia amorosa, tendrán el alquiler gratis durante un año. Lo que comienza como una misión entre amigos termina haciendo que los propios compañeros de casa se enfrenten a sus sentimientos.",
+  "activo": true
+}

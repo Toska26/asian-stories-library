@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001053",
+  "titulo": "KNOT",
+  "tituloOriginal": "KNOT",
+  "alias": [
+    "KNOT The Series",
+    "KNOT: Alpha Omega Series",
+    "KNOT: Real Omegaverse"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-06-30",
+  "finalizacion": "2026-09-15",
+  "generos": [
+    "Omegaverse",
+    "Drama romántico",
+    "Pareja predestinada"
+  ],
+  "tags": [
+    "Alfa y Omega",
+    "True Alpha",
+    "Feromonas",
+    "Vínculo de pareja",
+    "Pareja predestinada",
+    "Mordida",
+    "Jerarquía de poder",
+    "Protagonista posesivo",
+    "Celos",
+    "Convivencia forzada",
+    "Conflicto familiar",
+    "Herencia familiar",
+    "Identidad desconocida",
+    "Peligro y rescate",
+    "Instinto y elección"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nakhun",
+        "Phatsa"
+      ]
+    }
+  ],
+  "sinopsis": "Phatsa ha crecido sin saber que los Alfas, Betas y Omegas conviven con la sociedad corriente. Su vida cambia cuando conoce a Nakhun, un heredero de una familia poderosa y un raro True Alpha. Una mordida crea entre ellos un vínculo difícil de romper y los obliga a afrontar las consecuencias de sus instintos, sus diferencias sociales y sus sentimientos. Phatsa deberá defender su independencia mientras ambos descubren si su conexión puede convertirse en una relación elegida libremente.",
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000267",
+  "titulo": "Hello Stranger: The Movie",
+  "tituloOriginal": "Hello Stranger: The Movie",
+  "alias": [
+    "Hello, Stranger: The Movie"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "pelicula",
+  "franquicia": {
+    "codigo": "FR000023",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 101,
+  "estado": "Finalizado",
+  "estreno": "2021-02-12",
+  "finalizacion": "2021-02-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Película",
+    "Romance",
+    "Escritura",
+    "Campamento",
+    "Pareja",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xavier de Guzman",
+        "Mico Ramos"
+      ]
+    }
+  ],
+  "sinopsis": "Xavier y Mico participan en un campamento de escritura donde vuelven a enfrentarse a nuevas experiencias y obstáculos mientras intentan definir el futuro de su relación. La película continúa la historia de la serie Hello Stranger.",
+  "activo": true
+}

@@ -1,0 +1,63 @@
+{
+  "codigo": "DR000913",
+  "titulo": "Low Frequency",
+  "tituloOriginal": "คลื่นความถี่ต่ำ",
+  "alias": [
+    "Low Frequency The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Low Frequency",
+    "tituloOriginal": "คลื่นความถี่ต่ำ",
+    "autor": "Dawin",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2023-07-08",
+  "finalizacion": "2023-08-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasia",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Fantasmas",
+    "Espíritus",
+    "Accidente",
+    "Coma",
+    "Médium",
+    "Investigación",
+    "Misterio",
+    "Celebridad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mon",
+        "Thames"
+      ]
+    }
+  ],
+  "sinopsis": "Mon, un joven diseñador de interiores capaz de ver espíritus, descubre que Thames, un joven actor que ha sufrido un accidente, puede aparecer ante él mientras permanece inconsciente. Mon decide ayudarlo a descubrir qué ocurrió y a resolver los misterios relacionados con el accidente.",
+  "especiales": [
+    {
+      "titulo": "Low Frequency Special Episode",
+      "tituloOriginal": "Special Episode",
+      "anio": 2023,
+      "fecha": "2023-09-02"
+    }
+  ],
+  "activo": true
+}

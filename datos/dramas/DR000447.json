@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000447",
+  "titulo": "Stupid Boys Stupid Love",
+  "alias": [
+    "Yêu Đi Sợ Gì"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Webdrama",
+  "serie": "SR000447",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2021-04-24",
+  "finalizacion": "2021-05-15",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Romance",
+    "Amistad",
+    "Instituto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Trọng Nghĩa",
+        "Nhật Minh"
+      ]
+    }
+  ],
+  "sinopsis": "Trọng Nghĩa y Nhật Minh han sido amigos desde la infancia, pero Nghĩa comienza a descubrir que sus sentimientos hacia su mejor amigo son algo más que amistad. El inicio de la historia establece la relación y los acontecimientos que continuarán en las siguientes temporadas.",
+  "activo": true
+}

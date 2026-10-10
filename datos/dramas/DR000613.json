@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000613",
+  "titulo": "Ossan's Love -Returns-",
+  "tituloOriginal": "おっさんずラブ-リターンズ-",
+  "alias": [
+    "Ossan's Love Returns",
+    "Ossan's Love Season 3"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000034",
+    "orden": 5
+  },
+  "serie": "SR000611",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 9,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-01-05",
+  "finalizacion": "2024-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Matrimonio",
+    "Vida en pareja",
+    "Familia",
+    "Convivencia",
+    "Amor adulto",
+    "Oficina",
+    "Nuevos comienzos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruta Soichi",
+        "Maki Ryota"
+      ]
+    },
+    {
+      "personajes": [
+        "Izumi Ko",
+        "Rikudo Kikunosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Cinco años después de los acontecimientos de la primera historia, Haruta Soichi y Maki Ryota han vuelto a reunirse y comienzan su vida matrimonial juntos tras el periodo de distancia y la estancia de Maki en el extranjero. Sin embargo, descubrirán que estar casados también implica enfrentarse a las responsabilidades, diferencias y dificultades de la vida cotidiana. Mientras intentan construir su nueva vida como familia, el antiguo jefe de Haruta, Kurosawa Musashi, aparece como su nuevo empleado doméstico. Paralelamente, los vecinos Izumi Ko y Rikudo Kikunosuke esconden una historia relacionada con su pasado y desarrollan sus propios sentimientos.",
+  "activo": true
+}

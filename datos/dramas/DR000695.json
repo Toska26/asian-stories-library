@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000695",
+  "titulo": "Love Is a Poison",
+  "tituloOriginal": "毒恋～毒もすぎれば恋となる～",
+  "alias": [
+    "Doku Koi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Doku Koi: Doku mo Sugireba Koi to Naru",
+    "tituloOriginal": "毒恋～毒もすぎれば恋となる～",
+    "autor": "Keisuke Makino",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2024-09-10",
+  "finalizacion": "2024-12-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Crimen",
+    "Abogado",
+    "Estafador",
+    "Misterio",
+    "Investigación",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shiba Ryoma",
+        "Haruto"
+      ]
+    }
+  ],
+  "sinopsis": "Ryoma Shiba es un brillante abogado que conoce a Haruto, un joven estafador capaz de adoptar cualquier identidad. Impresionado por sus habilidades, Ryoma lo convierte en su socio secreto para resolver casos y ambos terminan viviendo juntos mientras sus sentimientos evolucionan hacia el amor.",
+  "activo": true
+}

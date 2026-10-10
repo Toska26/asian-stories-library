@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000386",
+  "titulo": "Sky Valley",
+  "alias": [
+    "Sky Valley The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2024-07-20",
+  "finalizacion": "2024-10-12",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Resort",
+    "Naturaleza",
+    "Amor",
+    "Atracción",
+    "Secretos",
+    "Diferencias sociales",
+    "Segundas oportunidades",
+    "Vlogger",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Junjun",
+        "Fourth"
+      ]
+    },
+    {
+      "personajes": [
+        "Paris",
+        "Taylor"
+      ]
+    }
+  ],
+  "sinopsis": "En el parque turístico Sky Valley se desarrollan dos historias de amor. Junjun, un instructor de equitación del resort, se siente atraído por Fourth, un misterioso y adinerado huésped que llega buscando escapar de sus problemas. Paralelamente, Paris, una vlogger de Manila, conoce a Taylor, la hija del propietario del resort, y entre ambas surge una relación romántica. Las dos historias exploran el amor, las diferencias sociales, los secretos y la búsqueda de autenticidad en un entorno aislado.",
+  "activo": true
+}

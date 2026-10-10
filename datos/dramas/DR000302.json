@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000302",
+  "titulo": "Hook Up",
+  "alias": [
+    "Hook Up: A Homemade Series",
+    "Hook Up: A Home-made Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000025",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2020-08-01",
+  "finalizacion": "2020-09-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mark Lee Rivera",
+        "Henry Sarmiento"
+      ]
+    }
+  ],
+  "sinopsis": "Mark Lee, confundido sobre su sexualidad después de varias relaciones fallidas con chicas, decide probar una aplicación de citas durante el confinamiento. Allí conoce a Henry y ambos comienzan una relación que pasa de las conversaciones por internet a un vínculo romántico, mientras deben enfrentarse a problemas familiares, celos y la intervención de Lukas.",
+  "activo": true
+}

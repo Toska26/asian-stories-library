@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000933",
+  "titulo": "My Tempo",
+  "tituloOriginal": "น้องพี่ ดนตรี+เพื่อน",
+  "alias": [
+    "My Tempo: The Movie"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Película",
+  "remake": {
+    "codigo": "DR000933",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 119,
+  "estado": "Finalizado",
+  "estreno": "2022-10-20",
+  "finalizacion": "2022-10-20",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Música",
+    "Coming of Age"
+  ],
+  "tags": [
+    "Drama",
+    "Romance",
+    "Música",
+    "Coming of Age",
+    "Amistad",
+    "Juventud",
+    "Estudiantes",
+    "Instituto",
+    "Guitarra",
+    "Música clásica",
+    "Competición musical",
+    "Fama",
+    "Sueños",
+    "Superación"
+  ],
+  "sinopsis": "Hope y Seiki son dos estudiantes de música con un gran talento para la guitarra clásica. Ambos forman un dúo y su particular forma de interpretar juntos les proporciona una creciente popularidad. Mientras persiguen sus sueños musicales y se preparan para competir en un importante concurso, deberán enfrentarse a la presión, la fama, la amistad y los sentimientos que surgen entre ellos.",
+  "activo": true
+}

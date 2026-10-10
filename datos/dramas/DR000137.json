@@ -1,0 +1,150 @@
+{
+  "codigo": "DR000137",
+  "titulo": "Love Class 3",
+  "tituloOriginal": "수업중입니다 3",
+  "alias": [
+    "Love Class 3",
+    "Love Class Season 3",
+    "Sueop Jungimnida 3"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000128",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 16,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-28",
+  "finalizacion": "2026-07-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "K-pop",
+    "Ídolos",
+    "Música",
+    "Industria del entretenimiento",
+    "Reencuentro",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Hyun Jae",
+      "persona": "PR000622",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Soo An",
+      "persona": "PR000623",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae Min",
+      "persona": "PR000624",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khun",
+      "persona": "PR000625",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hyun Jae",
+        "Soo An"
+      ]
+    },
+    {
+      "personajes": [
+        "Jae Min",
+        "Khun"
+      ]
+    }
+  ],
+  "sinopsis": "Hyun Jae y Soo An se conocen mientras compiten en un programa de supervivencia para convertirse en idols y, durante los entrenamientos, comienzan a desarrollar sentimientos que ninguno de los dos se atreve a expresar. Sin embargo, solo Hyun Jae consigue debutar y ambos terminan separados por las exigencias de la industria. Años después, un nuevo proyecto profesional vuelve a reunirlos, pero ahora su posible relación supone un riesgo mucho mayor para sus carreras. Al mismo tiempo, Jae Min, que ha quedado apartado de sus sueños de debutar tras un escándalo, conoce a Khun, un joven músico tailandés con quien comienza a construir una relación mientras ambos intentan encontrar su propio camino.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/ec/15/26/ec152601468c0e3dafb520af4b93447b.jpg",
+      "https://i.pinimg.com/736x/8e/15/ad/8e15ad7fd1f92ce566ce71e85d3564a7.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1270922v",
+      "https://www.youtube.com/watch?v=jpjrblJ_DMQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000094",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000093",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000092",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

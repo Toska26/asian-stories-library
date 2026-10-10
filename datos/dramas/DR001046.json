@@ -1,0 +1,25 @@
+{
+  "codigo": "DR001046",
+  "titulo": "My Grandpa Is a BL Writer",
+  "tituloOriginal": "คุณปู่เป็นนักเขียน BL",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-16",
+  "finalizacion": "2026-06-21",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "BL"
+  ],
+  "sinopsis": "Un joven descubre que su abuelo, un hombre aparentemente tradicional, escribe novelas BL en secreto. A partir de este descubrimiento, la vida familiar comienza a cambiar y el joven termina involucrándose en situaciones relacionadas con las historias y personajes que su abuelo crea.",
+  "activo": true
+}

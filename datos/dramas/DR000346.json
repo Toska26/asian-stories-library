@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000346",
+  "titulo": "Herma",
+  "alias": [
+    "HERMA",
+    "Herma The BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2021-04-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Identidad",
+    "Intersexualidad",
+    "Aceptación",
+    "Drama social"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Algiro",
+        "Luiz"
+      ]
+    }
+  ],
+  "sinopsis": "Herma cuenta la historia de una persona que nace con características sexuales masculinas y femeninas y se enfrenta a cuestiones de identidad, aceptación y relaciones mientras intenta comprender quién es realmente y encontrar su lugar junto a las personas que la rodean.",
+  "activo": true
+}

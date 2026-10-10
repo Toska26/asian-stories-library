@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000548",
+  "titulo": "Revenged Love",
+  "tituloOriginal": "逆爱",
+  "alias": [
+    "Ni Ai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000547",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Counter Attack",
+    "tituloOriginal": "逆袭",
+    "autor": "Chai Ji Dan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "Finalizado",
+  "estreno": "2025-06-16",
+  "finalizacion": "2025-08-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Rivales",
+    "Reencuentro",
+    "Remake"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Suowei",
+        "Chi Cheng"
+      ]
+    },
+    {
+      "personajes": [
+        "Guo Chengyu",
+        "Jiang Xiaoshuai"
+      ]
+    }
+  ],
+  "sinopsis": "Wu Suowei, tras ser abandonado por su novia por Chi Cheng, decide acercarse a su rival para vengarse. Sin embargo, la convivencia y el enfrentamiento entre ambos hacen que sus sentimientos cambien hasta convertirse en amor. Paralelamente, Guo Chengyu y Jiang Xiaoshuai desarrollan su propia relación.",
+  "activo": true
+}

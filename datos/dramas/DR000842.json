@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000842",
+  "titulo": "Boy Scouts",
+  "tituloOriginal": "ลูกเสือ",
+  "alias": [
+    "Boy Scouts The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2022-02-23",
+  "finalizacion": "2022-03-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Anirut",
+        "Ram"
+      ]
+    }
+  ],
+  "sinopsis": "Durante el último campamento de scouts de su infancia, Anirut y Ram, dos compañeros de escuela que apenas se conocen, son asignados al mismo grupo. Lejos de las aulas y de las expectativas de los demás, ambos comienzan a descubrirse mutuamente y a comprender los sentimientos que empiezan a surgir entre ellos.",
+  "activo": true
+}

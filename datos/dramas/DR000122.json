@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000122",
+  "titulo": "First Love Again",
+  "tituloOriginal": "첫사랑만 세번째",
+  "alias": [
+    "First Love, Again",
+    "First Love for the Third Time",
+    "Cheotsarangman Sebeonjjae"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000122",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-11",
+  "finalizacion": "2022-03-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Reencarnación",
+    "Vidas pasadas",
+    "Escritor",
+    "Editor",
+    "Destino",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Jeong Ha Yeon",
+      "persona": "PR000593",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeon Seok",
+      "persona": "PR000594",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jeong Ha Yeon",
+        "Yeon Seok"
+      ]
+    }
+  ],
+  "sinopsis": "Un novelista web lleva varios siglos buscando a la persona que considera el amor de su vida. Cuando finalmente cree haber encontrado la oportunidad de reencontrarse con ella, descubre que su alma gemela ha regresado a su vida como un hombre y, además, trabaja como editor. Entre recuerdos de vidas pasadas y sentimientos que parecen haber sobrevivido al paso del tiempo, ambos deberán descubrir si esta vez pueden cambiar el destino de su historia de amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/a4/5d/cd/a45dcd0705b521cd020a2afb3cf48395.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1192402v",
+      "https://www.youtube.com/watch?v=B5KymUkP2pw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000067",
+      "funcion": [
+        "Productora",
+        "Distribuidora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "First Love, Again: Special",
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1
+    }
+  ],
+  "activo": true
+}

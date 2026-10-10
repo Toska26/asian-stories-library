@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000692",
+  "titulo": "Happy of the End",
+  "tituloOriginal": "ハッピー・オブ・ジ・エンド",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Happy of the End",
+    "tituloOriginal": "ハッピー・オブ・ジ・エンド",
+    "autor": "Ogeretsu Tanaka",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-09-03",
+  "finalizacion": "2024-09-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Thriller",
+    "Trauma",
+    "Violencia",
+    "Crimen",
+    "Sanación",
+    "Pasado traumático"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kashiwagi Chihiro",
+        "Keito"
+      ]
+    }
+  ],
+  "sinopsis": "Chihiro, rechazado por su familia y abandonado por su antiguo novio, conoce a Keito en un bar. Lo que comienza como un encuentro casual se transforma en una relación intensa marcada por el trauma, la violencia y los secretos del pasado de Keito.",
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000623",
+  "titulo": "Life~Love on the Line",
+  "tituloOriginal": "Life 線上の僕ら",
+  "alias": [
+    "Life Senjou no Bokura",
+    "Life: Love on the Line",
+    "Life on the Line"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2020-06-19",
+  "finalizacion": "2020-07-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Escolar",
+    "Universidad",
+    "Vida adulta",
+    "Primer amor",
+    "Reencuentro",
+    "Separación",
+    "Matrimonio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ito Akira",
+        "Nishi Yuuki"
+      ]
+    }
+  ],
+  "sinopsis": "Akira Ito y Yuuki Nishi se conocen accidentalmente durante la adolescencia mientras juegan a caminar sobre una línea blanca. Lo que comienza como un encuentro casual se convierte en una relación que atraviesa la escuela, la universidad, el trabajo y la vida adulta, mostrando cómo ambos intentan mantener su amor mientras cambian sus circunstancias.",
+  "activo": true
+}

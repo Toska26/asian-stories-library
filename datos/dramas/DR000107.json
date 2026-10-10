@@ -1,0 +1,117 @@
+{
+  "codigo": "DR000107",
+  "titulo": "Color Rush 2",
+  "tituloOriginal": "컬러 러쉬 2",
+  "alias": [
+    "Color Rush 2",
+    "Colour Rush 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000106",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-01-21",
+  "finalizacion": "2022-01-21",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Fantasía",
+    "Thriller",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Mono",
+    "Probe",
+    "Daltonismo",
+    "Colores",
+    "Desaparición",
+    "Investigación",
+    "Sobrenatural",
+    "Identidad secreta",
+    "Secretos",
+    "Búsqueda"
+  ],
+  "personas": [
+    {
+      "nombre": "Choi Yeon-woo",
+      "persona": "PR000573",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Go Yoo-han",
+      "persona": "PR000574",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Yeon-woo",
+        "Go Yoo-han"
+      ]
+    }
+  ],
+  "sinopsis": "Después de la desaparición de Go Yoo-han y de su madre, Choi Yeon-woo vuelve a enfrentarse a un mundo sin colores mientras intenta descubrir la verdad. En su búsqueda conoce a Kim Se-hyun, un compañero que decide ayudarle y protegerlo. Al mismo tiempo, Yeon-woo descubre que existen más monos y que el fenómeno que relaciona a los monos con sus probes esconde secretos que van mucho más allá de su propia experiencia.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/49/c3/7a/49c37abb7b5e46ddd6de2587ad03ba8a.jpg",
+      "https://i.pinimg.com/1200x/e2/d5/0f/e2d50f83a4b4773d386765f5773d76f5.jpg",
+      "https://image.kpopmap.com/2021/11/Color-rush-season-2-2022-scaled.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1191353v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000063",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000065",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

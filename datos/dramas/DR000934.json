@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000934",
+  "titulo": "My Tempo",
+  "tituloOriginal": "น้อง พี่ ดนตรี+เพื่อน The Series",
+  "alias": [
+    "My Tempo The Series",
+    "My Tempo Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "DR000933",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2023-11-05",
+  "finalizacion": "2023-12-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Música",
+    "Coming of Age"
+  ],
+  "tags": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Música",
+    "Coming of Age",
+    "Amistad",
+    "Juventud",
+    "Estudiantes",
+    "Instituto",
+    "Guitarra",
+    "Música clásica",
+    "Competición musical",
+    "Fama",
+    "Sueños",
+    "Superación",
+    "Conflictos",
+    "Redes sociales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hope",
+        "Seki"
+      ]
+    }
+  ],
+  "sinopsis": "Hope y Seki son dos jóvenes estudiantes de música con un gran talento para la guitarra clásica. Su estrecha relación y su particular forma de tocar juntos hacen que ganen popularidad mientras se preparan para competir en un importante concurso musical. Entre la presión por triunfar, la amistad, los conflictos personales y los sentimientos que van surgiendo entre ellos, ambos deberán decidir qué lugar ocupan la música y el otro en sus vidas.",
+  "activo": true
+}

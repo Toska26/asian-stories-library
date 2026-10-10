@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000279",
+  "titulo": "My Story: The Series",
+  "tituloOriginal": "My Story The Series",
+  "alias": [
+    "My Day Season 2",
+    "My Story Season 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000278",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2023-04-15",
+  "finalizacion": "2023-06-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Romance",
+    "Parejas",
+    "Amistad",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ace",
+        "Win"
+      ]
+    },
+    {
+      "personajes": [
+        "Zeke",
+        "Fifth"
+      ]
+    }
+  ],
+  "sinopsis": "La segunda temporada continúa el universo narrativo de My Day con Ace y nuevos personajes que encuentran el amor mientras afrontan cambios personales y nuevas relaciones. La historia amplía también la presencia de nuevas parejas dentro del mismo grupo de personajes.",
+  "activo": true
+}

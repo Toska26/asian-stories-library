@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000489",
+  "titulo": "Hehe & He",
+  "alias": [
+    "我的HeHe室友 第二季",
+    "Hehe & He Season 2"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000488",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 19,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2020-05-13",
+  "finalizacion": "2021-10-03",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Sitcom",
+    "Compañeros de piso",
+    "Amistad",
+    "Convivencia",
+    "Vida cotidiana",
+    "Relaciones",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zik",
+        "Radar"
+      ]
+    }
+  ],
+  "sinopsis": "Zik y Radar continúan compartiendo su vida y su piso mientras afrontan nuevas situaciones, problemas personales y cambios en su relación. La convivencia sigue siendo el centro de la historia, combinando humor y situaciones cotidianas con una relación cada vez más cercana entre ambos.",
+  "activo": true
+}

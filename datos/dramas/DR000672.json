@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000672",
+  "titulo": "One Room Angel",
+  "tituloOriginal": "ワンルームエンジェル",
+  "alias": [
+    "One Room Angel"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "One Room Angel",
+    "tituloOriginal": "ワンルームエンジェル",
+    "autor": "Harada",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-10-19",
+  "finalizacion": "2023-11-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Ángel",
+    "Sobrenatural",
+    "Sanación",
+    "Soledad",
+    "Convivencia",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kouki",
+        "Tenshi"
+      ]
+    }
+  ],
+  "sinopsis": "Kouki es un hombre solitario que trabaja en un supermercado y lleva una vida sin rumbo. Después de resultar herido en un incidente, ve a un misterioso ángel que aparece ante él. Tras recuperarse, descubre que el ángel se ha instalado en su casa. La convivencia entre ambos transforma poco a poco la vida de Kouki y crea un vínculo profundo entre los dos.",
+  "activo": true
+}

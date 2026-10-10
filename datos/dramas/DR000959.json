@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000959",
+  "titulo": "Century of Love",
+  "tituloOriginal": "ปาฏิหาริย์รักร้อยปี",
+  "alias": [
+    "Century of Love",
+    "Century Of Love Series",
+    "Pattiharn Rak Roi Pi"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-07-10",
+  "finalizacion": "2024-08-08",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Reencarnación",
+    "Inmortalidad",
+    "Amor eterno",
+    "Diferencia de edad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "San",
+        "Vee"
+      ]
+    }
+  ],
+  "sinopsis": "San ha vivido durante casi un siglo gracias al poder de una piedra mágica, esperando reencontrarse con Wat, el amor de su vida, tras su reencarnación. Cuando finalmente cree haber encontrado a la persona que ha estado esperando, descubre que la nueva encarnación de su antiguo amor es Vee, un joven alegre que no es la persona que esperaba y que además es un hombre.",
+  "activo": true
+}

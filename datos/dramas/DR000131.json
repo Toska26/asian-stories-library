@@ -1,0 +1,135 @@
+{
+  "codigo": "DR000131",
+  "titulo": "Choco Milk Shake",
+  "tituloOriginal": "사랑은 댕냥댕냥",
+  "alias": [
+    "Choco Milk Shake",
+    "Love is Like a Dog and Cat",
+    "Sarangeun Daengnyangdaengnyang"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000131",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-25",
+  "finalizacion": "2022-12-20",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Reencarnación",
+    "Mascotas",
+    "Perro",
+    "Gato",
+    "Convivencia",
+    "Amor",
+    "Sobrenatural"
+  ],
+  "personas": [
+    {
+      "nombre": "Jung Woo",
+      "persona": "PR000607",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Choco",
+      "persona": "PR000609",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Milk",
+      "persona": "PR000608",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Uncle",
+      "persona": "PR000627",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jung Woo",
+        "Choco"
+      ]
+    },
+    {
+      "personajes": [
+        "Milk",
+        "Uncle"
+      ]
+    }
+  ],
+  "sinopsis": "Jung Woo vive solo y trabaja en la cafetería de su tío después de haber perdido a sus padres y, años atrás, a sus dos mascotas. Un día aparecen en su casa dos jóvenes desconocidos que aseguran ser Choco, el perro que tuvo desde niño, y Milk, su gato. Aunque al principio no puede creer que sus mascotas hayan regresado convertidas en humanos, ambos conocen detalles que solo ellos podrían saber. Su llegada devuelve alegría y compañía a la vida de Jung Woo, pero también trae consigo un secreto que cambiará su relación con ellos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/88/a7/12/88a7128b3cc1123137bef7c6724785f0.jpg",
+      "https://i.pinimg.com/1200x/06/8d/ad/068dadd7fc9e59449c83cb2998eb4f62.jpg",
+      "https://i.pinimg.com/1200x/2a/f3/71/2af371ddac90a363443d0d8c7a6c57b0.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=a3-fUBzCQuY"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=177PK2TwLtw"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=hrA0H11feqM",
+      "https://www.youtube.com/watch?v=Jd21TsVAaHY",
+      "https://www.youtube.com/watch?v=CbZLPscudGs",
+      "https://www.youtube.com/watch?v=NZn2ni7O8BY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000085",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000086",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Behind Story",
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "duracion": "4 min",
+      "estreno": "2022-11-06"
+    }
+  ],
+  "activo": true
+}

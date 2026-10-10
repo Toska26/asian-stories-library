@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000641",
+  "titulo": "My Beautiful Man Season 2",
+  "tituloOriginal": "美しい彼 シーズン2",
+  "alias": [
+    "Utsukushii Kare Season 2",
+    "My Beautiful Man 2",
+    "My Beautiful Man Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000040",
+    "orden": 2
+  },
+  "serie": "SR000640",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2023-02-07",
+  "finalizacion": "2023-02-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Universidad",
+    "Vida adulta",
+    "Pareja estable",
+    "Convivencia",
+    "Actuación",
+    "Fotografía"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hira Kazunari",
+        "Kiyoi Sou"
+      ]
+    }
+  ],
+  "sinopsis": "Hira y Kiyoi continúan su relación mientras se acercan a una nueva etapa de sus vidas. Hira empieza a enfrentarse a decisiones sobre su futuro y Kiyoi amplía su carrera como actor, mientras ambos intentan avanzar juntos pese a sus inseguridades.",
+  "activo": true
+}

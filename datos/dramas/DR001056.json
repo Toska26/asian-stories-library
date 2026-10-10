@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001056",
+  "titulo": "Love Destiny",
+  "tituloOriginal": "บุพเพสันนิวาส",
+  "alias": [
+    "Love Destiny (BL)",
+    "Love Destiny 2026",
+    "Bupphesanniwat 2026",
+    "Buppesannivas 2026"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM001060",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Bupphesanniwat",
+    "tituloOriginal": "บุพเพสันนิวาส",
+    "autor": "Rompaeng",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-07-14",
+  "finalizacion": "2026-09-15",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Drama histórico"
+  ],
+  "tags": [
+    "BL",
+    "Viajes en el tiempo",
+    "Ayutthaya",
+    "Reencarnación",
+    "Destino",
+    "Cambio de identidad",
+    "Adaptación literaria",
+    "Universos paralelos",
+    "Romance histórico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dech",
+        "Gaew"
+      ]
+    },
+    {
+      "personajes": [
+        "Rueang",
+        "Wad"
+      ]
+    },
+    {
+      "personajes": [
+        "Phin",
+        "Yaem"
+      ]
+    }
+  ],
+  "sinopsis": "Esta reinterpretación BL de Love Destiny combina la Tailandia contemporánea con el reino histórico de Ayutthaya. Dech y Gaew quedan unidos por una historia que atraviesa épocas e identidades. A medida que Gaew comienza a utilizar conocimientos modernos para ayudar a quienes le rodean, Dech descubre una faceta inesperada de él. El encuentro entre ambos transforma sus vidas y da paso a un romance que desafía las convenciones de su tiempo.",
+  "multimedia": {
+    "portada": [
+      "https://img.mundobl.com.ar/series/1784186437510_8lwmtz_card.webp"
+    ]
+  },
+  "activo": true
+}

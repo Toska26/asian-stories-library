@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000824",
+  "titulo": "Close Friend T2",
+  "tituloOriginal": "โคตรแฟน Season 2",
+  "alias": [
+    "Close Friend Season 2",
+    "Close Friend 2",
+    "Khot Faen 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000026",
+  "serie": "SR000030",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "duracion": "30-38 min",
+  "estado": "Finalizado",
+  "estreno": "2022-05-05",
+  "finalizacion": "2022-06-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Pareja establecida",
+    "Relación secreta",
+    "Familia",
+    "Trabajo",
+    "Industria musical",
+    "Actor",
+    "Ídolo",
+    "Fan",
+    "Pareja ficticia",
+    "Celos",
+    "Convivencia",
+    "Relaciones interpersonales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pierce",
+        "Typhoon"
+      ]
+    },
+    {
+      "personajes": [
+        "Jedi",
+        "Ray"
+      ]
+    }
+  ],
+  "sinopsis": "Pierce y Typhoon continúan su relación, pero deben enfrentarse a un nuevo obstáculo cuando Pierce presenta a Typhoon ante sus padres únicamente como su hermano menor de universidad y no como su novio. Al mismo tiempo, Ray y Jedi mantienen su relación en secreto mientras Jedi es promocionado como pareja ficticia de la actriz Milin, lo que provoca inseguridad y celos en Ray. Ambas parejas deberán afrontar las dificultades derivadas de mantener y demostrar sus relaciones.",
+  "activo": true
+}

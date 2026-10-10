@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000382",
+  "titulo": "My Plantito",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2023-08-23",
+  "finalizacion": "2023-11-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Vecinos",
+    "Vlogger",
+    "Plantas",
+    "Redes sociales",
+    "Amistad",
+    "Familia",
+    "Aceptación",
+    "Amor",
+    "Creación de contenido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Charlie",
+        "Miko"
+      ]
+    }
+  ],
+  "sinopsis": "Charlie es un joven creador de contenido que conoce a Miko, su nuevo vecino y apasionado de las plantas. Fascinado por él, Charlie comienza a grabarlo y termina introduciendo accidentalmente a Miko en su mundo de las redes sociales. Mientras su amistad se transforma en romance, ambos deberán enfrentarse a los problemas provocados por la exposición pública, los malentendidos y sus propios sentimientos.",
+  "activo": true
+}

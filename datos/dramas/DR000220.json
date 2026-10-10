@@ -1,0 +1,126 @@
+{
+  "codigo": "DR000220",
+  "titulo": "HIStory2: Crossing the Line",
+  "tituloOriginal": "HIStory2 - 越界",
+  "alias": [
+    "Crossing the Line",
+    "Boundary Crossing",
+    "Love Over the Line",
+    "Yue Jie"
+  ],
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 5
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2018-03-06",
+  "finalizacion": "2018-03-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Voleibol",
+    "Deporte",
+    "Juventud",
+    "Hermanastros",
+    "Amor prohibido",
+    "Amigos a amantes",
+    "Primer amor",
+    "Competición",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Xia Yu Hao",
+      "persona": "PR000771",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qiu Zi Xuan",
+      "persona": "PR000772",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Zhen Wen",
+      "persona": "PR000773",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Zhen Wu",
+      "persona": "PR000774",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Yu Hao",
+        "Qiu Zi Xuan"
+      ]
+    },
+    {
+      "personajes": [
+        "Wang Zhen Wen",
+        "Wang Zhen Wu"
+      ]
+    }
+  ],
+  "sinopsis": "Xia Yu Hao llega como estudiante transferido a una nueva escuela y acaba incorporándose al equipo de voleibol gracias a Qiu Zi Xuan, un antiguo jugador que ahora ayuda a entrenar al equipo después de una lesión. Mientras Yu Hao descubre su pasión por el deporte, también comienza a desarrollar sentimientos por Zi Xuan. Paralelamente, los hermanastros Wang Zhen Wen y Wang Zhen Wu deben enfrentarse a unos sentimientos que van más allá de la relación familiar que comparten.",
+  "entidades": [
+    {
+      "codigo": "EN000159",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

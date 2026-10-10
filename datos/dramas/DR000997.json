@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000997",
+  "titulo": "Secret Ghost",
+  "tituloOriginal": "บันทึก(ลับ)รักฉบับผี",
+  "alias": [
+    "Secret Ghost The Series",
+    "Banthuek (Lap) Rak Chabap Phi"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-04-19",
+  "finalizacion": "2025-06-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Sobrenatural",
+    "Misterio",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Música",
+    "Fantasma",
+    "Vida después de la muerte",
+    "Pacto",
+    "Secretos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sia",
+        "Blue"
+      ]
+    }
+  ],
+  "sinopsis": "Sia, un estudiante universitario que sueña con convertirse en músico, encuentra un misterioso vínculo con Blue, un antiguo estudiante del club de música que murió años atrás. La aparición de Blue y un pacto que une sus almas llevan a Sia a descubrir secretos del pasado mientras sus sentimientos por el fantasma se hacen cada vez más difíciles de ignorar.",
+  "activo": true
+}

@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000665",
+  "titulo": "Blue Sky Complex",
+  "tituloOriginal": "ブルースカイコンプレックス",
+  "alias": [
+    "Blue Sky Complex"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Blue Sky Complex",
+    "tituloOriginal": "ブルースカイコンプレックス",
+    "autor": "Kei Ichikawa",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2023-02-27",
+  "finalizacion": "2023-03-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar",
+    "Instituto",
+    "Biblioteca",
+    "Compañeros de clase",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Narasaki Genchika",
+        "Terashima Natsuki"
+      ]
+    }
+  ],
+  "sinopsis": "Narasaki Genchika busca tranquilidad para poder estudiar y termina encargado de supervisar a Terashima Natsuki, un estudiante conocido por su mal comportamiento. Mientras ambos pasan tiempo juntos en la biblioteca, Narasaki comienza a interesarse por el misterioso Terashima y su relación evoluciona poco a poco.",
+  "activo": true
+}

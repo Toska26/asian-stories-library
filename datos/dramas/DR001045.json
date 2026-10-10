@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001045",
+  "titulo": "When Oranges Fall",
+  "tituloOriginal": "ต้นส้มอยู่บ้านเขา แต่ผลส้มหล่นมาบ้านเราตลอดเลย",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-13",
+  "finalizacion": "2026-07-29",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "When Oranges Fall Special",
+      "fecha": "2026-05-06"
+    }
+  ],
+  "sinopsis": "Una historia de amor que comienza a desarrollarse a partir de una relación aparentemente cotidiana y de los pequeños acontecimientos que acercan progresivamente a sus protagonistas. Entre sentimientos inesperados y situaciones familiares, ambos tendrán que decidir qué lugar quieren ocupar en la vida del otro.",
+  "activo": true
+}

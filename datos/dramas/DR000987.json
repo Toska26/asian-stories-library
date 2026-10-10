@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000987",
+  "titulo": "Gelboys",
+  "tituloOriginal": "GELBOYS สถานะกั๊กใจ",
+  "alias": [
+    "GELBOYS",
+    "Gel Boys",
+    "GELBOYS: Stuck in Love",
+    "สถานะกั๊กใจ"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "serie": "SR000987",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 65,
+  "estado": "Finalizado",
+  "estreno": "2025-02-08",
+  "finalizacion": "2025-03-22",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Situationship",
+    "Instituto",
+    "Amistad",
+    "Celos",
+    "Amor no correspondido",
+    "Redes sociales",
+    "Uñas de gel",
+    "Siam Square"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fou4Mod",
+        "Chian"
+      ]
+    },
+    {
+      "personajes": [
+        "Baabin",
+        "Bua"
+      ]
+    }
+  ],
+  "sinopsis": "Fou4Mod, un estudiante de instituto, comienza a pasar tiempo en Siam Square después de que Chian, un chico aficionado a las uñas de gel, lo invite a hacerse la manicura. Fou4Mod empieza a enamorarse de él, pero descubre que Chian también invita a Bua, un popular creador de contenido de TikTok. Para provocar los celos de Chian, Fou4Mod decide acercarse a Baabin, el mejor amigo de Chian. Las relaciones entre los cuatro jóvenes evolucionan entre sentimientos no confesados, celos y una amistad cada vez más compleja.",
+  "activo": true
+}

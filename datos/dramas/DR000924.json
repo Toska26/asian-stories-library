@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000924",
+  "titulo": "Pit Babe",
+  "tituloOriginal": "พิษเบ๊บ",
+  "alias": [
+    "Pit Babe The Series",
+    "Pit Babe the Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000924",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Pit Babe",
+    "tituloOriginal": "พิษเบ๊บ",
+    "autor": "_alittlebitch",
+    "pais": "TH"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-11-10",
+  "finalizacion": "2024-02-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Thriller",
+    "Deportes",
+    "Omegaverse"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Thriller",
+    "Deportes",
+    "Omegaverse",
+    "Alfa",
+    "Beta",
+    "Omega",
+    "Carreras",
+    "Automovilismo",
+    "Pilotos",
+    "Competición",
+    "Familia encontrada",
+    "Secretos",
+    "Traición",
+    "Poderes especiales",
+    "Habilidades especiales",
+    "Adopción",
+    "Mafia",
+    "Crimen",
+    "Venganza",
+    "Protección",
+    "Amor prohibido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Babe",
+        "Charlie"
+      ]
+    },
+    {
+      "personajes": [
+        "Alan",
+        "Jeff"
+      ]
+    },
+    {
+      "personajes": [
+        "North",
+        "Sonic"
+      ]
+    },
+    {
+      "personajes": [
+        "Kenta",
+        "Kim"
+      ]
+    },
+    {
+      "personajes": [
+        "Pete",
+        "Way"
+      ]
+    }
+  ],
+  "sinopsis": "Babe es un famoso piloto de carreras y el corredor más destacado del equipo X-Hunter. Charlie, un joven aficionado al automovilismo, se acerca a él con el sueño de convertirse en piloto. Lo que comienza como un acuerdo entre ambos se transforma rápidamente en una relación marcada por la atracción y el amor. Mientras Babe y Charlie se acercan, salen a la luz los secretos de Tony y de los jóvenes que fueron criados bajo su control, obligándolos a enfrentarse a una peligrosa red de manipulación, poderes especiales, carreras y traiciones.",
+  "activo": true
+}

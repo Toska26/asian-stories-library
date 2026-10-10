@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000350",
+  "titulo": "PRESO2",
+  "alias": [
+    "PRESO Season 2",
+    "PRESO 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000026",
+    "orden": 2
+  },
+  "universo": "UN000010",
+  "serie": "SR000349",
+  "temporadas": 4,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2021-10-28",
+  "finalizacion": "2021-12-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Reencuentro",
+    "Segundas oportunidades",
+    "Amor",
+    "Conflictos sentimentales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "SO",
+        "PRE"
+      ]
+    }
+  ],
+  "sinopsis": "SO intenta rehacer su vida mientras el recuerdo de PRE continúa presente. Cuando ambos vuelven a encontrarse, deben enfrentarse a sus sentimientos, a las heridas del pasado y a las consecuencias de sus relaciones anteriores.",
+  "activo": true
+}

@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000992",
+  "titulo": "Top Form",
+  "tituloOriginal": "กอดกันมั้ย นายตัวท็อป",
+  "alias": [
+    "Top Form The Series",
+    "Shall We Hug, Mr. On Top?",
+    "Kot Kan Mai Nai Tua Top"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Dakaichi: I'm Being Harassed by the Sexiest Man of the Year",
+    "tituloOriginal": "抱かれたい男1位に脅されています。",
+    "autor": "Hashigo Sakurabi",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-03-20",
+  "finalizacion": "2025-05-15",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Showbiz",
+    "Actores",
+    "Industria del entretenimiento",
+    "Rivales a amantes",
+    "Famosos",
+    "Competición"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin",
+        "Akin"
+      ]
+    }
+  ],
+  "sinopsis": "Jin es un joven actor que comienza a ascender rápidamente en la industria del entretenimiento. Su creciente popularidad lo enfrenta a Akin, una estrella consolidada que ha sido elegido cinco veces como el hombre más deseado de la industria. Lo que comienza como una rivalidad entre dos actores termina convirtiéndose en una relación marcada por la atracción, los celos, la competencia profesional y los desafíos de mantener el amor bajo los focos.",
+  "activo": true
+}

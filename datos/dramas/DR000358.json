@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000358",
+  "titulo": "The Watchers",
+  "alias": [
+    "The Watchers Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000010",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2022-11-30",
+  "finalizacion": "2023-07-14",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Voyeurismo",
+    "Secretos",
+    "Deseo",
+    "Relaciones",
+    "Historias cruzadas",
+    "Antología"
+  ],
+  "sinopsis": "Antología de historias centradas en el voyeurismo, los secretos, el deseo y diferentes formas de relaciones humanas. La serie presenta distintas historias y personajes conectados por la mirada de quienes observan y por situaciones relacionadas con la intimidad y los deseos ocultos.",
+  "activo": true
+}

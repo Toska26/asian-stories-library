@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000977",
+  "titulo": "OMG! Vampire",
+  "tituloOriginal": "แวมไพร์ไวน์แดง",
+  "alias": [
+    "OMG! Vampire",
+    "OMG Vampire",
+    "Vampire Wine"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2024-05-19",
+  "finalizacion": "2024-07-07",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Vampiros",
+    "Reencarnación",
+    "Mundo humano",
+    "Inmortalidad",
+    "Bar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phum",
+        "Patrick"
+      ]
+    },
+    {
+      "personajes": [
+        "Zen",
+        "Ran"
+      ]
+    }
+  ],
+  "sinopsis": "Phum despierta después de cien años de sueño y descubre que los vampiros de su generación tienen prohibido enamorarse. Junto a sus amigos decide escapar al mundo humano, donde cada vampiro debe ocupar el cuerpo de su equivalente humano. Phum termina viviendo como un joven llamado Pure y conoce a Patrick, propietario de un bar secreto. Mientras intenta adaptarse a su nueva vida, también debe enfrentarse a los peligros que amenazan a su grupo de vampiros.",
+  "activo": true
+}

@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000239",
+  "titulo": "Papa & Daddy",
+  "tituloOriginal": "酷蓋爸爸",
+  "alias": [
+    "Papa & Daddy 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000235",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "30-40 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-08",
+  "finalizacion": "2022-09-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Familia",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Familia",
+    "Padres",
+    "Paternidad",
+    "Hijo adolescente",
+    "Pareja establecida",
+    "Crisis familiar",
+    "Crianza"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Damian",
+        "Jerry"
+      ]
+    }
+  ],
+  "sinopsis": "La llegada inesperada de Jimmy, el hijo adolescente de Damian de una relación anterior, altera el equilibrio de la familia. Mientras Damian intenta construir una relación con su hijo, Jerry debe afrontar sus propios conflictos familiares y sus inseguridades dentro de la pareja.",
+  "activo": true
+}

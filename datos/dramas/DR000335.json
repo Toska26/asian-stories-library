@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000335",
+  "titulo": "One Day Pag-ibig",
+  "alias": [
+    "One Day Love",
+    "One Day Pag-ibig The Series",
+    "One Day Love The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2021-01-15",
+  "finalizacion": "2021-02-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Resort",
+    "Amistad",
+    "Diferencias sociales",
+    "Vacaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kyle Dela Merced",
+        "Roi Montecillo"
+      ]
+    }
+  ],
+  "sinopsis": "Roi llega con sus amigos a un resort privado para descansar y recuperarse de una experiencia dolorosa. Allí conoce a Kyle, propietario del lugar, después de que este lo salve de ahogarse. Aunque al principio chocan debido a sus diferencias de carácter y origen, poco a poco se hacen amigos y sus sentimientos comienzan a transformarse en algo más.",
+  "activo": true
+}

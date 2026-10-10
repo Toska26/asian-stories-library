@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000411",
+  "titulo": "Because of Meeting, We Meet Each Other",
+  "alias": [
+    "Vì Gặp Nên Mới Tương Phùng",
+    "Because of Meeting You, We Can Be Here Together",
+    "Because Of Meeting, We Meet Together"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2018,
+  "tipo": "Webserie",
+  "universo": "UN000012",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2018-05-05",
+  "finalizacion": "2018-11-02",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Convivencia",
+    "Familia",
+    "Diferencias sociales",
+    "Reencuentro",
+    "LGBT",
+    "Colaboración Vietnam-China"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ha Sinh",
+        "Vien Truc"
+      ]
+    }
+  ],
+  "sinopsis": "Ha Sinh es un joven procedente de una familia pobre que abandona su hogar para trasladarse a la ciudad después de que su abuelo lo entregue a un hombre rico como compensación por un antiguo favor. Allí debe adaptarse a su nueva vida y convivir con Vien Truc. Lo que comienza como una relación complicada y llena de rechazo se transforma gradualmente en una relación cercana y amorosa.",
+  "activo": true
+}

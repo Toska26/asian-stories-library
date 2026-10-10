@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000210",
+  "titulo": "Backdoor Part 2",
+  "tituloOriginal": "백도어 파트2",
+  "alias": [
+    "Backdoor Part 2",
+    "Baekdoeo Part 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000018",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Próximo estreno",
+  "estreno": "2026-09-28",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Enemies to Lovers",
+    "Jefe y empleado",
+    "Política corporativa",
+    "Corrupción empresarial",
+    "Secretos",
+    "Agenda oculta",
+    "Lucha de poder",
+    "Rumores",
+    "Acusación falsa"
+  ],
+  "personas": [
+    {
+      "nombre": "Kwon Do-yoon",
+      "persona": "PR000713",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seo Ji-hyeok",
+      "persona": "PR000714",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kwon Do-yoon",
+        "Seo Ji-hyeok"
+      ]
+    }
+  ],
+  "sinopsis": "Tras descubrir que Seo Ji-hyeok era el desconocido que lo ayudó durante su crisis profesional, Kwon Do-yoon debe enfrentarse a una relación cada vez más difícil de definir. La desconfianza y la atracción conviven mientras los secretos que rodean a Ji-hyeok comienzan a adquirir una importancia mayor dentro de la empresa. Con nuevas tensiones, rumores y luchas de poder en el entorno laboral, ambos tendrán que decidir hasta dónde están dispuestos a llegar para proteger sus propios intereses y qué precio están dispuestos a pagar por confiar el uno en el otro.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=WJDGttg5u10"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000139",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

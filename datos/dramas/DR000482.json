@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000482",
+  "titulo": "Hanoi, I Love You",
+  "alias": [
+    "Hà Nội, Anh yêu \"Anh\"",
+    "Hot Brother Next Door"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2025-09-16",
+  "finalizacion": "2025-11-18",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Hanoi",
+    "Vecinos",
+    "Friends to Lovers",
+    "Amigos de infancia",
+    "Convivencia",
+    "Segundas oportunidades",
+    "Vida cotidiana",
+    "Ruptura",
+    "Nuevo comienzo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hồng Phúc",
+        "Thành Công"
+      ]
+    }
+  ],
+  "sinopsis": "Hồng Phúc llega a Hanoi buscando empezar de nuevo después de una ruptura. Gracias a un amigo consigue alojamiento en una casa compartida, donde vuelve a encontrarse con Thành Công, un antiguo conocido que vive cerca y que se convierte poco a poco en una presencia constante en su nueva vida. Entre encuentros cotidianos, pequeños favores, conversaciones y momentos compartidos, ambos recuperan una cercanía que había quedado atrás. Lo que comienza como una amistad renovada acaba dando paso a sentimientos que ninguno de los dos esperaba.",
+  "activo": true
+}

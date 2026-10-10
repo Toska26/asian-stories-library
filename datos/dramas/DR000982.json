@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000982",
+  "titulo": "MU-TE-LUV: Hello, Is This Luck?",
+  "tituloOriginal": "เบอร์ว่ารักแถบ",
+  "alias": [
+    "Hello, Is This Luck?",
+    "MuTeLuv: Hello, Is This Luck?",
+    "Hello Is This Luck?"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-12-15",
+  "finalizacion": "2026-01-05",
+  "generos": [
+    "GL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Numerología",
+    "Superstición",
+    "Médicos",
+    "Universitario",
+    "Triángulo amoroso",
+    "Autodescubrimiento"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Na",
+        "Nine"
+      ]
+    },
+    {
+      "personajes": [
+        "Na",
+        "Leemhai"
+      ]
+    }
+  ],
+  "sinopsis": "Na es una estudiante de sexto año de medicina brillante pero convencida de tener mala suerte. Enamorada de Nine, un médico veterano al que considera fuera de su alcance, su vida cambia cuando consigue un número de teléfono supuestamente afortunado. El nuevo número atrae a varias personas a su vida y provoca que Leemhai, una artista afortunada y segura de sí misma, entre en escena. Cuando tanto Nine como Leemhai confiesan sus sentimientos por Na, ella queda atrapada entre los dos mientras intenta descubrir si el destino realmente puede decidir por ella.",
+  "activo": true
+}

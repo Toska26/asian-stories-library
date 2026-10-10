@@ -1,0 +1,323 @@
+{
+  "codigo": "DR000025",
+  "titulo": "TharnType 2: 7 Years of Love",
+  "tituloOriginal": "เกลียดนักมาเป็นที่รักกันซะดีๆ 2",
+  "alias": [
+    "TharnType 2",
+    "TharnType The Series Season 2",
+    "7 Years of Love"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000008",
+    "orden": 4
+  },
+  "universo": "UN000001",
+  "serie": "SR000024",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2020-11-06",
+  "finalizacion": "2021-01-29",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tharn",
+      "persona": "PR000224",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Type",
+      "persona": "PR000225",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fiat",
+      "persona": "PR000248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Leo",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Champ",
+      "persona": "PR000230",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dr. Khunpol",
+      "persona": "PR000249",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cirrus",
+      "persona": "PR000251",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phugun",
+      "persona": "PR000250",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Techno",
+      "persona": "PR000226",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thorn",
+      "persona": "PR000231",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thanya",
+      "persona": "PR000252",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khom",
+      "persona": "PR000235",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "San",
+      "persona": "PR000236",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khlui",
+      "persona": "PR000232",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Seo",
+      "persona": "PR000233",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Amy",
+      "persona": "PR000254",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tum",
+      "persona": "PR000228",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tar",
+      "persona": "PR000229",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Padre de Tharn",
+      "persona": "PR000243",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Tharn",
+      "persona": "PR000244",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Padre de Type",
+      "persona": "PR000245",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Type",
+      "persona": "PR000246",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000258",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000259",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000260",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000039",
+      "personajes": [
+        "Tharn",
+        "Type"
+      ]
+    },
+    {
+      "ship": "SH000040",
+      "personajes": [
+        "Leo",
+        "Fiat"
+      ]
+    },
+    {
+      "ship": "SH000041",
+      "personajes": [
+        "Cirrus",
+        "Phugun"
+      ]
+    },
+    {
+      "ship": "SH000042",
+      "personajes": [
+        "Champ",
+        "Dr. Khunpol"
+      ]
+    }
+  ],
+  "sinopsis": "Han pasado siete años desde que Tharn y Type comenzaron su relación. Ahora ambos han terminado sus estudios y se enfrentan a una nueva etapa de su vida adulta. Tharn trabaja en el mundo de la música mientras Type trabaja en un hospital y ambos deben compaginar sus responsabilidades profesionales con su relación. La idea del matrimonio hace que surjan nuevos conflictos y dudas sobre su futuro juntos. Al mismo tiempo, sus amigos continúan con sus propias historias: Leo y Fiat afrontan los problemas de su relación, mientras Champ y el doctor Khunpol descubren que sus sentimientos van más allá de la amistad. La llegada de Cirrus y Phugun añade otra historia de amor al entorno de Tharn y Type.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/eb/3e/28/eb3e285c3544c0fa5210b588cbe0dc1a.jpg",
+      "https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2021_poster-crop.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=SwtJr1xrs5c"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=i_-wUgi7laE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000011",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "The Wedding Day",
+      "tituloOriginal": "The Wedding Day",
+      "alias": [
+        "TharnType 2 Special: The Wedding Day",
+        "TharnType Wedding Day Special",
+        "Wedding Day"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-02-13"
+    }
+  ],
+  "activo": true
+}

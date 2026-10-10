@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000329",
+  "titulo": "Saan, Sana Tayo sa Himig ng Musika",
+  "alias": [
+    "Saan Sana Tayo",
+    "Where We Would Have Been",
+    "Saan Sana Tayo BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 19,
+  "estado": "Finalizado",
+  "estreno": "2021-05-21",
+  "finalizacion": "2021-07-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Friends to lovers",
+    "Mejores amigos",
+    "Road trip",
+    "Música",
+    "Bisexualidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gerald",
+        "Joshua"
+      ]
+    }
+  ],
+  "sinopsis": "Joshua, agotado por el estrés de su vida profesional, decide alejarse de la ciudad y emprender un viaje por carretera junto a Gerald, su mejor amigo. Durante el viaje, la cercanía entre ambos comienza a transformarse y los dos descubren que los sentimientos que comparten van más allá de la amistad.",
+  "activo": true
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000272",
+  "titulo": "Ben X Jim",
+  "tituloOriginal": "Ben X Jim",
+  "alias": [
+    "Ben x Jim"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000272",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 34,
+  "estado": "Finalizado",
+  "estreno": "2020-10-15",
+  "finalizacion": "2020-11-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Reencuentro",
+    "Cuarentena",
+    "Romance",
+    "Amistad",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Benjo",
+        "Jim"
+      ]
+    }
+  ],
+  "sinopsis": "Ben y Jim son amigos de la infancia que se reencuentran durante la cuarentena. La convivencia y el tiempo que vuelven a pasar juntos hacen que sentimientos que habían permanecido ocultos salgan a la superficie.",
+  "activo": true
+}

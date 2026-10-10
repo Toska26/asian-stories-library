@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000321",
+  "titulo": "He's Mine",
+  "alias": [
+    "He's Mine The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 29,
+  "estado": "Finalizado",
+  "estreno": "2021-11-26",
+  "finalizacion": "2022-02-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Amor tóxico",
+    "Obsesión",
+    "Secretos",
+    "Mentiras",
+    "Celos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Luke",
+        "Calix"
+      ]
+    }
+  ],
+  "sinopsis": "Luke y Calix mantienen una relación marcada por el amor, los secretos y el miedo a perder a la persona que aman. Cuando las mentiras y los conflictos empiezan a salir a la luz, su vínculo se transforma en una relación cada vez más complicada y destructiva.",
+  "activo": true
+}

@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000178",
+  "titulo": "Love in Protocol",
+  "tituloOriginal": "러브 인 프로토콜",
+  "alias": [
+    "Love in Protocol",
+    "Lovein Protocol",
+    "Reobeu in Peurotokol"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-17",
+  "finalizacion": "2026-02-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Laboratorio",
+    "Universidad",
+    "Tutor y alumno",
+    "Reencuentro",
+    "Antiguos conocidos",
+    "Ciencia",
+    "Interno",
+    "Sentimientos reprimidos"
+  ],
+  "personas": [
+    {
+      "nombre": "Min Jeong Yeon",
+      "persona": "PR000726",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ha Yu Geon",
+      "persona": "PR000727",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Min Jeong Yeon",
+        "Ha Yu Geon"
+      ]
+    }
+  ],
+  "sinopsis": "Jeong Yeon se incorpora como becario al laboratorio de investigación dirigido por Yu Geon, quien años atrás fue su tutor privado. El reencuentro resulta mucho más frío de lo esperado y la distancia profesional entre ambos se convierte poco a poco en una barrera difícil de mantener. Mientras trabajan juntos en un experimento relacionado con las emociones, los sentimientos que intentaban mantener bajo control comienzan a salir a la superficie.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=a_LvRotufBU"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000144",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

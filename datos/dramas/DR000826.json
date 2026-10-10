@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000826",
+  "titulo": "My Boy",
+  "tituloOriginal": "วุ่นนักรักซะเลย",
+  "alias": [
+    "My Boy The Series",
+    "Wun Nak Rak Sa Loei"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Boy",
+    "tituloOriginal": "วุ่นนักรักซะเลย",
+    "autor": "Pych",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "26-30 min",
+  "estado": "Finalizado",
+  "estreno": "2021-06-27",
+  "finalizacion": "2021-09-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Club de fotografía",
+    "Diferencia de edad",
+    "Segundo comienzo",
+    "Exnovio",
+    "Infidelidad",
+    "Primer amor",
+    "Familia",
+    "Amistad",
+    "Superación personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nut",
+        "Satha"
+      ]
+    }
+  ],
+  "sinopsis": "Nut abandona temporalmente la universidad después de sufrir una dolorosa ruptura con su novio, que le fue infiel. Cuando finalmente regresa para continuar sus estudios, conoce a Satha, un estudiante más joven, popular y músico del club de fotografía. A pesar de la diferencia de edad y de las heridas del pasado de Nut, ambos comienzan a acercarse y deben descubrir si pueden construir una relación basada en algo más que la atracción inicial.",
+  "activo": true
+}

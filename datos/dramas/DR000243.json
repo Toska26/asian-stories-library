@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000243",
+  "titulo": "Kiseki: Dear to Me",
+  "tituloOriginal": "奇蹟",
+  "alias": [
+    "The Miracle",
+    "Miracle"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000021",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": "25-30 min",
+  "estado": "Finalizado",
+  "estreno": "2023-08-22",
+  "finalizacion": "2023-11-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Crimen",
+    "Mafia",
+    "Instituto",
+    "Universidad",
+    "Convivencia",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Amigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bai Zong Yi",
+        "Fan Ze Rui"
+      ]
+    },
+    {
+      "personajes": [
+        "Chen Yi",
+        "Ai Di"
+      ]
+    }
+  ],
+  "sinopsis": "Bai Zong Yi, un estudiante de instituto, acaba ayudando a Fan Ze Rui, un miembro de una organización criminal que resulta herido. La convivencia entre ambos hace que desarrollen sentimientos mientras los problemas relacionados con el mundo criminal amenazan su relación. Paralelamente, Chen Yi y Ai Di desarrollan su propia historia de amor dentro del mismo entorno.",
+  "activo": true
+}

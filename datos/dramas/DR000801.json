@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000801",
+  "titulo": "Tonhon Chonlatee",
+  "tituloOriginal": "ต้นหนชลธี",
+  "alias": [
+    "Tonhon Chonlatee: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2020-11-13",
+  "finalizacion": "2021-01-22",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Universidad",
+    "Convivencia",
+    "Amor no correspondido",
+    "Friends to Lovers",
+    "Múltiples parejas",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tonhon",
+        "Chonlatee"
+      ]
+    },
+    {
+      "personajes": [
+        "Ai",
+        "Ni"
+      ]
+    }
+  ],
+  "sinopsis": "Tonhon y Chonlatee son amigos de la infancia que crecieron prácticamente como hermanos. Chonlatee lleva años enamorado de Ton, pero nunca se ha atrevido a confesar sus sentimientos. Cuando Ton regresa a la casa de su infancia después de una ruptura y Chon comienza a vivir con él y sus amigos, la convivencia hace que Ton empiece a cuestionar la naturaleza de sus sentimientos por su antiguo amigo. Al mismo tiempo, Ai y Ni intentan mantener su relación mientras afrontan las actitudes conservadoras de Ton.",
+  "activo": true
+}

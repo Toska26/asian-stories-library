@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000823",
+  "titulo": "Call It What You Want T2",
+  "tituloOriginal": "จะรักก็รักเหอะ",
+  "alias": [
+    "Call It What You Want Season 2",
+    "Call It What You Want 2",
+    "Call It What You Want: Season 2"
+  ],
+  "pais": [
+    "TH",
+    "TW"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000822",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "duracion": "23-31 min",
+  "estado": "Finalizado",
+  "estreno": "2021-07-23",
+  "finalizacion": "2021-08-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Industria BL",
+    "Actores",
+    "Director",
+    "Relación secreta",
+    "Acoso",
+    "Abuso de poder",
+    "Trauma",
+    "Salud mental",
+    "Trabajo",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "James",
+        "Ait"
+      ]
+    },
+    {
+      "personajes": [
+        "Marco",
+        "Bas"
+      ]
+    }
+  ],
+  "sinopsis": "James y Ait continúan su relación en secreto mientras intentan proteger sus carreras y enfrentarse a las presiones de la industria. Paralelamente, Marco se acerca cada vez más a Bas, que se encuentra atrapado en una situación de abuso y control por parte de P’Tee. Ambas historias avanzan mientras los personajes intentan enfrentarse a las consecuencias de las relaciones de poder dentro del mundo de las series BL.",
+  "activo": true
+}

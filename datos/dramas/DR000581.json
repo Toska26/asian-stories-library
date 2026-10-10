@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000581",
+  "titulo": "Echoes of a Distant Chord",
+  "tituloOriginal": "弦上光年",
+  "alias": [
+    "Xian Shang Guang Nian",
+    "Light-years on the String",
+    "Strings of Light"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 22,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2025-11-21",
+  "finalizacion": "2025-12-01",
+  "generos": [
+    "Bromance",
+    "Fantasía",
+    "Thriller",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Fantasma",
+    "Investigación",
+    "Misterio",
+    "Música",
+    "Venganza",
+    "Supernatural",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Guang",
+        "Lu Xian"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Guang muere durante una actuación cuando una pistola de utilería es sustituida por un arma real. Convertido en un espíritu vengativo, busca al hermano menor de su compañero de banda, Lu Xian. Juntos comienzan a investigar el crimen y los acontecimientos relacionados con el pasado.",
+  "activo": true
+}

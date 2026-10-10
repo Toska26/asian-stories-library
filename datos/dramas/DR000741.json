@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000741",
+  "titulo": "Love Sick 2",
+  "tituloOriginal": "รักวุ่น วัยรุ่นแสบ ฤดูกาลที่ 2",
+  "alias": [
+    "Love Sick: The Series 2",
+    "Love Sick The Series Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2015,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000042",
+    "orden": 2
+  },
+  "serie": "SR000740",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 36,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2015-05-02",
+  "finalizacion": "2015-10-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Noh",
+        "Phun"
+      ]
+    }
+  ],
+  "sinopsis": "Noh y Phun continúan su relación mientras afrontan nuevos conflictos, sentimientos y dificultades durante su etapa escolar, junto con las relaciones y problemas de quienes los rodean.",
+  "activo": true
+}

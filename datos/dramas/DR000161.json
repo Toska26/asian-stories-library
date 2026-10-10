@@ -1,0 +1,124 @@
+{
+  "codigo": "DR000161",
+  "titulo": "Love in the Big City",
+  "tituloOriginal": "대도시의 사랑법",
+  "alias": [
+    "Love in the Big City",
+    "Daedosiui Sarangbeop",
+    "How to Love in the Big City"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2024-10-21",
+  "finalizacion": "2024-10-21",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Melodrama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Adultos",
+    "Vida urbana",
+    "Seúl",
+    "Autodescubrimiento",
+    "Amistad",
+    "Amor",
+    "Identidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Go Young",
+      "persona": "PR000673",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Nam-gyu",
+      "persona": "PR000617",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "No Young-su",
+      "persona": "PR000674",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sim Gyu-ho",
+      "persona": "PR000675",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Go Young",
+        "Kim Nam-gyu"
+      ]
+    },
+    {
+      "personajes": [
+        "Go Young",
+        "No Young-su"
+      ]
+    },
+    {
+      "personajes": [
+        "Go Young",
+        "Sim Gyu-ho"
+      ]
+    }
+  ],
+  "sinopsis": "Go Young, un joven gay que vive en Seúl, comparte casa con su mejor amiga Choi Mi Ae mientras intenta encontrar su lugar en la vida. A lo largo de varios años, experimenta distintas relaciones, amistades y rupturas mientras aprende a enfrentarse a las expectativas sociales, a su familia y a sus propios sentimientos. La historia sigue su proceso de crecimiento y autodescubrimiento mientras busca el amor y una vida que pueda sentir como propia.",
+  "entidades": [
+    {
+      "codigo": "EN000126",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000127",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000114",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

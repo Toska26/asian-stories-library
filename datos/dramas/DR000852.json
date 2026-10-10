@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000852",
+  "titulo": "Rak Diao",
+  "tituloOriginal": "รักเดียว",
+  "alias": [
+    "One Love",
+    "The One and Only"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2022-01-23",
+  "finalizacion": "2022-05-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Enemigos a amantes",
+    "Jefe y empleado",
+    "Compañeros de casa",
+    "Convivencia",
+    "Slow burn",
+    "Sitcom"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Rak",
+        "Diao"
+      ]
+    }
+  ],
+  "sinopsis": "Diao, recién graduado y en busca de trabajo, se muda con su hermana y termina compartiendo casa con Rak, un ejecutivo que además se convierte en su jefe. Los dos tienen personalidades completamente opuestas y no tardan en enfrentarse tanto en casa como en el trabajo. Entre discusiones, convivencia forzada y situaciones cada vez más cercanas, la rivalidad inicial empieza a transformarse en algo diferente.",
+  "activo": true
+}

@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000845",
+  "titulo": "My Ride",
+  "tituloOriginal": "รักนาย",
+  "alias": [
+    "My Ride The Series",
+    "My Ride, I Love You",
+    "Rak Nai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Ride, I Love You",
+    "autor": "Patrick Rangsimant",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-01-27",
+  "finalizacion": "2022-03-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mork",
+        "Tawan"
+      ]
+    },
+    {
+      "personajes": [
+        "Tawan",
+        "Por"
+      ]
+    }
+  ],
+  "sinopsis": "Tawan es un médico residente que conoce a Mork, un conductor de mototaxi al que comienza a contratar con frecuencia para desplazarse por Bangkok. Mientras Tawan atraviesa una relación complicada con Por y Mork acaba de salir de una relación, ambos comienzan a acercarse y descubren sentimientos que transforman su amistad en amor.",
+  "activo": true
+}

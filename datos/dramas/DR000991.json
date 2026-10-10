@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000991",
+  "titulo": "Lost in the Woods",
+  "tituloOriginal": "ฤดูหลงป่า",
+  "alias": [
+    "Lost in the Woods"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Lost in the Woods",
+    "tituloOriginal": "ฤดูหลงป่า",
+    "autor": "theneoclassic",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 46,
+  "estado": "Finalizado",
+  "estreno": "2025-03-19",
+  "finalizacion": "2025-04-30",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Aventura",
+    "Coming-of-age"
+  ],
+  "tags": [
+    "Adaptación",
+    "Diferencia de edad",
+    "Guardabosques",
+    "Naturaleza",
+    "Vida rural",
+    "Autodescubrimiento",
+    "Viaje"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fifa",
+        "Hem"
+      ]
+    }
+  ],
+  "sinopsis": "Fifa es un joven de 18 años cuyo sueño es estudiar arte en Japón. Después de que su solicitud sea rechazada, su abuela lo envía al campo para que pase una temporada ayudándola y demuestre que puede desenvolverse por sí mismo. Allí conoce a Hem, un guardabosques de 30 años marcado por un pasado doloroso. La convivencia en plena naturaleza transforma gradualmente la relación entre ambos y lleva a Fifa a replantearse sus prioridades y su futuro.",
+  "activo": true
+}

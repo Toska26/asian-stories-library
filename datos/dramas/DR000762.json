@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000762",
+  "titulo": "Water Boyy: The Series",
+  "tituloOriginal": "รักใสใส..วัยรุ่นชอบ",
+  "alias": [
+    "Waterboyy The Series",
+    "Water Boyy",
+    "Water Boyy 2017"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Película",
+    "relacion": "Adaptación",
+    "titulo": "Water Boyy",
+    "tituloOriginal": "Water Boyy",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2017-04-09",
+  "finalizacion": "2017-07-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Deportes",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Waii",
+        "Apo"
+      ]
+    },
+    {
+      "personajes": [
+        "Fah",
+        "Pan"
+      ]
+    }
+  ],
+  "sinopsis": "Waii es el capitán del club de natación de Ocean College y mantiene una relación complicada con su padre, que además es el entrenador del equipo. La llegada de Apo, un nuevo integrante del club, cambia poco a poco la vida de Waii y hace que ambos desarrollen sentimientos románticos. Al mismo tiempo, Fah y Pan viven su propia historia de amor mientras el equipo lucha por mantener unido el club de natación.",
+  "activo": true
+}

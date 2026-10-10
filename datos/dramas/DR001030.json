@@ -1,0 +1,32 @@
+{
+  "codigo": "DR001030",
+  "titulo": "Peach and Me",
+  "tituloOriginal": "มีสติแล้วลูกพีช",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000050",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-07-11",
+  "finalizacion": "2026-08-01",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Matrimonio"
+  ],
+  "sinopsis": "Después de su boda, Thee y Peach comienzan su vida matrimonial. Thee decide demostrar que puede comportarse con más sensatez, aunque su entusiasmo por pasar tiempo con Peach lo lleva a organizar una luna de miel cada semana mientras ambos intentan compaginar su vida de pareja con el trabajo y las responsabilidades familiares.",
+  "activo": true
+}

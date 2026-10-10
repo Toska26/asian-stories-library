@@ -1,0 +1,204 @@
+{
+  "codigo": "DR000017",
+  "titulo": "En of Love: Tossara",
+  "tituloOriginal": "รักวุ่นๆ ของหนุ่มวิศวะ - วิศวะมีเกียร์น่ะเมียหมอ",
+  "alias": [
+    "Tossara"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000006",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-03-14",
+  "finalizacion": "2020-04-04",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Gun Tossakan",
+      "persona": "PR000136",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bar Sarawat",
+      "persona": "PR000137",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mark",
+      "persona": "PR000138",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vee",
+      "persona": "PR000139",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nuea",
+      "persona": "PR000140",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yiwaa",
+      "persona": "PR000141",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tee",
+      "persona": "PR000142",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lee",
+      "persona": "PR000143",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tonkla",
+      "persona": "PR000144",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pond",
+      "persona": "PR000145",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Beam",
+      "persona": "PR000146",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "James",
+      "persona": "PR000147",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Na",
+      "persona": "PR000148",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fuse",
+      "persona": "PR000157",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000155",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000156",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000026",
+      "personajes": [
+        "Gun Tossakan",
+        "Bar Sarawat"
+      ]
+    }
+  ],
+  "sinopsis": "Gun Tossakan, un brillante estudiante de primer año de Medicina, lleva enamorado desde el instituto de Bar Sarawat, un popular estudiante de tercer año de Ingeniería y jefe de hazers. Cuando ambos vuelven a encontrarse en la universidad, Gun aprovecha la oportunidad para acercarse a Bar y confesar finalmente sus sentimientos. Lo que comienza con el interés de Gun pronto se convierte en una relación en la que ambos deberán descubrir lo que sienten el uno por el otro.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/45/45/a7/4545a7763f14eb885b16b6f2a8b4bf14.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=dl7kpLFPDIg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Emisora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

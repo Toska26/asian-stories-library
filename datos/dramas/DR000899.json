@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000899",
+  "titulo": "Boyband",
+  "tituloOriginal": "เบื้องหน้าบอยแบนด์เบื้องหลังบอยเฟรนด์",
+  "alias": [
+    "Boyband The Series",
+    "Boyband The Series: Behind the Boyband"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2023-02-16",
+  "finalizacion": "2023-03-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música",
+    "Juvenil"
+  ],
+  "tags": [
+    "Boyband",
+    "Idols",
+    "Audiciones",
+    "Trainees",
+    "Industria del entretenimiento",
+    "Amor secreto",
+    "Relación prohibida",
+    "Rivales a amantes",
+    "Amor entre compañeros",
+    "Sueños"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Top",
+        "Juju"
+      ]
+    }
+  ],
+  "sinopsis": "Top y Juju compiten por formar parte de una nueva boyband, pero detrás de su rivalidad existe una relación amorosa que deben mantener en secreto. Las normas de la agencia prohíben las relaciones entre los miembros del grupo, mientras los fans empiezan a imaginar que ambos son pareja por la química que muestran. Para alcanzar su sueño de convertirse en estrellas deberán mantener ocultos sus verdaderos sentimientos.",
+  "activo": true
+}

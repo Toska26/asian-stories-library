@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000862",
+  "titulo": "Triage",
+  "tituloOriginal": "ทริอาช",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Triage",
+    "tituloOriginal": "Triage",
+    "autor": "Sammon",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": "45-60 min",
+  "estado": "Finalizado",
+  "estreno": "2022-04-18",
+  "finalizacion": "2022-07-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Médico",
+    "Fantasía",
+    "Suspense",
+    "Viajes en el tiempo"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Médicos",
+    "Viajes en el tiempo",
+    "Bucle temporal",
+    "Rescate",
+    "Destino",
+    "Segundas oportunidades",
+    "Misterio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tin",
+        "Tol"
+      ]
+    },
+    {
+      "personajes": [
+        "Sing",
+        "Gap"
+      ]
+    }
+  ],
+  "sinopsis": "Tin, un médico de urgencias, queda atrapado en un bucle temporal en el que revive repetidamente la misma noche. Para romper el ciclo y salvar a Tol, un joven ingresado tras un accidente, deberá descubrir qué está provocando su muerte y enfrentarse a una serie de decisiones que cambiarán tanto su destino como el de quienes lo rodean.",
+  "activo": true
+}

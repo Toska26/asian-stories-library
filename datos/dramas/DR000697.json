@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000697",
+  "titulo": "Our Youth",
+  "tituloOriginal": "未成年～未熟な俺たちは不器用に進行中～",
+  "alias": [
+    "Miseinen",
+    "Minor"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "Minor",
+    "tituloOriginal": "미성년",
+    "autor": "Hi Nun",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2024-11-05",
+  "finalizacion": "2025-01-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Escolar",
+    "Primer amor",
+    "Amistad",
+    "Familia",
+    "Abuso familiar",
+    "Sanación",
+    "Time skip"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minase Jin",
+        "Hirukawa Haruki"
+      ]
+    }
+  ],
+  "sinopsis": "Jin Minase es un estudiante ejemplar que intenta mantenerse al margen de los problemas del instituto. Su vida cambia cuando descubre la difícil situación familiar de Haruki Hirukawa, un compañero conflictivo al que hasta entonces había evitado. La cercanía entre ambos se transforma poco a poco en su primer amor.",
+  "especiales": [
+    {
+      "titulo": "Our Youth — Special",
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-01-07"
+    }
+  ],
+  "activo": true
+}

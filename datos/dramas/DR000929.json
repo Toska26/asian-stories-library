@@ -1,0 +1,82 @@
+{
+  "codigo": "DR000929",
+  "titulo": "The Sign",
+  "tituloOriginal": "ลางสังหรณ์",
+  "alias": [
+    "The Sign Series",
+    "Laang Sangsorn"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Premonition",
+    "tituloOriginal": "ลางสังหรณ์",
+    "autor": "I-Rain-Yia",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 70,
+  "estado": "Finalizado",
+  "estreno": "2023-11-25",
+  "finalizacion": "2024-02-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Fantasía",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Fantasía",
+    "Misterio",
+    "Sobrenatural",
+    "Investigación",
+    "Policía",
+    "Fuerzas especiales",
+    "Premoniciones",
+    "Vidas pasadas",
+    "Reencarnación",
+    "Destino",
+    "Garuda",
+    "Naga",
+    "Mitología tailandesa",
+    "Almas gemelas",
+    "Crimen",
+    "Secuestro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phaya",
+        "Tharn"
+      ]
+    },
+    {
+      "personajes": [
+        "Khem",
+        "Thongthai"
+      ]
+    }
+  ],
+  "sinopsis": "Tharn posee desde niño la capacidad de percibir premoniciones y visiones relacionadas con acontecimientos futuros. Al incorporarse a la unidad especial de investigación conoce a Phaya, un brillante oficial con quien siente una extraña conexión. Mientras ambos investigan diversos casos y se enfrentan a una amenaza criminal, descubren que su vínculo se remonta a vidas pasadas y está relacionado con las antiguas leyendas de Garuda y Naga.",
+  "especiales": [
+    {
+      "titulo": "Special Episode Encore",
+      "fecha": "2024-05-26",
+      "duracion": 85
+    }
+  ],
+  "activo": true
+}

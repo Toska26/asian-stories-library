@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000698",
+  "titulo": "Love Sea",
+  "tituloOriginal": "ต้องรักมหาสมุทร",
+  "alias": [
+    "Love Sea The Series",
+    "Love Sea: Must Love Mahasamut"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "universo": "UN000001",
+  "remake": {
+    "codigo": "RM000698",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "ต้องรักมหาสมุทร",
+    "tituloOriginal": "Love Sea",
+    "autor": "MAME Orawan Vichayawannakul",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-06-09",
+  "finalizacion": "2024-08-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Escritor",
+    "Isla",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tongrak",
+        "Mahasamut"
+      ]
+    }
+  ],
+  "sinopsis": "Tongrak, un popular escritor de novelas románticas, viaja en busca de inspiración para terminar su nuevo libro y conoce a Mahasamut, un joven del sur de Tailandia. Lo que comienza como un encuentro inesperado termina convirtiéndose en una relación que cambiará la vida de ambos.",
+  "especiales": [
+    {
+      "titulo": "Love Sea: Special Episode",
+      "tipo": "Especial",
+      "anio": 2024,
+      "episodios": 1,
+      "estreno": "2024-08-25"
+    }
+  ],
+  "activo": true
+}

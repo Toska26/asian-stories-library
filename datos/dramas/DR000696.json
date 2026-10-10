@@ -1,0 +1,69 @@
+{
+  "codigo": "DR000696",
+  "titulo": "Love in the Air: Premonition of Love",
+  "tituloOriginal": "Love in The Air - 恋の予感",
+  "alias": [
+    "Love in The Air -Premonition of Love-"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000015",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-11-03",
+  "finalizacion": "2024-12-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Remake",
+    "Universidad",
+    "Amigos",
+    "Parejas múltiples",
+    "Motociclismo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayase Arashi",
+        "Amemiya Rei"
+      ]
+    },
+    {
+      "personajes": [
+        "Kawai Fuma",
+        "Sorano Kai"
+      ]
+    }
+  ],
+  "sinopsis": "Durante una noche de tormenta, Rei queda atrapado en la carretera y recibe la ayuda de Arashi. Lo que comienza como gratitud se transforma en una relación más profunda. Al mismo tiempo, el amigo de Rei, Kai, se acerca a Fuma después de un primer encuentro desastroso.",
+  "especiales": [
+    {
+      "titulo": "Love in the Air: Premonition of Love — Special 1",
+      "tipo": "Especial",
+      "anio": 2024,
+      "episodios": 1,
+      "estreno": "2024-12-29"
+    },
+    {
+      "titulo": "Love in the Air: Premonition of Love — Special 2",
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-01-05"
+    }
+  ],
+  "activo": true
+}

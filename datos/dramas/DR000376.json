@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000376",
+  "titulo": "The Day I Loved You",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000376",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2023-04-26",
+  "finalizacion": "2023-06-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Primer amor",
+    "Instituto",
+    "Amistad",
+    "Enfermedad",
+    "Secretos",
+    "Juventud",
+    "Amor",
+    "Despedida"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nikko",
+        "Eli"
+      ]
+    }
+  ],
+  "sinopsis": "Nikko es un estudiante popular que parece tener una vida perfecta hasta que conoce a Eli, un joven reservado que acaba convirtiéndose en una presencia importante en su vida. La amistad entre ambos se transforma progresivamente en amor mientras Justine, el mejor amigo de Nikko, permanece a su lado. La llegada de sentimientos inesperados y una enfermedad que amenaza su futuro convierte su historia de amor en una experiencia marcada por la incertidumbre y la despedida.",
+  "activo": true
+}

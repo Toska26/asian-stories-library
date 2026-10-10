@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001044",
+  "titulo": "Your Dear Daddy",
+  "tituloOriginal": "เรียกแด๊ดว่าแด๊ด",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-09",
+  "finalizacion": "2026-06-27",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "เรียกแด๊ดมาเล่น (Come Play, Dear Daddy)",
+      "fecha": "2026-04-25"
+    },
+    {
+      "titulo": "เรียกแด๊ดมาเล่น (Come Play, Dear Daddy)",
+      "fecha": "2026-05-02"
+    }
+  ],
+  "sinopsis": "La relación entre un joven y la figura que ocupa un lugar especial en su vida se transforma cuando los sentimientos comienzan a superar los límites que ambos habían establecido. Entre situaciones familiares, vínculos afectivos y nuevos desafíos, tendrán que descubrir qué significa realmente estar juntos.",
+  "activo": true
+}

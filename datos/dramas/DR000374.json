@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000374",
+  "titulo": "Lonely Connections",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 14,
+  "estado": "Finalizado",
+  "estreno": "2023-02-10",
+  "finalizacion": "2023-02-17",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Soledad",
+    "Deseo",
+    "Relaciones",
+    "Infidelidad",
+    "Atracción",
+    "Intimidad",
+    "Conflicto emocional",
+    "Deseos ocultos"
+  ],
+  "sinopsis": "Una historia centrada en la soledad, el deseo y las contradicciones que aparecen dentro de las relaciones. La serie explora cómo los deseos físicos y emocionales pueden alterar los vínculos entre las personas y cómo amar a alguien no siempre impide sentir atracción o interés por otros.",
+  "activo": true
+}

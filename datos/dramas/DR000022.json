@@ -1,0 +1,327 @@
+{
+  "codigo": "DR000022",
+  "titulo": "Love by Chance",
+  "tituloOriginal": "บังเอิญรัก",
+  "alias": [
+    "My Accidental Love Is You"
+  ],
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000008",
+    "orden": 1
+  },
+  "universo": "UN000001",
+  "serie": "SR000022",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2018-08-03",
+  "finalizacion": "2018-11-09",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Ae",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pete",
+      "persona": "PR000192",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tin",
+      "persona": "PR000066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Can",
+      "persona": "PR000193",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Techno",
+      "persona": "PR000194",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kengkla",
+      "persona": "PR000195",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tum",
+      "persona": "PR000196",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tar",
+      "persona": "PR000056",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pond",
+      "persona": "PR000067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bow",
+      "persona": "PR000060",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Good",
+      "persona": "PR000068",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lemon",
+      "persona": "PR000207",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ping",
+      "persona": "PR000204",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cha-Aim",
+      "persona": "PR000197",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chompoo",
+      "persona": "PR000206",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ",
+      "persona": "PR000205",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Technic",
+      "persona": "PR000203",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Type",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Trump",
+      "persona": "PR000183",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ao",
+      "persona": "PR000202",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yim",
+      "persona": "PR000218",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nut",
+      "persona": "PR000201",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phu",
+      "persona": "PR000217",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tul",
+      "persona": "PR000208",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Pete",
+      "persona": "PR000200",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Can",
+      "persona": "PR000199",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Ae",
+      "persona": "PR000209",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000075",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000034",
+      "personajes": [
+        "Ae",
+        "Pete"
+      ]
+    },
+    {
+      "ship": "SH000035",
+      "personajes": [
+        "Tin",
+        "Can"
+      ]
+    },
+    {
+      "ship": "SH000036",
+      "personajes": [
+        "Kengkla",
+        "Techno"
+      ]
+    },
+    {
+      "ship": "SH000037",
+      "personajes": [
+        "Tum",
+        "Tar"
+      ]
+    }
+  ],
+  "sinopsis": "Pete es un estudiante universitario tímido y de familia acomodada que intenta ocultar su orientación sexual mientras soporta el acoso de otros estudiantes. Un día, un accidente en bicicleta hace que conozca a Ae, un estudiante de Ingeniería de carácter directo y protector. Lo que comienza como un encuentro fortuito se transforma poco a poco en una amistad cada vez más cercana, mientras ambos descubren sentimientos que van más allá de la amistad. Al mismo tiempo, las vidas de sus compañeros se entrelazan: Tin, un joven rico y desconfiado, comienza a acercarse a Can; Kengkla intenta conquistar a Techno; y Tum debe enfrentarse a sus sentimientos por Tar. Entre amistades, conflictos familiares, inseguridades y nuevos sentimientos, el grupo irá descubriendo distintas formas de entender el amor.",
+  "multimedia": {
+    "portada": [
+      "https://artworks.thetvdb.com/banners/posters/346688-1.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=_cL6EQfR5LU"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=cF1K_8LwKE8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

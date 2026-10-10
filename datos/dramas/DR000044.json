@@ -1,0 +1,247 @@
+{
+  "codigo": "DR000044",
+  "titulo": "Two Worlds",
+  "tituloOriginal": "โลกสองใบ ใจดวงเดียว",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "universo": "",
+  "serie": "SR000044",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2024-03-21",
+  "finalizacion": "2024-05-16",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tai",
+      "persona": "PR000309",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kram",
+      "persona": "PR000308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phupha",
+      "persona": "PR000471",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wayu",
+      "persona": "PR000472",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jao",
+      "persona": "PR000473",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dueandao",
+      "persona": "PR000474",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phinfang",
+      "persona": "PR000475",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Run",
+      "persona": "PR000476",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ohm",
+      "persona": "PR000477",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Por",
+      "persona": "PR000478",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Piak",
+      "persona": "PR000479",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dilok",
+      "persona": "PR000480",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Satreekit",
+      "persona": "PR000481",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Prem",
+      "persona": "PR000482",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Young Phupha",
+      "persona": "PR000483",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Buai",
+      "persona": "PR000484",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chat",
+      "persona": "PR000485",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Big Boss",
+      "persona": "PR000486",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000493",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000494",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000015",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000054",
+      "personajes": [
+        "Tai",
+        "Kram"
+      ]
+    },
+    {
+      "ship": "SH000075",
+      "personajes": [
+        "Wayu",
+        "Jao"
+      ]
+    }
+  ],
+  "sinopsis": "Kram pierde al hombre que ama, Phupha, en circunstancias trágicas y termina llegando a un mundo paralelo en el que Phupha sigue vivo y él mismo murió años atrás. Allí conoce a Tai, el hombre que fue su pareja en esa realidad, y ambos quedan unidos por una historia de amor que atraviesa dos mundos.",
+  "multimedia": {
+    "portada": [
+      "https://phoenixreborn.altervista.org/wp-content/uploads/2024/03/2wo4eO_4f.jpg",
+      "https://media.senscritique.com/media/000022194397/0/two_worlds.jpg",
+      "https://img.youtube.com/vi/hDbDrL4kPRs/maxresdefault.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=hDbDrL4kPRs"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=V1hubIDj9bc"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=EfxZ7QLQYxk"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=qMKai9fAC-o"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000046",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000673",
+  "titulo": "Mr. Sahara & Toki-kun",
+  "tituloOriginal": "佐原先生と土岐くん",
+  "alias": [
+    "Sahara-sensei to Toki-kun",
+    "Sahara-sensei and Toki-kun"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Mr. Sahara & Toki-kun",
+    "tituloOriginal": "佐原先生と土岐くん",
+    "autor": "Tori Ubu",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-12-01",
+  "finalizacion": "2024-02-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar",
+    "Profesor",
+    "Alumno",
+    "Instituto",
+    "Primer amor",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Toki",
+        "Sahara"
+      ]
+    }
+  ],
+  "sinopsis": "Toki es un estudiante problemático de instituto que desarrolla sentimientos por Sahara, uno de sus profesores. Mientras intenta acercarse a él, Sahara procura mantener la distancia debido a su posición como profesor y a la diferencia de edad. La historia explora los sentimientos de Toki y el conflicto de Sahara ante una relación que no puede aceptar fácilmente.",
+  "activo": true
+}

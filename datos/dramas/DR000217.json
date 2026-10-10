@@ -1,0 +1,92 @@
+{
+  "codigo": "DR000217",
+  "titulo": "HIStory: Stay Away From Me",
+  "tituloOriginal": "HIStory - 離我遠一點",
+  "alias": [
+    "Stay Away From Me",
+    "Li Wo Yuan Yi Dian"
+  ],
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2017-02-21",
+  "finalizacion": "2017-02-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Hermanastros",
+    "Convivencia",
+    "Celebridad",
+    "Familia ensamblada",
+    "Fujoshi",
+    "Romance prohibido",
+    "Instituto",
+    "Sentimientos ocultos"
+  ],
+  "personas": [
+    {
+      "nombre": "He Feng",
+      "persona": "PR000765",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ching Cheng",
+      "persona": "PR000766",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Feng",
+        "Ching Cheng"
+      ]
+    }
+  ],
+  "sinopsis": "Cuando sus padres se casan y se marchan juntos de viaje, Feng He se ve obligado a convivir con Cheng Qing, una joven estrella de la música que acaba de convertirse en su hermanastro. La convivencia comienza siendo incómoda, pero la mejor amiga de Feng He, Meng Meng, una apasionada del BL, empieza a imaginar que ambos podrían convertirse en pareja. Lo que inicialmente parece una fantasía acaba haciendo aflorar sentimientos que ninguno de los dos esperaba.",
+  "entidades": [
+    {
+      "codigo": "EN000159",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

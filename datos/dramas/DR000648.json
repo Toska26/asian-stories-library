@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000648",
+  "titulo": "Mr. Unlucky Has No Choice But to Kiss!",
+  "tituloOriginal": "不幸くんはキスするしかない！",
+  "alias": [
+    "Fukou-kun wa Kiss Suru Shikanai!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Mr. Unlucky Has No Choice But to Kiss!",
+    "tituloOriginal": "不幸くんはキスするしかない！",
+    "autor": "Gamoko Tsuyu",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2022-04-22",
+  "finalizacion": "2022-06-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Comedia romántica",
+    "Mala suerte",
+    "Buena suerte",
+    "Universidad",
+    "Convivencia",
+    "Primer amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fukuhara Kota",
+        "Shinomiya Naoya"
+      ]
+    }
+  ],
+  "sinopsis": "Fukuhara Kota ha sufrido una cadena interminable de desgracias desde pequeño. Para intentar cambiar su suerte, empieza a fingir que todo le va bien, hasta que conoce a Shinomiya Naoya, un estudiante extremadamente afortunado. Cuando descubre que la buena fortuna de Naoya parece compensar su propia mala suerte, ambos comienzan una relación de conveniencia que poco a poco se convierte en algo más.",
+  "activo": true
+}

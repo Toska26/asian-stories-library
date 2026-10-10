@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000377",
+  "titulo": "Tie the Not",
+  "alias": [
+    "Tie The Not"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2023-06-24",
+  "finalizacion": "2023-07-16",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Boda",
+    "Amor prohibido",
+    "Novio",
+    "Conductor",
+    "Atracción",
+    "Familia",
+    "Secretos",
+    "Decisiones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Briggs",
+        "Shao"
+      ]
+    }
+  ],
+  "sinopsis": "Briggs trabaja en el negocio familiar de alquiler de coches para bodas y está acostumbrado a transportar a parejas hacia sus grandes momentos mientras su propia vida sentimental permanece en segundo plano. Todo cambia cuando conoce a Shao, un hombre que está a punto de casarse con otra persona. La atracción entre ambos obliga a Briggs y Shao a enfrentarse a sus sentimientos y a las consecuencias de un amor que aparece en el momento menos apropiado.",
+  "activo": true
+}

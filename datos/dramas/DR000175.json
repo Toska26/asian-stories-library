@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000175",
+  "titulo": "Thundercloud Rainstorm",
+  "tituloOriginal": "천둥구름 비바람",
+  "alias": [
+    "Thundercloud Rainstorm",
+    "Thunder Cloud Rainstorm",
+    "Chondunggureum Bibaram"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2025-11-28",
+  "finalizacion": "2025-12-19",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Adultos",
+    "Familia",
+    "Cohabitación",
+    "Reencuentro",
+    "Primos",
+    "Trauma",
+    "Obsesión"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji-sung",
+      "persona": "PR000704",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jeong",
+      "persona": "PR000703",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Il-jo",
+        "Seo Jeong-han"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la muerte de su padre, Lee Il-jo se encuentra sin hogar, sin dinero y sin un lugar al que acudir. Su distante primo Seo Jeong-han acepta que se quede en su casa mientras intenta rehacer su vida. La convivencia entre ambos pronto se vuelve complicada cuando una cercanía inesperada hace aparecer sentimientos que ninguno de los dos estaba preparado para afrontar. Las heridas familiares y la dependencia emocional convierten su relación en una historia cada vez más intensa y peligrosa.",
+  "multimedia": {
+    "portada": [
+      "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2025-11-21/b108d30f-b8c9-4faf-b450-966cf300e23d.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=6CX7pjlRjJI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000130",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000131",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

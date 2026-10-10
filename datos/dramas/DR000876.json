@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000876",
+  "titulo": "Oh! My Sunshine Night",
+  "tituloOriginal": "เลิฟ@นาย",
+  "alias": [
+    "Love at 9",
+    "Oh My Sunshine Night"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": "45-50 min",
+  "estado": "Finalizado",
+  "estreno": "2022-07-04",
+  "finalizacion": "2022-10-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música",
+    "Fantasía"
+  ],
+  "tags": [
+    "Universidad",
+    "Música",
+    "Familia adinerada",
+    "Diferencia de clase",
+    "Enfermedad",
+    "Amor de infancia",
+    "Amor prohibido",
+    "Secretos familiares"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim",
+        "Sun"
+      ]
+    },
+    {
+      "personajes": [
+        "Rain",
+        "Phayu"
+      ]
+    },
+    {
+      "personajes": [
+        "Pie",
+        "Petch"
+      ]
+    }
+  ],
+  "sinopsis": "Kim y Rain son hermanos pertenecientes a una poderosa familia inmobiliaria. Rain es un estudiante universitario popular y carismático, mientras que Kim es reservado, distante y apasionado por la música. La vida de Kim cambia cuando conoce a Sun, un estudiante transferido y guitarrista de carácter optimista que padece una enfermedad cardíaca. Mientras ambos se acercan a través de la música, Rain mantiene sus propios sentimientos por Phayu, el hijo del mayordomo de la familia, una relación complicada por las diferencias sociales. A su alrededor también surgen otros romances, conflictos universitarios y secretos familiares que terminarán poniendo a todos en peligro.",
+  "activo": true
+}

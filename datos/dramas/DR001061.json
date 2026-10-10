@@ -1,0 +1,53 @@
+{
+  "codigo": "DR001061",
+  "titulo": "New Boyfriend",
+  "tituloOriginal": "แฟนใหม่ใกล้ฉัน",
+  "alias": [
+    "Faen Mai Klai Chan",
+    "Fan Mai Klai Chan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2026-08-05",
+  "finalizacion": "2026-10-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Segundas oportunidades",
+    "Amores del pasado",
+    "Reencuentro",
+    "Convivencia forzada",
+    "Celos",
+    "Múltiples parejas",
+    "Relaciones complicadas",
+    "OHAO Studio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dan",
+        "Pond"
+      ]
+    },
+    {
+      "personajes": [
+        "Tontae",
+        "Best"
+      ]
+    }
+  ],
+  "sinopsis": "Dan ha decidido centrarse en su trabajo después de una decepción amorosa. Su rutina cambia cuando Pond, un antiguo amor con quien las cosas terminaron mal, vuelve a su vida como nuevo becario de la empresa. Obligados a convivir y trabajar juntos, ambos deben enfrentarse a los sentimientos que intentaban dejar atrás. Mientras tanto, Dan encuentra apoyo en Best, un compañero de trabajo, pero su cercanía despierta las dudas de Tontae, que lleva tiempo interesado en Best. Entre malentendidos, celos y sentimientos no resueltos, los cuatro tendrán que descubrir si pueden construir una relación nueva sin quedar atrapados en el pasado.",
+  "activo": true
+}

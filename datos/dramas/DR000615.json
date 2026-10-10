@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000615",
+  "titulo": "Pornographer: Mood Indigo",
+  "tituloOriginal": "ポルノグラファー～インディゴの気分～",
+  "alias": [
+    "Mood Indigo",
+    "Pornographer: Indigo Mood"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000035",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2019-02-28",
+  "finalizacion": "2019-04-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Precuela",
+    "Escritor",
+    "Editor",
+    "Universidad",
+    "Amor no correspondido",
+    "Pasado"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kijima Rio",
+        "Kido Shiro"
+      ]
+    }
+  ],
+  "sinopsis": "Kido Shiro se reencuentra con su antiguo compañero de universidad Kijima Rio durante el funeral de un profesor. Años atrás, Kijima ya destacaba como escritor y Kido había mantenido con él una relación marcada por la admiración, el deseo y los sentimientos no resueltos. La historia muestra el pasado de ambos y cómo Kijima terminó convirtiéndose en escritor de novelas eróticas. Kuzumi Haruhiko también aparece, conectando esta historia con Pornographer.",
+  "activo": true
+}

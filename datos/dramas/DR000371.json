@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000371",
+  "titulo": "Can This Be Love?",
+  "alias": [
+    "Can This Be Love Series",
+    "CTBL"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2022-06-08",
+  "finalizacion": "2022-07-20",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Fe",
+    "Religión",
+    "Catequista",
+    "Identidad",
+    "Amor",
+    "Aceptación",
+    "LGBTQ+",
+    "Conflicto emocional"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Caloy",
+        "Dora"
+      ]
+    }
+  ],
+  "sinopsis": "Caloy es un joven catequista que se enfrenta a sus propias dudas cuando comienza a desarrollar sentimientos que entran en conflicto con la educación religiosa que ha recibido. Junto a Dora, una mujer transgénero, emprende un camino de descubrimiento sobre el amor, la identidad, la fe y la aceptación.",
+  "activo": true
+}

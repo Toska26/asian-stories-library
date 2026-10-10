@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000718",
+  "titulo": "Takumi-kun Series 5: Ano, Hareta Aozora",
+  "tituloOriginal": "タクミくんシリーズ あの、晴れた青空",
+  "alias": [
+    "Takumi-kun Series 5",
+    "That, Sunny Blue Sky"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2011,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 5
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "89 min",
+  "estado": "Finalizado",
+  "estreno": "2011-08-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    },
+    {
+      "personajes": [
+        "Misu Arata",
+        "Shingyoji Kanemitsu"
+      ]
+    }
+  ],
+  "sinopsis": "Cuando se aproxima el aniversario de la muerte del hermano de Takumi, Gii promete acompañarlo a visitar su tumba. Sin embargo, un torneo escolar amenaza con romper la promesa y provoca una nueva crisis entre ambos.",
+  "activo": true
+}

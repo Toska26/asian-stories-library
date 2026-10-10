@@ -1,0 +1,113 @@
+{
+  "codigo": "DR000150",
+  "titulo": "A Breeze of Love",
+  "tituloOriginal": "일기예보적 연애",
+  "alias": [
+    "A Breeze of Love",
+    "Weather Forecast Love",
+    "Ilgiyebojeok Yeonae"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000014",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2023-11-10",
+  "finalizacion": "2023-11-10",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Reencuentro",
+    "Primer amor",
+    "Amigos de la infancia",
+    "Deporte",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Ban Dong Wook",
+      "persona": "PR000652",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Do Hyun",
+      "persona": "PR000653",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ban Dong Wook",
+        "Lee Do Hyun"
+      ]
+    }
+  ],
+  "sinopsis": "Dong Wook y Do Hyun fueron inseparables durante su juventud y llegaron a enamorarse, pero las circunstancias hicieron que sus caminos se separaran. Años después, Dong Wook regresa a la vida de Do Hyun, que ahora es una estrella del baloncesto universitario. El reencuentro despierta sentimientos que nunca desaparecieron y obliga a ambos a enfrentarse a las heridas de su pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/96/b7/42/96b742474d356eb14d235a52cd0b53e7.jpg",
+      "https://i.pinimg.com/1200x/d9/d1/ed/d9d1ed8c61199c00207dc146ab689244.jpg",
+      "https://i.pinimg.com/736x/01/e3/b0/01e3b06d5706de8cddeb9c63a8aca4bd.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ItNNPxVmBCM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000071",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000095",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

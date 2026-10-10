@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000732",
+  "titulo": "The Servant Prince",
+  "tituloOriginal": "しもべの王子様",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-03",
+  "finalizacion": "2026-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Goto Naoya",
+        "Sato Takaaki"
+      ]
+    }
+  ],
+  "sinopsis": "Goto Naoya fue durante sus años escolares el chico intocable que dominaba la jerarquía social. Años después, su vida da un giro cuando vuelve a encontrarse con Sato Takaaki y la relación entre ambos evoluciona desde una dinámica de dependencia y resentimiento hacia sentimientos románticos.",
+  "especiales": [
+    "Epilogue Special"
+  ],
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000546",
+  "titulo": "Moon and Dust",
+  "tituloOriginal": "坏狗",
+  "alias": [
+    "Huai Gou",
+    "Bad Dog"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Bad Dog",
+    "tituloOriginal": "坏狗",
+    "autor": "1 Bite Off",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2025-05-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Hermanos no biológicos",
+    "Relación prohibida"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Song Li",
+        "Song Qi"
+      ]
+    }
+  ],
+  "sinopsis": "Song Li recoge a Song Qi cuando es niño y lo cría como si fuera su hermano menor. Con el paso de los años, los sentimientos de Song Qi evolucionan más allá de la relación fraternal, dando lugar a una relación amorosa complicada por los vínculos familiares que los unen.",
+  "activo": true
+}

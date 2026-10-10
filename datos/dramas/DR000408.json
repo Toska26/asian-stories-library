@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000408",
+  "titulo": "My Sky",
+  "alias": [
+    "Bầu Trời Của Khánh"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2017,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2017-08-31",
+  "finalizacion": "2017-09-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Escolar"
+  ],
+  "tags": [
+    "Amor",
+    "Primer amor",
+    "Reencuentro",
+    "Instituto",
+    "Fama",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khánh",
+        "Thiên"
+      ]
+    }
+  ],
+  "sinopsis": "Khánh vuelve a encontrarse con Thiên, su amigo de la infancia y primer amor, después de que una tragedia y secretos familiares los separaran años atrás. Thiên se ha convertido en un famoso cantante mientras continúa sus estudios, y el reencuentro entre ambos hace resurgir los sentimientos que habían quedado sin resolver.",
+  "activo": true
+}

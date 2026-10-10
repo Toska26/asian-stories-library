@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000449",
+  "titulo": "You Are My Stupid Boy",
+  "alias": [
+    "Tựa Ánh Dương Ngời"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Webdrama",
+  "serie": "SR000447",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2022-01-15",
+  "finalizacion": "2022-01-29",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Romance",
+    "Familia",
+    "Instituto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Trường",
+        "Khoa"
+      ]
+    }
+  ],
+  "sinopsis": "Tercera temporada de la historia iniciada en Stupid Boys Stupid Love y continuada en You Are My Sunshine. Trường y Khoa llevan varios meses juntos y viajan para celebrar el Tết con la familia de Trường, donde deben afrontar nuevas dificultades para consolidar su relación.",
+  "activo": true
+}

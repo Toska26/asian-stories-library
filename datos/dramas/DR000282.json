@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000282",
+  "titulo": "In Between",
+  "alias": [
+    "Sa Pagitan ng Kamusta at Paalam",
+    "Between Hello and Goodbye"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-07-11",
+  "finalizacion": "2020-10-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Taurus",
+        "Otep"
+      ]
+    }
+  ],
+  "sinopsis": "Taurus y Otep viven una historia de amor marcada por los encuentros, las despedidas y las dificultades de mantener su relación.",
+  "activo": true
+}

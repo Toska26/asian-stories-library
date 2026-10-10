@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000545",
+  "titulo": "The Agreement of Cherry Blossom Rainy Season",
+  "tituloOriginal": "樱花雨季的约定",
+  "alias": [
+    "Ying Hua Yu Ji De Yue Ding"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2025-05-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Primer amor",
+    "Reencuentro",
+    "Supernatural",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gao Feng",
+        "Yu Yang"
+      ]
+    }
+  ],
+  "sinopsis": "Gao Feng se reencuentra con Yu Yang, su primer amor, después de que este hubiera fallecido. El misterioso reencuentro da lugar a una nueva oportunidad para ambos y a una historia de amor marcada por los recuerdos del pasado.",
+  "activo": true
+}

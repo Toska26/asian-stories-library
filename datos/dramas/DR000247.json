@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000247",
+  "titulo": "The On1y One",
+  "tituloOriginal": "某某",
+  "alias": [
+    "Mou Mou",
+    "A Certain Someone"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "49-57 min",
+  "estado": "Finalizado",
+  "estreno": "2024-08-22",
+  "finalizacion": "2024-09-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Hermanastros",
+    "Rivales a amantes",
+    "Convivencia",
+    "Primer amor",
+    "Familia",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sheng Wang",
+        "Jiang Tian"
+      ]
+    }
+  ],
+  "sinopsis": "Sheng Wang llega a un nuevo instituto y choca desde el principio con Jiang Tian. Cuando sus padres anuncian que van a casarse, ambos descubren que tendrán que convivir como hermanastros. La rivalidad inicial evoluciona progresivamente hacia una relación mucho más profunda.",
+  "activo": true
+}

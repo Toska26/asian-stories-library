@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000753",
+  "titulo": "Gay OK Bangkok 2",
+  "tituloOriginal": "เกย์โอเค แบงค็อก 2",
+  "alias": [
+    "Gay OK Bangkok Season 2",
+    "GayOK Bangkok 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "serie": "SR000752",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 7,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2017-03-19",
+  "finalizacion": "2017-04-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Arm",
+        "Nat"
+      ]
+    },
+    {
+      "personajes": [
+        "Aof",
+        "Big"
+      ]
+    }
+  ],
+  "sinopsis": "Continuación de las historias de los seis hombres homosexuales de Bangkok. La segunda temporada retoma sus relaciones y conflictos, profundizando especialmente en la situación de Nat, la relación de Aof y Big y la evolución sentimental de Arm y Pom.",
+  "activo": true
+}

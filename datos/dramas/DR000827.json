@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000827",
+  "titulo": "My Mate Match",
+  "tituloOriginal": "โหวตให้หน่อยผมไม่ค่อยกล้าเลือก",
+  "alias": [
+    "Help Me Choose Roommate",
+    "My Mate Match The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Mate Match",
+    "autor": "Patrick Rangsimant",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": "40-45 min",
+  "estado": "Finalizado",
+  "estreno": "2021-10-09",
+  "finalizacion": "2021-11-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Compañeros de piso",
+    "Convivencia",
+    "Triángulo amoroso",
+    "Vlog",
+    "YouTuber",
+    "Universidad",
+    "Amistad",
+    "Elección amorosa",
+    "Enemies to Lovers",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Match",
+        "Mix"
+      ]
+    }
+  ],
+  "sinopsis": "Match, un joven creador de contenido, necesita encontrar un compañero de piso para poder pagar el alquiler de su nueva vivienda. Por una confusión aparecen dos candidatos, Mix y Ryu, y Match decide permitir que ambos vivan con él durante unas semanas mientras graba un vlog para que sus seguidores voten por el mejor compañero. La convivencia hace que la rivalidad entre los dos candidatos se transforme en una historia de sentimientos y lleva a Match a descubrir quién ocupa realmente su corazón.",
+  "activo": true
+}

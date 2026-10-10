@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000587",
+  "titulo": "Awakening the Steppe",
+  "tituloOriginal": "爱在草原醒来",
+  "alias": [
+    "Chemarea Ta",
+    "Awakening of the Steppe"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2026-01-01",
+  "finalizacion": "2026-02-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Miniserie",
+    "China",
+    "Mongolia Interior",
+    "Vida rural",
+    "Reencuentro",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lei Zexin",
+        "Amur"
+      ]
+    }
+  ],
+  "sinopsis": "Lei Zexin, un joven de ciudad que llega a las estepas de Mongolia Interior, termina refugiándose en la pensión de Amur después de resultar herido. Mientras Amur lo cuida y ambos aprenden a confiar el uno en el otro, la convivencia transforma su encuentro inesperado en una relación marcada por el afecto y el amor.",
+  "activo": true
+}

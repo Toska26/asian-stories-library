@@ -1,0 +1,48 @@
+{
+  "codigo": "DR001000",
+  "titulo": "The Bangkok Boy",
+  "tituloOriginal": "บางกอกบอย",
+  "alias": [
+    "Bangkok Boy",
+    "บางกอกบอย The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-04-26",
+  "finalizacion": "2025-07-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Crimen",
+    "Acción",
+    "Thriller"
+  ],
+  "tags": [
+    "Venganza",
+    "Pandilla",
+    "Prisión",
+    "Crimen",
+    "Amor prohibido",
+    "Bangkok",
+    "Tailandia-Corea"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Peace"
+      ]
+    }
+  ],
+  "sinopsis": "Tras salir de prisión, Sun forma una banda clandestina en Bangkok mientras busca la verdad y venganza por las tragedias que marcaron su vida. Su camino se complica cuando se enamora de Peace, un artista coreano e hijo de uno de sus enemigos, convirtiendo su búsqueda de venganza en un conflicto entre el amor y el odio.",
+  "activo": true
+}

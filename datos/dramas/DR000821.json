@@ -1,0 +1,75 @@
+{
+  "codigo": "DR000821",
+  "titulo": "Love Area T2",
+  "tituloOriginal": "ครั้งหนึ่งเราเคยรักกัน",
+  "alias": [
+    "Love Area Part 2",
+    "Love Area Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000820",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "43-50 min",
+  "estado": "Finalizado",
+  "estreno": "2022-01-15",
+  "finalizacion": "2022-03-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Restaurante",
+    "Familia",
+    "Trabajo",
+    "Universidad",
+    "Primer amor",
+    "Celos",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Valen",
+        "Kaitoon"
+      ]
+    },
+    {
+      "personajes": [
+        "King",
+        "Peat"
+      ]
+    }
+  ],
+  "sinopsis": "Valen y Kaitoon comienzan a reconocer sus sentimientos después de pasar tiempo juntos, mientras Non sigue esperando a Kaitoon. Al mismo tiempo, la relación entre King y Peat se complica con la llegada de Ice. Las diferentes parejas deben enfrentarse a sentimientos nuevos, antiguas promesas y las dificultades que amenazan sus relaciones.",
+  "especiales": [
+    {
+      "titulo": "Love Area Part 2: Episode 0",
+      "alias": [
+        "Love Area Part 2: Season 1 Recap"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-01-01"
+    },
+    {
+      "titulo": "Love Area Part 2: Exclusive Episode",
+      "alias": [
+        "Love Area Part 2: Cast Reaction"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-01-08"
+    }
+  ],
+  "activo": true
+}

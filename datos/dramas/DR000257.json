@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000257",
+  "titulo": "Fight For You",
+  "tituloOriginal": "對立而已",
+  "alias": [
+    "Dui Li Er Yi"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "universo": "UN000007",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-03-28",
+  "finalizacion": "2025-06-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Enemies to lovers",
+    "Compañeros de habitación",
+    "Espionaje",
+    "Acción",
+    "Agencia",
+    "Misiones",
+    "Convivencia",
+    "Identidad secreta"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Da Hei",
+        "Xiao Bai"
+      ]
+    }
+  ],
+  "sinopsis": "Da Hei necesita dinero y termina trabajando para una peculiar agencia que acepta todo tipo de encargos. Allí le asignan como compañero de habitación a Xiao Bai, sin saber que este trabaja en secreto para desmantelar la organización desde dentro. Mientras ambos participan en misiones cada vez más peligrosas, la convivencia y la confianza que desarrollan hacen que su relación pase de la rivalidad y la desconfianza a sentimientos románticos.",
+  "activo": true
+}

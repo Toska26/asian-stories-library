@@ -1,0 +1,123 @@
+{
+  "codigo": "DR000012",
+  "titulo": "You Are Mine",
+  "tituloOriginal": "絕對佔領",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "universo": "UN000002",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2023-09-15",
+  "finalizacion": "2023-11-10",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Xia Shang-Zhou",
+      "persona": "PR000084",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yao Shun-Yu",
+      "persona": "PR000085",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Hui-Wang",
+      "persona": "PR000086",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lisa",
+      "persona": "PR000087",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sofia",
+      "persona": "PR000088",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000101",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000103",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000105",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000019",
+      "personajes": [
+        "Xia Shang-Zhou",
+        "Yao Shun-Yu"
+      ]
+    }
+  ],
+  "sinopsis": "Yao Shun-Yu consigue un puesto como nuevo secretario en una prestigiosa empresa, pero pronto descubre que su jefe, Xia Shang-Zhou, es un presidente exigente, perfeccionista y de carácter difícil. Lo que comienza como una relación laboral complicada poco a poco se transforma en una atracción inesperada cuando Shang-Zhou empieza a interesarse por la perseverancia y la sinceridad de Shun-Yu. Entre situaciones absurdas, convivencia y sentimientos cada vez más difíciles de ocultar, ambos tendrán que descubrir qué significa realmente estar juntos.",
+  "multimedia": {
+    "portada": [
+      "https://img.chil-chil.net/cms_img/0147/230519_201933.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000019",
+      "funcion": [
+        "Productora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "You Are Mine For the Rest of Your Life",
+      "fecha": "2024-05-10"
+    }
+  ],
+  "activo": true
+}

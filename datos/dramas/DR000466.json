@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000466",
+  "titulo": "Oh My God",
+  "alias": [
+    "Tổ Độ"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2023-02-10",
+  "finalizacion": "2023-03-12",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Campo",
+    "Pueblo",
+    "Enemies to Lovers",
+    "Convivencia",
+    "Primer amor",
+    "Secretos familiares",
+    "Naturaleza"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thanh",
+        "An"
+      ]
+    }
+  ],
+  "sinopsis": "An vive en la ciudad y viaja al campo para visitar a su abuela, a quien no ve desde hace años. Durante el viaje conoce a Thanh después de un accidente que provoca una fuerte discusión entre ambos. Cuando An llega a casa de su abuela descubre, para su sorpresa, que Thanh también está allí. Obligados a convivir, los dos jóvenes pasan de los enfrentamientos y las discusiones a una relación cada vez más cercana mientras descubren secretos familiares que los unen de una forma inesperada.",
+  "activo": true
+}

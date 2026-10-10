@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000232",
+  "titulo": "We Best Love: Fighting Mr. 2nd",
+  "tituloOriginal": "第二名的逆襲",
+  "alias": [
+    "We Best Love 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000231",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "duracion": "30-42 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-05",
+  "finalizacion": "2021-04-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Ruptura",
+    "Cinco años después",
+    "Amantes",
+    "Relación adulta"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gao Shi De",
+        "Zhou Shu Yi"
+      ]
+    }
+  ],
+  "sinopsis": "Cinco años después de separarse, Gao Shi De y Zhou Shu Yi vuelven a encontrarse. El reencuentro hace que ambos tengan que enfrentarse al dolor de la ruptura y a los sentimientos que todavía conservan el uno por el otro.",
+  "activo": true
+}

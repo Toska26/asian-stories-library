@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001029",
+  "titulo": "Too Close Friend",
+  "tituloOriginal": "เพื่อนเล่น ไม่เล่นเพื่อน",
+  "alias": [
+    "Too Close Friends",
+    "Phuean Len Mai Len Phuean"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR001029",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 11,
+  "estado": "Finalizado",
+  "estreno": "2026-01-24",
+  "finalizacion": "2026-05-31",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amigos a amantes",
+    "Serie corta"
+  ],
+  "sinopsis": "Tee y K son mejores amigos y comparten cada aspecto de su vida cotidiana. Cuando Win entra en la vida de K, los celos y los sentimientos que Tee nunca se ha atrevido a reconocer empiezan a poner en peligro una amistad que ya no parece suficiente para definir su relación.",
+  "activo": true
+}

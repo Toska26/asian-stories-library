@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000172",
+  "titulo": "My Secret Vampire",
+  "tituloOriginal": "거짓말, 뱀파이어가 어디 있어?",
+  "alias": [
+    "My Secret Vampire",
+    "No Way, Vampires Don’t Exist!",
+    "Geojitmal, Baempaieoga Eodi Isseo?"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "16 min",
+  "estado": "Finalizado",
+  "estreno": "2025-09-18",
+  "finalizacion": "2025-10-09",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Vampiros",
+    "Sobrenatural",
+    "Cohabitación",
+    "Universidad",
+    "Casa compartida",
+    "Romance",
+    "Comedia"
+  ],
+  "personas": [
+    {
+      "nombre": "Dong-ju",
+      "persona": "PR000695",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sin",
+      "persona": "PR000696",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Dong-ha",
+        "Lee Ju-won"
+      ]
+    }
+  ],
+  "sinopsis": "Dong-ha, un joven de campo que se muda a Seúl para comenzar la universidad, encuentra una habitación sorprendentemente barata en una casa compartida. Sus nuevos compañeros se comportan de manera extraña, evitan la luz y apenas comen comida normal. Pronto descubre que todos ellos son vampiros y que él podría convertirse en su fuente de sangre. La convivencia entre humanos y vampiros termina dando lugar a una relación inesperada llena de secretos, reglas y sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://boyslovefrance.wordpress.com/wp-content/uploads/2025/09/mysecretvampire_poster.jpeg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=JXK8JoMJsK8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000125",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "DR000864",
+  "titulo": "Check Out",
+  "tituloOriginal": "คืนนั้นกับนายดาวเหนือ",
+  "alias": [
+    "Check Out The Series",
+    "Khuen Nan Kap Nai Daonuea"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "60-70 min",
+  "estado": "Finalizado",
+  "estreno": "2022-06-11",
+  "finalizacion": "2022-08-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Viajes"
+  ],
+  "tags": [
+    "Viaje",
+    "Reencuentro",
+    "Primer amor",
+    "Exparejas",
+    "Triángulo amoroso",
+    "Hotel",
+    "Segundas oportunidades",
+    "Relaciones complicadas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nine",
+        "Daonuea"
+      ]
+    },
+    {
+      "personajes": [
+        "Tee",
+        "Ice"
+      ]
+    }
+  ],
+  "sinopsis": "Daonuea viaja solo tras terminar su primera relación y conoce en un resort a Nine, un desconocido con quien surge una conexión inmediata. Cuando regresan a sus vidas cotidianas, Nine desaparece durante meses. Daonuea intenta seguir adelante y comienza una relación con su antiguo amor Tee, pero el inesperado regreso de Nine vuelve a poner en conflicto sus sentimientos.",
+  "especiales": [
+    {
+      "titulo": "Check Out — Episode 0",
+      "tituloOriginal": "คืนนั้นกับนายดาวเหนือ",
+      "alias": [
+        "Episode 0",
+        "Prologue"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-08-22"
+    },
+    {
+      "titulo": "Check Out — Special Episode 13",
+      "tituloOriginal": "Check Out Special Episode 13",
+      "alias": [
+        "Episode 13",
+        "Epilogue"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-09-03"
+    }
+  ],
+  "activo": true
+}

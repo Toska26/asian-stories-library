@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000497",
+  "titulo": "I'm a Fool for You",
+  "tituloOriginal": "那個傻的 請一直傻下去",
+  "alias": [
+    "I’m a Fool for You Season 3",
+    "那個傻的 請一直傻下去 第三季"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000499",
+  "temporadas": 4,
+  "temporada": 3,
+  "episodios": 5,
+  "duracion": 11,
+  "estado": "Finalizado",
+  "estreno": "2022-08-04",
+  "finalizacion": "2022-09-29",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Romance",
+    "Relaciones",
+    "Ruptura",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hin",
+        "Tony"
+      ]
+    },
+    {
+      "personajes": [
+        "Hugo",
+        "Oscar"
+      ]
+    },
+    {
+      "personajes": [
+        "Sheldon",
+        "Xavier"
+      ]
+    }
+  ],
+  "sinopsis": "Tras los acontecimientos de las temporadas anteriores, Hugo intenta superar su amor no correspondido por Hin y encuentra apoyo en Oscar. Por otro lado, Hin inicia una relación con Tony, mientras Yiu se encuentra con su exnovio Sheldon y descubre que ahora está con Xavier.",
+  "activo": true
+}

@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000277",
+  "titulo": "Why Love Why Season 2",
+  "tituloOriginal": "Why Love Why? The Series Season 2",
+  "alias": [
+    "Why Love Why 2",
+    "Why Love, Why? Season 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000276",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 15,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2021-07-03",
+  "finalizacion": "2021-10-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Romance",
+    "Identidad",
+    "Familia",
+    "Aceptación",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Benjo",
+        "Emil"
+      ]
+    }
+  ],
+  "sinopsis": "La segunda temporada continúa la historia de Benjo, Emil y los demás personajes, incorporando nuevas relaciones y conflictos mientras explora nuevamente cuestiones de identidad, amor y aceptación.",
+  "activo": true
+}

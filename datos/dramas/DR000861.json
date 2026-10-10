@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000861",
+  "titulo": "Rainbow Lagoon",
+  "tituloOriginal": "ห้วยตึงเฒ่า",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 28,
+  "estado": "Finalizado",
+  "estreno": "2022-07-04",
+  "finalizacion": "2022-07-11",
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "Rivales a amantes",
+    "Reencuentro",
+    "Triángulo amoroso",
+    "Corto",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Oak",
+        "Khao Nueng"
+      ]
+    }
+  ],
+  "sinopsis": "Dos chicos se enfrentan por el amor de una chica, pero ella termina eligiendo a otro. Tiempo después, sus caminos vuelven a cruzarse y descubren que, pese a su rivalidad inicial, tienen más cosas en común de lo que imaginaban. Lo que comenzó como una competición acaba dando paso a una inesperada atracción.",
+  "activo": true
+}

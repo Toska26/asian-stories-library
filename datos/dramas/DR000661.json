@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000661",
+  "titulo": "I Became the Main Role of a BL Drama",
+  "tituloOriginal": "BLドラマの主演になりました",
+  "alias": [
+    "BL Drama no Shuen ni Narimashita",
+    "BLドラマの主演になりました クランクアップ編",
+    "BL Drama no Shuen ni Narimashita: Crank Up Hen"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000661",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Became the Main Role of a BL Drama",
+    "tituloOriginal": "BLドラマの主演になりました",
+    "autor": "Suzuri Machi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2023-12-24",
+  "finalizacion": "2024-01-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Showbiz",
+    "Actores",
+    "Convivencia",
+    "Amor correspondido",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Akafuji Yuichiro",
+        "Aoyagi Hajime"
+      ]
+    }
+  ],
+  "sinopsis": "Los actores Akafuji Yuichiro y Aoyagi Hajime son elegidos como protagonistas de la adaptación de un popular manga BL. Para preparar sus papeles y promocionar la producción, ambos comienzan a vivir juntos. Akafuji intenta ocultar que es un fan obsesionado con Aoyagi, mientras Aoyagi interpreta su actitud distante como rechazo. Poco a poco, los sentimientos que ambos mantienen ocultos se convierten en amor real.",
+  "activo": true
+}

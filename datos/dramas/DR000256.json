@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000256",
+  "titulo": "Exclusive Love",
+  "tituloOriginal": "獨佔接班人",
+  "alias": [
+    "Exclusive Successor",
+    "Du Zhan Jie Ban Ren"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-02-14",
+  "finalizacion": "2025-04-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "LGBTQ+"
+  ],
+  "tags": [
+    "BL",
+    "Funeraria",
+    "Familia",
+    "Herencia",
+    "Cantante",
+    "Entrenamiento",
+    "Amigos a amantes",
+    "Romance",
+    "Boda",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wang Zhan",
+        "Tang Du Zhi"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhang Yi Qing",
+        "Tu Jing He"
+      ]
+    }
+  ],
+  "sinopsis": "Wang Zhan es el heredero de una empresa de servicios funerarios, pero teme a los fantasmas y sueña con convertirse en cantante. Obligado a regresar al negocio familiar, queda bajo la estricta supervisión de Tang Du Zhi, un experto director funerario que lo somete a un duro entrenamiento. Mientras tanto, el asesor de bodas Zhang Yi Qing ayuda a su amigo de toda la vida, Tu Jing He, a preparar su boda, aunque sus sentimientos por él complican la situación. Entre funerales, bodas, heridas del pasado y nuevos sentimientos, ambas relaciones deberán enfrentarse a sus propios obstáculos.",
+  "activo": true
+}

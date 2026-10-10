@@ -1,0 +1,152 @@
+{
+  "codigo": "DR000059",
+  "titulo": "My School President",
+  "tituloOriginal": "แฟนผมเป็นประธานนักเรียน",
+  "alias": [
+    "My Boyfriend is the School President",
+    "My Boyfriend is the Student Body President"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000059",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2022-12-02",
+  "finalizacion": "2023-02-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar",
+    "Juventud",
+    "Música"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tinn",
+      "persona": "PR000522",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gun",
+      "persona": "PR000523",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Win",
+      "persona": "PR000524",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sound",
+      "persona": "PR000525",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tiwson",
+      "persona": "PR000532",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Por",
+      "persona": "PR000550",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000084",
+      "personajes": [
+        "Tinn",
+        "Gun"
+      ]
+    },
+    {
+      "ship": "SH000085",
+      "personajes": [
+        "Win",
+        "Sound"
+      ]
+    },
+    {
+      "ship": "SH000104",
+      "personajes": [
+        "Tiwson",
+        "Por"
+      ]
+    }
+  ],
+  "sinopsis": "Gun es el líder del club de música Chinzhilla y está decidido a salvarlo de su posible desaparición y conseguir participar en el concurso Hot Wave. Para ello necesita la ayuda de Tinn, el presidente estudiantil e hijo de la directora del instituto, que lleva tiempo enamorado de Gun en secreto. Lo que comienza como una petición de ayuda para salvar el club se convierte poco a poco en una historia de amistad, música y primer amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/c8/da/3c/c8da3c135d83ecd5cd10e98b9dc8c469.jpg",
+      "https://i.pinimg.com/1200x/89/62/a0/8962a0d7d4f46ae82ebf7172b3601c9b.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=5MfQ9Npm2-w"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=Mkw_GfFjhOA",
+      "https://www.youtube.com/watch?v=lU1sN10Hses",
+      "https://www.youtube.com/watch?v=puv8H85I8bQ",
+      "https://www.youtube.com/watch?v=lj3bhv2FGDc",
+      "https://www.youtube.com/watch?v=gNOo1gzXdeg",
+      "https://www.youtube.com/watch?v=sa11tgLpEvQ",
+      "https://www.youtube.com/watch?v=jy-vwRPvqTY",
+      "https://www.youtube.com/watch?v=BHcgRZYrczo",
+      "https://www.youtube.com/watch?v=28dwvPncYAE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — My School President",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: My School President"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-05-17"
+    }
+  ],
+  "activo": true
+}

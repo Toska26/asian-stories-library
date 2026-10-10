@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000888",
+  "titulo": "Till the World Ends",
+  "tituloOriginal": "รักกันวันโลกแตก",
+  "alias": [
+    "Till the World Ends The Series",
+    "Rak Kan Wan Lok Taek",
+    "TTWE"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "45-50 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-29",
+  "finalizacion": "2023-01-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Thriller",
+    "Apocalipsis",
+    "Supervivencia"
+  ],
+  "tags": [
+    "Apocalipsis",
+    "Fin del mundo",
+    "Supervivencia",
+    "Cuenta atrás",
+    "Convivencia forzada",
+    "Amor inesperado",
+    "Sacrificio",
+    "Miedo",
+    "Distopía",
+    "Superación",
+    "Viaje",
+    "Amor antes de morir",
+    "Drama psicológico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Golf",
+        "Art"
+      ]
+    }
+  ],
+  "sinopsis": "Golf es un estudiante de medicina que atraviesa una crisis personal mientras se enfrenta a una relación sentimental que se está desmoronando. Cuando el gobierno anuncia que una catástrofe global provocará el fin del mundo en pocos días, Golf se encuentra accidentalmente junto a Art, un estudiante más joven con quien acaba de tener un enfrentamiento. Mientras el caos se apodera de la ciudad y la población busca refugio, ambos se ven obligados a permanecer juntos para sobrevivir. El miedo, la violencia y la incertidumbre hacen que Golf y Art comiencen a replantearse sus vidas y sus sentimientos, descubriendo que incluso cuando el tiempo se acaba todavía pueden encontrar una razón para vivir y amar.",
+  "activo": true
+}

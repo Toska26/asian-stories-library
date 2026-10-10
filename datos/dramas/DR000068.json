@@ -1,0 +1,149 @@
+{
+  "codigo": "DR000068",
+  "titulo": "Perfect 10 Liners",
+  "tituloOriginal": "สายรหัสเทวดา",
+  "alias": [
+    "Sai Rหัสเทวดา",
+    "Perfect 10 Liners"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000068",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2024-10-27",
+  "finalizacion": "2025-04-06",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Arc",
+      "persona": "PR000516",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arm",
+      "persona": "PR000517",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yotha",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gun",
+      "persona": "PR000073",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Faifa",
+      "persona": "PR000529",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wine",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000081",
+      "personajes": [
+        "Arc",
+        "Arm"
+      ]
+    },
+    {
+      "ship": "SH000087",
+      "personajes": [
+        "Yotha",
+        "Gun"
+      ]
+    },
+    {
+      "ship": "SH000089",
+      "personajes": [
+        "Faifa",
+        "Wine"
+      ]
+    }
+  ],
+  "sinopsis": "La vida universitaria de seis estudiantes de ingeniería se entrelaza a través del sistema de mentoría de los Perfect 10 Liners. Arc y Arm comienzan con una relación complicada después de que Arm publique accidentalmente una fotografía de su mentor en una página universitaria. Yotha y Gun se acercan cuando Yotha acepta ayudar a Gun con su miedo a dormir a oscuras. Mientras tanto, Wine, el hermano menor del mentor de Yotha, termina bajo el cuidado de Faifa, que se convierte poco a poco en una persona especial para él. Las tres historias avanzan entre amistad, convivencia, conflictos y sentimientos que terminan convirtiéndose en amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/fa/6d/92/fa6d927155189ebccd37e8f117cbd201.jpg",
+      "https://i.pinimg.com/736x/66/e7/cc/66e7cc2230e8c2ca9d89be46a03fdc4a.jpg",
+      "https://i.pinimg.com/736x/06/3d/ca/063dcae7cc04a4fa3fbb5ce49e37275b.jpg",
+      "https://i.pinimg.com/736x/ff/25/f2/ff25f28b4c8cdc0c47e7716afdbbf2f2.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=bbiPjsgdKjU"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=6Vm6AaAzvIw",
+      "https://www.youtube.com/watch?v=AhbyQyT49QE",
+      "https://www.youtube.com/watch?v=itsxy1gUIYY",
+      "https://www.youtube.com/watch?v=fyiXjRdB3U0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    "สายรหัสเทวดา Perfect 10 Liners Special"
+  ],
+  "activo": true
+}

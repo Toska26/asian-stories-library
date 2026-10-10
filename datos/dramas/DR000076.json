@@ -1,0 +1,133 @@
+{
+  "codigo": "DR000076",
+  "titulo": "A Boss and a Babe",
+  "tituloOriginal": "ชอกะเชร์คู่กันต์",
+  "alias": [
+    "Cho Ka Cher Khu Gun",
+    "Together, Cher and Gun"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "UN000028",
+  "serie": "SR000076",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 43,
+  "estado": "Finalizado",
+  "estreno": "2023-03-03",
+  "finalizacion": "2023-05-19",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Juventud",
+    "Trabajo",
+    "Videojuegos"
+  ],
+  "personas": [
+    {
+      "nombre": "Gun",
+      "persona": "PR000516",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cher",
+      "persona": "PR000517",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thir",
+      "persona": "PR000557",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zo",
+      "persona": "PR000558",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000081",
+      "personajes": [
+        "Gun",
+        "Cher"
+      ]
+    },
+    {
+      "ship": "SH000109",
+      "personajes": [
+        "Thir",
+        "Zo"
+      ]
+    }
+  ],
+  "sinopsis": "Cher, un estudiante universitario en su último año que aspira a convertirse en jugador profesional de e-sports, comienza unas prácticas en una empresa de videojuegos dirigida por Gun. El carácter directo y despreocupado de Cher llama la atención de su jefe, que además descubre que él es el creador del canal ASMR que le ayuda a dormir cada noche. Lo que comienza como una relación entre jefe y becario evoluciona poco a poco hacia una relación sentimental. Al mismo tiempo, Thir y Zo desarrollan su propia historia dentro de la empresa.",
+  "multimedia": {
+    "portada": [
+      "https://www.gmm-tv.com/cms/upload_file/category/poster/d49fb8dd118081053469cd986f0a5481.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ddFvBD4kCy8"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=4zak6EoLYOs",
+      "https://www.youtube.com/watch?v=oAu8XZJbbKw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — A Boss and a Babe",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: A Boss and a Babe"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-05-24"
+    }
+  ],
+  "activo": true
+}

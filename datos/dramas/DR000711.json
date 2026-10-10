@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000711",
+  "titulo": "The Proper Way to Write Love Season 2",
+  "tituloOriginal": "恋愛ルビの正しいふりかた シーズン2",
+  "alias": [
+    "The Proper Way to Write Love 2",
+    "Renai Rubi no Tadashii Furikata Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000702",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The Proper Way to Write Love",
+    "tituloOriginal": "恋愛ルビの正しいふりかた",
+    "autor": "Ogeretsu Tanaka",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "estado": "Próximamente",
+  "estreno": "2026-10-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Reencuentro",
+    "Adultos",
+    "Pareja",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Suzuki Hiroshi",
+        "Washizawa Natsuo"
+      ]
+    }
+  ],
+  "sinopsis": "Continuación de la historia de Suzuki Hiroshi y Washizawa Natsuo tras los acontecimientos de la primera temporada.",
+  "activo": true
+}

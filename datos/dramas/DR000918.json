@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000918",
+  "titulo": "Step by Step",
+  "tituloOriginal": "ค่อย ๆ รัก",
+  "alias": [
+    "Step By Step",
+    "Khoi Khoi Rak",
+    "Gradually Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000046",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2023-04-18",
+  "finalizacion": "2023-07-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Oficina",
+    "Jefe × empleado",
+    "Adultos",
+    "Diferencia de edad",
+    "Slow Burn",
+    "Relaciones laborales",
+    "Amor de oficina",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jeng",
+        "Pat"
+      ]
+    },
+    {
+      "personajes": [
+        "Jaab",
+        "Jane"
+      ]
+    }
+  ],
+  "sinopsis": "Pat regresa a Tailandia después de estudiar en el extranjero y comienza a trabajar en una empresa de marketing digital. Allí descubre que Jeng, el exigente y distante hijo del propietario de la empresa, es su nuevo jefe. La difícil relación profesional entre ambos evoluciona poco a poco hacia sentimientos que ninguno de los dos esperaba, mientras deben enfrentarse a los límites entre la vida laboral y personal, los desequilibrios de poder y las heridas del pasado.",
+  "activo": true
+}

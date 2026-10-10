@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000341",
+  "titulo": "Simply Don't",
+  "alias": [
+    "Simply Don't The Series",
+    "Simply Don't The BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000341",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-07-30",
+  "finalizacion": "2021-08-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Triángulo amoroso",
+    "Amistad",
+    "Amor",
+    "Conflicto sentimental"
+  ],
+  "sinopsis": "Liam se encuentra atrapado entre sus sentimientos por su pareja actual y los que siente por su mejor amigo. La situación lo obliga a enfrentarse a sus propios sentimientos y a decidir cómo afrontar un vínculo en el que dos personas ocupan un lugar importante en su corazón.",
+  "activo": true
+}

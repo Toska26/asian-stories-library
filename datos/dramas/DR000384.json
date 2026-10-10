@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000384",
+  "titulo": "The Perfect Heartbreak",
+  "alias": [
+    "The Perfect Heartbreak The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 28,
+  "estado": "Finalizado",
+  "estreno": "2024-04-13",
+  "finalizacion": "2024-07-15",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Desamor",
+    "Ruptura",
+    "Pareja",
+    "Perdón",
+    "Resiliencia",
+    "Sanación",
+    "Esperanza",
+    "Amor incondicional",
+    "Secretos"
+  ],
+  "sinopsis": "Una pareja que parecía vivir un amor perfecto ve cómo los secretos, las heridas y los compromisos imposibles terminan destruyendo la relación que habían construido. Tras una ruptura dolorosa, ambos deben afrontar el duelo y reconstruirse mientras descubren que amar también significa aprender a perdonar, dejar atrás las expectativas y aceptar al otro sin condiciones.",
+  "activo": true
+}

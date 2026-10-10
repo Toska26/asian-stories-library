@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000401",
+  "titulo": "The Red Leash",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "En emisión",
+  "estreno": "2026-09-19",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio"
+  ],
+  "tags": [
+    "Accidente",
+    "Coma",
+    "Hospital",
+    "Traición",
+    "Secretos",
+    "Pasado",
+    "Celos",
+    "Relaciones complicadas",
+    "Perro",
+    "Amor",
+    "BL"
+  ],
+  "sinopsis": "Bryce, un director de cine, sufre un grave accidente durante una noche de lluvia y queda en coma. Mientras permanece hospitalizado, las personas vinculadas a su pasado y a su presente vuelven a encontrarse y salen a la luz sentimientos, traiciones y heridas que nunca llegaron a resolverse. Daniel, Jeffrey y Allen están conectados con Bryce de distintas maneras, y la situación obliga a todos a enfrentarse a relaciones marcadas por el amor, los celos, la decepción y los secretos. En medio de este conflicto, Chukchuk, el perro de Bryce, representa el vínculo más constante de su vida.",
+  "activo": true
+}

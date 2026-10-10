@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000229",
+  "titulo": "Craving You",
+  "tituloOriginal": "饞上你",
+  "alias": [
+    "Hungry For You",
+    "Stick To You"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2020-10-15",
+  "finalizacion": "2020-11-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Pastelería",
+    "Cocina",
+    "Amigos a amantes",
+    "Primer amor",
+    "Segunda oportunidad",
+    "Celebridad",
+    "Entorno laboral"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Song Yi-fan",
+        "Yu Kai-en"
+      ]
+    },
+    {
+      "personajes": [
+        "Soda",
+        "Noah"
+      ]
+    }
+  ],
+  "sinopsis": "Song Yi-fan, un reservado maestro de la pastelería que dirige la boutique K., vuelve a encontrarse con Yu Kai-en, un cantante convertido en celebridad de internet cuya canción más famosa nació de un antiguo amor. La colaboración entre ambos hace que resurjan sentimientos y heridas del pasado, mientras la historia secundaria de Soda y Noah enfrenta también las consecuencias de los antiguos sentimientos de Kai-en.",
+  "activo": true
+}

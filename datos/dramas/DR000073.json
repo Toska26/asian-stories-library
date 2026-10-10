@@ -1,0 +1,99 @@
+{
+  "codigo": "DR000073",
+  "titulo": "Love You Teacher",
+  "tituloOriginal": "รักครูเท่าโลกเลย",
+  "alias": [
+    "Rak Khru Thao Lok Loei"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000073",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2026-03-14",
+  "finalizacion": "2026-05-16",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Pobmek",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Solar",
+      "persona": "PR000073",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000087",
+      "personajes": [
+        "Pobmek",
+        "Solar"
+      ]
+    }
+  ],
+  "sinopsis": "Pobmek es un profesor de primaria de carácter serio que no se lleva especialmente bien con los niños. Su novio Solar, también profesor, es mucho más alegre y afectuoso. Después de que Solar sufra un accidente que le provoca una lesión cerebral y hace que su mente regrese ocasionalmente a la de un niño de siete años, Pobmek tendrá que enfrentarse a una nueva realidad mientras intenta cuidar de la persona que ama y mantener su relación.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/d8/56/e8/d856e8d5ef5b0d9f622222bca19e7fc1.jpg",
+      "https://i.pinimg.com/736x/d0/40/8d/d0408d5c8e67dfc70e6caf68b031cd26.jpg",
+      "https://static.tvmaze.com/uploads/images/original_untouched/545/1363706.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=c4QnAOLeI2o"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=-OwlECihP68",
+      "https://www.youtube.com/watch?v=PE1RN0rkau4",
+      "https://www.youtube.com/watch?v=8e15jzG0Pao",
+      "https://www.youtube.com/watch?v=C85IgYzuDqA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000041",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

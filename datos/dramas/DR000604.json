@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000604",
+  "titulo": "Kiss or Kill",
+  "tituloOriginal": "赴海",
+  "alias": [
+    "Fu Hai",
+    "Fù Hǎi",
+    "Kiss or Kill at Sea"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2026-08-19",
+  "finalizacion": "2026-09-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Crimen organizado",
+    "Agente encubierto",
+    "Identidad secreta",
+    "Mercenario",
+    "Venganza",
+    "Conspiración",
+    "Reencuentro",
+    "Romance peligroso",
+    "Secretos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nie Chuan",
+        "Lin Yan"
+      ]
+    }
+  ],
+  "sinopsis": "Nie Chuan es un mercenario cuya vida queda ligada a la de Lin Yan, un agente encubierto que opera bajo la identidad de un fotógrafo independiente. Tres años antes de los acontecimientos principales, ambos se conocen durante un violento conflicto fronterizo y un anillo se convierte en el recuerdo que los mantiene unidos. Cuando vuelven a encontrarse dentro del mundo de una poderosa organización criminal, Lin Yan continúa ocultando su verdadera identidad y su misión. Entre conspiraciones, venganzas y lealtades enfrentadas, ambos deben decidir hasta dónde pueden confiar el uno en el otro mientras intentan sobrevivir al peligro que los rodea.",
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000874",
+  "titulo": "My Roommate",
+  "tituloOriginal": "My Roommate",
+  "alias": [
+    "My Roommate The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": "1-2 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-08",
+  "finalizacion": "2022-10-29",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "BL"
+  ],
+  "tags": [
+    "Convivencia",
+    "Compañeros de piso",
+    "Amigos a amantes",
+    "Duelo",
+    "Fotografía",
+    "Streamer",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xian",
+        "Time"
+      ]
+    }
+  ],
+  "sinopsis": "Xian regresa a Bangkok tras enterarse de la muerte de su madre y descubrir que ha heredado la casa familiar. Al llegar, descubre que cinco personas viven allí como inquilinos y trata de conseguir que se marchen. Sin embargo, termina compartiendo espacio con ellos y, especialmente, con Time, un joven de personalidad cálida que le ofrece apoyo cuando más lo necesita. Mientras Xian intenta recuperar su pasión por la fotografía y adaptarse a la convivencia, la cercanía entre ambos hace que su relación evolucione hacia algo más profundo.",
+  "activo": true
+}

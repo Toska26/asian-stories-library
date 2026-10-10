@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000268",
+  "titulo": "The Boy Foretold by the Stars",
+  "tituloOriginal": "The Boy Foretold by the Stars",
+  "alias": [
+    "The Boy Foretold by the Stars"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "pelicula",
+  "franquicia": {
+    "codigo": "FR000024",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 107,
+  "estado": "Finalizado",
+  "estreno": "2020-12-25",
+  "finalizacion": "2020-12-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Película",
+    "Escolar",
+    "Colegio católico",
+    "Destino",
+    "Almas gemelas",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dominic Cruz",
+        "Luke Armada"
+      ]
+    }
+  ],
+  "sinopsis": "Dominic y Luke son dos estudiantes de un colegio católico que se conocen durante un retiro escolar. Mientras intentan descubrir si las señales del destino los han unido, su amistad se transforma progresivamente en una relación romántica.",
+  "activo": true
+}

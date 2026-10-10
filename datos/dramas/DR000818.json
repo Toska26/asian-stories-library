@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000818",
+  "titulo": "Country Boy T1",
+  "tituloOriginal": "บ้านพักหลังป่วนกับก๊วนเด็กเมือง",
+  "alias": [
+    "Country Boy",
+    "Country Boy The Series",
+    "Country Boy - The Movie"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000818",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": "33-39 min",
+  "estado": "Finalizado",
+  "estreno": "2021-06-15",
+  "finalizacion": "2021-06-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Pueblo",
+    "Casa rural",
+    "Chiang Mai",
+    "Familia",
+    "Convivencia",
+    "Diferencias sociales",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Keptawan",
+        "Nabdao"
+      ]
+    }
+  ],
+  "sinopsis": "Keptawan, un joven de buena posición, viaja con sus amigos a una casa de huéspedes situada en las afueras de Chiang Mai. Allí conoce a Nabdao, el hijo del propietario, y ambos comienzan una relación que transforma la estancia de Keptawan y la vida de los dos jóvenes.",
+  "activo": true
+}

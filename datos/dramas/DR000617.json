@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000617",
+  "titulo": "Pornographer: Playback",
+  "tituloOriginal": "劇場版ポルノグラファー～プレイバック～",
+  "alias": [
+    "Pornographer: Playback",
+    "Theatrical Edition Pornographer: Playback"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000035",
+    "orden": 4
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 106,
+  "estado": "Finalizado",
+  "estreno": "2021-02-26",
+  "finalizacion": "2021-02-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Pareja",
+    "Distancia",
+    "Familia",
+    "Reencuentro",
+    "Vida adulta",
+    "Conflicto emocional"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kijima Rio",
+        "Kuzumi Haruhiko"
+      ]
+    }
+  ],
+  "sinopsis": "Kijima Rio y Kuzumi Haruhiko mantienen una relación a distancia después de que Kijima regrese a su ciudad natal y Kuzumi comience su vida laboral en Tokio. Las dificultades de la distancia y las inseguridades de Kijima provocan un distanciamiento entre ambos. Cuando Kuzumi viaja para verlo, una nueva situación relacionada con una lesión de Kijima y un joven llamado Shizuo obliga a ambos a enfrentarse a sus sentimientos y decidir si quieren continuar construyendo una vida juntos.",
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000352",
+  "titulo": "PRESO Season 4",
+  "alias": [
+    "PRESO 4",
+    "PRESO Season 4"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000026",
+    "orden": 4
+  },
+  "universo": "UN000010",
+  "serie": "SR000349",
+  "temporadas": 4,
+  "temporada": 4,
+  "episodios": 11,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Amor",
+    "Convivencia",
+    "Relación de pareja",
+    "Compromiso"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "SO",
+        "SEPH"
+      ]
+    }
+  ],
+  "sinopsis": "SO y Seph deciden comenzar plenamente una vida en pareja, compartiendo su día a día como amantes y compañeros de vida. La temporada se centra en su adaptación a la convivencia, las dificultades que surgen al avanzar su relación y las decisiones que deben afrontar mientras intentan construir juntos un futuro estable.",
+  "activo": true
+}

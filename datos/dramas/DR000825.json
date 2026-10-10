@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000825",
+  "titulo": "Nitiman",
+  "tituloOriginal": "นิติแมนแฟนวิศวะ",
+  "alias": [
+    "Nitiman The Series",
+    "Nitiman Fan Engineering",
+    "NitiMan",
+    "NitiMan: Society and Lover"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "NITI man, society and lover",
+    "tituloOriginal": "มนุษย์นิติสังคมและคนรัก",
+    "autor": "Chamaij",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "45-60 min",
+  "estado": "Finalizado",
+  "estreno": "2021-05-07",
+  "finalizacion": "2021-07-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Ingeniería",
+    "Derecho",
+    "Fútbol",
+    "Amistad",
+    "Primer amor",
+    "Malentendidos",
+    "Amor no correspondido",
+    "Relación universitaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin",
+        "BBomb"
+      ]
+    }
+  ],
+  "sinopsis": "Jin, el popular estudiante de ingeniería y representante de su universidad, acaba de terminar su relación con Aim cuando conoce a BBomb, un estudiante de Derecho que lleva tiempo enamorado de él. Jin cree inicialmente que BBomb es el responsable de que Aim lo haya engañado, pero poco a poco descubre que sus sentimientos hacia él son sinceros y que la relación que comienza entre ambos puede convertirse en algo más profundo.",
+  "activo": true
+}

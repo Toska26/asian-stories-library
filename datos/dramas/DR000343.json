@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000343",
+  "titulo": "Meet My Angel",
+  "alias": [
+    "Meet My Angel The Series",
+    "Meet My Angel Season 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000343",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-02-19",
+  "finalizacion": "2021-04-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Ángel",
+    "Sobrenatural",
+    "Amor prohibido",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Damon",
+        "Angelo"
+      ]
+    }
+  ],
+  "sinopsis": "Damon, un joven profundamente marcado por la depresión y el rechazo, conoce a Angelo, su ángel guardián, que desciende al mundo humano para ayudarle a recuperar las ganas de vivir. Mientras Angelo guía a Damon en su proceso de recuperación, ambos terminan desarrollando sentimientos que desafían las reglas de su mundo.",
+  "activo": true
+}

@@ -1,0 +1,83 @@
+{
+  "codigo": "DR000523",
+  "titulo": "Honey Sir",
+  "tituloOriginal": "亲爱的先生",
+  "alias": [
+    "Qin Ai Xian Sheng",
+    "Dear Sir"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Historias reales",
+    "titulo": "Historias reales de amor gay",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-08-13",
+  "finalizacion": "2020-10-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Antología",
+    "Historias reales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xuan",
+        "Bu"
+      ]
+    },
+    {
+      "personajes": [
+        "Na Fei",
+        "Mo Xiaohui"
+      ]
+    },
+    {
+      "personajes": [
+        "Liu Bin",
+        "Zi Jian"
+      ]
+    },
+    {
+      "personajes": [
+        "Yang Yiyi",
+        "Zhang Jiahang"
+      ]
+    },
+    {
+      "personajes": [
+        "Li Zisen",
+        "Lin Min"
+      ]
+    },
+    {
+      "personajes": [
+        "Wang Meng",
+        "Wei Jie"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhuo Fei",
+        "Wang Kai"
+      ]
+    }
+  ],
+  "sinopsis": "Antología formada por siete historias independientes que muestran diferentes experiencias del amor entre hombres: el amor secreto, salir del armario, los malentendidos, la distancia, los encuentros, las relaciones de oficina y la construcción de una familia.",
+  "activo": true
+}

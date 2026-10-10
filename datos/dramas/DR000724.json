@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000724",
+  "titulo": "Countdown to Yes",
+  "tituloOriginal": "親友の「同棲して」に「うん」て言うまで",
+  "alias": [
+    "Shinyuu no \"Dousei Shite\" ni \"Un\" te Iu Made",
+    "Until I Say Yes to My Best Friend’s \"Live With Me\""
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-13",
+  "finalizacion": "2026-03-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yokoi Minato",
+        "Nakano Wataru"
+      ]
+    }
+  ],
+  "sinopsis": "Minato y Wataru son amigos íntimos desde sus años de estudiante y comparten una pasión por la fotografía. Después de haber vivido juntos durante la universidad y separarse cuando Minato comienza a trabajar, ambos vuelven a encontrarse mientras Wataru descubre que sus sentimientos por su mejor amigo son algo más que amistad.",
+  "activo": true
+}

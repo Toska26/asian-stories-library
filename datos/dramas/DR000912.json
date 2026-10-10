@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000912",
+  "titulo": "Love in Translation",
+  "tituloOriginal": "รักไม่รู้ภาษา",
+  "alias": [
+    "Love in Translation The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2023-08-19",
+  "finalizacion": "2023-10-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Diferencias culturales",
+    "Barrera lingüística",
+    "Chino-tailandés",
+    "Negocios",
+    "Tienda",
+    "Amor a primera vista",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yang",
+        "Phumjai"
+      ]
+    },
+    {
+      "personajes": [
+        "Phojai",
+        "Tag"
+      ]
+    }
+  ],
+  "sinopsis": "Yang es un empresario chino que llega a Tailandia para desarrollar su negocio. Allí conoce a Phumjai, un joven que intenta aprender chino para acercarse a una influencer. Las diferencias de idioma y cultura no impiden que ambos terminen desarrollando sentimientos. Paralelamente, Phojai y Tag viven su propia historia de amor.",
+  "activo": true
+}

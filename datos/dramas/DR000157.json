@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000157",
+  "titulo": "Love Is Like a Cat",
+  "tituloOriginal": "사랑은 고양이처럼",
+  "alias": [
+    "Love Is Like a Cat",
+    "Love Like a Cat",
+    "Sarangeun Goyangicheoreom"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000004",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2024-04-01",
+  "finalizacion": "2024-05-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Colaboración Corea–Tailandia",
+    "Famoso",
+    "Cafetería",
+    "Mascotas",
+    "Perros",
+    "Sanación",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Uno",
+      "persona": "PR000224",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dae Byeol",
+      "persona": "PR000668",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Uno",
+        "Dae Byeol"
+      ]
+    }
+  ],
+  "sinopsis": "Pi Uno es una estrella popular que siente rechazo hacia los perros debido a un trauma de su infancia. Su vida cambia cuando conoce a Lee Dae Byeol, propietario de una cafetería para perros, y a Gi Min, uno de sus empleados. Mientras Pi Uno comienza a trabajar en el establecimiento, la convivencia con Dae Byeol hace que ambos se acerquen y descubran sentimientos que ninguno esperaba.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=B-IdATHk0Nw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000128",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

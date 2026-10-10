@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000430",
+  "titulo": "Tiến Bromance: My Small Family 2",
+  "alias": [
+    "Tiến Bromance: The Bonus Episodes (Part 2)"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Webdrama",
+  "universo": "UN000014",
+  "serie": "SR000427",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2021-04-15",
+  "finalizacion": "2021-06-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción"
+  ],
+  "tags": [
+    "BL",
+    "Pareja",
+    "Familia",
+    "Convivencia",
+    "Amor",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến",
+        "Tài"
+      ]
+    }
+  ],
+  "sinopsis": "Segunda parte de My Small Family. Tiến y Tài continúan su vida en pareja mientras nuevos problemas interrumpen la tranquilidad que habían conseguido construir después de los acontecimientos de la historia original.",
+  "activo": true
+}

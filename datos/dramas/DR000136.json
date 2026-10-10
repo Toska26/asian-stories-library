@@ -1,0 +1,113 @@
+{
+  "codigo": "DR000136",
+  "titulo": "Love Class 2",
+  "tituloOriginal": "수업중입니다 2",
+  "alias": [
+    "Love Class 2",
+    "Love Class Season 2",
+    "Sueop Jungimnida 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000128",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2023-08-11",
+  "finalizacion": "2023-09-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Campus",
+    "Compañeros de clase",
+    "Amistad",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Hyun",
+      "persona": "PR000618",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim An",
+      "persona": "PR000619",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sung Min",
+      "persona": "PR000620",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Joo Hyuk",
+      "persona": "PR000621",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Hyun",
+        "Kim An"
+      ]
+    },
+    {
+      "personajes": [
+        "Sung Min",
+        "Joo Hyuk"
+      ]
+    }
+  ],
+  "sinopsis": "Un nuevo grupo de estudiantes universitarios se enfrenta a las complicaciones de la vida en el campus mientras cada uno intenta encontrar su lugar y descubrir qué significa enamorarse. Entre clases, amistades y nuevas relaciones, los protagonistas comienzan a acercarse y a enfrentarse a sentimientos que no siempre son fáciles de reconocer. Las distintas historias de amor se entrelazan mientras intentan compaginar sus estudios con sus relaciones.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/63/39/09/6339096bf62511478ca0d8c4bd96a821.jpg",
+      "https://i.pinimg.com/1200x/8a/84/74/8a8474205112d51770a42fbbcc933ccc.jpg",
+      "https://i.pinimg.com/1200x/76/16/a7/7616a72e8a9b87751bb8e594820b19ae.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1238394v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000084",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

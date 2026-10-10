@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000937",
+  "titulo": "Addicted Heroin",
+  "tituloOriginal": "รักร้าย นายเสพติด",
+  "alias": [
+    "Rak Rai Nai Sep Tit",
+    "Heroin The Series",
+    "Addicted Heroin"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000509",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Are You Addicted?",
+    "tituloOriginal": "你丫上瘾了",
+    "autor": "Chai Jidan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2024-08-13",
+  "finalizacion": "2024-10-15",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hero",
+        "Pop"
+      ]
+    },
+    {
+      "personajes": [
+        "Tiger",
+        "Only"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Addicted Heroin Special",
+      "estreno": "2024-12-11",
+      "duracion": 90
+    }
+  ],
+  "sinopsis": "Hero, hijo de un general, huye de casa y se muda al campo para comenzar de nuevo en un instituto. Allí conoce a Pop, un compañero de origen humilde al que inicialmente oculta su verdadera identidad. Cuando descubre que Pop es el hijo de su madrastra, su relación se complica por los conflictos familiares, las diferencias sociales y los secretos que los rodean. Mientras Hero y Pop se acercan cada vez más, Tiger y Only desarrollan su propia historia de amor.",
+  "activo": true
+}

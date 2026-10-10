@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000722",
+  "titulo": "I'm Kishi Knight: Your Private Tutor",
+  "tituloOriginal": "家庭教師の岸騎士です。",
+  "alias": [
+    "Kateikyoshi no Kishi Knight desu.",
+    "I’m Private Tutor, Kishi Knight"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "24 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-05",
+  "finalizacion": "2026-03-09",
+  "generos": [
+    "BL",
+    "Comedia",
+    "Romance",
+    "Escolar"
+  ],
+  "sinopsis": "Toru Takasugi, un estudiante de instituto problemático con pésimos resultados académicos, comienza a recibir clases de Kishi Knight, un tutor privado elegante y excepcionalmente competente. Mientras Kishi intenta ayudarle a mejorar sus estudios, Toru desarrolla sentimientos por él, aunque la relación permanece en el terreno del enamoramiento unilateral.",
+  "especiales": [
+    "Special Lesson Part 1",
+    "Special Lesson Part 2"
+  ],
+  "activo": true
+}

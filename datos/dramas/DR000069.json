@@ -1,0 +1,119 @@
+{
+  "codigo": "DR000069",
+  "titulo": "My Romance Scammer",
+  "tituloOriginal": "รักจริง หลังแต่ง",
+  "alias": [
+    "Rak Ching Lang Taeng",
+    "Real Love After Marriage"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000069",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 59,
+  "estado": "Finalizado",
+  "estreno": "2026-02-01",
+  "finalizacion": "2026-04-19",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tim",
+      "persona": "PR000529",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pai",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu",
+      "persona": "PR000055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "North",
+      "persona": "PR000556",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000089",
+      "personajes": [
+        "Tim",
+        "Pai"
+      ]
+    },
+    {
+      "ship": "SH000108",
+      "personajes": [
+        "Yu",
+        "North"
+      ]
+    }
+  ],
+  "sinopsis": "Pai y North, dos primos y herederos de la familia Jiramongkolthanan, se convierten en el objetivo de dos estafadores, Tim y Yu, que pretenden casarse con ellos para acceder a su fortuna. Mientras North se casa en secreto con Yu y descubre después que ha sido engañado, Tim continúa preparando su boda con Pai sin que este sepa que su prometido es un estafador. Lo que comienza como un plan para conseguir dinero se complica cuando los sentimientos de los cuatro hombres empiezan a ser reales.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/07/f3/16/07f3161f410e032d857bda6400903c5a.jpg",
+      "https://i.pinimg.com/736x/94/e9/5b/94e95bd08fc9dd48898e4a8ea545253f.jpg",
+      "https://i.pinimg.com/736x/90/44/52/90445225c81f05baf5d85015fdc54525.jpg"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=8K0o0Ip2ukk",
+      "https://www.youtube.com/watch?v=TkGOlxUhYB0",
+      "https://www.youtube.com/watch?v=NdrYTlqHWlk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    "My Romance Scammer รักจริง หลังแต่ง Special"
+  ],
+  "activo": true
+}

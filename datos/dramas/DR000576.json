@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000576",
+  "titulo": "Honey on the Edge of the Knife",
+  "tituloOriginal": "刀口之蜜",
+  "alias": [
+    "Dao Kou Zhi Mi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 46,
+  "estado": "Finalizado",
+  "estreno": "2025-11-05",
+  "finalizacion": "2025-11-05",
+  "generos": [
+    "Bromance",
+    "Romance",
+    "Drama",
+    "Acción"
+  ],
+  "tags": [
+    "Bromance",
+    "Reencuentro",
+    "Conflicto",
+    "Identidades ocultas",
+    "Venganza",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xiao Zhiyan",
+        "Pei Siheng"
+      ]
+    }
+  ],
+  "sinopsis": "Xiao Zhiyan y Pei Siheng quedan atrapados en una relación marcada por secretos, conflictos y circunstancias que ponen a prueba la confianza entre ambos. Mientras las amenazas y los acontecimientos del pasado vuelven a aparecer, los dos protagonistas deben decidir hasta dónde están dispuestos a llegar para protegerse mutuamente.",
+  "activo": true
+}

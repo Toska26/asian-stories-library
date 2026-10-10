@@ -1,0 +1,159 @@
+{
+  "codigo": "DR000016",
+  "titulo": "Wedding Plan",
+  "tituloOriginal": "Wedding Plan",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "universo": "UN000001",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-07-19",
+  "finalizacion": "2023-08-30",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Sailom",
+      "persona": "PR000126",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Namnuea",
+      "persona": "PR000127",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yiwa",
+      "persona": "PR000128",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marine",
+      "persona": "PR000129",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sun",
+      "persona": "PR000130",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ryu",
+      "persona": "PR000131",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Im",
+      "persona": "PR000132",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yiwa’s Mother",
+      "persona": "PR000133",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000134",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000024",
+      "personajes": [
+        "Sailom",
+        "Namnuea"
+      ]
+    },
+    {
+      "ship": "SH000025",
+      "personajes": [
+        "Yiwa",
+        "Marine"
+      ]
+    }
+  ],
+  "sinopsis": "Namnuea, un organizador de bodas, recibe el encargo de preparar la boda de Yiwa y Sailom. Lo que comienza como un trabajo profesional se complica cuando Namnuea descubre que Sailom no está realmente dispuesto a casarse. Mientras los preparativos avanzan, ambos comienzan a desarrollar sentimientos que harán cada vez más difícil mantener la relación en el terreno profesional.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000022189892/0/wedding_plan.webp"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000011",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Step: Wedding Plan",
+      "fecha": "2023-09-16"
+    }
+  ],
+  "activo": true
+}

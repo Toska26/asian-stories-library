@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000923",
+  "titulo": "Past-Senger",
+  "tituloOriginal": "เพื่อนพ่อ เดอะซีรีส์",
+  "alias": [
+    "Past Senger",
+    "Past-Senger The Series",
+    "Phuean Pho The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-03-08",
+  "finalizacion": "2023-05-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Viaje en el tiempo",
+    "Viaje temporal",
+    "Años 90",
+    "Universidad",
+    "Arquitectura",
+    "Estudiantes",
+    "Amigos",
+    "Familia",
+    "Padre e hijo",
+    "Destino",
+    "Reencuentro",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kiao",
+        "Bamee"
+      ]
+    }
+  ],
+  "sinopsis": "Kiao es un adolescente de los años 90 que sueña con estudiar arquitectura. Tras un extraño acontecimiento, termina transportado veinticinco años hacia el futuro, donde conoce a Bamee, un reservado estudiante de arquitectura cuyo padre falleció. Mientras intenta encontrar una forma de regresar a su época, Kiao se acerca cada vez más a Bamee y descubre que su propia historia está inesperadamente conectada con la familia del joven.",
+  "activo": true
+}

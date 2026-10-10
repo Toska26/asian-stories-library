@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000526",
+  "titulo": "Winter Begonia",
+  "tituloOriginal": "鬓边不是海棠红",
+  "alias": [
+    "Bin Bian Bu Shi Hai Tang Hong",
+    "The Sideburns Are Not Begonia Red",
+    "Begonia de invierno"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Winter Begonia",
+    "tituloOriginal": "鬓边不是海棠红",
+    "autor": "Shui Ru Tian Er",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 49,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-03-20",
+  "finalizacion": "2020-05-05",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Histórico",
+    "Guerra",
+    "Música"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Ópera de Pekín"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cheng Fengtai",
+        "Shang Xirui"
+      ]
+    }
+  ],
+  "sinopsis": "En el Pekín de la década de 1930, el célebre intérprete de ópera de Pekín Shang Xirui conoce al empresario Cheng Fengtai, un apasionado de la ópera. Unidos por su admiración por este arte, ambos desarrollan una profunda amistad y se apoyan mutuamente mientras afrontan las dificultades del mundo teatral, los conflictos políticos y la guerra.",
+  "activo": true
+}

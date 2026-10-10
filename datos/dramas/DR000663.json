@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000663",
+  "titulo": "The End of the World With You",
+  "tituloOriginal": "僕らのミクロな終末",
+  "alias": [
+    "Bokura no Mikuro na Shūmatsu",
+    "Bokura no Micro na Shuumatsu",
+    "The End of the World, With You"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The End of the World With You",
+    "tituloOriginal": "僕らのミクロな終末",
+    "autor": "Maki Marukido",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-01-30",
+  "finalizacion": "2023-03-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Ciencia ficción",
+    "Apocalipsis",
+    "Exparejas",
+    "Reencuentro",
+    "Supervivencia",
+    "Mundo postapocalíptico",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nishina Masumi",
+        "Kusakabe Ritsu"
+      ]
+    }
+  ],
+  "sinopsis": "Con un meteorito destinado a destruir la Tierra en pocos días, Nishina Masumi intenta pasar tranquilamente los últimos días de su vida. Sin embargo, se reencuentra con Kusakabe Ritsu, su antiguo amante de la universidad, con quien terminó de forma dolorosa años atrás. Obligados a afrontar juntos el fin del mundo, ambos deben enfrentarse a su pasado y a los sentimientos que todavía permanecen entre ellos.",
+  "activo": true
+}

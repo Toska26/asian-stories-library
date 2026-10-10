@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000551",
+  "titulo": "To My Shore",
+  "tituloOriginal": "吾岸",
+  "alias": [
+    "Wu An"
+  ],
+  "pais": [
+    "CN",
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000019",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Four-Faced Buddha",
+    "tituloOriginal": "四面佛",
+    "autor": "Su Erliang",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "estado": "Finalizado",
+  "estreno": "2025-11-15",
+  "finalizacion": "2026-01-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Coproducción",
+    "China-Tailandia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fan Xiao",
+        "You Shulang"
+      ]
+    }
+  ],
+  "sinopsis": "Fan Xiao y You Shulang se encuentran en circunstancias complicadas que ponen a prueba sus sentimientos y su confianza. A medida que su relación se desarrolla, ambos deben enfrentarse a los conflictos del pasado y a las dificultades que amenazan con separarlos.",
+  "activo": true
+}

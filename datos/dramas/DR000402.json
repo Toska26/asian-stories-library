@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000402",
+  "titulo": "Farewell My Ghost Boyfriend",
+  "alias": [
+    "Hứa sẽ hạnh phúc nhé"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2016,
+  "tipo": "Cortometraje",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 32,
+  "estado": "Finalizado",
+  "estreno": "2016-02-11",
+  "finalizacion": "2016-02-11",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantástico"
+  ],
+  "tags": [
+    "Amor",
+    "Duelo",
+    "Fantasma",
+    "Muerte",
+    "Pérdida",
+    "Superación",
+    "Segundas oportunidades",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Trung",
+        "Mạnh"
+      ]
+    },
+    {
+      "personajes": [
+        "Trung",
+        "Hiếu"
+      ]
+    }
+  ],
+  "sinopsis": "Trung vive sumido en la tristeza y el silencio después de la muerte de Mạnh, su novio, a quien perdió tras una discusión. El fantasma de Mạnh regresa y, preocupado por el sufrimiento de Trung, intenta ayudarle a recuperar su felicidad y a abrir de nuevo su corazón al amor con Hiếu.",
+  "activo": true
+}

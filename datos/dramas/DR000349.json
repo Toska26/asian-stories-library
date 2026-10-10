@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000349",
+  "titulo": "PRESO",
+  "alias": [
+    "PRESO",
+    "Captive Love",
+    "PRESO: Captive Love"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000026",
+    "orden": 1
+  },
+  "universo": "UN000010",
+  "serie": "SR000349",
+  "temporadas": 4,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2021-03-28",
+  "finalizacion": "2021-07-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Amor",
+    "Autodescubrimiento",
+    "Bisexualidad",
+    "Homosexualidad",
+    "Amor no correspondido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "SO",
+        "PRE"
+      ]
+    }
+  ],
+  "sinopsis": "SO, un hombre gay discreto que busca el amor por internet, conoce a PRE, un misterioso bisexual conocido como Lonely Soul. PRE ayuda a SO a superar el dolor provocado por su relación anterior con Pablo y le anima a darse una nueva oportunidad en el amor.",
+  "activo": true
+}

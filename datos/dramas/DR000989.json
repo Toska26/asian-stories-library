@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000989",
+  "titulo": "The Last Time",
+  "tituloOriginal": "ความทรงจำครั้งสุดท้าย",
+  "alias": [
+    "The Last Time",
+    "The Last Time: Last Memory"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2025-02-14",
+  "finalizacion": "2025-04-05",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Tragedia"
+  ],
+  "tags": [
+    "Segunda oportunidad",
+    "Duelo",
+    "Enfermedad",
+    "Amor prohibido",
+    "Secretos",
+    "Viaje",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryu",
+        "Arm"
+      ]
+    }
+  ],
+  "sinopsis": "Ryu es un escritor que pierde a su prometida Pin en un accidente de tráfico y queda sumido en el dolor. La llegada de Arm, el sobrino de su jefe, devuelve poco a poco la luz a su vida. Cuando Ryu descubre que padece una enfermedad terminal y que existen secretos relacionados con la muerte de Pin, ambos deberán enfrentarse a una verdad capaz de cambiar el futuro de su relación.",
+  "activo": true
+}

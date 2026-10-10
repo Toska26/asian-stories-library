@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000911",
+  "titulo": "Laws of Attraction",
+  "tituloOriginal": "กฎแห่งรักดึงดูด",
+  "alias": [
+    "Kot Haeng Rak Dueng Dut"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2023-07-15",
+  "finalizacion": "2023-09-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "tags": [
+    "BL",
+    "Abogados",
+    "Justicia",
+    "Corrupción",
+    "Investigación",
+    "Venganza",
+    "Crimen",
+    "Caso judicial",
+    "Enemigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Charn",
+        "Tinn"
+      ]
+    }
+  ],
+  "sinopsis": "Charn es un abogado brillante y calculador que acepta casos capaces de proporcionarle dinero o notoriedad. Tinn, que busca justicia tras la muerte de su sobrina, recurre a él. Mientras investigan el caso y descubren una red de corrupción, ambos desarrollan sentimientos que complican todavía más su búsqueda de justicia.",
+  "activo": true
+}

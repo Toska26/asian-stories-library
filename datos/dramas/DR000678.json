@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000678",
+  "titulo": "Don't Care for an Old Man's Underwear",
+  "tituloOriginal": "おっさんのパンツがなんだっていいじゃないか！",
+  "alias": [
+    "Don't Care for an Old Man's Underwear!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Don't Care for an Old Man's Underwear",
+    "tituloOriginal": "おっさんのパンツがなんだっていいじゃないか！",
+    "autor": "Nerima Zim",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": 44,
+  "estado": "Finalizado",
+  "estreno": "2024-01-06",
+  "finalizacion": "2024-03-16",
+  "generos": [
+    "LGBTQ+",
+    "Drama",
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "LGBTQ+",
+    "Homofobia",
+    "Familia",
+    "Aceptación",
+    "Generaciones",
+    "Identidad",
+    "Cambio personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Daichi Igarashi",
+        "Madoka"
+      ]
+    }
+  ],
+  "sinopsis": "Makoto Okita, un hombre de mediana edad aferrado a ideas tradicionales, comienza a cuestionar sus prejuicios cuando entra en contacto con personas de una generación más joven y, especialmente, con Daichi, un joven gay. La historia explora la aceptación, la familia y el cambio de mentalidad.",
+  "activo": true
+}

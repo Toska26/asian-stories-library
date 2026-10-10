@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000922",
+  "titulo": "Night Dream",
+  "tituloOriginal": "คืนฝันของฉันและเธอ",
+  "alias": [
+    "Night Dream: คืนฝันของฉันและเธอ",
+    "Khuen Fan Khong Chan Lae Thoe"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Night Dream",
+    "tituloOriginal": "คืนฝันของฉันและเธอ",
+    "autor": "Faddist",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2023-12-16",
+  "finalizacion": "2024-01-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Amigos de la infancia",
+    "Amigos de la escuela",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Amor de amigos",
+    "Slow burn",
+    "Universidad",
+    "Estudiantes",
+    "Literatura",
+    "Escritor",
+    "Cafetería",
+    "Malentendidos",
+    "Flashbacks"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Night",
+        "Dream"
+      ]
+    }
+  ],
+  "sinopsis": "Night es un estudiante de literatura que está a punto de graduarse y necesita terminar su proyecto final sobre el amor, pero no consigue comprender ni expresar qué significa realmente ese sentimiento. La situación cambia cuando se reencuentra con Dream, su antiguo mejor amigo del instituto, que ahora regenta una cafetería. La reunión despierta recuerdos y sentimientos que ambos habían dejado atrás, obligándolos a enfrentarse a lo que realmente existe entre ellos.",
+  "activo": true
+}

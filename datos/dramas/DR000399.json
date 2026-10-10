@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000399",
+  "titulo": "Sugar Games",
+  "alias": [
+    "Sugar Games: A Rivalry Like No Other",
+    "Sugar Games The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2026-08-08",
+  "finalizacion": "2026-09-12",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "tags": [
+    "Baloncesto",
+    "Rivales",
+    "Enemies to Lovers",
+    "Sugar Daddy",
+    "Dinero",
+    "Supervivencia",
+    "Relación secreta",
+    "Abuso de poder",
+    "Deporte",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kyle",
+        "Jerry"
+      ]
+    }
+  ],
+  "sinopsis": "Kyle y Jerry son dos rivales del baloncesto callejero que llevan años enfrentándose dentro y fuera de la cancha. La presión económica que amenaza sus carreras y a sus familias los lleva, por separado, a aceptar la ayuda de un poderoso benefactor. Cuando ambos terminan vinculados al mismo hombre y obligados a vivir bajo su control, la rivalidad entre ellos comienza a transformarse en una relación clandestina. Su vínculo pone en peligro tanto su libertad como sus sueños deportivos.",
+  "activo": true
+}

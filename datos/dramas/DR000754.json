@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000754",
+  "titulo": "Grey Rainbow",
+  "tituloOriginal": "รุ้งสีเทา",
+  "alias": [
+    "Views of Love: Grey Rainbow",
+    "Rung See Thao",
+    "Gray Rainbow"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2016,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 75,
+  "estado": "Finalizado",
+  "estreno": "2016-04-23",
+  "finalizacion": "2016-05-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Porsche",
+        "Nuer"
+      ]
+    }
+  ],
+  "sinopsis": "Porsche, estudiante de Derecho, y Nuer, hijo del propietario de un campamento de elefantes, son compañeros de habitación y amigos inseparables durante sus años universitarios. Mientras intentan comprender sus sentimientos y enfrentarse a las expectativas familiares y sociales, su amistad evoluciona hacia una relación amorosa.",
+  "activo": true
+}

@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000528",
+  "titulo": "I Don’t Want to Be Friends with You",
+  "tituloOriginal": "我才不要和你做朋友呢",
+  "alias": [
+    "Wo Cai Bu Yao He Ni Zuo Peng You Ne"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "universo": "UN000017",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 43,
+  "estado": "Finalizado",
+  "estreno": "2020-05-19",
+  "finalizacion": "2020-06-24",
+  "generos": [
+    "Drama",
+    "Juventud",
+    "Comedia",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Bromance",
+    "Viajes en el tiempo",
+    "Universo compartido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Jinbu",
+        "Duan Xiao"
+      ]
+    }
+  ],
+  "sinopsis": "Li Jinbu, una estudiante de secundaria, viaja inesperadamente veinte años al pasado y conoce a su madre Li Qingtong cuando tenía su misma edad. Mientras intenta comprender a su joven madre y descubrir cómo regresar a su época, vive junto a ella una etapa de juventud llena de amistad, conflictos familiares, romance y crecimiento personal.",
+  "activo": true
+}

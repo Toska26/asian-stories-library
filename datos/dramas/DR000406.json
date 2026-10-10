@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000406",
+  "titulo": "Neighbor Guy",
+  "alias": [
+    "Phòng Kế Bên",
+    "Phòng Kế Bên. Adam Ngoại Truyện – PHÒNG KẾ BÊN"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2017,
+  "tipo": "Webdrama",
+  "universo": "UN000011",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 9,
+  "estado": "Finalizado",
+  "estreno": "2017-08-17",
+  "finalizacion": "2017-10-12",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Vecinos",
+    "Convivencia",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nam",
+        "Hoàng"
+      ]
+    }
+  ],
+  "sinopsis": "Nam es un joven solitario y reservado cuya rutina cambia cuando Hoàng se muda al apartamento de al lado. El nuevo vecino, mucho más enérgico y juguetón, decide provocar a Nam y romper poco a poco la distancia que mantiene con los demás, hasta que entre ambos surge una relación romántica.",
+  "activo": true
+}

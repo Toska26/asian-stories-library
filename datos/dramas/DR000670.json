@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000670",
+  "titulo": "I Cannot Reach You",
+  "tituloOriginal": "君には届かない。",
+  "alias": [
+    "Kimi ni wa Todokanai",
+    "No puedo llegar a ti"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Cannot Reach You",
+    "tituloOriginal": "君には届かない。",
+    "autor": "Mika",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2023-09-19",
+  "finalizacion": "2023-11-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar",
+    "Amigos de infancia",
+    "Primer amor",
+    "Coming of age",
+    "Amistad",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ashiya Yamato",
+        "Ohara Kakeru"
+      ]
+    }
+  ],
+  "sinopsis": "Yamato y Kakeru son amigos de la infancia completamente diferentes. Yamato es atractivo y destaca académicamente, mientras Kakeru es un estudiante corriente que nunca se ha considerado especial. A medida que sus sentimientos cambian, Kakeru comienza a darse cuenta de que la admiración que siente por su mejor amigo puede ser algo mucho más profundo.",
+  "activo": true
+}

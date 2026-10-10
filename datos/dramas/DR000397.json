@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000397",
+  "titulo": "All the Things I Leave You (Patawid)",
+  "alias": [
+    "Patawid",
+    "All the Things I Leave You"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2026-06-17",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Ilocos",
+    "Ilocano",
+    "Familia",
+    "Herencia",
+    "Memoria",
+    "Cartas de amor",
+    "Amor secreto",
+    "Diferencias sociales",
+    "Legado",
+    "Generaciones",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jorge",
+        "Kiko"
+      ]
+    },
+    {
+      "personajes": [
+        "Tino",
+        "Bong"
+      ]
+    }
+  ],
+  "sinopsis": "Jorge, un joven privilegiado y sin rumbo, se ve obligado a trabajar junto a Kiko, un recién llegado contratado por su abuelo Tino. Tras la muerte de Tino, ambos descubren una caja de cigarros con cartas y fotografías que revelan una historia de amor secreta entre Tino y su mejor amigo Bong, iniciada décadas atrás. Mientras reconstruyen la historia de aquella relación, Jorge y Kiko comienzan a reconocer sus propios sentimientos y a enfrentarse a sus diferencias, sus deseos y al legado emocional que han heredado.",
+  "activo": true
+}

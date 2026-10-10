@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000903",
+  "titulo": "Destiny Seeker",
+  "tituloOriginal": "ราชาวิหค",
+  "alias": [
+    "Destiny Seeker The Series",
+    "Racha Wihok"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Racha Wihok",
+    "tituloOriginal": "ราชาวิหค",
+    "autor": "Chiffon_cake",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2023-02-14",
+  "finalizacion": "2023-04-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Universidad",
+    "Ingeniería",
+    "Residencias universitarias",
+    "Rivales",
+    "Rivales a amantes",
+    "Amor universitario",
+    "Amor secreto",
+    "Competencia",
+    "Amistad",
+    "Relación a escondidas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Songkhram",
+        "Ai"
+      ]
+    },
+    {
+      "personajes": [
+        "Pluster",
+        "Nano"
+      ]
+    }
+  ],
+  "sinopsis": "Songkhram y Ai son los líderes de dos residencias universitarias rivales dentro de la facultad de ingeniería. Mientras sus dormitorios compiten constantemente, la rivalidad entre ambos empieza a transformarse en una atracción que ninguno quiere reconocer. Entre competiciones, amistades y presiones para mantener su relación en secreto, los dos deberán decidir si están dispuestos a desafiar las reglas y las expectativas de quienes los rodean.",
+  "activo": true
+}

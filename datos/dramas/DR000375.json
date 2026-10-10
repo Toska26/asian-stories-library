@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000375",
+  "titulo": "Teach Me How",
+  "alias": [
+    "Teach Me How The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2023-02-27",
+  "finalizacion": "2023-04-18",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Crush",
+    "Amor no correspondido",
+    "Obsesión",
+    "Secretos",
+    "Revelaciones",
+    "Aceptación",
+    "Atracción",
+    "Sentimientos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Russel",
+        "Jake"
+      ]
+    }
+  ],
+  "sinopsis": "Russel lleva mucho tiempo obsesionado con Jake y ha construido una imagen idealizada de él en su imaginación. Cuando finalmente consigue acercarse y conocerlo de verdad, descubre un aspecto de Jake que cambia completamente la imagen que había construido. Russel deberá decidir si abandona su fantasía o acepta al verdadero Jake y aprende a quererlo con sus imperfecciones.",
+  "activo": true
+}

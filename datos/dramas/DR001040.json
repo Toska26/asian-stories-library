@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001040",
+  "titulo": "Love of Silom",
+  "tituloOriginal": "รักแห่งสีลม",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-04-24",
+  "finalizacion": "2026-07-10",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episodes"
+    }
+  ],
+  "sinopsis": "La historia de dos jóvenes cuyos caminos se cruzan en Silom y que, pese a sus diferencias y a las circunstancias que los rodean, terminan desarrollando una relación que pondrá a prueba sus sentimientos y sus decisiones.",
+  "activo": true
+}

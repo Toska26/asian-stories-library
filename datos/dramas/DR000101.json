@@ -1,0 +1,118 @@
+{
+  "codigo": "DR000101",
+  "titulo": "Burnout Syndrome",
+  "tituloOriginal": "ภาวะรักคนหมดไฟ",
+  "alias": [
+    "Phawa Rak Khon Mot Fai"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000101",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "48 min",
+  "estado": "Finalizado",
+  "estreno": "2025-11-26",
+  "finalizacion": "2026-02-04",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Triángulo amoroso",
+    "Arte",
+    "Trabajo",
+    "Burnout",
+    "Desigualdad social",
+    "Jefe y empleado",
+    "Artista",
+    "Identidad",
+    "Deseo"
+  ],
+  "personas": [
+    {
+      "nombre": "Koh",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jira",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Koh",
+        "Jira"
+      ]
+    }
+  ],
+  "sinopsis": "Koh es un hombre de negocios que conoce a Jira, un artista que atraviesa una etapa complicada y trabaja para salir adelante. Intrigado por su personalidad y por la inspiración que encuentra en él, Koh contrata a Jira para que lo utilice como modelo para sus obras. Lo que comienza como una relación profesional entre cliente y artista se transforma poco a poco en una relación marcada por la atracción, los sentimientos y los conflictos personales. Mientras tanto, Pheem, amigo cercano de Jira, también se encuentra atrapado en sus propios sentimientos, haciendo que la relación entre los tres se vuelva cada vez más complicada.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/57/75/78/57757813d32bfa63a883865cfbdaeb00.jpg",
+      "https://i.pinimg.com/1200x/f8/7b/73/f87b737534f888b77beccbed18e2b18d.jpg",
+      "https://i.pinimg.com/736x/a6/47/50/a647500843610acea3287f9ca7c306d0.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=iqtE21HQ-KU"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=weYZQ40m5mY"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=q1KLb1H7Zr8",
+      "https://www.youtube.com/watch?v=xnI_vtKkTvc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000056",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

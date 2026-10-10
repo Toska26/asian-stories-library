@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000799",
+  "titulo": "Oxygen",
+  "tituloOriginal": "ออกซิเจน เดอะซีรีส์ - ดั่งลมหายใจ",
+  "alias": [
+    "Oxygen The Series",
+    "Oxygen: The Series",
+    "Oxygen The Series - Dang Lohm Haai Jai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Oxygen: Love You More Than the Air I Breathe",
+    "tituloOriginal": "Oxygen: Love You More Than the Air I Breathe",
+    "autor": "Chesshire",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "estado": "Finalizado",
+  "estreno": "2020-09-12",
+  "finalizacion": "2020-12-05",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Cafetería",
+    "Amistad",
+    "Familia",
+    "Encuentro casual",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Solo",
+        "Gui"
+      ]
+    },
+    {
+      "personajes": [
+        "Kao",
+        "Phu"
+      ]
+    }
+  ],
+  "sinopsis": "Solo, un estudiante universitario de una familia adinerada, conoce a Gui, un joven que trabaja en una cafetería. A pesar de sus diferencias, Solo comienza a visitar el café cada noche para comprar una taza de leche y pasar tiempo con Gui. Su relación crece lentamente mientras ambos afrontan sus problemas familiares y personales. Paralelamente, Kao y Phu desarrollan una relación marcada por el cuidado, la protección y el apoyo mutuo.",
+  "activo": true
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000949",
+  "titulo": "Deep Night",
+  "tituloOriginal": "คืนนี้มีแค่เรา",
+  "alias": [
+    "Deep Night",
+    "Deep Night The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2024-03-07",
+  "finalizacion": "2024-04-25",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Host club",
+    "Diferencia de estatus",
+    "Universitario",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khemthid",
+        "Wela"
+      ]
+    },
+    {
+      "personajes": [
+        "Japan",
+        "Seiji"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Deep Night — Special Episode",
+      "fecha": "2024-05-09",
+      "duracion": 47,
+      "tipo": "Especial narrativo"
+    }
+  ],
+  "sinopsis": "Khemthid, hijo de Madame Freya, propietaria del club Deep Night, no está interesado en continuar con el negocio familiar. Sin embargo, su encuentro con Wela, uno de los mejores anfitriones del local y compañero de universidad, despierta su interés por el club y por él. Mientras Khemthid comienza a trabajar allí y trata de superar las diferencias sociales entre ambos, también debe enfrentarse a la oposición de su madre y a los conflictos que rodean al club.",
+  "activo": true
+}

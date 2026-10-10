@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000960",
+  "titulo": "I Saw You in My Dream",
+  "tituloOriginal": "ฝันรักห้วงนิทรา",
+  "alias": [
+    "I Saw You in My Dream",
+    "My Marvellous Dream Is You",
+    "Fan Rak Huang Nitra"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "I Saw You in My Dream",
+    "tituloOriginal": "คุณในฝัน",
+    "autor": "afterday",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2024-07-24",
+  "finalizacion": "2024-10-09",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Sueños",
+    "Amigos a amantes",
+    "Universitario",
+    "Sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu",
+        "Ai"
+      ]
+    }
+  ],
+  "sinopsis": "Yu comienza a experimentar sueños extraños en los que aparece una persona con la que desarrolla sentimientos cada vez más intensos. La frontera entre los sueños y la realidad comienza a difuminarse cuando Yu descubre que la persona que aparece en ellos está mucho más cerca de su vida cotidiana de lo que imaginaba.",
+  "activo": true
+}

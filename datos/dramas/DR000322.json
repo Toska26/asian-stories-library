@@ -1,0 +1,34 @@
+{
+  "codigo": "DR000322",
+  "titulo": "Pisces",
+  "alias": [
+    "Pisces The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-03-06",
+  "finalizacion": "2021-05-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Astrología",
+    "Redes sociales",
+    "Cuarentena",
+    "Signos del zodiaco"
+  ],
+  "sinopsis": "Pisces explora las posibilidades del amor en la era digital a través de la astrología y los signos del zodiaco. Cada episodio se centra en un signo diferente y presenta nuevas situaciones y encuentros relacionados con el amor, la atracción y las relaciones.",
+  "activo": true
+}

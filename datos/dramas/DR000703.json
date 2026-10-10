@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000703",
+  "titulo": "Stay By My Side After the Rain",
+  "tituloOriginal": "雨上がりの僕らについて",
+  "alias": [
+    "Ameagari no Bokura ni Tsuite"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Stay By My Side After the Rain",
+    "tituloOriginal": "雨上がりの僕らについて",
+    "autor": "Rakuta Shoko",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-07-02",
+  "finalizacion": "2025-09-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Amigos de la infancia",
+    "Adultos",
+    "Coming out",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kanade Shinichiro",
+        "Mashiro Kosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Kanade Shinichiro, un hombre que ha decidido no volver a enamorarse mientras oculta su orientación sexual, se reencuentra seis años después con Mashiro Kosuke, su antiguo mejor amigo de instituto. El reencuentro despierta los sentimientos que Kanade había intentado enterrar y ambos comienzan a enfrentarse a su pasado y a lo que realmente sienten.",
+  "activo": true
+}

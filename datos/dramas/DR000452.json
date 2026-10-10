@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000452",
+  "titulo": "You Are Ma Boy",
+  "alias": [
+    "Em Là Chàng Trai Của Anh",
+    "You Are My Boy"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2021-01-05",
+  "finalizacion": "2021-02-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bách Dương",
+        "Nhật Nam"
+      ]
+    }
+  ],
+  "sinopsis": "Bách Dương y Nhật Nam pasan de una relación de enfrentamiento a sentimientos románticos, mientras deben afrontar las complicaciones de enamorarse.",
+  "activo": true
+}

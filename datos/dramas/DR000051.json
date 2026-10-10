@@ -1,0 +1,76 @@
+{
+  "codigo": "DR000051",
+  "titulo": "Write You Again",
+  "tituloOriginal": "เขียนรักครั้งใหม่",
+  "alias": [
+    "Khian Rak Khrang Mai"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000051",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 0,
+  "duracion": 0,
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Nine",
+      "persona": "PR000162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "",
+      "persona": "PR000163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000029",
+      "personajes": [
+        "Nine",
+        ""
+      ]
+    }
+  ],
+  "sinopsis": "Diez años después de sufrir un accidente que le hizo perder sus recuerdos, Nine decide regresar a la casa donde vivió durante su infancia con la esperanza de recuperar su pasado. Allí se reencuentra con una persona importante de su vida que conoce recuerdos que él ya no puede recordar y que está dispuesto a ayudarle a descubrir qué ocurrió.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/65/fb/47/65fb47be56be0984b958ea27ab311ae2.jpg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=4-_CShCsPbI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

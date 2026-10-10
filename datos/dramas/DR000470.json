@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000470",
+  "titulo": "Be Your Star",
+  "alias": [
+    "Mùa Sao Đầu Tiên"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "Finalizado",
+  "estreno": "2024-03-23",
+  "finalizacion": "2024-08-10",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Jefe y subordinado",
+    "Prácticas",
+    "Enemies to Lovers",
+    "Convivencia",
+    "Contrato",
+    "Identidad secreta"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Đình Huy",
+        "Thiên Bảo"
+      ]
+    }
+  ],
+  "sinopsis": "Đình Huy conoce accidentalmente a Thiên Bảo durante una desastrosa cita a ciegas. Lo que parecía un encuentro único cambia cuando Huy descubre que Bảo es el CEO de la empresa donde consigue unas prácticas. Después de descubrir un secreto relacionado con la vida sentimental de Bảo, Huy utiliza la información para enfrentarse a él y ambos terminan vinculados por un acuerdo de trabajo y una convivencia forzada. La convivencia entre sus personalidades opuestas hace que la hostilidad inicial dé paso poco a poco a sentimientos inesperados.",
+  "activo": true
+}

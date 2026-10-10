@@ -1,0 +1,28 @@
+{
+  "codigo": "DR000425",
+  "titulo": "Hey! First Love",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2019-10-19",
+  "finalizacion": "2019-11-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Primer amor",
+    "Juventud",
+    "LGBT"
+  ],
+  "sinopsis": "Una historia juvenil sobre el primer amor y los sentimientos que surgen entre dos jóvenes mientras descubren su identidad y afrontan las dificultades propias de la juventud.",
+  "activo": true
+}

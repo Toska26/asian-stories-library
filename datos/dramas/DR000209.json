@@ -1,0 +1,92 @@
+{
+  "codigo": "DR000209",
+  "titulo": "Love Penalty",
+  "tituloOriginal": "반칙부터 시작할까요?",
+  "alias": [
+    "Love Penalty",
+    "Shall We Start With a Foul?",
+    "Shall We Begin With a Foul?",
+    "Banchikbuteo Sijak Halkkayo"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "",
+  "estado": "En emisión",
+  "estreno": "2026-09-15",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Voleibol",
+    "Campamento",
+    "Triángulo amoroso",
+    "Secreto",
+    "Heridas del pasado",
+    "Celos",
+    "Rivalidad",
+    "Sentimientos ocultos"
+  ],
+  "personas": [
+    {
+      "nombre": "Han U-ju",
+      "persona": "PR000756",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Han-bin",
+      "persona": "PR000757",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cha Se-jin",
+      "persona": "PR000758",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Durante un campamento de entrenamiento del equipo de voleibol, la llegada de Song Han-bin altera las relaciones entre Han U-ju y Cha Se-jin. Secretos, heridas del pasado y sentimientos difíciles de controlar empiezan a salir a la superficie mientras los tres se acercan a una línea que ninguno debería cruzar. La historia se encuentra todavía en desarrollo, por lo que la relación romántica definitiva aún no está establecida.",
+  "entidades": [
+    {
+      "codigo": "EN000150",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000145",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

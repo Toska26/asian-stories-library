@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000219",
+  "titulo": "HIStory2: Right or Wrong",
+  "tituloOriginal": "HIStory2 - 是非",
+  "alias": [
+    "Right or Wrong",
+    "Shi Fei"
+  ],
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 4
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2018-01-30",
+  "finalizacion": "2018-02-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Profesor y estudiante",
+    "Padre soltero",
+    "Diferencia de edad",
+    "Cuidado infantil",
+    "Vida universitaria",
+    "Convivencia",
+    "Familia",
+    "Sentimientos inesperados"
+  ],
+  "personas": [
+    {
+      "nombre": "Shi Yi Jie",
+      "persona": "PR000769",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fei Sheng Zhe",
+      "persona": "PR000770",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shi Yi Jie",
+        "Fei Sheng Zhe"
+      ]
+    }
+  ],
+  "sinopsis": "Shi Yi Jie es un profesor universitario y padre soltero que intenta compaginar su trabajo con el cuidado de su hija pequeña. Cuando necesita ayuda, contrata a Fei Sheng Zhe, uno de sus estudiantes, para que la cuide. La convivencia y el tiempo que pasan juntos hacen que Sheng Zhe desarrolle sentimientos por Yi Jie, mientras el profesor comienza poco a poco a abrirse emocionalmente y a replantearse los límites de su relación.",
+  "entidades": [
+    {
+      "codigo": "EN000159",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000387",
+  "titulo": "Where I Found You",
+  "alias": [
+    "Where I Found You The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-09-26",
+  "finalizacion": "2024-11-11",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Relación a distancia",
+    "Amor",
+    "Separación",
+    "Distancia",
+    "Husos horarios",
+    "Mensajes",
+    "Reencuentro",
+    "Confianza",
+    "Pareja"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sky",
+        "Max"
+      ]
+    }
+  ],
+  "sinopsis": "Sky y Max están profundamente enamorados, pero las circunstancias de la vida les obligan a mantener una relación a distancia. Los kilómetros, los diferentes husos horarios, las oportunidades laborales y las obligaciones personales convierten la comunicación cotidiana en un desafío. Ambos deberán decidir si su relación puede superar la separación física y las dificultades que aparecen cuando el amor debe mantenerse a través de pantallas, mensajes y encuentros perdidos.",
+  "activo": true
+}

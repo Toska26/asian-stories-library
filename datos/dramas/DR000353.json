@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000353",
+  "titulo": "PRESO End",
+  "alias": [
+    "PRESO Finale",
+    "PRESO: End"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000026",
+    "orden": 5
+  },
+  "universo": "UN000010",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Final",
+    "Amor"
+  ],
+  "sinopsis": "Capítulo final de la saga PRESO que continúa la historia de los personajes y cierra la etapa final del universo narrativo iniciado con PRE*SO. La obra está compuesta por dos episodios y funciona como conclusión de la historia principal.",
+  "activo": true
+}

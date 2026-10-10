@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000525",
+  "titulo": "Killer and Healer",
+  "tituloOriginal": "恨君不似江楼月",
+  "alias": [
+    "Hen Jun Bu Si Jiang Lou Yue",
+    "Hate You Not Like Jiang Lou Moon"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 37,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2021-03-03",
+  "finalizacion": "2021-03-24",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Misterio",
+    "Suspense",
+    "Acción",
+    "Histórico"
+  ],
+  "tags": [
+    "Bromance",
+    "Original"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Yuelou",
+        "Chen Yuzhi"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhan Junbai",
+        "Yu Tangchun"
+      ]
+    }
+  ],
+  "sinopsis": "Durante la época republicana, Jiang Yuelou, un duro jefe de policía, conoce al médico Chen Yuzhi mientras investiga un caso relacionado con el opio. A pesar de sus personalidades y métodos opuestos, ambos terminan apoyándose mutuamente mientras se enfrentan a conspiraciones, violencia y secretos del pasado.",
+  "activo": true
+}

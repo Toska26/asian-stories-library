@@ -1,0 +1,34 @@
+{
+  "codigo": "DR000432",
+  "titulo": "Nhà Trọ Có Quá Trời Phòng Phần 3",
+  "alias": [
+    "Nhà Trọ Có Quá Trời Phòng 3"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Webdrama",
+  "serie": "SR000428",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2023-01-15",
+  "finalizacion": "2023-01-29",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Pensión",
+    "Vecinos",
+    "Familia",
+    "Amistad",
+    "Vida cotidiana",
+    "Humor",
+    "Tết"
+  ],
+  "sinopsis": "Tercera parte de la serie, nuevamente centrada en el barrio de Thơ Hột Lệ y sus residentes. La historia retoma la vida del vecindario y presenta nuevas situaciones cómicas y conflictos durante el período del Tết.",
+  "activo": true
+}

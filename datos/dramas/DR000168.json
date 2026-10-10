@@ -1,0 +1,97 @@
+{
+  "codigo": "DR000168",
+  "titulo": "Business as Usual",
+  "tituloOriginal": "을의 연애",
+  "alias": [
+    "Business as Usual",
+    "Eul-ui Yeonae"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "28 min",
+  "estado": "Finalizado",
+  "estreno": "2025-04-03",
+  "finalizacion": "2025-05-08",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Oficina",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Reencuentro",
+    "Primer amor",
+    "Segunda oportunidad",
+    "Amor secreto",
+    "Compañeros de trabajo",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Seung-ha",
+      "persona": "PR000688",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jong-hyuk",
+      "persona": "PR000689",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Jin-hwan",
+        "Kim Min-jun"
+      ]
+    }
+  ],
+  "sinopsis": "Choi Jin-hwan y Kim Min-jun fueron compañeros de universidad y vivieron una relación que terminó dejando sentimientos y malentendidos sin resolver. Ocho años después, ambos se reencuentran inesperadamente como compañeros de trabajo. Mientras intentan mantener una relación profesional, los recuerdos de su primer amor y aquello que nunca llegaron a aclarar vuelven a salir a la superficie.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/ndVWj0sVXC6YdyC3pujdikgtbGx.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=tVzU6UnUQ6M"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

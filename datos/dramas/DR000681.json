@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000681",
+  "titulo": "Love Is Better the Second Time Around",
+  "tituloOriginal": "恋をするなら二度目が上等",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000680",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Love Is Better the Second Time Around",
+    "tituloOriginal": "恋をするなら二度目が上等",
+    "autor": "Keiko Kinoshita",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "En emisión",
+  "estreno": "2026-09-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Pareja establecida",
+    "Adultos",
+    "Trabajo",
+    "Continuación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Miyata Akihiro",
+        "Iwanaga Takashi"
+      ]
+    }
+  ],
+  "sinopsis": "Miyata e Iwanaga continúan su relación mientras afrontan nuevas dificultades en su vida adulta. La segunda temporada retoma la historia de la pareja después de los acontecimientos de la primera temporada.",
+  "activo": true
+}

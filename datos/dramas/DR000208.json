@@ -1,0 +1,76 @@
+{
+  "codigo": "DR000208",
+  "titulo": "Just Friend",
+  "tituloOriginal": "저스트 프렌드",
+  "alias": [
+    "Just Friend",
+    "Jeoseuteu Peurendeu",
+    "어쩌다",
+    "Eojjeoda"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "8 min",
+  "estado": "Próximo estreno",
+  "estreno": "2026-09-08",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de infancia",
+    "Amistad de larga duración",
+    "Sentimientos reprimidos",
+    "Amor secreto",
+    "Celos",
+    "Confusión",
+    "Amigos a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Han I-jun",
+      "persona": "PR000754",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Eun-woo",
+      "persona": "PR000755",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Han I-jun y Kang Eun-woo llevan quince años siendo inseparables. Su amistad parece perfectamente estable hasta que una noche inesperada obliga a ambos a cuestionar qué significa realmente la relación que han construido. Mientras I-jun intenta mantener separadas su vida sentimental y su amistad, los sentimientos que ambos han mantenido ocultos comienzan a complicar una relación que parecía tener límites muy claros.",
+  "entidades": [
+    {
+      "codigo": "EN000156",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

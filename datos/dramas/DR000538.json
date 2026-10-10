@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000538",
+  "titulo": "Blue Canvas of Youthful Days",
+  "tituloOriginal": "路过我年少时光的蓝色",
+  "alias": [
+    "Lu Guo Wo Nian Shao Shi Guang De Lan Se",
+    "Blue Time",
+    "Passing by Me the Blue of Youth"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 28,
+  "estado": "Finalizado",
+  "estreno": "2024-08-06",
+  "finalizacion": "2024-12-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Drama",
+    "Arte"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Juventud",
+    "Arte",
+    "Miniserie"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qi Lu",
+        "Qin Xiao"
+      ]
+    },
+    {
+      "personajes": [
+        "Tan Yin",
+        "Liu Ming Yang"
+      ]
+    }
+  ],
+  "sinopsis": "Qi Lu, hijo de una familia de artistas, conoce a Qin Xiao, un joven pintor con grandes dificultades familiares. Al descubrir que Qin Xiao es el artista online Lan, al que admiraba desde hacía tiempo, Qi Lu comienza a acercarse a él y sus sentimientos evolucionan más allá de la amistad.",
+  "activo": true
+}

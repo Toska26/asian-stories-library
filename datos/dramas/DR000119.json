@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000119",
+  "titulo": "Kissable Lips",
+  "tituloOriginal": "깨물고 싶은",
+  "alias": [
+    "Kissable Lips",
+    "Kissable Lips: Bite Me",
+    "Kkaemulgo Sipeun"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000003",
+  "serie": "SR000119",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-03",
+  "finalizacion": "2022-02-25",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Vampiros",
+    "Sobrenatural",
+    "Instituto",
+    "Amor",
+    "Vida eterna"
+  ],
+  "personas": [
+    {
+      "nombre": "Choi Min-hyun",
+      "persona": "PR000026",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Jun-ho",
+      "persona": "PR000589",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Min-hyun",
+        "Kim Jun-ho"
+      ]
+    }
+  ],
+  "sinopsis": "Kim Jun-ho es un vampiro que necesita beber la sangre de un humano especial para convertirse en mortal. Cuando conoce a Choi Min-hyun, descubre que su sangre podría permitirle cumplir su deseo y decide acercarse a él con ese propósito. Sin embargo, cuanto más tiempo pasa junto a Min-hyun, más difícil le resulta verlo simplemente como una víctima, mientras un vampiro de su pasado intenta impedir que consiga lo que busca.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/ff/3f/61/ff3f6152cdae9dd0e1e2973980a1edec.jpg",
+      "https://i.pinimg.com/736x/43/8d/94/438d9484e42b0eb0a9606132415fc5ec.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1192290v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000076",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

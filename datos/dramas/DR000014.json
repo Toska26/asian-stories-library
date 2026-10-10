@@ -1,0 +1,143 @@
+{
+  "codigo": "DR000014",
+  "titulo": "AntiReset",
+  "tituloOriginal": "恆久定律",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "universo": "UN000002",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2024-02-02",
+  "finalizacion": "2024-03-29",
+  "generos": [
+    "Romance",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu Yi-Ping",
+      "persona": "PR000094",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ever 9",
+      "persona": "PR000095",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Hung",
+      "persona": "PR000097",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Li",
+      "persona": "PR000096",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Chia-Yi",
+      "persona": "PR000098",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mu Sen",
+      "persona": "PR000099",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000102",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000103",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000108",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000109",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000021",
+      "personajes": [
+        "Chu Yi-Ping",
+        "Ever 9"
+      ]
+    }
+  ],
+  "sinopsis": "Chu Yi-Ping es un profesor universitario frío y reservado que, después de sufrir una lesión, comienza a convivir con Ever 9, un avanzado robot de inteligencia artificial desarrollado por la empresa de su tío. Al principio, Yi-Ping considera a Ever 9 simplemente una máquina encargada de ayudarlo, pero poco a poco empieza a descubrir emociones y sentimientos que nunca había experimentado. Cuando ambos crean una lista de deseos para cumplir juntos, su relación se vuelve cada vez más especial, hasta que un fallo obliga a reiniciar el sistema de Ever 9 y amenaza con borrar todo lo que han construido juntos.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/C1UE6DKeQLouDyv8xNwZgC8llO.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000019",
+      "funcion": [
+        "Productora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

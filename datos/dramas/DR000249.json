@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000249",
+  "titulo": "See Your Love",
+  "tituloOriginal": "看見愛",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": "25-30 min",
+  "estado": "Finalizado",
+  "estreno": "2024-10-23",
+  "finalizacion": "2025-01-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Sordera",
+    "Discapacidad",
+    "Cuidador",
+    "Asistente personal",
+    "Familia",
+    "Romance",
+    "Superación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shao Peng",
+        "Zi Xiang"
+      ]
+    }
+  ],
+  "sinopsis": "Yang Zi Xiang conoce a Shao Peng, un joven sordo que busca trabajo y se enfrenta a la discriminación. Tras varios encuentros, Zi Xiang comienza a acercarse a él y la relación evoluciona mientras ambos afrontan sus diferencias y las presiones familiares.",
+  "activo": true
+}

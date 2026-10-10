@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000743",
+  "titulo": "Love Sick 2024",
+  "tituloOriginal": "ชุลมุนกางเกงน้ำเงิน",
+  "alias": [
+    "Love Sick",
+    "Love Sick: The Series 2024",
+    "Love Sick 2024"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000740",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2024-09-14",
+  "finalizacion": "2024-12-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Noh",
+        "Phun"
+      ]
+    }
+  ],
+  "sinopsis": "Nueva adaptación de la historia de Love Sick centrada en Noh y Phun, dos estudiantes cuya amistad evoluciona hacia una relación amorosa mientras afrontan las expectativas familiares, la vida escolar y sus propios sentimientos.",
+  "activo": true
+}

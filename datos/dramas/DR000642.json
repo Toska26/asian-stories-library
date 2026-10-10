@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000642",
+  "titulo": "My Beautiful Man: Eternal",
+  "tituloOriginal": "劇場版 美しい彼〜eternal〜",
+  "alias": [
+    "My Beautiful Man: Eternal",
+    "Gekijoban Utsukushii Kare: Eternal",
+    "My Beautiful Man The Movie"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000040",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 103,
+  "estado": "Finalizado",
+  "estreno": "2023-04-07",
+  "finalizacion": "2023-04-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Vida adulta",
+    "Pareja estable",
+    "Convivencia",
+    "Fotografía",
+    "Actuación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hira Kazunari",
+        "Kiyoi Sou"
+      ]
+    }
+  ],
+  "sinopsis": "Hira y Kiyoi continúan su vida juntos mientras afrontan nuevos desafíos personales y profesionales. La película retoma directamente la historia después de la segunda temporada y desarrolla una nueva etapa de su relación.",
+  "activo": true
+}

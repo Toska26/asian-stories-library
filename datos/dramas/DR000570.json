@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000570",
+  "titulo": "Ten Years of Silence",
+  "tituloOriginal": "十年沉音",
+  "alias": [
+    "Shi Nian Chen Yin",
+    "Ten Years of Silence"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 70,
+  "estado": "Finalizado",
+  "estreno": "2025-02-25",
+  "generos": [
+    "Bromance",
+    "Romance",
+    "Drama",
+    "Entretenimiento"
+  ],
+  "tags": [
+    "Bromance",
+    "Reencuentro",
+    "Amor de juventud",
+    "Entretenimiento",
+    "Diferencia de posición",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lan Mochen",
+        "Qiu Zhi"
+      ]
+    }
+  ],
+  "sinopsis": "Lan Mochen y Qiu Zhi se conocieron durante su etapa escolar, pero un malentendido separó sus caminos. Diez años después vuelven a encontrarse cuando Qiu Zhi se incorpora a la empresa de Lan Mochen. La antigua relación entre ambos vuelve a adquirir importancia mientras afrontan problemas profesionales y personales.",
+  "activo": true
+}

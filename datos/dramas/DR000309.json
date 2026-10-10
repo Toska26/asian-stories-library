@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000309",
+  "titulo": "Paano Kaya Kung Tayo?",
+  "alias": [
+    "What If It's Us?",
+    "Paano Kaya Kung Tayo The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2021-06-18",
+  "finalizacion": "2021-08-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Instituto",
+    "Triángulo amoroso"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sef De Leon",
+        "Andrei Mendiola"
+      ]
+    }
+  ],
+  "sinopsis": "Sef De Leon, Andrei Mendiola y Kian Pangilinan son tres jóvenes de mundos y circunstancias diferentes cuyas vidas terminan entrelazándose. A medida que surgen sentimientos, atracciones y conflictos entre ellos, deben enfrentarse a las diferencias sociales, los problemas personales y la incertidumbre sobre qué significa realmente estar juntos.",
+  "activo": true
+}

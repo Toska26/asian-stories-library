@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000978",
+  "titulo": "MU-TE-LUV: \"Hi\" by My Luck",
+  "tituloOriginal": "หมอดูทักครับ",
+  "alias": [
+    "\"Hi\" by My Luck",
+    "MuTeLuv: \"Hi\" by My Luck",
+    "Hi by My Luck"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-08-25",
+  "finalizacion": "2025-09-15",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Adivinación",
+    "Rivales a amantes",
+    "Universitario",
+    "Estudios",
+    "Destino"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Err",
+        "Mawin"
+      ]
+    }
+  ],
+  "sinopsis": "Err recibe de una adivina la predicción de que el amor llegará en forma de alguien cercano. Convencido de que la persona indicada es Mawin, su rival académico que le ha arrebatado el primer puesto de la clase, decide acercarse a él con la excusa de estudiar y ayudarse mutuamente. Lo que comienza como una estrategia para conquistar a su rival termina haciendo que los sentimientos entre ambos se vuelvan reales.",
+  "activo": true
+}

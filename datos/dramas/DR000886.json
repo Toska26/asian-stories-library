@@ -1,0 +1,71 @@
+{
+  "codigo": "DR000886",
+  "titulo": "Ai Long Nhai",
+  "tituloOriginal": "อัยย์หลงไน๋",
+  "alias": [
+    "Ai Long Nhai The Series",
+    "Ai Long Nai",
+    "Ai Long Nhai: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Ai Long Nhai",
+    "tituloOriginal": "อัยย์หลงไน๋",
+    "autor": "Nottakorn",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "40-45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-09-26",
+  "finalizacion": "2022-12-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Universidad",
+    "Amor a primera vista",
+    "Amigos a amantes",
+    "Convivencia",
+    "Motocicleta",
+    "Familia",
+    "Celos",
+    "Primer amor",
+    "Romance universitario",
+    "Comedia romántica",
+    "Pareja estable"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ai",
+        "Nhai"
+      ]
+    }
+  ],
+  "sinopsis": "Ai regresa a Tailandia después de ser expulsado de su universidad en Canadá y se matricula en la universidad donde trabaja su padre. El primer día conoce a Nhai, un estudiante alegre y algo despistado que llama inmediatamente su atención. Lo que comienza como una amistad entre compañeros se transforma rápidamente cuando Ai se enamora de él y decide conquistarlo. Nhai, que inicialmente no sabe cómo responder a los sentimientos de Ai, termina aceptando probar una relación con él. Entre convivencia, celos, problemas familiares y los intentos de la madre de Ai por separarlos, ambos aprenden a construir una relación basada en la confianza y el cariño.",
+  "especiales": [
+    {
+      "titulo": "Ai Nhai",
+      "tituloOriginal": "Ai Nhai",
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 1,
+      "estreno": "2023-03-25"
+    }
+  ],
+  "activo": true
+}

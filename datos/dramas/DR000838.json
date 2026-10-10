@@ -1,0 +1,69 @@
+{
+  "codigo": "DR000838",
+  "titulo": "Loveless Society",
+  "tituloOriginal": "เพราะรัก.....ออกแบบไม่ได้",
+  "alias": [
+    "Loveless Society The Series",
+    "Loveless The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Loveless Society",
+    "autor": "Miranda",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "36-44 min",
+  "estado": "Finalizado",
+  "estreno": "2021-11-26",
+  "finalizacion": "2021-12-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Arte",
+    "Amistad"
+  ],
+  "tags": [
+    "Arte",
+    "Diseño",
+    "Fotografía",
+    "Publicidad",
+    "Trabajo",
+    "Competición",
+    "Agencia creativa",
+    "Amistad",
+    "Amor no correspondido",
+    "Enemies to Lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nut",
+        "Guy"
+      ]
+    }
+  ],
+  "sinopsis": "Nut es un artista y creativo que participa junto a sus amigos en una competición publicitaria. Para el proyecto debe trabajar con Guy, un fotógrafo conocido por su personalidad provocadora y por su éxito dentro de la industria. Mientras ambos afrontan la competición y sus diferencias profesionales, Guy comienza a desarrollar sentimientos por Nut, complicando tanto el trabajo como la amistad del grupo.",
+  "especiales": [
+    {
+      "titulo": "Loveless Society Episode 0",
+      "alias": [
+        "Loveless Society Special Episode"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-11-12"
+    }
+  ],
+  "activo": true
+}

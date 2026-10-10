@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000580",
+  "titulo": "Time Raiders",
+  "tituloOriginal": "吴邪私家笔记",
+  "alias": [
+    "Wu Xie Si Jia Bi Ji",
+    "Wu Xie’s Private Notes"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000022",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Grave Robbers’ Chronicles",
+    "tituloOriginal": "盗墓笔记",
+    "autor": "Nan Pai San Shu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "estado": "Finalizado",
+  "estreno": "2025-09-20",
+  "finalizacion": "2025-09-29",
+  "generos": [
+    "Bromance",
+    "Aventura",
+    "Acción",
+    "Misterio",
+    "Fantasía"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela",
+    "Daomu Biji",
+    "Exploración",
+    "Misterio",
+    "Tumbas antiguas",
+    "Supervivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Xie",
+        "Zhang Qiling"
+      ]
+    }
+  ],
+  "sinopsis": "Wu Xie encuentra un misterioso manuscrito de seda que contiene un mapa oculto. Junto a su tío Wu Sanxing, Pan Zi, Zhang Qiling y Da Kui emprende una expedición para descubrir el origen del manuscrito. Durante la aventura conoce también a Wang Pangzi y el grupo se enfrenta a criaturas y peligros ocultos bajo tierra.",
+  "activo": true
+}

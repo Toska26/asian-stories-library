@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000805",
+  "titulo": "Calculating Love",
+  "tituloOriginal": "Sineข้ามฉาก Tanข้ามชิด",
+  "alias": [
+    "Calculate Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "estado": "Finalizado",
+  "estreno": "2020-07-18",
+  "finalizacion": "2020-12-19",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Amor no correspondido",
+    "Mejores amigos",
+    "Confesión",
+    "Amistad",
+    "Música"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sine",
+        "Tan"
+      ]
+    }
+  ],
+  "sinopsis": "Sine y Tan son mejores amigos que han estado juntos desde siempre. Sin embargo, Sine empieza a preguntarse si sus sentimientos por Tan son algo más que amistad. Mientras intenta calcular la mejor manera de confesar lo que siente, ambos deben enfrentarse al riesgo de cambiar una amistad que ha sido fundamental para sus vidas.",
+  "activo": true
+}

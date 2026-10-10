@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000742",
+  "titulo": "Reminders",
+  "tituloOriginal": "REMINDERS เพราะคิดถึง",
+  "alias": [
+    "Reminders: Because I Miss You",
+    "ReminderS"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000042",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2019-04-17",
+  "finalizacion": "2019-04-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Amistad",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Noh",
+        "Phun"
+      ]
+    },
+    {
+      "personajes": [
+        "Son",
+        "Pin"
+      ]
+    },
+    {
+      "personajes": [
+        "Wish",
+        "Two"
+      ]
+    }
+  ],
+  "sinopsis": "Tres parejas universitarias afrontan diferentes momentos de sus relaciones. Noh y Phun, ya en la universidad, continúan juntos mientras intentan compaginar sus estudios y su relación. Son y Pin deben afrontar un conflicto de confianza, mientras Wish y Two viven su propia relación.",
+  "activo": true
+}

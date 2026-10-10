@@ -1,0 +1,81 @@
+{
+  "codigo": "DR000187",
+  "titulo": "Between Doors",
+  "tituloOriginal": "몰아보기 통합본",
+  "alias": [
+    "Between Doors"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "6 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-13",
+  "finalizacion": "2026-02-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Vecinos",
+    "Error de puerta",
+    "Beso accidental",
+    "Alcohol",
+    "Primer encuentro",
+    "Convivencia",
+    "Atracción inesperada"
+  ],
+  "personas": [
+    {
+      "nombre": "Yun Jae",
+      "persona": "PR000729",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Do Hyeon",
+      "persona": "PR000730",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yun Jae",
+        "Do Hyeon"
+      ]
+    }
+  ],
+  "sinopsis": "Después de una noche de alcohol, Yun Jae se equivoca de puerta y entra accidentalmente en el apartamento de Do Hyeon, un completo desconocido. La situación ya resulta embarazosa, pero un beso accidental transforma aquel encuentro en algo imposible de olvidar. Cuando ambos vuelven a encontrarse como vecinos, la incomodidad inicial comienza a dar paso a una atracción inesperada.",
+  "entidades": [
+    {
+      "codigo": "EN000146",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

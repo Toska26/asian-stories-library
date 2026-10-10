@@ -1,0 +1,41 @@
+{
+  "codigo": "DR001047",
+  "titulo": "PayBack The Series",
+  "tituloOriginal": "페이백",
+  "alias": [
+    "Payback"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manhwa",
+    "relacion": "Adaptación",
+    "titulo": "PAYBACK",
+    "tituloOriginal": "페이백",
+    "autor": "samk",
+    "ilustrador": "Fujoking",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-23",
+  "finalizacion": "2026-08-01",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode 11"
+    }
+  ],
+  "sinopsis": "Lee Yoon-han ha pasado años intentando escapar de un pasado marcado por la violencia y la delincuencia. Cuando las circunstancias vuelven a ponerlo frente a personas relacionadas con aquella etapa de su vida, decide enfrentarse a quienes le hicieron daño. En el camino encuentra a alguien que cambia sus planes y que le obliga a replantearse qué significa realmente la venganza y el amor.",
+  "activo": true
+}

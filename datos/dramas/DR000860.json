@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000860",
+  "titulo": "KinnPorsche",
+  "tituloOriginal": "คินน์พอร์ช เดอะซีรีส์",
+  "alias": [
+    "KinnPorsche The Series",
+    "KinnPorsche The Series: La Forte",
+    "Rak Khot Rai Sut Thai Khot Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "KinnPorsche Story",
+    "tituloOriginal": "รักโคตรร้าย สุดท้ายโคตรรัก",
+    "autor": "Daemi",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2022-04-02",
+  "finalizacion": "2022-07-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Acción",
+    "Drama",
+    "Crimen"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Mafia",
+    "Guardaespaldas",
+    "Acción",
+    "Crimen organizado",
+    "Enemigos a amantes",
+    "Familia",
+    "Romance prohibido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kinn",
+        "Porsche"
+      ]
+    },
+    {
+      "personajes": [
+        "Vegas",
+        "Pete"
+      ]
+    },
+    {
+      "personajes": [
+        "Kim",
+        "Chay"
+      ]
+    },
+    {
+      "personajes": [
+        "Time",
+        "Tay"
+      ]
+    }
+  ],
+  "sinopsis": "Porsche es un joven estudiante y hábil luchador que intenta mantener a su hermano menor mientras trabaja para sobrevivir. Cuando ayuda a Kinn, heredero de una poderosa familia mafiosa, este le ofrece convertirse en su guardaespaldas. Porsche se ve así arrastrado al peligroso mundo de la mafia y obligado a convivir cada vez más cerca de Kinn. Lo que comienza como una relación profesional marcada por los conflictos termina convirtiéndose en un vínculo amoroso que amenaza con complicar todavía más las luchas de poder entre las dos familias.",
+  "especiales": [
+    {
+      "titulo": "KinnPorsche — Special Episode",
+      "tituloOriginal": "Special Episode",
+      "alias": [
+        "iQIYI Special Episode"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-04-16"
+    },
+    {
+      "titulo": "KinnPorsche — Side Story",
+      "tituloOriginal": "Side Story",
+      "alias": [
+        "KinnPorsche Side Story"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "duracion": 9,
+      "estreno": "2022-05-19"
+    }
+  ],
+  "activo": true
+}

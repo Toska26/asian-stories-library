@@ -1,0 +1,70 @@
+{
+  "codigo": "DR000883",
+  "titulo": "Fahlanruk",
+  "tituloOriginal": "ฟ้าลั่นรัก",
+  "alias": [
+    "Fahlanruk The Series",
+    "FahLanRak",
+    "Friends with Benefits"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Fahlanruk",
+    "tituloOriginal": "ฟ้าลั่นรัก",
+    "autor": "BamBam",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "38-43 min",
+  "estado": "Finalizado",
+  "estreno": "2022-09-11",
+  "finalizacion": "2022-11-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Universidad"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Universidad",
+    "Friends with benefits",
+    "Amigos a amantes",
+    "Primera relación",
+    "Miedo al compromiso",
+    "Celos",
+    "Relaciones complicadas",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fahlan",
+        "Sherbet"
+      ]
+    },
+    {
+      "personajes": [
+        "Prince",
+        "Gear"
+      ]
+    },
+    {
+      "personajes": [
+        "Ping",
+        "Tap"
+      ]
+    }
+  ],
+  "sinopsis": "Fahlan es un estudiante de economía destacado tanto por sus estudios como por el deporte, mientras que Sherbet estudia arquitectura y destaca por su talento musical. Después de conocerse y sentirse atraídos, ambos comienzan una relación basada inicialmente en encuentros sexuales sin compromiso. Fahlan pronto descubre que quiere algo más, pero Sherbet intenta mantener las distancias porque teme enamorarse y terminar herido. Mientras los dos luchan contra sus propios sentimientos, sus amigos Prince y Gear también comienzan a acercarse, y Ping y Tap se enfrentan a la dificultad de transformar una amistad de años en una relación sentimental.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000513",
+  "titulo": "The Fairy Fox",
+  "tituloOriginal": "我的室友是狐仙",
+  "alias": [
+    "My Roommate is a Fox",
+    "My Roommate is a Fairy Fox",
+    "My Roommate is an Immortal Fox"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000031",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 22,
+  "estado": "Finalizado",
+  "estreno": "2017-02-09",
+  "finalizacion": "2017-04-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Fantasía",
+    "Reencarnación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Bai",
+        "Xiao Mo"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Bai, un hada del clan zorro, viaja al mundo humano en busca de la persona que posee el espíritu de la guerra, necesaria para proteger a su clan frente a una amenaza. Al encontrar a Xiao Mo, descubre que ambos están unidos por una relación que se extiende a través de varias vidas.",
+  "activo": true
+}

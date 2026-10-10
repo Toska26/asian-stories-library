@@ -1,0 +1,111 @@
+{
+  "codigo": "DR000183",
+  "titulo": "Tide of Love 2",
+  "tituloOriginal": "타이드 오브 러브 시즌2",
+  "alias": [
+    "Tide of Love 2",
+    "Tide of Love Season 2",
+    "Tide of Love S2",
+    "Taideu Obeu Reobeu 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000182",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-04",
+  "finalizacion": "2026-03-25",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama",
+    "Thriller psicológico"
+  ],
+  "tags": [
+    "BL",
+    "Pareja estable",
+    "Primera Navidad",
+    "Primera Nochevieja",
+    "Secretos del pasado",
+    "Triángulo amoroso",
+    "Celos",
+    "Manipulación",
+    "Amigo tóxico",
+    "Relación consolidada",
+    "Angustia",
+    "Confianza"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Hae Jun",
+      "persona": "PR000717",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Jae Hun",
+      "persona": "PR000718",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Hae Jun",
+        "Han Jae Hun"
+      ]
+    }
+  ],
+  "sinopsis": "Ahora que Han Jae Hun y Kim Hae Jun han dejado atrás las reglas de su relación contractual, ambos afrontan su primera Navidad y su primera Nochevieja como pareja. Jae Hun lleva a Hae Jun a una villa privada para celebrar juntos estas fechas, pero la llegada de Kang Su Hyeok, un antiguo amigo, convierte la escapada romántica en una situación cada vez más inquietante. Su Hyeok comienza a revelar secretos del pasado de Jae Hun y a sembrar dudas entre los dos, poniendo a prueba la confianza que han construido y obligándolos a decidir hasta dónde están dispuestos a luchar por su relación.",
+  "multimedia": {
+    "portada": [
+      "https://boyslovefrance.wordpress.com/wp-content/uploads/2026/02/tideoflove2_poster.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=qPicFT4Jmfs",
+      "https://www.youtube.com/watch?v=EbpxijQq9G0",
+      "https://www.youtube.com/watch?v=an3gZ5ctfi0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000140",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

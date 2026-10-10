@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000396",
+  "titulo": "The Boyfriend Express",
+  "alias": [
+    "The Boyfriend Express The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 41,
+  "estado": "Finalizado",
+  "estreno": "2026-05-02",
+  "finalizacion": "2026-07-04",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Fake Dating",
+    "Boyfriend Experience",
+    "Enemies to Lovers",
+    "Contrato",
+    "Escort",
+    "Trabajo",
+    "Amor",
+    "Relación falsa",
+    "Segundas oportunidades",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Harry",
+        "Brix"
+      ]
+    },
+    {
+      "personajes": [
+        "Leo",
+        "Kenner"
+      ]
+    }
+  ],
+  "sinopsis": "Harry Montenegro es un ejecutivo corporativo disciplinado cuya vida sentimental se derrumba cuando su exnovia lo deja por considerarlo demasiado rígido. Decidido a aprender a relacionarse de otra manera, contrata a Brix, un profesional especializado en el servicio de Boyfriend Experience. Lo que comienza como un contrato para enseñarle a Harry cómo ser un mejor novio termina convirtiéndose en una relación real cuando ambos descubren que sus sentimientos han dejado de formar parte del juego. Paralelamente, Leo y Kenner desarrollan su propia relación mientras permanecen cerca de los protagonistas.",
+  "activo": true
+}

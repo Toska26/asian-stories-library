@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000577",
+  "titulo": "Realm's Night Rain Dreamlike",
+  "tituloOriginal": "江湖夜雨终似梦",
+  "alias": [
+    "Jiang Hu Ye Yu Zhong Si Meng",
+    "Jianghu One Knife",
+    "江湖一刀"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "Finalizado",
+  "estreno": "2025-11-27",
+  "finalizacion": "2025-12-08",
+  "generos": [
+    "Bromance",
+    "Wuxia",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "Bromance",
+    "Artes marciales",
+    "Investigación",
+    "Reencuentro",
+    "Venganza",
+    "Justicia",
+    "Ambientación histórica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Hu",
+        "Ye Yu"
+      ]
+    }
+  ],
+  "sinopsis": "Jiang Hu, antiguo líder de los Unruly Men, vuelve a verse arrastrado al mundo de las artes marciales cuando aparece una organización criminal vinculada a acontecimientos de su pasado. Junto a su antiguo conocido Ye Yu, investiga las conspiraciones y peligros que amenazan a quienes les rodean.",
+  "activo": true
+}

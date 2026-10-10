@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000498",
+  "titulo": "BOYS",
+  "tituloOriginal": "BOYS",
+  "pais": [
+    "HK"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Obra teatral",
+    "relacion": "Spin-off",
+    "titulo": "BOYS",
+    "tituloOriginal": "BOYS",
+    "pais": "HK"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 12,
+  "estado": "Finalizado",
+  "estreno": "2022-09-23",
+  "finalizacion": "2022-11-12",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Teatro",
+    "Actores",
+    "Amistad",
+    "Amor no correspondido",
+    "Romance"
+  ],
+  "sinopsis": "Boris es un joven actor que desarrolla sentimientos por su compañero de reparto Ho Yin, aunque sus sentimientos no son correspondidos de la misma manera. Mientras intenta afrontar la situación, cuenta con el apoyo de Karl, su antiguo compañero de piso. La serie web está relacionada con la obra teatral BOYS, pero presenta una historia propia y funciona como un spin-off del proyecto teatral.",
+  "activo": true
+}

@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001051",
+  "titulo": "When Light Fades",
+  "tituloOriginal": "แสงดาว แสงศรัทธา",
+  "alias": [
+    "When Light Fades The Series",
+    "Saeng Dao Saeng Sattha",
+    "Saengdao Saengsattha"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-06-25",
+  "finalizacion": "2026-08-13",
+  "generos": [
+    "Histórico",
+    "Drama romántico",
+    "Drama rural",
+    "Romance prohibido",
+    "Tragedia"
+  ],
+  "tags": [
+    "Entorno rural",
+    "Romance político",
+    "Deber frente al amor",
+    "Romance peligroso",
+    "Inspiración histórica",
+    "Amor frente a la supervivencia",
+    "Peligro",
+    "Activismo político",
+    "Historia de Tailandia",
+    "Comunismo",
+    "Guerrilla",
+    "Conflicto político",
+    "Amor en tiempos de conflicto",
+    "Compañeros a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yue",
+        "Rawin"
+      ]
+    }
+  ],
+  "sinopsis": "En el contexto de la agitación política de Tailandia en torno a 1976, Rawin, un joven activista estudiantil, se ve obligado a huir al bosque y unirse al Partido Comunista de Tailandia. Allí conoce al camarada Yue, cuya disciplina y lealtad esconden una ternura que transforma la vida de ambos. Su relación debe sobrevivir a la lucha ideológica, el peligro y el conflicto entre el deber y los sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/asObI5BixnoumvMG93EOuUsdwZh.jpg"
+    ]
+  },
+  "activo": true
+}

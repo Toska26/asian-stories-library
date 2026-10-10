@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000761",
+  "titulo": "2 Moons: The Ambassador",
+  "tituloOriginal": "เดือนเกี้ยวเดือน",
+  "alias": [
+    "2 Moons 3",
+    "2Moons 3: The Ambassador",
+    "2 Moons: The Ambassador The Series",
+    "2Moons: The Ambassador"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000759",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 12,
+  "duracion": 42,
+  "estado": "Finalizado",
+  "estreno": "2022-10-10",
+  "finalizacion": "2022-12-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phana",
+        "Wayo"
+      ]
+    },
+    {
+      "personajes": [
+        "Ming",
+        "Kit"
+      ]
+    },
+    {
+      "personajes": [
+        "Forth",
+        "Beam"
+      ]
+    },
+    {
+      "personajes": [
+        "Lomnaw",
+        "Tarntatch"
+      ]
+    }
+  ],
+  "sinopsis": "La historia continúa después de los acontecimientos de 2 Moons 2. Phana y Wayo deben afrontar las consecuencias de la publicación de fotografías y vídeos de Wayo, mientras Ming y Kit y Forth y Beam continúan desarrollando sus relaciones. Paralelamente, Lomnaw, primo de Phana y estudiante de Agronomía, conoce a Tarntatch, un estudiante que podría haber representado a su facultad en el concurso de la Luna. Su rivalidad inicial evoluciona gradualmente hacia una relación romántica.",
+  "activo": true
+}

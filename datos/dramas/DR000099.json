@@ -1,0 +1,132 @@
+{
+  "codigo": "DR000099",
+  "titulo": "Cooking Crush",
+  "tituloOriginal": "อาหารเป็นยังไงครับหมอ",
+  "alias": [
+    "Cooking Crush: What’s Zabb?",
+    "Ahan Pen Yang Ngai Khrap Mor"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000099",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45-53 min",
+  "estado": "Finalizado",
+  "estreno": "2023-11-26",
+  "finalizacion": "2024-02-18",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Medicina",
+    "Universidad",
+    "Restaurante",
+    "Amigos a amantes",
+    "Chef",
+    "Estudiante de medicina"
+  ],
+  "personas": [
+    {
+      "nombre": "Ten",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Prem",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fire",
+      "persona": "PR000294",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dynamite",
+      "persona": "PR000565",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Ten",
+        "Prem"
+      ]
+    },
+    {
+      "ship": "SH000117",
+      "personajes": [
+        "Fire",
+        "Dynamite"
+      ]
+    }
+  ],
+  "sinopsis": "Prem es un estudiante de tercer año que sueña con convertirse en chef y dirige un pequeño restaurante junto a sus amigos Fire y Dynamite. Cuando pierde la confianza en su cocina, conoce a Ten, un estudiante de medicina que está constantemente estresado y tiene problemas para comer. Ten le pide a Prem que le enseñe a cocinar y Prem aprovecha la oportunidad para ganar dinero. Lo que comienza como unas simples clases de cocina acaba acercándolos cada vez más, mientras Fire y Dynamite también desarrollan su propia relación.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/94/9f/aa/949faae66af2384bcec4b00e7b904936.jpg",
+      "https://i.pinimg.com/736x/fe/8b/3a/fe8b3ab0550f88aed960a9e5bf862680.jpg",
+      "https://i.pinimg.com/1200x/af/f3/27/aff327d0433b7ee64a71e300c0da7c3c.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=8YMAN"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=EDabs7Cc_yA"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=VGYKFKL_doU",
+      "https://www.youtube.com/watch?v=EG3UDbCpYwY"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=KFojlKegciE",
+      "https://www.youtube.com/watch?v=i3Ufp7ZspGg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

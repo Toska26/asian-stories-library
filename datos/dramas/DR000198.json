@@ -1,0 +1,106 @@
+{
+  "codigo": "DR000198",
+  "titulo": "The Prosecutor's Proposal",
+  "tituloOriginal": "검사실의 제안",
+  "alias": [
+    "The Prosecutor's Proposal",
+    "The Prosecutor’s Office Proposal",
+    "Geomsasil-ui Jean",
+    "Geomsasilui Jean"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-06-25",
+  "finalizacion": "2026-07-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Fiscalía",
+    "Fiscal",
+    "Investigador",
+    "Crimen",
+    "Corrupción",
+    "Asesinato",
+    "Casino",
+    "Reencuentro",
+    "Trauma",
+    "Enemies to Lovers",
+    "Investigación"
+  ],
+  "personas": [
+    {
+      "nombre": "Joo Tae-seon",
+      "persona": "PR000743",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Chae-ha",
+      "persona": "PR000744",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Joo Tae-seon",
+        "Lee Chae-ha"
+      ]
+    }
+  ],
+  "sinopsis": "Quince años después de un asesinato que destruyó sus respectivas familias, Joo Tae-seon se ha convertido en fiscal y Lee Chae-ha comienza una nueva etapa como investigador de la fiscalía. El reencuentro despierta recuerdos y resentimientos relacionados con aquel caso, pero ambos terminan trabajando juntos para descubrir una red de corrupción que conecta al mundo empresarial con la propia fiscalía. Mientras la investigación avanza, la desconfianza inicial da paso a sentimientos que ninguno puede ignorar.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=xapCq6U68Uw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000153",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

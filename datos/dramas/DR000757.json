@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000757",
+  "titulo": "I Am Your King",
+  "tituloOriginal": "ผมขอสั่งให้คุณ",
+  "alias": [
+    "I Am Your King: I Order You",
+    "I Am Your King The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "serie": "SR000757",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2017-08-27",
+  "finalizacion": "2017-09-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pond",
+        "New"
+      ]
+    },
+    {
+      "personajes": [
+        "August",
+        "Bright"
+      ]
+    }
+  ],
+  "sinopsis": "Pond está a punto de marcharse a China para continuar sus estudios y reúne a sus amigos New, Matt, Bright, August y Junho para una última celebración. Durante la fiesta juegan al King Game, cuyas órdenes terminan revelando sentimientos ocultos y alterando las relaciones dentro del grupo. Pond descubre que New siente algo por él, mientras que Bright y August terminan desarrollando una relación inesperada.",
+  "activo": true
+}

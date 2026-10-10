@@ -1,0 +1,83 @@
+{
+  "codigo": "DR000126",
+  "titulo": "Ocean Likes Me",
+  "tituloOriginal": "나와 같은 바다",
+  "alias": [
+    "Ocean Likes Me",
+    "Nawa Gateun Bada"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000126",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-04-26",
+  "finalizacion": "2022-05-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Mar",
+    "Restaurante",
+    "Udon",
+    "Música",
+    "Convivencia",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Ba-da",
+      "persona": "PR000567",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tommy",
+      "persona": "PR000120",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Ba-da",
+        "Tommy"
+      ]
+    }
+  ],
+  "sinopsis": "Han Ba-da intenta sacar adelante un pequeño restaurante de udon junto al mar, aunque el negocio atraviesa dificultades. Un día conoce a Tommy, un músico que ha perdido el rumbo y llega al lugar buscando una nueva oportunidad. Mientras ambos intentan encontrar su propio camino, la convivencia y el apoyo mutuo hacen que entre ellos surja una conexión que va más allá de la amistad.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/90/b7/17/90b717030d1b7f3a7d3d76909af2b59a.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=hApZQZY80OI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

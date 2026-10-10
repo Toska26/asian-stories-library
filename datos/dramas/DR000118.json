@@ -1,0 +1,80 @@
+{
+  "codigo": "DR000118",
+  "titulo": "Light on Me 2",
+  "tituloOriginal": "새빛남고 학생회 2",
+  "alias": [
+    "Light on Me 2",
+    "Light on Me Season 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000111",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": "30 min",
+  "estado": "Próximo estreno",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Consejo estudiantil",
+    "Misterio",
+    "Carta de amor",
+    "Nuevos estudiantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Woo Tae Kyung",
+      "persona": "PR000579",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Noh Shin Woo",
+      "persona": "PR000580",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Woo Tae Kyung",
+        "Noh Shin Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Un nuevo estudiante llega al consejo estudiantil de Saebit High School y se ve envuelto en un misterio relacionado con una carta de amor. La historia vuelve al entorno del instituto para presentar nuevos conflictos, relaciones y secretos.",
+  "multimedia": {
+    "portada": [
+      "https://welcon.kocca.kr/cmm/getImage.do?fileSn=1&thumb=&atchFileId=FILE_67b6ecc5-b5b9-4705-ae68-341c8d49966c"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000071",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

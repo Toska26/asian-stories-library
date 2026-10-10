@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000690",
+  "titulo": "I Hear the Sunspot",
+  "tituloOriginal": "ひだまりが聴こえる",
+  "alias": [
+    "The Silhouette of Your Voice"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2017,
+  "tipo": "Película",
+  "universo": "UN000024",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Hear the Sunspot",
+    "tituloOriginal": "ひだまりが聴こえる",
+    "autor": "Yuki Fumino",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 72,
+  "estado": "Finalizado",
+  "estreno": "2017-06-24",
+  "finalizacion": "2017-06-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Discapacidad auditiva",
+    "Amistad",
+    "Adaptación cinematográfica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sugihara Kohei",
+        "Sagawa Taichi"
+      ]
+    }
+  ],
+  "sinopsis": "Taichi Sagawa conoce a Kohei Sugihara, un estudiante universitario con pérdida auditiva que tiene dificultades para seguir las clases. Taichi comienza a tomar apuntes para él a cambio de comida y, a medida que ambos se conocen, su amistad se transforma gradualmente en amor.",
+  "activo": true
+}

@@ -1,0 +1,114 @@
+{
+  "codigo": "DR000100",
+  "titulo": "The Trainee",
+  "tituloOriginal": "ฝึกงานเทอมนี้ รักพี่ได้มั้ย",
+  "alias": [
+    "Fuek Ngan Term Ni Rak Phi Dai Mai",
+    "This Semester’s Internship, Can I Love You?"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000100",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2024-06-30",
+  "finalizacion": "2024-09-15",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Prácticas profesionales",
+    "Cine",
+    "Productora audiovisual",
+    "Universidad",
+    "Oficina",
+    "Diferencia de edad",
+    "Mentor y aprendiz",
+    "Amigos a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Jane",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ryan",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Jane",
+        "Ryan"
+      ]
+    }
+  ],
+  "sinopsis": "Ryan es un estudiante universitario apasionado por el cine que consigue unas prácticas como asistente de dirección en una productora. Allí conoce a Jane, un asistente de dirección experimentado que se convierte en su supervisor y mentor. Lo que al principio parece una relación complicada entre un becario entusiasta y un mentor exigente empieza a cambiar cuando Ryan descubre el lado más amable de Jane. Mientras Ryan intenta aprender todo lo necesario para desenvolverse en el mundo laboral, sus sentimientos por Jane también comienzan a crecer.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/97/94/73/979473b3256846206709881e06e96d1d.jpg",
+      "https://i.pinimg.com/736x/8c/5c/bd/8c5cbd406b748c2014a963259543668d.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=nSVsbgeZ_tc"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=a4QnzSdBgRg"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=zaXe5"
+    ],
+    "videos": [
+      "https://www.gmm-tv.com/contents/z7bjj/"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000055",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

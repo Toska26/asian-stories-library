@@ -1,0 +1,120 @@
+{
+  "codigo": "DR000097",
+  "titulo": "Theory of Love",
+  "tituloOriginal": "ทฤษฎีจีบเธอ",
+  "alias": [
+    "Theory of Love: ทฤษฎีจีบเธอ"
+  ],
+  "tipo": "Drama",
+  "anio": 2019,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000097",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "48-62 min",
+  "estado": "Finalizado",
+  "estreno": "2019-06-01",
+  "finalizacion": "2019-08-17",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Cine",
+    "Amigos a amantes",
+    "Amor no correspondido",
+    "Amistad",
+    "Triángulo amoroso",
+    "Películas"
+  ],
+  "personas": [
+    {
+      "nombre": "Third",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khai",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Khai",
+        "Third"
+      ]
+    }
+  ],
+  "sinopsis": "Third es un estudiante de tercer año de cine que lleva tres años enamorado en secreto de su mejor amigo Khai. Khai es un chico popular, mujeriego y convencido de que nunca saldría con una amiga o amigo. Cansado de sufrir por un amor que parece imposible, Third decide intentar dejar atrás sus sentimientos. Pero cuando Third empieza a alejarse, Khai comienza a darse cuenta de que lo que siente por su mejor amigo es algo más que amistad.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/e7/de/20/e7de202da269cc4e73d8c4d9cbce3050.jpg",
+      "https://i.pinimg.com/1200x/67/3f/71/673f71735ae7dfc1a5d3e989ba09ffa5.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=UQT1x-4ciI4"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=sJwCwbk3YVw",
+      "https://www.youtube.com/watch?v=5m245fHSW5o"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=KTFPdhWw5Pc",
+      "https://www.youtube.com/watch?v=9zm_x_Fhve4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Stand By Me",
+      "tituloOriginal": "Stand By Me",
+      "alias": [
+        "Theory of Love: Special Episode \"Stand By Me\"",
+        "Theory of Love Special Episode",
+        "Stand By Me Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 1,
+      "estreno": "2020-10-28"
+    }
+  ],
+  "activo": true
+}

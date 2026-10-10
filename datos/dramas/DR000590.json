@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000590",
+  "titulo": "Private Galaxy",
+  "tituloOriginal": "星晨未来",
+  "alias": [
+    "Galaxy in Your Ear",
+    "Xing Chen Wei Lai",
+    "Xing Chen Xuan Lv",
+    "星晨旋律"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2026-04-30",
+  "finalizacion": "2026-05-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Celebridad",
+    "Muse",
+    "Reencuentro",
+    "Primer beso",
+    "Sanación",
+    "Relación secreta",
+    "Industria del entretenimiento"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Weixing",
+        "Liang Chen"
+      ]
+    }
+  ],
+  "sinopsis": "He Weixing, una estrella cuya fama contrasta con su soledad personal, vuelve a encontrarse con Liang Chen, la persona que fue su musa y con quien compartió un beso inesperado años atrás. El reencuentro despierta sentimientos que habían quedado atrás y ambos encuentran en el otro un refugio frente a las presiones de la fama y de la industria del entretenimiento.",
+  "activo": true
+}

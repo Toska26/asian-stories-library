@@ -1,0 +1,142 @@
+{
+  "codigo": "DR000090",
+  "titulo": "Cat for Cash",
+  "tituloOriginal": "เปย์รักด้วยแมวเลี้ยง",
+  "alias": [
+    "Pay Rak Duai Maeo Liang"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000090",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-20",
+  "finalizacion": "2026-03-24",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Gatos",
+    "Cafetería",
+    "Deudas",
+    "Familia",
+    "Poderes sobrenaturales",
+    "Comunicación con animales"
+  ],
+  "personas": [
+    {
+      "nombre": "Tiger",
+      "persona": "PR000388",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lynx",
+      "persona": "PR000017",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pug",
+      "persona": "PR000524",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leo",
+      "persona": "PR000525",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000068",
+      "personajes": [
+        "Tiger",
+        "Lynx"
+      ]
+    },
+    {
+      "ship": "SH000085",
+      "personajes": [
+        "Pug",
+        "Leo"
+      ]
+    }
+  ],
+  "sinopsis": "Tiger, un cobrador de deudas amante de los gatos, recibe inesperadamente un poder especial que le permite comunicarse con ellos. Poco antes de morir, la propietaria de una cafetería de gatos le pide que ayude a mantener el negocio a salvo de las deudas y de su propio hijo, Lynx, un intérprete que detesta a los gatos y quiere vender la cafetería. Mientras intentan mantener el negocio en funcionamiento, los conflictos familiares y la relación entre Tiger y Lynx harán que la cafetería se convierta en el escenario de una historia de amor y situaciones inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/97/b7/ed/97b7eda73fc55bc11dcf52296d83aa64.jpg",
+      "https://i.pinimg.com/1200x/8b/08/e6/8b08e6f089e71d2a822d867d4285a4fd.jpg",
+      "https://i.pinimg.com/736x/de/3e/81/de3e8128ec4471f443e06e5c6684987e.jpg",
+      "https://i.pinimg.com/1200x/26/8c/1f/268c1fe020944ea38a02fc6fbc318ebb.jpg",
+      "https://i.pinimg.com/1200x/84/40/76/8440766130f98d24903b738224819e2f.jpg",
+      "https://truevisions.co.th/static/9a89afbd-cefa-4805-a939-f31466d6f980.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=H6l2SWc3SLI"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=1M-6KmMCE20"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=egMP38-uh78",
+      "https://www.youtube.com/watch?v=CIv2LZx6hZ4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000053",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000049",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000808",
+  "titulo": "Ghost Runner",
+  "tituloOriginal": "ค่ายเฮี้ยนเรียนรัก",
+  "alias": [
+    "Ghost Runner The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2020-09-25",
+  "finalizacion": "2020-11-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Misterio",
+    "Terror",
+    "Thriller",
+    "Juventud",
+    "Deporte"
+  ],
+  "tags": [
+    "Atletismo",
+    "Campamento",
+    "Instituto",
+    "Fantasmas",
+    "Sobrenatural",
+    "Misterio",
+    "Secretos",
+    "Muerte",
+    "Espíritus"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mo",
+        "Link"
+      ]
+    }
+  ],
+  "sinopsis": "Un grupo de jóvenes atletas llega a un campamento de entrenamiento situado en una antigua escuela. Allí comienzan a sucederse experiencias aterradoras relacionadas con fantasmas, muertes del pasado y secretos ocultos de la institución. Mientras Mo y Link desarrollan una relación, la aparición del espíritu del corredor Pond y otros fenómenos sobrenaturales ponen al descubierto la oscura historia del lugar.",
+  "activo": true
+}

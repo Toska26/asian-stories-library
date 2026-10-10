@@ -1,0 +1,77 @@
+{
+  "codigo": "DR000890",
+  "titulo": "The Warp Effect",
+  "tituloOriginal": "รูปลับรหัสวาร์ป",
+  "alias": [
+    "Rup Lap Rahat Warp"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2022-12-12",
+  "finalizacion": "2023-02-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Efecto mariposa",
+    "Fotografía",
+    "Polaroid",
+    "Amistad",
+    "Coming-of-age",
+    "Sexualidad",
+    "Educación sexual",
+    "Identidad",
+    "Segundas oportunidades",
+    "Trauma",
+    "Familia",
+    "Romance",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Alex",
+        "Jean"
+      ]
+    },
+    {
+      "personajes": [
+        "See-Ew",
+        "Liu"
+      ]
+    },
+    {
+      "personajes": [
+        "Nim",
+        "Molly"
+      ]
+    },
+    {
+      "personajes": [
+        "Army",
+        "Joe"
+      ]
+    },
+    {
+      "personajes": [
+        "Jedi",
+        "Rose"
+      ]
+    }
+  ],
+  "sinopsis": "Alex es un adolescente de diecisiete años apasionado por la fotografía que todavía no ha tenido relaciones sexuales debido a una promesa que hizo a su madre antes de que ella muriera. Durante una fiesta organizada por su amigo Jedi, una serie de acontecimientos extraños cambia por completo su vida. Al despertar, Alex descubre que ha viajado diez años hacia el futuro y que ahora es un ginecólogo de veintisiete años. Para regresar a su vida original debe descubrir qué ocurrió aquella noche y utilizar una misteriosa cámara Polaroid que le permite observar las consecuencias de sus decisiones. Mientras intenta corregir su futuro, Alex descubre que sus amigos también han seguido caminos inesperados en el amor, la sexualidad y la vida adulta.",
+  "activo": true
+}

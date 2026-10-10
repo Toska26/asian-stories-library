@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000973",
+  "titulo": "Spare Me Your Mercy",
+  "tituloOriginal": "เพียงเธอที่ปรารถนา",
+  "alias": [
+    "Spare Me Your Mercy"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Spare Me Your Mercy",
+    "autor": "Sammon",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-11-28",
+  "finalizacion": "2025-01-16",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "Adaptación",
+    "Médicos",
+    "Policía",
+    "Eutanasia",
+    "Investigación",
+    "Crimen"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kan",
+        "Wasun"
+      ]
+    }
+  ],
+  "sinopsis": "Kan, un policía que investiga una serie de muertes de pacientes terminales, sospecha que existe una conexión entre los fallecimientos y un médico llamado Wasun. Mientras la investigación avanza, Kan descubre que Wasun está relacionado con su propio pasado y que ambos comparten sentimientos que complican todavía más el caso. La búsqueda de la verdad les obliga a enfrentarse a cuestiones sobre la muerte, la compasión y el derecho a decidir el final de una vida.",
+  "activo": true
+}

@@ -1,0 +1,29 @@
+{
+  "codigo": "DR000437",
+  "titulo": "My Little Sister",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webserie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2020-07-17",
+  "finalizacion": "2020-08-21",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "GL",
+    "Familia",
+    "Amor",
+    "Juventud",
+    "LGBT"
+  ],
+  "sinopsis": "Una historia juvenil que combina tramas BL y GL y sigue las relaciones y conflictos sentimentales de varios jóvenes mientras afrontan el amor, los malentendidos y sus vínculos personales.",
+  "activo": true
+}

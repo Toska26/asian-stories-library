@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000480",
+  "titulo": "Awaiting Dawn",
+  "alias": [
+    "Chờ Ngày Nắng Lên"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 34,
+  "estado": "Finalizado",
+  "estreno": "2025-09-06",
+  "finalizacion": "2025-12-13",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Healing"
+  ],
+  "tags": [
+    "BL",
+    "Da Lat",
+    "Homestay",
+    "Pintor",
+    "Sanación",
+    "Ruptura",
+    "Slow Burn",
+    "Familia",
+    "Vida rural",
+    "Segundas oportunidades",
+    "Viaje",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Việt",
+        "Dũng"
+      ]
+    }
+  ],
+  "sinopsis": "Tras una dolorosa ruptura, Việt, un joven artista, abandona la ciudad en busca de inspiración y de una forma de recomponer su vida. Su viaje lo lleva hasta una tranquila casa de huéspedes en las montañas de Da Lat, donde conoce a Dũng, su reservado pero afectuoso propietario. Mientras Việt intenta sanar las heridas de su relación anterior, la convivencia y la cercanía entre ambos hacen que surja lentamente un nuevo sentimiento. Sin embargo, las responsabilidades familiares y los planes de futuro de Dũng pondrán a prueba la relación que están construyendo.",
+  "activo": true
+}

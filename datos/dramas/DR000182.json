@@ -1,0 +1,111 @@
+{
+  "codigo": "DR000182",
+  "titulo": "Tide of Love",
+  "tituloOriginal": "타이드 오브 러브",
+  "alias": [
+    "Tide of Love",
+    "Taideu Obeu Reobeu"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000182",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "11 min",
+  "estado": "Finalizado",
+  "estreno": "2025-11-15",
+  "finalizacion": "2026-02-11",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Relación contractual",
+    "Convivencia",
+    "Proximidad forzada",
+    "Chaebol",
+    "Artista",
+    "Diferencia económica",
+    "Sanación",
+    "Dolor emocional",
+    "Slow Burn",
+    "De enemigos a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Hae Jun",
+      "persona": "PR000717",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Jae Hun",
+      "persona": "PR000718",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Hae Jun",
+        "Han Jae Hun"
+      ]
+    }
+  ],
+  "sinopsis": "Han Jae Hun es el heredero de una poderosa familia empresarial y está acostumbrado a mantener sus emociones bajo control. Kim Hae Jun, en cambio, es un estudiante de arte que lucha por salir adelante mientras carga con problemas económicos. Sus caminos se cruzan cuando ambos aceptan una relación basada en un acuerdo contractual que los obliga a convivir y establecer unas reglas claras. Sin embargo, la cercanía cotidiana comienza a romper las barreras que habían levantado y aquello que empezó como una transacción termina convirtiéndose en sentimientos reales.",
+  "multimedia": {
+    "portada": [
+      "https://world-of-bl.com/uploads/TideOfLove/TideOfLove-Logo.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=YxScwo3cXZY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000140",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000141",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

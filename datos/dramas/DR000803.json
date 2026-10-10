@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000803",
+  "titulo": "Ingredients",
+  "tituloOriginal": "ส่วนผสมที่ลงตัว",
+  "alias": [
+    "Ingredients The Series",
+    "Ingredients: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 21,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2020-04-04",
+  "finalizacion": "2021-01-09",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Música",
+    "Convivencia",
+    "Amistad",
+    "Chef",
+    "Músico",
+    "Vida cotidiana",
+    "Friends to Lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Win",
+        "Tops"
+      ]
+    }
+  ],
+  "sinopsis": "Win, un joven músico, comparte casa con Tops, un apasionado cocinero que sueña con perfeccionar su arte. A través de la convivencia, la música y la comida, ambos comienzan a descubrir que su amistad se está convirtiendo en una relación más profunda. Cada episodio muestra pequeñas situaciones de su vida cotidiana mientras sus sentimientos crecen de manera natural.",
+  "especiales": [
+    {
+      "titulo": "Ingredients Special",
+      "tituloOriginal": "Ingredients Special",
+      "alias": [
+        "Ingredients: Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 1,
+      "estreno": "2020-03-28"
+    }
+  ],
+  "activo": true
+}

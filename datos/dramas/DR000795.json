@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000795",
+  "titulo": "Friend Forever",
+  "tituloOriginal": "บทเพื่อน บทเพลง",
+  "alias": [
+    "Friend Forever The Series",
+    "Our Love Is Sick The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2020-09-19",
+  "finalizacion": "2020-12-12",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Instituto",
+    "Música",
+    "Amistad",
+    "Amor no correspondido",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tan",
+        "Oil"
+      ]
+    },
+    {
+      "personajes": [
+        "Sea",
+        "Tin"
+      ]
+    },
+    {
+      "personajes": [
+        "It",
+        "Voice"
+      ]
+    }
+  ],
+  "sinopsis": "Tan y Oil crecieron juntos como amigos de la infancia y, con el paso de los años, Tan descubre que sus sentimientos por Oil van más allá de la amistad. Después de que Oil se marcha con su familia, ambos se separan durante dos años hasta que vuelven a encontrarse. Paralelamente, Sea recibe una oportunidad para estudiar en Green Field College gracias a su talento musical y allí conoce a Tin, que comienza a acercarse a él mientras lo ayuda a adaptarse a su nuevo entorno. Las relaciones de los distintos personajes se entrelazan entre la amistad, los sentimientos ocultos y los conflictos del instituto.",
+  "activo": true
+}

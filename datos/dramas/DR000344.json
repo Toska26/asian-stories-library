@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000344",
+  "titulo": "Meet My Angel 2",
+  "alias": [
+    "Meet My Angel Season 2",
+    "Meet My Angel 2 The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000343",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 9,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-01-15",
+  "finalizacion": "2022-02-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Ángeles",
+    "Sobrenatural",
+    "Amor prohibido",
+    "Exparejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Damon",
+        "Angelo"
+      ]
+    }
+  ],
+  "sinopsis": "Damon y Angelo continúan su relación mientras nuevas amenazas y antiguos vínculos ponen a prueba su unión. La aparición de Kevin, antiguo novio de Angelo, y Anthony, expareja de Damon, añade nuevos conflictos a su relación y al mundo sobrenatural que los rodea.",
+  "activo": true
+}

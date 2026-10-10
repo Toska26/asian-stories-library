@@ -1,0 +1,46 @@
+{
+  "codigo": "DR001014",
+  "titulo": "The Cursed Love",
+  "tituloOriginal": "รัก สาป สูญ",
+  "alias": [
+    "The Cursed Love",
+    "รัก สาป สูญ"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2025-10-08",
+  "finalizacion": "2025-11-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Aventura"
+  ],
+  "tags": [
+    "Maldición",
+    "Reino antiguo",
+    "Memoria",
+    "Reencarnación",
+    "Mitología",
+    "Aventura",
+    "Poderes sobrenaturales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Siwat",
+        "Khunkhao"
+      ]
+    }
+  ],
+  "sinopsis": "Siwat emprende un viaje para descubrir los secretos relacionados con una antigua maldición y el legendario reino de Tambralinga. Durante su recorrido conoce a Khunkhao, un miembro de un equipo de rescate de montaña capaz de controlar el viento. Unidos por unos misteriosos colgantes y por recuerdos de hace mil años, ambos quedan atrapados en una historia que conecta la caída de un antiguo reino, poderes sobrenaturales y un amor que parece haber sobrevivido al paso del tiempo.",
+  "activo": true
+}

@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000238",
+  "titulo": "DNA Says I Love You",
+  "tituloOriginal": "基因決定我愛你",
+  "alias": [
+    "DNA Says Love You",
+    "My DNA Says I Love You"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "20-30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-03-14",
+  "finalizacion": "2022-05-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de infancia",
+    "Reencuentro",
+    "Misterio",
+    "Identidad",
+    "Ciencia ficción",
+    "Pareja secundaria",
+    "YouTuber"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pu Le Jian",
+        "Amber"
+      ]
+    },
+    {
+      "personajes": [
+        "Li Qing Long",
+        "Guan Yu Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Pu Le Jian intenta sacar adelante su canal de YouTube cuando conoce a Amber, una joven relacionada con secretos de su pasado. Mientras ambos se acercan y descubren la verdad sobre su historia, también se desarrolla la relación de Li Qing Long y Guan Yu Chen, una pareja que afronta sus propios conflictos.",
+  "activo": true
+}

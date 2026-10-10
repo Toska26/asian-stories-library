@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000453",
+  "titulo": "FOOLs – Những Kẻ Khờ",
+  "alias": [
+    "FOOLs",
+    "Những Kẻ Khờ"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-01-16",
+  "finalizacion": "2021-02-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "Coming of Age",
+    "Antología",
+    "YouTube"
+  ],
+  "sinopsis": "Cuatro capítulos recorren los últimos momentos de juventud de tres amigos, entre recuerdos, sentimientos no expresados, decisiones y despedidas.",
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000683",
+  "titulo": "At 25:00 in Akasaka",
+  "tituloOriginal": "25時、赤坂で",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "serie": "SR000683",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "At 25:00 in Akasaka",
+    "tituloOriginal": "25時、赤坂で",
+    "autor": "Hiroko Natsuno",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-04-19",
+  "finalizacion": "2024-06-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Actores",
+    "Rodaje",
+    "Romance laboral",
+    "Amigos de la universidad",
+    "Fama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shirasaki Yuki",
+        "Hayama Asami"
+      ]
+    }
+  ],
+  "sinopsis": "El actor en ascenso Yuki Shirasaki consigue un papel protagonista en un drama BL y descubre que su compañero de reparto será Asami Hayama, un antiguo compañero de universidad convertido en una estrella. Lo que comienza como una relación profesional acaba haciendo que la frontera entre actuación y sentimientos reales se vuelva cada vez más difusa.",
+  "activo": true
+}

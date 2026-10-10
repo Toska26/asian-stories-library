@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000910",
+  "titulo": "La Pluie",
+  "tituloOriginal": "ฝนตกครั้งนั้นฉันรักเธอ",
+  "alias": [
+    "La Pluie The Series",
+    "Fon Tok Khrang Nan Chan Rak Thoe",
+    "I Loved You, That Time It Rained"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "La Pluie",
+    "tituloOriginal": "ฝนตกครั้งนั้น…ฉันรักเธอ",
+    "autor": "Eddy",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "50-55 min",
+  "estado": "Finalizado",
+  "estreno": "2023-04-29",
+  "finalizacion": "2023-07-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasia",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Almas gemelas",
+    "Telepatía",
+    "Lluvia",
+    "Destino",
+    "Soulmates",
+    "Amor sobrenatural",
+    "Parejas secundarias"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Saengtai",
+        "Phat"
+      ]
+    },
+    {
+      "personajes": [
+        "Saengthian",
+        "Lomfon"
+      ]
+    }
+  ],
+  "sinopsis": "Saengtai posee una extraña condición que hace que, cuando llueve, solo pueda escuchar la voz de su alma gemela. Aunque no cree en el destino, conoce a Phat, quien lleva años esperando encontrar a la persona cuya voz puede escuchar bajo la lluvia. Paralelamente, la historia de Saengthian y Lomfon introduce una segunda relación marcada por los vínculos entre almas gemelas.",
+  "activo": true
+}

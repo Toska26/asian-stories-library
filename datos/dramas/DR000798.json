@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000798",
+  "titulo": "My Gear and Your Gown",
+  "tituloOriginal": "เกียร์สีขาวกับกาวน์สีฝุ่น",
+  "alias": [
+    "My Gear and Your Gown: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Gear and Your Gown",
+    "tituloOriginal": "เกียร์สีขาวกับกาวน์สีฝุ่น",
+    "autor": "Faddist",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2020-09-14",
+  "finalizacion": "2020-11-30",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Universidad",
+    "Medicina",
+    "Ingeniería",
+    "Rivales a amantes",
+    "Amistad",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Itt",
+        "Pai"
+      ]
+    },
+    {
+      "personajes": [
+        "Pure",
+        "Folk"
+      ]
+    },
+    {
+      "personajes": [
+        "Waan",
+        "Beau"
+      ]
+    }
+  ],
+  "sinopsis": "Pai es un estudiante brillante de Medicina que durante su etapa escolar tenía poca confianza en sí mismo. Itt, un estudiante de Ingeniería y antiguo presidente del club deportivo, es su rival desde el instituto. Cuando Pai recibe la misión de ayudar a Itt con sus estudios, ambos comienzan a acercarse y los sentimientos que habían quedado ocultos durante años vuelven a aparecer. Paralelamente, Pure y Folk desarrollan una relación complicada que evoluciona de encuentros casuales a sentimientos reales, mientras Waan encuentra el amor en Beau.",
+  "activo": true
+}

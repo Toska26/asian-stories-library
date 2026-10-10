@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000768",
+  "titulo": "Choose",
+  "tituloOriginal": "Choose",
+  "alias": [
+    "Choose The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 12,
+  "estado": "Finalizado",
+  "estreno": "2017-03-06",
+  "finalizacion": "2017-03-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ton",
+        "Tawan"
+      ]
+    }
+  ],
+  "sinopsis": "Ton y Tawan son una pareja que se quiere profundamente, pero su relación empieza a tambalearse cuando Ton contrata a una nueva secretaria que parece ser su pareja perfecta. Tawan comienza a distanciarse y a comportarse con frialdad, poniendo a prueba los sentimientos y la confianza que existen entre ambos.",
+  "activo": true
+}

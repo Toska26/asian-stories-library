@@ -1,0 +1,67 @@
+{
+  "codigo": "DR000788",
+  "titulo": "Gen Y 2",
+  "tituloOriginal": "วัยรุ่นวุ่นYรัก 2",
+  "alias": [
+    "Gen Y 2: The Series",
+    "Gen Y The Series 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000787"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2021-12-21",
+  "finalizacion": "2022-03-08",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Amistad",
+    "Múltiples parejas",
+    "Relaciones",
+    "Distancia",
+    "Celos",
+    "Reencuentros"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mark",
+        "Kit"
+      ]
+    },
+    {
+      "personajes": [
+        "Wayu",
+        "Thanu"
+      ]
+    },
+    {
+      "personajes": [
+        "Tong",
+        "Pok"
+      ]
+    },
+    {
+      "personajes": [
+        "Jack",
+        "Koh"
+      ]
+    }
+  ],
+  "sinopsis": "Wayu comienza una relación con Thanu, pero su nueva pareja debe enfrentarse a los sentimientos y conflictos que todavía rodean la relación entre Thanu y Phai. Mientras tanto, Mark y Kit ponen a prueba su relación al intentar afrontar una separación temporal. Tong y Pok también atraviesan nuevos conflictos mientras intentan reconstruir su relación. A su alrededor, Jack y Koh dejan atrás su rivalidad y finalmente dan un paso hacia una relación sentimental.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000573",
+  "titulo": "Blades Amid Blossoms",
+  "tituloOriginal": "提剑映桃花",
+  "alias": [
+    "Ti Jian Ying Tao Hua",
+    "Blades Amid Blossoms"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2025-07-28",
+  "finalizacion": "2025-08-08",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Histórico",
+    "Misterio",
+    "Wuxia"
+  ],
+  "tags": [
+    "Bromance",
+    "Doble protagonista",
+    "Investigación",
+    "Artes marciales",
+    "Asesinato",
+    "Intriga política",
+    "Ambientación histórica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yan Shiyi",
+        "Han Dao"
+      ]
+    }
+  ],
+  "sinopsis": "Cuando la consorte imperial muere misteriosamente durante una visita a Peach Blossom Manor, el vagabundo espadachín Yan Shiyi se convierte en el principal sospechoso. Han Dao, encargado de proteger a la consorte, sella la residencia e inicia una investigación. A medida que ambos profundizan en el caso, salen a la luz los secretos ocultos de la mansión.",
+  "activo": true
+}

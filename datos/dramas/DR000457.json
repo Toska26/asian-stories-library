@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000457",
+  "titulo": "Mr Cinderella",
+  "alias": [
+    "Chàng Lọ Lem",
+    "Mr. Cinderella"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000457",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2021-11-28",
+  "finalizacion": "2022-01-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dũng",
+        "Khoa"
+      ]
+    }
+  ],
+  "sinopsis": "Dũng, marcado desde niño por la desaparición de la persona a la que llamaba su Cenicienta, se reencuentra años después con Khoa, un médico que entra inesperadamente en su vida.",
+  "activo": true
+}

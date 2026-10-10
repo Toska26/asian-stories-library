@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000519",
+  "titulo": "The Untamed: Special Edition",
+  "tituloOriginal": "陈情令特别剪辑版",
+  "alias": [
+    "The Untamed Special Edition",
+    "Chen Qing Ling Special Edition"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "universo": "UN000016",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 62,
+  "estado": "Finalizado",
+  "estreno": "2019-12-25",
+  "finalizacion": "2020-02-04",
+  "generos": [
+    "BL",
+    "Xianxia",
+    "Fantasía",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Artes marciales"
+  ],
+  "tags": [
+    "BL",
+    "Bromance",
+    "Danmei",
+    "Reedición"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wei Wuxian",
+        "Lan Wangji"
+      ]
+    }
+  ],
+  "sinopsis": "Edición especial de The Untamed reeditada en 20 episodios para ofrecer una versión más condensada de la historia original. Mantiene los acontecimientos principales de la serie de 2019 y pone un mayor énfasis en la relación y perspectiva de Lan Wangji respecto a Wei Wuxian.",
+  "activo": true
+}

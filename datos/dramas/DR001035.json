@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001035",
+  "titulo": "The Masked Hearts",
+  "tituloOriginal": "นายโขน",
+  "alias": [
+    "Nai Khon"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "Nai Khon",
+    "tituloOriginal": "นายโขน",
+    "autor": "NooDangzz",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2026-02-21",
+  "finalizacion": "2026-04-11",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "sinopsis": "Sand, un joven apasionado por el cosplay y fascinado por el arte del Khon, se une al club universitario dedicado a esta tradición con la intención de modernizarla. Allí choca con Lucky, el estricto presidente del club. Mientras la rivalidad entre ambos crece, comienzan a aparecer recuerdos de una vida pasada en la que fueron un maestro y su sirviente separados por las diferencias de clase.",
+  "activo": true
+}

@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000552",
+  "titulo": "The Sparkle in Your Eye",
+  "tituloOriginal": "你是我目光里的星",
+  "alias": [
+    "Ni Shi Wo Mu Guang Li De Xing"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2025-05-24",
+  "finalizacion": "2025-06-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pei Jia",
+        "Su Yi"
+      ]
+    }
+  ],
+  "sinopsis": "Pei Jia y Su Yi se conocen en circunstancias que hacen que sus vidas comiencen a entrelazarse. La relación entre ambos evoluciona progresivamente mientras afrontan sus sentimientos y las dificultades que surgen a su alrededor.",
+  "activo": true
+}

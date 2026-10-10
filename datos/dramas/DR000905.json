@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000905",
+  "titulo": "For Him",
+  "tituloOriginal": "ยอมเป็นของฮิม",
+  "alias": [
+    "Yom Pen Khong Him",
+    "For Him The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45-50 min",
+  "estado": "Finalizado",
+  "estreno": "2023-11-30",
+  "finalizacion": "2024-02-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance adulto",
+    "One-night stand",
+    "Relaciones complicadas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Him",
+        "Nail"
+      ]
+    }
+  ],
+  "sinopsis": "Him y Nail comienzan su relación después de una noche juntos. Lo que para Nail debía ser algo pasajero no lo es para Him, que decide seguir acercándose a él. A medida que la relación avanza, ambos deben enfrentarse a sus sentimientos y a las dificultades que surgen entre ellos.",
+  "activo": true
+}

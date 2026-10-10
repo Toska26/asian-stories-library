@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000451",
+  "titulo": "Beef, Cupcakes And Him",
+  "alias": [
+    "Bữa Tối, Bánh Ngọt Và Anh"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Cortometraje",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 54,
+  "estado": "Finalizado",
+  "estreno": "2021-12-28",
+  "finalizacion": "2021-12-28",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Romance",
+    "Cocina",
+    "Amigos a amantes",
+    "Cortometraje"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Huy",
+        "Thang"
+      ]
+    }
+  ],
+  "sinopsis": "Huy, un joven cocinero prometedor, pierde su trabajo en un restaurante de cinco estrellas y debe hacerse cargo de su hermana menor. En ese momento reaparece Thang, un antiguo amigo de la infancia. Ambos terminan creando juntos un negocio de catering y, mientras afrontan distintas dificultades, sus sentimientos comienzan a transformarse.",
+  "activo": true
+}

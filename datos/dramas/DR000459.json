@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000459",
+  "titulo": "A Love Song For My Beloved",
+  "alias": [
+    "Bài Tình Ca Cho Em"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2022-02-16",
+  "finalizacion": "2022-05-12",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kỳ Phương",
+        "Bảo Anh"
+      ]
+    }
+  ],
+  "sinopsis": "Kỳ Phương intenta reconstruir su vida después de una relación tóxica y violenta. En un café conoce a Bảo Anh, cuya paciencia y afecto le ayudan a recuperar poco a poco la confianza y abrirse nuevamente al amor.",
+  "especiales": [
+    {
+      "titulo": "A Love Song For My Beloved — Special Episode 1",
+      "anio": 2022
+    },
+    {
+      "titulo": "A Love Song For My Beloved — Special Episode 2",
+      "anio": 2022
+    }
+  ],
+  "activo": true
+}

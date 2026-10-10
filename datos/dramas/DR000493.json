@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000493",
+  "titulo": "I'm a Fool for You",
+  "tituloOriginal": "那個傻的 請一直傻下去",
+  "alias": [
+    "I’m a Fool for You Season 4",
+    "那個傻的 請一直傻下去 第四季"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "serie": "SR000499",
+  "temporadas": 4,
+  "temporada": 4,
+  "episodios": 5,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2024-12-12",
+  "finalizacion": "2025-01-09",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Romance",
+    "Reencuentro",
+    "Segundas oportunidades",
+    "Relaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hugo",
+        "Oscar"
+      ]
+    }
+  ],
+  "sinopsis": "La cuarta y última temporada reúne nuevamente a los protagonistas antes de la boda de un amigo. El reencuentro hace aflorar sentimientos y asuntos que habían quedado sin resolver desde las temporadas anteriores.",
+  "activo": true
+}

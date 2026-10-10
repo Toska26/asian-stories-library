@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000730",
+  "titulo": "The Boy and I Who Will Break Up in 100 Days",
+  "tituloOriginal": "100日後に別れる僕と彼",
+  "alias": [
+    "100-Nichi-go ni Wakareru Boku to Kare"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-26",
+  "finalizacion": "2026-06-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kasuga Yuma",
+        "Hasegawa Itsuki"
+      ]
+    }
+  ],
+  "sinopsis": "Yuma y Itsuki fueron pareja, pero su relación terminó antes de comenzar la grabación de un documental sobre ellos. Para las cámaras deciden fingir que siguen siendo una pareja perfecta durante cien días, mientras las heridas y los sentimientos que aún permanecen entre ambos salen a la superficie.",
+  "activo": true
+}

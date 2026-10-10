@@ -1,0 +1,70 @@
+{
+  "codigo": "DR000666",
+  "titulo": "Our Dining Table",
+  "tituloOriginal": "僕らの食卓",
+  "alias": [
+    "Bokura no Shokutaku"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Our Dining Table",
+    "tituloOriginal": "僕らの食卓",
+    "autor": "Mita Ori",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2023-04-06",
+  "finalizacion": "2023-06-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Vida cotidiana",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Vida cotidiana",
+    "Cocina",
+    "Comida",
+    "Familia",
+    "Encontrar una familia",
+    "Sanación",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hozumi Yutaka",
+        "Ueda Minoru"
+      ]
+    }
+  ],
+  "sinopsis": "Hozumi Yutaka es un oficinista solitario que tiene dificultades para comer acompañado, a pesar de su talento para cocinar. Su vida cambia cuando conoce a Ueda Minoru y a su hermano pequeño Tane, quienes le piden que les enseñe a preparar sus comidas. A través de la cocina y de las comidas compartidas, Yutaka comienza a abrirse a los demás y desarrolla sentimientos por Minoru.",
+  "especiales": [
+    {
+      "titulo": "Our Dining Table: Spin-Off",
+      "tituloOriginal": "僕らの食卓 スピンオフ",
+      "alias": [
+        "Our Dining Table Spin-Off"
+      ],
+      "tipo": "Spin-off",
+      "anio": 2023,
+      "episodios": 1,
+      "estreno": "2023-06-15"
+    }
+  ],
+  "activo": true
+}

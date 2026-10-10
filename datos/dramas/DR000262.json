@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000262",
+  "titulo": "Dual Stars",
+  "tituloOriginal": "頂峰",
+  "alias": [
+    "Ding Feng"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2026,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2026-05-22",
+  "finalizacion": "2026-05-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Showbiz",
+    "Actores",
+    "Ídolos",
+    "Enemies to lovers",
+    "Rodaje",
+    "Escándalo",
+    "Fama",
+    "Romance",
+    "Relación falsa"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jian Mo",
+        "Xu Xinlang"
+      ]
+    }
+  ],
+  "sinopsis": "Jian Mo fue un actor aclamado cuya carrera cayó en desgracia. Cuando recibe una nueva oportunidad para recuperar su posición, debe protagonizar una película BL junto a Xu Xinlang, un popular ídolo conocido por su temperamento difícil. Obligados a trabajar juntos mientras la producción intenta aprovechar la controversia y la atención mediática, la rivalidad inicial comienza a transformarse en una atracción real.",
+  "activo": true
+}

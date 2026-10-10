@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000970",
+  "titulo": "High School Frenemy",
+  "tituloOriginal": "มิตรภาพคราบศัตรู",
+  "alias": [
+    "High School Frenemy",
+    "Mittraphap Khrap Satru"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Drama",
+    "relacion": "Adaptación",
+    "titulo": "School 2013",
+    "tituloOriginal": "학교 2013",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2024-10-14",
+  "finalizacion": "2024-12-03",
+  "generos": [
+    "Drama",
+    "Bromance",
+    "Escolar"
+  ],
+  "tags": [
+    "Adaptación",
+    "Instituto",
+    "Amistad",
+    "Rivales",
+    "Bullying"
+  ],
+  "sinopsis": "Saint y Shin fueron amigos inseparables durante la infancia, pero una serie de acontecimientos terminó convirtiéndolos en enemigos. Años después vuelven a coincidir en el mismo instituto, donde los conflictos entre grupos de estudiantes, la violencia y las heridas del pasado obligan a ambos a enfrentarse a lo que ocurrió entre ellos. Poco a poco, su relación comienza a reconstruirse y recuperan el vínculo que habían perdido.",
+  "activo": true
+}

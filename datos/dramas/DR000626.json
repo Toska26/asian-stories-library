@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000626",
+  "titulo": "What Did You Eat Yesterday? New Year Special 2020",
+  "tituloOriginal": "きのう何食べた？正月スペシャル2020",
+  "alias": [
+    "What Did You Eat Yesterday? New Year Special 2020",
+    "Kinou Nani Tabeta? New Year Special 2020",
+    "What Did You Eat Yesterday? Oshogatsu Special 2020"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000037",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 90,
+  "estado": "Finalizado",
+  "estreno": "2020-01-01",
+  "finalizacion": "2020-01-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Vida cotidiana",
+    "Pareja estable",
+    "Convivencia",
+    "Cocina",
+    "Familia",
+    "Celos",
+    "Trabajo",
+    "Adultos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kakei Shiro",
+        "Yabuki Kenji"
+      ]
+    }
+  ],
+  "sinopsis": "Shiro y Kenji continúan su vida cotidiana como pareja. Durante el especial, los dos afrontan distintas situaciones relacionadas con los celos, la familia, el trabajo, el dinero y la convivencia, mientras siguen compartiendo su día a día alrededor de la comida y de su relación.",
+  "activo": true
+}

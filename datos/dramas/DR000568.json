@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000568",
+  "titulo": "Out of Control Starlight",
+  "tituloOriginal": "失控星光",
+  "alias": [
+    "Shi Kong Xing Guang",
+    "Out of Control Starlight"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000568",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Runaway Starlight",
+    "tituloOriginal": "失控星光",
+    "autor": "Si Jiao",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 50,
+  "estado": "Finalizado",
+  "estreno": "2025-02-07",
+  "generos": [
+    "Bromance",
+    "Romance",
+    "Drama",
+    "Entretenimiento"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela BL",
+    "Enemigos a amantes",
+    "Reencuentro",
+    "Entretenimiento",
+    "Convivencia",
+    "Amor no correspondido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Jixing",
+        "Zhou Yili"
+      ]
+    }
+  ],
+  "sinopsis": "El famoso actor Shen Jixing pierde su posición tras verse envuelto en un escándalo y termina recurriendo a Zhou Yili, una estrella del rock y antiguo conocido con quien mantiene una relación complicada. La convivencia entre ambos hace resurgir recuerdos y sentimientos mientras intentan superar las dificultades que los rodean.",
+  "activo": true
+}

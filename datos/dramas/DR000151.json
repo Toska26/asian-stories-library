@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000151",
+  "titulo": "Individual Circumstances",
+  "tituloOriginal": "각자의 사정",
+  "alias": [
+    "Individual Circumstances",
+    "Each Other’s Circumstances",
+    "Gakjaui Sajeong"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "17 min",
+  "estado": "Finalizado",
+  "estreno": "2023-01-19",
+  "finalizacion": "2023-02-09",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Escritor",
+    "Director",
+    "Cine",
+    "Reencuentro",
+    "Pasado",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Ha Yeon Woo",
+      "persona": "PR000654",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sung Woo Jae",
+      "persona": "PR000655",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ha Yeon Woo",
+        "Sung Woo Jae"
+      ]
+    }
+  ],
+  "sinopsis": "Yeon Woo es un director de cine cuya carrera atraviesa un momento difícil cuando vuelve a encontrarse con Woo Jae, un antiguo conocido que se ha convertido en escritor. Los dos cargan con heridas y malentendidos del pasado, pero la necesidad de trabajar juntos en una nueva historia les obliga a enfrentarse a aquello que los separó y a los sentimientos que todavía permanecen entre ellos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/b0/c6/a6/b0c6a69486b40f38d74f363589d7012c.jpg",
+      "https://i.pinimg.com/1200x/bb/30/09/bb3009612f0c2e6fe144c84f5767f2a6.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Ax5oudYxvUo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000106",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

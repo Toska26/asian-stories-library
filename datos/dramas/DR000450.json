@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000450",
+  "titulo": "Hey Rival, I Love You!",
+  "alias": [
+    "Tình Địch, I Love You!",
+    "Enemy, I Love You!"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Cortometraje",
+  "franquicia": {
+    "codigo": "FR000030",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 36,
+  "estado": "Finalizado",
+  "estreno": "2021-01-14",
+  "finalizacion": "2021-01-14",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Romance",
+    "Rivales a amantes",
+    "Cortometraje"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dương",
+        "Hoàng Phúc"
+      ]
+    }
+  ],
+  "sinopsis": "Dos jóvenes que descubren que están saliendo con la misma chica deciden unir fuerzas para enfrentarse a ella. Sin embargo, mientras llevan a cabo su plan, la rivalidad entre ambos se transforma progresivamente en sentimientos románticos.",
+  "activo": true
+}

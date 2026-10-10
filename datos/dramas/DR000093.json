@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000093",
+  "titulo": "Billionaire Biker",
+  "tituloOriginal": "Billionaire Biker",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000093",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Jefe y empleado",
+    "Motocicleta",
+    "Diferencias sociales",
+    "Rico y pobre"
+  ],
+  "personas": [
+    {
+      "nombre": "Win",
+      "persona": "PR000533",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ocean",
+      "persona": "PR000534",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000092",
+      "personajes": [
+        "Win",
+        "Ocean"
+      ]
+    }
+  ],
+  "sinopsis": "Ocean llega a su primer día de trabajo y, al confundir una motocicleta con la de un conductor de mototaxi, termina subiéndose a la moto de Win, el vicepresidente de la empresa. Divertido por el malentendido y atraído por Ocean, Win comienza a pagarle para que realice diferentes tareas con la intención de mantenerlo cerca. Lo que empieza como una situación inesperada en el trabajo pronto se transforma en una relación cada vez más cercana.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/48/bb/04/48bb04b82dbfd1f35b9d08a1da8f1545.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDA5Nzc5MTMtZTU4My00MzhhLTlmMTctZmNhMTc0YWRjYmQ5XkEyXkFqcGc%40._V1_.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=_aanEYBtdYY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000005",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000554",
+  "titulo": "Trapped in Osaka",
+  "tituloOriginal": "被困在大阪的男孩",
+  "alias": [
+    "Bei Kun Zai Da Ban De Nan Hai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2025-05-29",
+  "finalizacion": "2025-06-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Vertical",
+    "Osaka",
+    "Enemigos a amantes",
+    "Convivencia forzada"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chenxi",
+        "Haoyu"
+      ]
+    }
+  ],
+  "sinopsis": "Chenxi se encuentra atrapado en Osaka mientras intenta hacer frente a sus deudas. Haoyu recibe el encargo de localizarlo y cobrar el dinero, pero las circunstancias hacen que ambos queden atrapados juntos. La convivencia forzada transforma gradualmente su enfrentamiento inicial en una relación romántica.",
+  "activo": true
+}

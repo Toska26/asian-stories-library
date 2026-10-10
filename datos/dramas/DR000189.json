@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000189",
+  "titulo": "Never Forget Your Enemy",
+  "tituloOriginal": "네 원수를 잊지 마라",
+  "alias": [
+    "Never Forget Your Enemy",
+    "Ne Wonsureul Itji Mara",
+    "ยังไง..ก็ใช่นาย",
+    "Yang Ngai.. Ko Chai Nai"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "32 min",
+  "estado": "Finalizado",
+  "estreno": "2026-03-17",
+  "finalizacion": "2026-04-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Enemigos a amantes",
+    "Rivales de infancia",
+    "Amnesia",
+    "Pérdida de memoria",
+    "Accidente",
+    "Hospital",
+    "Reencuentro",
+    "Secretos",
+    "Slow Burn"
+  ],
+  "personas": [
+    {
+      "nombre": "Ki Ha Neul",
+      "persona": "PR000732",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeo Sae Byeok",
+      "persona": "PR000733",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ki Ha Neul",
+        "Yeo Sae Byeok"
+      ]
+    }
+  ],
+  "sinopsis": "Ki Ha Neul sufre un accidente y despierta sin recuerdos de los últimos diez años. Lo más desconcertante no es solo la pérdida de memoria, sino descubrir que Yeo Sae Byeok, su antiguo rival escolar, ahora asegura ser su pareja. Mientras intenta reconstruir una década de recuerdos desaparecidos, Ha Neul debe descubrir qué ocurrió entre ambos y si los sentimientos que Sae Byeok afirma que existen siguen siendo reales.",
+  "multimedia": {
+    "trailer": [
+      "https://youtu.be/LCKVStF6qb4"
+    ],
+    "teaser": [
+      "https://youtu.be/nsLrW4Y5EI0"
+    ],
+    "ost": [
+      "https://youtu.be/mI3d7aF7NOM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000147",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000148",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

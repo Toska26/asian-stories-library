@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000679",
+  "titulo": "My Strawberry Film",
+  "tituloOriginal": "マイストロベリーフィルム",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2024-02-15",
+  "finalizacion": "2024-04-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud",
+    "Amistad",
+    "Descubrimiento",
+    "Película misteriosa",
+    "Amor no correspondido"
+  ],
+  "sinopsis": "Ryo, Hikaru y Chika son tres estudiantes de segundo curso de instituto que llevan una vida aparentemente tranquila hasta que encuentran una película de 8 mm que muestra a una misteriosa chica. La aparición de Minami, que se parece a la joven de la película, despierta sentimientos ocultos y altera el equilibrio entre los tres amigos.",
+  "activo": true
+}

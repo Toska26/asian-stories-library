@@ -1,0 +1,84 @@
+{
+  "codigo": "DR000177",
+  "titulo": "Opposites Attract",
+  "tituloOriginal": "반대에 끌리는 이유",
+  "alias": [
+    "Opposites Attract",
+    "The Reason Opposites Attract",
+    "Bandaee Kkeulineun Iyu"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-09",
+  "finalizacion": "2026-02-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Bar gay",
+    "Profesor y estudiante",
+    "Diferencia de edad",
+    "Apuesta",
+    "Sedución",
+    "Atracción",
+    "Amor secreto"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Howon",
+      "persona": "PR000724",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Minu",
+      "persona": "PR000725",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Howon",
+        "Kim Minu"
+      ]
+    }
+  ],
+  "sinopsis": "Howon, un estudiante universitario acostumbrado a conseguir siempre lo que quiere, acepta el reto de conquistar a Minu, un hombre misterioso que parece rechazar cualquier acercamiento. Lo que empieza como una apuesta en un bar gay se transforma poco a poco en una atracción difícil de controlar, obligándolos a enfrentarse a las diferencias que inicialmente parecían separarlos.",
+  "entidades": [
+    {
+      "codigo": "EN000143",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

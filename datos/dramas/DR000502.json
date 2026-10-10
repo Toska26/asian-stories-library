@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000502",
+  "titulo": "The Love That Dare Not Speak Its Name",
+  "tituloOriginal": "有愛錄：螢火蟲",
+  "alias": [
+    "The Love that Dare Not Speak Its Name",
+    "Yau Ngoi Luk: Ying Fo Chung",
+    "有愛錄：螢火蟲"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 5,
+  "estado": "Finalizado",
+  "estreno": "2021-10-28",
+  "finalizacion": "2021-11-15",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Friends to Lovers",
+    "Compañeros de piso",
+    "Amistad",
+    "Amor no confesado",
+    "Slow Burn",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "The Café Owner",
+        "The Boy"
+      ]
+    }
+  ],
+  "sinopsis": "Dos antiguos compañeros de piso de la universidad, ahora un dueño de una cafetería y un empleado de oficina, siguen apoyándose mientras afrontan la incertidumbre de la vida adulta. Aunque durante años han mantenido una amistad muy cercana, entre ellos han surgido sentimientos románticos que finalmente ponen a prueba su relación.",
+  "activo": true
+}

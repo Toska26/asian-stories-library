@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000931",
+  "titulo": "Twins",
+  "tituloOriginal": "สองกายใจเดียว",
+  "alias": [
+    "Twins The Series",
+    "Two Bodies, One Heart"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2023-11-03",
+  "finalizacion": "2024-01-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Deportes",
+    "Voleibol",
+    "Jiu-jitsu",
+    "Universidad",
+    "Gemelos",
+    "Hermanos",
+    "Identidad falsa",
+    "Suplantación",
+    "Accidente",
+    "Amistad",
+    "Competición",
+    "Celos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sprite",
+        "First"
+      ]
+    }
+  ],
+  "sinopsis": "Zee y Sprite son gemelos que destacan en disciplinas deportivas diferentes: Zee es un jugador de voleibol y Sprite practica jiu-jitsu. Después de que Zee sufre un accidente, Sprite debe hacerse pasar por su hermano para proteger su lugar dentro del equipo de voleibol. Mientras intenta mantener su identidad en secreto, Sprite se acerca cada vez más a First, uno de los compañeros de equipo de Zee, y ambos terminan desarrollando sentimientos.",
+  "activo": true
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000894",
+  "titulo": "7 Days Before Valentine",
+  "tituloOriginal": "7 วันก่อนวาเลนไทน์",
+  "alias": [
+    "7 Days Before Valentine",
+    "7 Wan Kon Valentine"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "7 Days Before Valentine",
+    "tituloOriginal": "7 วันก่อนวาเลนไทน์",
+    "autor": "Patrick Rangsimant",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-11-22",
+  "finalizacion": "2024-02-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Segundas oportunidades",
+    "Destino",
+    "Viaje temporal",
+    "Reescribir el destino",
+    "Deseos",
+    "Amor perdido",
+    "Amor no correspondido",
+    "Expareja",
+    "San Valentín"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sunshine",
+        "Rain"
+      ]
+    }
+  ],
+  "sinopsis": "Sunshine es un joven modelo y actor cuya relación con Rain se encuentra al borde de la ruptura. Cuando recibe la posibilidad de cambiar el destino y recuperar a su antiguo amor durante siete días, comienza a pedir deseos para eliminar los obstáculos que se interponen entre ambos. Sin embargo, cada cambio tiene un precio y Sunshine deberá enfrentarse a las consecuencias de intentar alterar el pasado y forzar un futuro diferente.",
+  "activo": true
+}

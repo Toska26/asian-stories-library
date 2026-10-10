@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000535",
+  "titulo": "Under the Skin II",
+  "tituloOriginal": "猎罪图鉴2",
+  "alias": [
+    "Lie Zui Tu Jian 2",
+    "Under the Skin 2",
+    "Under the Skin Season 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "serie": "SR000531",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 28,
+  "estado": "Finalizado",
+  "generos": [
+    "Bromance",
+    "Crimen",
+    "Misterio",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Investigación criminal",
+    "Policial",
+    "Secuela"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Yi",
+        "Du Cheng"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Yi y Du Cheng continúan trabajando juntos como parte del equipo policial mientras afrontan nuevos casos criminales. La experiencia acumulada durante sus investigaciones anteriores ha fortalecido su confianza y coordinación, pero los nuevos casos vuelven a poner a prueba su capacidad para descubrir la verdad detrás de complejos crímenes.",
+  "activo": true
+}

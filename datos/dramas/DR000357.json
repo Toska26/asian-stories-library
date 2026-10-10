@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000357",
+  "titulo": "SO/PRE",
+  "alias": [
+    "SO PRE",
+    "SO/PRE The Prequel"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000010",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2022-07-03",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Precuela",
+    "Amor",
+    "Pareja",
+    "Destino",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Somerset Olvidado",
+        "Seph Odevillas"
+      ]
+    }
+  ],
+  "sinopsis": "Somerset Olvidado (SO1) y Seph Odevillas (SO2) protagonizan su propia historia romántica. Con los mismos iniciales, el mismo destino y una vida compartida bajo el mismo techo, ambos descubren una relación que conecta sus historias con el universo de PRESO.",
+  "activo": true
+}

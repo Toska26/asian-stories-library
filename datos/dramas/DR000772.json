@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000772",
+  "titulo": "Bad Buddy",
+  "tituloOriginal": "แค่เพื่อนครับเพื่อน",
+  "alias": [
+    "Bad Buddy: The Series",
+    "Khae Phuean Khrap Phuean"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Behind the Scenes",
+    "tituloOriginal": "หลังม่าน",
+    "autor": "Afterday & -West-",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2021-10-29",
+  "finalizacion": "2022-01-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pat",
+        "Pran"
+      ]
+    }
+  ],
+  "sinopsis": "Pat y Pran nacieron en dos familias enfrentadas que llevan generaciones compitiendo entre sí. La rivalidad familiar se traslada también a la universidad, donde ambos pertenecen a facultades rivales y mantienen públicamente la imagen de enemigos. Sin embargo, lejos de las miradas de sus familias y compañeros, ambos han desarrollado una amistad secreta que poco a poco se transforma en amor. Su relación les obliga a enfrentarse a la rivalidad entre sus familias y a decidir hasta dónde están dispuestos a luchar por estar juntos.",
+  "activo": true
+}

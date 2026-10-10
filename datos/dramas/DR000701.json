@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000701",
+  "titulo": "Depth of Field",
+  "tituloOriginal": "被写界深度",
+  "alias": [
+    "Hishakai Shindo"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Depth of Field",
+    "tituloOriginal": "被写界深度",
+    "autor": "Sono",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-06-20",
+  "finalizacion": "2025-07-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amistad",
+    "Instituto",
+    "Música",
+    "Fotografía",
+    "Reencuentro",
+    "Universidad",
+    "Celos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayakawa Shuichiro",
+        "Konno Ryohei"
+      ]
+    }
+  ],
+  "sinopsis": "Hayakawa Shuichiro, un joven que ha abandonado la música y carga con un profundo sentimiento de vacío, conoce en la azotea de su instituto a Konno Ryohei, un chico reservado y apasionado por la fotografía. La admiración, los celos y los sentimientos que surgen entre ambos transforman su amistad y continúan años después, cuando vuelven a encontrarse como universitarios.",
+  "activo": true
+}

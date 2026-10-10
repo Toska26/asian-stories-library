@@ -1,0 +1,77 @@
+{
+  "codigo": "DR000781",
+  "titulo": "The Effect",
+  "tituloOriginal": "โลกออนร้าย",
+  "alias": [
+    "The Effect: โลกออนร้าย"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": "57 min",
+  "estado": "Finalizado",
+  "estreno": "2019-10-11",
+  "finalizacion": "2019-10-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Psicológico"
+  ],
+  "tags": [
+    "Universidad",
+    "Ciberacoso",
+    "Redes sociales",
+    "Trauma",
+    "Salud mental",
+    "Violencia sexual"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shin",
+        "Keng"
+      ]
+    }
+  ],
+  "sinopsis": "Shin es un estudiante universitario tímido y reservado que siente admiración por Keng, un estudiante mayor, popular y aparentemente perfecto. Cuando la relación entre ambos se convierte en objeto de comentarios y críticas en las redes sociales, la presión y el ciberacoso desencadenan una serie de acontecimientos que dejan profundas consecuencias en sus vidas y en su relación.",
+  "especiales": [
+    {
+      "titulo": "The Effect — Special 1",
+      "alias": [
+        "Special Episode 1"
+      ],
+      "tipo": "Especial",
+      "anio": 2019,
+      "episodios": 1,
+      "estreno": "2019-09-20"
+    },
+    {
+      "titulo": "The Effect — Special 2",
+      "alias": [
+        "Special Episode 2"
+      ],
+      "tipo": "Especial",
+      "anio": 2019,
+      "episodios": 1,
+      "estreno": "2019-09-27"
+    },
+    {
+      "titulo": "The Effect — Episode 0",
+      "tituloOriginal": "The Effect",
+      "alias": [
+        "Episode 0"
+      ],
+      "tipo": "Especial",
+      "anio": 2019,
+      "episodios": 1,
+      "estreno": "2019-10-04"
+    }
+  ],
+  "activo": true
+}

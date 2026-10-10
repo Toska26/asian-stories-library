@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000378",
+  "titulo": "Stay",
+  "alias": [
+    "Stay The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2023-06-11",
+  "finalizacion": "2023-07-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Los Ángeles",
+    "Cineasta",
+    "Inmigración",
+    "Compañeros de piso",
+    "Convivencia",
+    "Diferencias culturales",
+    "Secretos",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Andre",
+        "Joshua"
+      ]
+    }
+  ],
+  "sinopsis": "Andre, un joven cineasta filipino, gana un premio por un cortometraje en Los Ángeles y decide quedarse en la ciudad. Después de ser víctima de una estafa y perder su dinero, necesita encontrar un lugar donde vivir y termina compartiendo una pequeña vivienda con Joshua, un inmigrante coreano trabajador y reservado. La convivencia entre ambos hace surgir una conexión que se verá puesta a prueba por sus diferencias, inseguridades y los secretos del pasado de Joshua.",
+  "activo": true
+}

@@ -1,0 +1,135 @@
+{
+  "codigo": "DR000096",
+  "titulo": "Senior Secret Love: Puppy Honey 2",
+  "tituloOriginal": "รุ่นพี่ Secret Love เรื่อง Puppy Honey 2",
+  "alias": [
+    "Puppy Honey 2",
+    "Scan Heart Nai Mor Ma"
+  ],
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000095",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2017-03-18",
+  "finalizacion": "2017-05-06",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Veterinaria",
+    "Animales",
+    "Relación a distancia",
+    "Celos",
+    "Triángulo amoroso",
+    "Descubrimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Porsche",
+      "persona": "PR000563",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Emma",
+      "persona": "PR000564",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pick",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rome",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000115",
+      "personajes": [
+        "Porsche",
+        "Emma"
+      ]
+    },
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Pick",
+        "Rome"
+      ]
+    }
+  ],
+  "sinopsis": "Porsche se marcha para realizar unas prácticas de veterinaria lejos del campus, dejando a Emma atrás. La distancia comienza a poner a prueba su relación y provoca inseguridades entre ambos. Al mismo tiempo, Pick y Rome intentan comprender qué sienten realmente el uno por el otro, mientras la aparición de nuevas personas complica todavía más su relación. Entre celos, dudas y decisiones personales, las dos parejas tendrán que enfrentarse a lo que realmente sienten.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/77/e7/a0/77e7a00d388475e03e552fc768786b43.jpg",
+      "https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg",
+      "https://media.fstatic.com/4JfihAzguyaqqnHggKUw2_8nS5M%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2017/03/secret-love2_gmm.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=PSVqApjgVSk"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=5e_1r-7DqJA"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=U59mhy4oAJg",
+      "https://www.youtube.com/watch?v=5PchmOS55Wo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000005",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

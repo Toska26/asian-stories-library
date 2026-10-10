@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000218",
+  "titulo": "HIStory: Obsessed",
+  "tituloOriginal": "HIStory - 著魔",
+  "alias": [
+    "Obsessed",
+    "Zhe Mo"
+  ],
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 3
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2017-02-28",
+  "finalizacion": "2017-03-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Viaje temporal",
+    "Reencarnación",
+    "Universidad",
+    "Exparejas",
+    "Segunda oportunidad",
+    "Celos",
+    "Obsesión",
+    "Destino",
+    "Amor pasado"
+  ],
+  "personas": [
+    {
+      "nombre": "Jiang Jin Teng",
+      "persona": "PR000767",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shao Yi Chen",
+      "persona": "PR000768",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Jin Teng",
+        "Shao Yi Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Shao Yi Chen muere después de descubrir que su pareja de muchos años está a punto de casarse con otra persona. Sin embargo, en lugar de aceptar su destino, despierta nueve años atrás, cuando todavía era un estudiante universitario y su relación con Jiang Jin Teng aún no había comenzado. Decidido a cambiar su futuro, intenta mantenerse alejado de Jiang Jin Teng, pero sus sentimientos y las circunstancias vuelven a acercarlos.",
+  "entidades": [
+    {
+      "codigo": "EN000159",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000775",
+  "titulo": "2Wish",
+  "tituloOriginal": "2Wish The Series",
+  "alias": [
+    "2Wish The Series",
+    "2 Wish",
+    "Two Wish",
+    "2Wish Everlasting Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000042",
+    "orden": 4
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": "27 min",
+  "estado": "Finalizado",
+  "estreno": "2019-11-21",
+  "finalizacion": "2019-11-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Two",
+        "Wish"
+      ]
+    }
+  ],
+  "sinopsis": "Después de graduarse, Two y Wish comienzan a vivir juntos mientras afrontan su transición a la vida adulta. Two consigue un trabajo de oficina, mientras Wish sigue buscando empleo y se ocupa de las tareas domésticas. La llegada de Aoey, una popular influencer que trabaja con Two, provoca celos y pone a prueba la relación de la pareja.",
+  "activo": true
+}

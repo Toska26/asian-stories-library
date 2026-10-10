@@ -1,0 +1,25 @@
+{
+  "codigo": "DR000347",
+  "titulo": "Rewrite the Stars",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "sinopsis": "Una historia romántica que explora los sentimientos y las relaciones de sus protagonistas mientras intentan superar las circunstancias que se interponen entre ellos y encontrar una manera de escribir su propio destino.",
+  "activo": true
+}

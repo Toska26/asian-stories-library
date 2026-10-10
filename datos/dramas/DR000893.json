@@ -1,0 +1,275 @@
+{
+  "codigo": "DR000893",
+  "titulo": "My Universe",
+  "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล",
+  "alias": [
+    "My Universe The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-08-20",
+  "finalizacion": "2024-01-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Thriller",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "antología",
+    "historias independientes",
+    "romance",
+    "amistad",
+    "relaciones",
+    "parejas",
+    "universidad",
+    "instituto",
+    "familia",
+    "sobrenatural",
+    "misterio",
+    "comedia",
+    "drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khunkhao",
+        "Pluem"
+      ]
+    },
+    {
+      "personajes": [
+        "Tob",
+        "Boss"
+      ]
+    },
+    {
+      "personajes": [
+        "Phat",
+        "Mok"
+      ]
+    },
+    {
+      "personajes": [
+        "Butr",
+        "Korn"
+      ]
+    },
+    {
+      "personajes": [
+        "Meen",
+        "Jeng"
+      ]
+    },
+    {
+      "personajes": [
+        "Camp",
+        "Talay"
+      ]
+    },
+    {
+      "personajes": [
+        "Pun",
+        "Jay"
+      ]
+    },
+    {
+      "personajes": [
+        "Phim",
+        "Phon"
+      ]
+    },
+    {
+      "personajes": [
+        "Third",
+        "Pai"
+      ]
+    },
+    {
+      "personajes": [
+        "Pond",
+        "Mawin"
+      ]
+    }
+  ],
+  "sinopsis": "Antología tailandesa compuesta por doce historias independientes que exploran distintas formas de amor, amistad y relaciones. Las historias abarcan romance, comedia, drama, misterio y elementos sobrenaturales, siguiendo a diferentes parejas y personajes cuyas vidas quedan conectadas por el universo del amor.",
+  "especiales": [
+    {
+      "titulo": "Casanova Begins",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: เกิดใหม่อีกครั้งเป็นคาสโนว่า",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-08-20"
+    },
+    {
+      "titulo": "Marry Go Round",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: สับรางทางหัวใจ",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-09-03"
+    },
+    {
+      "titulo": "Right Time, Right You",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: ใช่ชอบบอกรัก",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-09-17"
+    },
+    {
+      "titulo": "You Are My Soulmate",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: เปิดกล้องบังไม่เอิญ",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-10-01"
+    },
+    {
+      "titulo": "Lucky Love",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: เสิร์ฟรัก",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-10-15"
+    },
+    {
+      "titulo": "The Camp Fire",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: แคมป์ผีมีรัก",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-10-29"
+    },
+    {
+      "titulo": "Friends Forever",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-11-12"
+    },
+    {
+      "titulo": "Fake Love",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: รักหรอกเลยหลอกรัก",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-11-26"
+    },
+    {
+      "titulo": "Pisces of Me",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-12-10"
+    },
+    {
+      "titulo": "1626",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: ใจนี้พี่จอง",
+      "tipo": "Historia",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-12-24"
+    },
+    {
+      "titulo": "Refund Love",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: รักนี้ต้องชำระ",
+      "tipo": "Historia",
+      "anio": 2024,
+      "episodios": 2,
+      "estreno": "2024-01-07"
+    },
+    {
+      "titulo": "I Wish You Love",
+      "tituloOriginal": "มาย Universe รักเราเท่าจักรวาล: อธิษฐานสานใจ",
+      "tipo": "Historia",
+      "anio": 2024,
+      "episodios": 2,
+      "estreno": "2024-01-21"
+    }
+  ],
+  "activo": true,
+  "relaciones": [
+    {
+      "tipo": "Antología",
+      "historia": "Casanova Begins",
+      "pareja": "Khunkhao / Pluem",
+      "episodio": 1
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Marry Go Round",
+      "pareja": "Tob / Boss",
+      "episodio": 2
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Right Time, Right You",
+      "pareja": "Phat / Mok",
+      "episodio": 3
+    },
+    {
+      "tipo": "Antología",
+      "historia": "You Are My Soulmate",
+      "pareja": "Butr / Korn",
+      "episodio": 4
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Lucky Love",
+      "pareja": "Meen / Jeng",
+      "episodio": 5
+    },
+    {
+      "tipo": "Antología",
+      "historia": "The Camp Fire",
+      "pareja": "Camp / Talay",
+      "episodio": 6
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Friends Forever",
+      "pareja": "Pun / Jay",
+      "episodio": 7
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Fake Love",
+      "pareja": "Phim / Phon",
+      "episodio": 8
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Pisces of Me",
+      "episodio": 9
+    },
+    {
+      "tipo": "Antología",
+      "historia": "1626",
+      "episodio": 10
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Refund Love",
+      "pareja": "Third / Pai",
+      "episodio": 11
+    },
+    {
+      "tipo": "Antología",
+      "historia": "I Wish You Love",
+      "pareja": "Pond / Mawin",
+      "episodio": 12
+    }
+  ]
+}

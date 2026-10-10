@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000986",
+  "titulo": "Flirt Milk",
+  "tituloOriginal": "รักรสนม(จืด)",
+  "alias": [
+    "The Taste of Fresh Milk",
+    "Flirt Milk The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "รักรสนม(จืด)",
+    "tituloOriginal": "รักรสนม(จืด)",
+    "autor": "arpo_novel",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-01-25",
+  "finalizacion": "2025-03-29",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Universitario",
+    "Fotografía",
+    "Cafetería",
+    "Amor juvenil",
+    "Friends to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nomjuet",
+        "Phra-ek"
+      ]
+    }
+  ],
+  "sinopsis": "Nomjuet es un estudiante universitario reservado que se incorpora a un club de fotografía, donde conoce a Phra-ek, un estudiante de primer año de personalidad extrovertida y estilo desaliñado. Cuando Nomjuet daña accidentalmente la cámara de Phra-ek, debe trabajar en Milk Bear Café para pagar la reparación. La convivencia y el tiempo compartido hacen que la relación entre ambos evolucione de una amistad incómoda a sentimientos románticos.",
+  "activo": true
+}

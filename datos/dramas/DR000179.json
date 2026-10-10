@@ -1,0 +1,92 @@
+{
+  "codigo": "DR000179",
+  "titulo": "Connect",
+  "tituloOriginal": "커넥트",
+  "alias": [
+    "Connect",
+    "Keonekteu"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000179",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2025-08-14",
+  "finalizacion": "2025-09-04",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance contemporáneo",
+    "Amigos en línea",
+    "Amigos a amantes",
+    "Internet",
+    "Relación virtual",
+    "Anonimato",
+    "Primer encuentro",
+    "Sanación",
+    "Apoyo emocional",
+    "Vida cotidiana"
+  ],
+  "personas": [
+    {
+      "nombre": "Ian",
+      "persona": "PR000715",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alt",
+      "persona": "PR000716",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ian",
+        "Alt"
+      ]
+    }
+  ],
+  "sinopsis": "Ian atraviesa una etapa difícil de su vida y encuentra consuelo en Alt, una persona a la que conoce únicamente a través de Internet. Con el paso del tiempo, sus conversaciones se convierten en una fuente de apoyo cada vez más importante y los sentimientos de Ian comienzan a ir más allá de la amistad. Incapaz de conformarse con una relación limitada a una pantalla, Ian decide proponerle a Alt un encuentro en el mundo real, enfrentándose al miedo de que conocerse cara a cara pueda cambiar aquello que han construido juntos.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/63KQxu9BNCkkK8Aj2o9BTSHMv9p.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=RZjyIU1UAa4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000143",
+  "titulo": "Star Struck",
+  "tituloOriginal": "스타스트럭",
+  "alias": [
+    "Star Struck",
+    "Starstruck"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2023-05-18",
+  "finalizacion": "2023-06-08",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amigos de la infancia",
+    "Primer amor",
+    "Amor no confesado",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Yoo Jae Heon",
+      "persona": "PR000639",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jo Yoo Jae",
+      "persona": "PR000640",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoo Jae Heon",
+        "Jo Yoo Jae"
+      ]
+    }
+  ],
+  "sinopsis": "Seo Han Joon y Jo Yoo Jae son amigos desde la infancia y han crecido juntos compartiendo una relación cada vez más cercana. Aunque sus sentimientos han ido cambiando con el paso de los años, ninguno de los dos se atreve a enfrentarse a lo que realmente siente por el otro. Cuando su amistad comienza a verse alterada por los celos y los cambios de su vida, ambos deben decidir si están preparados para convertir su vínculo en algo más.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/a7/b0/75/a7b0752cd3e7144c3695d4c0e6acd3da.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000113",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

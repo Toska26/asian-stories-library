@@ -1,0 +1,106 @@
+{
+  "codigo": "DR000109",
+  "titulo": "You Make Me Dance",
+  "tituloOriginal": "유 메이크 미 댄스",
+  "alias": [
+    "You Make Me Dance",
+    "Yoo Meikeu Mi Daenseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000109",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2021-02-26",
+  "finalizacion": "2021-03-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Danza",
+    "Ballet",
+    "Estudiante",
+    "Tutor",
+    "Familia",
+    "Sueños",
+    "Convivencia"
+  ],
+  "personas": [
+    {
+      "nombre": "Song Shi On",
+      "persona": "PR000577",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Hong Seok",
+      "persona": "PR000578",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Song Shi On",
+        "Jin Hong Seok"
+      ]
+    }
+  ],
+  "sinopsis": "Song Shi On es un estudiante de danza que lucha por mantener vivo su sueño de convertirse en bailarín profesional mientras afronta problemas económicos y familiares. Jin Hong Seok, un cobrador de deudas que ha abandonado sus propios sueños, entra inesperadamente en su vida y ambos comienzan a cambiar la forma en que entienden el amor y sus propias aspiraciones.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/29/63/1d/29631dbb91d50492bd4d3080ab1f343c.jpg",
+      "https://i.pinimg.com/1200x/c0/07/60/c007601bf09e057f7ee9dadd90f4b3bf.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=yj8f5GyQFA8"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=eLZqxmzPWzc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000068",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000059",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

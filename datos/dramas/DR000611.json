@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000611",
+  "titulo": "Ossan's Love",
+  "tituloOriginal": "おっさんずラブ",
+  "alias": [
+    "Ossan's Love Season 1",
+    "Ossan's Love (2018)"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000034",
+    "orden": 2
+  },
+  "serie": "SR000611",
+  "remake": {
+    "codigo": "RM000087",
+    "orden": 1
+  },
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2018-04-21",
+  "finalizacion": "2018-06-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Triángulo amoroso",
+    "Oficina",
+    "Compañeros de trabajo",
+    "Convivencia",
+    "Amor entre compañeros",
+    "Matrimonio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruta Soichi",
+        "Maki Ryota"
+      ]
+    }
+  ],
+  "sinopsis": "Haruta Soichi es un hombre soltero de 33 años que trabaja en una inmobiliaria y que desea casarse, aunque no tiene demasiado éxito en el amor. Su vida cambia cuando descubre que su jefe, Kurosawa Musashi, está enamorado de él y, al mismo tiempo, comienza a convivir con su nuevo compañero de trabajo, Maki Ryota, que también desarrolla sentimientos por él. Entre declaraciones inesperadas, convivencia y conflictos sentimentales, Haruta tendrá que descubrir qué significa realmente amar y con quién quiere compartir su vida.",
+  "activo": true
+}

@@ -1,0 +1,86 @@
+{
+  "codigo": "DR000868",
+  "titulo": "Coffee Melody",
+  "tituloOriginal": "เพลงที่รัก",
+  "alias": [
+    "Coffee Melody The Series",
+    "Phleng Thee Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Coffee Melody",
+    "tituloOriginal": "Coffee Melody",
+    "autor": "Gorachanok Boonma",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "35-47 min",
+  "estado": "Finalizado",
+  "estreno": "2022-07-18",
+  "finalizacion": "2022-09-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música",
+    "Mundo laboral"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Cafetería",
+    "Compositor",
+    "Música",
+    "Canciones de amor",
+    "Romance laboral",
+    "Primer amor",
+    "Bandas musicales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Duean Yi",
+        "Plengrak"
+      ]
+    },
+    {
+      "personajes": [
+        "Thitnuea",
+        "Jean"
+      ]
+    }
+  ],
+  "sinopsis": "Duean Yi, un famoso compositor, atraviesa un bloqueo creativo mientras intenta escribir una nueva canción de amor. Su inspiración cambia cuando conoce a Plengrak, el atractivo propietario de una cafetería. Mientras ambos descubren sus sentimientos y aprenden a confiar el uno en el otro, también se desarrollan otras historias de amor alrededor de la cafetería y de la banda Winter.",
+  "especiales": [
+    {
+      "titulo": "Coffee Melody Special Episode 1 — Pleng Ruk & Duan Yi",
+      "tituloOriginal": "Coffee Melody เพลงที่รัก Special Episode 1",
+      "alias": [
+        "Pleng Ruk & Duan Yi"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-12-18"
+    },
+    {
+      "titulo": "Coffee Melody Special Episode 2 — Tid Nuea & Jean",
+      "tituloOriginal": "Coffee Melody เพลงที่รัก Special Episode 2",
+      "alias": [
+        "Tid Nuea & Jean"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-12-25"
+    }
+  ],
+  "activo": true
+}

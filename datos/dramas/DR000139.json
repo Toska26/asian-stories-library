@@ -1,0 +1,121 @@
+{
+  "codigo": "DR000139",
+  "titulo": "Our Dating Sim",
+  "tituloOriginal": "우리 연애 시뮬레이션",
+  "alias": [
+    "Our Dating Simulation",
+    "Our Dating Sim"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "16 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-09",
+  "finalizacion": "2023-03-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Videojuegos",
+    "Oficina",
+    "Reencuentro",
+    "Primer amor",
+    "Amigos de la infancia"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Wan",
+      "persona": "PR000631",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shin Ki Tae",
+      "persona": "PR000632",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Wan",
+        "Shin Ki Tae"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Wan comienza a trabajar en una empresa de videojuegos y descubre que su nuevo jefe es Shin Ki Tae, su antiguo mejor amigo y primer amor. Después de haberse separado tras la graduación, ambos deben enfrentarse a los sentimientos que nunca llegaron a desaparecer mientras trabajan juntos en un nuevo proyecto de videojuego romántico.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/bd/20/47/bd204728901afbefe0a318de19101bfa.jpg",
+      "https://i.pinimg.com/1200x/2d/a0/fd/2da0fd2561e550fa49816fadc1fd4275.jpg",
+      "https://i.pinimg.com/1200x/54/ac/a6/54aca6312b589cbc58675731eab1e1c2.jpg",
+      "https://i.pinimg.com/1200x/04/35/49/0435499648b18d7df547906d25a57d9f.jpg",
+      "https://i.pinimg.com/1200x/26/99/84/2699849eddf3542ed6ee7161d16e6538.jpg",
+      "https://i.pinimg.com/736x/12/bf/a4/12bfa4307022f223a0a62360b4c0b500.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000101",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000100",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000109",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000090",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

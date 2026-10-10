@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000963",
+  "titulo": "Monster Next Door",
+  "tituloOriginal": "พี่เขาบุกโลกของผม",
+  "alias": [
+    "Monster Next Door",
+    "Godzilla Next Door",
+    "Phi Khao Buk Lok Khong Phom"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Godzilla Next Door",
+    "tituloOriginal": "พี่เขาบุกโลกของผม",
+    "autor": "Jiwinil",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 51,
+  "estado": "Finalizado",
+  "estreno": "2024-08-08",
+  "finalizacion": "2024-09-26",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Universitario",
+    "Vecinos",
+    "Introvertido y extrovertido",
+    "Cohabitación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Diew",
+        "God"
+      ]
+    }
+  ],
+  "sinopsis": "Diew es un estudiante introvertido que disfruta de la tranquilidad de su apartamento y de la compañía de su tortuga Khun Shy. Su vida cambia cuando God, un estudiante extrovertido y popular, se muda al apartamento vecino y comienza a organizar fiestas y reuniones que alteran el mundo tranquilo de Diew. Lo que empieza como un choque entre dos personalidades opuestas se convierte poco a poco en una relación de amistad y amor.",
+  "activo": true
+}

@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000975",
+  "titulo": "Sangmin Dinneaw",
+  "tituloOriginal": "ซังมิน ดินเหนียว",
+  "alias": [
+    "Sangmin Dinneaw",
+    "Sangmin Dinniew"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Intercambio estudiantil",
+    "Reencuentro",
+    "Familia",
+    "Amor juvenil",
+    "Enemies to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sangmin",
+        "Dinneaw"
+      ]
+    }
+  ],
+  "sinopsis": "Sangmin, un joven coreano que había vivido en Tailandia como estudiante de intercambio, regresa años después para visitar a su antigua madre anfitriona, Orn. Allí vuelve a encontrarse con Dinio, el hijo de Orn, que ha crecido desde su último encuentro. Al principio ambos chocan constantemente y sienten celos y rechazo mutuos, pero poco a poco empiezan a ayudarse y a desarrollar sentimientos mientras persiguen sus propios sueños.",
+  "activo": true
+}

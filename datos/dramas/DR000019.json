@@ -1,0 +1,180 @@
+{
+  "codigo": "DR000019",
+  "titulo": "En of Love: This Is Love Story",
+  "tituloOriginal": "เหนือนพระราม",
+  "alias": [
+    "This Is Love Story"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000006",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-06-06",
+  "finalizacion": "2020-06-20",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Nuea",
+      "persona": "PR000140",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Praram",
+      "persona": "PR000151",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gun Tossakan",
+      "persona": "PR000136",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bar Sarawat",
+      "persona": "PR000137",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mark",
+      "persona": "PR000138",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vee",
+      "persona": "PR000139",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tee",
+      "persona": "PR000142",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lee",
+      "persona": "PR000143",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yiwaa",
+      "persona": "PR000141",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jinny",
+      "persona": "PR000153",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Em",
+      "persona": "PR000154",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000155",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000156",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000028",
+      "personajes": [
+        "Nuea",
+        "Praram"
+      ]
+    }
+  ],
+  "sinopsis": "Nuea, un estudiante de Ingeniería conocido por su personalidad de playboy, se enamora de Praram, el hermano menor de Gun Tossakan. Decidido a conquistarle, Nuea tendrá que enfrentarse no solo a sus propios sentimientos, sino también a la preocupación de Gun por su hermano. Mientras intenta acercarse a Praram, los celos y las inseguridades pondrán a prueba la relación que ambos comienzan a construir.",
+  "multimedia": {
+    "portada": [
+      "https://images.justwatch.com/poster/186746175/s718/en-of-love-this-is-love-story.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=1hGIEHiOVns"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Emisora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

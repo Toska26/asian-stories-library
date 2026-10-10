@@ -1,0 +1,116 @@
+{
+  "codigo": "DR000061",
+  "titulo": "My Love Mix-Up!",
+  "tituloOriginal": "เขียนรักด้วยยางลบ",
+  "alias": [
+    "Khian Rak Duai Yanglop",
+    "Kieta Hatsukoi"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "remake": {
+    "codigo": "RM000061",
+    "orden": 2
+  },
+  "serie": "SR000061",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-06-07",
+  "finalizacion": "2024-08-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar",
+    "Juventud"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Kongthap",
+      "persona": "PR000522",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Atom",
+      "persona": "PR000523",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Half",
+      "persona": "PR000551",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mudmee",
+      "persona": "PR000552",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000084",
+      "personajes": [
+        "Kongthap",
+        "Atom"
+      ]
+    },
+    {
+      "ship": "SH000105",
+      "personajes": [
+        "Half",
+        "Mudmee"
+      ]
+    }
+  ],
+  "sinopsis": "Atom, un estudiante de instituto enamorado de su compañera Mudmee, descubre por accidente que ella ha escrito el nombre de Kongthap, un popular compañero, en su goma de borrar. Al intentar proteger el secreto de Mudmee, Atom provoca un malentendido que hace que Kongthap crea que él está enamorado de él. A partir de ahí, la confusión inicial da paso a una historia de amistad, descubrimiento personal y primer amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/ed/26/78/ed2678364dace8f4441cf58e1b74ce9b.jpg",
+      "https://i.pinimg.com/736x/bb/b1/1d/bbb11d18edf26739f1b69d775210f148.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=iaNysvrKOqk"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=40HWx_Uj_To",
+      "https://www.youtube.com/watch?v=seX0he6aJ7U",
+      "https://www.youtube.com/watch?v=9o3iVZGg28o",
+      "https://www.youtube.com/watch?v=Q2ieGZ0D8Ew",
+      "https://www.youtube.com/watch?v=uGIYu9PyJEU",
+      "https://www.youtube.com/watch?v=CK94AcazHJE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000152",
+  "titulo": "All the Liquors",
+  "tituloOriginal": "주류일절",
+  "alias": [
+    "All the Liquors",
+    "Liquor",
+    "Juryuiljeol"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "19 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-02",
+  "finalizacion": "2023-03-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Gastronomía",
+    "Restaurante",
+    "Chef",
+    "Alcohol",
+    "Trabajo",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Ji Yu",
+      "persona": "PR000656",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Park Ki Hoon",
+      "persona": "PR000657",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Ji Yu",
+        "Park Ki Hoon"
+      ]
+    }
+  ],
+  "sinopsis": "Han Ji Yu trabaja como especialista de marketing para una empresa de bebidas alcohólicas y necesita convencer al chef Park Ki Hoon para que permita vender sus productos en su restaurante. Ki Hoon se niega rotundamente a trabajar con alcohol, pero la insistencia de Ji Yu hace que ambos pasen cada vez más tiempo juntos. Entre discusiones, comidas y bebidas, la relación profesional comienza a transformarse en algo más.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/2a/58/84/2a58846903a22c055a90b130e172ed67.jpg",
+      "https://i.pinimg.com/736x/7c/51/b6/7c51b61bd6d5da8e8f88b7cceade63ce.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000106",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

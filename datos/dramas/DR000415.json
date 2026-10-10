@@ -1,0 +1,28 @@
+{
+  "codigo": "DR000415",
+  "titulo": "Bà 5 Bống",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "serie": "SR000415",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2019-01-19",
+  "finalizacion": "2019-02-02",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Familia",
+    "Restaurante",
+    "Tết",
+    "Humor"
+  ],
+  "sinopsis": "La historia gira alrededor de Bà 5 Bống y las situaciones cotidianas que se producen en torno a su familia y su restaurante durante el período del Tết.",
+  "activo": true
+}

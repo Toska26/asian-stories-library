@@ -1,0 +1,75 @@
+{
+  "codigo": "DR000074",
+  "titulo": "Heartbound",
+  "tituloOriginal": "สุดทางหัวใจ",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000074",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Gun",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aiyara",
+      "persona": "PR000073",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000087",
+      "personajes": [
+        "Gun",
+        "Aiyara"
+      ]
+    }
+  ],
+  "sinopsis": "Un accidente inesperado pone a un arquitecto en problemas con la persona equivocada: un empresario latino perteneciente a una familia mafiosa. Aunque sus personalidades son muy diferentes, la cercanía entre ambos hace que sus sentimientos crezcan.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/f9/44/27/f94427dbb0b5ef08799d9669283f0d35.jpg",
+      "https://i.pinimg.com/736x/5d/c8/b7/5dc8b79cb84d156e72ca62df77ecc831.jpg",
+      "https://i.pinimg.com/736x/74/48/3f/74483f57e4f267c7fede42b7591b1715.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=I1guVkLJ4mU"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

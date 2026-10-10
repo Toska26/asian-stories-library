@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000524",
+  "titulo": "Word of Honor",
+  "tituloOriginal": "山河令",
+  "alias": [
+    "Shan He Ling",
+    "Tian Ya Ke",
+    "天涯客",
+    "Faraway Wanderers",
+    "A Tale of the Wanderers"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Faraway Wanderers",
+    "tituloOriginal": "天涯客",
+    "autor": "Priest",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2021-02-22",
+  "finalizacion": "2021-05-05",
+  "generos": [
+    "BL",
+    "Bromance",
+    "Wuxia",
+    "Romance",
+    "Misterio",
+    "Drama",
+    "Acción",
+    "Aventura"
+  ],
+  "tags": [
+    "BL",
+    "Bromance",
+    "Danmei",
+    "Adaptación",
+    "Wuxia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhou Zishu",
+        "Wen Kexing"
+      ]
+    },
+    {
+      "personajes": [
+        "Gu Xiang",
+        "Cao Weining"
+      ]
+    }
+  ],
+  "sinopsis": "Zhou Zishu, antiguo líder de una organización de asesinos al servicio de la corte imperial, abandona su vida anterior buscando libertad. Durante su viaje conoce a Wen Kexing, misterioso maestro del Valle de los Fantasmas, y ambos quedan unidos mientras investigan una conspiración relacionada con un legendario arsenal y los conflictos del mundo de las artes marciales.",
+  "activo": true
+}

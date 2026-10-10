@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000400",
+  "titulo": "Sa Dulo't Dulo: Isinulat Para Magwakas",
+  "alias": [
+    "Sa Dulo’t Dulo: Isinulat Para Magwakas"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2026-08-16",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Running",
+    "Reencuentro",
+    "Exnovios",
+    "Ruptura",
+    "Primer amor",
+    "Segundas oportunidades",
+    "Pasado",
+    "Heridas emocionales",
+    "Perdón",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Joshua",
+        "Shan"
+      ]
+    }
+  ],
+  "sinopsis": "Joshua es un corredor reservado que se reencuentra inesperadamente con Shan, su exnovio, en un club local de running. El primer encuentro resulta tenso y vuelve a abrir heridas que Joshua creía enterradas. A medida que ambos continúan coincidiendo durante los entrenamientos semanales, los recuerdos de su relación resurgen y les obligan a enfrentarse a un pasado que ninguno de los dos ha conseguido superar completamente.",
+  "activo": true
+}

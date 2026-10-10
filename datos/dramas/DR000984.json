@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000984",
+  "titulo": "MU-TE-LUV: Love Me if You Swear",
+  "tituloOriginal": "9 วัด ปะล่ะ",
+  "alias": [
+    "Love Me if You Swear",
+    "MuTeLuv: Love Me if You Swear"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2026-02-09",
+  "finalizacion": "2026-03-02",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Rivales a amantes",
+    "Pandillas",
+    "Superstición",
+    "Templos",
+    "Promesas",
+    "Viaje"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tum",
+        "Oh"
+      ]
+    }
+  ],
+  "sinopsis": "Tum acaba de convertirse en líder de la banda Nuea-in gracias a un ritual supersticioso, pero poco después empieza a sufrir una racha de mala suerte. Cuando Oh, líder de una banda rival, roba el emblema de su grupo, sus compañeros comienzan a cuestionar su capacidad para dirigirlos. Tum descubre que sus problemas están relacionados con una promesa que no cumplió y emprende un recorrido por nueve templos para saldarla. Por casualidad, Oh también se encuentra realizando una peregrinación similar y ambos se ven obligados a viajar juntos, transformando su rivalidad en una relación cada vez más cercana.",
+  "activo": true
+}

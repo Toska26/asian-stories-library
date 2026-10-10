@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000163",
+  "titulo": "Eccentric Romance",
+  "tituloOriginal": "기이한 로맨스",
+  "alias": [
+    "Eccentric Romance",
+    "Giyi-han Romaenseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000004",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2024-10-10",
+  "finalizacion": "2024-11-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Colaboración Corea–Tailandia",
+    "Universidad",
+    "Amigos a amantes",
+    "Amor secreto",
+    "Misterio",
+    "Crimen",
+    "Asesinato"
+  ],
+  "personas": [
+    {
+      "nombre": "Jay",
+      "persona": "PR000679",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seong Hun",
+      "persona": "PR000678",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jay",
+        "Seong Hun"
+      ]
+    }
+  ],
+  "sinopsis": "Jay y Seong Hun se conocen desde hace muchos años y, aunque sus sentimientos han ido más allá de la amistad, ninguno se ha atrevido a confesarlos. Ahora ambos son compañeros de universidad y su relación comienza a cambiar mientras intentan ocultar lo que sienten. La situación se complica cuando ocurre un asesinato en la ciudad y el caso parece guardar una conexión inesperada con ellos.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=Omw_cqxJ3kg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000128",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

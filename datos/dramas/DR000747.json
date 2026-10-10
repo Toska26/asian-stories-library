@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000747",
+  "titulo": "Make It Right 2026",
+  "tituloOriginal": "รักออกเดิน 2026",
+  "alias": [
+    "Make It Right: The Series 2026",
+    "Rak Ok Doen 2026",
+    "Rak Auk Dern 2026"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000744",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "60 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-17",
+  "finalizacion": "2026-10-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fuse",
+        "Tee"
+      ]
+    }
+  ],
+  "sinopsis": "Nueva adaptación de Make It Right centrada en Fuse y Tee, dos estudiantes de instituto cuya amistad cambia después de una noche inesperada. La historia explora su relación y las de sus compañeros mientras afrontan el amor, la identidad, los conflictos familiares y el paso a la madurez.",
+  "activo": true
+}

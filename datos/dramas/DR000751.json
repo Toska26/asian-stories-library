@@ -1,0 +1,63 @@
+{
+  "codigo": "DR000751",
+  "titulo": "My Bromance 2: 5 Years Later",
+  "tituloOriginal": "พี่ชาย My Bromance 2 : 5 Years Later",
+  "alias": [
+    "My Bromance 2: 5 Years Later The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000043",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2020-12-09",
+  "finalizacion": "2021-02-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Golf",
+        "Bank"
+      ]
+    },
+    {
+      "personajes": [
+        "Bank",
+        "Arm"
+      ]
+    },
+    {
+      "personajes": [
+        "Tar",
+        "Nuefar"
+      ]
+    },
+    {
+      "personajes": [
+        "Hungray",
+        "Meka"
+      ]
+    },
+    {
+      "personajes": [
+        "Nut",
+        "Arkung"
+      ]
+    }
+  ],
+  "sinopsis": "Cinco años después de que Golf fuera dado por muerto, Bank descubre que su hermanastro sigue vivo. Mientras intenta rehacer su vida junto a su novio Arm, el reencuentro con Golf hace resurgir los sentimientos que ambos habían mantenido durante años.",
+  "activo": true
+}

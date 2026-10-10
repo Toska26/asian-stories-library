@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000270",
+  "titulo": "Gameboys",
+  "tituloOriginal": "Gameboys",
+  "alias": [
+    "Gameboys: Season 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000270",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2020-05-22",
+  "finalizacion": "2020-09-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Videojuegos",
+    "Streaming",
+    "Internet",
+    "Rivales",
+    "Amistad",
+    "Romance",
+    "Pandemia",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cairo Lazaro",
+        "Gavreel Alarcon"
+      ]
+    }
+  ],
+  "sinopsis": "Cairo es un popular streamer de videojuegos que recibe el desafío de un jugador desconocido llamado Gavreel. Lo que comienza como una rivalidad online se transforma gradualmente en una amistad y posteriormente en una relación romántica mientras ambos afrontan las dificultades personales y familiares de la pandemia.",
+  "activo": true
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000995",
+  "titulo": "Eye Contact",
+  "tituloOriginal": "เพียงสบตา",
+  "alias": [
+    "Eye Contact The Series",
+    "Piang Sob Ta",
+    "Phiang Sob Ta",
+    "เพียงสบตา The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Eye Contact",
+    "tituloOriginal": "เพียงสบตา",
+    "autor": "Nu",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 52,
+  "estado": "Finalizado",
+  "estreno": "2025-05-14",
+  "finalizacion": "2025-06-18",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación",
+    "Universitario",
+    "Amor juvenil",
+    "Amigos",
+    "Destino",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Nu"
+      ]
+    },
+    {
+      "personajes": [
+        "Chain",
+        "Nu"
+      ]
+    }
+  ],
+  "sinopsis": "Nu es un estudiante universitario tímido y de aspecto nerd que lleva gafas. Su vida cambia cuando casi es atropellado por Sun, un estudiante de segundo año de medicina y uno de los chicos más populares de la universidad. Un simple intercambio de miradas desencadena una serie de acontecimientos que acercan a ambos, mientras Chain, antiguo amigo de Sun, también desarrolla sentimientos por Nu.",
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000588",
+  "titulo": "Love After Addiction",
+  "tituloOriginal": "许你十年",
+  "alias": [
+    "Xu Ni Shi Nian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2026-02-06",
+  "finalizacion": "2026-03-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Actor y civil",
+    "Insomnio",
+    "Isla",
+    "Dependencia emocional",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "You Xi",
+        "Yang Meng"
+      ]
+    }
+  ],
+  "sinopsis": "You Xi, un actor famoso cuya carrera se encuentra en crisis debido a varios escándalos y a un insomnio crónico, participa en un programa de variedades en una isla. Allí se reencuentra con Yang Meng, antiguo compañero de estudios y capitán de un equipo de rescate. Al descubrir que solo consigue dormir a su lado, You Xi se acerca a él bajo el pretexto de tratar su insomnio, pero la relación acaba convirtiéndose en un vínculo amoroso.",
+  "activo": true
+}

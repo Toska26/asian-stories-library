@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000530",
+  "titulo": "I Don’t Want to Be Brothers with You",
+  "tituloOriginal": "我要和你做兄弟",
+  "alias": [
+    "Wo Yao He Ni Zuo Xiong Di",
+    "I Want to Be Brothers with You",
+    "I Don’t Want to Be Your Brother"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000017",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2022-01-29",
+  "finalizacion": "2022-03-01",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Juventud",
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Bromance",
+    "Universo compartido",
+    "Instituto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gao Yang",
+        "Ye Xiaowen"
+      ]
+    }
+  ],
+  "sinopsis": "El rebelde Gao Yang conoce a Ye Xiaowen, un estudiante reservado y aplicado que se convierte inesperadamente en su compañero de clase y de hogar. Los dos jóvenes, con personalidades completamente opuestas, terminan convirtiéndose en hermanos de elección mientras atraviesan la adolescencia, los conflictos familiares y las dificultades de la vida escolar.",
+  "activo": true
+}

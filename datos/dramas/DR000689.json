@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000689",
+  "titulo": "Mr. Mitsuya's Planned Feeding",
+  "tituloOriginal": "三ツ矢先生の計画的な餌付け。",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Mr. Mitsuya's Planned Feeding",
+    "tituloOriginal": "三ツ矢先生の計画的な餌付け。",
+    "autor": "Ayaka Matsumoto",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2024-07-25",
+  "finalizacion": "2024-09-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Gastronomía"
+  ],
+  "tags": [
+    "BL",
+    "Diferencia de edad",
+    "Cocina",
+    "Trabajo",
+    "Vida cotidiana",
+    "Chef"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ishida Tomoya",
+        "Mitsuya Ayumu"
+      ]
+    }
+  ],
+  "sinopsis": "Tomoya Ishida, un joven editor de revistas, comienza a trabajar con Ayumu Mitsuya, un reconocido investigador culinario de mayor edad. A través de la comida y de una convivencia cada vez más cercana, ambos empiezan a descubrir sentimientos que van más allá de la admiración profesional.",
+  "activo": true
+}

@@ -1,0 +1,132 @@
+{
+  "codigo": "DR000092",
+  "titulo": "Memoir of Rati",
+  "tituloOriginal": "จาฤกรติชา",
+  "alias": [
+    "Memoir Of Rati",
+    "Jarak Rati Cha"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000092",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "60 min",
+  "estado": "Finalizado",
+  "estreno": "2025-06-20",
+  "finalizacion": "2025-09-05",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "BL",
+    "Época",
+    "Siam",
+    "Aristocracia",
+    "Diferencias sociales",
+    "Amor prohibido",
+    "Francia",
+    "Intérprete"
+  ],
+  "personas": [
+    {
+      "nombre": "Rati",
+      "persona": "PR000562",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Theeratorn",
+      "persona": "PR000559",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mek",
+      "persona": "PR000533",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dech",
+      "persona": "PR000534",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000114",
+      "personajes": [
+        "Rati",
+        "Theeratorn"
+      ]
+    },
+    {
+      "ship": "SH000092",
+      "personajes": [
+        "Mek",
+        "Dech"
+      ]
+    }
+  ],
+  "sinopsis": "Rati, un huérfano de origen humilde que fue criado bajo la protección de una familia aristocrática, regresa a Siam después de veinte años como intérprete de la embajada francesa. Allí conoce a Theeratorn, un noble que ocupa un alto cargo en el Ministerio de Educación. Lo que comienza como un encuentro marcado por el amor a primera vista se transforma en una relación que debe enfrentarse a las diferencias sociales y a las restricciones de la sociedad de la época. Al mismo tiempo, Mek, un humilde trabajador, desarrolla una relación con Dech, un joven aristócrata cuya posición social amenaza con convertirse en un obstáculo para ambos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/9a/b4/f6/9ab4f671bed700e21751b9912e782767.jpg",
+      "https://i.pinimg.com/736x/08/37/ee/0837ee9dec828d536cf6b5e7e2d2d3d0.jpg",
+      "https://i.pinimg.com/736x/fe/55/ee/fe55eeda58bcf666becf0d65a496786f.jpg",
+      "https://i.pinimg.com/1200x/8d/eb/97/8deb9745d0069cd9a263046041f58520.jpg",
+      "https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FatpWS19QH1HOwaUrw2cxyEW6ay3.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=o1vKWWNFaTI"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=OZ-PXZVPZck"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=qxBmzCnwJcE",
+      "https://www.youtube.com/watch?v=C3cTRd79oeU",
+      "https://www.youtube.com/watch?v=o2vH_wey7nc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

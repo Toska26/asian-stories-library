@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000901",
+  "titulo": "Crazy Handsome Rich",
+  "tituloOriginal": "บ้านชายมอง",
+  "alias": [
+    "Crazy Handsome Rich The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2023-08-27",
+  "finalizacion": "2023-10-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Familia rica",
+    "Mayordomo",
+    "Diferencias sociales",
+    "Amor entre clases sociales",
+    "Destino",
+    "Flechazo",
+    "Familia",
+    "Hermanos",
+    "Comedia romántica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thad",
+        "Luv"
+      ]
+    }
+  ],
+  "sinopsis": "Luv es un joven de origen humilde que acepta trabajar como mayordomo para una familia extremadamente rica. Allí conoce a Thad, uno de los hijos de la familia, que queda fascinado por él desde el primer momento. Las diferencias sociales, las estrictas reglas de la mansión y los secretos familiares complican una relación que parece estar marcada por el destino.",
+  "activo": true
+}

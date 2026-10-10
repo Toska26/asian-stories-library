@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000885",
+  "titulo": "To Sir, With Love",
+  "tituloOriginal": "คุณชาย",
+  "alias": [
+    "Khun Chai",
+    "Khun Chai The Series",
+    "To Sir With Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 17,
+  "duracion": "65-75 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-03",
+  "finalizacion": "2022-11-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Familia"
+  ],
+  "tags": [
+    "Drama de época",
+    "Tailandia de los años 30",
+    "Familia chino-tailandesa",
+    "Familia poderosa",
+    "Herencia",
+    "Rivalidad familiar",
+    "Amor prohibido",
+    "Homofobia",
+    "Secretos familiares",
+    "Matrimonio concertado",
+    "Diferencia de clases",
+    "Intriga familiar",
+    "Veneno",
+    "Asesinato"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thian",
+        "Jiu"
+      ]
+    }
+  ],
+  "sinopsis": "En el Siam de los años 30, la familia Song lidera el Gremio de los Cinco Dragones y mantiene una posición de enorme poder dentro de la comunidad chino-tailandesa. Thian, el hijo mayor de Song, está destinado a convertirse en el heredero de la familia, pero guarda un secreto que podría destruir su futuro: está enamorado de otro hombre. Cuando conoce a Jiu, un joven de origen humilde, sus sentimientos se hacen imposibles de ignorar. Mientras tanto, las rivalidades entre las esposas de Song y sus hijos desencadenan una lucha por la herencia marcada por secretos, manipulaciones, asesinatos y prejuicios. Thian tendrá que elegir entre cumplir con el deber impuesto por su familia o luchar por el amor que siente por Jiu.",
+  "activo": true
+}

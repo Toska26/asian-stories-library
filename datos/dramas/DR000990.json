@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000990",
+  "titulo": "Last Meal Universe",
+  "tituloOriginal": "อาหารมื้อสุดท้ายก่อนโลกกลายเป็นทางด่วนอวกาศ",
+  "alias": [
+    "Last Meal Universe The Series",
+    "The Last Meal Before the World Turns into Galaxy Expressway",
+    "Ahan Mue Sutthai Kon Lok Klai Pen Thang Duang Awakat"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Last Meal before the World Turns into Galaxy Expressway",
+    "tituloOriginal": "อาหารมื้อสุดท้ายก่อนโลกกลายเป็นทางด่วนอวกาศ",
+    "autor": "Patrick Rangsimant",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2025-03-02",
+  "finalizacion": "2025-04-27",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Adaptación",
+    "Alienígenas",
+    "Fin del mundo",
+    "Restaurante",
+    "Comida",
+    "Extraterrestres",
+    "Destino"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chondan",
+        "Shun"
+      ]
+    }
+  ],
+  "sinopsis": "Shun es un ingeniero civil galáctico enviado a la Tierra con la misión de demoler el planeta para construir una autopista interestelar. Al llegar conoce a Chondan, propietario de un pequeño restaurante tailandés, cuya comida despierta en él un interés inesperado por la vida humana. Mientras Shun retrasa en secreto la destrucción de la Tierra para seguir disfrutando de las comidas de Chondan, ambos desarrollan una relación que termina poniendo en cuestión la misión que debía cumplir.",
+  "activo": true
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000171",
+  "titulo": "My Bias Is Showing?!",
+  "tituloOriginal": "최애가 나타났다!",
+  "alias": [
+    "My Bias Is Showing?!",
+    "My Bias Appeared?!",
+    "Choeaega Natanatda"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "23 min",
+  "estado": "Finalizado",
+  "estreno": "2025-08-28",
+  "finalizacion": "2025-09-25",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Profesor",
+    "Idol",
+    "Famoso",
+    "Fan",
+    "Amor secreto",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin-woo",
+      "persona": "PR000694",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang-min",
+      "persona": "PR000576",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Na Ae-jun",
+        "Choi Si-yeol"
+      ]
+    }
+  ],
+  "sinopsis": "Na Ae-jun es profesor de matemáticas en un instituto y mantiene en secreto que es un gran fan de Choi Si-yeol, miembro del grupo idol A-One. Cuando un programa de variedades comienza a grabarse en su escuela, Ae-jun se encuentra de repente con su ídolo y termina siendo elegido como su compañero de programa. Mientras intenta ocultar su entusiasmo de fan, Si-yeol empieza a acercarse cada vez más a él y la frontera entre admiración y amor comienza a desaparecer.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=A9_x95pMWLg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000125",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

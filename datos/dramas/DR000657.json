@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000657",
+  "titulo": "The 8.2 Second Rule",
+  "tituloOriginal": "8.2秒の法則",
+  "alias": [
+    "8.2 Byo no Hosoku",
+    "Law of Seconds"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2022-06-10",
+  "finalizacion": "2022-06-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Pastelería",
+    "Cocina",
+    "Amor a primera vista",
+    "Amores episódicos",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Amai Koichi",
+        "Aoyama"
+      ]
+    }
+  ],
+  "sinopsis": "Amai Koichi es un estudiante de instituto apasionado por la repostería que cree en la llamada regla de los 8,2 segundos: si dos personas se miran durante ese tiempo, pueden enamorarse. Mientras conoce a diferentes chicos con problemas personales, Amai intenta ayudarlos mediante sus dulces y termina descubriendo sus propios sentimientos.",
+  "activo": true
+}

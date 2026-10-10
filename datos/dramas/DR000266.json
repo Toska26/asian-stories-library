@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000266",
+  "titulo": "Hello Stranger",
+  "tituloOriginal": "Hello Stranger",
+  "alias": [
+    "Hello, Stranger"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "franquicia": {
+    "codigo": "FR000023",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-06-24",
+  "finalizacion": "2020-08-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Universidad",
+    "Enemigos a amantes",
+    "Romance",
+    "Amistad",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xavier de Guzman",
+        "Mico Ramos"
+      ]
+    }
+  ],
+  "sinopsis": "Mico y Xavier, dos estudiantes con personalidades muy diferentes, se conocen durante un proyecto escolar y comienzan una relación marcada inicialmente por sus choques y diferencias. Mientras pasan más tiempo juntos, su vínculo evoluciona de la amistad hacia el amor.",
+  "activo": true
+}

@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000760",
+  "titulo": "2 Moons 2",
+  "tituloOriginal": "เดือนเกี้ยวเดือน 2",
+  "alias": [
+    "2 Moons 2: The Series",
+    "2Moons2",
+    "2 Moons 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "serie": "SR000759",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2019-06-29",
+  "finalizacion": "2019-09-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phana",
+        "Wayo"
+      ]
+    },
+    {
+      "personajes": [
+        "Ming",
+        "Kit"
+      ]
+    },
+    {
+      "personajes": [
+        "Forth",
+        "Beam"
+      ]
+    }
+  ],
+  "sinopsis": "Wayo vuelve a encontrarse con Phana en la universidad y ambos continúan desarrollando su relación. La primera parte de la temporada vuelve a contar los acontecimientos principales de 2 Moons con un reparto nuevo, mientras que los episodios posteriores continúan la historia. Paralelamente, Ming profundiza su relación con Kit y Forth comienza a desarrollar una relación romántica con Beam.",
+  "activo": true
+}

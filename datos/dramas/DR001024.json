@@ -1,0 +1,44 @@
+{
+  "codigo": "DR001024",
+  "titulo": "Me and Thee",
+  "tituloOriginal": "มีสติหน่อยคุณธีร์",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000050",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Me and Thee",
+    "tituloOriginal": "มีสติหน่อยคุณธีร์",
+    "autor": "laWila",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2025-11-15",
+  "finalizacion": "2026-01-17",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Thee and Thee",
+      "fecha": "2026-01-24"
+    }
+  ],
+  "sinopsis": "Thee, un poderoso empresario con una personalidad intensa y obsesiva, conoce a Peach, un joven fotógrafo de espíritu libre que termina alterando por completo su vida. Lo que comienza como una relación complicada acaba convirtiéndose en una historia de amor inesperada.",
+  "activo": true
+}

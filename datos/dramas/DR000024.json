@@ -1,0 +1,322 @@
+{
+  "codigo": "DR000024",
+  "titulo": "TharnType",
+  "tituloOriginal": "เกลียดนักมาเป็นที่รักกันซะดีๆ",
+  "alias": [
+    "TharnType: The Series",
+    "TharnType The Series",
+    "TharnType: If You Hate Me That Much, I Should Make You Become My Lover"
+  ],
+  "tipo": "Drama",
+  "anio": 2019,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000008",
+    "orden": 3
+  },
+  "universo": "UN000001",
+  "serie": "SR000024",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2019-10-07",
+  "finalizacion": "2020-01-06",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tharn",
+      "persona": "PR000224",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Type",
+      "persona": "PR000225",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Techno",
+      "persona": "PR000226",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lhong",
+      "persona": "PR000227",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tum",
+      "persona": "PR000228",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tar",
+      "persona": "PR000229",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ",
+      "persona": "PR000230",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thorn",
+      "persona": "PR000231",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khlui",
+      "persona": "PR000232",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Seo",
+      "persona": "PR000233",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Technic",
+      "persona": "PR000234",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khom",
+      "persona": "PR000235",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "San",
+      "persona": "PR000236",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Puifai",
+      "persona": "PR000237",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oam",
+      "persona": "PR000238",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mac",
+      "persona": "PR000239",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Team",
+      "persona": "PR000240",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mai",
+      "persona": "PR000241",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tae",
+      "persona": "PR000242",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Padre de Tharn",
+      "persona": "PR000243",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Tharn",
+      "persona": "PR000244",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Padre de Type",
+      "persona": "PR000245",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Type",
+      "persona": "PR000246",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thanya",
+      "persona": "PR000247",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000257",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000259",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000260",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000039",
+      "personajes": [
+        "Tharn",
+        "Type"
+      ]
+    }
+  ],
+  "sinopsis": "Tharn y Type son compañeros de habitación en la universidad, pero su convivencia comienza de forma complicada cuando Type descubre que Tharn es gay. Debido a un trauma de la infancia, Type siente un profundo rechazo hacia los hombres homosexuales y decide que Tharn debe abandonar la habitación. Sin embargo, Tharn se niega a marcharse y, a medida que ambos se conocen mejor, la hostilidad inicial comienza a transformarse en sentimientos que ninguno de los dos esperaba. Mientras su relación evoluciona, también deberán enfrentarse a los conflictos de sus amigos, sus familias y su propio pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/54/0b/19/540b190988e1f419149bbcadb0ad77b5.jpg",
+      "https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2019_poster.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=mHnEfVjdtRs"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000011",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Lhong's Story",
+      "tituloOriginal": "Lhong's Story",
+      "alias": [
+        "TharnType Special: Lhong's Story",
+        "Lhong Story",
+        "Episode 11.5"
+      ],
+      "tipo": "Especial",
+      "anio": 2019,
+      "episodios": 1,
+      "estreno": "2019-12-23"
+    },
+    {
+      "titulo": "Our Final Love",
+      "tituloOriginal": "Our Final Love",
+      "alias": [
+        "TharnType Special: Our Final Love",
+        "TharnType Special",
+        "รักสุดท้ายของเรา"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 1,
+      "estreno": "2020-01-19"
+    }
+  ],
+  "activo": true
+}

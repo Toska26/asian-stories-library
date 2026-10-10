@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000312",
+  "titulo": "Jack & Jill",
+  "alias": [
+    "Jack and Jill",
+    "Jack & Jill: A Micro BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 9,
+  "estado": "Finalizado",
+  "estreno": "2021-07-24",
+  "finalizacion": "2021-07-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Cuarentena",
+    "One-night stand",
+    "Microserie"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jack Ramirez",
+        "Jill/Jillian Roxas"
+      ]
+    }
+  ],
+  "sinopsis": "Jack Ramirez, un popular influencer del mundo del fitness, conoce a Jillian Roxas después de que este se acerque a él con la excusa de ofrecerle unos brownies. Lo que comienza como un encuentro casual y una noche juntos cambia cuando ambos quedan atrapados durante el confinamiento y empiezan a desarrollar sentimientos reales. Sin embargo, Jack mantiene una relación previa y trata de convencerse de que lo ocurrido entre ellos no fue más que una aventura.",
+  "activo": true
+}

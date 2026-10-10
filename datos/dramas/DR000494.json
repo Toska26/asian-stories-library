@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000494",
+  "titulo": "Our Golden Times",
+  "tituloOriginal": "如果我願意",
+  "alias": [
+    "Our Golden Times",
+    "如果我願意"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2024-09-09",
+  "finalizacion": "2024-10-14",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Romance",
+    "Reencuentro",
+    "Primer amor",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "George",
+        "Mike"
+      ]
+    }
+  ],
+  "sinopsis": "Un hombre comprometido vuelve a encontrarse con su antiguo amor de juventud. El reencuentro despierta sentimientos que habían quedado atrás y le obliga a enfrentarse a las decisiones tomadas durante los años que pasaron separados.",
+  "activo": true
+}

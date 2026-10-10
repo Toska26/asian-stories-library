@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000265",
+  "titulo": "Black and White Is Real",
+  "tituloOriginal": "黑白原來是真的",
+  "alias": [
+    "Hei Bai Yuan Lai Shi Zhen De"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "franquicia": {
+    "codigo": "FR000022",
+    "orden": 1
+  },
+  "universo": "UN000007",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 77,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2025-10-27",
+  "finalizacion": "2025-12-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Showbiz",
+    "Actores",
+    "Rivales",
+    "Enemies to lovers",
+    "Publicidad",
+    "Convivencia",
+    "Fama",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hei Yan",
+        "Bai Xing"
+      ]
+    },
+    {
+      "personajes": [
+        "Chen Xiao An",
+        "Lin Bing Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Hei Yan y Bai Xing son dos figuras del mundo del entretenimiento que compiten por una campaña publicitaria hasta que terminan siendo elegidos para interpretar juntos una pareja masculina. Lo que comienza como una relación profesional marcada por la rivalidad y los choques de personalidad evoluciona hacia una relación romántica. Paralelamente, los representantes Chen Xiao An y Lin Bing Chen deben enfrentarse a su propio pasado y a los sentimientos que todavía existen entre ellos.",
+  "activo": true
+}

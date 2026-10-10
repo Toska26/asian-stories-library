@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000289",
+  "titulo": "Boys' Lockdown",
+  "alias": [
+    "Boys' Lockdown: The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 26,
+  "estado": "Finalizado",
+  "estreno": "2020-10-18",
+  "finalizacion": "2020-11-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Key",
+        "Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Durante la cuarentena, Key y Chen se conocen y comienzan a conectar a pesar de las restricciones, los desafíos y las dificultades provocadas por la pandemia.",
+  "activo": true
+}

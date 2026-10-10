@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000750",
+  "titulo": "My Bromance: The Series",
+  "tituloOriginal": "พี่ชาย เดอะซีรีส์",
+  "alias": [
+    "Phi Chai The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2016,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2016-12-11",
+  "finalizacion": "2017-02-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Golf",
+        "Bank"
+      ]
+    }
+  ],
+  "sinopsis": "Ocho años después de su separación, Golf y Bank regresan a casa. Bank mantiene una relación con su novio Jackson y está a punto de comprometerse, pero el reencuentro con Golf hace que resurjan los sentimientos que ambos creían haber dejado atrás.",
+  "activo": true
+}

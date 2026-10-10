@@ -1,0 +1,117 @@
+{
+  "codigo": "DR000147",
+  "titulo": "Why R U?",
+  "tituloOriginal": "WHY R U?",
+  "alias": [
+    "Why R U?",
+    "Why R U? Korean Version",
+    "Why R U? The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "remake": {
+    "codigo": "RM000786",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2023-08-24",
+  "finalizacion": "2023-09-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Estudiantes",
+    "Amistad",
+    "Romance",
+    "Comedia",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Won",
+      "persona": "PR000628",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Ji Oh",
+      "persona": "PR000647",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Won",
+        "Kim Ji Oh"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Won y Ji Oh mantienen una relación complicada mientras intentan sobrevivir a la vida universitaria y a los sentimientos que empiezan a surgir entre ellos. A medida que las situaciones románticas y los malentendidos se acumulan, ambos deben enfrentarse a lo que realmente sienten mientras su círculo de amigos también se ve envuelto en sus relaciones.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/b4/7e/cd/b47ecdf0f91870ca0aed883e5002ded3.jpg",
+      "https://i.pinimg.com/1200x/54/69/c6/5469c6d442d07da2983c055bf759eec3.jpg",
+      "https://i.pinimg.com/1200x/b4/7d/3e/b47d3ec55b01caaea1db4cf2e7116277.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=5ZaQv9bg0is",
+      "https://www.youtube.com/watch?v=z82lc_JSPY4",
+      "https://www.youtube.com/watch?v=3vlLGTOGsMo",
+      "https://www.youtube.com/watch?v=Xrtw5xjJwQA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

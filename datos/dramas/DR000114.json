@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000114",
+  "titulo": "My Sweet Dear",
+  "tituloOriginal": "마이 스윗 디어",
+  "alias": [
+    "My Sweet Dear",
+    "Mai Seuwit Dieo"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000114",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "13 min",
+  "estado": "Finalizado",
+  "estreno": "2021-10-21",
+  "finalizacion": "2021-11-11",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Chef",
+    "Restaurante",
+    "Enemies to lovers",
+    "Rivalidad",
+    "Trabajo"
+  ],
+  "personas": [
+    {
+      "nombre": "Yoon Do Gun",
+      "persona": "PR000584",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Choi Jung Woo",
+      "persona": "PR000568",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoon Do Gun",
+        "Choi Jung Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Yoon Do Gun es el chef principal de Laura Dining, un restaurante de prestigio. Su forma creativa de entender la cocina choca con la visión comercial de la propietaria, que contrata a Choi Jung Woo, un chef talentoso especializado en reproducir recetas de éxito. La rivalidad entre ambos acaba transformándose en una relación mucho más personal.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/9f/c9/76/9fc976c29920a66a8b6c72a78b2a009f.jpg",
+      "https://i.pinimg.com/736x/ed/0a/45/ed0a45a775489ded5350056f30a250ec.jpg",
+      "https://i.pinimg.com/736x/71/38/9c/71389cac8015a364c307b6910f98aacb.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=O4G5I_J-jy8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

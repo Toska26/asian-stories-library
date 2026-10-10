@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000831",
+  "titulo": "Hidden Love",
+  "alias": [
+    "Hidden Love The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": "44 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-14",
+  "finalizacion": "2021-06-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Misterio",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Universidad",
+    "Residencia universitaria",
+    "Fantasmas",
+    "Leyenda urbana",
+    "Misterio",
+    "Convivencia",
+    "Amistad",
+    "Romance",
+    "Sobrenatural"
+  ],
+  "sinopsis": "Un grupo de estudiantes debe vivir durante dos semanas en una residencia universitaria marcada por una antigua leyenda y por la historia de un amor trágico ocurrido años atrás. Mientras intentan descubrir qué sucedió realmente, los acontecimientos sobrenaturales hacen que sus relaciones personales y románticas se vuelvan cada vez más complicadas.",
+  "activo": true
+}

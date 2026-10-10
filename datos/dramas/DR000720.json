@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000720",
+  "titulo": "Takumi-kun Series -Drama-",
+  "tituloOriginal": "タクミくんシリーズ －Drama－",
+  "alias": [
+    "Takumi-kun Series Drama"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 7
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2025-09-21",
+  "finalizacion": "2025-10-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    },
+    {
+      "personajes": [
+        "Takabayashi Izumi",
+        "Yoshizawa Michio"
+      ]
+    }
+  ],
+  "sinopsis": "Takumi y Gii comienzan el segundo curso como pareja y compañeros de habitación. Mientras ambos afrontan las dificultades derivadas del miedo de Takumi al contacto físico, otras relaciones románticas se desarrollan dentro de la Academia Shidō, especialmente la de Takabayashi y Yoshizawa.",
+  "activo": true
+}

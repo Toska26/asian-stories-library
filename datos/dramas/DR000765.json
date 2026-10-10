@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000765",
+  "titulo": "My Dear Loser: Happy Ever After",
+  "tituloOriginal": "My Dear Loser รักไม่เอาถ่าน ตอน Happy Ever After",
+  "alias": [
+    "Happy Ever After",
+    "My Dear Loser: Happy Ever After"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "serie": "SR000763",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2017-12-24",
+  "finalizacion": "2018-03-11",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ton",
+        "Koya"
+      ]
+    }
+  ],
+  "sinopsis": "Ton y Koya llevan una vida matrimonial que parece haber alcanzado la felicidad, pero su relación comienza a deteriorarse hasta el punto de decidir divorciarse. A pesar de la separación, los sentimientos que todavía existen entre ambos hacen que tengan que enfrentarse a los motivos que llevaron a su ruptura y decidir si pueden recuperar su relación y encontrar finalmente su propio final feliz.",
+  "activo": true
+}

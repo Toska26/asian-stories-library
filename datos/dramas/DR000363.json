@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000363",
+  "titulo": "My Freaky Love Story",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 32,
+  "estado": "Finalizado",
+  "estreno": "2022-08-12",
+  "finalizacion": "2022-10-15",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Transformación",
+    "Cambio de cuerpo",
+    "Amor verdadero",
+    "Hada madrina",
+    "Identidad",
+    "Segunda oportunidad",
+    "Destino",
+    "Comedia romántica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Charlie",
+        "Robin"
+      ]
+    }
+  ],
+  "sinopsis": "Después de una noche de excesos, Charlene recibe un castigo de la Hada Madrina y despierta en el cuerpo de un hombre. Conservando el recuerdo de su antigua identidad, deberá encontrar a su verdadero amor para poder recuperar su cuerpo original. En el proceso se verá obligada a enfrentarse a la identidad, el amor y las consecuencias de sus decisiones.",
+  "activo": true
+}

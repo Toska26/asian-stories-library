@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000994",
+  "titulo": "Sweet Tooth, Good Dentist",
+  "tituloOriginal": "แฟนที่ทันตแพทย์ส่วนใหญ่แนะนำ",
+  "alias": [
+    "Sweet Tooth, Good Dentist",
+    "Fan Thi Thanta Phaet Suan Yai Nae Nam"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Sweet Tooth, Good Dentist",
+    "tituloOriginal": "แฟนที่ทันตแพทย์ส่วนใหญ่แนะนำ",
+    "autor": "JittiRain",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-03-21",
+  "finalizacion": "2025-06-06",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Dentista",
+    "Universitario",
+    "Paciente y médico",
+    "Dulces",
+    "Triángulo amoroso",
+    "Friends to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jay",
+        "Sant"
+      ]
+    },
+    {
+      "personajes": [
+        "Captain",
+        "Sant"
+      ]
+    }
+  ],
+  "sinopsis": "Sant es un estudiante universitario apasionado por los dulces que descubre que tiene caries y debe acudir a un dentista. Allí conoce a Jay, un joven dentista de personalidad peculiar que intenta mantener una actitud profesional mientras se preocupa cada vez más por su paciente. La relación entre ambos evoluciona mientras aparece Captain, que también desarrolla sentimientos por Sant y convierte la historia en un triángulo amoroso.",
+  "activo": true
+}

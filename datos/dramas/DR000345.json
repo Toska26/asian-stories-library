@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000345",
+  "titulo": "Stuck On You",
+  "alias": [
+    "Stuck on You The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "universo": "UN000009",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2021-06-11",
+  "finalizacion": "2021-07-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Cuarentena",
+    "Friends to lovers",
+    "One-night stand",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Reb",
+        "JM"
+      ]
+    }
+  ],
+  "sinopsis": "JM y Reb se conocen a través de una aplicación de citas y lo que inicialmente debía ser un encuentro de una sola noche cambia cuando ambos quedan atrapados bajo el mismo techo durante una cuarentena obligatoria de catorce días. La convivencia les obliga a superar sus diferencias y a enfrentarse a unos sentimientos que inicialmente ninguno esperaba.",
+  "activo": true
+}

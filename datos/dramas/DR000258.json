@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000258",
+  "titulo": "The Promise of the Soul",
+  "tituloOriginal": "靈魂約定",
+  "alias": [
+    "Ling Hun Yue Ding"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-06-27",
+  "finalizacion": "2025-09-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Cambio de cuerpo",
+    "Alma",
+    "Universidad",
+    "Residencia universitaria",
+    "Destino",
+    "Reencuentro",
+    "Convivencia",
+    "Fantasía",
+    "Diferencia generacional"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Zefang",
+        "Ye Haiyuan"
+      ]
+    }
+  ],
+  "sinopsis": "Tras sufrir un accidente, Xia Cha, un hombre de 69 años, despierta en el cuerpo joven de su nieto Xia Zefang. Mientras intenta continuar con la vida de su nieto, comienza a asistir a la universidad y a compartir habitación con Ye Haiyuan. En medio de esta situación sobrenatural, ambos desarrollan una conexión cada vez más profunda que trasciende la identidad, la edad y las circunstancias que los rodean.",
+  "activo": true
+}

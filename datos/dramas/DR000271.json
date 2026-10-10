@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000271",
+  "titulo": "Gameboys 2",
+  "tituloOriginal": "Gameboys 2",
+  "alias": [
+    "Gameboys Season 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000270",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 31,
+  "estado": "Finalizado",
+  "estreno": "2022-05-22",
+  "finalizacion": "2022-06-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Videojuegos",
+    "Streaming",
+    "Pareja",
+    "Relación a distancia",
+    "Familia",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cairo Lazaro",
+        "Gavreel Alarcon"
+      ]
+    }
+  ],
+  "sinopsis": "Cairo y Gavreel continúan su relación mientras afrontan nuevos retos personales y familiares. La segunda temporada desarrolla su vida como pareja y las dificultades que aparecen cuando intentan construir un futuro juntos.",
+  "activo": true
+}

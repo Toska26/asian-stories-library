@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001006",
+  "titulo": "Shine",
+  "tituloOriginal": "ชาย",
+  "alias": [
+    "Chai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 68,
+  "estado": "Finalizado",
+  "estreno": "2025-08-02",
+  "finalizacion": "2025-09-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Político"
+  ],
+  "tags": [
+    "Bangkok 1969",
+    "Historia de Tailandia",
+    "Política",
+    "Libertad",
+    "Amor prohibido",
+    "Música",
+    "Homosexualidad",
+    "Sociedad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Trin",
+        "Tanwa"
+      ]
+    }
+  ],
+  "sinopsis": "En el Bangkok de 1969, Trin, un economista idealista, conoce a Tanwa, un músico de espíritu libre. En una época marcada por la tensión política, las restricciones sociales y los cambios ideológicos, ambos desarrollan una relación que les obliga a enfrentarse a sus propias convicciones y a los límites impuestos por la sociedad. Shine explora el amor, la libertad y la identidad en una Tailandia políticamente convulsa.",
+  "activo": true
+}

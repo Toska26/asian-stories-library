@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000669",
+  "titulo": "My Personal Weatherman",
+  "tituloOriginal": "体感予報",
+  "alias": [
+    "Taikan Yohou"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "My Personal Weatherman",
+    "tituloOriginal": "体感予報",
+    "autor": "Nikke Taino",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-08-10",
+  "finalizacion": "2023-09-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Meteorólogo",
+    "Artista",
+    "Convivencia",
+    "Contrato de convivencia",
+    "Vida cotidiana",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Segasaki Mizuki",
+        "Tanada Yoh"
+      ]
+    }
+  ],
+  "sinopsis": "Segasaki Mizuki es un popular meteorólogo que mantiene una imagen perfecta en televisión, pero en privado es mucho más exigente y dominante. Tanada Yoh, un artista de manga erótico con dificultades económicas, vive con él bajo un acuerdo peculiar: Segasaki proporciona comida, ropa y vivienda a cambio de que Yoh siga sus órdenes. Bajo esta convivencia aparentemente desigual comienzan a aflorar sentimientos que ambos han mantenido ocultos.",
+  "activo": true
+}

@@ -1,0 +1,81 @@
+{
+  "codigo": "DR000054",
+  "titulo": "My Magic Prophecy",
+  "tituloOriginal": "ทำนายทายทัพ",
+  "alias": [
+    "Tham Nai Thai Thap"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000054",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 56,
+  "estado": "Finalizado",
+  "estreno": "2025-07-27",
+  "finalizacion": "2025-09-28",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Misterio"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Thapfah",
+      "persona": "PR000520",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "In",
+      "persona": "PR000521",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000083",
+      "personajes": [
+        "Thapfah",
+        "In"
+      ]
+    }
+  ],
+  "sinopsis": "In es un adivino especializado en las cartas del tarot que se ve obligado a realizar una lectura falsa para ayudar a una amiga. Allí conoce a Thapfah, un médico de cuidados intensivos que no cree en la adivinación. In le advierte que una serie de desgracias podrían poner su vida en peligro. Cuando los acontecimientos comienzan a suceder, Thapfah termina refugiándose junto a In en Mae Hong Son, donde ambos tendrán que enfrentarse a sus diferencias y al destino que parece unirlos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/d8/7c/5a/d87c5ac994dd9df2f16376ca2f57cd20.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=vowe0tx6BZg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=C6PLUuYbVS0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

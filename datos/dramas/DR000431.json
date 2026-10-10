@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000431",
+  "titulo": "Nhà Trọ Có Quá Trời Phòng Phần 2",
+  "alias": [
+    "Nhà Trọ Có Quá Trời Phòng 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "serie": "SR000428",
+  "temporadas": 3,
+  "temporada": 2,
+  "estado": "Finalizado",
+  "estreno": "2020-06-17",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Pensión",
+    "Vecinos",
+    "Familia",
+    "Amistad",
+    "Vida cotidiana",
+    "Humor"
+  ],
+  "sinopsis": "Segunda parte de la historia del barrio de vecinos de Nhà Trọ Có Quá Trời Phòng. Thơ Hột Lệ continúa enfrentándose a las situaciones cotidianas, los conflictos y las relaciones que surgen entre los distintos residentes de la pensión.",
+  "activo": true
+}

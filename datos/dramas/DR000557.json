@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000557",
+  "titulo": "The Heart of Tsukuyomi",
+  "tituloOriginal": "月读神之心",
+  "alias": [
+    "Yue Du Shen Zhi Xin"
+  ],
+  "pais": [
+    "CN",
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000020",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "estado": "Finalizado",
+  "estreno": "2025-08-14",
+  "finalizacion": "2025-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Coproducción",
+    "China-Japón",
+    "Sobrenatural",
+    "Tsukuyomi"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gushan Qiyue",
+        "Rong Yuewen"
+      ]
+    }
+  ],
+  "sinopsis": "La historia gira en torno a Gushan Qiyue y Rong Yuewen, cuya relación se desarrolla en un contexto marcado por elementos sobrenaturales y por la conexión entre el mundo humano y el universo asociado a Tsukuyomi.",
+  "activo": true
+}

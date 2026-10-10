@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000215",
+  "titulo": "Unfollow",
+  "tituloOriginal": "언팔로우",
+  "alias": [
+    "Unfollow",
+    "Eonpallowoo"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-19",
+  "finalizacion": "2026-03-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Redes sociales",
+    "Instagram",
+    "Error de seguimiento",
+    "Bloqueo",
+    "Senior y junior",
+    "Celos",
+    "Posesividad",
+    "Primer beso",
+    "Persecución romántica"
+  ],
+  "personas": [
+    {
+      "nombre": "Kang Taejun",
+      "persona": "PR000761",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Hamin",
+      "persona": "PR000762",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kang Taejun",
+        "Lee Hamin"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Hamin sigue accidentalmente en Instagram a Kang Taejun, un estudiante de cursos superiores, y entra en pánico cuando se da cuenta de su error. Al dejar de seguirlo inmediatamente, cree que el incidente ha terminado. Sin embargo, Taejun se da cuenta de lo ocurrido y comienza a perseguir a Hamin, convirtiendo un simple error en redes sociales en una relación marcada por los celos, la insistencia y una atracción cada vez más evidente.",
+  "multimedia": {
+    "videos": [
+      "https://www.youtube.com/watch?v=1MGxoFYNY6Q"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000139",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

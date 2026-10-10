@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000331",
+  "titulo": "Love Is",
+  "alias": [
+    "Love Is The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2021-08-28",
+  "finalizacion": "2021-10-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Amor",
+    "Triángulo amoroso",
+    "Familia",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lemuel",
+        "Omeng"
+      ]
+    },
+    {
+      "personajes": [
+        "Vladimir",
+        "Epoy"
+      ]
+    },
+    {
+      "personajes": [
+        "Shakespeare",
+        "Inton"
+      ]
+    }
+  ],
+  "sinopsis": "Seis jóvenes —Lemuel, Omeng, Vladimir, Epoy, Inton y Shakespeare— ven cómo sus vidas y sentimientos se entrelazan a través de diferentes situaciones. Mientras algunos intentan reencontrarse con la persona que aman y otros descubren sentimientos inesperados, deberán afrontar la familia, la amistad, los celos y las dificultades que acompañan al amor.",
+  "activo": true
+}

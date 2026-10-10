@@ -1,0 +1,109 @@
+{
+  "codigo": "DR000812",
+  "titulo": "Y-Destiny",
+  "tituloOriginal": "หรือนี่คือพรหมลิขิต",
+  "alias": [
+    "Y Destiny",
+    "Y-Destiny The Series",
+    "Y Destiny ปิดกอง"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000049",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Y-Destiny",
+    "tituloOriginal": "หรือนี่คือพรหมลิขิต",
+    "autor": "More FIIN",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": "55-60 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-30",
+  "finalizacion": "2021-07-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Antología",
+    "Siete amigos",
+    "Destino",
+    "Universidad",
+    "Amistad",
+    "Almas gemelas",
+    "Romance",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tue",
+        "Ake"
+      ]
+    },
+    {
+      "personajes": [
+        "Sun",
+        "Nuea"
+      ]
+    },
+    {
+      "personajes": [
+        "Mon",
+        "Team"
+      ]
+    },
+    {
+      "personajes": [
+        "Thurs",
+        "Pao"
+      ]
+    },
+    {
+      "personajes": [
+        "Puth",
+        "Payu"
+      ]
+    },
+    {
+      "personajes": [
+        "Masuk",
+        "Tee"
+      ]
+    },
+    {
+      "personajes": [
+        "Sat",
+        "Choke"
+      ]
+    }
+  ],
+  "sinopsis": "Y-Destiny cuenta siete historias de amor protagonizadas por siete amigos, cada uno nacido en un día diferente de la semana. Sun, Mon, Tue, Puth, Thurs, Masuk y Sat poseen personalidades muy diferentes y cada uno encuentra a una persona que cambia su vida. La serie presenta sus historias de forma independiente, explorando cómo el destino, las circunstancias y sus propias decisiones los llevan hacia el amor.",
+  "especiales": [
+    {
+      "titulo": "Y-Destiny Special",
+      "alias": [
+        "Y-Destiny Episode 10.5"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-06-17"
+    }
+  ],
+  "activo": true
+}

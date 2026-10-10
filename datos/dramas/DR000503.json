@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000503",
+  "titulo": "Wu Di in Love",
+  "tituloOriginal": "無敵愛上你",
+  "alias": [
+    "WUDI in Love"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 6,
+  "estado": "Finalizado",
+  "estreno": "2022-02-14",
+  "finalizacion": "2022-02-26",
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Di",
+        "Long Long"
+      ]
+    }
+  ],
+  "sinopsis": "Wu Di, el estricto y perfeccionista dueño de una popular cafetería, recibe como nuevo becario a Long Long. Su convivencia diaria en el café hace que la relación entre el exigente propietario y el joven becario evolucione hacia sentimientos románticos.",
+  "activo": true
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000207",
+  "titulo": "Summertime",
+  "tituloOriginal": "하절기",
+  "alias": [
+    "Summertime",
+    "Hajeolgi"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "",
+  "estado": "Finalizado",
+  "estreno": "2026-08-27",
+  "finalizacion": "2026-09-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amigos de infancia",
+    "Amor no correspondido",
+    "Amor secreto",
+    "Celos",
+    "Estudiante transferido",
+    "Obsesión",
+    "Amistad",
+    "Coming of Age",
+    "Slow Burn"
+  ],
+  "personas": [
+    {
+      "nombre": "Yeo Eun-ho",
+      "persona": "PR000752",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cha Do-hyeon",
+      "persona": "PR000753",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yeo Eun-ho",
+        "Cha Do-hyeon"
+      ]
+    }
+  ],
+  "sinopsis": "Yeo Eun-ho y Cha Do-hyeon llevan diecinueve años siendo inseparables. Eun-ho considera que conoce a su mejor amigo mejor que nadie, pero nunca ha sospechado que Do-hyeon lleva años enamorado de él. La llegada de un nuevo estudiante altera el equilibrio que Do-hyeon había construido cuidadosamente y hace que sus sentimientos, sus celos y su deseo de mantener a Eun-ho a su lado sean cada vez más difíciles de ocultar.",
+  "entidades": [
+    {
+      "codigo": "EN000130",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

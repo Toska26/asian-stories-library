@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000704",
+  "titulo": "The Journey to Killing You",
+  "tituloOriginal": "あなたを殺す旅",
+  "alias": [
+    "Anata o Korosu Tabi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000704",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The Journey to Killing You",
+    "tituloOriginal": "あなたを殺す旅",
+    "autor": "Asai Nishi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-09-26",
+  "finalizacion": "2025-10-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Yakuza",
+    "Crimen",
+    "Venganza",
+    "Road Trip",
+    "Amor peligroso",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kataoka Kinji",
+        "Odajima Ren"
+      ]
+    }
+  ],
+  "sinopsis": "Kataoka Kinji, un respetado wakagashira de la yakuza, debe desaparecer temporalmente tras un incidente. Su encargado durante el viaje será Odajima Ren, un miembro de la organización que oculta una misión secreta: matar a Kataoka. Mientras recorren Japón juntos, el odio y la misión de Odajima comienzan a transformarse en sentimientos de amor.",
+  "activo": true
+}

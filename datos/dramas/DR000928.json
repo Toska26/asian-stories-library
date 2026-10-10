@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000928",
+  "titulo": "Shadow",
+  "tituloOriginal": "เงา/ล่า/ตาย",
+  "alias": [
+    "Shadow เงา ล่า ตาย"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 46,
+  "estado": "Finalizado",
+  "estreno": "2023-10-31",
+  "finalizacion": "2023-12-07",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Fantasía",
+    "Sobrenatural",
+    "Terror",
+    "Suspense",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Drama",
+    "Misterio",
+    "Fantasía",
+    "Sobrenatural",
+    "Terror",
+    "Suspense",
+    "Thriller",
+    "Instituto",
+    "Internado",
+    "Amistad",
+    "Fantasmas",
+    "Espíritus",
+    "Secretos",
+    "Trauma",
+    "Investigación",
+    "Década de 1990"
+  ],
+  "sinopsis": "En un internado tailandés situado en la década de 1990, Dan ocupa el lugar de Trin, un estudiante que desapareció misteriosamente. Mientras intenta adaptarse a su nueva vida, Dan comienza a experimentar fenómenos sobrenaturales relacionados con una misteriosa sombra. Junto a Nai y otros estudiantes, investigará la desaparición de Trin y los oscuros secretos que rodean al colegio.",
+  "activo": true
+}

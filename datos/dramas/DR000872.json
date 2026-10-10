@@ -1,0 +1,77 @@
+{
+  "codigo": "DR000872",
+  "titulo": "Love Syndrome III",
+  "tituloOriginal": "รักโคตรๆ โหดอย่างมึง 3",
+  "alias": [
+    "Love Syndrome 3",
+    "Rak Khot Khot Hot Yang Mueng 3"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "universo": "UN000025",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Love Syndrome",
+    "tituloOriginal": "Love Syndrome",
+    "autor": "Yeo Nim",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "60 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-04",
+  "finalizacion": "2023-05-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Mature",
+    "Acción"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Tercer libro",
+    "Amnesia",
+    "Pareja estable",
+    "Mafia",
+    "Reencuentro",
+    "Celos",
+    "Segundas oportunidades",
+    "Familia",
+    "Universo Love Syndrome"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Day",
+        "Itt"
+      ]
+    },
+    {
+      "personajes": [
+        "Night",
+        "Gear"
+      ]
+    },
+    {
+      "personajes": [
+        "Neil",
+        "Nick"
+      ]
+    },
+    {
+      "personajes": [
+        "Kamol",
+        "Kim"
+      ]
+    }
+  ],
+  "sinopsis": "Day e Itt llevan casi tres años juntos y mantienen una relación intensa en la que Day está acostumbrado a cuidar y consentir constantemente a Itt. Un día, mientras regresa bajo una fuerte lluvia para cumplir uno de los deseos de Itt, Day sufre un grave accidente y pierde los recuerdos de los últimos tres años, incluido todo lo relacionado con su relación. Itt deberá ayudarle a recuperar la memoria y demostrarle que el vínculo que compartían sigue existiendo, mientras los secretos de su pasado y las relaciones de Night, Gear, Neil y Nick vuelven a salir a la luz.",
+  "activo": true
+}

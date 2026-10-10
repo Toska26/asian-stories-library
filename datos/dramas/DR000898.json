@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000898",
+  "titulo": "Beyond the Star",
+  "tituloOriginal": "เส้นทางรักพิชิตดวงดาว",
+  "alias": [
+    "Beyond the Star: เส้นทางรักพิชิตดวงดาว"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2023-11-11",
+  "finalizacion": "2023-12-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Música"
+  ],
+  "tags": [
+    "Idols",
+    "Industria del entretenimiento",
+    "Agencia de talentos",
+    "Trainees",
+    "Boyband",
+    "Sueños",
+    "Amistad",
+    "Amor secreto",
+    "Relaciones prohibidas",
+    "Rivalidad",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kita",
+        "Natee"
+      ]
+    },
+    {
+      "personajes": [
+        "Kengkla",
+        "Namo"
+      ]
+    },
+    {
+      "personajes": [
+        "Mawin",
+        "Mungkorn"
+      ]
+    }
+  ],
+  "sinopsis": "El proyecto Beyond the Star reúne a jóvenes que sueñan con convertirse en artistas. Dentro de una agencia de entretenimiento, los trainees deben superar entrenamientos, rivalidades, presión profesional y sentimientos que complican sus relaciones. Mientras persiguen sus sueños de convertirse en estrellas, varios de ellos descubren que el amor puede ser tan difícil de alcanzar como el éxito.",
+  "activo": true
+}

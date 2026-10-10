@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000846",
+  "titulo": "Physical Therapy",
+  "tituloOriginal": "ผมปวดกาย นายปวดใจ",
+  "alias": [
+    "Phom Puuad Kaai Naai Puuad Jai",
+    "Physical Therapy The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-01-23",
+  "finalizacion": "2022-04-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Medicina"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Milk",
+        "Pun"
+      ]
+    },
+    {
+      "personajes": [
+        "Milk",
+        "Ake"
+      ]
+    }
+  ],
+  "sinopsis": "Milk, todavía afectado por la ruptura con su antiguo novio Ake, conoce al doctor Pun durante un proceso de rehabilitación. Lo que comienza como una relación entre paciente y médico se transforma gradualmente en un vínculo afectivo mientras ambos afrontan sus heridas personales y las dificultades que aparecen en su camino.",
+  "activo": true
+}

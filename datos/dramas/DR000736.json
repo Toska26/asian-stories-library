@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000736",
+  "titulo": "After Moving Seats, the Boy Behind Me Has a Crush on Me",
+  "tituloOriginal": "席替えしたら、どうやら後ろの男が俺のこと好きらしい",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-08-06",
+  "finalizacion": "2026-09-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mayama Hare",
+        "Asamiya Kosei"
+      ]
+    }
+  ],
+  "sinopsis": "Hare Mayama es un estudiante de instituto reservado y con poca confianza en sí mismo. Después de un cambio de asientos descubre una confesión escrita por Kosei Asamiya, el chico popular que se sienta detrás de él. Aunque Hare tiene dificultades para aceptar que alguien pueda quererlo, ambos comienzan a acercarse.",
+  "activo": true
+}

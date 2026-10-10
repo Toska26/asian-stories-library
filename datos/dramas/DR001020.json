@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001020",
+  "titulo": "Let Me Into Your Heart",
+  "tituloOriginal": "ขอเป็นพระเอกในหัวใจพระเอก",
+  "alias": [
+    "Kho Pen Phra-ek Nai Huajai Phra-ek",
+    "Likay Hero the Series",
+    "Likay the Series",
+    "Phra-ek Likay The Series",
+    "ขอเป็นพระเอกในหัวใจ...พระเอก?",
+    "พระเอกลิเก The Series",
+    "ลิเกเดอะซีรีส์"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Let Me Into Your Heart",
+    "tituloOriginal": "ขอเป็นพระเอกในหัวใจพระเอก?",
+    "autor": "P.PICHA",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "47 min",
+  "estado": "Finalizado",
+  "estreno": "2025-12-03",
+  "finalizacion": "2026-02-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Showbiz",
+    "Música",
+    "Cultura tailandesa"
+  ],
+  "tags": [
+    "Likay",
+    "Teatro tradicional",
+    "Actores",
+    "Famosos",
+    "Rodaje",
+    "Romance laboral",
+    "Rivalidad",
+    "Showbiz"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jack",
+        "Ja"
+      ]
+    }
+  ],
+  "sinopsis": "Jack es un joven actor de éxito que recibe el papel protagonista de una nueva producción inspirada en el likay, una forma tradicional de teatro musical tailandés. Para preparar el personaje debe trabajar con Ja, un reconocido intérprete de likay. Los dos proceden de mundos profesionales muy diferentes y chocan constantemente, pero la convivencia durante la preparación y el rodaje hace que la rivalidad inicial se transforme progresivamente en atracción y afecto.",
+  "activo": true
+}

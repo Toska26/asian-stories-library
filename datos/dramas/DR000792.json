@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000792",
+  "titulo": "The Moment Since",
+  "tituloOriginal": "Moment ที่ทำให้หัวใจเต้นแรง",
+  "alias": [
+    "The Moment: Since",
+    "The Moment Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000791"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2020-08-01",
+  "finalizacion": "2020-08-09",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Pareja",
+    "Vacaciones",
+    "Playa",
+    "Cumpleaños",
+    "Amistad",
+    "Celos",
+    "Viaje"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mok",
+        "Bay"
+      ]
+    }
+  ],
+  "sinopsis": "Después de comenzar su relación, Bay y Mok viajan a un resort junto al mar para celebrar el cumpleaños de Bay y disfrutar de unos días juntos. Sin embargo, sus vacaciones románticas se complican cuando Boston, el jefe de Bay, aparece acompañado de su amigo Jimmy. A pesar de las interrupciones y de los intentos de Jimmy por llamar la atención de Bay, Mok y Bay continúan descubriendo cómo desenvolverse como pareja y fortalecer su relación.",
+  "activo": true
+}

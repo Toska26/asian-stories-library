@@ -1,0 +1,37 @@
+{
+  "codigo": "DR001023",
+  "titulo": "The Love Never Sets",
+  "tituloOriginal": "ฉากนั้น...ยังเป็นเธอ",
+  "alias": [
+    "The Love Never Sets: ฉากนั้น...ยังเป็นเธอ"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Ai Ru Yong Zhou",
+    "tituloOriginal": "爱如永昼",
+    "autor": "Ni Zhoumo You Le",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2025-10-14",
+  "finalizacion": "2026-01-06",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "sinopsis": "Saint e Ice son rivales que terminan obligados a interpretar a una pareja en una producción audiovisual. La situación transforma poco a poco su rivalidad en una relación marcada por sentimientos que ambos habían intentado ocultar.",
+  "activo": true
+}

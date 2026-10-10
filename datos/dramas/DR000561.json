@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000561",
+  "titulo": "Gu Jin Nan Qiu",
+  "tituloOriginal": "顾禁南囚",
+  "alias": [
+    "Gu Jinnan Prison",
+    "Forbidden & Captivity",
+    "Forbidden and Captivity"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": 6,
+  "estado": "Finalizado",
+  "estreno": "2025-11-15",
+  "finalizacion": "2026-01-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Vertical",
+    "Microdrama",
+    "Diferencia de edad",
+    "Familia",
+    "Medio hermanos",
+    "Tutela",
+    "Relación de poder",
+    "Coacción",
+    "Violencia",
+    "Venganza",
+    "Drama oscuro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wen Hai",
+        "Gu Huaizhou"
+      ]
+    },
+    {
+      "personajes": [
+        "Jiang Nan",
+        "Gu Leng"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la muerte accidental de sus padres, Wen Hai, de 17 años, queda bajo la tutela de su hermanastro Gu Huaizhou. La convivencia está marcada por el control, el conflicto y una relación cada vez más compleja. Paralelamente, Gu Leng se relaciona con Jiang Nan, quien queda atrapado en una situación de deuda y coerción. Ambas historias se entrelazan en un drama de relaciones familiares, poder, venganza y sentimientos conflictivos.",
+  "activo": true
+}

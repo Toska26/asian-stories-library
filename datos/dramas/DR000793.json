@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000793",
+  "titulo": "YYY",
+  "tituloOriginal": "YYY มันส์เว่อร์นะ",
+  "alias": [
+    "YYY: The Series",
+    "YYY The Series",
+    "YYY มันส์เว่อร์นะ"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000793"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-04-28",
+  "finalizacion": "2020-06-02",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Sitcom",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Comedia",
+    "Fingir una relación",
+    "Convivencia",
+    "Apartamento",
+    "Inventor",
+    "Vecinos",
+    "Parodia",
+    "Ruptura de la cuarta pared"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nott",
+        "Pun"
+      ]
+    }
+  ],
+  "sinopsis": "Nott, un inventor que vive en un apartamento compartido, causa accidentalmente daños a la colección de CD yaoi de Porpla, la propietaria del lugar. Para evitar ser expulsado, convence al nuevo inquilino Pun de fingir que ambos son pareja. Lo que comienza como un acuerdo para resolver sus problemas de vivienda poco a poco se transforma en sentimientos reales mientras los dos conviven y se conocen mejor.",
+  "especiales": [
+    {
+      "titulo": "YYY Special: Episode 0",
+      "tituloOriginal": "YYY มันส์เว่อร์นะ",
+      "alias": [
+        "YYY Episode 0",
+        "YYY Special Episode 0"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 1,
+      "estreno": "2020-04-21"
+    }
+  ],
+  "activo": true
+}

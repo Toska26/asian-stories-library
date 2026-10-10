@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000405",
+  "titulo": "Roommates",
+  "alias": [
+    "Bạn Cùng Phòng",
+    "Adam Ngoại Truyện – Bạn Cùng Phòng"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2017,
+  "tipo": "Webdrama",
+  "franquicia": {
+    "codigo": "FR000027",
+    "orden": 2
+  },
+  "universo": "UN000011",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2017-08-14",
+  "finalizacion": "2017-09-19",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Amistad",
+    "Convivencia",
+    "Pareja",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bảo Nam",
+        "Đăng Hí"
+      ]
+    }
+  ],
+  "sinopsis": "Bảo Nam continúa su historia después de Adam's Story y ahora mantiene una relación con Đăng Hí, su amigo de la infancia. Los dos viven juntos mientras Nam intenta sobrellevar el carácter temperamental de Đăng y las dificultades de su convivencia como pareja.",
+  "activo": true
+}

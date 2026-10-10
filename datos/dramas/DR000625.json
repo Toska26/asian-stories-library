@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000625",
+  "titulo": "BE LOVE",
+  "tituloOriginal": "BE LOVE",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2020-10-16",
+  "finalizacion": "2020-11-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Pareja estable",
+    "Convivencia",
+    "Literatura",
+    "Libros ilustrados",
+    "Celos",
+    "Pérdida",
+    "Duelo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tamamori Yuuta",
+        "Miyata Toshiya"
+      ]
+    }
+  ],
+  "sinopsis": "Un escritor de libros ilustrados y el editor encargado de sus obras viven juntos mientras trabajan en un nuevo proyecto. Su relación amorosa se ve alterada por los celos, la pérdida y los recuerdos que permanecen incluso después de la muerte.",
+  "activo": true
+}

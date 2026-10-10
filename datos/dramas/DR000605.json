@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000605",
+  "titulo": "The Last Oath",
+  "tituloOriginal": "末誓",
+  "alias": [
+    "Mo Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 20,
+  "estado": "En emisión",
+  "estreno": "2026-09-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Acción",
+    "Ciencia ficción",
+    "Supervivencia",
+    "Drama"
+  ],
+  "tags": [
+    "Apocalipsis zombi",
+    "Virus",
+    "Supervivencia",
+    "Asesino",
+    "Inmunidad",
+    "Romance peligroso",
+    "Enemigos",
+    "Rescate",
+    "Posapocalíptico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Zai",
+        "A Lie"
+      ]
+    }
+  ],
+  "sinopsis": "En un mundo devastado por un virus zombi, Lin Zai descubre que es inmune a la infección, convirtiéndose en un objetivo valioso para diferentes facciones. Entre los hombres enviados para encontrarlo se encuentra A Lie, un asesino cuya misión es perseguirlo. La relación entre ambos comienza como una confrontación entre cazador y presa, pero todo cambia cuando A Lie resulta gravemente herido y Lin Zai decide salvarle la vida. Obligados a depender el uno del otro para sobrevivir, ambos comienzan a cuestionar sus respectivas lealtades mientras atraviesan un mundo en el que confiar en la persona equivocada puede significar la muerte.",
+  "activo": true
+}

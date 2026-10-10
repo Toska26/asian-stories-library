@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000815",
+  "titulo": "Paint with Love",
+  "tituloOriginal": "ใส่รักป้ายสี",
+  "alias": [
+    "Paint With Love",
+    "Paint with Love The Series",
+    "Sai Rak Phai Si",
+    "Sai Rak Phai Si The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Paint with Love",
+    "tituloOriginal": "ใส่รักป้ายสี",
+    "autor": "Indigo",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "42-58 min",
+  "estado": "Finalizado",
+  "estreno": "2021-11-26",
+  "finalizacion": "2022-02-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Pintura",
+    "Arte",
+    "Organización de eventos",
+    "Bodas",
+    "Jefe y empleado",
+    "Deuda",
+    "Convivencia",
+    "Trabajo",
+    "Segunda oportunidad",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Maze",
+        "Phap"
+      ]
+    },
+    {
+      "personajes": [
+        "Nueng",
+        "Tharn"
+      ]
+    }
+  ],
+  "sinopsis": "Phap es un joven artista que recibe el encargo de realizar una pintura para la boda de una celebridad. El trabajo termina en desastre y provoca importantes pérdidas para Maze, el responsable de organizar el evento. Para compensar la deuda, Phap acaba trabajando para Maze. La convivencia y los constantes enfrentamientos entre ambos hacen que la relación profesional se transforme poco a poco en sentimientos románticos.",
+  "activo": true
+}

@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000896",
+  "titulo": "Bake Me Please",
+  "tituloOriginal": "พิชิตใจ นายสายหวาน",
+  "alias": [
+    "Bake Me Please The Series",
+    "Phichit Chai Nai Sai Wan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2023-11-19",
+  "finalizacion": "2023-12-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Cocina",
+    "Repostería",
+    "Panadería",
+    "Lugar de trabajo",
+    "Compañeros de trabajo",
+    "Rivalidad",
+    "De rivales a amantes",
+    "Grumpy x Sunshine",
+    "Amor no correspondido",
+    "Triángulo amoroso",
+    "Segundas oportunidades",
+    "Abandono",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shin",
+        "Peach"
+      ]
+    }
+  ],
+  "sinopsis": "Shin es un chef de repostería conocido por su carácter frío y exigente. Su vida cambia cuando Peach llega a la pastelería para trabajar junto a él. Lo que comienza como una relación marcada por las diferencias y la rivalidad profesional se transforma poco a poco en sentimientos más profundos. Mientras trabajan junto a Guy, Oab y Atom, los cinco deberán enfrentarse a sus propias ambiciones, inseguridades y sentimientos.",
+  "especiales": [
+    {
+      "titulo": "Bake Me Please Epilogue",
+      "tituloOriginal": "Bake Me Please Epilogue",
+      "alias": [
+        "Epilogue (Special)"
+      ],
+      "tipo": "Episodio especial",
+      "anio": 2024,
+      "episodios": 1,
+      "estreno": "2024-01-28"
+    }
+  ],
+  "activo": true
+}

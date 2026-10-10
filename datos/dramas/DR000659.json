@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000659",
+  "titulo": "Shimbashi Koi Story 2",
+  "tituloOriginal": "シンバシコイ物語２",
+  "alias": [
+    "Shimbashi Koi Story: Chapter 2",
+    "Shimbashi Koi Story 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000658",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 4,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2022-11-13",
+  "finalizacion": "2022-12-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+",
+    "Gay",
+    "Bar gay",
+    "Pareja",
+    "Amistad",
+    "Celos",
+    "Relaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tatsuya",
+        "Jun-nosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Dos años después de los acontecimientos de la primera temporada, Tatsuya y Jun-nosuke continúan su relación. La llegada de nuevos personajes y los cambios en sus vidas ponen a prueba la estabilidad de la pareja y hacen aflorar nuevos sentimientos y conflictos.",
+  "activo": true
+}

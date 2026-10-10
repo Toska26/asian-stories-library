@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000739",
+  "titulo": "Love Punch!",
+  "tituloOriginal": "純愛上等！",
+  "alias": [
+    "Junai Joto!",
+    "Junai Jōtō!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Película",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "102 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-13",
+  "finalizacion": "2026-02-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Acción"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kamei Madoka",
+        "Sato Mitsuru"
+      ]
+    }
+  ],
+  "sinopsis": "Madoka Kamei es el líder de la escuela Benizakura, mientras que Mitsuru Sato lidera la escuela rival Shiraiwa. Dos años después de un enfrentamiento que dio lugar a una tregua entre ambas escuelas, Mitsuru acaba viviendo encima de la tienda de dulces de la abuela de Madoka. La convivencia hace que la rivalidad se transforme gradualmente en una historia de amor.",
+  "activo": true
+}

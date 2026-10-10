@@ -1,0 +1,98 @@
+{
+  "codigo": "DR000083",
+  "titulo": "Dare You to Death",
+  "tituloOriginal": "ไขคดีเป็น เห็นคดีตาย",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000083",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "",
+  "estado": "Finalizado",
+  "estreno": "2026-04-02",
+  "finalizacion": "2026-06-04",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Policial",
+    "Misterio",
+    "Investigación",
+    "Crimen"
+  ],
+  "personas": [
+    {
+      "nombre": "Jade",
+      "persona": "PR000518",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kamin",
+      "persona": "PR000519",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000082",
+      "personajes": [
+        "Jade",
+        "Kamin"
+      ]
+    }
+  ],
+  "sinopsis": "Jade, un joven policía, se ve obligado a investigar una serie de muertes misteriosas junto a Kamin, un inspector que ha regresado al país después de estudiar en el extranjero. Aunque sus personalidades y métodos son muy diferentes, ambos deben trabajar juntos para descubrir quién está detrás de los asesinatos. Mientras la investigación avanza y el peligro aumenta, la relación entre ellos también se vuelve cada vez más cercana.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/09/51/92/095192a6e06bfc616da3e641deae187d.jpg",
+      "https://i.pinimg.com/1200x/5d/d3/40/5dd340b8b7946ff676e4c0ab277b0c69.jpg",
+      "https://pbs.twimg.com/media/G7XzWOVawAAGjAq.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=OdaPoeA6lFU"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=Zezj30oOUds",
+      "https://www.youtube.com/watch?v=RLxFl6LmmRc",
+      "https://www.youtube.com/watch?v=rzVvmwXUORE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000040",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

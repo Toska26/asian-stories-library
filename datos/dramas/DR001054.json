@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001054",
+  "titulo": "Mr. Kill",
+  "tituloOriginal": "มังงะสั่งตาย",
+  "alias": [
+    "Mr Kill",
+    "Mr.Kill Mangnga Sang Tai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Mr.Kill",
+    "tituloOriginal": "MR.KILL มังงะสั่งตาย",
+    "autor": "wednesdaytus",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-07-07",
+  "finalizacion": "2026-09-08",
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Crimen",
+    "Drama"
+  ],
+  "tags": [
+    "Investigación policial",
+    "Asesinatos",
+    "Manga",
+    "Asesino en serie",
+    "Artista",
+    "Secretos",
+    "Bromance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kaye",
+        "Phat"
+      ]
+    }
+  ],
+  "sinopsis": "Kaye, un reconocido artista de manga, queda relacionado con una investigación policial cuando una serie de asesinatos comienza a reproducir escenas de Nekros, un manga underground vinculado a su trabajo. Phat, un joven policía que confía en las normas y los procedimientos, dirige la investigación y empieza a vigilar de cerca al artista. A medida que ambos se adentran en el caso, deberán descubrir quién está convirtiendo las páginas del manga en crímenes reales y qué secretos se esconden detrás de las similitudes.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BNGFkYmZjZjEtYjg0Mi00YWZhLTg3YWQtZDE5NDczZjlhMjdlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+    ]
+  },
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000794",
+  "titulo": "YYY 2",
+  "tituloOriginal": "YYY มันส์ฟินนะ",
+  "alias": [
+    "YYY Special",
+    "YYY Fin",
+    "YYY: Special"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000793"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2020-09-29",
+  "finalizacion": "2020-10-13",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Sitcom",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Comedia",
+    "Pareja",
+    "Convivencia",
+    "Reencuentro",
+    "Pandemia",
+    "Parodia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nott",
+        "Pun"
+      ]
+    }
+  ],
+  "sinopsis": "Después de la separación de Pun, Nott continúa esperando su regreso mientras intenta seguir adelante con su vida. Cuando desea que Pun vuelva y se convierta en su pareja, su deseo parece hacerse realidad. Sin embargo, el mundo se encuentra afectado por una pandemia y el reencuentro de ambos vuelve a estar lleno de situaciones inesperadas y caóticas.",
+  "activo": true
+}

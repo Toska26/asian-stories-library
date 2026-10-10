@@ -1,0 +1,67 @@
+{
+  "codigo": "DR000916",
+  "titulo": "Only Friends",
+  "tituloOriginal": "เพื่อนต้องห้าม",
+  "alias": [
+    "Only Friends The Series",
+    "Only Friends: The Series",
+    "Phuean Tong Ham",
+    "Forbidden Friends"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000045",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-08-12",
+  "finalizacion": "2023-10-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Amistad",
+    "Universidad",
+    "Friends with Benefits",
+    "Relaciones",
+    "Triángulo amoroso",
+    "Infidelidad",
+    "Celos",
+    "Secretos",
+    "Vida universitaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sand",
+        "Ray"
+      ]
+    },
+    {
+      "personajes": [
+        "Mew",
+        "Top"
+      ]
+    },
+    {
+      "personajes": [
+        "Boston",
+        "Nick"
+      ]
+    }
+  ],
+  "sinopsis": "Mew, Ray, Boston y Cheum son un grupo de amigos universitarios que trabajan juntos en un proyecto relacionado con un hostel. Cuando Top entra en la vida de Mew y Sand conoce a Ray, las relaciones, los deseos y los secretos comienzan a desdibujar los límites de su amistad. Boston y Nick también se ven atrapados en una relación marcada por la atracción, los celos y las dificultades para definir sus sentimientos.",
+  "activo": true
+}

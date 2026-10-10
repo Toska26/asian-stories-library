@@ -1,0 +1,119 @@
+{
+  "codigo": "DR000080",
+  "titulo": "Sky in Your Heart",
+  "tituloOriginal": "ขั้วฟ้าของผม",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000013",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "SR000080",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-06-03",
+  "finalizacion": "2022-07-22",
+  "generos": [
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Universidad",
+    "Montaña"
+  ],
+  "personas": [
+    {
+      "nombre": "Fah",
+      "persona": "PR000270",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Prince",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khabkluen",
+      "persona": "PR000518",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daonuea",
+      "persona": "PR000519",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000111",
+      "personajes": [
+        "Fah",
+        "Prince"
+      ]
+    },
+    {
+      "ship": "SH000082",
+      "personajes": [
+        "Khabkluen",
+        "Daonuea"
+      ]
+    }
+  ],
+  "sinopsis": "Fah, un estudiante de medicina, viaja a una remota zona montañosa junto a su amigo Prince para realizar voluntariado. Allí conoce a Prince, un joven de carácter reservado con quien inicialmente mantiene una relación complicada. La convivencia y las experiencias que comparten hacen que sus sentimientos evolucionen mientras descubren nuevas facetas del otro.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/9b/2d/9a/9b2d9a292a7647acb631a428a30ad6d3.jpg",
+      "https://i.pinimg.com/736x/bc/93/91/bc93913738a5ef580fc28ac43df112ef.jpg",
+      "https://static.tvmaze.com/uploads/images/original_untouched/409/1024982.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=7USu2ixI37k"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=q1ED0Ty8X_o",
+      "https://www.youtube.com/watch?v=CwIeJVt1CqM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

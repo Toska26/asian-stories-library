@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000330",
+  "titulo": "Limited Edition",
+  "alias": [
+    "Limited Edition The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 31,
+  "estado": "Finalizado",
+  "estreno": "2021-10-02",
+  "finalizacion": "2022-01-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Triángulo amoroso",
+    "Amor",
+    "Celos",
+    "Relación a distancia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mario",
+        "Jethro"
+      ]
+    }
+  ],
+  "sinopsis": "Mario, un joven ingenuo y de carácter tradicional, conoce a Jethro, un joven procedente de Nueva York que está de vacaciones en Filipinas. Ambos conectan rápidamente y comienzan una relación, pero Mario descubre que Jethro solo permanecerá dos meses en el país. Mientras intenta afrontar la distancia y la incertidumbre, aparece Arnold, que también está enamorado de Mario.",
+  "activo": true
+}

@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000517",
+  "titulo": "Guardian",
+  "tituloOriginal": "镇魂",
+  "alias": [
+    "Zhen Hun",
+    "Zhenhun"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Guardian",
+    "tituloOriginal": "镇魂",
+    "autor": "Priest",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2018-06-13",
+  "finalizacion": "2018-07-25",
+  "generos": [
+    "BL",
+    "Fantasía",
+    "Misterio",
+    "Ciencia ficción",
+    "Suspense",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Bromance",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhao Yunlan",
+        "Shen Wei"
+      ]
+    }
+  ],
+  "sinopsis": "Zhao Yunlan dirige el Departamento de Investigaciones Especiales, una unidad encargada de investigar fenómenos sobrenaturales y mantener la paz entre los humanos y los habitantes de Dixing. Durante una investigación conoce a Shen Wei, un profesor universitario que guarda numerosos secretos. Ambos quedan vinculados por una antigua historia y por una serie de misterios que amenazan con desencadenar un nuevo conflicto.",
+  "activo": true
+}

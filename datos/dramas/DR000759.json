@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000759",
+  "titulo": "2 Moons",
+  "tituloOriginal": "เดือนเกี้ยวเดือน",
+  "alias": [
+    "2 Moons: The Series",
+    "2Moons",
+    "2 Moons The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "serie": "SR000759",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2017-05-07",
+  "finalizacion": "2017-07-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phana",
+        "Wayo"
+      ]
+    },
+    {
+      "personajes": [
+        "Ming",
+        "Kit"
+      ]
+    }
+  ],
+  "sinopsis": "Wayo comienza sus estudios universitarios en la misma universidad que Phana, el chico del que lleva años enamorado. Cuando Wayo es elegido como la Luna de su facultad, debe trabajar junto a Phana, que fue la Luna de Medicina el año anterior y supervisa a los nuevos participantes. Mientras ambos se acercan, Ming, el mejor amigo de Wayo, comienza a cortejar a Kit, el mejor amigo de Phana.",
+  "activo": true
+}

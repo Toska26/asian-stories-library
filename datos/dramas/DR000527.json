@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000527",
+  "titulo": "The Sleuth of the Ming Dynasty",
+  "tituloOriginal": "成化十四年",
+  "alias": [
+    "Cheng Hua Shi Si Nian",
+    "The Story of Ming Dynasty",
+    "El detective de la dinastía Ming"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Fourteenth Year of Chenghua",
+    "tituloOriginal": "成化十四年",
+    "autor": "Meng Xi Shi",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 48,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-04-01",
+  "finalizacion": "2020-04-24",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Histórico",
+    "Misterio",
+    "Crimen"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Detectives"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tang Fan",
+        "Sui Zhou"
+      ]
+    }
+  ],
+  "sinopsis": "Durante el decimocuarto año del reinado del emperador Chenghua, el funcionario Tang Fan y el guardia de la Guardia de Brocado Sui Zhou unen sus fuerzas para resolver una serie de crímenes y descubrir una conspiración que amenaza la estabilidad de la corte imperial.",
+  "activo": true
+}

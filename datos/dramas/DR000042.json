@@ -1,0 +1,195 @@
+{
+  "codigo": "DR000042",
+  "titulo": "Naughty Babe",
+  "tituloOriginal": "ดื้อเฮียก็หาว่าซน",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000011",
+    "orden": 3
+  },
+  "universo": "",
+  "serie": "SR000042",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-09-02",
+  "finalizacion": "2023-10-21",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Yi",
+      "persona": "PR000309",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khondiao",
+      "persona": "PR000308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aon",
+      "persona": "PR000211",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lian",
+      "persona": "PR000425",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kuea",
+      "persona": "PR000426",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Makorn Chen",
+      "persona": "PR000409",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sattha",
+      "persona": "PR000444",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tem",
+      "persona": "PR000445",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sathapon",
+      "persona": "PR000446",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen",
+      "persona": "PR000447",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nuea",
+      "persona": "PR000428",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tam",
+      "persona": "PR000448",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Winner",
+      "persona": "PR000449",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000416",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000054",
+      "personajes": [
+        "Yi",
+        "Khondiao"
+      ]
+    },
+    {
+      "ship": "SH000071",
+      "personajes": [
+        "Lian",
+        "Kuea"
+      ]
+    }
+  ],
+  "sinopsis": "Khondiao está comprometido con Yi, pero siente que su relación se ha enfriado y decide alejarse. Cuando Yi descubre que puede perderlo, intenta recuperar su confianza y demostrarle lo que realmente siente.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/20c4ZGTF8nL3JmxyCASW8W5EgvG.jpg",
+      "https://image.springnews.co.th/uploads/images/contents/w1024/2023/06/xL0VtIr08Chw1ybn0Gie.webp?x-image-process=style%2Flg-webp",
+      "https://img.youtube.com/vi/AZOd8vxG95k/maxresdefault.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=AZOd8vxG95k"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=M_AJHnQDsGI"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=",
+      "https://www.youtube.com/watch?v=",
+      "https://www.youtube.com/watch?v=",
+      "https://www.youtube.com/watch?v="
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000043",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "activo": true
+}

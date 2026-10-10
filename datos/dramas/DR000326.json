@@ -1,0 +1,30 @@
+{
+  "codigo": "DR000326",
+  "titulo": "Game Over",
+  "alias": [
+    "Game Over The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 19,
+  "estado": "Finalizado",
+  "estreno": "2021-10-13",
+  "finalizacion": "2021-11-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance"
+  ],
+  "sinopsis": "Una historia BL centrada en las relaciones y los sentimientos de sus protagonistas, que deben enfrentarse a diferentes conflictos personales y sentimentales mientras intentan descubrir qué quieren realmente de sus relaciones.",
+  "activo": true
+}

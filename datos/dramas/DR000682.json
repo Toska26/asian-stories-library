@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000682",
+  "titulo": "Living With Him",
+  "tituloOriginal": "彼のいる生活",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Living With Him",
+    "tituloOriginal": "彼のいる生活",
+    "autor": "Miyata Toworu",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2024-04-12",
+  "finalizacion": "2024-05-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Convivencia",
+    "Universidad",
+    "Vida cotidiana",
+    "Slow burn"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Natsukawa Ryota",
+        "Tanaka Kazuhito"
+      ]
+    }
+  ],
+  "sinopsis": "Ryota Natsukawa comienza la universidad dispuesto a disfrutar de su independencia, pero descubre que su compañero de piso será Kazuhito Tanaka, su amigo de la infancia. Mientras intentan descubrir por qué Kazuhito nunca ha tenido novia, sus sentimientos comienzan a cambiar.",
+  "activo": true
+}

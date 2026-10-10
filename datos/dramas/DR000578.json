@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000578",
+  "titulo": "The Company",
+  "tituloOriginal": "哑舍",
+  "alias": [
+    "Ya She",
+    "Reliquias del futuro"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Ya She",
+    "tituloOriginal": "哑舍",
+    "autor": "Xuan Se",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-12-17",
+  "finalizacion": "2025-12-28",
+  "generos": [
+    "Bromance",
+    "Fantasía",
+    "Drama",
+    "Aventura"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela Danmei",
+    "Censura",
+    "Viajes en el tiempo",
+    "Antigüedades",
+    "Doble protagonista"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bi Zhi",
+        "Su Beilu"
+      ]
+    }
+  ],
+  "sinopsis": "Bi Zhi, propietario de una tienda de antigüedades procedente del futuro, conoce a Su Beilu, un veterinario de la época moderna. Ambos forman una alianza para recuperar objetos antiguos perdidos mientras viajan a través de diferentes épocas y descubren las historias vinculadas a cada reliquia.",
+  "activo": true
+}

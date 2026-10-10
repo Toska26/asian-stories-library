@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000895",
+  "titulo": "Absolute Zero",
+  "tituloOriginal": "องศาสูญ",
+  "alias": [
+    "Absolute Zero The Series",
+    "Absolute Zero Ongsa Sun"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Absolute Zero",
+    "tituloOriginal": "องศาสูญ",
+    "autor": "Salil",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-09-27",
+  "finalizacion": "2023-12-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Viaje temporal",
+    "Líneas temporales",
+    "Paradojas temporales",
+    "Destino",
+    "Segundas oportunidades",
+    "Amor juvenil",
+    "Amor a través del tiempo",
+    "Accidente",
+    "Universo alternativo",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ongsa",
+        "Suansoon"
+      ]
+    }
+  ],
+  "sinopsis": "Suansoon y Ongsa se conocen siendo jóvenes y comienzan una relación que se prolonga durante años. Diez años después, un accidente cambia sus vidas y Suansoon desea no haber conocido nunca a Ongsa. Cuando despierta en el pasado y se encuentra con el joven Ongsa, ambos quedan atrapados en una serie de acontecimientos temporales que los obligan a enfrentarse a las consecuencias de sus decisiones y a luchar por un futuro en el que puedan permanecer juntos.",
+  "activo": true
+}

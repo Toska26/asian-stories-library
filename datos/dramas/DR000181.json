@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000181",
+  "titulo": "Saint Laurence Academy",
+  "tituloOriginal": "",
+  "alias": [
+    "Saint Laurence Academy",
+    "CITYBOY_IF: SLA"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "11 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-20",
+  "finalizacion": "2026-02-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Internado",
+    "Relación secreta",
+    "Enfermero escolar",
+    "Tabú",
+    "Diferencia de edad",
+    "Abuso",
+    "Bullying",
+    "Familia adinerada",
+    "Cámara oculta"
+  ],
+  "personas": [
+    {
+      "nombre": "Yumin",
+      "persona": "PR000726",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Hyun",
+      "persona": "PR000728",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yumin",
+        "Lee Hyun"
+      ]
+    }
+  ],
+  "sinopsis": "Yumin es uno de los alumnos más destacados de Saint Laurence Academy, un internado de élite sometido a estrictas normas de conducta. Mientras intenta mantener una imagen perfecta ante profesores y compañeros, mantiene en secreto una relación con Lee Hyun, el enfermero de la escuela. La diferencia de edad, la posición de autoridad y la violencia que aparece dentro de la relación convierten su romance en un secreto cada vez más peligroso.",
+  "entidades": [
+    {
+      "codigo": "EN000145",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

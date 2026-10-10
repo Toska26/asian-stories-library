@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001017",
+  "titulo": "Mystique in the Mirror",
+  "tituloOriginal": "ใครในกระจก",
+  "alias": [
+    "Someone in the Mirror",
+    "Khrai Nai Krajok"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Mystique in the Mirror",
+    "tituloOriginal": "ใครในกระจก",
+    "autor": "Patrick III Rangsimant",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "47 min",
+  "estado": "Finalizado",
+  "estreno": "2025-10-22",
+  "finalizacion": "2025-12-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Sobrenatural",
+    "Thriller"
+  ],
+  "tags": [
+    "Espejo",
+    "Hospital psiquiátrico",
+    "Memoria",
+    "Identidad",
+    "Misterio",
+    "Sobrenatural",
+    "Secretos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Alan",
+        "Darwin"
+      ]
+    }
+  ],
+  "sinopsis": "Alan comienza a experimentar fenómenos extraños cada vez que se mira en un espejo, donde aparece la figura de un anciano. Su familia, preocupada por su estado mental, lo lleva a un hospital psiquiátrico. Allí conoce a Darwin, un joven que parece estar relacionado con los misterios que rodean sus recuerdos y su identidad. Mientras ambos intentan descubrir qué se esconde detrás de las apariciones, su relación se transforma en algo más profundo.",
+  "activo": true
+}

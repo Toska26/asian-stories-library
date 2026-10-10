@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000708",
+  "titulo": "Love Begins in the World of If",
+  "tituloOriginal": "ifの世界で恋がはじまる",
+  "alias": [
+    "If no Sekai de Koi ga Hajimaru"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Love Begins in the World of If",
+    "tituloOriginal": "ifの世界で恋がはじまる",
+    "autor": "Umino Sachi",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2025-11-20",
+  "finalizacion": "2025-12-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Mundo paralelo",
+    "Realidad alternativa",
+    "Oficina",
+    "Compañeros de trabajo",
+    "Amor adulto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kano Akihito",
+        "Ogami Seiji"
+      ]
+    }
+  ],
+  "sinopsis": "Kano Akihito, un trabajador de oficina reservado que no consigue adaptarse a su entorno laboral, encuentra una misteriosa realidad paralela en la que su vida es diferente. Allí descubre que Ogami Seiji, su compañero de trabajo y antiguo objeto de admiración, le muestra unos sentimientos que nunca había visto en el mundo real.",
+  "activo": true
+}

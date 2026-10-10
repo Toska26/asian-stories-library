@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000276",
+  "titulo": "Why Love Why",
+  "tituloOriginal": "Why Love Why? The Series",
+  "alias": [
+    "Why Love, Why?",
+    "Why Love Why Season 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000276",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 28,
+  "estado": "Finalizado",
+  "estreno": "2020-11-14",
+  "finalizacion": "2021-01-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Familia",
+    "Identidad",
+    "Aceptación",
+    "Amistad",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Benjo",
+        "Emil"
+      ]
+    }
+  ],
+  "sinopsis": "Benjo y Emil afrontan una relación marcada por las dificultades personales, familiares y sociales mientras intentan comprender sus sentimientos y decidir qué lugar ocupa el amor en sus vidas.",
+  "activo": true
+}

@@ -1,0 +1,114 @@
+{
+  "codigo": "DR000085",
+  "titulo": "A Tale of Thousand Stars",
+  "tituloOriginal": "นิทานพันดาว",
+  "alias": [
+    "1000 Stars"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000085",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "65 min",
+  "estado": "Finalizado",
+  "estreno": "2021-01-29",
+  "finalizacion": "2021-04-02",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Vida rural",
+    "Profesor",
+    "Naturaleza"
+  ],
+  "personas": [
+    {
+      "nombre": "Phupha",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tian",
+      "persona": "PR000514",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000079",
+      "personajes": [
+        "Phupha",
+        "Tian"
+      ]
+    }
+  ],
+  "sinopsis": "Tian recibe un trasplante de corazón tras la muerte de Torfun, una joven maestra voluntaria. Después de conocer su historia y descubrir su último deseo, decide viajar hasta la aldea de Pha Pun Dao para ocupar su puesto como profesor voluntario. Allí conoce a Phupha, el jefe de los guardabosques, con quien inicialmente mantiene una relación complicada que poco a poco se transforma en un vínculo cada vez más profundo.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/df/9d/7e/df9d7e24c06228ffa49bb459190e27c3.jpg",
+      "https://i.pinimg.com/736x/d2/20/18/d22018aaaa1270635342fc2d60795065.jpg",
+      "https://media.senscritique.com/media/000020255386/0/a_tale_of_thousand_stars.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=o-gaRz2AE_Y"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=O-QWKCcbRFg",
+      "https://www.youtube.com/watch?v=MYmRz0Qkwkw",
+      "https://www.youtube.com/watch?v=KEYwYja1Ndg",
+      "https://www.youtube.com/watch?v=o2YLervmNAk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — A Tale of Thousand Stars",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: Bad Buddy × A Tale of Thousand Stars"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 4,
+      "estreno": "2023-05-31"
+    }
+  ],
+  "activo": true
+}

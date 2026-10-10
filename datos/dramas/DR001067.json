@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001067",
+  "titulo": "Mr. Fanboy",
+  "tituloOriginal": "รักสุดใจนายแฟนบอย",
+  "alias": [
+    "Rak Sut Jai Nai Fanboy",
+    "Mr. Fanboy Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Mr. Fanboy",
+    "tituloOriginal": "รักสุดใจนายแฟนบอย",
+    "autor": "littlebbear96",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "En emisión",
+  "estreno": "2026-08-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Cultura fan",
+    "Industria del entretenimiento",
+    "Vida universitaria",
+    "De enemigos a amantes",
+    "Slow burn",
+    "Celos",
+    "Fama y privacidad",
+    "Pareja secundaria",
+    "Mandee Work"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wan",
+        "Third"
+      ]
+    },
+    {
+      "personajes": [
+        "Renji",
+        "Time"
+      ]
+    }
+  ],
+  "sinopsis": "Wan es un joven alegre y un fanboy entregado al popular actor Nine, a quien admira desde la distancia. Su vida cambia cuando consigue una audición y entra en la misma industria del entretenimiento que su ídolo. Allí conoce a Third, compañero de trabajo de Nine, que inicialmente desconfía de Wan y cree que ha cruzado los límites de un fan. A medida que los rodajes se complican, Third termina ayudándolo y ambos empiezan a descubrir una conexión que va más allá de sus primeras impresiones. Wan tendrá que distinguir entre la imagen idealizada que construyó de Nine y los sentimientos que nacen junto a Third. Paralelamente, sus compañeros Renji y Time amplían la trama romántica dentro del mundo profesional que Wan acaba de descubrir.",
+  "activo": true
+}

@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000966",
+  "titulo": "Kidnap",
+  "tituloOriginal": "ลับ-จ้าง-รัก",
+  "alias": [
+    "Kidnap",
+    "KIDNAP: Lap-Chang-Rak",
+    "Lap-Chang-Rak",
+    "Lab-Chang-Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-09-06",
+  "finalizacion": "2024-11-22",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Secuestro",
+    "Guardaespaldas",
+    "Crimen",
+    "Diferencia de estatus",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Min",
+        "Q"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Kidnap Special",
+      "fecha": "2024-08-30",
+      "tipo": "Narrativo"
+    }
+  ],
+  "sinopsis": "Min, un joven especialista en acrobacias y trabajos de riesgo que necesita dinero para cubrir los gastos médicos de su hermano, acepta un encargo para secuestrar a Q, el hijo de un alto cargo de la policía. Sin embargo, cuando recibe la orden de matarlo, Min decide perdonarle la vida. Obligados a permanecer juntos, ambos comienzan a conocerse y desarrollan un vínculo que acaba transformándose en amor mientras las amenazas del pasado regresan para ponerlos en peligro.",
+  "activo": true
+}

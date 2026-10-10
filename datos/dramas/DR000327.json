@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000327",
+  "titulo": "Serpiente",
+  "alias": [
+    "Serpiente: The BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 13,
+  "estado": "Finalizado",
+  "estreno": "2021-04-03",
+  "finalizacion": "2021-06-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Amistad",
+    "Traición",
+    "Celos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sam",
+        "Renz"
+      ]
+    }
+  ],
+  "sinopsis": "Sam y Renz mantienen una relación marcada por el amor, la amistad y la traición. La aparición de otras personas y las decisiones de Sam ponen a prueba los sentimientos de Renz y llevan a ambos a enfrentarse a las consecuencias de sus elecciones.",
+  "activo": true
+}

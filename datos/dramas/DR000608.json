@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000608",
+  "titulo": "Sleep Therapist",
+  "tituloOriginal": "睡眠治疗师",
+  "alias": [
+    "Shuimian Zhiliao Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 12,
+  "estado": "En emisión",
+  "estreno": "2026-09-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Insomnio",
+    "Sanación",
+    "Trabajo a tiempo parcial",
+    "Relación por contrato",
+    "Diferencia de poder",
+    "Protagonista rico",
+    "Cocinero",
+    "Cuidador",
+    "Exnovio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gu Heng",
+        "Qin Yanlei"
+      ]
+    }
+  ],
+  "sinopsis": "Gu Heng trabaja en varios empleos mientras ahorra para cumplir su sueño de abrir un restaurante. Entre ellos se encuentra su trabajo como acompañante profesional del sueño, una actividad estrictamente no sexual destinada a ayudar a personas con insomnio a relajarse y dormir. Su vida cambia cuando conoce a Qin Yanlei, un joven empresario que sufre de insomnio crónico. Después de que Qin descubre el servicio de Gu Heng, comienza a contratarlo para mejorar su descanso. La relación profesional entre ambos se transforma poco a poco en una conexión emocional que ninguno de los dos esperaba.",
+  "activo": true
+}

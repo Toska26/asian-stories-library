@@ -1,0 +1,117 @@
+{
+  "codigo": "DR000056",
+  "titulo": "Even Sun",
+  "tituloOriginal": "ฉันนี่แหละนายอาทิตย์",
+  "alias": [
+    "Even Sun Series",
+    "I'm Mr. Arthid"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000056",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2022-06-29",
+  "finalizacion": "2022-08-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Arthit",
+      "persona": "PR000059",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sun",
+      "persona": "PR000058",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mangkorn",
+      "persona": "PR000549",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ashing",
+      "persona": "PR000347",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "JJ",
+      "persona": "PR000472",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nai",
+      "persona": "PR000473",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000014",
+      "personajes": [
+        "Arthit",
+        "Sun"
+      ]
+    },
+    {
+      "ship": "SH000102",
+      "personajes": [
+        "Mangkorn",
+        "Ashing"
+      ]
+    }
+  ],
+  "sinopsis": "Sun es un cobrador de deudas que no consigue cobrar ninguna. Cuando su padre le encarga cobrar una deuda a Arthit, viaja hasta la isla donde vive su objetivo. Allí conoce a Talay y Nai, amigos de Arthit, y poco a poco su misión comienza a convertirse en una historia de amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/8f/d0/7b/8fd07bbd67647fd2a2fc393930b4e690.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=aEvDt94-bew"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

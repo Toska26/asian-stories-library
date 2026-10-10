@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001065",
+  "titulo": "Nour",
+  "tituloOriginal": "นูร์",
+  "alias": [
+    "Nour The Series",
+    "NOUR"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "En emisión",
+  "estreno": "2026-08-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Misterio",
+    "Crimen"
+  ],
+  "tags": [
+    "Investigación policial",
+    "Medicina forense",
+    "Incendios provocados",
+    "Maldición ancestral",
+    "Elementos sobrenaturales",
+    "Secretos del pasado",
+    "Destino",
+    "Parejas paralelas",
+    "WeTV Original",
+    "TaiLai Entertainment"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "James",
+        "Ken"
+      ]
+    },
+    {
+      "personajes": [
+        "Jirat",
+        "Chita"
+      ]
+    }
+  ],
+  "sinopsis": "El joven policía James se encuentra con el enigmático sargento Ken cuando ambos investigan una serie de incendios relacionados con un antiguo caso sin resolver. A medida que avanzan en la investigación, sus destinos quedan cada vez más unidos y empiezan a surgir sentimientos que ninguno de los dos había previsto. Paralelamente, el médico forense Jirat desarrolla una relación especial con Chita, su asistente, mientras trabajan para descubrir la verdad que esconden las pruebas y las muertes que rodean el caso. Las pesquisas revelan que los incendios están conectados con una maldición que se extiende a lo largo de varias generaciones. Entre secretos, corrupción y fuerzas sobrenaturales, las dos parejas tendrán que enfrentarse a un pasado que amenaza con destruir sus vidas.",
+  "activo": true
+}

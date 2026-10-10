@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000814",
+  "titulo": "Bite Me",
+  "tituloOriginal": "ส่งร้อน เสิร์ฟรัก",
+  "alias": [
+    "Bite Me The Series",
+    "Grab a Bite",
+    "Grab Me a Bite to Eat",
+    "Send Hot Served Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Grab a Bite",
+    "tituloOriginal": "ส่งร้อน เสิร์ฟรัก",
+    "autor": "Sammon",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": "45-50 min",
+  "estado": "Finalizado",
+  "estreno": "2021-08-29",
+  "finalizacion": "2021-11-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Cocina",
+    "Chef",
+    "Restaurante",
+    "Repartidor",
+    "Universidad",
+    "Gastronomía",
+    "Competición culinaria",
+    "Amistad",
+    "Familia",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Aue",
+        "Aek"
+      ]
+    },
+    {
+      "personajes": [
+        "Vich",
+        "Prem"
+      ]
+    },
+    {
+      "personajes": [
+        "Lek",
+        "Chompoo"
+      ]
+    },
+    {
+      "personajes": [
+        "Bie",
+        "Eve"
+      ]
+    }
+  ],
+  "sinopsis": "Aue es un chef talentoso y finalista del concurso The Chef Master, pero siente que le falta algo para alcanzar la perfección culinaria. Un día conoce a Aek, un joven repartidor con un extraordinario sentido del gusto. Fascinado por sus capacidades, Aue intenta incorporarlo a su cocina y la relación entre ambos se transforma progresivamente en algo más profundo mientras afrontan sus inseguridades, sus sueños y las exigencias del mundo gastronómico.",
+  "especiales": [
+    {
+      "titulo": "Bite Me Special Episode",
+      "alias": [
+        "Bite Me Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-11-14"
+    }
+  ],
+  "activo": true
+}

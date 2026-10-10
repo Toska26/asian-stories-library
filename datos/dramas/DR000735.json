@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000735",
+  "titulo": "Your Summer, My Storm",
+  "tituloOriginal": "夏色の雲が恋と嵐をまきおこす",
+  "alias": [
+    "Natsuiro no Kumo ga Koi to Arashi wo Makiokosu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "23-24 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-11",
+  "finalizacion": "2026-09-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Takemiya Natsuki",
+        "Kobayagawa Sota"
+      ]
+    }
+  ],
+  "sinopsis": "Natsuki Takemiya es un estudiante de último curso que, durante el verano, comienza a recibir clases de su tutor Sota Kobayagawa, el novio de su hermana. Lo que inicialmente parece una relación incómoda se convierte en su primer amor. Con el tiempo, Sota también reconoce sus sentimientos por Natsuki, aunque ambos deciden mantener una relación sin nombre mientras persiguen sus propios sueños.",
+  "activo": true
+}

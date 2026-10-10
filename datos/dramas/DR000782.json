@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000782",
+  "titulo": "With Love",
+  "tituloOriginal": "With Love The Series",
+  "alias": [
+    "With Love The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "estado": "Finalizado",
+  "estreno": "2019-09-24",
+  "finalizacion": "2019-11-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Residencia",
+    "Amistad",
+    "Primer amor",
+    "Vida cotidiana"
+  ],
+  "sinopsis": "Un grupo de jóvenes universitarios comienza a compartir una residencia y a convivir mientras afronta los estudios, las amistades y sus primeras relaciones amorosas. A través de diferentes vínculos y situaciones cotidianas, la convivencia hace que los sentimientos entre varios de ellos evolucionen y que tengan que descubrir qué significa realmente amar y confiar en otra persona.",
+  "activo": true
+}

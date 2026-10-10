@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000540",
+  "titulo": "I’ll Turn Back This Time",
+  "tituloOriginal": "这次换我先回头",
+  "alias": [
+    "Zhe Ci Huan Wo Xian Hui Tou"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2025-01-11",
+  "finalizacion": "2025-02-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Familia",
+    "Reencuentro",
+    "Amor prohibido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Nan",
+        "Gu Shiwen"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Nan y Gu Shiwen se convierten en hermanastros después del matrimonio de sus padres. Lo que comienza como una relación familiar complicada evoluciona hacia sentimientos románticos que ambos deben afrontar.",
+  "activo": true
+}

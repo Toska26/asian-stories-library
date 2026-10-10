@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000889",
+  "titulo": "I Will Knock You",
+  "tituloOriginal": "พี่จะตีนะเนย",
+  "alias": [
+    "I Will Hit You",
+    "I Will Hit You Na, Noei",
+    "Phi Ja Tee Na Noei"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "I Will Hit You Na, Noei",
+    "tituloOriginal": "พี่จะตีนะเนย",
+    "autor": "KoreanRabbit",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "40-45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-11-18",
+  "finalizacion": "2023-02-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Tutor y alumno",
+    "Universidad",
+    "Instituto",
+    "Enemigos a amantes",
+    "Amor a primera vista",
+    "Diferencia de edad",
+    "Pandilla escolar",
+    "Comedia romántica",
+    "Amor juvenil",
+    "Superación",
+    "Familia",
+    "Reforma personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thi",
+        "Noey"
+      ]
+    }
+  ],
+  "sinopsis": "Thi es un estudiante universitario que trabaja como tutor para otros jóvenes. Un día interviene cuando uno de sus alumnos es acosado por Noey, un joven que lidera una pequeña pandilla con una estética inspirada en los años ochenta. Después del enfrentamiento, Noey interpreta erróneamente que Thi está interesado en él y comienza a perseguirlo con una mezcla de determinación y torpeza. Lo que empieza como una serie de encuentros incómodos acaba transformándose en una relación cada vez más cercana cuando Thi se convierte también en tutor de Noey. Mientras Noey intenta cambiar su comportamiento y Thi descubre una faceta más vulnerable del chico, ambos terminan enamorándose.",
+  "activo": true
+}

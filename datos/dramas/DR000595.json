@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000595",
+  "titulo": "The Summer You Kissed Me",
+  "tituloOriginal": "被你吻过的夏天",
+  "alias": [
+    "Bei Ni Wen Guo De Xia Tian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 12,
+  "estado": "Finalizado",
+  "estreno": "2026-06-04",
+  "finalizacion": "2026-06-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Primer amor",
+    "Instituto",
+    "Amigos a amantes",
+    "Verano",
+    "Reencuentro",
+    "Pueblo costero"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Yu",
+        "Haisheng"
+      ]
+    }
+  ],
+  "sinopsis": "Xia Yu se traslada desde la ciudad a un pequeño pueblo costero después del divorcio de sus padres y empieza una nueva vida junto a su abuela. Allí conoce a Haisheng, un joven del lugar de carácter alegre y espontáneo. Al convertirse en compañeros de pupitre, su amistad se transforma poco a poco en sentimientos que ninguno de los dos se había atrevido a reconocer.",
+  "activo": true
+}

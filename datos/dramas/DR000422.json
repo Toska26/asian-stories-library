@@ -1,0 +1,25 @@
+{
+  "codigo": "DR000422",
+  "titulo": "Ai Là Người Thứ Ba",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-06-17",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Pareja",
+    "Celos",
+    "Infidelidad",
+    "Traición"
+  ],
+  "sinopsis": "Una historia centrada en una relación de pareja que comienza a verse afectada por los celos, la desconfianza y la aparición de una tercera persona.",
+  "activo": true
+}

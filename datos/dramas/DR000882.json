@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000882",
+  "titulo": "Hard Love Mission",
+  "tituloOriginal": "ภารกิจโหดเปลี่ยนเป็นโหมดรัก",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": "22-27 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-15",
+  "finalizacion": "2022-11-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Celebridades",
+    "Manager",
+    "Periodismo",
+    "Entrevista",
+    "Isla",
+    "Convivencia",
+    "Forced proximity",
+    "Mundo del espectáculo",
+    "Trabajo",
+    "Enemigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoshi",
+        "Putter"
+      ]
+    }
+  ],
+  "sinopsis": "Yoshi y Ampere reciben la oportunidad de realizar una entrevista exclusiva a Putter, una de las mayores estrellas del momento. Ambos viajan a la isla de Ko Samet, pero una serie de circunstancias inesperadas obliga a Yoshi a convertirse temporalmente en el manager personal del actor. Además de encargarse de sus necesidades y completar las numerosas misiones que Putter le impone, Yoshi debe evitar que Vivi se acerque demasiado a la estrella y provoque un escándalo mediático. La convivencia y el tiempo que pasan juntos hacen que Yoshi descubra una faceta mucho más vulnerable de Putter y que la relación profesional entre ambos se transforme poco a poco en algo más.",
+  "activo": true
+}

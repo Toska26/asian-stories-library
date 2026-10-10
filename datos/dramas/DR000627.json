@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000627",
+  "titulo": "Cherry Magic! Valentine's Day & Rokkaku Arc",
+  "tituloOriginal": "30歳まで童貞だと魔法使いになれるらしい スピンオフ バレンタイン編＆六角編",
+  "alias": [
+    "Cherry Magic! Spin-off: Valentine's Day & Rokkaku Arc",
+    "Cherry Magic! Valentine Arc & Rokkaku Arc"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000038",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-12-24",
+  "finalizacion": "2020-12-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Oficina",
+    "San Valentín",
+    "Amor correspondido",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Adachi Kiyoshi",
+        "Kurosawa Yuichi"
+      ]
+    }
+  ],
+  "sinopsis": "Especial dividido en dos historias. En Valentine Arc, Kurosawa recuerda sus antiguos San Valentín y se propone entregar por fin un chocolate a Adachi. En Rokkaku Arc, Rokkaku comienza a sospechar que existe algo especial entre Adachi y Kurosawa y decide investigar la relación entre ambos.",
+  "activo": true
+}

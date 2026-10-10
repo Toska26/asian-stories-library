@@ -1,0 +1,161 @@
+{
+  "codigo": "DR000155",
+  "titulo": "Jazz for Two",
+  "tituloOriginal": "재즈처럼",
+  "alias": [
+    "Jazz for Two",
+    "Jazz Like That",
+    "Jaejeu Cheoreom"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000005",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2024-03-26",
+  "finalizacion": "2024-03-29",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Musical",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Música",
+    "Jazz",
+    "Primer amor",
+    "Trauma",
+    "Amistad",
+    "Universo compartido"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Tae-yi",
+      "persona": "PR000663",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoon Seo-heon",
+      "persona": "PR000664",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seo Do-yoon",
+      "persona": "PR000665",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Joo-ha",
+      "persona": "PR000666",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Da Yeol",
+      "persona": "PR000629",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jo Tae-hyun",
+      "persona": "PR000630",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Tae-yi",
+        "Yoon Seo-heon"
+      ]
+    },
+    {
+      "personajes": [
+        "Seo Do-yoon",
+        "Song Joo-ha"
+      ]
+    }
+  ],
+  "sinopsis": "Han Tae Yi, un estudiante talentoso que perdió el interés por la música tras la muerte de su hermano, conoce a Yoon Se Heon, un nuevo alumno apasionado por el jazz. Ambos son asignados al mismo grupo musical y, pese a sus diferencias, comienzan a acercarse mientras la música despierta recuerdos dolorosos del pasado de Tae Yi. La llegada de Se Heon también revela una conexión inesperada con el hermano de Tae Yi.",
+  "multimedia": {
+    "ost": [
+      "https://www.youtube.com/watch?v=O9MH-a_mxlI",
+      "https://www.youtube.com/watch?v=21Q3wMBGDwE",
+      "https://www.youtube.com/watch?v=lvETovg5UPc",
+      "https://www.youtube.com/watch?v=lfXNM9jn904",
+      "https://www.youtube.com/watch?v=IRmKUOzaqEQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000116",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000117",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000114",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000111",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

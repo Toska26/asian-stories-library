@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000318",
+  "titulo": "In This Kaleidoscope World",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 13,
+  "estado": "Finalizado",
+  "estreno": "2021-06-28",
+  "finalizacion": "2021-08-20",
+  "generos": [
+    "BL",
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "GL",
+    "Romance",
+    "Triángulo amoroso",
+    "Experimentación",
+    "Amor"
+  ],
+  "sinopsis": "Una historia experimental que explora diferentes formas de atracción, sentimientos y relaciones entre sus personajes. La producción combina elementos BL y GL y desarrolla una relación de tres personas a través de distintas etapas y perspectivas.",
+  "activo": true
+}

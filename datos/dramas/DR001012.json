@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001012",
+  "titulo": "I'm the Most Beautiful Count",
+  "tituloOriginal": "ฉันนี่แหละท่านขุนที่สวยที่สุด",
+  "alias": [
+    "I'm The Most Beautiful Count",
+    "ฉันนี่แหละท่านขุนที่สวยที่สุด"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "I'm the Most Beautiful Count",
+    "autor": "YKP Studio",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "estado": "Finalizado",
+  "estreno": "2025-08-01",
+  "finalizacion": "2025-10-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Fantasía",
+    "Comedia"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Reencarnación",
+    "Época",
+    "Palacio",
+    "Intriga política",
+    "Amor prohibido",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Woradet",
+        "Kosol"
+      ]
+    },
+    {
+      "personajes": [
+        "Woradet",
+        "Chaiyachet"
+      ]
+    }
+  ],
+  "sinopsis": "Prince, una estrella tailandesa que vive abiertamente como una persona LGBTQ+, despierta inesperadamente en el pasado, dentro del cuerpo de Woradet, un joven noble obligado a ocultar su identidad en una época en la que el amor entre personas del mismo sexo está prohibido. Mientras intenta descubrir qué ocurrió con la vida y el amor de Woradet, se ve envuelto en intrigas palaciegas, conspiraciones políticas y una lucha por proteger al joven rey Chaiyachet y a Mom Kosol.",
+  "activo": true
+}

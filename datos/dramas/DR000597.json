@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000597",
+  "titulo": "Blazing Him",
+  "tituloOriginal": "炽热的他",
+  "alias": [
+    "Chi Re De Ta"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2026-06-24",
+  "finalizacion": "2026-07-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Industria musical",
+    "Reencuentro",
+    "Amigos de infancia",
+    "Sanación",
+    "Trauma",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhou Jingan",
+        "Xu Xingyao"
+      ]
+    }
+  ],
+  "sinopsis": "Xu Xingyao entra en una compañía musical decidido a mantenerse alejado de los escenarios, pero allí se reencuentra con Zhou Jingan, su antiguo amigo y protector de la infancia, ahora convertido en productor musical. Cuando Zhou descubre que Xingyao es también el misterioso cantante enmascarado al que admiraba, decide acompañarlo mientras intenta superar sus heridas del pasado y recuperar su confianza.",
+  "activo": true
+}

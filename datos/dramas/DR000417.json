@@ -1,0 +1,24 @@
+{
+  "codigo": "DR000417",
+  "titulo": "Bao Lô",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-01-10",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Lotería",
+    "Apuestas",
+    "Crimen"
+  ],
+  "sinopsis": "Una historia ambientada alrededor de personajes relacionados con la lotería y las apuestas, en la que las circunstancias y decisiones de los protagonistas generan situaciones de humor y conflicto.",
+  "activo": true
+}

@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000897",
+  "titulo": "Be My Favorite",
+  "tituloOriginal": "บทกวีของปีแสง",
+  "alias": [
+    "Be My Favorite The Series",
+    "You Are My Favorite"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "บทกวีของปีแสง",
+    "tituloOriginal": "บทกวีของปีแสง",
+    "autor": "JittiRain",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-05-26",
+  "finalizacion": "2023-08-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Viaje temporal",
+    "Línea temporal alternativa",
+    "Segundas oportunidades",
+    "Amor universitario",
+    "Amigos a amantes",
+    "Amor no correspondido",
+    "Triángulo amoroso",
+    "Destino",
+    "Cambio personal",
+    "Bola de cristal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kawi",
+        "Pisaeng"
+      ]
+    },
+    {
+      "personajes": [
+        "Kawi",
+        "Pear"
+      ]
+    }
+  ],
+  "sinopsis": "Kawi es un joven solitario que siempre ha sentido que su vida no salió como esperaba. Cuando una misteriosa bola de cristal le permite viajar al pasado, decide utilizar la oportunidad para cambiar su futuro y acercarse a Pear, la chica que siempre ha amado. Sin embargo, sus cambios alteran las relaciones de todos a su alrededor y, especialmente, hacen que Pisaeng se convierta en una presencia cada vez más importante en su vida.",
+  "activo": true
+}

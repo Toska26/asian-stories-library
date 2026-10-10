@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000967",
+  "titulo": "The Hidden Moon",
+  "tituloOriginal": "เดือนพราง",
+  "alias": [
+    "The Hidden Moon",
+    "Duean Prang"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-09-07",
+  "finalizacion": "2024-11-09",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Terror",
+    "Misterio"
+  ],
+  "tags": [
+    "Sobrenatural",
+    "Casa encantada",
+    "Secretos familiares",
+    "Vida pasada",
+    "Época"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khen",
+        "Mas"
+      ]
+    }
+  ],
+  "sinopsis": "Tras un accidente, Khen comienza a experimentar sucesos extraños que lo llevan hasta una antigua mansión relacionada con una familia marcada por secretos del pasado. Allí conoce a Mas, hijo del propietario de la casa, y ambos desarrollan un vínculo cada vez más profundo mientras intentan descubrir la verdad sobre los fenómenos sobrenaturales que rodean la mansión.",
+  "activo": true
+}

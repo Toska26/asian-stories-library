@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000560",
+  "titulo": "Until We Drown",
+  "tituloOriginal": "沉溺到底",
+  "alias": [
+    "Chen Ni Dao Di"
+  ],
+  "pais": [
+    "CN",
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000020",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2025-11-06",
+  "finalizacion": "2025-12-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Coproducción",
+    "China-Japón",
+    "Reencuentro",
+    "Amor complicado"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cheng Yu",
+        "Cheng Jiang"
+      ]
+    }
+  ],
+  "sinopsis": "Cheng Yu y Cheng Jiang protagonizan una historia de amor marcada por los sentimientos, los recuerdos y las circunstancias que dificultan su relación. A medida que ambos se acercan, deberán enfrentarse a las consecuencias de sus decisiones y a los sentimientos que intentan contener.",
+  "activo": true
+}

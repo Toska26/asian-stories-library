@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000643",
+  "titulo": "Minato's Laundromat",
+  "tituloOriginal": "みなと商事コインランドリー",
+  "alias": [
+    "Minato Shouji Coin Laundry",
+    "Minato Shōji Coin Laundry"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000643",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2022-07-06",
+  "finalizacion": "2022-09-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Diferencia de edad",
+    "Amor de juventud",
+    "Primer amor",
+    "Reencuentro",
+    "Coming of age",
+    "Relación profesor-alumno"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minato Akira",
+        "Katsuki Shintaro"
+      ]
+    },
+    {
+      "personajes": [
+        "Hanabusa Asuka",
+        "Sakuma Shu"
+      ]
+    }
+  ],
+  "sinopsis": "Minato Akira, un hombre de 30 años que ha heredado la antigua lavandería de su abuelo, lleva una vida tranquila hasta que conoce a Katsuki Shintaro, un atractivo estudiante de secundaria que empieza a frecuentar el local. Shintaro descubre que Minato es gay y poco a poco desarrolla sentimientos por él, mientras Minato intenta resistirse debido a la diferencia de edad y a las circunstancias de Shintaro. Paralelamente, Hanabusa Asuka se acerca a Sakuma Shu, dando lugar a una segunda historia de amor.",
+  "activo": true
+}

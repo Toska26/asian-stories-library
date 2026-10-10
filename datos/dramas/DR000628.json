@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000628",
+  "titulo": "Cherry Magic! Tsuge & Minato Arc",
+  "tituloOriginal": "30歳まで童貞だと魔法使いになれるらしい スピンオフ 柘植・湊編",
+  "alias": [
+    "Cherry Magic! Spin-off: Tsuge & Minato Arc"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000038",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-12-24",
+  "finalizacion": "2020-12-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Convivencia",
+    "Malentendido",
+    "Amor correspondido",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tsuge Masato",
+        "Wataya Minato"
+      ]
+    }
+  ],
+  "sinopsis": "Tsuge celebra que su nueva obra ha recibido un premio mientras Minato llega a la fase final de una importante audición de baile. Aunque ambos parecen estar viviendo un buen momento, Minato guarda una preocupación que Tsuge no consigue percibir, provocando un distanciamiento entre los dos.",
+  "activo": true
+}

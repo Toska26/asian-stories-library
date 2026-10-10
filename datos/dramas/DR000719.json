@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000719",
+  "titulo": "Takumi-kun Series: The Dawn of the Long Tales",
+  "tituloOriginal": "タクミくんシリーズ 長い長い物語の始まりの朝。",
+  "alias": [
+    "Takumi-kun Series 6",
+    "Nagai Nagai Monogatari no Hajimari no Asa"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 6
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "77 min",
+  "estado": "Finalizado",
+  "estreno": "2023-05-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    }
+  ],
+  "sinopsis": "Durante el examen de ingreso en la Academia Shidō, Takumi conoce por primera vez a Gii. La historia muestra el comienzo de su relación y el nacimiento de la larga historia de amor entre ambos.",
+  "activo": true
+}

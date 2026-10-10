@@ -1,0 +1,127 @@
+{
+  "codigo": "DR000066",
+  "titulo": "Cherry Magic 30 ยังซิง",
+  "tituloOriginal": "30 ยังซิง",
+  "alias": [
+    "Cherry Magic Thailand"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000066",
+  "remake": {
+    "codigo": "RM000066",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2023-12-09",
+  "finalizacion": "2024-03-02",
+  "generos": [
+    "Comedia",
+    "Fantasía",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Karan",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Achi",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinta",
+      "persona": "PR000529",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Min",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Karan",
+        "Achi"
+      ]
+    },
+    {
+      "ship": "SH000089",
+      "personajes": [
+        "Jinta",
+        "Min"
+      ]
+    }
+  ],
+  "sinopsis": "Achi es un empleado de una empresa de material de oficina que sigue soltero y virgen al cumplir treinta años. Ese día descubre que ha adquirido la capacidad de leer la mente de otras personas mediante el contacto físico. Al intentar evitar tocar a los demás, termina leyendo accidentalmente los pensamientos de Karan, su compañero de trabajo, y descubre que este está enamorado de él. Achi intenta entonces mantener las distancias para evitar que la situación vaya a más, pero sus sentimientos por Karan comienzan a cambiar.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/05/46/5f/05465f21a2c2180e85b5fd59553bc4dc.jpg",
+      "https://i.pinimg.com/736x/7c/b7/ef/7cb7efbc4bc24e21f4327170ad4043d7.jpg",
+      "https://i.pinimg.com/1200x/d5/2c/8c/d52c8cb1709a7c6277e80d7d6a8b8c6a.jpg",
+      "https://i.pinimg.com/736x/50/bb/5d/50bb5dfbc2dfc04eb35da37a0a4740ee.jpg",
+      "https://i.pinimg.com/736x/78/68/b3/7868b38857791fbc9c928b2897d9f141.jpg",
+      "https://stat.ameba.jp/user_images/20240218/16/pokapokanyanko/0e/08/j/o1642204815403057552.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=2suXbor3jDA"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=mcMQsbACF7w",
+      "https://www.youtube.com/watch?v=2gIPMO-q_HU",
+      "https://www.youtube.com/watch?v=2l7LvWGwSd0",
+      "https://www.youtube.com/watch?v=rAh2ae1OC0M"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

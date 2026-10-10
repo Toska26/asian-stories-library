@@ -1,0 +1,90 @@
+{
+  "codigo": "DR000188",
+  "titulo": "Sweet Blood",
+  "tituloOriginal": "스윗 블러드",
+  "alias": [
+    "Sweet Blood",
+    "Seuwit Beulleodeu"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-03-11",
+  "finalizacion": "2026-03-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Vampiros",
+    "Sobrenatural",
+    "Luna azul",
+    "Príncipe vampiro",
+    "Humano",
+    "Enfermedad",
+    "Vínculo de sangre",
+    "Destino",
+    "Cohabitación"
+  ],
+  "personas": [
+    {
+      "nombre": "Min U",
+      "persona": "PR000726",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lucifer",
+      "persona": "PR000731",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Min U",
+        "Lucifer"
+      ]
+    }
+  ],
+  "sinopsis": "Durante un eclipse de luna azul se abre temporalmente el portal que conecta el mundo humano con el de los vampiros. Lucifer, un príncipe vampiro obsesionado con probar sangre humana, aprovecha la oportunidad para escapar. Al mismo tiempo, Min U, un joven universitario que acaba de trasladarse a la ciudad, se ve involucrado en un extraño accidente que crea un vínculo entre ambos y los obliga a permanecer cerca.",
+  "entidades": [
+    {
+      "codigo": "EN000143",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

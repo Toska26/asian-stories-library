@@ -1,0 +1,68 @@
+{
+  "codigo": "DR000857",
+  "titulo": "Meow Ears Up",
+  "tituloOriginal": "น้องเหมียวในห้องผม",
+  "alias": [
+    "Nong Meow in My Room",
+    "Nong Meow Nai Hong Phom"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manhua",
+    "relacion": "Adaptación",
+    "titulo": "Hey, Your Ears Popped Out!",
+    "tituloOriginal": "喂，看見耳朵啦",
+    "autor": "Tracy Hu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-04-12",
+  "finalizacion": "2022-05-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manhua",
+    "Shapeshifter",
+    "Hombre gato",
+    "Artista de cómics",
+    "Huérfano",
+    "Convivencia",
+    "GL",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dermdem",
+        "Meow"
+      ]
+    },
+    {
+      "personajes": [
+        "Evan",
+        "Faiyen"
+      ]
+    },
+    {
+      "personajes": [
+        "Jin",
+        "Manni"
+      ]
+    }
+  ],
+  "sinopsis": "Dermdem es un dibujante de cómics solitario que creció en un orfanato y nunca ha conocido plenamente el calor de una familia. Un día encuentra un gato abandonado y decide llevárselo a casa, pero descubre sorprendido que el animal puede transformarse en humano. Meow pertenece a una tribu cuyos miembros poseen orejas y rasgos felinos. Su llegada cambia por completo la tranquila vida de Dermdem y le enseña a descubrir el cariño y la felicidad.",
+  "activo": true
+}

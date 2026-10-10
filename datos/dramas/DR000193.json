@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000193",
+  "titulo": "Check in to You",
+  "tituloOriginal": "너에게 체크인",
+  "alias": [
+    "Check In to You",
+    "Check Into You",
+    "Checking in on You",
+    "Neoege Chekeuin"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "12 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-21",
+  "finalizacion": "2026-06-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Intercambio de cuerpos",
+    "Casa de huéspedes",
+    "Empresario",
+    "Gerente",
+    "Personalidades opuestas",
+    "Cohabitación",
+    "Identidad",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Do-gyeong",
+      "persona": "PR000736",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoon Ji-oh",
+      "persona": "PR000737",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cha Do-gyeong",
+        "Yoon Ji-oh"
+      ]
+    }
+  ],
+  "sinopsis": "Cha Do-gyeong es un empresario frío y perfeccionista acostumbrado a resolverlo todo con lógica y eficiencia. Yoon Ji-oh, en cambio, dirige una casa de huéspedes con una personalidad cálida y una visión mucho más romántica de la vida. Un inesperado intercambio de cuerpos obliga a ambos a vivir literalmente en la vida del otro y termina acercándolos mucho más de lo que ninguno había previsto.",
+  "entidades": [
+    {
+      "codigo": "EN000086",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000149",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

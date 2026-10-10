@@ -1,0 +1,90 @@
+{
+  "codigo": "DR000773",
+  "titulo": "Our Skyy 2",
+  "tituloOriginal": "Our Skyy 2",
+  "alias": [
+    "Our Skyy Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Antología",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "estado": "Finalizado",
+  "estreno": "2023-04-19",
+  "finalizacion": "2023-06-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "sinopsis": "Antología de continuaciones y nuevas historias ambientadas en ocho series BL de GMMTV. Los dos primeros episodios continúan la historia de Palm y Nuengdiao de Never Let Me Go; los episodios 3 y 4 continúan la relación de Daonuea y Khabkluen de Star in My Mind; los episodios 5 y 6 retoman a Akk y Ayan de The Eclipse; los episodios 7 y 8 continúan la historia de Talay y Puen de Vice Versa; los episodios 9 y 10 presentan una nueva historia de Tinn y Gun de My School President; y los episodios 11 y 12 continúan la relación de Cher y Gun de A Boss and a Babe. Los cuatro episodios finales forman una historia crossover entre Bad Buddy y A Tale of Thousand Stars, reuniendo a Pat y Pran con Phupha y Tian en una historia compartida.",
+  "relaciones": [
+    {
+      "tipo": "Antología",
+      "drama": "DR000071",
+      "episodios": [
+        1,
+        2
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000079",
+      "episodios": [
+        3,
+        4
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000089",
+      "episodios": [
+        5,
+        6
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000052",
+      "episodios": [
+        7,
+        8
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000059",
+      "episodios": [
+        9,
+        10
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "drama": "DR000076",
+      "episodios": [
+        11,
+        12
+      ]
+    },
+    {
+      "tipo": "Crossover",
+      "dramas": [
+        "DR000772",
+        "DR000085"
+      ],
+      "episodios": [
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000705",
+  "titulo": "Punks Triangle",
+  "tituloOriginal": "PUNKS△TRIANGLE",
+  "alias": [
+    "Punks Triangle"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "PUNKS△TRIANGLE",
+    "tituloOriginal": "PUNKS△TRIANGLE",
+    "autor": "Okita Yuho",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 26,
+  "estado": "Finalizado",
+  "estreno": "2025-10-09",
+  "finalizacion": "2025-11-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Moda",
+    "Identidad secreta",
+    "Instituto profesional",
+    "Modelo",
+    "Triángulo amoroso"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sumiura Chiaki",
+        "Enaga Ayumu"
+      ]
+    }
+  ],
+  "sinopsis": "Sumiura Chiaki, estudiante de diseño de moda, sueña con ver sus creaciones sobre la pasarela llevadas por su modelo favorito, Ai. Cuando una competición le ofrece esa oportunidad, debe trabajar junto al torpe y poco elegante Enaga Ayumu. Lo que Chiaki no sabe es que Enaga oculta una identidad relacionada con el modelo al que admira.",
+  "activo": true
+}

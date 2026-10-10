@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001050",
+  "titulo": "The Edge of Horizon",
+  "tituloOriginal": "อรุณรุ่ง",
+  "alias": [
+    "Arun Rung: The Edge of Horizon",
+    "Arun Rung",
+    "Dawn: The Edge of Horizon"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-06-20",
+  "finalizacion": "2026-08-29",
+  "generos": [
+    "Histórico",
+    "Drama romántico",
+    "Drama de época",
+    "Romance prohibido"
+  ],
+  "tags": [
+    "Monarquía",
+    "Príncipe",
+    "Diferencia de clase",
+    "Noble y plebeyo",
+    "Jerarquía social",
+    "Desigualdad de poder",
+    "Amor prohibido",
+    "Relación secreta",
+    "Deber frente al amor",
+    "Lealtad familiar",
+    "Deber y sacrificio",
+    "Siam histórico",
+    "1932"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Prince Thinnakon Varakulwathin",
+        "Phob"
+      ]
+    }
+  ],
+  "sinopsis": "Ambientada en Siam en 1932, la historia sigue al príncipe Thinnakon y a Phob, hijo de la nodriza de la familia real. Criados juntos a pesar de sus diferentes posiciones sociales, ambos desarrollan un vínculo que se convierte en amor. Las obligaciones familiares, las jerarquías de palacio y los cambios políticos amenazan su relación.",
+  "multimedia": {
+    "portada": [
+      "https://www.iboy.tv/media/titles/the-edge-of-horizon/poster.jpg"
+    ]
+  },
+  "activo": true
+}

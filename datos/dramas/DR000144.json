@@ -1,0 +1,98 @@
+{
+  "codigo": "DR000144",
+  "titulo": "Love Tractor",
+  "tituloOriginal": "트랙터는 사랑을 싣고",
+  "alias": [
+    "Love Tractor",
+    "A Tractor Loaded with Love",
+    "Teuraegteoneun Sarangeul Sidgo"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2023-06-07",
+  "finalizacion": "2023-06-21",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Campo",
+    "Vida rural",
+    "Sanación",
+    "Juventud",
+    "Opuestos",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Seon Yool",
+      "persona": "PR000641",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Chan",
+      "persona": "PR000642",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seon Yool",
+        "Ye Chan"
+      ]
+    }
+  ],
+  "sinopsis": "Seon Yul, un joven de ciudad acostumbrado a una vida cómoda, se traslada temporalmente al campo para desconectar de su vida anterior. Allí conoce a Ye Chan, un joven alegre y entusiasta que adora la vida rural. Mientras Seon Yul aprende a desenvolverse en el campo y a disfrutar de una nueva forma de vida, la cercanía entre ambos se transforma en una relación llena de cariño y nuevas experiencias.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/42/2e/a3/422ea3726ee219ea3aaf3f35a37dd44e.jpg",
+      "https://i.pinimg.com/1200x/5c/d1/9d/5cd19d0af59c08041336ba2ddf16b6a1.jpg",
+      "https://i.pinimg.com/1200x/58/07/d1/5807d19710d5ac496f349ce925985cb4.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=lGmQY63B8qU"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000078",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000104",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

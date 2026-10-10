@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000205",
+  "titulo": "Summer Fever",
+  "tituloOriginal": "썸머 피버",
+  "alias": [
+    "Summer Fever",
+    "Seommeo Pibeo",
+    "Winter Fever Season 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000017",
+    "orden": 3
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-08-04",
+  "finalizacion": "2026-08-25",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Segunda oportunidad",
+    "Amigos a amantes",
+    "Amor de infancia",
+    "Reconciliación",
+    "Sanación",
+    "Ruptura",
+    "Malentendidos",
+    "Relación de larga duración",
+    "Angustia",
+    "Reencuentro"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Jun",
+      "persona": "PR000709",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeon Ho",
+      "persona": "PR000710",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Jun",
+        "Yeon Ho"
+      ]
+    }
+  ],
+  "sinopsis": "Después de quince años de amistad convertida en amor, Yu Jun y Yeon Ho llegan al verano tras haber atravesado una dolorosa ruptura. Las inseguridades, los celos y los malentendidos que los separaron todavía pesan sobre ellos, pero los sentimientos que compartían no han desaparecido. Ahora deberán enfrentarse a lo ocurrido, hablar de las heridas que quedaron abiertas y decidir si pueden perdonarse y reconstruir su relación sobre nuevas bases. Bajo el calor del verano, ambos tendrán que descubrir si su historia puede tener una segunda oportunidad.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=bKRAjlSQFHI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

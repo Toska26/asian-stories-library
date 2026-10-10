@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000822",
+  "titulo": "Call It What You Want T1",
+  "tituloOriginal": "จะรักก็รักเหอะ",
+  "alias": [
+    "Call It What You Want",
+    "Call It What You Want Season 1",
+    "Call It What You Want: Season 1"
+  ],
+  "pais": [
+    "TH",
+    "TW"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000822",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "25-32 min",
+  "estado": "Finalizado",
+  "estreno": "2021-04-09",
+  "finalizacion": "2021-05-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Industria BL",
+    "Director",
+    "Actores",
+    "Productora",
+    "Relación secreta",
+    "Abuso de poder",
+    "Acoso",
+    "Trabajo",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "James",
+        "Ait"
+      ]
+    }
+  ],
+  "sinopsis": "James es un director de series BL que comienza a desarrollar sentimientos por Ait, uno de los actores con los que trabaja. Mientras ambos intentan mantener su relación en secreto por las consecuencias que podría tener dentro de la industria, la producción también muestra los problemas de poder, explotación y acoso que pueden existir detrás de las cámaras.",
+  "activo": true
+}

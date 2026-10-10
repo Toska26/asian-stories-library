@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000770",
+  "titulo": "Roop Thong",
+  "tituloOriginal": "รูปทอง",
+  "alias": [
+    "Gold",
+    "Golden",
+    "Rup Thong"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2018-04-30",
+  "finalizacion": "2018-06-26",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL",
+    "LGBTQ+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seua",
+        "Lahb"
+      ]
+    }
+  ],
+  "sinopsis": "Moo y Seua son dos hermanos que fueron separados durante años después del divorcio de sus padres. Tras la muerte de su padre, Moo regresa a la familia de su madre, donde comienza a descubrir los secretos y conflictos que han marcado la vida de su hermano Seua. Seua es considerado el hijo perfecto y mantiene una relación con Riawkhao, pero desde hace tiempo siente una atracción por los hombres que intenta reprimir por miedo al rechazo de su familia. Su relación con su mejor amigo Lahb se transforma en un romance que entra en conflicto con las expectativas familiares y con el matrimonio que su madre pretende imponerle.",
+  "activo": true
+}

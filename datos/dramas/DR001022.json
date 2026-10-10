@@ -1,0 +1,48 @@
+{
+  "codigo": "DR001022",
+  "titulo": "Mission to the Moon",
+  "tituloOriginal": "ภารกิจพิชิตจันทรา",
+  "alias": [
+    "ภารกิจพิชิตจันทรา",
+    "Mission To The Moon"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2025-05-06",
+  "finalizacion": "2025-07-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural",
+    "Histórico"
+  ],
+  "tags": [
+    "Reencarnación",
+    "Espíritus",
+    "Vida pasada",
+    "Memoria",
+    "Amor eterno",
+    "Luna",
+    "Vida después de la muerte"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Srisinvade",
+        "Narvee"
+      ]
+    }
+  ],
+  "sinopsis": "Srisinvade murió hace dos mil años, pero cuando la órbita de la Luna vuelve a acercarse a la Tierra, su espíritu regresa con una misión: encontrar al hombre que amó. Ese hombre se ha reencarnado como Narvee, que no cree inicialmente en la historia del espíritu que aparece ante él. A medida que ambos descubren los vínculos entre sus vidas pasadas y presentes, intentan evitar que su amor vuelva a desaparecer con el paso del tiempo.",
+  "activo": true
+}

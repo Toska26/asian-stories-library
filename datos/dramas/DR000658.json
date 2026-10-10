@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000658",
+  "titulo": "Shimbashi Koi Story",
+  "tituloOriginal": "シンバシコイ物語",
+  "alias": [
+    "Shimbashi Koi Story: Chapter 1",
+    "Shimbashi Koi Story - First Chapter"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000658",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2022-10-23",
+  "finalizacion": "2022-11-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "LGBTQ+",
+    "Gay",
+    "Bar gay",
+    "Amistad",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tatsuya",
+        "Jun-nosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Tatsuya conoce a Jun-nosuke en el bar gay TUGBOAT de Shimbashi y ambos comienzan a sentirse atraídos el uno por el otro. Mientras su relación avanza, sus amigos y las personas que forman parte de su entorno acompañan sus primeros pasos como pareja.",
+  "activo": true
+}

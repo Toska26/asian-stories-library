@@ -1,0 +1,27 @@
+{
+  "codigo": "DR000290",
+  "titulo": "Island",
+  "alias": [
+    "Island The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Cancelado",
+  "estreno": "2020",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "sinopsis": "",
+  "activo": true
+}

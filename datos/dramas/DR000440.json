@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000440",
+  "titulo": "Nation's Brother",
+  "alias": [
+    "Anh Trai Quốc Dân"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2020-12-30",
+  "finalizacion": "2021-02-19",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Amor",
+    "Amistad",
+    "Triángulo amoroso",
+    "LGBT"
+  ],
+  "sinopsis": "La relación entre dos jóvenes comienza a cambiar cuando la convivencia y los sentimientos hacen que su vínculo vaya más allá de la amistad. Los protagonistas deben enfrentarse a los malentendidos y a un triángulo amoroso mientras intentan definir su relación.",
+  "activo": true
+}

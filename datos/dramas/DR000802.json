@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000802",
+  "titulo": "You Never Eat Alone",
+  "tituloOriginal": "เมื่ออาหารเป็นเรื่องของความรัก",
+  "alias": [
+    "You Never Eat Alone The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-12-22",
+  "finalizacion": "2021-03-09",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Comida",
+    "Amistad",
+    "Convivencia",
+    "Miedo a comer solo",
+    "Familia",
+    "Aplicaciones",
+    "Superación personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Diew",
+        "Mix"
+      ]
+    }
+  ],
+  "sinopsis": "Diew es un estudiante universitario que no puede comer solo debido a un trauma de su infancia. Cuando sus padres se trasladan al extranjero, debe adaptarse a vivir por su cuenta en una residencia universitaria. Allí conoce a varios compañeros y finalmente encuentra a Mix, otro estudiante que comparte su miedo a comer solo. Ambos empiezan a comer juntos y, mientras su amistad se hace cada vez más cercana, descubren que la relación entre ellos puede convertirse en algo más.",
+  "activo": true
+}

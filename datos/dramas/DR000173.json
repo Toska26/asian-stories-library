@@ -1,0 +1,127 @@
+{
+  "codigo": "DR000173",
+  "titulo": "The Story of Bihyung: Enchanted Master of the Goblin",
+  "tituloOriginal": "비형전: 도깨비의 주인",
+  "alias": [
+    "The Story of Bihyung: Enchanted Master of the Goblin",
+    "The Story of Bi Hyeong",
+    "Bi Hyeong Jeon: Dokkaebiui Juin"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2025-10-02",
+  "finalizacion": "2025-11-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Comedia",
+    "Terror"
+  ],
+  "tags": [
+    "BL",
+    "Sobrenatural",
+    "Goblins",
+    "Gumiho",
+    "Mitología coreana",
+    "Cohabitación",
+    "Amor sobrenatural",
+    "Fantasmas"
+  ],
+  "personas": [
+    {
+      "nombre": "Jae-wook",
+      "persona": "PR000697",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cha-min",
+      "persona": "PR000698",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chan-woo",
+      "persona": "PR000699",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Taek-jun",
+      "persona": "PR000700",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bi-hyung",
+        "Geum-bok"
+      ]
+    },
+    {
+      "personajes": [
+        "Gil-dal",
+        "Ji-gwi"
+      ]
+    }
+  ],
+  "sinopsis": "Geum-bok llega a Seúl desde el campo con el sueño de convertirse en actor, pero termina siendo víctima de una estafa y se queda sin dinero ni alojamiento. Su destino cambia cuando conoce a Bihyung, el poderoso Rey de los Goblins, que sufre porque no puede absorber energía humana. Cuando descubren que Geum-bok puede proporcionarle la energía que necesita, comienza una extraña convivencia junto a Gil-dal, el guardaespaldas de Bihyung. La aparición de Ji-gwi, un gumiho relacionado con el pasado de Gil-dal, hace que los vínculos entre los seres sobrenaturales se vuelvan todavía más complicados.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/k4Ow0l747TMk1hutdeXZ5oKfAye.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=xrnNUV-wrgg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000125",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

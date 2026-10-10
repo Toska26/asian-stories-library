@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000512",
+  "titulo": "Till Death Tear Us Apart",
+  "tituloOriginal": "愉此一生",
+  "alias": [
+    "Yu Ci Yi Sheng",
+    "In This Case A Pleasant Lifetime Alone",
+    "1944 Jin Cheng Jiao",
+    "1944锦城骄"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000032",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Love in a Blaze",
+    "tituloOriginal": "一生一世",
+    "autor": "Nan Zhi",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2017-02-14",
+  "finalizacion": "2017-03-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Espionaje"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Liu Yu Sheng",
+        "Zhou Yao Hua"
+      ]
+    }
+  ],
+  "sinopsis": "En la China de 1944, Liu Yu Sheng regresa de estudiar en el extranjero y comienza a trabajar como profesor después de descubrir que su herencia ha sido robada. Allí se reencuentra con Zhou Yao Hua, un antiguo compañero de estudios. Mientras ambos se acercan sentimentalmente, sus diferentes lealtades políticas complican su relación.",
+  "activo": true
+}

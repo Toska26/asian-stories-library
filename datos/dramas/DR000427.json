@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000427",
+  "titulo": "Tiến Bromance",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "universo": "UN000014",
+  "serie": "SR000427",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2019-12-24",
+  "finalizacion": "2020-07-29",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Amor",
+    "Amistad",
+    "Familia",
+    "Acción",
+    "Crimen",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến",
+        "Tài"
+      ]
+    }
+  ],
+  "sinopsis": "Tiến y Tài desarrollan una relación que comienza marcada por las circunstancias y los peligros que los rodean. Su vínculo se fortalece mientras afrontan conflictos familiares, situaciones de acción y amenazas relacionadas con el mundo criminal.",
+  "activo": true
+}

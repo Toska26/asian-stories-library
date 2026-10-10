@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000744",
+  "titulo": "Make It Right",
+  "tituloOriginal": "รักออกเดิน",
+  "alias": [
+    "Make It Right: The Series",
+    "Make It Right The Series",
+    "Rak Ok Doen"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2016,
+  "tipo": "Drama",
+  "serie": "SR000744",
+  "remake": {
+    "codigo": "RM000744",
+    "orden": 1
+  },
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2016-05-15",
+  "finalizacion": "2016-07-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fuse",
+        "Tee"
+      ]
+    },
+    {
+      "personajes": [
+        "Frame",
+        "Book"
+      ]
+    },
+    {
+      "personajes": [
+        "Nine",
+        "Rodtang"
+      ]
+    }
+  ],
+  "sinopsis": "La historia sigue a un grupo de estudiantes de instituto cuyas amistades y relaciones comienzan a transformarse. Fuse, después de descubrir que su novia le es infiel, termina acercándose a su antiguo compañero Tee. Paralelamente, Book y Frame comienzan una relación mientras otros estudiantes afrontan sus propios sentimientos y conflictos.",
+  "activo": true
+}

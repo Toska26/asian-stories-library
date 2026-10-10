@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000294",
+  "titulo": "Better Days",
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2020-10-30",
+  "finalizacion": "2020-12-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kian",
+        "Aron"
+      ]
+    }
+  ],
+  "sinopsis": "Dos amigos de la infancia, Kian y Aron, utilizan sus talentos como chef y creador de contenido para intentar recuperar el restaurante que construyeron sus padres.",
+  "activo": true
+}

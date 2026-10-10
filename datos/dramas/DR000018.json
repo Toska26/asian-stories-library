@@ -1,0 +1,205 @@
+{
+  "codigo": "DR000018",
+  "titulo": "En of Love: Love Mechanics",
+  "tituloOriginal": "กลรักรุ่นพี่",
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "remake": {
+    "codigo": "RM000018",
+    "orden": 1
+  },
+  "franquicia": {
+    "codigo": "FR000006",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-04-11",
+  "finalizacion": "2020-05-02",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Vee",
+      "persona": "PR000139",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mark",
+      "persona": "PR000138",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fuse",
+      "persona": "PR000157",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bar",
+      "persona": "PR000137",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tee",
+      "persona": "PR000142",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tonkla",
+      "persona": "PR000144",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "James",
+      "persona": "PR000147",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pond",
+      "persona": "PR000145",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yiwaa",
+      "persona": "PR000141",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gun",
+      "persona": "PR000136",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kamphan",
+      "persona": "PR000149",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lee",
+      "persona": "PR000143",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wind",
+      "persona": "PR000150",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nuea",
+      "persona": "PR000140",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000155",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000156",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000027",
+      "personajes": [
+        "Vee",
+        "Mark"
+      ]
+    }
+  ],
+  "sinopsis": "Mark, un estudiante de Ingeniería, está enamorado de Bar, pero cuando finalmente se confiesa, Bar lo rechaza. Desconsolado, Mark termina en un club y, completamente borracho, confunde a Vee con Bar y lo besa. A partir de ese encuentro, Vee comienza a acercarse a Mark y a cuidar de él, dando comienzo a una relación complicada en la que ambos deberán enfrentarse a sus propios sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://cf.shopee.co.th/file/073c9200c9fe4e860a130bc5eec63dfb"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=kDXu0_idawo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Emisora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000785",
+  "titulo": "Blacklist",
+  "tituloOriginal": "นักเรียนลับ บัญชีดำ",
+  "alias": [
+    "Blacklist: The Series",
+    "Secret Student Blacklist"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Blacklist",
+    "tituloOriginal": "Blacklist",
+    "autor": "Puifai",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2019-10-13",
+  "finalizacion": "2019-12-29",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Acción",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "Instituto",
+    "Misterio",
+    "Investigación",
+    "Ciberacoso",
+    "Secretos",
+    "Amistad",
+    "Organización secreta"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Title",
+        "Cupcake"
+      ]
+    }
+  ],
+  "sinopsis": "Traffic se matricula en la prestigiosa escuela Akeanan para investigar la desaparición de su hermana Fah. Allí se une a un grupo secreto de estudiantes conocido como Blacklist, cuyos integrantes investigan los misterios y secretos ocultos de la escuela mientras descubren una red de corrupción y actividades clandestinas.",
+  "activo": true
+}

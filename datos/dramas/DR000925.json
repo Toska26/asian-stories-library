@@ -1,0 +1,103 @@
+{
+  "codigo": "DR000925",
+  "titulo": "Pit Babe 2",
+  "tituloOriginal": "พิษเบ๊บ 2",
+  "alias": [
+    "Pit Babe Season 2",
+    "PIT BABE The Series 2",
+    "พิษเบ๊บ เดอะ ซีรีส์ 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000924",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Pit Babe 2: The Initium",
+    "tituloOriginal": "พิษเบ๊บ 2: The Initium",
+    "autor": "_alittlebitch",
+    "pais": "TH"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2025-05-02",
+  "finalizacion": "2025-07-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Thriller",
+    "Deportes",
+    "Omegaverse"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Thriller",
+    "Deportes",
+    "Omegaverse",
+    "Alfa",
+    "Beta",
+    "Omega",
+    "Carreras",
+    "Automovilismo",
+    "Competición",
+    "Pareja establecida",
+    "Celos",
+    "Confianza",
+    "Trauma",
+    "Superación",
+    "Familia encontrada",
+    "Laboratorio",
+    "Investigación",
+    "Poderes especiales",
+    "Supresión de habilidades",
+    "Secuestro",
+    "Rescate",
+    "Crimen",
+    "Venganza"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Babe",
+        "Charlie"
+      ]
+    },
+    {
+      "personajes": [
+        "Alan",
+        "Jeff"
+      ]
+    },
+    {
+      "personajes": [
+        "North",
+        "Sonic"
+      ]
+    },
+    {
+      "personajes": [
+        "Kenta",
+        "Kim"
+      ]
+    },
+    {
+      "personajes": [
+        "Pete",
+        "Way"
+      ]
+    }
+  ],
+  "sinopsis": "Un año después de los acontecimientos de la primera temporada, Babe y Charlie intentan construir una vida juntos mientras siguen enfrentándose a las consecuencias de su pasado. Charlie dedica cada vez más tiempo a la investigación destinada a comprender y suprimir las habilidades especiales de los alfas, mientras Babe continúa compitiendo y tratando de proteger a las personas que considera su familia. El regreso de amenazas relacionadas con Tony y el surgimiento de nuevos conflictos ponen a prueba la relación de Babe y Charlie y vuelven a reunir al equipo X-Hunter.",
+  "activo": true
+}

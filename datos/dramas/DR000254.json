@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000254",
+  "titulo": "Impression of Youth",
+  "tituloOriginal": "印象·青春",
+  "alias": [
+    "Impression Of Youth"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-01-15",
+  "finalizacion": "2025-03-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Arte"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Instituto",
+    "Universidad",
+    "Arte",
+    "Profesor y alumno",
+    "Diferencia de edad",
+    "Rural",
+    "Amor prohibido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Xing",
+        "Xu Lu Hui"
+      ]
+    }
+  ],
+  "sinopsis": "Yu Xing, un estudiante de posgrado de Bellas Artes, es obligado a trabajar durante un mes como profesor sustituto en un instituto rural para completar su proyecto de graduación. Allí conoce a Xu Lu Hui, un estudiante de secundaria apasionado por la pintura. Yu Xing acepta enseñarle a pintar a cambio de que Lu Hui lo lleve cada mañana a distintos lugares para realizar sus bocetos. La convivencia y el tiempo que pasan juntos hacen que los sentimientos de Lu Hui por Yu Xing evolucionen hasta convertirse en amor.",
+  "activo": true
+}

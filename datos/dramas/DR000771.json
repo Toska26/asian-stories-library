@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000771",
+  "titulo": "'Cause You're My Boy",
+  "tituloOriginal": "อาตี๋ของผม",
+  "alias": [
+    "My Tee",
+    "My Tee: The Series",
+    "Cause You're My Boy"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela gráfica",
+    "relacion": "Adaptación",
+    "titulo": "'Cause You're My Boy",
+    "tituloOriginal": "อาตี๋ของผม",
+    "autor": "CaffeineDekD",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2018-06-23",
+  "finalizacion": "2018-09-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mork",
+        "Tee"
+      ]
+    },
+    {
+      "personajes": [
+        "Gord",
+        "Morn"
+      ]
+    }
+  ],
+  "sinopsis": "Mork es un estudiante de secundaria travieso que ayuda a su padre en una barbería. Después de arruinar accidentalmente el corte de pelo de Tee, ambos comienzan una serie de bromas y enfrentamientos. Cuando Tee pierde a su novia Bambie a causa de un malentendido, le pide a Mork que finja ser su novio para ponerla celosa. Lo que comienza como una relación falsa acaba convirtiéndose en sentimientos reales entre ambos. Mientras tanto, Gord, el mejor amigo de Morn, comienza a revelar sus propios sentimientos hacia él.",
+  "especiales": [
+    {
+      "titulo": "'Cause You're My Boy — Our Skyy",
+      "tituloOriginal": "Our Skyy",
+      "alias": [
+        "Our Skyy: Mork & Tee"
+      ],
+      "tipo": "Especial",
+      "anio": 2018,
+      "episodios": 1,
+      "estreno": "2018-12-07"
+    }
+  ],
+  "activo": true
+}

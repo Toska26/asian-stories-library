@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000135",
+  "titulo": "The New Employee",
+  "tituloOriginal": "신입사원",
+  "alias": [
+    "The New Employee",
+    "The New Recruit",
+    "Sinipsawon"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000135",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-12-21",
+  "finalizacion": "2023-02-01",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Jefe y empleado",
+    "Prácticas",
+    "Trabajo",
+    "Compañeros de trabajo",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Woo Seung-hyun",
+      "persona": "PR000605",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Jong-chan",
+      "persona": "PR000617",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Woo Seung-hyun",
+        "Kim Jong-chan"
+      ]
+    }
+  ],
+  "sinopsis": "Seung Hyun consigue unas prácticas en una agencia de publicidad y está decidido a demostrar que puede abrirse camino en el mundo laboral pese a su falta de experiencia. Su supervisor, Jong Chan, es un jefe reservado y exigente que mantiene una clara distancia con sus empleados. A medida que ambos pasan más tiempo juntos en la oficina, la relación profesional comienza a transformarse en algo más personal y Seung Hyun tendrá que enfrentarse al conflicto entre sus sentimientos y su nueva carrera.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/03/c3/28/03c32808b85ee1c6894697032115785b.jpg",
+      "https://i.pinimg.com/1200x/80/cf/ab/80cfabe86a6d7fdfb78306c3a2a795ff.jpg",
+      "https://i.pinimg.com/736x/5d/60/96/5d6096b02c32b14a2d6f3fefb3c3cec1.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1203955v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000096",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000097",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

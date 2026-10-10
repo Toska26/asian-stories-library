@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000446",
+  "titulo": "My Monster In Law",
+  "alias": [
+    "Mẹ Chồng Chàng Dâu",
+    "My Monster In Law Season 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Webdrama",
+  "franquicia": {
+    "codigo": "FR000030",
+    "orden": 3
+  },
+  "serie": "SR000445",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2021-05-27",
+  "finalizacion": "2021-07-01",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Sitcom",
+    "Familia",
+    "Matrimonio",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hùng Cường",
+        "Jackie"
+      ]
+    }
+  ],
+  "sinopsis": "Segunda temporada de My Monster In Law, que retoma la historia de la familia y de la pareja formada por Hùng Cường y Jackie, manteniendo el formato de comedia y los conflictos familiares de la primera temporada.",
+  "activo": true
+}

@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000273",
+  "titulo": "B X J Forever",
+  "tituloOriginal": "B X J Forever",
+  "alias": [
+    "Ben X Jim Season 2",
+    "Ben x Jim Forever"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000272",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2021-02-12",
+  "finalizacion": "2021-04-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Pareja",
+    "Reencuentro",
+    "Separación",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Benjo",
+        "Jim"
+      ]
+    }
+  ],
+  "sinopsis": "Después de que Ben desaparece inesperadamente, Jim intenta encontrarlo mientras trata de reparar los errores del pasado. La segunda temporada continúa la historia de la pareja y explora las consecuencias de su separación.",
+  "activo": true
+}

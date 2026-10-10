@@ -1,0 +1,81 @@
+{
+  "codigo": "DR000797",
+  "titulo": "My Engineer",
+  "tituloOriginal": "มีช็อป มีเกียร์ มีเมียรึยังวะ",
+  "alias": [
+    "My Engineer: The Series",
+    "My Engineer Has a Shop, Has a Gear, Has a Wife Yet?"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Engineer",
+    "tituloOriginal": "มีช็อป มีเกียร์ มีเมียรึยังวะ",
+    "autor": "Mommae",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2020-03-14",
+  "finalizacion": "2020-05-30",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Ingeniería",
+    "Medicina",
+    "Amistad",
+    "Enemies to Lovers",
+    "Friends to Lovers",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bohn",
+        "Duen"
+      ]
+    },
+    {
+      "personajes": [
+        "Ram",
+        "King"
+      ]
+    },
+    {
+      "personajes": [
+        "Mek",
+        "Boss"
+      ]
+    }
+  ],
+  "sinopsis": "Duen, un estudiante de primer año de Medicina, golpea accidentalmente a Bohn, un estudiante de Ingeniería, y como castigo debe llevarle una flor todos los días durante un mes. Lo que comienza como una relación marcada por las bromas y los enfrentamientos termina convirtiéndose en una historia de amor. Al mismo tiempo, Ram y King desarrollan una relación basada en su contraste de personalidades, mientras que la amistad entre Mek y Boss comienza a transformarse en sentimientos románticos. La serie sigue las historias de estas tres parejas dentro de la vida universitaria.",
+  "especiales": [
+    {
+      "titulo": "My Engineer Summer Trip",
+      "tituloOriginal": "My Engineer Summer Trip",
+      "alias": [
+        "My Engineer Summer Trip Ep0",
+        "My Engineer Summer Trip"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 4,
+      "estreno": "2020-06-06"
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000165",
+  "titulo": "Heart Stain",
+  "tituloOriginal": "하트 스테인",
+  "alias": [
+    "Heart Stain",
+    "Hateu Seutein"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2025-02-06",
+  "finalizacion": "2025-02-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Amor no correspondido",
+    "Amistad",
+    "Profesor",
+    "Amor secreto",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji-oh",
+      "persona": "PR000682",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hamin",
+      "persona": "PR000576",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yun U-hyeon",
+        "Park Do-ha"
+      ]
+    }
+  ],
+  "sinopsis": "Yoon Woo-hyun es un estudiante de último año de instituto que intenta superar en secreto los sentimientos que tiene por Nam Jeong-min, su profesor y tutor. Convencido de que ese amor no puede convertirse en una relación, decide guardar sus sentimientos para sí mismo y concentrarse en terminar sus estudios. Mientras intenta dejar atrás su primer amor, la cercanía con sus compañeros y las emociones propias de la juventud complican cada vez más su decisión.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/sBIVxIpOXhDsCKs3ibINdCoqGGJ.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=bHv67ZMjkw0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000130",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000131",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

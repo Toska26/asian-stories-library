@@ -1,0 +1,123 @@
+{
+  "codigo": "DR000140",
+  "titulo": "Unintentional Love Story",
+  "tituloOriginal": "비의도적 연애담",
+  "alias": [
+    "Unintentional Love Story",
+    "The Accidental Love Story",
+    "Biuijeokjeok Yeonaedam"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "35 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-17",
+  "finalizacion": "2023-04-14",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Arte",
+    "Cerámica",
+    "Reencuentro",
+    "Mentiras",
+    "Primer amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Yoon Tae Joon",
+      "persona": "PR000633",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Won Young",
+      "persona": "PR000634",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Go Ho Tae",
+      "persona": "PR000578",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kim Dong Hee",
+      "persona": "PR000660",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoon Tae Joon",
+        "Ji Won Young"
+      ]
+    },
+    {
+      "personajes": [
+        "Go Ho Tae",
+        "Kim Dong Hee"
+      ]
+    }
+  ],
+  "sinopsis": "Ji Won Young pierde su trabajo después de verse involucrado en un escándalo y descubre que la persona que puede ayudarle a recuperar su puesto es Yoon Tae Joon, un reservado artista de cerámica que ha desaparecido de la vida pública. Won Young intenta acercarse a él con una intención inicialmente interesada, pero la relación entre ambos evoluciona hacia sentimientos reales que ninguno de los dos esperaba.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/85/ad/50/85ad5013feb40e4db410d1a36a978efe.jpg",
+      "https://i.pinimg.com/1200x/2f/0b/0c/2f0b0c9eb2a3da0a966b0a1eb37fe78e.jpg",
+      "https://i.pinimg.com/736x/c7/c6/f7/c7c6f751ca3a677536cf1e2469c7b9b0.jpg",
+      "https://i.pinimg.com/1200x/9e/dc/bd/9edcbdf8510427908fa02246b0321466.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000088",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

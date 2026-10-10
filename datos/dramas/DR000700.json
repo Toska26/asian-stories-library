@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000700",
+  "titulo": "When It Rains, It Pours",
+  "tituloOriginal": "ふったらどしゃぶり",
+  "alias": [
+    "Futtara Doshaburi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000700",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "When It Rains, It Pours",
+    "tituloOriginal": "ふったらどしゃぶり",
+    "autor": "Michi Ichiho",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2025-01-10",
+  "finalizacion": "2025-02-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Adultos",
+    "Compañeros de trabajo",
+    "Correo electrónico",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hagiwara Ikken",
+        "Nakarai Sei"
+      ]
+    }
+  ],
+  "sinopsis": "Hagiwara Ikken y Nakarai Sei son compañeros de trabajo que, debido a un correo electrónico enviado por error, comienzan a compartir sus problemas personales y emocionales sin saber inicialmente quién se encuentra al otro lado. La relación que nace de esas conversaciones termina transformándose en un vínculo amoroso.",
+  "activo": true
+}

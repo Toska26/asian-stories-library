@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000084",
+  "titulo": "How to Survive My CEO",
+  "tituloOriginal": "พัตลมอย่าแย่",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000084",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Oficina",
+    "CEO"
+  ],
+  "personas": [
+    {
+      "nombre": "Patlom",
+      "persona": "PR000518",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pafon",
+      "persona": "PR000519",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000082",
+      "personajes": [
+        "Patlom",
+        "Pafon"
+      ]
+    }
+  ],
+  "sinopsis": "Patlom es un joven empresario cuya vida está completamente centrada en el trabajo hasta que conoce a Pafon. Después de un encuentro inesperado entre ambos, descubre que Pafon será su nuevo becario. Lo que comienza como una situación complicada pronto se transforma en una relación marcada por la atracción, los malentendidos y los sentimientos que ambos intentan ocultar.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/f3/28/d4/f328d4225d7c4a04d2aef6c2ad043b84.jpg",
+      "https://mintmagth.s3.ap-southeast-1.amazonaws.com/photos/shares/Mint%20People/2025/NOV/GMMTV%202026/6926d1b98e9b0.jpeg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=vqnTE9LMoA8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR001028",
+  "titulo": "Peach Lover",
+  "tituloOriginal": "ลูกพีชทานสด",
+  "alias": [
+    "Peach Lover The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Peach Lover",
+    "tituloOriginal": "ลูกพีชทานสด",
+    "autor": "HAMSTER",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-01-20",
+  "finalizacion": "2026-03-24",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Contenido adulto",
+    "Redes sociales"
+  ],
+  "especiales": [
+    {
+      "titulo": "Peach Lover Special Episode"
+    }
+  ],
+  "sinopsis": "Po es un ilustrador que lleva años siguiendo a un popular creador anónimo de contenido para adultos conocido como Peach Lover. Cuando Peach Lover regresa después de un año y busca a alguien que participe junto a él en sus vídeos, Po ve la oportunidad de acercarse finalmente a la persona que ha admirado durante tanto tiempo.",
+  "activo": true
+}

@@ -1,0 +1,68 @@
+{
+  "codigo": "DR000871",
+  "titulo": "Unforgotten Night",
+  "tituloOriginal": "ร้ายนักนะ รักของมาเฟีย",
+  "alias": [
+    "Mafia’s Bad Love",
+    "Rai Nak Na Rak Khong Mafia",
+    "Unforgotten Night The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000025",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Mafia’s Bad Love",
+    "tituloOriginal": "ร้ายนักนะ...รักของมาเฟีย",
+    "autor": "Yeo Nim",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-06-22",
+  "finalizacion": "2022-09-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Mafia",
+    "Mature"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Mafia",
+    "Jefe y empleado",
+    "One Night Stand",
+    "Amor posesivo",
+    "Protección",
+    "Romance adulto",
+    "Acción",
+    "Venganza",
+    "Exparejas",
+    "Universo Love Syndrome"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kamol",
+        "Kim"
+      ]
+    },
+    {
+      "personajes": [
+        "Day",
+        "Itt"
+      ]
+    }
+  ],
+  "sinopsis": "Kim, un oficinista de 25 años que lleva años enamorado de su compañero Day, intenta superar sus sentimientos pasando una noche con un desconocido que conoce en un bar. El hombre resulta ser Kamol, un poderoso jefe de la mafia que queda obsesionado con Kim después de descubrir que es capaz de satisfacer sus necesidades. Kamol comienza a perseguirlo y a protegerlo, mientras Kim se ve arrastrado poco a poco a su peligroso mundo. Entre amenazas, rivales y secretos del pasado, ambos terminan construyendo una relación que cambia sus vidas.",
+  "activo": true
+}

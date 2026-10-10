@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000474",
+  "titulo": "People Come Later",
+  "alias": [
+    "Trôi Dạt Giữa Dòng Đời"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2024-11-04",
+  "finalizacion": "2025-04-26",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Campo",
+    "Vida cotidiana",
+    "Sanación",
+    "Duelo",
+    "Compañeros de trabajo",
+    "Slow Burn",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bạch",
+        "Tùng"
+      ]
+    }
+  ],
+  "sinopsis": "Desde la muerte de su madre, Bạch se ha convertido en el principal responsable de su familia y dedica su vida a cuidar de su hermano menor en el campo. Un día, mientras sale a hacer unas compras, es atacado y Tùng interviene para salvarlo. Sus caminos vuelven a cruzarse cuando Tùng consigue un trabajo en el mismo lugar que Bạch. La convivencia laboral y las experiencias que comparten hacen que entre ambos nazca un vínculo cada vez más profundo.",
+  "activo": true
+}

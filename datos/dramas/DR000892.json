@@ -1,0 +1,131 @@
+{
+  "codigo": "DR000892",
+  "titulo": "War of Y",
+  "tituloOriginal": "วอร์ ออฟ วาย",
+  "alias": [
+    "War of Y The Series",
+    "War Of Y"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 56,
+  "estado": "Finalizado",
+  "estreno": "2022-08-02",
+  "finalizacion": "2022-12-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Psicológico"
+  ],
+  "tags": [
+    "Antología",
+    "Industria del entretenimiento",
+    "Industria BL",
+    "Cultura de los ships",
+    "Fanservice",
+    "Fandom",
+    "Actores",
+    "Managers",
+    "Agencias",
+    "Fama",
+    "Celebridades",
+    "Redes sociales",
+    "Escándalo",
+    "Competición",
+    "Reality show",
+    "Supervivencia",
+    "Traición",
+    "Rivalidad",
+    "Relaciones secretas",
+    "Presión mediática",
+    "Imagen pública",
+    "Amor y trabajo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nott",
+        "Pan"
+      ]
+    },
+    {
+      "personajes": [
+        "Gus",
+        "Bew"
+      ]
+    },
+    {
+      "personajes": [
+        "Kla",
+        "Pete"
+      ]
+    },
+    {
+      "personajes": [
+        "Moss",
+        "Achi"
+      ]
+    },
+    {
+      "personajes": [
+        "Achi",
+        "Fern"
+      ]
+    }
+  ],
+  "sinopsis": "Antología que explora los conflictos, relaciones y juegos de poder que se esconden detrás de la industria del entretenimiento BL tailandesa. A través de cuatro historias independientes pero ambientadas en el mismo mundo de la industria, la serie muestra cómo los ships, el fanservice, los managers, las agencias, la fama y las expectativas del público pueden afectar profundamente la vida de los actores. The New Ship sigue a Nott y Pan, una nueva pareja de actores cuya relación profesional comienza a mezclarse con sentimientos reales. War of Managers se centra en Gus y Bew, una pareja que se enamora fuera de las cámaras mientras sus managers convierten su carrera en un campo de batalla. Y-Idol presenta una competición para encontrar nuevos talentos capaces de cantar, bailar y actuar. Finalmente, Wife aborda las consecuencias que afronta Achi cuando mantiene una relación con Fern mientras forma junto a Moss una popular pareja BL en pantalla.",
+  "especiales": [
+    {
+      "titulo": "The New Ship",
+      "tituloOriginal": "The New Ship",
+      "alias": [
+        "The New Ship #1-5"
+      ],
+      "tipo": "Historia",
+      "anio": 2022,
+      "episodios": 5,
+      "estreno": "2022-08-02"
+    },
+    {
+      "titulo": "War of Managers",
+      "tituloOriginal": "War of Managers",
+      "alias": [
+        "War of Managers #1-5"
+      ],
+      "tipo": "Historia",
+      "anio": 2022,
+      "episodios": 5,
+      "estreno": "2022-09-06"
+    },
+    {
+      "titulo": "Y-Idol",
+      "tituloOriginal": "Y-Idol",
+      "alias": [
+        "Y-Idol #1-5"
+      ],
+      "tipo": "Historia",
+      "anio": 2022,
+      "episodios": 5,
+      "estreno": "2022-10-11"
+    },
+    {
+      "titulo": "Wife",
+      "tituloOriginal": "Wife",
+      "alias": [
+        "Wife #1-5"
+      ],
+      "tipo": "Historia",
+      "anio": 2022,
+      "episodios": 5,
+      "estreno": "2022-11-15"
+    }
+  ],
+  "activo": true
+}

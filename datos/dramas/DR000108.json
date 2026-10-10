@@ -1,0 +1,98 @@
+{
+  "codigo": "DR000108",
+  "titulo": "To My Star",
+  "tituloOriginal": "나의 별에게",
+  "alias": [
+    "To My Star",
+    "Naui Byeolege"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000108",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": "12-15 min",
+  "estado": "Finalizado",
+  "estreno": "2021-01-22",
+  "finalizacion": "2021-02-05",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Actor",
+    "Chef",
+    "Convivencia",
+    "Enemies to lovers",
+    "Celebridad",
+    "Vida cotidiana"
+  ],
+  "personas": [
+    {
+      "nombre": "Kang Seo Joon",
+      "persona": "PR000575",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Ji Woo",
+      "persona": "PR000576",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kang Seo Joon",
+        "Han Ji Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Kang Seo Joon, un famoso actor en la cima de su carrera, se ve obligado a esconderse temporalmente de la prensa y termina compartiendo casa con Han Ji Woo, un chef reservado y de carácter difícil. La convivencia entre ambos comienza con constantes choques, pero poco a poco la distancia entre ellos se transforma en una relación más íntima.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/20/7d/f8/207df8bfc181a9bd7cfeabc7380f2a6a.jpg",
+      "https://i.pinimg.com/1200x/c9/cd/7a/c9cd7a18eeb21ebc2b59b1cf20fbaea3.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Pw7YwEFdJpQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000058",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000066",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

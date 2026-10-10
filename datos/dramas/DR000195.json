@@ -1,0 +1,110 @@
+{
+  "codigo": "DR000195",
+  "titulo": "The Lie We Lived In",
+  "tituloOriginal": "거짓말이 사는 집",
+  "alias": [
+    "The Lie We Lived In",
+    "Killing House",
+    "Geojitmal-i Saneun Jib"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "22 min",
+  "estado": "Finalizado",
+  "estreno": "2026-06-05",
+  "finalizacion": "2026-06-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Asesino a sueldo",
+    "Detective",
+    "Crimen",
+    "Identidad falsa",
+    "Secuestro",
+    "Cohabitación forzada",
+    "Mentiras",
+    "Suspense",
+    "Atracción peligrosa",
+    "Enemies to Lovers"
+  ],
+  "personas": [
+    {
+      "nombre": "Seo Yi-do",
+      "persona": "PR000738",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chu Tae-jeong",
+      "persona": "PR000739",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seo Yi-do",
+        "Chu Tae-jeong"
+      ]
+    }
+  ],
+  "sinopsis": "Seo Yi-do llega a una casa aislada con la misión de eliminar a un objetivo, pero recibe la orden inesperada de mantenerlo con vida. La situación se complica cuando Chu Tae-jeong, un detective que debía pasar unos días en la casa, aparece sin conocer la verdadera identidad de Yi-do. Mientras ambos quedan atrapados bajo el mismo techo, una mentira construida para ocultar un crimen comienza a transformarse en una atracción que amenaza con descubrirlo todo.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=l-hHjoCqPDw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000150",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000151",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000152",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,111 @@
+{
+  "codigo": "DR000985",
+  "titulo": "4 Destiny",
+  "tituloOriginal": "4 Destiny",
+  "alias": [
+    "4 Destiny Project",
+    "4 Destiny: The Last Night",
+    "The Last Night",
+    "Red Moon and Wine",
+    "Un-in Heart",
+    "Blood Fighter's"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2025-09-18",
+  "finalizacion": "2025-11-06",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural",
+    "Thriller",
+    "Acción"
+  ],
+  "tags": [
+    "Antología",
+    "Cuatro historias",
+    "Destino",
+    "Amor",
+    "Amistad",
+    "Fantasmas",
+    "Inmortalidad",
+    "Segunda oportunidad",
+    "Boxeo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yot",
+        "Aim"
+      ]
+    },
+    {
+      "personajes": [
+        "Chaikhun",
+        "Thanu"
+      ]
+    },
+    {
+      "personajes": [
+        "Heart",
+        "Un-In"
+      ]
+    },
+    {
+      "personajes": [
+        "Yim",
+        "Kampan"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Historia",
+      "titulo": "The Last Night",
+      "tituloOriginal": "คืนสุดท้าย",
+      "episodios": [
+        1,
+        2
+      ]
+    },
+    {
+      "tipo": "Historia",
+      "titulo": "Red Moon and Wine",
+      "tituloOriginal": "คืนจันทร์เลือด",
+      "episodios": [
+        3,
+        4
+      ]
+    },
+    {
+      "tipo": "Historia",
+      "titulo": "Un-in Heart",
+      "tituloOriginal": "หัวใจหรัญญ์",
+      "episodios": [
+        5,
+        6
+      ]
+    },
+    {
+      "tipo": "Historia",
+      "titulo": "Blood Fighter's",
+      "tituloOriginal": "สังเวียนที่รัก",
+      "episodios": [
+        7,
+        8
+      ]
+    }
+  ],
+  "sinopsis": "Antología BL tailandesa compuesta por cuatro historias independientes unidas por el concepto del destino. The Last Night gira en torno a dos amigos cuya relación cambia después de una tragedia y una promesa incumplida; Red Moon and Wine mezcla romance, misterio, inmortalidad y una antigua promesa de sangre; Un-in Heart sigue el reencuentro de Heart con Un-In, su antiguo novio, dos años después de su ruptura; y Blood Fighter's cuenta la relación entre Yim, obligado a trabajar y entrenar en un gimnasio de boxeo para pagar las deudas de su padre, y Kampan, un antiguo boxeador que decide enseñarle. Las cuatro historias exploran distintas formas de amor, pérdida, segundas oportunidades y destino.",
+  "activo": true
+}

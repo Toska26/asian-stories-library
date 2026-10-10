@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000601",
+  "titulo": "Blue Lips",
+  "tituloOriginal": "蓝嘴唇",
+  "alias": [
+    "藍嘴唇",
+    "Lan Zui Chun",
+    "Blue Lips The Series"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2026-07-08",
+  "finalizacion": "2026-08-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "Trauma",
+    "Sanación",
+    "Música",
+    "Cantante",
+    "Abogado",
+    "Enfermedad",
+    "Justicia",
+    "Vida nocturna",
+    "Romance adulto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Teng Mo",
+        "Wu Shixian"
+      ]
+    }
+  ],
+  "sinopsis": "Teng Mo, un antiguo abogado cuya carrera quedó destruida tras un caso de asesinato sin resolver, vive apartado de su antigua vida mientras dirige una tienda de productos para adultos. Todo cambia cuando conoce a Wu Shixian, un joven cantante rebelde que acude repetidamente a su tienda. Lo que comienza con malentendidos y provocaciones acaba revelando los problemas personales que ambos arrastran. Mientras Teng Mo intenta enfrentarse de nuevo a un pasado que lo atormenta, Shixian lucha por mantener a su familia y ayudar a su hermana, cuya enfermedad está relacionada con el fenómeno de los llamados labios azules. Ambos terminan encontrando apoyo y afecto mientras buscan respuestas y justicia.",
+  "activo": true
+}

@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000789",
+  "titulo": "I Told Sunset About You",
+  "tituloOriginal": "แปลรักฉันด้วยใจเธอ",
+  "alias": [
+    "I Told Sunset About You: Part 1",
+    "BKPP The Series",
+    "ITSAY"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000789"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2020-10-22",
+  "finalizacion": "2020-11-19",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Coming-of-age"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amigos de la infancia",
+    "Rivales a amantes",
+    "Descubrimiento personal",
+    "Identidad",
+    "Familia",
+    "Universidad",
+    "Phuket"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Teh",
+        "Oh-aew"
+      ]
+    }
+  ],
+  "sinopsis": "Teh y Oh-aew fueron mejores amigos durante su infancia, pero una disputa los convirtió en rivales. Años después se reencuentran en una academia de chino mientras ambos se preparan para entrar en la universidad. La antigua amistad vuelve a despertar sentimientos cada vez más intensos, obligándolos a enfrentarse a sus inseguridades, sus expectativas y a una relación que empieza a superar los límites de la amistad.",
+  "especiales": [
+    {
+      "titulo": "Last Twilight in Phuket",
+      "tituloOriginal": "แปลรักฉันด้วยใจเธอ Side Story",
+      "alias": [
+        "Last Twilight in Phuket",
+        "I Told Sunset About You: Last Twilight in Phuket"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-05-20"
+    }
+  ],
+  "activo": true
+}

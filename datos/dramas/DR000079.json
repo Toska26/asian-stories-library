@@ -1,0 +1,114 @@
+{
+  "codigo": "DR000079",
+  "titulo": "Star in My Mind",
+  "tituloOriginal": "แล้วแต่ดาว",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000013",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "SR000079",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-04-08",
+  "finalizacion": "2022-05-27",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Universidad",
+    "Reencuentro"
+  ],
+  "personas": [
+    {
+      "nombre": "Daonuea",
+      "persona": "PR000519",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khabkluen",
+      "persona": "PR000518",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000082",
+      "personajes": [
+        "Daonuea",
+        "Khabkluen"
+      ]
+    }
+  ],
+  "sinopsis": "Daonuea regresa a Tailandia después de varios años estudiando en Alemania y vuelve a encontrarse con Khabkluen, su primer amor universitario. Años atrás, Daonuea se había declarado, pero no recibió la respuesta que esperaba. Ahora, al reencontrarse, descubre que sus sentimientos por Khabkluen siguen presentes y que quizá la historia entre ambos todavía no ha terminado.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/07/31/c9/0731c902e73ae5774dd51bc165295d38.jpg",
+      "https://i.pinimg.com/736x/15/2a/6d/152a6d82b6e065b277e39f20accce006.jpg",
+      "https://i.pinimg.com/1200x/aa/30/f5/aa30f557e6d0f56f877f297a780f3b41.jpg",
+      "https://i.pinimg.com/736x/62/6f/e5/626fe55c7e2c29a5586a6727658038ad.jpg",
+      "https://image.tmdb.org/t/p/original/ep50huHBkNMS3mvhWCo298DyRsn.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=LbxTzpWqGWE"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=Dt4Rp05OImE",
+      "https://www.youtube.com/watch?v=TKng-k4dq-w",
+      "https://www.youtube.com/watch?v=q1ED0Ty8X_o"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — Star in My Mind",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: Star in My Mind"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-04-26"
+    }
+  ],
+  "activo": true
+}

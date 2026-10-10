@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000380",
+  "titulo": "Ever After",
+  "alias": [
+    "Ever After The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2023-06-04",
+  "finalizacion": "2023-08-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Juventud",
+    "Instituto",
+    "Amor",
+    "Amistad",
+    "Desamor",
+    "Celos",
+    "Familia",
+    "Sacrificio",
+    "Relaciones"
+  ],
+  "sinopsis": "Cuatro jóvenes atraviesan las dificultades del amor, la amistad y el crecimiento mientras descubren que encontrar a la persona que aman no significa que la historia haya terminado. Las relaciones se enfrentan a inseguridades, presiones sociales, problemas económicos, dudas personales y decisiones que ponen a prueba lo que sienten.",
+  "activo": true
+}

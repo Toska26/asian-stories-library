@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000756",
+  "titulo": "What the Duck: Final Call",
+  "tituloOriginal": "รักแลนดิ้ง 2",
+  "alias": [
+    "What the Duck 2",
+    "What the Duck: The Series Final Call",
+    "What The Duck 2: Final Call"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "serie": "SR000755",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 38,
+  "estado": "Finalizado",
+  "estreno": "2019-03-18",
+  "finalizacion": "2019-05-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pop",
+        "Oat"
+      ]
+    },
+    {
+      "personajes": [
+        "Pree",
+        "Rambo"
+      ]
+    },
+    {
+      "personajes": [
+        "Win",
+        "Newyear"
+      ]
+    }
+  ],
+  "sinopsis": "Continuación directa de What the Duck. Pop consigue finalmente la oportunidad de convertirse en auxiliar de vuelo, pero debe enfrentarse a sus sentimientos por Oat. Mientras tanto, Rambo sigue lidiando con las consecuencias de su ruptura con Pree y su comportamiento autodestructivo. La temporada también introduce la relación entre Win y Newyear.",
+  "activo": true
+}

@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000687",
+  "titulo": "Chastity High",
+  "tituloOriginal": "恋愛バトルロワイヤル",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-08-29",
+  "finalizacion": "2024-08-29",
+  "generos": [
+    "LGBTQ+",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "LGBTQ+",
+    "Escolar",
+    "Romance",
+    "Homofobia",
+    "Lesbianas",
+    "Pareja gay",
+    "No romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ruka Ichinose",
+        "Yuma Nashinoki"
+      ]
+    }
+  ],
+  "sinopsis": "En una prestigiosa escuela japonesa se impone una estricta prohibición de las relaciones románticas. Mientras una alumna comienza a ayudar en secreto a sus compañeros, las relaciones prohibidas y los secretos de los estudiantes salen a la luz, incluida la relación entre Ruka y Yuma.",
+  "activo": true
+}

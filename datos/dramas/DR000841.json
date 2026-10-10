@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000841",
+  "titulo": "The Love of Winter",
+  "tituloOriginal": "ก่อนฤดูหนาวผ่าน",
+  "alias": [
+    "The Love Of Winter",
+    "Before Winter Passes"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2022-01-28",
+  "finalizacion": "2022-01-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kinn",
+        "Tidnuer"
+      ]
+    }
+  ],
+  "sinopsis": "Kinn, cansado de su vida cotidiana y de una reciente ruptura, viaja al norte de Tailandia buscando tranquilidad. Allí conoce a Tidnuer, un joven local que trabaja como guía y que le ayuda a descubrir la zona. Lo que comienza como un encuentro casual se transforma poco a poco en una relación romántica.",
+  "activo": true
+}

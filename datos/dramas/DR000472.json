@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000472",
+  "titulo": "The Fate Trap",
+  "alias": [
+    "Hồn Ai Nấy Giữ"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2024-08-11",
+  "finalizacion": "2024-08-29",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Intercambio de cuerpos",
+    "Almas intercambiadas",
+    "Amistad",
+    "Destino",
+    "Romance sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han",
+        "Lan"
+      ]
+    }
+  ],
+  "sinopsis": "Bao y Han intercambian accidentalmente sus almas después de comprar un misterioso collar de piedras durante un viaje. Mientras intenta adaptarse a su nueva situación, Han, atrapado en el cuerpo de Bao, se acerca cada vez más a Lan, el mejor amigo de Bao. La situación sobrenatural termina dando lugar a sentimientos románticos inesperados y obliga a los personajes a enfrentarse a sus verdaderos sentimientos.",
+  "activo": true
+}

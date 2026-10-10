@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000710",
+  "titulo": "When It Rains, It Pours: Mellow Rain",
+  "tituloOriginal": "ふったらどしゃぶり メロウレイン",
+  "alias": [
+    "When It Rains, It Pours Season 2",
+    "Futtara Doshaburi: Mellow Rain"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000700",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "When It Rains, It Pours",
+    "tituloOriginal": "ふったらどしゃぶり",
+    "autor": "Michi Ichiho",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "Próximamente",
+  "estreno": "2026-11-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Adultos",
+    "Pareja estable",
+    "Convivencia",
+    "Celos",
+    "Familia",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hagiwara Ikken",
+        "Nakarai Sei"
+      ]
+    }
+  ],
+  "sinopsis": "Cuatro meses después de que Hagiwara Ikken y Nakarai Sei finalmente reconocieran sus sentimientos y se convirtieran en pareja, ambos comienzan a construir una vida juntos. Mientras comparten su día a día, las heridas del pasado, los antiguos vínculos y las pequeñas inseguridades ponen a prueba la relación que acaban de empezar.",
+  "activo": true
+}

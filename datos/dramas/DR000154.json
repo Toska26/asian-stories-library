@@ -1,0 +1,112 @@
+{
+  "codigo": "DR000154",
+  "titulo": "Love for Love's Sake",
+  "tituloOriginal": "연애 지상주의 구역",
+  "alias": [
+    "Love for Love's Sake",
+    "Love Supremacy Zone",
+    "Yeonae Jisangjuui Guyeok"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "35 min",
+  "estado": "Finalizado",
+  "estreno": "2024-01-24",
+  "finalizacion": "2024-02-01",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Realidad virtual",
+    "Videojuego",
+    "Viaje entre mundos",
+    "Instituto",
+    "Primer amor",
+    "Misión",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Tae Myung-ha",
+      "persona": "PR000661",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cha Yeo-woon",
+      "persona": "PR000662",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tae Myung-ha",
+        "Cha Yeo-woon"
+      ]
+    }
+  ],
+  "sinopsis": "A los 29 años, Tae Myung Ha entra misteriosamente en un videojuego basado en una novela que estaba leyendo y aparece en el cuerpo de su yo de diecinueve años. Allí recibe la misión de hacer feliz a Cha Yeo Woon, su personaje favorito de la novela. Mientras intenta cumplir el objetivo, Myung Ha descubre que sus sentimientos y los acontecimientos del juego pueden alterar una historia que parecía estar predeterminada.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=XfnNyduk_Jo"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=g3FmbWOBCNY",
+      "https://www.youtube.com/watch?v=OKWU6WYkjcs",
+      "https://www.youtube.com/watch?v=VAMp-bRTO4I"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000115",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000114",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

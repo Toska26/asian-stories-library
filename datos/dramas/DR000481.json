@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000481",
+  "titulo": "Situationship in the City",
+  "alias": [
+    "Mập Mờ Trong Thành Phố"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2025-08-21",
+  "finalizacion": "2025-09-05",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Y2K",
+    "Situationship",
+    "CEO",
+    "Exorcista",
+    "Vida pasada",
+    "Reencarnación",
+    "Sobrenatural",
+    "Destino",
+    "Karma",
+    "Ho Chi Minh City"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nhất An",
+        "Bảo Minh"
+      ]
+    }
+  ],
+  "sinopsis": "Nhất An es un joven moderno, seguro de sí mismo y apasionado por la estética Y2K. Su vida cambia cuando conoce a Bảo Minh, un misterioso y atractivo CEO que también ejerce como exorcista. Entre ambos surge una relación ambigua que ninguno quiere definir, pero pronto descubren que su conexión no comenzó en su vida actual. En una existencia anterior, Nhất An era un espíritu errante y Bảo Minh un exorcista encargado de enfrentarse a fuerzas sobrenaturales. Los recuerdos del pasado regresan mientras ambos intentan comprender si su relación actual está determinada por el destino.",
+  "activo": true
+}

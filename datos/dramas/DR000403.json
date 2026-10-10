@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000403",
+  "titulo": "Let Love Heal",
+  "alias": [
+    "Hàn Gắn Yêu Thương"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2016,
+  "tipo": "Cortometraje",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2016-06-30",
+  "finalizacion": "2016-06-30",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Familia",
+    "Aceptación",
+    "Madre",
+    "Prejuicios",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hoàng",
+        "Lực"
+      ]
+    }
+  ],
+  "sinopsis": "Hoàng, un joven vendedor ambulante de globos, abandona su hogar después de que su madre no acepta que sea gay. Su relación con Lực y el conflicto familiar ponen a prueba su amor y la capacidad de su familia para aceptar su felicidad.",
+  "activo": true
+}

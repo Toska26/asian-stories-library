@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000490",
+  "titulo": "Hehe & He",
+  "alias": [
+    "HeHe室友 第三季",
+    "Hehe & He Season 3"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000488",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 25,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-11-25",
+  "finalizacion": "2025-10-04",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Sitcom",
+    "Compañeros de piso",
+    "Amistad",
+    "Convivencia",
+    "Vida cotidiana",
+    "Relaciones",
+    "Amor",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zik",
+        "Radar"
+      ]
+    }
+  ],
+  "sinopsis": "Zik y Radar continúan su historia en una tercera temporada que retoma su relación y su vida cotidiana después de los acontecimientos anteriores. Nuevas situaciones, cambios personales y experiencias compartidas ponen a prueba su vínculo mientras siguen afrontando juntos las particularidades de su convivencia y de su relación.",
+  "activo": true
+}

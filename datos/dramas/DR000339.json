@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000339",
+  "titulo": "My Toxic Lover",
+  "alias": [
+    "My Toxic Lover The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000339",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 42,
+  "estado": "Finalizado",
+  "estreno": "2021-04-10",
+  "finalizacion": "2021-05-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Enemies to lovers",
+    "Diferencias sociales",
+    "Celebridad",
+    "Pintor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ethon Kaizer",
+        "Bryce"
+      ]
+    }
+  ],
+  "sinopsis": "Ethon Kaizer, una famosa estrella de cine, se enamora de Bryce, un joven pintor de origen humilde. La relación entre ambos se desarrolla mientras deben enfrentarse a sus profundas diferencias sociales, personales y profesionales.",
+  "activo": true
+}

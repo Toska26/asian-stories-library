@@ -1,0 +1,76 @@
+{
+  "codigo": "DR000706",
+  "titulo": "School Trip: Joined a Group I'm Not Close To",
+  "tituloOriginal": "修学旅行で仲良くないグループに入りました",
+  "alias": [
+    "Shugaku Ryoko de Nakayoku Nai Group ni Hairimashita"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000706",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "School Trip: Joined a Group I'm Not Close To",
+    "tituloOriginal": "修学旅行で仲良くないグループに入りました",
+    "autor": "Kakuregi Uzura",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2025-10-18",
+  "finalizacion": "2025-12-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amor juvenil",
+    "Amigos",
+    "Celos",
+    "Primer amor",
+    "Viaje escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hioki Asahi",
+        "Watarai Tsukasa"
+      ]
+    }
+  ],
+  "sinopsis": "Hioki Asahi, un estudiante de instituto corriente que no tiene amigos cercanos en su nueva clase, termina formando parte durante el viaje escolar de un grupo de cuatro chicos populares conocidos como los Cuatro Reyes Celestiales. Entre ellos se encuentra Watarai Tsukasa, un chico amable y popular cuya atención hacia Hioki pronto se convierte en algo mucho más intenso.",
+  "especiales": [
+    {
+      "titulo": "School Trip: Joined a Group I’m Not Close To — After Story 1",
+      "alias": [
+        "After Story 1"
+      ],
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-12-28"
+    },
+    {
+      "titulo": "School Trip: Joined a Group I’m Not Close To — After Story 2",
+      "alias": [
+        "After Story 2"
+      ],
+      "tipo": "Especial",
+      "anio": 2026,
+      "episodios": 1,
+      "estreno": "2026-01-04"
+    }
+  ],
+  "activo": true
+}

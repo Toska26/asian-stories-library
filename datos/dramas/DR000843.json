@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000843",
+  "titulo": "Something in My Room",
+  "tituloOriginal": "ผมกับผีในห้อง",
+  "alias": [
+    "Phom Kub Phee Nai Hong",
+    "My Dear Ghost Roommate"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Cómic",
+    "relacion": "Adaptación",
+    "titulo": "Something in My Room",
+    "tituloOriginal": "ผมและผีในห้อง",
+    "autor": "raflael",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-01-19",
+  "finalizacion": "2022-03-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Misterio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phat",
+        "Phob"
+      ]
+    }
+  ],
+  "sinopsis": "Phat se muda con su madre a una nueva casa y pronto descubre que está habitada por Phob, un fantasma joven que ha perdido la memoria y no recuerda cómo murió. Phat comienza a ayudarlo a descubrir su pasado antes de que termine el tiempo que tiene para permanecer en el mundo de los vivos. Mientras investigan juntos, su convivencia se transforma en una relación cada vez más profunda.",
+  "activo": true
+}

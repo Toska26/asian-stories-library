@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000817",
+  "titulo": "Skinship T2",
+  "tituloOriginal": "สัมผัสรักของเราและนาย 2",
+  "alias": [
+    "Skinship Season 2",
+    "SkinShip The Series Season 2",
+    "Skinship 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000816",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 3,
+  "duracion": "30-33 min",
+  "estado": "Finalizado",
+  "estreno": "2021-04-24",
+  "finalizacion": "2021-05-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Hospital",
+    "Amistad",
+    "Pareja",
+    "Citas",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Win",
+        "Beauty"
+      ]
+    },
+    {
+      "personajes": [
+        "James",
+        "Teenoi"
+      ]
+    }
+  ],
+  "sinopsis": "La segunda temporada continúa las historias de los personajes de Skinship. Tras la ruptura de Beauty y Win, sus amigos intentan ayudar a Win a superar la situación, mientras Teenoi y James siguen desarrollando su relación y afrontan nuevas circunstancias personales.",
+  "activo": true
+}

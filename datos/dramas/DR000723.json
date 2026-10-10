@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000723",
+  "titulo": "Contrast",
+  "tituloOriginal": "コントラスト",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-03-13",
+  "finalizacion": "2026-03-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Akira Senkawa",
+        "Kanata Aoyama"
+      ]
+    }
+  ],
+  "sinopsis": "Kanata Aoyama es un estudiante popular y emocionalmente reservado, mientras que Akira Senkawa es un alumno solitario y brillante. Un encuentro casual en las escaleras que conducen a la azotea hace que ambos comiencen a compartir los sentimientos que normalmente esconden.",
+  "activo": true
+}

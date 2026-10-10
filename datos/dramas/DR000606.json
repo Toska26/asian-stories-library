@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000606",
+  "titulo": "The Missing Piece",
+  "tituloOriginal": "请记住我的名字",
+  "alias": [
+    "Qing Jizhu Wo de Mingzi",
+    "Mr. Ji",
+    "貌合神离 +1"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 35,
+  "estado": "En emisión",
+  "estreno": "2026-09-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Amnesia",
+    "Relación por contrato",
+    "Relación fingida",
+    "Exnovios",
+    "Confusión de identidad",
+    "Regreso del exnovio",
+    "Amnesia de examantes",
+    "Protagonista rico",
+    "Anhelo mutuo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Mo",
+        "Ji Mingxuan"
+      ]
+    }
+  ],
+  "sinopsis": "Tras un accidente que le provoca amnesia, Shen Mo confunde a Ji Mingxuan, el hombre que lo salvó, con su amante. Durante los meses que pasan juntos nace entre ambos un vínculo que va más allá del malentendido inicial. Cuando Shen Mo recupera sus recuerdos, ese periodo desaparece de su memoria y Ji Mingxuan teme perderlo. Para mantenerlo a su lado, le propone un contrato de tres años como amante. Mientras intentan convivir bajo unas reglas aparentemente claras, los sentimientos que ya existían entre ellos hacen cada vez más difícil distinguir el acuerdo de una relación verdadera.",
+  "activo": true
+}

@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000851",
+  "titulo": "Love Stage!!",
+  "tituloOriginal": "เลิฟสเตจ",
+  "alias": [
+    "Love Stage",
+    "Love Stage!! The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000850",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 44,
+  "estado": "Finalizado",
+  "estreno": "2022-01-29",
+  "finalizacion": "2022-04-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Celebridades",
+    "Primer amor",
+    "Romance secreto",
+    "Mundo del espectáculo",
+    "Mangaka"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryou",
+        "Anda"
+      ]
+    },
+    {
+      "personajes": [
+        "Thee",
+        "Jed"
+      ]
+    }
+  ],
+  "sinopsis": "Anda es un estudiante universitario y aspirante a mangaka que nació en una famosa familia del mundo del espectáculo, aunque él no desea seguir los pasos de sus padres y su hermano. Diez años después de participar en un anuncio vestido de niña, una nueva grabación le obliga a repetir aquella experiencia. Allí se reencuentra con Ryo, el entonces niño que se enamoró de aquella misteriosa chica y que, ahora convertido en un popular actor, ha esperado durante años volver a encontrarla. Sin saber que aquella persona era en realidad Anda, Ryo tendrá que enfrentarse a sus sentimientos cuando descubra la verdad.",
+  "activo": true
+}

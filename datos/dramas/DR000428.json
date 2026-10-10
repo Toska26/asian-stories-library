@@ -1,0 +1,28 @@
+{
+  "codigo": "DR000428",
+  "titulo": "Nhà Trọ Có Quá Trời Phòng",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "serie": "SR000428",
+  "temporadas": 3,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-12-30",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Pensión",
+    "Vecinos",
+    "Amistad",
+    "Vida cotidiana",
+    "Humor"
+  ],
+  "sinopsis": "La vida cotidiana de los residentes de una pensión da lugar a situaciones de convivencia, amistad, conflictos y romances entre los diferentes personajes que comparten el mismo espacio.",
+  "activo": true
+}

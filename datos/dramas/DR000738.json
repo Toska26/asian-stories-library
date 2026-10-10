@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000738",
+  "titulo": "Hold on, Harutora-kun",
+  "tituloOriginal": "ちょっと待とうよ、春虎くん",
+  "alias": [
+    "Chotto Matou yo, Harutora-kun"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "22 min",
+  "estado": "Finalizado",
+  "estreno": "2026-08-14",
+  "finalizacion": "2026-10-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kishida Sui",
+        "Kurobe Harutora"
+      ]
+    }
+  ],
+  "sinopsis": "Kishida Sui utiliza una máscara emocional para protegerse de los demás. Su rutina cambia cuando el nuevo estudiante Kurobe Harutora se convierte en su compañero de habitación. Mientras Harutora se concentra en el baloncesto, Sui lo ayuda a entrenar y ambos comienzan a acercarse hasta que sus sentimientos salen a la luz.",
+  "activo": true
+}

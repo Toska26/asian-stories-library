@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000550",
+  "titulo": "ABO Desire",
+  "tituloOriginal": "垂涎",
+  "alias": [
+    "Chui Xian",
+    "Desire"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Desire",
+    "tituloOriginal": "垂涎",
+    "autor": "Nong Jian",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "estado": "Finalizado",
+  "estreno": "2025-07-12",
+  "finalizacion": "2025-10-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "ABO",
+    "Omegaverse"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hua Yong",
+        "Sheng Shaoyou"
+      ]
+    },
+    {
+      "personajes": [
+        "Gao Tu",
+        "Shen Wenlang"
+      ]
+    }
+  ],
+  "sinopsis": "En un mundo regido por una estructura ABO, las relaciones entre alfa, beta y omega determinan buena parte de la vida social. Hua Yong y Sheng Shaoyou desarrollan una relación marcada por sus circunstancias, mientras Gao Tu y Shen Wenlang protagonizan una segunda historia de amor dentro del mismo universo.",
+  "activo": true
+}

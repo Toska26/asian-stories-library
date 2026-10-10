@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000284",
+  "titulo": "Amore",
+  "alias": [
+    "Amore: A True to Life Story"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2020-08-07",
+  "finalizacion": "2021-03-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jimmy",
+        "Joey"
+      ]
+    }
+  ],
+  "sinopsis": "Jimmy debe hacerse cargo de su bebé y Joey decide ayudarlo a mantenerlo en secreto. La convivencia y las dificultades que atraviesan hacen que ambos se acerquen y desarrollen sentimientos el uno por el otro.",
+  "activo": true
+}

@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000311",
+  "titulo": "INN Love",
+  "alias": [
+    "INN Love The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2021-05-29",
+  "finalizacion": "2021-07-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Resort",
+    "Escritor",
+    "Modelo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gino Nathaniel Reyes",
+        "Alex Delos Reyes"
+      ]
+    }
+  ],
+  "sinopsis": "Gino Nathaniel Reyes, un escritor que necesita terminar un encargo, se marcha a un resort para encontrar inspiración y poder completar su trabajo. Allí coincide inesperadamente con Alex Delos Reyes, un modelo freelance que intenta superar una ruptura. Debido a las circunstancias, ambos terminan alojándose en la misma villa y su difícil primer encuentro da paso poco a poco a una relación más cercana.",
+  "activo": true
+}

@@ -1,0 +1,118 @@
+{
+  "codigo": "DR000106",
+  "titulo": "Color Rush",
+  "tituloOriginal": "컬러 러쉬",
+  "alias": [
+    "Color Rush",
+    "Keoleo Reoswi"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000106",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2020-12-30",
+  "finalizacion": "2021-01-21",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Fantasía",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Mono",
+    "Probe",
+    "Daltonismo",
+    "Colores",
+    "Desaparición",
+    "Investigación",
+    "Sobrenatural",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Choi Yeon-woo",
+      "persona": "PR000573",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Go Yoo-han",
+      "persona": "PR000574",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Yeon-woo",
+        "Go Yoo-han"
+      ]
+    }
+  ],
+  "sinopsis": "Choi Yeon-woo es un mono, una persona que percibe el mundo únicamente en tonos grises debido a una alteración neurológica. Todo cambia cuando conoce a Go Yoo-han, su probe, cuya presencia provoca en él el fenómeno conocido como color rush y le permite experimentar los colores por primera vez. Mientras intenta comprender esta conexión, Yeon-woo también continúa buscando respuestas sobre la desaparición de su madre.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/2e/61/09/2e6109ea1b0035b850774a8f9489035f.jpg",
+      "https://i.pinimg.com/1200x/12/09/e6/1209e6013722704661810491a68bc72b.jpg",
+      "https://i.pinimg.com/736x/9e/01/ca/9e01caeccc733e23d9b7a8301e63d0b3.jpg",
+      "https://images.justwatch.com/poster/333489955/s718/color-rush.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1176447v"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=tPBPO0nOitk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000063",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000064",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

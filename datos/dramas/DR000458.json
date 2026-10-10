@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000458",
+  "titulo": "Mr Cinderella 2",
+  "alias": [
+    "Chàng Lọ Lem 2",
+    "Mr. Cinderella 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000457",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2023-09-23",
+  "finalizacion": "2023-11-11",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dũng",
+        "Khoa"
+      ]
+    }
+  ],
+  "sinopsis": "Dũng y Khoa viven juntos como pareja, pero la aparición inesperada del hermano pequeño de Khoa altera su vida y pone a prueba su relación.",
+  "activo": true
+}

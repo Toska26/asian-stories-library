@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000796",
+  "titulo": "Manner of Death",
+  "tituloOriginal": "พฤติการณ์ที่ตาย",
+  "alias": [
+    "Manner of Death: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Manner of Death",
+    "tituloOriginal": "พฤติการณ์ที่ตาย",
+    "autor": "Sammon",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "estado": "Finalizado",
+  "estreno": "2020-11-30",
+  "finalizacion": "2021-02-22",
+  "generos": [
+    "Misterio",
+    "Thriller",
+    "Crimen",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Forense",
+    "Asesinato",
+    "Investigación",
+    "Policía",
+    "Corrupción",
+    "Secretos",
+    "Sospechosos",
+    "Supervivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bun",
+        "Tan"
+      ]
+    }
+  ],
+  "sinopsis": "El doctor Bun, un médico forense que regresa a su ciudad natal, examina el cadáver de una mujer cuya muerte parece ser un suicidio. Sin embargo, las pruebas de la autopsia indican que se trata de un asesinato. Cuando alguien lo amenaza para que altere su informe, Bun comienza a investigar por su cuenta y sospecha de Tan, el novio de la víctima. A medida que ambos se ven obligados a colaborar para descubrir la verdad, la desconfianza inicial se transforma progresivamente en confianza y sentimientos románticos.",
+  "activo": true
+}

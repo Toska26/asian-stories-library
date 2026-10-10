@@ -1,0 +1,26 @@
+{
+  "codigo": "DR001034",
+  "titulo": "A Good Yesterday",
+  "tituloOriginal": "รักไม่เคยลืม",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2026-02-11",
+  "finalizacion": "2026-02-25",
+  "generos": [
+    "Thriller",
+    "Misterio",
+    "Terror",
+    "Romance",
+    "BL"
+  ],
+  "sinopsis": "Jedi, un joven YouTuber, viaja a Kaen Makrut para grabar un programa de viajes. Allí conoce a Asi, un joven perteneciente a una minoría étnica de la región, y entre ambos surge una atracción inmediata. Sin embargo, Jedi descubre que Asi está atrapado en una compleja red de relaciones y que varias desapariciones de parejas LGBTQ+ están relacionadas con el lugar.",
+  "activo": true
+}

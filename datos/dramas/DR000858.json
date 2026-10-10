@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000858",
+  "titulo": "La Cuisine",
+  "tituloOriginal": "เมนูลับฉบับแก้มยุ้ย",
+  "alias": [
+    "The Secret Menu of Kaem Yui",
+    "Menu Lap Chabap Kaem Yui"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "La Cuisine",
+    "tituloOriginal": "เมนูลับฉบับแก้มยุ้ย",
+    "autor": "GrandPine",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 43,
+  "estado": "Finalizado",
+  "estreno": "2022-03-12",
+  "finalizacion": "2022-06-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Cocina",
+    "Universidad",
+    "Senior y junior",
+    "Postres tailandeses",
+    "Crush secreto",
+    "Comida"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ram",
+        "Lukchup"
+      ]
+    }
+  ],
+  "sinopsis": "Ram es un estudiante de arquitectura de tercer año, rico, popular y muy exigente con la comida. Lukchup, un estudiante menor de Alimentación y Nutrición, lleva tiempo enamorado de él pero no se atreve a confesar sus sentimientos. El destino hace que sus caminos se crucen a través de la comida y los postres tailandeses, dando comienzo a una relación que irá creciendo poco a poco.",
+  "activo": true
+}

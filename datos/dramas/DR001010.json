@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001010",
+  "titulo": "MANDATE The Series",
+  "tituloOriginal": "คมเดือน",
+  "alias": [
+    "Mandate",
+    "MANDATE The Series",
+    "คมเดือน"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "60 min",
+  "estado": "Finalizado",
+  "estreno": "2025-09-12",
+  "finalizacion": "2025-10-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Política"
+  ],
+  "tags": [
+    "Política",
+    "Elecciones",
+    "Médico",
+    "Pueblo",
+    "Poder",
+    "Secretos",
+    "Traición"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nong",
+        "Vee"
+      ]
+    }
+  ],
+  "sinopsis": "Nong es un médico rural respetado por su comunidad que rechaza las ofertas de los partidos políticos para dedicarse a su profesión. Vee, hijo de un poderoso líder político, intenta convencerlo para entrar en política, pero detrás de esa propuesta existe un secreto que terminará alterando la relación entre ambos. En medio de campañas electorales, ambición, poder y traiciones, los sentimientos comienzan a complicarlo todo.",
+  "activo": true
+}

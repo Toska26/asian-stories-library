@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000582",
+  "titulo": "Disguise Game",
+  "tituloOriginal": "伪装游戏",
+  "alias": [
+    "Wei Zhuang You Xi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2025-12-05",
+  "generos": [
+    "Bromance",
+    "Comedia",
+    "Juventud",
+    "Fantasía",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Amistad",
+    "Doble protagonista",
+    "Viaje en el tiempo",
+    "Universidad",
+    "Compañeros de habitación",
+    "Redención",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Chao Yue",
+        "Zhang Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Chao Yue, un antiguo erudito y nuevo campeón de los exámenes imperiales, viaja inesperadamente desde el pasado hasta la época moderna y acaba compartiendo habitación con Zhang Chen, un estudiante aparentemente despreocupado. Mientras Lin Chao Yue intenta adaptarse al mundo moderno, ambos se ayudan mutuamente a superar sus problemas y descubren secretos del pasado.",
+  "activo": true
+}

@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000865",
+  "titulo": "21 Days Theory",
+  "tituloOriginal": "21 วัน มีฉันมีเธอ",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "38-44 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-07",
+  "finalizacion": "2022-08-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juvenil",
+    "Drama"
+  ],
+  "tags": [
+    "Instituto",
+    "Reto",
+    "Rivales a amantes",
+    "Primer amor",
+    "Cuenta atrás",
+    "Amistad",
+    "Adolescencia",
+    "Mini-serie"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "X",
+        "Q"
+      ]
+    }
+  ],
+  "sinopsis": "Q es un estudiante que lucha constantemente por alcanzar sus objetivos y que acepta un reto de X, un alumno brillante y popular. El desafío les da solo 21 días para conseguir que Mook, una conocida influencer, lo invite a una ceremonia. Lo que comienza como una competición termina acercándolos y haciendo que ambos descubran sentimientos que no esperaban.",
+  "activo": true
+}

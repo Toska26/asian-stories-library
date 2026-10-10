@@ -1,0 +1,88 @@
+{
+  "codigo": "DR000129",
+  "titulo": "Once Again",
+  "tituloOriginal": "다시 나를 찾아와",
+  "alias": [
+    "Once Again",
+    "Dasi Nareul Chajawa"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000129",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-09-15",
+  "finalizacion": "2022-10-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Viaje en el tiempo",
+    "Vidas pasadas",
+    "Reencuentro",
+    "Destino",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Shin Jae Woo",
+      "persona": "PR000605",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Ji Hoon",
+      "persona": "PR000606",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shin Jae Woo",
+        "Kang Ji Hoon"
+      ]
+    }
+  ],
+  "sinopsis": "Jae Woo es un joven marcado por un trauma de la infancia que, de forma inesperada, viaja al pasado y regresa a 2007. Allí se encuentra con Ji Hoon, un estudiante de Derecho que se prepara para el examen de acceso a la abogacía y que fue una persona muy importante para él. Con la oportunidad de volver a vivir aquellos acontecimientos, Jae Woo intenta cambiar un destino que en el presente terminó separándolos para siempre.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/13/2a/a8/132aa8da4bdca9ea396a33f653bd802c.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1199202v"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

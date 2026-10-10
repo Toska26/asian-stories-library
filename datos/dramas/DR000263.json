@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000263",
+  "titulo": "Connecting to You",
+  "tituloOriginal": "整個世界，只有你連上了我",
+  "alias": [
+    "Connect to You",
+    "Sekai de Kimi Dake"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2026,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2026-08-14",
+  "finalizacion": "2026-09-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Fantasía",
+    "Policía",
+    "Investigación",
+    "Universidad",
+    "Habilidad sobrenatural",
+    "Hilos del destino",
+    "Slow Burn",
+    "Amor predestinado",
+    "Casos policiales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Chia-Kai",
+        "Wu Da-Wei"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Chia-Kai puede ver los vínculos que conectan a las personas como hilos de diferentes colores, pero nunca ha visto uno unido a sí mismo. Todo cambia cuando conoce a Wu Da-Wei, un policía escéptico con quien aparece por primera vez un misterioso hilo plateado. Mientras intenta comprender qué significa esa conexión, Chia-Kai comienza a ayudar a la policía a resolver investigaciones y descubre que el vínculo entre ambos se vuelve cada vez más profundo.",
+  "activo": true
+}

@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000633",
+  "titulo": "The Reason Why He Fell in Love with Me Season 2",
+  "tituloOriginal": "彼が僕に恋した理由 SEASON2",
+  "alias": [
+    "The Reason Why He Fell in Love with Me 2",
+    "Kare ga Boku ni Koishita Wake Season 2",
+    "BokuKoi Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000039",
+    "orden": 3
+  },
+  "serie": "SR000624",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2021-04-09",
+  "finalizacion": "2021-06-11",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Abogados",
+    "Oficina",
+    "Pareja estable",
+    "Triángulo amoroso",
+    "Expareja",
+    "Celos",
+    "Amor correspondido",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hikawa Toru",
+        "Takase Ryo"
+      ]
+    }
+  ],
+  "sinopsis": "Hikawa Toru trabaja como abogado y mantiene una relación con Takase Ryo. La aparición de Akagi Masumi, su antiguo amor, vuelve a poner a prueba la relación entre Hikawa y Takase mientras ambos intentan construir su futuro juntos.",
+  "activo": true
+}

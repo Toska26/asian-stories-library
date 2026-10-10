@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000292",
+  "titulo": "Lakan",
+  "alias": [
+    "Lakan The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2020-10-26",
+  "finalizacion": "2021-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bulan",
+        "John"
+      ]
+    }
+  ],
+  "sinopsis": "Un hombre que desea escapar de las dificultades de la ciudad conoce a Bulan, un hombre de la provincia con una gran responsabilidad hacia su tribu. Ambos desarrollan una relación íntima que acaba convirtiéndose en amor.",
+  "activo": true
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000956",
+  "titulo": "Sunset x Vibes",
+  "tituloOriginal": "เพียงชลาลัย",
+  "alias": [
+    "Sunset x Vibes",
+    "Sunset Vibes",
+    "SunsetxVibes",
+    "Phiang Chalalai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Sunset x Vibes",
+    "tituloOriginal": "เพียงชลาลัย",
+    "autor": "Rosesarin",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-06-15",
+  "finalizacion": "2024-08-31",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Adaptación",
+    "Oficina",
+    "Jefe y empleado",
+    "Sueños",
+    "Reencarnación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Salin"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Sunset x Vibes — Special EP.",
+      "fecha": "2024-09-14",
+      "tipo": "Narrativo"
+    }
+  ],
+  "sinopsis": "Desde niño, Salin sueña durante cada luna llena con un misterioso hombre vestido con ropas tradicionales tailandesas. Años después, durante sus prácticas en una gran empresa de joyería, conoce al CEO Sun Suriyen y descubre que es el mismo hombre que aparecía en sus sueños. La relación entre ambos se complica cuando Salin pasa a trabajar directamente para él.",
+  "activo": true
+}

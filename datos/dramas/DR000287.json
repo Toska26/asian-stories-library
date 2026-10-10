@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000287",
+  "titulo": "Safe Haven",
+  "alias": [
+    "Safe Haven The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 8,
+  "estado": "Finalizado",
+  "estreno": "2020-08-18",
+  "finalizacion": "2020-12-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dave",
+        "Terrence"
+      ]
+    }
+  ],
+  "sinopsis": "Dave y Terrence se conocen después de una disputa en Twitter y, a partir de ese encuentro, comienzan una relación amorosa inesperada.",
+  "activo": true
+}

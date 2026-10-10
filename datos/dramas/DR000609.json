@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000609",
+  "titulo": "Not Yours",
+  "tituloOriginal": "非你之物",
+  "alias": [
+    "Not Yours The Series",
+    "Not Yours เมื่อผมไม่ใช่",
+    "เมื่อผมไม่ใช่",
+    "Fei Ni Zhi Wu"
+  ],
+  "pais": [
+    "CN",
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "En emisión",
+  "estreno": "2026-09-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Deuda familiar",
+    "Relación por contrato",
+    "Convivencia",
+    "Diferencia de clase",
+    "Desigualdad de poder",
+    "Celos",
+    "Fanboy secreto",
+    "Amor vs supervivencia",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Paobei",
+        "Junying"
+      ]
+    },
+    {
+      "personajes": [
+        "Milan",
+        "Jiang Weibang"
+      ]
+    }
+  ],
+  "sinopsis": "Paobei es un joven vendedor de flores cuya familia queda atrapada en una grave situación económica debido a las deudas de su padre. Sus problemas lo llevan hasta Junying, un joven empresario rico y reservado que puede ofrecerle la estabilidad que necesita. Lo que comienza como un acuerdo condicionado por el dinero y la necesidad evoluciona hacia una relación cada vez más compleja, en la que la protección y el control se confunden con el afecto. Al mismo tiempo, Milan, un joven actor, desarrolla una relación con Jiang Weibang, conocido como Pong, un amigo trabajador y leal de Paobei. Ambas parejas deben enfrentarse a sus propias diferencias mientras los conflictos familiares, las deudas y una lucha por el poder complican sus relaciones.",
+  "activo": true
+}

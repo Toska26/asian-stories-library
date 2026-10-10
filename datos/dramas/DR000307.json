@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000307",
+  "titulo": "Chasing Sunsets",
+  "alias": [
+    "Chasing Sunsets The Series",
+    "Chasing Sunsets: A Queer Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "universo": "UN000008",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2020-06-13",
+  "finalizacion": "2020-07-18",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Psicológico"
+  ],
+  "tags": [
+    "GL",
+    "LGBTQ+",
+    "Salud mental",
+    "VIH",
+    "Aceptación",
+    "Amor lésbico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lara Bautista",
+        "Farrah Domingo"
+      ]
+    }
+  ],
+  "sinopsis": "Lara Bautista, una aspirante a escritora que vive con depresión y ansiedad, llega a Camp Avenue junto a su novio Dominic. Durante su estancia conoce a Farrah Domingo, la propietaria del campamento, y entre ambas surge una conexión que poco a poco se transforma en una relación amorosa. La historia aborda el descubrimiento de la propia identidad, la aceptación, la salud mental, el VIH y las dificultades que acompañan a las relaciones LGBTQ+.",
+  "activo": true
+}

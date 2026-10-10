@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000908",
+  "titulo": "House of Stars",
+  "tituloOriginal": "สถาบันปั้นดาว",
+  "alias": [
+    "House of Stars The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-05-01",
+  "finalizacion": "2023-07-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Actores",
+    "Academia de talentos",
+    "Convivencia",
+    "Competencia",
+    "Secretos",
+    "Rivalidad",
+    "Romance",
+    "Drama psicológico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wayha",
+        "Wayu"
+      ]
+    },
+    {
+      "personajes": [
+        "Korn",
+        "Pawin"
+      ]
+    }
+  ],
+  "sinopsis": "Un grupo de jóvenes aspirantes a convertirse en estrellas vive en una casa dirigida con mano firme por una poderosa representante. La convivencia, la competencia por alcanzar la fama y los secretos de los residentes generan relaciones, conflictos y romances.",
+  "activo": true
+}

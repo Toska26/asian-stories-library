@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000332",
+  "titulo": "Wheel of Love: Weekend to Remember",
+  "alias": [
+    "Wheel of Love",
+    "Weekend to Remember",
+    "Wheel of Love Presents: Weekend to Remember"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2021-04-18",
+  "finalizacion": "2021-06-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Familia",
+    "Multi-pareja",
+    "Amor",
+    "Diferencias sociales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Romeo Asuncion",
+        "Jenevieve"
+      ]
+    },
+    {
+      "personajes": [
+        "Miguel Asuncion",
+        "Jane Del Pilar"
+      ]
+    }
+  ],
+  "sinopsis": "Los hermanos Asuncion preparan una celebración sorpresa para el cumpleaños de su madre mientras cada uno afronta sus propios problemas sentimentales. Durante ese fin de semana decisivo surgen diferentes historias de amor, incluyendo la relación entre Romeo y Jenevieve y el romance entre Miguel y Jane.",
+  "activo": true
+}

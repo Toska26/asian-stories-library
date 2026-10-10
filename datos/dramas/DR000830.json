@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000830",
+  "titulo": "Brothers",
+  "tituloOriginal": "รักนะน้องชาย รักนายครับผม",
+  "alias": [
+    "Brothers The Series",
+    "Rak Na Nong Chai Rak Nai Khrap Phom"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": "42-45 min",
+  "estado": "Finalizado",
+  "estreno": "2021-02-05",
+  "finalizacion": "2021-04-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Instituto",
+    "Familia",
+    "Hermanastros",
+    "Convivencia",
+    "Fotografía",
+    "Música",
+    "Amistad",
+    "Amor prohibido",
+    "Primer amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chon",
+        "Prab"
+      ]
+    }
+  ],
+  "sinopsis": "Chon y Prab se convierten en hermanos por matrimonio después de que sus padres se casan. Al principio ambos chocan constantemente, pero la convivencia hace que empiecen a conocerse y a desarrollar sentimientos que van más allá de la relación familiar. Cuando otro estudiante muestra interés por Chon, Prab comienza a comprender lo que realmente siente por su hermanastro.",
+  "activo": true
+}

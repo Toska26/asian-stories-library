@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000599",
+  "titulo": "Unfold",
+  "tituloOriginal": "解垢",
+  "pais": [
+    "HK"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2026-06-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Thriller",
+    "Crimen",
+    "Tráfico de órganos",
+    "Organización criminal",
+    "Misterio",
+    "Trauma",
+    "Sanación",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bai Che",
+        "Zhou Chen"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhao Lingye",
+        "Cheng Fan"
+      ]
+    }
+  ],
+  "sinopsis": "Bai Che, trabajador encargado de limpiar escenas de muerte, descubre indicios relacionados con la misteriosa muerte de su padre adoptivo. Los mensajes sobre tráfico ilegal de órganos y un allanamiento en su vivienda lo hacen comprender que también se encuentra en peligro. Zhou Chen, que afirma trabajar como coordinador de donaciones de órganos, se une a él para descubrir la verdad sobre el tráfico de órganos, las organizaciones criminales y los secretos relacionados con la identidad de Bai Che.",
+  "activo": true
+}

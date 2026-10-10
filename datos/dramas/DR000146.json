@@ -1,0 +1,127 @@
+{
+  "codigo": "DR000146",
+  "titulo": "Jun & Jun",
+  "tituloOriginal": "준과 준",
+  "alias": [
+    "Jun & Jun",
+    "Jun and Jun",
+    "Jun과 Jun"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "29 min",
+  "estado": "Finalizado",
+  "estreno": "2023-07-20",
+  "finalizacion": "2023-09-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Trabajo",
+    "Reencuentro",
+    "Primer amor",
+    "Jefe y empleado",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Choi Jun",
+      "persona": "PR000645",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Jun",
+      "persona": "PR000646",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Hyun Jae",
+      "persona": "PR000658",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Simeon",
+      "persona": "PR000659",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Jun",
+        "Lee Jun"
+      ]
+    },
+    {
+      "personajes": [
+        "Song Hyun Jae",
+        "Simeon"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Jun comienza su primer trabajo en una empresa de cosméticos y descubre que su superior es Choi Jun, un antiguo conocido que ha cambiado mucho desde que se conocieron. Mientras se adapta a su nuevo empleo, Lee Jun queda atrapado entre la actitud profesional de su jefe y la creciente atracción que existe entre ambos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/54/b2/78/54b278309203459155eb7a105356dc09.jpg",
+      "https://i.pinimg.com/1200x/24/c4/61/24c461dd5f6e83be2a54940278355133.jpg",
+      "https://static.wikia.nocookie.net/drama/images/4/44/Jun_and_Jun-2023-01.jpg/revision/latest/scale-to-width-down/1000?cb=20230613105900&path-prefix=es"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ph_Po6LnfYc",
+      "https://www.youtube.com/watch?v=32v67wNAg0w"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

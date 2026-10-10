@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000849",
+  "titulo": "The Miracle of Teddy Bear",
+  "tituloOriginal": "คุณหมีปาฏิหาริย์",
+  "alias": [
+    "Teddy Bear Miracle",
+    "Khun Mee Patihan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Khun Mee Patihan",
+    "tituloOriginal": "คุณหมีปาฏิหาริย์",
+    "autor": "Prapt",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 80,
+  "estado": "Finalizado",
+  "estreno": "2022-03-27",
+  "finalizacion": "2022-05-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Drama",
+    "Misterio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nut",
+        "Taohu"
+      ]
+    },
+    {
+      "personajes": [
+        "Nut",
+        "Tatarn"
+      ]
+    },
+    {
+      "personajes": [
+        "Kensit",
+        "Song"
+      ]
+    }
+  ],
+  "sinopsis": "Taohu es un enorme oso de peluche que ha acompañado y consolado a Nut durante diez años. Un día, el oso se transforma milagrosamente en un joven sin recuerdos. Mientras intenta descubrir quién es y por qué se ha convertido en humano, Taohu se acerca cada vez más a Nut y descubre los secretos y traumas de su familia. Al mismo tiempo, el pasado de Nut y su antiguo novio Tatarn vuelve a aparecer en su vida.",
+  "activo": true
+}

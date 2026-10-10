@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000674",
+  "titulo": "Me, My Husband & My Husband's Boyfriend",
+  "tituloOriginal": "私と夫と夫の彼氏",
+  "alias": [
+    "Watashi to Otto to Otto no Kareshi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Me, My Husband & My Husband's Boyfriend",
+    "tituloOriginal": "私と夫と夫の彼氏",
+    "autor": "Ayano Ayano",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-03-28",
+  "finalizacion": "2023-04-11",
+  "generos": [
+    "LGBTQ+",
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "tags": [
+    "LGBTQ+",
+    "Romance",
+    "Drama",
+    "BL",
+    "Matrimonio",
+    "Infidelidad",
+    "Triángulo amoroso",
+    "Poliamor",
+    "Relaciones familiares",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nakamichi Yuki",
+        "Ina Shuhei"
+      ]
+    },
+    {
+      "personajes": [
+        "Nakamichi Misaki",
+        "Nakamichi Yuki"
+      ]
+    }
+  ],
+  "sinopsis": "Nakamichi Misaki lleva cinco años casada con Yuki, pero su matrimonio atraviesa una profunda crisis de intimidad. Cuando descubre que su marido mantiene una relación con Shuhei, un antiguo alumno suyo, comienza un proceso doloroso en el que los tres deben replantearse qué significa amar, ser pareja y formar una familia.",
+  "activo": true
+}

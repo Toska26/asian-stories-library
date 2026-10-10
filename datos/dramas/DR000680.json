@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000680",
+  "titulo": "Love Is Better the Second Time Around",
+  "tituloOriginal": "恋をするなら二度目が上等",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "serie": "SR000680",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Love Is Better the Second Time Around",
+    "tituloOriginal": "恋をするなら二度目が上等",
+    "autor": "Keiko Kinoshita",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-03-05",
+  "finalizacion": "2024-04-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Primer amor",
+    "Reencuentro",
+    "Adultos",
+    "Trabajo",
+    "Profesor universitario"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Miyata Akihiro",
+        "Iwanaga Takashi"
+      ]
+    }
+  ],
+  "sinopsis": "Akihiro Miyata, editor de una revista de negocios, se reencuentra inesperadamente con Takashi Iwanaga, un profesor universitario que resulta ser su primer amor. Aunque Miyata intenta mantener el pasado enterrado, Iwanaga vuelve a despertar sentimientos que creía superados.",
+  "activo": true
+}

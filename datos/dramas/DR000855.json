@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000855",
+  "titulo": "What Zabb Man!",
+  "tituloOriginal": "รักวุ่นวายนายรสแซ่บ",
+  "alias": [
+    "Mr. Rossab’s Chaotic Love",
+    "The Chaotic Love of Mr. Rossab",
+    "Mr Rozabb’s Chaotic Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "รักวุ่นวาย นายรสแซ่บ",
+    "tituloOriginal": "รักวุ่นวาย นายรสแซ่บ",
+    "autor": "Sutharat Dara",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-04-09",
+  "finalizacion": "2022-05-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Cocina",
+    "Gastronomía",
+    "Jefe y empleado",
+    "Chef",
+    "Foodie",
+    "Enemigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Poon",
+        "Athip"
+      ]
+    },
+    {
+      "personajes": [
+        "Mayom",
+        "Teng"
+      ]
+    }
+  ],
+  "sinopsis": "Poon trabaja incansablemente para mantener a su hermano menor y se gana la vida vendiendo som tam en un puesto callejero. Su talento para la cocina llama la atención de un cliente que le ofrece trabajar como chef en un hotel de lujo. Allí conoce a Athip, el exigente propietario del hotel, y su relación comienza marcada por los enfrentamientos y las diferencias de carácter. Mientras tanto, el crítico gastronómico Mayom se acerca cada vez más a Teng.",
+  "activo": true
+}

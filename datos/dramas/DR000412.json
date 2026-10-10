@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000412",
+  "titulo": "Active Boys",
+  "alias": [
+    "Những Chàng Trai Năng Động",
+    "Active Boys The Series",
+    "Activeboys"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2018,
+  "tipo": "Webserie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2018-07-18",
+  "finalizacion": "2018-10-05",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Escolar"
+  ],
+  "tags": [
+    "Instituto",
+    "Club de música",
+    "Baloncesto",
+    "Amistad",
+    "Rivalidad",
+    "Amor",
+    "Juventud",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minh Lâm",
+        "Hoàng Đăng"
+      ]
+    },
+    {
+      "personajes": [
+        "Thầy Tâm",
+        "Tuấn Dũng"
+      ]
+    }
+  ],
+  "sinopsis": "En una escuela internacional, los clubes de música y baloncesto entran en conflicto debido a la distribución desigual de los fondos para sus actividades. Minh Lâm, presidente del club de música, y Hoàng Đăng, presidente del club de baloncesto, se enfrentan y aceptan un desafío que obliga a ambos grupos a intercambiar disciplinas. Mientras la rivalidad entre los dos líderes evoluciona hacia sentimientos románticos, también se desarrolla la relación entre el profesor Tâm y Tuấn Dũng.",
+  "activo": true
+}

@@ -1,0 +1,57 @@
+{
+  "codigo": "DR001005",
+  "titulo": "DogBro",
+  "tituloOriginal": "หมาน้อง",
+  "alias": [
+    "Ma Nong",
+    "DogBro The Series",
+    "What's the Nong?",
+    "Not My Bro"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "What's the น้อง? #ใต้กาวน์",
+    "tituloOriginal": "What's the น้อง? #ใต้กาวน์",
+    "autor": "I'm Mynt",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-07-27",
+  "finalizacion": "2025-08-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Universidad",
+    "Estudiantes de medicina",
+    "Compañeros de piso",
+    "Perro",
+    "Chiang Mai",
+    "Convivencia",
+    "Slow burn"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Meen",
+        "Tul"
+      ]
+    }
+  ],
+  "sinopsis": "Meen, un estudiante de medicina que disfruta de una vida tranquila junto a su perro Samoyedo Khun Niran, ve alterada su rutina cuando Tul, el hijo de un amigo de su madre, se muda a su casa en Chiang Mai. La convivencia entre ambos comienza con numerosos conflictos, pero poco a poco Tul consigue abrirse camino tanto en la vida cotidiana como en el corazón de Meen.",
+  "activo": true
+}

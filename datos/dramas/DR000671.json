@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000671",
+  "titulo": "If It's With You",
+  "tituloOriginal": "君となら恋をしてみても",
+  "alias": [
+    "Kimi to Nara Koi o Shite Mite mo",
+    "If It's You, I Might Try Falling in Love"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "If It's With You, I Might Try Falling in Love",
+    "tituloOriginal": "君となら恋をしてみても",
+    "autor": "Maru Kubota",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2023-10-05",
+  "finalizacion": "2023-11-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Coming of age"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Coming of age",
+    "Instituto",
+    "Amigos",
+    "Familia",
+    "Sanación",
+    "Primer amor",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yamasuga Ryuji",
+        "Kaido Amane"
+      ]
+    }
+  ],
+  "sinopsis": "Amane llega a Kamakura después de trasladarse a vivir con su padre y conoce a Ryuji, un joven que trabaja en un restaurante familiar. La relación que comienza como una amistad va transformándose poco a poco en un romance mientras ambos descubren lo que significa confiar en otra persona y enamorarse.",
+  "activo": true
+}

@@ -1,0 +1,101 @@
+{
+  "codigo": "DR000167",
+  "titulo": "Heesu in Class 2",
+  "tituloOriginal": "2반 이희수",
+  "alias": [
+    "Heesu in Class 2",
+    "Lee Hee-soo in Class 2",
+    "Iban Ihisu"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2025-03-28",
+  "finalizacion": "2025-04-26",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Amor secreto",
+    "Amigos a amantes",
+    "Triángulo amoroso",
+    "Astrología",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji-ho",
+      "persona": "PR000686",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sang-jun",
+      "persona": "PR000687",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Hee-su",
+        "Kim Seung-won"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Hee-su es un estudiante de instituto conocido por sus buenos consejos sobre el amor, aunque él mismo nunca ha tenido una relación. En secreto está enamorado de su mejor amigo Ju Chan-yeong, sin darse cuenta de que Kim Seung-won, un compañero de clase, siente algo por él. Mientras Hee-su intenta ayudar a los demás con sus problemas sentimentales, deberá enfrentarse a sus propios sentimientos y descubrir quién ocupa realmente un lugar especial en su corazón.",
+  "multimedia": {
+    "portada": [
+      "https://www.animeclick.it/immagini/live_action/Heesu_in_Class_2/gallery_original/Heesu_in_Class_2-67e974a9174d5.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000135",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000136",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

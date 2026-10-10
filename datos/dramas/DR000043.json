@@ -1,0 +1,314 @@
+{
+  "codigo": "DR000043",
+  "titulo": "The Next Prince",
+  "tituloOriginal": "ข้ามฟ้าเคียงเธอ",
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "universo": "",
+  "serie": "SR000043",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2025-05-03",
+  "finalizacion": "2025-08-02",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Político"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Khanin Assavadevathin",
+      "persona": "PR000426",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Charan Phithakthewa",
+      "persona": "PR000425",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ramil Bhuchongpisut",
+      "persona": "PR000312",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Paitay Ronawee",
+      "persona": "PR000450",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Calvin",
+      "persona": "PR000413",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jay Jirat",
+      "persona": "PR000451",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "King Thipokbowon Assavadevathin",
+      "persona": "PR000452",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Prince Tharin Assavadevathin",
+      "persona": "PR000453",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chana Davichmetha",
+      "persona": "PR000454",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wasin Meenanagarin",
+      "persona": "PR000455",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thatdanai Keerakul",
+      "persona": "PR000456",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rachata Bhuchongpisut",
+      "persona": "PR000444",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wirun",
+      "persona": "PR000457",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Siwakorn",
+      "persona": "PR000458",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marisa Meenanakarin",
+      "persona": "PR000459",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chita",
+      "persona": "PR000460",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chakri",
+      "persona": "PR000461",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vetith",
+      "persona": "PR000462",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ava Davichmetha",
+      "persona": "PR000463",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mira Kitakhan",
+      "persona": "PR000464",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hawl",
+      "persona": "PR000465",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Paul",
+      "persona": "PR000466",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "June",
+      "persona": "PR000467",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Young Khanin",
+      "persona": "PR000468",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000416",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000417",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000260",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000469",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000470",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000071",
+      "personajes": [
+        "Khanin Assavadevathin",
+        "Charan Phithakthewa"
+      ]
+    },
+    {
+      "ship": "SH000073",
+      "personajes": [
+        "Ramil Bhuchongpisut",
+        "Paitay Ronawee"
+      ]
+    },
+    {
+      "ship": "SH000074",
+      "personajes": [
+        "Calvin",
+        "Jay Jirat"
+      ]
+    }
+  ],
+  "sinopsis": "Khanin, heredero de un reino ficticio, se ve obligado a regresar a su país y asumir las responsabilidades de su familia. Charan, su guardaespaldas y protector desde hace años, debe mantenerlo a salvo mientras ambos afrontan sus sentimientos y las intrigas relacionadas con la sucesión.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/originals/1d/1e/85/1d1e8514a9ad52ac122744659579d581.jpg",
+      "https://kpop.asiachan.com/img/445419",
+      "https://img.youtube.com/vi/xKAOhZyvcAU/maxresdefault.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=xKAOhZyvcAU"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=y42OfpM43Fo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000043",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

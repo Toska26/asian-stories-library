@@ -1,0 +1,83 @@
+{
+  "codigo": "DR000201",
+  "titulo": "Play Me",
+  "tituloOriginal": "플레이 미",
+  "alias": [
+    "Play Me"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-31",
+  "finalizacion": "2026-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Actores",
+    "Musical",
+    "Reencuentro",
+    "Amigos de instituto",
+    "Amor pasado",
+    "Malentendido",
+    "Segunda oportunidad",
+    "Show business",
+    "Interpretación"
+  ],
+  "personas": [
+    {
+      "nombre": "Jung I-hyun",
+      "persona": "PR000746",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Jae-on",
+      "persona": "PR000747",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jung I-hyun",
+        "Kang Jae-on"
+      ]
+    }
+  ],
+  "sinopsis": "Jung I-hyun fue un niño actor que abandonó su carrera después de la muerte de su madre. Kang Jae-on, que también soñaba con convertirse en actor, tuvo que dejar sus aspiraciones por las dificultades de la vida. Separados desde el instituto por un malentendido, ambos vuelven a encontrarse años después al participar en un musical. Al interpretar a sus personajes, también comienzan a recuperar los sentimientos que creían perdidos.",
+  "entidades": [
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

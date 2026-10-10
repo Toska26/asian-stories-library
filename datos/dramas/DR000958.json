@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000958",
+  "titulo": "This Love Doesn't Have Long Beans",
+  "tituloOriginal": "รักนี้ไม่มีถั่วฝักยาว",
+  "alias": [
+    "This Love Doesn't Have Long Beans",
+    "Love Without Long Beans",
+    "Rak Ni Mai Mi Thua Fak Yao",
+    "爱情罗勒香"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "This Love Doesn't Have Long Beans",
+    "tituloOriginal": "รักนี้ไม่มีถั่วฝักยาว",
+    "autor": "Ninepinta",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2024-07-05",
+  "finalizacion": "2024-08-23",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Cocina",
+    "Competición",
+    "Chef y aprendiz",
+    "Enemies to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Plawan",
+        "Oab"
+      ]
+    }
+  ],
+  "sinopsis": "Plawan, un joven modelo apasionado por el pad kaprao, recibe una gran suma de dinero para infiltrarse en el restaurante de un famoso chef y convertirse en su sucesor. Su misión secreta consiste en conseguir que el chef Oab se enamore de él. Sin embargo, la competición culinaria y la convivencia hacen que los sentimientos de ambos dejen de formar parte del plan.",
+  "activo": true
+}

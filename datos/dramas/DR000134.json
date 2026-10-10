@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000134",
+  "titulo": "The Director Who Buys Me Dinner",
+  "tituloOriginal": "밥만 잘 사주는 이상한 이사님",
+  "alias": [
+    "The Director Who Buys Me Dinner",
+    "The Strange Director Who Buys Me Dinner",
+    "Bapman Jal Sajuneun Isanghan Isanim"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000134",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-12-15",
+  "finalizacion": "2023-01-12",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Jefe y empleado",
+    "Reencarnación",
+    "Vidas pasadas",
+    "Destino",
+    "Maldición",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Min Yu-dam",
+      "persona": "PR000615",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seol Dong Baek",
+      "persona": "PR000616",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Min Yu-dam",
+        "Seol Dong Baek"
+      ]
+    }
+  ],
+  "sinopsis": "Dong Baek acaba de incorporarse a Min Entertainment cuando su director, Yu Dam, le revela algo que parece imposible: lleva varias vidas reencarnándose y Dong Baek es la persona con la que está destinado a estar. Según la maldición que pesa sobre él, si no consigue mantener una relación con su amor destinado, ambos morirán. Mientras Dong Baek intenta comprender la extraña situación, Yu Dam deberá convencerlo de que su encuentro actual es solo el último capítulo de una historia que comenzó siglos atrás.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/6d/b3/ed/6db3edb3e372c12dbe19d9287fe8070a.jpg",
+      "https://i.pinimg.com/1200x/23/db/20/23db20c8a8b9bf6ef9547a5bec6f1c15.jpg",
+      "https://i.pinimg.com/1200x/1b/1c/0b/1b1c0beadd7e73b2412ad100c01c44dd.jpg",
+      "https://i.pinimg.com/1200x/d4/0b/1c/d40b1c51186e9b085383cbf611c8c1dc.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ypzEkyhuZMw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000095",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

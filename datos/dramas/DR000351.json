@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000351",
+  "titulo": "PRESO Season 3",
+  "alias": [
+    "PRESO 3",
+    "PRE*SO Season 3"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000026",
+    "orden": 3
+  },
+  "universo": "UN000010",
+  "serie": "SR000349",
+  "temporadas": 4,
+  "temporada": 3,
+  "episodios": 10,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Amor",
+    "Relaciones",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "SO",
+        "SEPH"
+      ]
+    }
+  ],
+  "sinopsis": "La historia continúa desarrollando la relación entre SO y Seph mientras ambos afrontan las consecuencias de sus sentimientos, sus relaciones anteriores y los conflictos que siguen afectando a su entorno. La tercera temporada profundiza en la evolución de su vínculo y en las decisiones que deben tomar sobre su futuro.",
+  "activo": true
+}

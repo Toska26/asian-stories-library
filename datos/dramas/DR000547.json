@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000547",
+  "titulo": "Falling in Love with a Rival",
+  "tituloOriginal": "逆袭之爱上情敌",
+  "alias": [
+    "Ni Xi Zhi Ai Shang Qing Di",
+    "Counter Attack"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2015,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000547",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Counter Attack",
+    "tituloOriginal": "逆袭",
+    "autor": "Chai Ji Dan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2015-08-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Rivales",
+    "Censura"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Suowei",
+        "Chi Cheng"
+      ]
+    }
+  ],
+  "sinopsis": "Wu Suowei decide transformar su vida después de que su novia lo abandona por Chi Cheng. Al acercarse a su rival con la intención de vengarse, la relación entre ambos cambia progresivamente hasta convertirse en una atracción mutua.",
+  "activo": true
+}

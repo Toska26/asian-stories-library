@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000476",
+  "titulo": "Fight for Love",
+  "alias": [
+    "Vì Yêu Mà Chiến"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-02-07",
+  "finalizacion": "2025-03-21",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Cantante",
+    "Fotografía",
+    "Juventud",
+    "Romance",
+    "Amor no correspondido",
+    "Superación personal",
+    "Trauma",
+    "Triángulo amoroso"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "An Bình",
+        "Minh Thắng"
+      ]
+    }
+  ],
+  "sinopsis": "An Bình es un joven aspirante a músico que canta en las calles mientras intenta superar un trauma de su infancia que le impide mostrar plenamente su voz. Su vida cambia cuando conoce a Minh Thắng, un joven fotógrafo que ya se había fijado en él y que decide luchar por conquistar su corazón. La situación se complica porque Bình mantiene una relación con Khải Vân, una pareja problemática que se interpone en el camino de los dos protagonistas. Entre música, fotografía, heridas del pasado y nuevos sentimientos, Bình deberá decidir qué clase de amor quiere para su vida.",
+  "activo": true
+}

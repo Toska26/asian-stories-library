@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000379",
+  "titulo": "A Story to Remember",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 34,
+  "estado": "Finalizado",
+  "estreno": "2023-06-23",
+  "finalizacion": "2023-08-25",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Amistad",
+    "Secretos",
+    "Familia",
+    "Identidad",
+    "Aceptación",
+    "Relaciones",
+    "Superación"
+  ],
+  "sinopsis": "Historia coral que combina tramas románticas y personales de jóvenes que deben enfrentarse a sus sentimientos, secretos y decisiones mientras intentan encontrar su lugar en sus relaciones y en su entorno. La serie explora el amor, la amistad, la aceptación y las dificultades que pueden transformar una relación.",
+  "activo": true
+}

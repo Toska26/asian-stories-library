@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000442",
+  "titulo": "Sea Him",
+  "alias": [
+    "Ước Hẹn Làng Chài",
+    "Tiến Bromance: Sea Him The Series"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "universo": "UN000014",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2020-10-31",
+  "finalizacion": "2021-03-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Amor",
+    "Mar",
+    "Pueblo pesquero",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến",
+        "Tài"
+      ]
+    }
+  ],
+  "sinopsis": "En esta historia ambientada en un universo alternativo de Tiến Bromance, Tiến, un estudiante de fotografía que llega a Cửa Cạn para realizar su proyecto de graduación, conoce a Tài, un joven de un pueblo pesquero. La relación entre ambos evoluciona gradualmente desde la amistad hasta convertirse en amor.",
+  "activo": true
+}

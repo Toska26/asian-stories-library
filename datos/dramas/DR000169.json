@@ -1,0 +1,103 @@
+{
+  "codigo": "DR000169",
+  "titulo": "Ball Boy Tactics",
+  "tituloOriginal": "볼보이 택틱스",
+  "alias": [
+    "Ball Boy Tactics",
+    "Bolboi Taektikseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2025-06-05",
+  "finalizacion": "2025-06-26",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Deportes",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Baloncesto",
+    "Gimnasia",
+    "Deporte",
+    "Primer amor",
+    "Amigos a amantes",
+    "Webnovel"
+  ],
+  "personas": [
+    {
+      "nombre": "Min-hyuk",
+      "persona": "PR000690",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae-hyeok",
+      "persona": "PR000691",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Ji-won",
+        "Kwon Jung-woo"
+      ]
+    }
+  ],
+  "sinopsis": "Han Ji-won, un antiguo gimnasta de élite que tuvo que abandonar su carrera tras una lesión, comienza una nueva etapa universitaria. Allí conoce a Kwon Jung-woo, una estrella del equipo de baloncesto cuya personalidad parece completamente opuesta a la suya. A medida que pasan más tiempo juntos, la atracción entre ambos crece mientras deben enfrentarse a sus diferencias, sus inseguridades y las presiones de la vida universitaria.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/yIX9Fu5kt9Tf6PLZSfCKjm3YZLB.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=2JhAXqrRq08"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000137",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000199",
+  "titulo": "Sin and Love",
+  "tituloOriginal": "죄와 사랑",
+  "alias": [
+    "Sin and Love",
+    "Sin & Love",
+    "Jwaewa Sarang"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "24 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-08",
+  "finalizacion": "2026-08-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Crimen",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Policía",
+    "Crimen organizado",
+    "Narcotráfico",
+    "Agentes encubiertos",
+    "Corrupción",
+    "Secuestro",
+    "Reencuentro",
+    "Amor pasado",
+    "Enemies to Lovers",
+    "Relación tóxica",
+    "Manipulación"
+  ],
+  "personas": [
+    {
+      "nombre": "Ryu Se-hyun",
+      "persona": "PR000718",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seong Ho",
+      "persona": "PR000692",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryu Se-hyun",
+        "Seong Ho"
+      ]
+    }
+  ],
+  "sinopsis": "Una red de policías, narcotraficantes y agentes encubiertos comienza a desmoronarse cuando un misterioso secuestro destapa una cadena de corrupción. Diez años atrás quedó enterrada una relación que nunca llegó a desaparecer por completo. Ahora, mientras las identidades se confunden y el poder utiliza el deseo como herramienta de manipulación, Ryu Se-hyun y Seong Ho vuelven a quedar atrapados en un pasado que amenaza con destruirlos.",
+  "entidades": [
+    {
+      "codigo": "EN000140",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

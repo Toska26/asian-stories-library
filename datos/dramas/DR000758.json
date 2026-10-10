@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000758",
+  "titulo": "I Am Your King 2",
+  "tituloOriginal": "I AM YOUR KING ผมขอสั่งให้คุณ ซีซั่น2",
+  "alias": [
+    "I Am Your King The Series 2",
+    "I Am Your King: Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "serie": "SR000757",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2019-10-19",
+  "finalizacion": "2019-12-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pun",
+        "Sib"
+      ]
+    },
+    {
+      "personajes": [
+        "Pun",
+        "M"
+      ]
+    }
+  ],
+  "sinopsis": "Pun, un estudiante de secundaria que sueña con trabajar en una cafetería, consigue un puesto de barista en el 4 Cafe, gestionado por los universitarios Sib y Tar. Durante un nuevo King Game, Sib recibe una orden que obliga a Pun a acercarse a M, su hermano menor, con quien mantiene una relación complicada. Lo que comienza como un intento de reconciliar a los hermanos acaba convirtiéndose en un triángulo amoroso entre Pun, Sib y M.",
+  "activo": true
+}

@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001036",
+  "titulo": "Love Like a Bike",
+  "tituloOriginal": "ปั่นไปให้ถึงรัก",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-03-02",
+  "finalizacion": "2026-04-20",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "sinopsis": "Tres hermanos adoptivos regentan juntos una cafetería especializada en bicicletas en Pattaya. Nab-Nueng, el mayor, es psicólogo; Tawan, el segundo, es un antiguo piloto que arrastra el trauma de un accidente aéreo; y Sky, el menor, trabaja como anfitrión de un club nocturno. Cada uno tendrá que enfrentarse a sus propios problemas sentimentales mientras una aventura en bicicleta los lleva hacia nuevas oportunidades de amor.",
+  "activo": true
+}

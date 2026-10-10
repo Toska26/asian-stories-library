@@ -1,0 +1,260 @@
+{
+  "codigo": "DR000032",
+  "titulo": "Be Mine, Superstar",
+  "tituloOriginal": "พี่พระเอกกับเด็กหมาในกอง",
+  "alias": [
+    "Be Mine SuperStar"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2023-07-03",
+  "finalizacion": "2023-09-18",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Industria del entretenimiento",
+    "Amor no correspondido",
+    "Diferencia de edad"
+  ],
+  "personas": [
+    {
+      "nombre": "Punn",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ashi",
+      "persona": "PR000248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mingmueang",
+      "persona": "PR000062",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Namning",
+      "persona": "PR000325",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Title",
+      "persona": "PR000326",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Somwan",
+      "persona": "PR000327",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Preaw",
+      "persona": "PR000328",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Paii",
+      "persona": "PR000329",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kesorn",
+      "persona": "PR000330",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phusit",
+      "persona": "PR000338",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sopha",
+      "persona": "PR000337",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Film",
+      "persona": "PR000331",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kevin",
+      "persona": "PR000332",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Worra",
+      "persona": "PR000333",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bank",
+      "persona": "PR000334",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Diao",
+      "persona": "PR000229",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Suea",
+      "persona": "PR000335",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sugas",
+      "persona": "PR000336",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phupha",
+      "persona": "PR000347",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000345",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000346",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000040",
+      "personajes": [
+        "Punn",
+        "Ashi"
+      ]
+    },
+    {
+      "ship": "SH000060",
+      "personajes": [
+        "Mingmueang",
+        "Namning"
+      ]
+    }
+  ],
+  "sinopsis": "Punn lleva años enamorado de Ashi, un famoso actor al que admira desde que estaba en la universidad. Cuando consigue unas prácticas en el rodaje de una serie en la que Ashi participa, ve por fin la oportunidad de acercarse a la persona que ha admirado durante tanto tiempo. Sin embargo, conseguir que Ashi se fije en él no será sencillo, ya que el actor es reservado y mantiene una actitud distante hacia el amor. Mientras Punn intenta conquistar su corazón, su vida en el mundo de los rodajes le lleva a conocer a nuevas personas y a enfrentarse a situaciones que pondrán a prueba sus sentimientos. La aparición de Title, que también está interesado en Ashi, y los problemas sentimentales y profesionales de quienes los rodean harán que la relación entre ambos avance entre dudas, celos y malentendidos. A medida que Punn y Ashi dejan atrás la relación entre admirador e ídolo, deberán descubrir si sus sentimientos pueden convertirse en algo verdadero y superar las dificultades que aparecen cuando el amor se mezcla con el mundo del espectáculo.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000022195163/0/be_mine_superstar.webp"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=XHtUr1j0kb8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000034",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000035",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000036",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000037",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

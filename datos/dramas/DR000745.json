@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000745",
+  "titulo": "Make It Right 2",
+  "tituloOriginal": "รักออกเดิน",
+  "alias": [
+    "Make It Right 2: The Series",
+    "Make It Right Season 2",
+    "Rak Ok Doen 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "serie": "SR000744",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 14,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2017-05-07",
+  "finalizacion": "2017-08-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fuse",
+        "Tee"
+      ]
+    },
+    {
+      "personajes": [
+        "Frame",
+        "Book"
+      ]
+    },
+    {
+      "personajes": [
+        "Nine",
+        "Rodtang"
+      ]
+    }
+  ],
+  "sinopsis": "La historia continúa las relaciones y conflictos del grupo de estudiantes de Make It Right. Fuse y Tee deben afrontar las dificultades de una relación que todavía no está plenamente consolidada, mientras Frame y Book enfrentan nuevos problemas y otros miembros del grupo desarrollan sus propias relaciones.",
+  "activo": true
+}

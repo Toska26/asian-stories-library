@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000468",
+  "titulo": "ViAn",
+  "alias": [
+    "ViAn the Series"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2023-05-06",
+  "finalizacion": "2023-07-25",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Sobrenatural",
+    "Gato",
+    "Transformación",
+    "Convivencia",
+    "Casa embrujada",
+    "Campo",
+    "Cohabitación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Viên",
+        "An"
+      ]
+    }
+  ],
+  "sinopsis": "Bình Viên atraviesa una etapa complicada y decide escapar al campo, donde alquila una pequeña casa conocida por su reputación de estar embrujada. Al instalarse descubre que un gato llamado An está muy unido a la casa y suele dormir en su cama. Una mañana, Viên se despierta y encuentra a un joven desconocido ocupando el lugar donde estaba el gato. Pronto descubre que el muchacho es An, que ha adquirido forma humana. Mientras ambos comienzan a convivir, An aprende progresivamente a comportarse como una persona y entre él y Viên nace una relación afectiva.",
+  "activo": true
+}

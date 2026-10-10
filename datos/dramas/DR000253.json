@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000253",
+  "titulo": "Uncle Unknown",
+  "tituloOriginal": "叔不知",
+  "alias": [
+    "Shu Bu Zhi",
+    "Shu Pu Chih"
+  ],
+  "pais": [
+    "TW"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "After the Flirting, My Uncle Kept Chasing Me",
+    "tituloOriginal": "乱撩后小叔对我穷追不舍",
+    "autor": "Wan Xi Zi",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 7,
+  "estado": "Finalizado",
+  "estreno": "2024-10-04",
+  "finalizacion": "2024-11-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Novela web",
+    "Miniserie",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Shi Ran",
+        "Qi Yi"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Shi Ran, joven heredero de la familia Lu, se reencuentra con su antiguo novio Qi Yi y descubre que este se ha convertido en el tío de la familia que nunca había conocido. Aunque no existe parentesco sanguíneo entre ellos, deberán enfrentarse a las barreras familiares y sociales para recuperar su relación.",
+  "activo": true
+}

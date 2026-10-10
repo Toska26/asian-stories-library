@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000234",
+  "titulo": "Innocent",
+  "tituloOriginal": "無邪",
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "20-25 min",
+  "estado": "Finalizado",
+  "estreno": "2021-09-24",
+  "finalizacion": "2021-10-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Psicológico"
+  ],
+  "tags": [
+    "BL",
+    "Personalidad múltiple",
+    "Segunda personalidad",
+    "Trauma",
+    "Romance",
+    "Pasado",
+    "Psicológico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Zheng",
+        "Zheng Yu Shi"
+      ]
+    }
+  ],
+  "sinopsis": "Tras un accidente sufrido durante su infancia, Zheng Yu Shi desarrolla una segunda personalidad llamada Noah, que actúa como su protector. Cuando Yu Shi conoce a Wu Zheng y comienza a desarrollar sentimientos por él, Noah desconfía de la relación y trata de protegerlo de un posible daño.",
+  "activo": true
+}

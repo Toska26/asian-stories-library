@@ -1,0 +1,133 @@
+{
+  "codigo": "DR000098",
+  "titulo": "Not Me",
+  "tituloOriginal": "เขา...ไม่ใช่ผม",
+  "alias": [
+    "Khao... Mai Chai Phom",
+    "He... Is Not Me"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000098",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2021-12-12",
+  "finalizacion": "2022-03-20",
+  "generos": [
+    "Romance",
+    "Acción",
+    "Thriller",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Gemelos",
+    "Identidad oculta",
+    "Amistad",
+    "Pandilla",
+    "Motocicletas",
+    "Justicia social",
+    "Activismo",
+    "Doble identidad",
+    "Venganza"
+  ],
+  "personas": [
+    {
+      "nombre": "Sean",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "White",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yok",
+      "persona": "PR000388",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dan",
+      "persona": "PR000268",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Sean",
+        "White"
+      ]
+    },
+    {
+      "ship": "SH000116",
+      "personajes": [
+        "Yok",
+        "Dan"
+      ]
+    }
+  ],
+  "sinopsis": "White regresa a Tailandia después de quince años viviendo en el extranjero y descubre que su hermano gemelo Black ha sido brutalmente golpeado y se encuentra en coma. Al enterarse de que Black formaba parte de una banda de motoristas junto a Sean, Gram y Yok, White decide hacerse pasar por su hermano para descubrir quién lo atacó. Sin embargo, cuanto más tiempo pasa con el grupo, más descubre sobre la verdadera personalidad de Black y sobre las injusticias contra las que luchan sus nuevos compañeros. Sean empieza a sospechar que el comportamiento de Black ha cambiado y, mientras intenta descubrir qué ocurre realmente, ambos terminan desarrollando sentimientos el uno por el otro.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/f5/7d/e3/f57de36aa28a02087d267eacbd20caaf.jpg",
+      "https://i.pinimg.com/736x/9f/20/c0/9f20c046c4eba1c1ab54febd39833a06.jpg",
+      "https://i.pinimg.com/1200x/bb/2b/39/bb2b39bddf142aabc916cb0fe6f2e8ad.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Q91hKXjq_3s"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=BtAKkC7wIHc"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=d5rGW310K-I",
+      "https://www.youtube.com/watch?v=JQm5-fmo_xg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000054",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

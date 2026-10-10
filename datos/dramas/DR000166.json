@@ -1,0 +1,103 @@
+{
+  "codigo": "DR000166",
+  "titulo": "Secret Relationships",
+  "tituloOriginal": "비밀사이",
+  "alias": [
+    "Secret Relationships",
+    "Secret Relationship",
+    "Bimil Sai"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "35 min",
+  "estado": "Finalizado",
+  "estreno": "2025-02-26",
+  "finalizacion": "2025-03-20",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Psicológico"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Adultos",
+    "Amor secreto",
+    "Triángulo amoroso",
+    "Cuadrado amoroso",
+    "Reencuentro",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Jun-seo",
+      "persona": "PR000684",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sun-hyung",
+      "persona": "PR000685",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jung Da-on",
+        "Joo Sung-hyun"
+      ]
+    }
+  ],
+  "sinopsis": "Jung Da-on es un joven trabajador cuya vida sentimental se complica por la presencia de varios hombres de su pasado y su presente. Su relación con Ju Seong-hyeon comienza con enfrentamientos y malentendidos, mientras Sin Jae-min, su antiguo tutor y primer amor, y Kim Su-hyeon, antiguo novio de Jae-min, vuelven a entrar en su vida. Entre secretos, heridas del pasado y sentimientos difíciles de definir, Da-on intenta descubrir qué tipo de relación desea realmente.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/aytDKHN1Tmr6uqcLPap7U1Cjy9a.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=_EMSu6DhQEw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000132",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000133",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000134",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

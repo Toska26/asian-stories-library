@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000945",
+  "titulo": "1000 Years Old",
+  "tituloOriginal": "อายุมั่นขวัญยืน",
+  "alias": [
+    "1000 Years Old",
+    "1000YO",
+    "1000 Years Old The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-02-14",
+  "finalizacion": "2024-05-01",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Vampiros",
+    "Universitario",
+    "Diferencia de edad",
+    "Sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pun",
+        "Yo"
+      ]
+    }
+  ],
+  "sinopsis": "Pun es un joven aparentemente de unos veinticinco años que ha vivido durante aproximadamente mil años y posee sangre de vampiro. Acostumbrado a vivir solo y ocultar su verdadera naturaleza, conoce a Yo, un estudiante universitario que poco a poco consigue convertirse en una de las primeras personas en las que Pun confía y a quien permite entrar en su vida. Su amistad termina transformándose en amor entre un vampiro y un humano.",
+  "activo": true
+}

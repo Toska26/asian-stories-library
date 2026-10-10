@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000806",
+  "titulo": "Roommate",
+  "tituloOriginal": "ห้องนี้พี่ให้นาย",
+  "alias": [
+    "Roommate The Series",
+    "Roommate the Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000806",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2020-07-29",
+  "finalizacion": "2020-08-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Universidad"
+  ],
+  "tags": [
+    "Compañeros de habitación",
+    "Universidad",
+    "Convivencia",
+    "Amistad",
+    "Romance",
+    "Vida universitaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "James",
+        "Sky"
+      ]
+    }
+  ],
+  "sinopsis": "James se ve obligado por su madre a compartir habitación con Sky, un estudiante al que apenas conoce. La convivencia entre ambos comienza con cierta incomodidad, pero poco a poco desarrollan una relación cada vez más cercana que va más allá de la amistad.",
+  "especiales": [
+    {
+      "titulo": "Roommate Special Episode",
+      "tituloOriginal": "ตอนที่ 5 (ตอนพิเศษ)",
+      "alias": [
+        "Roommate Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 1,
+      "estreno": "2020-08-26"
+    }
+  ],
+  "activo": true
+}

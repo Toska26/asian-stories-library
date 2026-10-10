@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000269",
+  "titulo": "Love Beneath the Stars",
+  "tituloOriginal": "Love Beneath the Stars",
+  "alias": [
+    "The Boy Foretold by the Stars the Series"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "franquicia": {
+    "codigo": "FR000024",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 28,
+  "estado": "Finalizado",
+  "estreno": "2021-08-16",
+  "finalizacion": "2021-09-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Escolar",
+    "Colegio católico",
+    "Pareja",
+    "Familia",
+    "Aceptación",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dominic Cruz",
+        "Luke Armada"
+      ]
+    }
+  ],
+  "sinopsis": "Dominic y Luke continúan su relación después de los acontecimientos de The Boy Foretold by the Stars. Convertidos oficialmente en pareja, deben afrontar el escrutinio de su entorno, la oposición de sus familias y las dificultades de mantener su relación en un colegio católico.",
+  "activo": true
+}

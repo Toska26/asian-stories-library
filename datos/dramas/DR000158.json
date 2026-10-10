@@ -1,0 +1,109 @@
+{
+  "codigo": "DR000158",
+  "titulo": "Blossom Campus",
+  "tituloOriginal": "블러썸 캠퍼스",
+  "alias": [
+    "Blossom Campus",
+    "Beulleosseom Kaempeoseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2024-05-16",
+  "finalizacion": "2024-05-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Campus",
+    "Música",
+    "Taekwondo",
+    "Primer amor",
+    "Triángulo amoroso",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Min-jae",
+      "persona": "PR000669",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoon Chan",
+      "persona": "PR000670",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Min-jae",
+        "Yoon Chan"
+      ]
+    }
+  ],
+  "sinopsis": "Kim Min Jae, un estudiante transferido de música práctica, conoce accidentalmente a Yoon Chan, un estudiante de Taekwondo. Aunque al principio sus personalidades chocan, ambos comienzan a acercarse mientras pasan cada vez más tiempo juntos. La aparición de Jung Woo Hyuk, interesado en Yoon Chan, complica la relación y convierte su nueva vida universitaria en una historia de amistad, rivalidad y amor.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=73rKjU4MiZ0"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=JkKyFpfhJvM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000120",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000121",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000444",
+  "titulo": "Happy Family",
+  "alias": [
+    "Gia Đình Vui Vẻ",
+    "Happy Family Season 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "serie": "SR000443",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2020-03-29",
+  "finalizacion": "2020-04-25",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Sitcom",
+    "Familia",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gia Huy",
+        "Tuấn Anh"
+      ]
+    }
+  ],
+  "sinopsis": "Segunda temporada de Happy Family, que continúa las historias de la familia y de las relaciones surgidas en su entorno, manteniendo el tono de comedia y romance de la primera temporada.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000274",
+  "titulo": "Quaranthings: The Series",
+  "tituloOriginal": "Quaranthings",
+  "alias": [
+    "Quaranthings Season 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000274",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-09-04",
+  "finalizacion": "2020-10-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Cuarentena",
+    "Convivencia",
+    "Amigos",
+    "Rivales",
+    "Romance",
+    "Pandemia",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Judah Dela Cruz",
+        "Rocky"
+      ]
+    }
+  ],
+  "sinopsis": "El confinamiento deja a Judah y Rocky solos en el apartamento que comparten. Aunque apenas se conocían antes de la cuarentena y tienen personalidades muy diferentes, la convivencia hace que ambos se acerquen y desarrollen sentimientos románticos.",
+  "activo": true
+}

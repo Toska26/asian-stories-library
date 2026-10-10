@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000840",
+  "titulo": "Hometown's Embrace",
+  "tituloOriginal": "อ้อมกอดบ้านเกิด",
+  "alias": [
+    "Hometown's Embrace The Series",
+    "อ้อมกอดบ้านเกิด Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2021-06-18",
+  "finalizacion": "2021-08-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Thriller"
+  ],
+  "tags": [
+    "Isan",
+    "Pueblo",
+    "Regreso al hogar",
+    "Venganza",
+    "Comunidad",
+    "Tráfico de drogas",
+    "Protección"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Than",
+        "Din"
+      ]
+    },
+    {
+      "personajes": [
+        "Mongkon",
+        "Mek"
+      ]
+    },
+    {
+      "personajes": [
+        "Dan",
+        "Khet"
+      ]
+    }
+  ],
+  "sinopsis": "Drama BL ambientado en la región de Isan, en el noreste de Tailandia. Than regresa a su pueblo natal después de terminar sus estudios con la intención de mejorar la vida de la comunidad, pero acaba enfrentándose a una organización criminal que amenaza a los habitantes. Din, que trabaja para los criminales mientras lucha con su propia conciencia, se acerca a Than. Paralelamente, Mongkon conoce al nuevo profesor Mek en la escuela de su familia, mientras Dan y Khet unen sus fuerzas para vengar la muerte de sus padres a manos de la misma organización.",
+  "activo": true
+}

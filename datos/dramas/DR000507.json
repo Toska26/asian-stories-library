@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000507",
+  "titulo": "Getaway",
+  "tituloOriginal": "Getaway",
+  "alias": [
+    "Getaway The Series"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 12,
+  "estado": "Finalizado",
+  "estreno": "2022-05-23",
+  "finalizacion": "2022-06-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sam",
+        "Top"
+      ]
+    }
+  ],
+  "sinopsis": "Después de que su salida del armario ante su padre conservador termina de forma desastrosa, Sam, un joven singapurense, viaja a Bangkok para buscar a su tío gay, que fue expulsado de la familia años atrás. Durante su búsqueda conoce a Top, un joven tailandés que se ha acostumbrado a relaciones pasajeras. Juntos emprenden la búsqueda del tío de Sam, pero el viaje termina llevándolos a descubrir algo mucho más importante: el amor.",
+  "activo": true
+}

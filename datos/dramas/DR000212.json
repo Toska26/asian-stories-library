@@ -1,0 +1,77 @@
+{
+  "codigo": "DR000212",
+  "titulo": "Rule 101",
+  "tituloOriginal": "룰101",
+  "alias": [
+    "Rule 101",
+    "RULE101"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "20 min",
+  "estado": "Anunciado",
+  "estreno": "2026-09-30",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Profesor",
+    "Estudiantes",
+    "Deseo",
+    "Secretos",
+    "Manipulación",
+    "Poder",
+    "Relaciones prohibidas",
+    "Thriller psicológico"
+  ],
+  "personas": [
+    {
+      "nombre": "",
+      "persona": "PR000710",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "",
+      "persona": "PR000692",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Un profesor universitario adinerado mantiene una vida privada dominada por deseos que cada vez le resulta más difícil controlar. A su alrededor, varios estudiantes quedan atrapados en una red de secretos, atracciones y decisiones cuyas consecuencias amenazan con desbordar los límites de la universidad. La historia todavía no ha comenzado su emisión, por lo que las relaciones definitivas entre los personajes permanecen sin confirmar.",
+  "entidades": [
+    {
+      "codigo": "EN000140",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

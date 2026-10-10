@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000410",
+  "titulo": "The Lost Ring",
+  "alias": [
+    "Chiếc Nhẫn Đi Lạc"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2018,
+  "tipo": "Cortometraje",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 34,
+  "estado": "Finalizado",
+  "estreno": "2018-02-01",
+  "finalizacion": "2018-02-01",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Convivencia",
+    "Diferencias sociales",
+    "Empleo",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Quan",
+        "Cot"
+      ]
+    }
+  ],
+  "sinopsis": "Cot es un estudiante trabajador que compagina sus estudios con un empleo como ayudante doméstico. Su vida cambia al comenzar a trabajar para Quan, un joven adinerado de carácter difícil. Las constantes discusiones entre ambos dan paso progresivamente a una relación más cercana y a sentimientos románticos.",
+  "activo": true
+}

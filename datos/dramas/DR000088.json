@@ -1,0 +1,117 @@
+{
+  "codigo": "DR000088",
+  "titulo": "Cupid's Ghost",
+  "tituloOriginal": "ผีผลักให้รักคุณ",
+  "alias": [
+    "Phi Phlak Hai Rak Khun"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000088",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasma",
+    "Sobrenatural"
+  ],
+  "personas": [
+    {
+      "nombre": "Jett Sukhati",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phut",
+      "persona": "PR000514",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ing",
+      "persona": "PR000055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nile",
+      "persona": "PR000556",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000079",
+      "personajes": [
+        "Jett Sukhati",
+        "Phut"
+      ]
+    },
+    {
+      "ship": "SH000108",
+      "personajes": [
+        "Ing",
+        "Nile"
+      ]
+    }
+  ],
+  "sinopsis": "Phut es un florista que tiene miedo de los fantasmas y, por ello, también de los funerales. Cuando se encuentra con un fantasma en la funeraria de Jett, este le ofrece un trabajo que consiste en comunicarse con las personas fallecidas a las que presta sus servicios. A partir de ese encuentro comenzará una historia de romance, fantasmas y situaciones inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/d8/cf/24/d8cf2450ae1635da35390ba0635eb2a8.jpg",
+      "https://i.pinimg.com/736x/37/52/5b/37525bae286a24374898a9bfa60816fa.jpg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=KYwx7hLWTOM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000052",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

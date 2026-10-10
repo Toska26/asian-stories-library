@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000652",
+  "titulo": "Takara-kun & Amagi-kun",
+  "tituloOriginal": "高良くんと天城くん",
+  "alias": [
+    "Takara-kun to Amagi-kun"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Takara-kun & Amagi-kun",
+    "tituloOriginal": "高良くんと天城くん",
+    "autor": "Hanage no Mai",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2022-08-19",
+  "finalizacion": "2022-10-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Novios secretos",
+    "Primer amor",
+    "Comedia romántica",
+    "Coming of age",
+    "Diferencias de personalidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Takara Shun",
+        "Amagi Taichi"
+      ]
+    }
+  ],
+  "sinopsis": "Takara Shun es uno de los estudiantes más populares de su clase, mientras que Amagi Taichi es un chico alegre y querido aunque no pertenece al grupo más popular. Aunque parecen vivir en mundos diferentes, ambos se sienten atraídos y comienzan a salir en secreto. Las inseguridades de Amagi y la dificultad de Takara para expresar sus sentimientos ponen a prueba su relación.",
+  "activo": true
+}

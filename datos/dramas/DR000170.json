@@ -1,0 +1,97 @@
+{
+  "codigo": "DR000170",
+  "titulo": "Sweetheart Service",
+  "tituloOriginal": "스윗하트서비스",
+  "alias": [
+    "Sweetheart Service",
+    "Sweet Heart Service",
+    "Seuwishateu Seobiseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2025-05-09",
+  "finalizacion": "2025-07-31",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romcom",
+    "Fake dating",
+    "Contrato de pareja",
+    "Oficina",
+    "Adultos",
+    "Amigos a amantes",
+    "Cohabitación"
+  ],
+  "personas": [
+    {
+      "nombre": "Hyun-seo",
+      "persona": "PR000692",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae-hyeop",
+      "persona": "PR000693",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Son Yoo-ha",
+        "Jung Min-woo"
+      ]
+    }
+  ],
+  "sinopsis": "Yoo-ha acaba de graduarse y lucha por conseguir un trabajo que le permita independizarse de su familia. Min-woo, un desarrollador adicto al trabajo, intenta escapar de la presión familiar para casarse y decide contratar a un novio falso. Yoo-ha acepta el acuerdo por dinero, pero lo que comienza como una relación basada en reglas y condiciones termina convirtiéndose en sentimientos reales que ninguno de los dos esperaba.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BMTIwYTE1YzctNTlkYi00NjQ0LWExNzAtNmYyZjQ5NjEwZjBkXkEyXkFqcGc%40._V1_.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=4oTUoSnNct0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000120",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000121",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

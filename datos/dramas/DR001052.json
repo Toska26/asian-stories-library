@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001052",
+  "titulo": "Don't Be Too Emotional",
+  "tituloOriginal": "อย่าขอพี่เจน",
+  "alias": [
+    "Rule No.1: Don’t Be Too Emotional",
+    "Don’t Ask P’Jane",
+    "Ya Kho Phi Jane"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Rule No.1: Don't Be Too Emotional",
+    "tituloOriginal": "อย่าขอพี่เจน",
+    "autor": "Hwang Seol",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-06-26",
+  "finalizacion": "2026-09-11",
+  "generos": [
+    "Drama romántico",
+    "Universitario",
+    "Misterio",
+    "Romance oscuro",
+    "Thriller psicológico"
+  ],
+  "tags": [
+    "Universidad",
+    "Fútbol",
+    "Concesión de deseos",
+    "Poder sobrenatural",
+    "Precio por los deseos",
+    "Rumores y secretos",
+    "Desigualdad de poder",
+    "Romance peligroso",
+    "Sentimientos secretos",
+    "Slow burn",
+    "Dilemas morales",
+    "Secretos y traiciones",
+    "Vida universitaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jane Patrick",
+        "Jane Aree"
+      ]
+    }
+  ],
+  "sinopsis": "Jane Patrick es un estudiante mayor rodeado de rumores: se dice que puede conceder cualquier deseo, pero quien acepta su ayuda debe devolverle el favor bajo sus condiciones. Jane Aree, un joven universitario aficionado al fútbol y al dibujo, conoce a Patrick y empieza a descubrir que detrás de su reputación intimidante hay una persona más compleja. La atracción entre ambos crece entre secretos, obligaciones y dilemas morales.",
+  "activo": true
+}

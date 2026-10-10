@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000264",
+  "titulo": "Love Is Real",
+  "tituloOriginal": "我說愛你是真的",
+  "alias": [
+    "Wo Shuo Ai Ni Shi Zhen De"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2026,
+  "franquicia": {
+    "codigo": "FR000022",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 59,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2026-01-25",
+  "finalizacion": "2026-03-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Vertical",
+    "Showbiz",
+    "Duelo",
+    "Pérdida",
+    "Amor de infancia",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Actores",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chen Xiao An",
+        "Ding Yu Ting"
+      ]
+    }
+  ],
+  "sinopsis": "Después de la muerte de Lin Bing Chen, Chen Xiao An queda atrapado en el dolor por la pérdida de la persona que amaba. Cuando Ding Yu Ting, un joven al que conoció años atrás, vuelve a entrar en su vida y se incorpora al mundo del entretenimiento para acercarse a él, Xiao An se ve obligado a enfrentarse a sus sentimientos del pasado. Poco a poco, la persistencia y el afecto de Yu Ting le ayudan a considerar la posibilidad de volver a amar.",
+  "activo": true
+}

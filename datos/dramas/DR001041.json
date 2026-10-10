@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001041",
+  "titulo": "Flower Boy: Enchanted by the Scent of Pollen",
+  "tituloOriginal": "รักวุ่นๆ นายดอกไม้",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-04-25",
+  "finalizacion": "2026-06-13",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "sinopsis": "Una historia romántica protagonizada por jóvenes que descubren que el amor puede aparecer de las formas más inesperadas, mientras las relaciones entre ellos se complican por secretos, sentimientos no correspondidos y situaciones propias de la juventud.",
+  "activo": true
+}

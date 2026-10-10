@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000624",
+  "titulo": "The Reason Why He Fell in Love with Me",
+  "tituloOriginal": "彼が僕に恋した理由",
+  "alias": [
+    "Why He Fell in Love with Me",
+    "Kare ga Boku ni Koishita Wake",
+    "BokuKoi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000039",
+    "orden": 1
+  },
+  "serie": "SR000624",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 29,
+  "estado": "Finalizado",
+  "estreno": "2020-08-09",
+  "finalizacion": "2020-08-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Profesores",
+    "Instituto",
+    "Oficina",
+    "Amor correspondido",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hikawa Toru",
+        "Akagi Masumi"
+      ]
+    }
+  ],
+  "sinopsis": "Hikawa Toru, un profesor de matemáticas recién llegado a un instituto, comienza a trabajar junto al profesor de educación física Akagi Masumi. Aunque sus personalidades son muy diferentes, Akagi empieza a sentirse atraído por Hikawa y ambos terminan enfrentándose a las consecuencias de sus sentimientos dentro y fuera del instituto.",
+  "activo": true
+}

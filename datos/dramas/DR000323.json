@@ -1,0 +1,33 @@
+{
+  "codigo": "DR000323",
+  "titulo": "The Guitar Man",
+  "alias": [
+    "The Guitar Man: The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-11-22",
+  "finalizacion": "2021-11-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Música",
+    "Guitarra"
+  ],
+  "sinopsis": "Una historia de amor y música centrada en un guitarrista y en las personas que forman parte de su entorno. La serie explora los sentimientos y las relaciones que surgen alrededor de la música.",
+  "activo": true
+}

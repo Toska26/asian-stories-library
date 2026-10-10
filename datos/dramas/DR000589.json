@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000589",
+  "titulo": "Feel What You Feel",
+  "tituloOriginal": "你的心事映在我的眉间",
+  "pais": [
+    "CN",
+    "HK"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000023",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Love and Punishment by Weiming Lake",
+    "tituloOriginal": "未名湖畔的爱与罚",
+    "autor": "Ni Lv Zhu Ren",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2026-04-03",
+  "finalizacion": "2026-05-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Novela BL",
+    "China-Hong Kong",
+    "Universidad",
+    "Fútbol",
+    "Primer amor",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Lei",
+        "Chen Ke"
+      ]
+    }
+  ],
+  "sinopsis": "Chen Ke y Yu Lei son dos estudiantes universitarios de personalidades muy diferentes que se conocen durante sus primeros días en la universidad. Lo que comienza como una amistad marcada por encuentros inesperados, fútbol y momentos compartidos se transforma gradualmente en sentimientos amorosos que ambos deben aprender a reconocer y afrontar.",
+  "activo": true
+}

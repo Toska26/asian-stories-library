@@ -1,0 +1,64 @@
+{
+  "codigo": "DR000537",
+  "titulo": "Meet You at the Blossom",
+  "tituloOriginal": "花开有时颓靡无声",
+  "alias": [
+    "Hua Kai You Shi Tui Mi Wu Sheng",
+    "花開有時頹靡無聲",
+    "Before the Flowers Bloom",
+    "ก่อนดอกไม้...บาน"
+  ],
+  "pais": [
+    "CN",
+    "TW",
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "universo": "UN000018",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Meet You at the Blossom",
+    "tituloOriginal": "花开有时，颓靡无声",
+    "autor": "Shui Qian Cheng",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-07-11",
+  "finalizacion": "2024-08-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Histórico",
+    "Drama",
+    "Artes Marciales"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Danmei",
+    "Coproducción",
+    "China-Taiwán-Tailandia",
+    "Wuxia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin Xiaobao",
+        "Zongzheng Huai En"
+      ]
+    },
+    {
+      "personajes": [
+        "Jinbao",
+        "Que Siming"
+      ]
+    }
+  ],
+  "sinopsis": "Jin Xiaobao, joven heredero de una poderosa familia, conoce a Zongzheng Huai En y se enamora de él mientras descubre su verdadera identidad. Su encuentro desencadena una historia de amor, secretos familiares, conflictos políticos y artes marciales.",
+  "activo": true
+}

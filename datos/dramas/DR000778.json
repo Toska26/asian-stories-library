@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000778",
+  "titulo": "Love Poison",
+  "tituloOriginal": "ข่อยฮักเจ้า เรารักกัน",
+  "alias": [
+    "Khaawy Hak Jao Rao Rak Gan",
+    "Love Poison: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "serie": "SR000778",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "27 min",
+  "estado": "Finalizado",
+  "estreno": "2019-11-20",
+  "finalizacion": "2019-12-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Juventud",
+    "Música"
+  ],
+  "tags": [
+    "Instituto",
+    "Rural",
+    "Deporte",
+    "Fútbol",
+    "Primer amor",
+    "Música"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ko",
+        "Teng"
+      ]
+    },
+    {
+      "personajes": [
+        "Sek",
+        "Tak"
+      ]
+    }
+  ],
+  "sinopsis": "Ko es un estudiante de secundaria que se ha hecho popular en internet por sus vídeos musicales y está enamorado de Teng, un atractivo jugador de fútbol que lo considera solamente un amigo. Convencido de que necesita cambiar los sentimientos de Teng, Ko busca un supuesto veneno de amor. Mientras intenta acercarse a Teng a través del fútbol y la música, la relación entre ambos evoluciona de forma inesperada. Paralelamente, Tak está enamorado de Sek, el hermano mayor de Ko.",
+  "activo": true
+}

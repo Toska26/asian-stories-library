@@ -1,0 +1,57 @@
+{
+  "codigo": "DR001004",
+  "titulo": "Reset",
+  "tituloOriginal": "RESET การเกิดใหม่ของดวงดาว",
+  "alias": [
+    "RESET: The Rebirth of the Stars",
+    "Reset The Series",
+    "Kan Koet Mai Khong Duang Dao"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "RESET",
+    "tituloOriginal": "RESET การเกิดใหม่ของดวงดาว",
+    "autor": "Crystaljade",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "55-70 min",
+  "estado": "Finalizado",
+  "estreno": "2025-06-02",
+  "finalizacion": "2025-08-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Reencarnación",
+    "Industria del entretenimiento"
+  ],
+  "tags": [
+    "Reencarnación",
+    "Actores",
+    "Celebridad",
+    "Venganza",
+    "Segunda oportunidad",
+    "Infidelidad",
+    "Memoria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Armin",
+        "Charlie"
+      ]
+    }
+  ],
+  "sinopsis": "Armin es un actor de éxito que alcanza la cima de su carrera cuando descubre que su pareja Charlie le es infiel con un actor más joven. Tras una tragedia, recibe la oportunidad de comenzar de nuevo y regresar a un punto anterior de su vida. Con los recuerdos de lo ocurrido, Armin intenta cambiar su destino y descubrir quién estuvo detrás de su caída.",
+  "activo": true
+}

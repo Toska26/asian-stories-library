@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000368",
+  "titulo": "Twinkle, Twinkle Little Star",
+  "alias": [
+    "Twinkle, Twinkie, Little Star",
+    "TTLS"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 39,
+  "estado": "Finalizado",
+  "estreno": "2022-02-25",
+  "finalizacion": "2022-04-15",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Juventud",
+    "Familia",
+    "Aceptación",
+    "Amistad",
+    "Autodescubrimiento",
+    "Identidad",
+    "Provincia",
+    "LGBTQ+"
+  ],
+  "sinopsis": "Christian Charles es enviado a una provincia lejana para quedarse con Kelly, amiga de su familia, como castigo por su comportamiento rebelde. Lo que comienza como un castigo termina convirtiéndose en un viaje de autodescubrimiento y aceptación, mientras Christian establece nuevos vínculos y descubre otra forma de entenderse a sí mismo y a los demás.",
+  "activo": true
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001001",
+  "titulo": "Knock Out",
+  "tituloOriginal": "หมัดน็อกล็อกหัวใจ",
+  "alias": [
+    "Knock Out The Series",
+    "Mat Knock Lock Hua Jai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2025-05-16",
+  "finalizacion": "2025-07-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Deportes"
+  ],
+  "tags": [
+    "Boxeo",
+    "Muay Thai",
+    "Deudas",
+    "Venganza",
+    "Gimnasio",
+    "Familia",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thun",
+        "Keen"
+      ]
+    },
+    {
+      "personajes": [
+        "Itt",
+        "Mawin"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Knock Out Special Episode",
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-07-25"
+    }
+  ],
+  "sinopsis": "Tras la muerte de su padre y la aparición de unas deudas que no puede pagar, Keen termina refugiándose en un gimnasio de Muay Thai. Allí comparte espacio con Thun, un boxeador de carácter difícil. Mientras Keen intenta encontrar una salida a sus problemas, ambos desarrollan una relación que se vuelve cada vez más profunda en medio de conflictos familiares, secretos y rivalidades.",
+  "activo": true
+}

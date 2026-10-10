@@ -1,0 +1,119 @@
+{
+  "codigo": "DR000064",
+  "titulo": "Head 2 Head",
+  "tituloOriginal": "ไหนใครว่าพวกมันไม่ถูกกัน",
+  "alias": [
+    "Nai Khrai Wa Phuak Man Mai Thuk Kan",
+    "Who Says They Don’t Get Along?"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000064",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2025-10-26",
+  "finalizacion": "2026-01-11",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Jerome",
+      "persona": "PR000526",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinn",
+      "persona": "PR000527",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Farm",
+      "persona": "PR000535",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Van",
+      "persona": "PR000536",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000086",
+      "personajes": [
+        "Jerome",
+        "Jinn"
+      ]
+    },
+    {
+      "ship": "SH000093",
+      "personajes": [
+        "Farm",
+        "Van"
+      ]
+    }
+  ],
+  "sinopsis": "Jerome y Jinn son rivales desde la infancia y continúan enfrentándose cuando ambos ingresan en la universidad para estudiar diseño de moda. Sus vidas permanecen constantemente entrelazadas: estudian juntos, sus casas están frente a frente, comparten grupo de amigos y sus familias mantienen una estrecha relación. Todo cambia cuando Jerome comienza a soñar con acontecimientos situados diez años en el futuro y descubre que la persona que tanto detesta terminará convirtiéndose en su pareja.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/08/69/b3/0869b335aa60f2633d15161686da5932.jpg",
+      "https://i.pinimg.com/736x/34/f9/d4/34f9d44d81d82dfbdb5f9dff3434ba60.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=7iKRgTqxFp0"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=v4O9ysuVBuY",
+      "https://www.youtube.com/watch?v=RT1lDAID3_I",
+      "https://www.youtube.com/watch?v=_10ZSPksHd4",
+      "https://www.youtube.com/watch?v=T4daihy57FY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000049",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "especiales": [
+    "ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special"
+  ],
+  "activo": true
+}

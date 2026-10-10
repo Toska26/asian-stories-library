@@ -1,0 +1,92 @@
+{
+  "codigo": "DR000216",
+  "titulo": "HIStory: My Hero",
+  "tituloOriginal": "HIStory: My Hero",
+  "alias": [
+    "My Hero"
+  ],
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2017-02-14",
+  "finalizacion": "2017-02-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Reencarnación",
+    "Cambio de cuerpo",
+    "Amor perdido",
+    "Segunda oportunidad",
+    "Novios",
+    "Espíritu",
+    "Plazo de una semana",
+    "Instituto"
+  ],
+  "personas": [
+    {
+      "nombre": "Ying-Hsiung Mai",
+      "persona": "PR000763",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ssu-Jen Ku",
+      "persona": "PR000764",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ying-Hsiung Mai",
+        "Ssu-Jen Ku"
+      ]
+    }
+  ],
+  "sinopsis": "Después de morir, el espíritu de una joven recibe una segunda oportunidad para regresar al mundo de los vivos, pero despierta en el cuerpo de un chico solitario. Para poder permanecer en la Tierra deberá conseguir que su antiguo novio vuelva a enamorarse de ella dentro de una semana. Mientras intenta acercarse de nuevo a él desde un cuerpo completamente diferente, ambos deberán enfrentarse a los recuerdos de su relación y a los sentimientos que todavía los unen.",
+  "entidades": [
+    {
+      "codigo": "EN000159",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

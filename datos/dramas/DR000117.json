@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000117",
+  "titulo": "To My Star 2",
+  "tituloOriginal": "나의 별에게2 : 우리의 못다 한 이야기",
+  "alias": [
+    "To My Star 2",
+    "To My Star 2: Our Untold Stories",
+    "Naui Byeolege 2"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000108",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": "25-40 min",
+  "estado": "Finalizado",
+  "estreno": "2022-06-05",
+  "finalizacion": "2022-07-03",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Convivencia",
+    "Ruptura",
+    "Reencuentro",
+    "Chef",
+    "Actor",
+    "Segunda oportunidad",
+    "Vida rural"
+  ],
+  "personas": [
+    {
+      "nombre": "Kang Seo Joon",
+      "persona": "PR000575",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Ji Woo",
+      "persona": "PR000576",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kang Seo Joon",
+        "Han Ji Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Después de haber construido una vida juntos, Kang Seo Joon y Han Ji Woo atraviesan una crisis que termina separándolos. Cuando Seo Joon desaparece de la vida de Ji Woo, ambos deben enfrentarse a las heridas y malentendidos que los alejaron mientras intentan descubrir si todavía existe un camino para volver a estar juntos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/30/b4/4c/30b44c48995f5416beddcce16c4545e0.jpg",
+      "https://i.pinimg.com/1200x/a6/59/70/a6597056f2d868f61cc189202d84efa7.jpg",
+      "https://i.pinimg.com/1200x/d2/2d/f0/d22df097d53a96e6cb10dea29ff2a63e.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000058",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000066",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

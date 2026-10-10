@@ -1,0 +1,75 @@
+{
+  "codigo": "DR000196",
+  "titulo": "Fix the Error!",
+  "tituloOriginal": "오류를 고쳐줘!",
+  "alias": [
+    "Fix the Error!",
+    "Oryureul Gochyeojwo!"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-06-12",
+  "finalizacion": "2026-06-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Segador de almas",
+    "Sobrenatural",
+    "Mundo humano",
+    "Inframundo",
+    "Error",
+    "Destino",
+    "Romance prohibido",
+    "Universidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Jihan",
+      "persona": "PR000740",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hyunjun",
+      "persona": "PR000606",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Jihan es un joven segador de almas que ha fracasado ocho veces en el examen para obtener su puesto definitivo. En su primera misión en el mundo humano, un error en el registro de muertes provoca que dos nombres aparezcan simultáneamente. Mientras intenta reparar el fallo, Jihan se acerca a Hyunjun y comienza a desarrollar sentimientos por él, desafiando una de las reglas fundamentales de su mundo.",
+  "entidades": [
+    {
+      "codigo": "EN000142",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

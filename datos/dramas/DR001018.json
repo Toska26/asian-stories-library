@@ -1,0 +1,68 @@
+{
+  "codigo": "DR001018",
+  "titulo": "Interminable",
+  "tituloOriginal": "อสงไขย",
+  "alias": [
+    "Interminable",
+    "Asongkhai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "อสงไขย",
+    "tituloOriginal": "อสงไขย",
+    "autor": "Sine",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "estado": "Finalizado",
+  "estreno": "2025-11-07",
+  "finalizacion": "2026-01-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural",
+    "Histórico"
+  ],
+  "tags": [
+    "Reencarnación",
+    "Fantasmas",
+    "Vida pasada",
+    "Amor eterno",
+    "Casa encantada",
+    "Destino",
+    "Época",
+    "Promesa"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yai",
+        "Kaewta"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Interminable Special Episode",
+      "alias": [
+        "Interminable Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2026,
+      "episodios": 1,
+      "estreno": "2026-01-23"
+    }
+  ],
+  "sinopsis": "Yai, un noble cuya existencia quedó ligada a una antigua casa, lleva siglos esperando el regreso de Kaewta, la persona que amó en una vida pasada. Cuando Kaewta reaparece en otra vida, el vínculo entre ambos vuelve a despertar. La historia combina romance, fantasmas, recuerdos de vidas anteriores y una promesa de amor que ha sobrevivido durante incontables años.",
+  "activo": true
+}

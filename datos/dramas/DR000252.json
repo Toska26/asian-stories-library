@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000252",
+  "titulo": "Bad to Bed",
+  "tituloOriginal": "睡睡你的愛，睡睡我的愛",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "23-37 min",
+  "estado": "Finalizado",
+  "estreno": "2024-11-02",
+  "finalizacion": "2025-01-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Amigos",
+    "Relaciones",
+    "Vida adulta",
+    "Comedia",
+    "Pareja"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Hao",
+        "Liang Yu"
+      ]
+    }
+  ],
+  "sinopsis": "Dos jóvenes se ven envueltos en una relación marcada por la atracción, los malentendidos y las dificultades para definir lo que sienten. A medida que pasan más tiempo juntos, deben decidir qué quieren realmente de su relación.",
+  "activo": true
+}

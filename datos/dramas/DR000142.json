@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000142",
+  "titulo": "Love Mate",
+  "tituloOriginal": "러브메이트",
+  "alias": [
+    "Love Mate",
+    "Reobeu Meiteu"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "21 min",
+  "estado": "Finalizado",
+  "estreno": "2023-05-04",
+  "finalizacion": "2023-05-25",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Trabajo",
+    "Compañeros",
+    "Citas",
+    "Amor",
+    "Romance laboral"
+  ],
+  "personas": [
+    {
+      "nombre": "Seo Yi Jun",
+      "persona": "PR000637",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jeong Ha Ram",
+      "persona": "PR000638",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seo Yi Jun",
+        "Jeong Ha Ram"
+      ]
+    }
+  ],
+  "sinopsis": "Seo Yi Jun es un líder de equipo que no cree en el amor y mantiene una actitud fría en el trabajo. Su vida cambia cuando conoce a Jeong Ha Ram, un nuevo empleado sincero y directo que no tiene miedo de expresar sus sentimientos. Una relación inicialmente complicada en la oficina comienza a convertirse poco a poco en algo más profundo.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/8a/a4/c7/8aa4c7b8ec94c5e251951e7238598989.jpg",
+      "https://i.pinimg.com/1200x/11/9b/21/119b2199684b897261f4190e96b39601.jpg",
+      "https://i.pinimg.com/736x/2d/26/61/2d2661bfe1b8b5ccd0f10adac1e87529.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=-m29oBQwqVQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

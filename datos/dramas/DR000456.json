@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000456",
+  "titulo": "My Lascivious Boss",
+  "alias": [
+    "Ông Chủ, Đừng Đến Đây!",
+    "Ông chủ, đừng đến đây!"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2021-04-04",
+  "finalizacion": "2021-06-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minh Hoàng",
+        "Thiên Long"
+      ]
+    }
+  ],
+  "sinopsis": "Minh Hoàng trabaja para mantener a su madre y termina trabajando en una cafetería, donde conoce a Thiên Long, su jefe. La relación entre ambos evoluciona mientras se enfrentan a sus circunstancias personales.",
+  "activo": true
+}

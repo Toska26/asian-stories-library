@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000640",
+  "titulo": "My Beautiful Man",
+  "tituloOriginal": "美しい彼",
+  "alias": [
+    "Utsukushii Kare",
+    "My Beautiful Man"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000040",
+    "orden": 1
+  },
+  "serie": "SR000640",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2021-11-18",
+  "finalizacion": "2021-12-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar",
+    "Instituto",
+    "Primer amor",
+    "Juventud",
+    "Fotografía",
+    "Personalidad introvertida"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hira Kazunari",
+        "Kiyoi Sou"
+      ]
+    }
+  ],
+  "sinopsis": "Hira Kazunari, un estudiante de instituto con problemas de tartamudez y escasas habilidades sociales, queda fascinado desde el primer momento por Kiyoi Sou, el chico más popular de su clase. Lo que comienza como una relación desigual evoluciona gradualmente hacia sentimientos románticos entre ambos.",
+  "activo": true
+}

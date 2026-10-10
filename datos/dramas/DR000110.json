@@ -1,0 +1,119 @@
+{
+  "codigo": "DR000110",
+  "titulo": "Nobleman Ryu's Wedding",
+  "tituloOriginal": "류선비의 혼례식",
+  "alias": [
+    "Nobleman Ryu's Wedding",
+    "Ryu Seonbiui Honryesik"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000110",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "9-13 min",
+  "estado": "Finalizado",
+  "estreno": "2021-04-15",
+  "finalizacion": "2021-05-06",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "BL",
+    "Joseon",
+    "Matrimonio",
+    "Identidad secreta",
+    "Travestismo",
+    "Familia",
+    "Política",
+    "Amor prohibido"
+  ],
+  "personas": [
+    {
+      "nombre": "Ryu Ho Sun",
+      "persona": "PR000571",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Choi Ki Wan",
+      "persona": "PR000569",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Tae Hyung",
+      "persona": "PR000568",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryu Ho Sun",
+        "Choi Ki Wan"
+      ]
+    }
+  ],
+  "sinopsis": "El día de su boda, la prometida de Ryu Ho Sun desaparece porque se niega a aceptar un matrimonio concertado. Su hermano Choi Ki Wan decide ocupar su lugar temporalmente para evitar las consecuencias políticas y familiares. Lo que comienza como un matrimonio de conveniencia se transforma poco a poco en una relación inesperada, mientras Kim Tae Hyung también desarrolla sentimientos por Ki Wan.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/43/76/c4/4376c4169b97643aaf5ee4dc0e6dd1d4.jpg",
+      "https://i.pinimg.com/1200x/4d/09/28/4d0928afd462b07f05d3019bc255a180.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=gKhhN0cXdgY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

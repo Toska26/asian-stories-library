@@ -1,0 +1,100 @@
+{
+  "codigo": "DR000078",
+  "titulo": "Lovers & Gangsters",
+  "tituloOriginal": "หงเสนคลุกฝุ่น",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000078",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción"
+  ],
+  "tags": [
+    "BL",
+    "Mafia",
+    "Histórico",
+    "Gangsters"
+  ],
+  "personas": [
+    {
+      "nombre": "Hongsen",
+      "persona": "PR000516",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "YongYi",
+      "persona": "PR000517",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seng",
+      "persona": "PR000559",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zo",
+      "persona": "PR000390",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000081",
+      "personajes": [
+        "Hongsen",
+        "YongYi"
+      ]
+    },
+    {
+      "ship": "SH000110",
+      "personajes": [
+        "Seng",
+        "Zo"
+      ]
+    }
+  ],
+  "sinopsis": "Ambientada en la Tailandia de los años 50, la historia gira en torno a dos bandas de gánsteres rivales. Hongsen lidera la banda Kaoyod y se ve sorprendido cuando YongYi, cuyo padre fue asesinado por su grupo, decide entrar en la banda. A pesar del conflicto y del pasado que los separa, ambos terminan desarrollando sentimientos. Al mismo tiempo, Seng, hermano de YongYi y líder de la banda rival Klukfoon, busca vengarse de Hongsen mientras su relación con Zo complica todavía más el enfrentamiento entre las dos familias.",
+  "multimedia": {
+    "portada": [
+      "https://image.idntimes.com/post/20251125/img_3010_7740836d-92c6-4ce3-b666-3eef403023d5.jpeg?tr=w-640"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=s-Wu-tmQXTM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000511",
+  "titulo": "Love Is More Than a Word",
+  "tituloOriginal": "识汝不识丁",
+  "alias": [
+    "Shi Ru Bu Shi Ding",
+    "Shi Nu Bu Shi Ding",
+    "Irresistible Love: Secret of the Valet"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2016,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000032",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Love Is More Than a Word",
+    "tituloOriginal": "识汝不识丁",
+    "autor": "Su Youbing",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Cancelado",
+  "estreno": "2016-09-12",
+  "finalizacion": "2016-09-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tao Mo",
+        "Gu She"
+      ]
+    }
+  ],
+  "sinopsis": "Tao Mo, un joven ingenuo e inculto, compra el puesto de magistrado de un pequeño condado para cumplir el deseo de su padre fallecido. Allí conoce a Gu She, un brillante abogado, y ambos desarrollan una relación mientras se ven envueltos en conflictos legales y políticos. La producción fue reducida a 12 episodios y quedó inconclusa tras su cancelación.",
+  "activo": true
+}

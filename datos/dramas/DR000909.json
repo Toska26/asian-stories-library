@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000909",
+  "titulo": "I Feel You Linger in the Air",
+  "tituloOriginal": "หอมกลิ่นความรัก",
+  "alias": [
+    "Hom Klin Khwam Rak",
+    "The Scent of Love",
+    "The Fragrance of Love",
+    "Sweet Smell of Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "I Feel You Linger in the Air",
+    "tituloOriginal": "หอมกลิ่นความรัก",
+    "autor": "Violet Rain",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "46 min",
+  "estado": "Finalizado",
+  "estreno": "2023-08-18",
+  "finalizacion": "2023-11-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasia",
+    "Historico"
+  ],
+  "tags": [
+    "BL",
+    "Viaje temporal",
+    "Vidas pasadas",
+    "Reencarnación",
+    "1920s",
+    "Amor sobrenatural",
+    "Casa histórica",
+    "Alma gemela"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jom",
+        "Yai"
+      ]
+    }
+  ],
+  "sinopsis": "Jom, un joven arquitecto encargado de restaurar una antigua casa en Chiang Mai, sufre un accidente y viaja misteriosamente al año 1927. Allí conoce a Yai, el hombre que había aparecido repetidamente en sus sueños. Su encuentro da lugar a una historia de amor que atraviesa distintas épocas.",
+  "especiales": [
+    {
+      "titulo": "Scent of Memory",
+      "tituloOriginal": "Special: Scent of Memory",
+      "anio": 2023,
+      "fecha": "2023-12-17"
+    }
+  ],
+  "activo": true
+}

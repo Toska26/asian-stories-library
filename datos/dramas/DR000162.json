@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000162",
+  "titulo": "Let Free the Curse of Taekwondo",
+  "tituloOriginal": "태권도의 저주를 풀어줘",
+  "alias": [
+    "Let Free the Curse of Taekwondo",
+    "The Curse of Taekwondo",
+    "Taekwondo-ui Jeojoo"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "35 min",
+  "estado": "Finalizado",
+  "estreno": "2024-10-17",
+  "finalizacion": "2024-11-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Taekwondo",
+    "Instituto",
+    "Primer amor",
+    "Reencuentro",
+    "Salto temporal",
+    "Familia",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Do Hoe",
+      "persona": "PR000676",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ju Yeong",
+      "persona": "PR000677",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Do Hoe",
+        "Ju Yeong"
+      ]
+    }
+  ],
+  "sinopsis": "Do Hoe es un estudiante de instituto que vive en un entorno familiar marcado por la violencia de su padre, propietario de un gimnasio de Taekwondo. Su vida cambia cuando conoce a Ju Yeong, un joven alegre que llega desde Seúl con el sueño de estudiar Taekwondo. Ambos desarrollan una relación que se ve destruida por las circunstancias y permanecen separados durante doce años. Cuando vuelven a encontrarse como adultos, deben enfrentarse a las heridas del pasado y decidir si todavía existe una oportunidad para ellos.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=B5HKNv5NdSk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000833",
+  "titulo": "Siew Sum Noi",
+  "tituloOriginal": "เสี่ยวซำน้อย",
+  "alias": [
+    "Siew Sum Noi",
+    "Little Xiao Sam",
+    "Xiao Sum Noi",
+    "Youth Friendship"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "40-48 min",
+  "estado": "Finalizado",
+  "estreno": "2021-05-12",
+  "finalizacion": "2021-07-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juventud",
+    "Deportes",
+    "Musical"
+  ],
+  "tags": [
+    "Universidad",
+    "Fútbol",
+    "Deporte",
+    "Isan",
+    "Bangkok",
+    "Ídolo de internet",
+    "Familia",
+    "Empresa familiar",
+    "Amistad",
+    "Fake Dating",
+    "Diferencias sociales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ruk",
+        "IG"
+      ]
+    }
+  ],
+  "sinopsis": "Ruk, un joven futbolista de Isan que consigue una beca deportiva en Bangkok, conoce a IG, un popular ídolo de internet que también oculta sus raíces de Isan. Ambos vuelven a encontrarse durante unas vacaciones en su región natal y, mientras afrontan los problemas familiares y personales que mantienen ocultos, su amistad comienza a transformarse en una relación romántica.",
+  "activo": true
+}

@@ -1,0 +1,34 @@
+{
+  "codigo": "DR000336",
+  "titulo": "Till Death Do Us Part",
+  "alias": [
+    "Till Death Do Us Part The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2021-04-22",
+  "finalizacion": "2021-06-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Tragedia",
+    "Enfermedad",
+    "Sacrificio",
+    "Amor eterno"
+  ],
+  "sinopsis": "Dos jóvenes viven una historia de amor profundamente unida al sacrificio y a la tragedia. Cuando una enfermedad y unas circunstancias inevitables amenazan su futuro juntos, ambos deben enfrentarse a la dolorosa decisión de qué están dispuestos a hacer para proteger la felicidad de la persona que aman.",
+  "activo": true
+}

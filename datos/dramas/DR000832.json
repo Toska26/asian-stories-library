@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000832",
+  "titulo": "Second Chance",
+  "tituloOriginal": "จังหวะจะรัก",
+  "alias": [
+    "Second Chance The Series",
+    "Jang Wa Ja Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "38-46 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-29",
+  "finalizacion": "2021-05-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Escolar"
+  ],
+  "tags": [
+    "Instituto",
+    "Amistad",
+    "Primer amor",
+    "Segunda oportunidad",
+    "Bullying",
+    "Abuso",
+    "Muay Thai",
+    "Familia",
+    "Superación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Paper",
+        "Sky"
+      ]
+    },
+    {
+      "personajes": [
+        "Chris",
+        "Jeno"
+      ]
+    },
+    {
+      "personajes": [
+        "Near",
+        "M"
+      ]
+    }
+  ],
+  "sinopsis": "Sky, que acaba de perder a su padre, encuentra apoyo en su mejor amigo Paper. Con el tiempo, la relación entre ambos empieza a transformarse en algo más profundo. Paralelamente, Jeno intenta superar el daño causado por su antiguo novio Arthur mientras Chris trata de ayudarle a recuperar la confianza en el amor. Near también descubre sentimientos por M, un compañero de trabajo con quien mantiene una relación a través de un juego en línea.",
+  "activo": true
+}

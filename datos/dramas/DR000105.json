@@ -1,0 +1,121 @@
+{
+  "codigo": "DR000105",
+  "titulo": "Wish You: Your Melody from My Heart",
+  "tituloOriginal": "나의 마음속 너의 멜로디",
+  "alias": [
+    "Wish You",
+    "Wish You: Your Melody in My Heart",
+    "Naui Maeumsok Neoui Mellodi"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000105",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2020-12-04",
+  "finalizacion": "2020-12-25",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Música",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Cantante",
+    "Músico",
+    "Cantautor",
+    "Discográfica",
+    "Convivencia",
+    "Amor",
+    "Sueños"
+  ],
+  "personas": [
+    {
+      "nombre": "Kang In-soo",
+      "persona": "PR000571",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoon Sang-yi",
+      "persona": "PR000572",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kang In-soo",
+        "Yoon Sang-yi"
+      ]
+    }
+  ],
+  "sinopsis": "Kang In-soo es un cantante callejero que sueña con convertir su pasión por la música en una carrera profesional. Sus actuaciones llaman la atención de Yoon Sang-yi, un teclista que trabaja para una importante compañía discográfica. Cuando Sang-yi decide ayudarle a entrar en un proyecto para nuevos artistas, ambos comienzan a acercarse mientras intentan compaginar sus sentimientos con las exigencias de la industria musical.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/dc/70/04/dc70041942b9423fd2d4157be3ecef6d.jpg",
+      "https://i.pinimg.com/736x/cd/29/7a/cd297a9c19e98a9e530baa1d3164557e.jpg",
+      "https://resize-image.vocus.cc/resize?norotation=true&quality=80&sign=twVTqrfh3YV16-IOQ8jrqR-IDnLjlJBQJRrwixSs2V8&url=https%3A%2F%2Fimages.vocus.cc%2F60ae0d16-0813-4be6-8bfe-abfbbef4125e.jpg&width=740"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1175155v",
+      "https://www.youtube.com/watch?v=4orkIeDUvLA"
+    ],
+    "ost": [
+      "https://youtu.be/-tUdu_7DATM",
+      "https://youtu.be/wISW-M7xMhM",
+      "https://youtu.be/oIf_af0XOmw",
+      "https://youtu.be/5HY4XAnpoqc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

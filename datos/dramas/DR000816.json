@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000816",
+  "titulo": "Skinship T1",
+  "tituloOriginal": "สัมผัสรักของเราและนาย",
+  "alias": [
+    "Skinship",
+    "Skinship The Series",
+    "SkinShip The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000816",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": "30-33 min",
+  "estado": "Finalizado",
+  "estreno": "2020-10-10",
+  "finalizacion": "2020-10-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "Hospital",
+    "Piel",
+    "Trabajo",
+    "Amistad",
+    "Pareja falsa",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Win",
+        "Beauty"
+      ]
+    },
+    {
+      "personajes": [
+        "James",
+        "Teenoi"
+      ]
+    }
+  ],
+  "sinopsis": "La historia sigue a un grupo de jóvenes relacionados con una clínica especializada en el cuidado de la piel. Win y Beauty terminan acercándose después de una situación inesperada, mientras James, asistente médico, debe cuidar de Teenoi, un paciente cuya personalidad resulta difícil de soportar. Las relaciones entre ambos pares evolucionan progresivamente hacia el romance.",
+  "activo": true
+}

@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000726",
+  "titulo": "Soul Mate",
+  "tituloOriginal": "ソウルメイト",
+  "alias": [
+    "Soulmate",
+    "Sôrumeito"
+  ],
+  "pais": [
+    "JP",
+    "KR"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "34-47 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-14",
+  "finalizacion": "2026-05-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ryu Narutaki",
+        "Johan Hwang"
+      ]
+    }
+  ],
+  "sinopsis": "Ryu Narutaki abandona Japón y termina en Berlín, donde conoce a Johan Hwang, un boxeador coreano. Aquel encuentro casual inicia una relación que se desarrolla durante diez años y atraviesa Berlín, Seúl y Tokio, mientras ambos afrontan pérdidas, distancia y cambios personales.",
+  "activo": true
+}

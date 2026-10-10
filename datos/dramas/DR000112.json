@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000112",
+  "titulo": "Peach of Time",
+  "tituloOriginal": "피치 오브 타임",
+  "alias": [
+    "Peach of Time",
+    "Peach of Time: Siganui Bogeun"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000112",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "20-30 min",
+  "estado": "Finalizado",
+  "estreno": "2021-08-30",
+  "finalizacion": "2021-09-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Fantasma",
+    "Amistad",
+    "Familia",
+    "Tailandia",
+    "Corea del Sur",
+    "Vida después de la muerte",
+    "Secreto"
+  ],
+  "personas": [
+    {
+      "nombre": "Peach",
+      "persona": "PR000312",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoon Oh",
+      "persona": "PR000581",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Peach",
+        "Yoon Oh"
+      ]
+    }
+  ],
+  "sinopsis": "Peach, un joven tailandés, viaja a Corea del Sur para visitar a su amigo Yoon Oh. Sin embargo, descubre que Yoon Oh ha muerto y que su espíritu permanece ligado a este mundo por un motivo que Peach todavía desconoce. Mientras intenta ayudarle a resolver sus asuntos pendientes, ambos se enfrentan a sentimientos que habían permanecido ocultos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/f5/ae/54/f5ae542e72c25b46fe9cd90b44cfff8f.jpg",
+      "https://i.pinimg.com/736x/88/1b/a6/881ba67882bebe64ac32b595160a0f44.jpg",
+      "https://i.pinimg.com/1200x/42/a4/3c/42a43c2e08361e5e3fd46eed72e35148.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000072",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000073",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000074",
+      "funcion": [
+        "Distribuidora"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

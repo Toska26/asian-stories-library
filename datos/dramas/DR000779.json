@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000779",
+  "titulo": "Love Poison 2",
+  "tituloOriginal": "ข่อยฮักเจ้า เรารักกัน 2",
+  "alias": [
+    "Love Poison Season 2",
+    "Khaawy Hak Jao Rao Rak Gan 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000778",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": "40 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-29",
+  "finalizacion": "2021-03-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Instituto",
+    "Rural",
+    "Comunidad",
+    "Música",
+    "Familia",
+    "Continuación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ko",
+        "Teng"
+      ]
+    },
+    {
+      "personajes": [
+        "Sek",
+        "Tak"
+      ]
+    }
+  ],
+  "sinopsis": "Las historias de amor de Teng y Ko, y de Sek y Tak, continúan mientras afrontan nuevos obstáculos. La comunidad se prepara para una gran celebración en el templo destinada a recaudar fondos para construir una nueva iglesia, pero la desaparición del dinero provoca nuevos conflictos que pondrán a prueba las relaciones y la confianza entre las parejas.",
+  "activo": true
+}

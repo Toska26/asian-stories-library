@@ -1,0 +1,130 @@
+{
+  "codigo": "DR000223",
+  "titulo": "HIStory4: Close to You",
+  "tituloOriginal": "HIStory4 - 近距離愛上你",
+  "alias": [
+    "Close to You",
+    "Jin Ju Li Ai Shang Ni"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 8
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 4,
+  "episodios": 20,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2021-03-14",
+  "finalizacion": "2021-05-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Empresa",
+    "Fake Dating",
+    "Amigos a amantes",
+    "Fujoshi",
+    "Hermanastros",
+    "Amor prohibido",
+    "Obsesión",
+    "Manipulación",
+    "Relación complicada",
+    "Boda"
+  ],
+  "personas": [
+    {
+      "nombre": "Xiao Li Cheng",
+      "persona": "PR000783",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Teng Mu Ren",
+      "persona": "PR000784",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Xing Si",
+      "persona": "PR000785",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fu Yong Jie",
+      "persona": "PR000786",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xiao Li Cheng",
+        "Teng Mu Ren"
+      ]
+    },
+    {
+      "personajes": [
+        "Ye Xing Si",
+        "Fu Yong Jie"
+      ]
+    }
+  ],
+  "sinopsis": "Xiao Li Cheng es un gerente de ventas de una empresa de organización de bodas que lleva años enamorado de Liu Mei Fang. Al descubrir que ella es aficionada al BL, pide a su amigo y compañero Teng Mu Ren que finja salir con él para llamar su atención. Sin embargo, la relación fingida empieza a convertirse en sentimientos reales. Al mismo tiempo, Ye Xing Si se enfrenta a los sentimientos obsesivos de su hermanastro Fu Yong Jie, una relación marcada por secretos, manipulación y conflictos familiares.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=s9RPHN5Et4c",
+      "https://www.youtube.com/watch?v=wS2s4XVwh8A"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000160",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

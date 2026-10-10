@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000491",
+  "titulo": "Sammy's Children's Day",
+  "alias": [
+    "初三的六一兒童節",
+    "初三的六一儿童节",
+    "Cho Sam Dik Luk Yat Yi Tung Chit"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "estado": "Finalizado",
+  "estreno": "2026-03-13",
+  "finalizacion": "2026-05-01",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Cantonés",
+    "Años 80",
+    "Ciudad Amurallada de Kowloon",
+    "Tríadas",
+    "Crimen",
+    "Corrupción",
+    "Venganza",
+    "Enemigos a amantes",
+    "Amor prohibido",
+    "Supervivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Chusan",
+        "Xia Liuyi"
+      ]
+    }
+  ],
+  "sinopsis": "Ambientada en la Ciudad Amurallada de Kowloon durante la década de 1980, la historia sigue a He Chusan, un joven estudiante que sueña con estudiar y escapar del caos que lo rodea. Su vida cambia cuando Xia Liuyi, un poderoso líder de una tríada, lo introduce a la fuerza en su mundo criminal. Entre conspiraciones, luchas de poder, violencia y secretos del pasado, ambos pasan de ser aliados forzados a convertirse en compañeros que deberán confiar el uno en el otro mientras buscan sobrevivir y vengarse.",
+  "activo": true
+}

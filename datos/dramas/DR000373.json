@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000373",
+  "titulo": "Beautiful Scars",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2023-01-02",
+  "finalizacion": "2023-01-23",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Expareja",
+    "Segundas oportunidades",
+    "Secretos",
+    "Abandono",
+    "Pasado",
+    "Perdón",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kyle",
+        "Lian"
+      ]
+    }
+  ],
+  "sinopsis": "Dos años después de que Lian desapareciera sin explicar las razones de su partida, Kyle intenta reconstruir su vida mientras sigue marcado por el abandono. Una inesperada llamada de Lian vuelve a abrir las heridas del pasado y obliga a ambos a enfrentarse a los secretos y sentimientos que quedaron sin resolver.",
+  "activo": true
+}

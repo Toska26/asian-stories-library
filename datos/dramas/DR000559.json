@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000559",
+  "titulo": "PlutoCharon",
+  "tituloOriginal": "星轨",
+  "alias": [
+    "Xing Gui",
+    "Pluto Charon"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2025-10-19",
+  "finalizacion": "2025-12-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universos paralelos",
+    "Espíritu",
+    "Ciencia ficción",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yang You",
+        "Chen Shi"
+      ]
+    }
+  ],
+  "sinopsis": "Yang You atraviesa accidentalmente hacia un universo paralelo y se convierte en un espíritu que debe permanecer a menos de 200 metros de Chen Shi para mantener su existencia. La convivencia entre ambos hace que su relación evolucione hasta convertirse en amor.",
+  "activo": true
+}

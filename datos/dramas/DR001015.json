@@ -1,0 +1,49 @@
+{
+  "codigo": "DR001015",
+  "titulo": "The Wicked Game",
+  "tituloOriginal": "เกม รัก ลวง",
+  "alias": [
+    "The Wicked Game",
+    "Wicked Game",
+    "Game Rak Luang",
+    "เกมรักลวง"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2025-09-27",
+  "finalizacion": "2025-11-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Misterio"
+  ],
+  "tags": [
+    "Guardaespaldas",
+    "Policía",
+    "Venganza",
+    "Hospital",
+    "Familia",
+    "Poder",
+    "Intento de asesinato"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Than",
+        "Pheem"
+      ]
+    }
+  ],
+  "sinopsis": "Pheem, el hijo menor de un poderoso empresario del sector hospitalario, regresa decidido a enfrentarse a su familia y descubrir la corrupción que se esconde tras el imperio de su padre. Cuando sufre un intento de asesinato durante la inauguración de un hospital, el policía Than consigue salvarle la vida. Pheem le pide que se convierta en su guardaespaldas personal, y la relación entre ambos se complica a medida que avanzan la investigación, la venganza y los sentimientos.",
+  "activo": true
+}

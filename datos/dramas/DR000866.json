@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000866",
+  "titulo": "On Cloud Nine",
+  "tituloOriginal": "On Cloud Nine",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "24-33 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-06",
+  "finalizacion": "2022-09-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Recuerdos",
+    "Almas gemelas",
+    "Promesas",
+    "Amor perdido",
+    "Segundas oportunidades",
+    "Chiang Mai",
+    "Fantasía"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiew",
+        "Mork"
+      ]
+    }
+  ],
+  "sinopsis": "Tiew y Mork se prometieron esperarse a pesar de la distancia que los separaba. Cuando finalmente vuelven a encontrarse, descubren que el tiempo ha cambiado algunas cosas, pero que sus sentimientos siguen ligados a una promesa del pasado. Entre recuerdos, secretos y una atmósfera casi onírica, ambos intentan comprender qué ocurrió realmente entre ellos.",
+  "especiales": [
+    {
+      "titulo": "On Cloud Nine — Special Scenes",
+      "tituloOriginal": "Special Scenes",
+      "alias": [
+        "Special Scenes"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-10-09"
+    }
+  ],
+  "activo": true
+}

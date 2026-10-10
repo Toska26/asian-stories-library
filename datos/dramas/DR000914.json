@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000914",
+  "titulo": "Make a Wish",
+  "tituloOriginal": "ภารกิจนายเทวดา",
+  "alias": [
+    "Make a Wish The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Make a Wish",
+    "tituloOriginal": "ภารกิจนายเทวดา",
+    "autor": "Sammon",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2023-03-22",
+  "finalizacion": "2023-04-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasia",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Ángeles",
+    "Deseos",
+    "Fantasmas",
+    "Médico",
+    "Sobrenatural",
+    "Misterio",
+    "Concesión de deseos",
+    "Comedia romántica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phakphum",
+        "Krit"
+      ]
+    }
+  ],
+  "sinopsis": "Phakphum es un médico que puede ver espíritus desde niño y desea librarse de esa capacidad. Su vida cambia cuando conoce a Krit, un ángel encargado de conceder deseos. Mientras ambos trabajan juntos para resolver distintos problemas sobrenaturales, su relación se transforma en algo más profundo.",
+  "activo": true
+}

@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000598",
+  "titulo": "Deep In",
+  "tituloOriginal": "入戏",
+  "alias": [
+    "Deep in the Act",
+    "Into the Play",
+    "Ru Xi",
+    "Immersed in the Role"
+  ],
+  "pais": [
+    "CN",
+    "SG"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000015",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Deep in the Act",
+    "tituloOriginal": "入戏",
+    "autor": "Tong Zi",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2026-06-26",
+  "finalizacion": "2026-07-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Industria del entretenimiento",
+    "Psicológico"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Novela BL",
+    "China-Singapur",
+    "Actores",
+    "Película dentro de la película",
+    "Obsesión",
+    "Ficción y realidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Zhun",
+        "Zhen Xin"
+      ]
+    }
+  ],
+  "sinopsis": "Zhang Zhun es un actor que atraviesa una etapa difícil de su carrera y consigue un papel en una película junto al reconocido actor Zhen Xin. Mientras interpretan a un paciente y a su psiquiatra, ambos pasan cada vez más tiempo juntos para preparar sus personajes. Poco a poco, las fronteras entre la interpretación y los sentimientos reales comienzan a desaparecer.",
+  "activo": true
+}

@@ -1,0 +1,128 @@
+{
+  "codigo": "DR000013",
+  "titulo": "VIP Only",
+  "tituloOriginal": "保留席位",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "universo": "UN000002",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2023-11-24",
+  "finalizacion": "2024-01-19",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Gu Jing",
+      "persona": "PR000089",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Li",
+      "persona": "PR000090",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ah Ren",
+      "persona": "PR000091",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lai",
+      "persona": "PR000092",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Xin",
+      "persona": "PR000093",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000102",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000103",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000104",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000107",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000020",
+      "personajes": [
+        "Gu Jing",
+        "Liu Li"
+      ]
+    }
+  ],
+  "sinopsis": "Gu Jing es el propietario de un restaurante retro y creativo donde Liu Li, un escritor de novelas BL, suele ocupar siempre la mesa más tranquila. Liu Li atraviesa una etapa complicada tanto en su vida sentimental como en su carrera como escritor, y Gu Jing comienza a acompañarlo y reconfortarlo con sus palabras y su cocina. Lo que empieza como una relación de amistad y apoyo se transforma poco a poco en sentimientos reales, mientras Liu Li descubre que el amor que había imaginado en sus novelas puede ser muy diferente del amor que encuentra junto a Gu Jing.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BMjc2MDkzMzEtNjg0OC00MGY5LWI0MjgtZmUxMDdlMDZkZmY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000019",
+      "funcion": [
+        "Productora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode"
+    }
+  ],
+  "activo": true
+}

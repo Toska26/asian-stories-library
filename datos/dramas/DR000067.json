@@ -1,0 +1,123 @@
+{
+  "codigo": "DR000067",
+  "titulo": "A Dog and a Plane",
+  "tituloOriginal": "หมาเห่าเครื่องบิน",
+  "alias": [
+    "Maa Hao Khrueangbin"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000067",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2026-05-29",
+  "finalizacion": "2026-07-31",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Toto",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kanit",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Akki",
+      "persona": "PR000293",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Veha",
+      "persona": "PR000555",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Toto",
+        "Kanit"
+      ]
+    },
+    {
+      "ship": "SH000107",
+      "personajes": [
+        "Akki",
+        "Veha"
+      ]
+    }
+  ],
+  "sinopsis": "Toto, jefe de un equipo de rescate, conoce a Kanit, un auxiliar de vuelo perfeccionista, después de un intercambio accidental de equipaje. Aunque sus personalidades y formas de vida son completamente opuestas, las circunstancias hacen que tengan que encontrarse una y otra vez. Cuando Kanit le pide a Toto que le ayude a descubrir si su novio, el piloto Lion, le es infiel, la misión de rescate acaba convirtiéndose en una historia de sentimientos y amor entre ambos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/87/cd/50/87cd5014d4da555714b6a50aeb01ccbc.jpg",
+      "https://i.pinimg.com/736x/37/35/b7/3735b7ede40c751fce25ff761bfc40ec.jpg",
+      "https://i.pinimg.com/736x/47/40/d9/4740d9dcfe7f55588dabbd7de99185df.jpg",
+      "https://images.justwatch.com/poster/345823831/s718/a-dog-and-a-plane.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=6B7K-81A8-A"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=YXBNTcU98Q0",
+      "https://www.youtube.com/watch?v=VrEG58iy7QY",
+      "https://www.youtube.com/watch?v=pFXR7bElyxo",
+      "https://www.youtube.com/watch?v=PcDDS-7ur4s"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000049",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "especiales": [
+    "หมาเห่าเครื่องบิน A Dog and A Plane : Boarding Time"
+  ],
+  "activo": true
+}

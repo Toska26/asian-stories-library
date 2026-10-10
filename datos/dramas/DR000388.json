@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000388",
+  "titulo": "Haunted Hearts",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2024-11-02",
+  "finalizacion": "2024-12-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Sobrenatural",
+    "Terror"
+  ],
+  "tags": [
+    "Fantasmas",
+    "Halloween",
+    "Sobrenatural",
+    "Misterio",
+    "Secretos",
+    "Amor",
+    "Vida después de la muerte",
+    "Casa encantada"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jack",
+        "Magic"
+      ]
+    }
+  ],
+  "sinopsis": "Durante una noche de Halloween, Jack conoce a Magic, un misterioso hombre cuya presencia despierta una conexión inmediata entre ambos. Sin embargo, Jack descubre que Magic no es un hombre corriente, sino un fantasma atrapado por un pasado lleno de secretos. Mientras su relación se hace más profunda, Jack deberá enfrentarse a la frontera entre el mundo de los vivos y el de los muertos y descubrir la verdad que se esconde detrás de la historia de Magic.",
+  "activo": true
+}

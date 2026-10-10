@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000275",
+  "titulo": "Quaranthings 2",
+  "tituloOriginal": "Quaranthings",
+  "alias": [
+    "Quaranthings Season 2",
+    "Quaranthings: The Series 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000274",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-11-26",
+  "finalizacion": "2022-01-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Pareja",
+    "Convivencia",
+    "Relación",
+    "Pandemia",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Judah Dela Cruz",
+        "Rocky"
+      ]
+    }
+  ],
+  "sinopsis": "Más de un año después de haber decidido formalizar su relación, Judah y Rocky continúan juntos mientras afrontan nuevas circunstancias que ponen a prueba sus sentimientos y su vida como pareja.",
+  "activo": true
+}

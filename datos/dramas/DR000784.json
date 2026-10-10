@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000784",
+  "titulo": "He She It",
+  "tituloOriginal": "ตาย ไม่ ตาย",
+  "alias": [
+    "He, She, It",
+    "He She It: Chapter I, II, III"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "estado": "Finalizado",
+  "estreno": "2019-10-31",
+  "finalizacion": "2020-07-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Terror",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Sobrenatural",
+    "Terror",
+    "Fantasma",
+    "Instituto",
+    "Amor secreto",
+    "Tragedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mike",
+        "Peem"
+      ]
+    }
+  ],
+  "sinopsis": "Mike y Peem son dos amigos que mantienen en secreto una relación amorosa mientras Mike también mantiene una relación con Pear. Cuando su romance clandestino sale a la luz, una serie de acontecimientos trágicos y sobrenaturales cambia para siempre la vida de los personajes.",
+  "activo": true
+}

@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000448",
+  "titulo": "You Are My Sunshine",
+  "alias": [
+    "Ấn Tượng Ban Đầu"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Webdrama",
+  "serie": "SR000447",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 2,
+  "estado": "Finalizado",
+  "estreno": "2021-12-18",
+  "finalizacion": "2021-12-25",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Romance",
+    "Instituto",
+    "Enemigos a amantes"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khoa",
+        "Trường"
+      ]
+    }
+  ],
+  "sinopsis": "Segunda temporada de la historia iniciada en Stupid Boys Stupid Love. Khoa y Trường tienen una primera impresión negativa el uno del otro, pero las circunstancias hacen que su relación evolucione progresivamente hacia el afecto.",
+  "activo": true
+}

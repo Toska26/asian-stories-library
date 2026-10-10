@@ -1,0 +1,268 @@
+{
+  "codigo": "DR000040",
+  "titulo": "Cutie Pie",
+  "tituloOriginal": "นิ่งเฮียก็หาว่าซื่อ",
+  "alias": [
+    "Cutie Pie The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000011",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "SR000040",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-02-19",
+  "finalizacion": "2022-05-14",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Lian Kilen Wang",
+      "persona": "PR000425",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuea Keerati",
+      "persona": "PR000426",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yi Phayak Chatdecha Chen",
+      "persona": "PR000309",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khondiao Thacha Wongtheerachot",
+      "persona": "PR000308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Syn",
+      "persona": "PR000427",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nuea",
+      "persona": "PR000428",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ton",
+      "persona": "PR000112",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jaab",
+      "persona": "PR000429",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jay",
+      "persona": "PR000430",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Foei",
+      "persona": "PR000431",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nuchy",
+      "persona": "PR000432",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Win",
+      "persona": "PR000433",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Black",
+      "persona": "PR000434",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jade",
+      "persona": "PR000435",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "MC",
+      "persona": "PR000436",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Auea",
+      "persona": "PR000437",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kuea's grandfather",
+      "persona": "PR000438",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kewalin",
+      "persona": "PR000439",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Young Lian",
+      "persona": "PR000440",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000416",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000340",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000071",
+      "personajes": [
+        "Lian Kilen Wang",
+        "Kuea Keerati"
+      ]
+    },
+    {
+      "ship": "SH000054",
+      "personajes": [
+        "Yi Phayak Chatdecha Chen",
+        "Khondiao Thacha Wongtheerachot"
+      ]
+    },
+    {
+      "ship": "SH000072",
+      "personajes": [
+        "Nuea",
+        "Syn"
+      ]
+    }
+  ],
+  "sinopsis": "Lian y Kuea están comprometidos desde pequeños debido a un acuerdo entre sus familias. Mientras Kuea intenta mantener su imagen de prometido perfecto, Lian comienza a cuestionar sus sentimientos y la relación que ambos han construido.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000020315342/0/cutie_pie.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=J9_kF-esM0w"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=yFXe_GpaB1g"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=P3ZeKebVBbQ",
+      "https://www.youtube.com/watch?v=l77JBJOwNVY",
+      "https://www.youtube.com/watch?v=F15X-GwvrRU",
+      "https://www.youtube.com/watch?v=JKspqsHxcwk",
+      "https://www.youtube.com/watch?v=z6pvbj5iR2A",
+      "https://www.youtube.com/watch?v=3BlVFX_JvaM",
+      "https://www.youtube.com/watch?v=5uj6D6bwq8U",
+      "https://www.youtube.com/watch?v=fjebr5fmc44",
+      "https://www.youtube.com/watch?v=7_3y06R112w"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000043",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000045",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000044",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "activo": true
+}

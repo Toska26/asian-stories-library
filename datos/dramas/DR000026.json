@@ -1,0 +1,202 @@
+{
+  "codigo": "DR000026",
+  "titulo": "Kiss: The Series",
+  "tituloOriginal": "รักต้องจูบ",
+  "alias": [
+    "Kiss The Series",
+    "Rak Tong Chup"
+  ],
+  "tipo": "Drama",
+  "anio": 2016,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000009",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2016-01-10",
+  "finalizacion": "2016-04-24",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Sandee",
+      "persona": "PR000276",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thada",
+      "persona": "PR000270",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sanrak",
+      "persona": "PR000295",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Na",
+      "persona": "PR000290",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pete",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kao",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "June",
+      "persona": "PR000171",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thew",
+      "persona": "PR000168",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "First",
+      "persona": "PR000020",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ella",
+      "persona": "PR000281",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Noina",
+      "persona": "PR000172",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chacha",
+      "persona": "PR000286",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000265",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Pete",
+        "Kao"
+      ]
+    },
+    {
+      "ship": "SH000044",
+      "personajes": [
+        "Sandee",
+        "Thada"
+      ]
+    },
+    {
+      "ship": "SH000045",
+      "personajes": [
+        "Sanrak",
+        "Na"
+      ]
+    },
+    {
+      "ship": "SH000046",
+      "personajes": [
+        "Sanrak",
+        "First"
+      ]
+    },
+    {
+      "ship": "SH000047",
+      "personajes": [
+        "Sandee",
+        "Thew"
+      ]
+    }
+  ],
+  "sinopsis": "Sandee y Thada son dos amigos universitarios que llevan años formando parte del mismo grupo de amigos. Aunque entre ellos existe una evidente atracción, ambos intentan convencerse de que su relación no es más que una amistad. La situación se complica cuando los sentimientos empiezan a hacerse imposibles de ignorar y los celos aparecen al entrar otras personas en sus vidas. Al mismo tiempo, Sanrak, la hermana de Sandee, vive sus propios conflictos sentimentales mientras intenta encontrar su lugar en el amor y en su relación con Na y First. A medida que los distintos romances se entrelazan, los protagonistas tendrán que enfrentarse a malentendidos, inseguridades, celos y sentimientos que durante mucho tiempo han preferido ocultar.",
+  "multimedia": {
+    "portada": [
+      "https://pics.filmaffinity.com/kiss_the_series-875888852-large.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=9jEHvkC4OVc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

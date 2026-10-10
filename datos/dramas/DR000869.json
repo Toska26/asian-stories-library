@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000869",
+  "titulo": "Work From Heart",
+  "tituloOriginal": "รักป่วนก๊วนออฟฟิศ",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": "42-48 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-25",
+  "finalizacion": "2022-09-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Mundo laboral"
+  ],
+  "tags": [
+    "Oficina",
+    "Trabajo",
+    "Prácticas profesionales",
+    "Jefe y empleado",
+    "Exparejas",
+    "Diferencias sociales",
+    "Homofobia",
+    "Romance laboral"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dee",
+        "Knight"
+      ]
+    },
+    {
+      "personajes": [
+        "Songthee",
+        "Veve"
+      ]
+    },
+    {
+      "personajes": [
+        "Boss",
+        "Noppadol"
+      ]
+    }
+  ],
+  "sinopsis": "Dee, heredero de una poderosa familia, debe realizar unas prácticas para demostrar que puede desenvolverse por sí mismo. Su abuelo interviene para que termine trabajando en DIFA, donde conoce a Knight, un serio responsable de marketing que no puede evitar recordar a su antigua pareja al ver a Dee. Mientras ambos se acercan, las relaciones y conflictos sentimentales dentro de la oficina complican todavía más la situación.",
+  "activo": true
+}

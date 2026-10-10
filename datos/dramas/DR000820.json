@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000820",
+  "titulo": "Love Area T1",
+  "tituloOriginal": "ครั้งหนึ่งเราเคยรักกัน",
+  "alias": [
+    "Love Area",
+    "Love Area The Series",
+    "Love Area Part 1"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000820",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "45-48 min",
+  "estado": "Finalizado",
+  "estreno": "2021-07-24",
+  "finalizacion": "2021-08-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Restaurante",
+    "Trabajo",
+    "Familia",
+    "Universidad",
+    "Primer amor",
+    "Amistad",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Valen",
+        "Kaitoon"
+      ]
+    },
+    {
+      "personajes": [
+        "King",
+        "Peat"
+      ]
+    }
+  ],
+  "sinopsis": "Valen, un joven que nunca ha conocido el amor ni siquiera dentro de su propia familia, conoce a Kaitoon, un estudiante que trabaja en el restaurante Love Area. El encuentro cambia poco a poco su forma de entender el afecto y lleva a ambos a desarrollar sentimientos mientras afrontan sus problemas personales y familiares.",
+  "especiales": [
+    {
+      "titulo": "Love Area Special Ep. 0",
+      "alias": [
+        "Love Area Part 1 Recap Episode"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-07-17"
+    }
+  ],
+  "activo": true
+}

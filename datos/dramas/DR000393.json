@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000393",
+  "titulo": "Sereno",
+  "alias": [
+    "Under the Same Sky"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 44,
+  "estado": "Finalizado",
+  "estreno": "2025-12-06",
+  "finalizacion": "2026-02-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Sirenas",
+    "Tritón",
+    "Mar",
+    "Resort",
+    "Misterio",
+    "Amor",
+    "Identidad",
+    "Secretos",
+    "Destino",
+    "Amistad",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kai",
+        "Elios"
+      ]
+    },
+    {
+      "personajes": [
+        "Alfred",
+        "Julius"
+      ]
+    }
+  ],
+  "sinopsis": "Kai es un tritón que vive entre el mar y el mundo humano, ocultando su verdadera naturaleza. La llegada de Elios, un escritor que visita el resort acompañado de su mejor amigo Alfred, hace que ambos mundos vuelvan a entrar en contacto. Elios descubre el secreto de Kai y entre los dos surge una conexión que se transforma en amor mientras intentan comprender sus diferencias y los peligros que los rodean. Paralelamente, un encuentro accidental entre Alfred y Julius da lugar a una relación que evoluciona desde una situación inesperada hacia un vínculo afectivo.",
+  "activo": true
+}

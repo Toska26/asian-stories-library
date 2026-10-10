@@ -1,0 +1,138 @@
+{
+  "codigo": "DR000089",
+  "titulo": "The Eclipse",
+  "tituloOriginal": "คาธ",
+  "alias": [
+    "Khat"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000089",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-12",
+  "finalizacion": "2022-10-28",
+  "generos": [
+    "Romance",
+    "Misterio",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Estudiantes",
+    "Maldición",
+    "Sobrenatural",
+    "Enemigos a amantes",
+    "LGBTQ+"
+  ],
+  "personas": [
+    {
+      "nombre": "Akk",
+      "persona": "PR000388",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ayan",
+      "persona": "PR000017",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khanlong",
+      "persona": "PR000294",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thuaphu",
+      "persona": "PR000560",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000068",
+      "personajes": [
+        "Akk",
+        "Ayan"
+      ]
+    },
+    {
+      "ship": "SH000112",
+      "personajes": [
+        "Khanlong",
+        "Thuaphu"
+      ]
+    }
+  ],
+  "sinopsis": "En la estricta escuela masculina Suppalo, los alumnos deben cumplir unas normas muy severas bajo la amenaza de una antigua maldición que, según los rumores, se vuelve más poderosa cuando se acerca un eclipse solar. Akk, jefe de los prefectos estudiantiles, tiene la misión de hacer cumplir las reglas, mientras que Ayan, un nuevo alumno decidido a descubrir la verdad sobre la muerte de su tío, desafía constantemente la autoridad del centro. La rivalidad entre ambos irá transformándose mientras descubren los secretos que rodean a la escuela y a la misteriosa maldición.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/f0/dd/7e/f0dd7e587c13d216bfaca4012cae1aa8.jpg",
+      "https://i.pinimg.com/736x/01/0f/4b/010f4b1e0d83c8f58efdb7b4d200cc06.jpg",
+      "https://i.pinimg.com/736x/52/ec/d2/52ecd2da60343101d71bc076d492e1ac.jpg",
+      "https://i.pinimg.com/1200x/b5/81/5b/b5815b9af9a469efcffc0e0cef405985.jpg",
+      "https://cms.dmpcdn.com/ugcarticle/2022/10/21/5438e210-50ff-11ed-9875-f91c51608aaa_original.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=cAUsEo1_frs"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=iVRzQhRf0Z0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — The Eclipse",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: The Eclipse"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-05-03"
+    }
+  ],
+  "activo": true
+}

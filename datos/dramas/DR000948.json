@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000948",
+  "titulo": "To Be Continued",
+  "tituloOriginal": "คุณได้ไปต่อ",
+  "alias": [
+    "To Be Continued",
+    "To Be Continued Series",
+    "Khun Dai Pai Tor"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "To Be Continued",
+    "tituloOriginal": "คุณได้ไปต่อ",
+    "autor": "Nottakorn",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 47,
+  "estado": "Finalizado",
+  "estreno": "2024-02-19",
+  "finalizacion": "2024-04-08",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Segunda oportunidad",
+    "Amigos a amantes",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji",
+        "Achi"
+      ]
+    },
+    {
+      "personajes": [
+        "Ki",
+        "Kambee"
+      ]
+    }
+  ],
+  "sinopsis": "Ji y Achi fueron mejores amigos durante su adolescencia, pero sus sentimientos y las circunstancias hicieron que se separaran durante diez años. Ji se convirtió en un médico ortopédico mientras Achi alcanzó la fama como superestrella. Cuando vuelven a encontrarse, ambos deben enfrentarse a los sentimientos que nunca llegaron a desaparecer y decidir si finalmente pueden continuar la historia que dejaron atrás.",
+  "activo": true
+}

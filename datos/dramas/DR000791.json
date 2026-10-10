@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000791",
+  "titulo": "The Moment I Need You",
+  "tituloOriginal": "Moment แห่งความสุข",
+  "alias": [
+    "The Moment",
+    "The Moment I Need You: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000791"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2020-02-08",
+  "finalizacion": "2020-02-14",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Veterinario",
+    "Hotel",
+    "Montaña",
+    "Corazón roto",
+    "Sanación emocional",
+    "Encuentro inesperado"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mok",
+        "Bay"
+      ]
+    }
+  ],
+  "sinopsis": "Mok, un joven veterinario que intenta recuperarse de un corazón roto, viaja a un hotel situado en las montañas para alejarse de sus problemas. Allí conoce a Bay, un joven camarero que, sin esperarlo, comienza a despertar en él nuevos sentimientos. El encuentro entre ambos transforma un momento de tristeza en una oportunidad para volver a abrir el corazón.",
+  "activo": true
+}

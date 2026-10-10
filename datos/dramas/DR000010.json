@@ -1,0 +1,199 @@
+{
+  "codigo": "DR000010",
+  "titulo": "Between Us",
+  "tituloOriginal": "เชือกป่าน",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000003",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2022-11-06",
+  "finalizacion": "2023-01-29",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Win",
+      "persona": "PR000059",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Team",
+      "persona": "PR000058",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pharm",
+      "persona": "PR000054",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Manow",
+      "persona": "PR000060",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dean",
+      "persona": "PR000055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pruek",
+      "persona": "PR000062",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tul",
+      "persona": "PR000067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bee",
+      "persona": "PR000069",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "A",
+      "persona": "PR000070",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sea",
+      "persona": "PR000071",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Waan",
+      "persona": "PR000072",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wiew",
+      "persona": "PR000073",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Prince",
+      "persona": "PR000074",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000075",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000076",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000014",
+      "personajes": [
+        "Win",
+        "Team"
+      ]
+    },
+    {
+      "ship": "SH000017",
+      "personajes": [
+        "Waan",
+        "Tul"
+      ]
+    }
+  ],
+  "sinopsis": "Win y Team se conocen durante su etapa universitaria y, aunque desde el principio existe una fuerte atracción entre ellos, Team tiene dificultades para enfrentarse a sus propios sentimientos y a los recuerdos que lo atormentan. Win intenta acercarse a él y ayudarlo a superar sus inseguridades mientras ambos descubren poco a poco lo que significa estar juntos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/originals/3d/8e/08/3d8e08b81070edf2441f9bfe4dae9cf9.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=DlT_e3Eguz8"
+    ]
+  },
+  "especiales": [
+    {
+      "titulo": "Between Us Special",
+      "episodios": 1
+    }
+  ],
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

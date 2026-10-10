@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000728",
+  "titulo": "Fake Fact Lips",
+  "tituloOriginal": "フェイクファクトリップス",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "25-30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-04-24",
+  "finalizacion": "2026-06-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Oficina"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yotsuya Ryo",
+        "Shido Zen"
+      ]
+    }
+  ],
+  "sinopsis": "Ryo Yotsuya y Zen Shido son rivales desde la época escolar y ahora trabajan en la misma empresa. Tras una apuesta impulsiva sobre quién conseguirá que el otro se enamore primero, su competición profesional se transforma poco a poco en una relación amorosa real.",
+  "especiales": [
+    "Bonus Special"
+  ],
+  "activo": true
+}

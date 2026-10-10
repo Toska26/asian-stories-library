@@ -1,0 +1,49 @@
+{
+  "codigo": "DR001019",
+  "titulo": "A(ir) Moment",
+  "tituloOriginal": "โอกาส อากาศ",
+  "alias": [
+    "A(ir) Moment The Series",
+    "Air Moment",
+    "Okat Akat",
+    "A(ir) Moment: Opportunity"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2025-10-05",
+  "finalizacion": "2026-01-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Ciencia ficción",
+    "Distopía"
+  ],
+  "tags": [
+    "Futuro",
+    "Distopía",
+    "Aire",
+    "Supervivencia",
+    "Sociedad",
+    "Supervivencia urbana",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Leo",
+        "Earth"
+      ]
+    }
+  ],
+  "sinopsis": "En una Tailandia del futuro donde el aire respirable se ha convertido en un recurso escaso, un joven llega a una zona aislada buscando un lugar donde todavía pueda encontrarse aire limpio. Allí se cruza con un guardián encargado de proteger el distrito. Lo que comienza como una relación marcada por la desconfianza y las circunstancias termina convirtiéndose en un vínculo capaz de desafiar las reglas de un mundo al borde del colapso.",
+  "activo": true
+}

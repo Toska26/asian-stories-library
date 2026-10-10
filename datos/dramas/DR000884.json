@@ -1,0 +1,69 @@
+{
+  "codigo": "DR000884",
+  "titulo": "The Promise",
+  "tituloOriginal": "สัญญา I ไม่ลืม",
+  "alias": [
+    "The Promise The Series",
+    "Sanya Mai Luem",
+    "The Promise: I Won’t Forget"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000044",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "35-60 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-01",
+  "finalizacion": "2023-05-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Amigos de infancia",
+    "Amigos a amantes",
+    "Reencuentro",
+    "Amor secreto",
+    "Amor no correspondido",
+    "Slow burn",
+    "Sanación",
+    "Café",
+    "Ghosting",
+    "Separación",
+    "Diez años después",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phupha",
+        "Nanfah"
+      ]
+    }
+  ],
+  "sinopsis": "Phupha y Nanfah fueron mejores amigos desde la infancia, pero después de terminar la universidad Phupha desapareció de la vida de Nanfah sin darle ninguna explicación. Durante diez años, Nanfah intentó seguir adelante mientras cargaba con la ausencia de la persona más importante de su vida. Cuando Phupha reaparece y se muda al apartamento situado frente al suyo, ambos vuelven a encontrarse y se ven obligados a afrontar todo aquello que dejaron sin resolver. Entre recuerdos, secretos, sentimientos ocultos y el miedo a perder nuevamente al otro, tendrán que descubrir si su vínculo puede finalmente superar la frontera entre la amistad y el amor.",
+  "especiales": [
+    {
+      "titulo": "Honeymoon Lost and Found",
+      "tituloOriginal": "Honeymoon Lost and Found",
+      "alias": [
+        "The Promise Special Episode: Honeymoon Lost and Found"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 1,
+      "estreno": "2023-09-09"
+    }
+  ],
+  "activo": true
+}

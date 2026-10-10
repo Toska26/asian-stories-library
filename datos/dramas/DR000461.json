@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000461",
+  "titulo": "Want to See You",
+  "alias": [
+    "Muốn Nhìn Thấy Em"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-06-05",
+  "finalizacion": "2022-08-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Discapacidad",
+    "Family Drama",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thạch",
+        "Phúc"
+      ]
+    }
+  ],
+  "sinopsis": "Después de perder la vista en un accidente, Thạch necesita ayuda para desenvolverse en su vida diaria. Phúc comienza a trabajar como su cuidador y, pese a sus constantes enfrentamientos, ambos terminan desarrollando sentimientos que deben afrontar frente a la oposición de su entorno.",
+  "activo": true
+}

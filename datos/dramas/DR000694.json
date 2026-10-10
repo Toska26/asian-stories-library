@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000694",
+  "titulo": "Smells Like Green Spirit",
+  "tituloOriginal": "スメルズ ライク グリーン スピリット",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Smells Like Green Spirit",
+    "tituloOriginal": "スメルズ ライク グリーン スピリット",
+    "autor": "Saburō Nagai",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-09-19",
+  "finalizacion": "2024-11-07",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Identidad",
+    "Homofobia",
+    "Bullying",
+    "Adolescencia",
+    "Aceptación",
+    "Cross-dressing"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mishima Futoshi",
+        "Yumeno Taro"
+      ]
+    }
+  ],
+  "sinopsis": "Futoshi Mishima es acosado por sus compañeros debido a su aspecto femenino y a que le gustan los chicos. Un día descubre que Makoto Kirino, uno de sus acosadores, también oculta una parte de sí mismo. Mientras Mishima intenta encontrar su propia identidad, Yumeno comienza a reconocer sus sentimientos hacia él.",
+  "activo": true
+}

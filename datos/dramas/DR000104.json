@@ -1,0 +1,101 @@
+{
+  "codigo": "DR000104",
+  "titulo": "Mr. Heart",
+  "tituloOriginal": "Mr. 하트",
+  "alias": [
+    "Mr. Heart",
+    "Mr.하트"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000104",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2020-09-18",
+  "finalizacion": "2020-10-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Deportes",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Atletismo",
+    "Maratón",
+    "Entrenamiento",
+    "Competición",
+    "Deporte",
+    "Entrenador"
+  ],
+  "personas": [
+    {
+      "nombre": "Go Sang-ha",
+      "persona": "PR000569",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Won",
+      "persona": "PR000570",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Go Sang-ha",
+        "Jin Won"
+      ]
+    }
+  ],
+  "sinopsis": "Jin Won es una joven promesa del maratón que concentra toda su atención en mejorar como corredor. Para ayudarle a mantener el ritmo durante sus entrenamientos, su entrenador le asigna a Go Sang-ha como liebre. La cercanía entre ambos hace que Sang-ha desarrolle sentimientos por Jin Won mientras los dos afrontan juntos las exigencias del deporte y sus propias inseguridades.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/9c/85/13/9c85136ddb53c9074be9f521f9d16c2d.jpg",
+      "https://bancodeseries.tv.br/images/posters/20563.jpg"
+    ],
+    "trailer": [
+      "https://www.viki.com/videos/1172045v"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=WE_TYBBMUvQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000057",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000059",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

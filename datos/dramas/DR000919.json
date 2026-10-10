@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000919",
+  "titulo": "The Chemistry",
+  "tituloOriginal": "จ๊าบเจน",
+  "alias": [
+    "Jaab Jane",
+    "The Chemistry #JaabJane"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2027,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000046",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Chemistry #จ๊าบเจน",
+    "tituloOriginal": "The Chemistry #จ๊าบเจน",
+    "autor": "summer december",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Próximamente",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Oficina",
+    "Compañeros de trabajo",
+    "Amor no correspondido",
+    "Friends to Lovers",
+    "Amor unilateral",
+    "Novela adaptada",
+    "Secuela",
+    "Spin-off"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jaab",
+        "Jane"
+      ]
+    }
+  ],
+  "sinopsis": "Jaab Phongkit trabaja como director y lleva una vida rutinaria hasta que Jane Jennarong se incorpora al equipo de producción como nuevo asistente. Jane se sienta junto a Jaab y rápidamente destaca por su amabilidad, consideración y cercanía con sus compañeros. Jaab comienza a sentir una fuerte atracción por él, pero existe un problema: Jane ya tiene novio. La historia desarrolla la relación entre ambos compañeros y explora los sentimientos de Jaab mientras intenta comprender qué significa realmente la química entre dos personas.",
+  "activo": true
+}

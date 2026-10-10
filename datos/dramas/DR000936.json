@@ -1,0 +1,104 @@
+{
+  "codigo": "DR000936",
+  "titulo": "Every You, Every Me",
+  "tituloOriginal": "ทุกๆ เธอที่รัก",
+  "alias": [
+    "Every U The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2024-10-06",
+  "finalizacion": "2024-11-24",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Antología",
+    "Metaficción"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Dol"
+      ]
+    },
+    {
+      "personajes": [
+        "Parinth",
+        "First"
+      ]
+    },
+    {
+      "personajes": [
+        "X",
+        "Namping"
+      ]
+    },
+    {
+      "personajes": [
+        "Sian",
+        "Blue"
+      ]
+    },
+    {
+      "personajes": [
+        "Pun",
+        "Inn"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Antología",
+      "historia": "The Legend of the Soulmate",
+      "pareja": "Dol / Sun",
+      "episodio": 1
+    },
+    {
+      "tipo": "Antología",
+      "historia": "I Quit, Sir!",
+      "pareja": "Parinth / First",
+      "episodio": 2
+    },
+    {
+      "tipo": "Antología",
+      "historia": "The Day of Meeting, the Day of Parting",
+      "pareja": "X / Namping",
+      "episodio": [
+        3,
+        4
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "historia": "You and Your Beautiful Heart",
+      "pareja": "Sian / Blue",
+      "episodio": [
+        5,
+        6
+      ]
+    },
+    {
+      "tipo": "Antología",
+      "historia": "LOVE, Action! Ready!",
+      "pareja": "Pun / Inn",
+      "episodio": [
+        7,
+        8
+      ]
+    }
+  ],
+  "sinopsis": "Dos almas destinadas a encontrarse han vivido más de mil vidas y, en cada una de ellas, consiguen enamorarse. La serie presenta cinco historias de amor protagonizadas por diferentes personajes interpretados por Top y Mick: Dol y Sun, Parinth y First, X y Namping, Sian y Blue, y Pun e Inn. A medida que avanzan las historias, la separación entre ficción y realidad se transforma hasta revelar la conexión que existe entre ellas y conducir a la historia de amor de sus protagonistas.",
+  "activo": true
+}

@@ -1,0 +1,82 @@
+{
+  "codigo": "DR000197",
+  "titulo": "The Table",
+  "tituloOriginal": "더 테이블",
+  "alias": [
+    "The Table",
+    "Deo Teibeul"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2026-06-25",
+  "finalizacion": "2026-07-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos",
+    "Amor no confesado",
+    "Amor unilateral",
+    "Confesión",
+    "Alcohol",
+    "Sentimientos reprimidos",
+    "Reencuentro"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Siwoo",
+      "persona": "PR000741",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Seongjae",
+      "persona": "PR000742",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Siwoo",
+        "Lee Seongjae"
+      ]
+    }
+  ],
+  "sinopsis": "Kim Siwoo lleva mucho tiempo junto a Lee Seongjae, cuidándolo cuando bebe y permaneciendo a su lado incluso cuando esa cercanía empieza a doler. Para Seongjae, Siwoo sigue siendo alguien cuya presencia está garantizada por la amistad. Sentados frente a frente alrededor de una mesa, ambos tendrán que enfrentarse a unos sentimientos que durante demasiado tiempo han permanecido sin decirse.",
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

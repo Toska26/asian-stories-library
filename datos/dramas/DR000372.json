@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000372",
+  "titulo": "Si Andy, Si Lauren, O Si Peng?",
+  "alias": [
+    "Andy, Lauren, or Peng?",
+    "Si Andy, Si Lauren, O Si Peng? The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-12-03",
+  "finalizacion": "2023-01-22",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Thriller"
+  ],
+  "tags": [
+    "Secretos familiares",
+    "Venganza",
+    "Trauma",
+    "Abuso",
+    "Primos",
+    "Triángulo amoroso",
+    "Identidad",
+    "Suspense",
+    "Aceptación",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Coby",
+        "Peng"
+      ]
+    },
+    {
+      "personajes": [
+        "Coby",
+        "Andy"
+      ]
+    },
+    {
+      "personajes": [
+        "Coby",
+        "Lauren"
+      ]
+    },
+    {
+      "personajes": [
+        "Lauren",
+        "Melo"
+      ]
+    }
+  ],
+  "sinopsis": "Coby llega a la casa de los primos Magbuana con el propósito secreto de descubrir quién fue responsable de una agresión que sufrió dos años antes. Mientras se acerca a Peng, Andy y Lauren para investigar sus secretos, sus planes de venganza se complican cuando aparecen sentimientos reales. Los conflictos familiares, los secretos y las relaciones amorosas hacen que la convivencia termine revelando verdades ocultas.",
+  "activo": true
+}

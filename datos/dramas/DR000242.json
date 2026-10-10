@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000242",
+  "titulo": "49 Days With a Merman",
+  "tituloOriginal": "我家浴缸的二三事",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": "25-30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-06",
+  "finalizacion": "2022-03-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Merman",
+    "Sirena",
+    "Instituto",
+    "Fantasía",
+    "Amistad",
+    "Primer amor",
+    "Crecimiento personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chao Lung Chieh",
+        "Chou Pi Yu"
+      ]
+    }
+  ],
+  "sinopsis": "Chao Lung Chieh lleva una vida tranquila hasta que un extraño merman aparece inesperadamente en su bañera. Mientras intenta ayudarlo a cumplir su misión, Lung Chieh debe afrontar sus propios sentimientos y la relación que desarrolla con Chou Pi Yu.",
+  "activo": true
+}

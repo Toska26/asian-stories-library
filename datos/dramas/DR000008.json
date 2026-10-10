@@ -1,0 +1,165 @@
+{
+  "codigo": "DR000008",
+  "titulo": "Together with Me: The Next Chapter",
+  "tituloOriginal": "",
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000002",
+    "orden": 3
+  },
+  "serie": "SR000007",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2018-09-28",
+  "finalizacion": "2018-12-19",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Knock",
+      "persona": "PR000030",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Korn",
+      "persona": "PR000031",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yihwa",
+      "persona": "PR000033",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fai",
+      "persona": "PR000038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cho",
+      "persona": "PR000032",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pete",
+      "persona": "PR000043",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Art",
+      "persona": "PR000044",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Farm",
+      "persona": "PR000040",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bright",
+      "persona": "PR000037",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Newnew",
+      "persona": "PR000045",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000052",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000006",
+      "personajes": [
+        "Korn",
+        "Knock"
+      ]
+    },
+    {
+      "ship": "SH000007",
+      "personajes": [
+        "Cho",
+        "Yihwa"
+      ]
+    },
+    {
+      "ship": "SH000008",
+      "personajes": [
+        "Farm",
+        "Bright"
+      ]
+    }
+  ],
+  "sinopsis": "Korn y Knock ya llevan un tiempo juntos, pero su relación se enfrenta a nuevos problemas cuando aparecen situaciones que ponen a prueba la confianza y los sentimientos que comparten. Mientras intentan mantener su relación, sus amigos también afrontan cambios, nuevos romances y decisiones que afectarán a sus vidas.",
+  "multimedia": {
+    "portada": [
+      "https://ekladata.com/FHAZxEdGuN0F7UExrjNuCT2UzEQ.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=bgnJOwSvMHc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000008",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

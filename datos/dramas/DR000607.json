@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000607",
+  "titulo": "Till I See You",
+  "tituloOriginal": "我要看见你",
+  "alias": [
+    "我要看見你",
+    "Wo Yao Kan Jian Ni"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 20,
+  "estado": "En emisión",
+  "estreno": "2026-09-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Segunda oportunidad",
+    "Discapacidad visual temporal",
+    "Cuidador",
+    "Familia",
+    "Investigación del pasado",
+    "Separación",
+    "Reencuentro",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Song Yi",
+        "Xu Feiyu"
+      ]
+    }
+  ],
+  "sinopsis": "Song Yi, un joven adinerado criado en el extranjero, viaja al norte de China mientras busca respuestas relacionadas con el pasado de su padre. Allí conoce a Xu Feiyu, que se está recuperando de una operación ocular y debe mantener los ojos cubiertos durante su recuperación. Song Yi acaba convirtiéndose temporalmente en su cuidador. Mientras Feiyu aprende a confiar en el hombre cuya cara todavía no puede ver, ambos desarrollan una relación basada en la compañía, la atención y la intimidad. Sin embargo, justo cuando Feiyu está a punto de recuperar la vista, un secreto obliga a Song Yi a desaparecer. Cinco años después, vuelven a encontrarse y deben enfrentarse a todo lo que quedó sin resolver.",
+  "activo": true
+}

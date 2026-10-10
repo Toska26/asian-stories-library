@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000870",
+  "titulo": "Love Mechanics",
+  "tituloOriginal": "กลรักรุ่นพี่",
+  "alias": [
+    "Kon Rak Run Phi",
+    "Love Mechanics: The Series",
+    "En of Love: Love Mechanics"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000006",
+    "orden": 4
+  },
+  "remake": {
+    "codigo": "RM000018",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "55-65 min",
+  "estado": "Finalizado",
+  "estreno": "2022-06-18",
+  "finalizacion": "2022-08-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "Remake",
+    "Adaptación de novela",
+    "Universidad",
+    "Ingeniería",
+    "Amor complicado",
+    "Infidelidad",
+    "Celos",
+    "Triángulo amoroso",
+    "Diferencia de edad",
+    "Primer amor",
+    "Segundas oportunidades"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Vee",
+        "Mark"
+      ]
+    },
+    {
+      "personajes": [
+        "Bar",
+        "Gun"
+      ]
+    }
+  ],
+  "sinopsis": "Mark, un estudiante de primer año de ingeniería, está enamorado de Bar, un alumno de cursos superiores que ya mantiene una relación con Gun. Después de ser rechazado, Mark intenta ahogar sus penas en una noche de fiesta y termina teniendo un encuentro inesperado con Vee, el mejor amigo de Bar. Vee, que lleva tres años saliendo con Ploy, intenta mantener las distancias, pero la atracción y los sentimientos que surgen entre ambos hacen que su relación se vuelva cada vez más complicada. Entre celos, secretos, infidelidades, malentendidos y la aparición de Nuea y del exnovio de Mark, Vee y Mark tendrán que decidir qué quieren realmente y si están dispuestos a luchar por su relación.",
+  "activo": true
+}

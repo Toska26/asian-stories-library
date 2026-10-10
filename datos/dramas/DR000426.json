@@ -1,0 +1,25 @@
+{
+  "codigo": "DR000426",
+  "titulo": "Thư Viện Ký Ức",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webserie",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-11-08",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Recuerdos",
+    "Parejas",
+    "Relaciones"
+  ],
+  "sinopsis": "Antología de historias relacionadas con el amor y las relaciones humanas, que presenta diferentes recuerdos, experiencias y momentos significativos de distintas parejas.",
+  "activo": true
+}

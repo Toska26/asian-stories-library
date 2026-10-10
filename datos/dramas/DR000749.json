@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000749",
+  "titulo": "My Bromance: Reunion",
+  "tituloOriginal": "พี่ชาย",
+  "alias": [
+    "My Bromance Special Episode: Reunion"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2015,
+  "tipo": "Cortometraje",
+  "franquicia": {
+    "codigo": "FR000043",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 9,
+  "estado": "Finalizado",
+  "estreno": "2015-05-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Golf",
+        "Bank"
+      ]
+    }
+  ],
+  "sinopsis": "Los amigos de Golf y Bank se reúnen mientras continúan sus estudios universitarios. Golf sigue vivo, pero sus padres y amigos han decidido hacer creer a Bank que ha muerto para protegerlo de las consecuencias de su relación sentimental.",
+  "activo": true
+}

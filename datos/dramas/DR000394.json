@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000394",
+  "titulo": "That Summer: Reunion",
+  "alias": [
+    "That Summer Reunion"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2026-01-12",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Instituto",
+    "Seminario",
+    "Amistad",
+    "Primer amor",
+    "Deseo",
+    "Identidad",
+    "Autodescubrimiento",
+    "Coming of Age",
+    "BL"
+  ],
+  "sinopsis": "Un seminarista regresa durante su año pastoral a su antiguo colegio masculino para asistir a una reunión de antiguos alumnos. Allí vuelve a encontrarse con el chico que años atrás hizo que la frontera entre la amistad y el deseo comenzara a desdibujarse. El reencuentro obliga a ambos a enfrentarse a sentimientos del pasado, a las decisiones tomadas desde entonces y al proceso de descubrir y aceptar su propia identidad.",
+  "activo": true
+}

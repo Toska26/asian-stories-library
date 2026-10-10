@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000944",
+  "titulo": "A Secretly Love",
+  "tituloOriginal": "ปลื้มคนโปรด",
+  "alias": [
+    "A Secretly Love",
+    "Pluem Khon Prot",
+    "Pluem Phonprot"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Pluem Khonprot",
+    "tituloOriginal": "ปลื้มคนโปรด",
+    "autor": "Avery Pie",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-02-17",
+  "finalizacion": "2024-04-20",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Universitario"
+  ],
+  "tags": [
+    "Adaptación",
+    "Amor secreto",
+    "Friends to lovers"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khonprot",
+        "Pluem"
+      ]
+    }
+  ],
+  "sinopsis": "Khonprot, estudiante de tercer año de ingeniería y jefe de novatos de su facultad, lleva siete años enamorado en secreto de Pluem, su superior de cuarto año. Después de ver cómo Pluem atraviesa una nueva ruptura sentimental, Khonprot empieza a creer que quizá ha llegado su oportunidad para convertirse en la persona favorita de aquel a quien ha amado durante tanto tiempo.",
+  "activo": true
+}

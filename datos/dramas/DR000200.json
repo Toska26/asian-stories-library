@@ -1,0 +1,85 @@
+{
+  "codigo": "DR000200",
+  "titulo": "Love Hurts",
+  "tituloOriginal": "첫사랑니",
+  "alias": [
+    "Love Hurts",
+    "First Love Tooth",
+    "First Wisdom Tooth",
+    "Cheotsarangni"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-08",
+  "finalizacion": "2026-08-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Primer amor",
+    "Reencuentro",
+    "Ruptura",
+    "Ghosting",
+    "Compañeros de clase",
+    "Sentimientos no resueltos",
+    "Confesión",
+    "Dolor emocional"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Jaewon",
+      "persona": "PR000716",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Dojin",
+      "persona": "PR000745",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Jaewon",
+        "Kim Dojin"
+      ]
+    }
+  ],
+  "sinopsis": "Lee Jaewon y Kim Dojin fueron muy cercanos hasta que Jaewon desapareció de la vida de Dojin sin darle una explicación. Un año después, ambos siguen arrastrando las heridas de aquella separación. El reencuentro les obliga a enfrentarse a los sentimientos que quedaron pendientes y a decidir si todavía existe una posibilidad para un amor que nunca terminó de desaparecer.",
+  "entidades": [
+    {
+      "codigo": "EN000143",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

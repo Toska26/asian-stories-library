@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000676",
+  "titulo": "Perfect Propose",
+  "tituloOriginal": "パーフェクトプロポーズ",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Perfect Propose",
+    "tituloOriginal": "パーフェクトプロポーズ",
+    "autor": "Mayo Tsurukame",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2024-02-02",
+  "finalizacion": "2024-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Convivencia",
+    "Amigos de la infancia",
+    "Trabajo",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hirokuni Watari",
+        "Kai Fukaya"
+      ]
+    }
+  ],
+  "sinopsis": "Hirokuni Watari vive agotado por el exceso de trabajo cuando reaparece Kai Fukaya, su amigo de la infancia, después de doce años. Kai necesita un lugar donde vivir y termina instalándose con Hirokuni, cambiando poco a poco la vida de ambos y haciendo que antiguos sentimientos vuelvan a surgir.",
+  "especiales": [
+    {
+      "titulo": "Perfect Propose: Dream Edition",
+      "tituloOriginal": "パーフェクトプロポーズ Dream Edition",
+      "tipo": "Película",
+      "anio": 2024
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,27 @@
+{
+  "codigo": "DR000418",
+  "titulo": "Thập Tứ Cô Nương",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "universo": "UN000013",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Finalizado",
+  "estreno": "2019-02-15",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Crimen",
+    "Mafia",
+    "Venganza",
+    "Familia"
+  ],
+  "sinopsis": "Thập Tứ Cô Nương sigue a una joven vinculada al mundo criminal de Chợ Mới y los conflictos de poder, lealtad y venganza que se desarrollan entre diferentes grupos.",
+  "activo": true
+}

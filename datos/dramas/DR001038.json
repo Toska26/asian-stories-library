@@ -1,0 +1,38 @@
+{
+  "codigo": "DR001038",
+  "titulo": "Love Upon a Time",
+  "tituloOriginal": "ภพเธอ",
+  "alias": [
+    "Love Upon a Time Series",
+    "Phop Thoe"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "ภพเธอ",
+    "tituloOriginal": "ภพเธอ",
+    "autor": "Littlebbear96",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 69,
+  "estado": "Finalizado",
+  "estreno": "2026-03-27",
+  "finalizacion": "2026-06-12",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Fantasía",
+    "BL"
+  ],
+  "sinopsis": "Nakhun, un estudiante universitario de veinte años escéptico ante las supersticiones, ve su vida alterada cuando un acontecimiento inesperado lo transporta casi cuatrocientos años al pasado, hasta el Reino de Ayutthaya. Allí, quienes lo rodean están convencidos de que es Klao, una persona de otra época. Mientras intenta comprender qué ha sucedido y encontrar la forma de regresar a su tiempo, deberá enfrentarse a los sentimientos y vínculos que lo unen a esa vida pasada.",
+  "activo": true
+}

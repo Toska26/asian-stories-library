@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001057",
+  "titulo": "Be My Player Two",
+  "tituloOriginal": "ซอโซ่ล่ามธีร์",
+  "alias": [
+    "Be My Player 2",
+    "So So Lam Thi"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000028",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Gamer Lae Nong Doe Khong Khao",
+    "tituloOriginal": "เกมเมอร์และน้องเด๋อของเขา #ซอโซ่ล่ามธีร์",
+    "autor": "Brave2Y",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "episodios": 10,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2026-07-16",
+  "finalizacion": "2026-09-10",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Deportes electrónicos"
+  ],
+  "tags": [
+    "BL",
+    "Videojuegos",
+    "E-sports",
+    "Streaming",
+    "Rivales a amantes",
+    "Trabajo en equipo",
+    "Competición",
+    "Adaptación literaria",
+    "Mundo digital"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thi",
+        "Zo"
+      ]
+    }
+  ],
+  "sinopsis": "Thi, conocido en internet como Thr33Gamer, es un streamer famoso y competitivo que está acostumbrado a ganar. Durante una retransmisión en directo, un jugador desconocido llamado Derya MK12 consigue derrotarlo y despierta su curiosidad y su orgullo herido. Detrás de ese nombre se encuentra Zo, un jugador novato con mucho talento. Cuando Thi necesita completar su equipo de videojuegos, decide reclutar a su rival. La convivencia y el entrenamiento transforman su enfrentamiento en una alianza inesperada, mientras ambos descubren que confiar el uno en el otro puede ser más difícil —y más importante— que ganar una partida.",
+  "multimedia": {
+    "portada": [
+      "https://static.tvmaze.com/uploads/images/original_untouched/596/1490935.jpg"
+    ]
+  },
+  "activo": true
+}

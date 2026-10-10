@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000592",
+  "titulo": "The Gaze",
+  "tituloOriginal": "当我看向你",
+  "pais": [
+    "HK"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 42,
+  "estado": "Finalizado",
+  "estreno": "2026-05-07",
+  "finalizacion": "2026-06-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Contrato",
+    "Médico",
+    "Tenis",
+    "Rivales",
+    "Protección",
+    "Amor",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhai Qiuyu",
+        "Li Youen"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhou Song",
+        "Gu Hao"
+      ]
+    }
+  ],
+  "sinopsis": "Zhai Qiuyu, una estrella del tenis fría y distante, establece un acuerdo contractual con Li Youen, un joven médico que atraviesa una situación económica complicada. Lo que comienza como una relación basada en un contrato se transforma progresivamente en un vínculo afectivo. Paralelamente, Zhou Song y Gu Hao desarrollan su propia relación romántica.",
+  "activo": true
+}

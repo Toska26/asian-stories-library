@@ -1,0 +1,135 @@
+{
+  "codigo": "DR000224",
+  "titulo": "HIStory5: Love in the Future",
+  "tituloOriginal": "HIStory5 - 遇見未來的你",
+  "alias": [
+    "Love in the Future",
+    "HIStory5: Meet You in the Future"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 9
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 5,
+  "episodios": 20,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2022-12-28",
+  "finalizacion": "2023-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Viaje temporal",
+    "Año 2000",
+    "Futuro",
+    "Oficina",
+    "Diferencia de edad",
+    "Rich Guy VS Poor Guy",
+    "Friends to Lovers",
+    "Destino",
+    "Entorno laboral",
+    "Identidad",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Dai Zhe Ni / Johnny",
+      "persona": "PR000787",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hai Yi",
+      "persona": "PR000788",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liang Wen Sen / Vincent Liang",
+      "persona": "PR000790",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Huai En / Wynn Lin",
+      "persona": "PR000789",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dai Zhe Ni / Johnny",
+        "Hai Yi"
+      ]
+    },
+    {
+      "personajes": [
+        "Lin Huai En / Wynn Lin",
+        "Liang Wen Sen / Vincent Liang"
+      ]
+    }
+  ],
+  "sinopsis": "Ho Bo Wei, un repartidor que vive en el año 2000, sufre un accidente mientras realiza una entrega y viaja inesperadamente veintidós años hacia el futuro. Allí adopta la identidad de Johnny Dai y conoce a Hai Yi, el heredero de una poderosa familia empresarial. Mientras ambos se acercan y descubren sentimientos que desafían sus diferencias y la distancia temporal que los separa, una segunda historia de amor comienza en el mismo entorno empresarial entre el joven Lin Huai En y el gerente Liang Wen Sen.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=9S34OfI3UX0"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=1_KjSjiQnSU&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=2",
+      "https://www.youtube.com/watch?v=IjsSF-c_7Zs&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=3",
+      "https://www.youtube.com/watch?v=hGdKAoKYFs8&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=4",
+      "https://www.youtube.com/watch?v=yqy8II6IZVw&list=PLlFBAZXJjUpqg6EgSmPvnflPidYINgX1u&index=5"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000484",
+  "titulo": "The Sound of Nostalgia",
+  "alias": [
+    "Nếu Nỗi Nhớ Có Âm Thanh",
+    "If Memory Has Sound"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Cortometraje",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2025-04-15",
+  "finalizacion": "2025-04-15",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Cortometraje",
+    "Amor perdido",
+    "Amigos de infancia",
+    "Reencuentro",
+    "Nostalgia",
+    "Memoria",
+    "Trauma",
+    "Amor no correspondido",
+    "Final trágico"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nghiem",
+        "Hai Au"
+      ]
+    }
+  ],
+  "sinopsis": "El día de su boda, Nghiem comienza a perder la percepción de la realidad y termina reencontrándose con Hai Au, un antiguo amigo del instituto con quien comparte un pasado sentimental. Mientras pasan la noche juntos, los recuerdos de su juventud, el amor perdido y las decisiones que los separaron vuelven a ocupar el presente. La historia se desarrolla entre recuerdos, realidad y posibles alucinaciones, dejando abierta la interpretación de lo que realmente ocurrió entre ambos.",
+  "activo": true
+}

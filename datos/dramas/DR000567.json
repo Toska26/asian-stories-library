@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000567",
+  "titulo": "Yu Jun Chang Ge",
+  "tituloOriginal": "与君长歌",
+  "alias": [
+    "Yu Jun Chang Ge",
+    "Sing a Long Song with You"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 42,
+  "estado": "Finalizado",
+  "estreno": "2025-01-16",
+  "finalizacion": "2025-01-16",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Wuxia",
+    "Histórico",
+    "Político"
+  ],
+  "tags": [
+    "Bromance",
+    "Doble protagonista",
+    "Rivales a aliados",
+    "Artes marciales",
+    "Intriga política",
+    "Venganza",
+    "Identidades ocultas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Yan",
+        "Su Ziyuan"
+      ]
+    }
+  ],
+  "sinopsis": "La desaparición del secreto de la inmortalidad del dios marcial Qiansu sume al reino de Dazhou en el caos. Jiang Yan regresa a la corte para investigar lo ocurrido y se cruza con Su Ziyuan, iniciando una relación marcada por la desconfianza, los enfrentamientos y una alianza progresiva frente a las conspiraciones políticas.",
+  "activo": true
+}

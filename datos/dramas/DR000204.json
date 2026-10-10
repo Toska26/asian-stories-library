@@ -1,0 +1,90 @@
+{
+  "codigo": "DR000204",
+  "titulo": "Long-Term Relationship",
+  "tituloOriginal": "장기연애",
+  "alias": [
+    "Long-Term Relationship",
+    "The Long Relationship",
+    "Janggiyeonae"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "9 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-01",
+  "finalizacion": "2026-03-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Exparejas",
+    "Ruptura",
+    "Aplicación de citas",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Identidad oculta",
+    "Relación de larga duración",
+    "Amantes reencontrados"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji-hoon",
+      "persona": "PR000748",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Do-jin",
+      "persona": "PR000749",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji-hoon",
+        "Do-jin"
+      ]
+    }
+  ],
+  "sinopsis": "Ji-hoon y Do-jin mantuvieron una relación durante cinco años hasta que Do-jin decidió terminarla sin explicar el motivo. Un año después, Ji-hoon intenta seguir adelante y recurre a una aplicación de citas para dejar atrás la soledad. Sin embargo, la persona que despierta de nuevo su interés resulta ser precisamente Do-jin. Obligados a fingir que son desconocidos, ambos tendrán que decidir si su relación merece una segunda oportunidad.",
+  "entidades": [
+    {
+      "codigo": "EN000154",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000149",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

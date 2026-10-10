@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000620",
+  "titulo": "What Did You Eat Yesterday?",
+  "tituloOriginal": "きのう何食べた？",
+  "alias": [
+    "Kinou Nani Tabeta?",
+    "What Did You Eat Yesterday?"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000037",
+    "orden": 1
+  },
+  "serie": "SR000620",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2019-04-05",
+  "finalizacion": "2019-06-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Vida cotidiana",
+    "Pareja estable",
+    "Convivencia",
+    "Cocina",
+    "Familia",
+    "Adultos",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kakei Shiro",
+        "Yabuki Kenji"
+      ]
+    },
+    {
+      "personajes": [
+        "Kohinata Daisaku",
+        "Inoue Wataru"
+      ]
+    },
+    {
+      "personajes": [
+        "Honda Tetsuro",
+        "Nagashima Yoshiyuki"
+      ]
+    }
+  ],
+  "sinopsis": "Shiro Kakei es un abogado meticuloso y ahorrador que vive en Tokio junto a su pareja, Kenji Yabuki, un peluquero de carácter mucho más abierto y afectuoso. La vida cotidiana de ambos gira alrededor de su convivencia, la cocina y las pequeñas dificultades que surgen en su relación, mientras también conocen a otras parejas de hombres de distintas generaciones.",
+  "activo": true
+}

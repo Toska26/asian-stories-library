@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000717",
+  "titulo": "Takumi-kun Series 4: Pure",
+  "tituloOriginal": "タクミくんシリーズ4 Pure 〜ピュア〜",
+  "alias": [
+    "Takumi-kun Series 4",
+    "Pure"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2010,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 4
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "79 min",
+  "estado": "Finalizado",
+  "estreno": "2010-12-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Misu Arata",
+        "Shingyoji Kanemitsu"
+      ]
+    },
+    {
+      "personajes": [
+        "Takabayashi Izumi",
+        "Yoshizawa Michio"
+      ]
+    }
+  ],
+  "sinopsis": "La historia se centra principalmente en las relaciones de Misu Arata y Shingyoji Kanemitsu, y de Takabayashi Izumi y Yoshizawa Michio. Los problemas de comunicación y los celos ponen a prueba a ambas parejas.",
+  "activo": true
+}

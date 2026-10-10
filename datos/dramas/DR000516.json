@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000516",
+  "titulo": "Beloved Enemy",
+  "tituloOriginal": "决对争锋",
+  "alias": [
+    "Jue Dui Zheng Feng",
+    "Beloved Enemy - 对决针锋"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Beloved Enemy",
+    "tituloOriginal": "针锋对决",
+    "autor": "Shui Qian Cheng",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2017-08-15",
+  "finalizacion": "2017-11-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Negocios"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gu Qing Pei",
+        "Yuan Yang"
+      ]
+    }
+  ],
+  "sinopsis": "Gu Qing Pei, un ejecutivo brillante, comienza a trabajar para un importante grupo empresarial y recibe el encargo de supervisar a Yuan Yang, el hijo del presidente. El joven, impulsivo y desafiante, se enfrenta constantemente a Gu Qing Pei, pero la rivalidad profesional entre ambos evoluciona hacia una relación mucho más personal.",
+  "activo": true
+}

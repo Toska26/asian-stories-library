@@ -1,0 +1,223 @@
+{
+  "codigo": "DR000009",
+  "titulo": "Until We Meet Again",
+  "tituloOriginal": "ด้ายแดง",
+  "tipo": "Drama",
+  "anio": 2019,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000003",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 17,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2019-11-09",
+  "finalizacion": "2020-03-01",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Pharm",
+      "persona": "PR000054",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dean",
+      "persona": "PR000055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "In",
+      "persona": "PR000056",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Korn",
+      "persona": "PR000057",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Team",
+      "persona": "PR000058",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Win",
+      "persona": "PR000059",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Manow",
+      "persona": "PR000060",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Del",
+      "persona": "PR000061",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pruk",
+      "persona": "PR000062",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Don",
+      "persona": "PR000063",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sin",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sorn",
+      "persona": "PR000065",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alex",
+      "persona": "PR000066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mew",
+      "persona": "PR000067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dej",
+      "persona": "PR000068",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000075",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000012",
+      "personajes": [
+        "Dean",
+        "Pharm"
+      ]
+    },
+    {
+      "ship": "SH000013",
+      "personajes": [
+        "Korn",
+        "In"
+      ]
+    },
+    {
+      "ship": "SH000014",
+      "personajes": [
+        "Win",
+        "Team"
+      ]
+    },
+    {
+      "ship": "SH000015",
+      "personajes": [
+        "Pruk",
+        "Manow"
+      ]
+    },
+    {
+      "ship": "SH000016",
+      "personajes": [
+        "Sin",
+        "Sorn"
+      ]
+    }
+  ],
+  "sinopsis": "Pharm regresa a Tailandia para comenzar una nueva etapa de su vida, pero desde el principio empieza a tener sueños, recuerdos y sensaciones extrañas que parecen estar relacionados con otra vida. Al conocer a Dean, un joven nadador de carácter reservado, ambos sienten una conexión inexplicable que los lleva a descubrir el vínculo entre sus vidas presentes y una historia de amor del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://pimg.1px.tw/pink03049/1578043278-3791294791.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=DlT_e3Eguz8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Until We Meet Again Special"
+    }
+  ],
+  "activo": true
+}

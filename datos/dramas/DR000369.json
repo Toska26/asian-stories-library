@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000369",
+  "titulo": "Clik Clak Clok",
+  "alias": [
+    "Clik Clak Clok The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 18,
+  "estado": "Finalizado",
+  "estreno": "2022-05-03",
+  "finalizacion": "2022-05-12",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Universidad",
+    "Redes sociales",
+    "Baile",
+    "Competición",
+    "Crush",
+    "Celebridad de internet",
+    "Amor online",
+    "De virtual a real"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Anton",
+        "Miguel"
+      ]
+    }
+  ],
+  "sinopsis": "Tras terminar sus exámenes universitarios, Anton recibe un mensaje inesperado de Miguel, el creador de contenido al que admira en secreto. Miguel le propone participar juntos en una competición de baile online. Mientras ensayan y graban contenidos, la distancia entre su relación virtual y sus sentimientos reales comienza a desaparecer.",
+  "activo": true
+}

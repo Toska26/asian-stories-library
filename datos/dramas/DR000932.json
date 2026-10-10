@@ -1,0 +1,73 @@
+{
+  "codigo": "DR000932",
+  "titulo": "Venus in the Sky",
+  "tituloOriginal": "ห้ามฟ้าห่มดาว",
+  "alias": [
+    "Venus in the Sky The Series",
+    "Ham Fa Hom Dao"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2023-09-02",
+  "finalizacion": "2023-11-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Segunda oportunidad",
+    "Amigos de la universidad",
+    "Reencuentro",
+    "Amor no correspondido",
+    "Amor de oficina",
+    "Médicos",
+    "Diseño de interiores",
+    "Familia",
+    "Hermanos",
+    "Celos",
+    "Parejas establecidas",
+    "Vida cotidiana",
+    "Tienda de conveniencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Venus",
+        "Sky"
+      ]
+    },
+    {
+      "personajes": [
+        "Janus",
+        "Bomb"
+      ]
+    },
+    {
+      "personajes": [
+        "Paitong",
+        "Tonkla"
+      ]
+    }
+  ],
+  "sinopsis": "Tres años después de que Sky rechazara su confesión de amor, Venus abandona su trabajo y regresa a su ciudad natal para tomarse un descanso. Mientras ayuda a su hermano Janus en una tienda de conveniencia, comienza a realizar entregas a domicilio y un día se encuentra inesperadamente con Sky, su antiguo amor y ahora médico. El reencuentro abre la puerta a una segunda oportunidad para ambos, mientras las relaciones de Janus y Bomb y de Paitong y Tonkla atraviesan sus propios conflictos.",
+  "especiales": [
+    {
+      "titulo": "Special Episode",
+      "fecha": "2023-11-11",
+      "duracion": 33
+    }
+  ],
+  "activo": true
+}

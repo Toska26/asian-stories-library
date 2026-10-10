@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000947",
+  "titulo": "City of Stars",
+  "tituloOriginal": "เฟื่องนคร",
+  "alias": [
+    "City of Stars",
+    "Fueangnakhon",
+    "Fueang Nakhon",
+    "City of Stars The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "City of Stars",
+    "tituloOriginal": "เฟื่องนคร",
+    "autor": "Jidanun Lueangpiansamut",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-02-02",
+  "finalizacion": "2024-04-19",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Famosos",
+    "Redes sociales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fueangnakhon",
+        "Krom"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "City of Stars — Special Episode",
+      "fecha": "2024-05-10",
+      "tipo": "Especial"
+    }
+  ],
+  "sinopsis": "Fueangnakhon es uno de los actores más populares y controvertidos de Tailandia. Cuando comienza a utilizar una red social cuyo objetivo es difundir únicamente mensajes positivos, su enorme popularidad provoca un crecimiento inesperado de la plataforma. Krom, un empleado tailandés de la empresa que gestiona la aplicación, se ve obligado a regresar a Tailandia y termina encontrándose con el propio Fueangnakhon, que resulta ser su vecino.",
+  "activo": true
+}

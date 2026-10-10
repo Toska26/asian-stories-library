@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001009",
+  "titulo": "Rearrange",
+  "tituloOriginal": "ขอฟังอีกครั้งเพลงรักของเธอ",
+  "alias": [
+    "Rearrange",
+    "ขอฟังอีกครั้ง เพลงรักของเธอ"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2025-08-11",
+  "finalizacion": "2025-10-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Música",
+    "Fantasía"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Segunda oportunidad",
+    "Amistad",
+    "Banda musical",
+    "Instituto",
+    "Destino"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Win",
+        "Nut"
+      ]
+    }
+  ],
+  "sinopsis": "Win, un hombre de 44 años marcado por la muerte de su mejor amigo Nut y por el sueño musical que nunca pudieron cumplir, recibe una segunda oportunidad cuando regresa a la época en que ambos tenían 17 años. Decide formar de nuevo su banda y cambiar el destino de Nut, mientras intenta afrontar unos sentimientos que había mantenido ocultos durante años.",
+  "activo": true
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000575",
+  "titulo": "Blood River",
+  "tituloOriginal": "暗河传",
+  "alias": [
+    "An He Zhuan",
+    "Tales of Dark River"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000021",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Tales of Dark River",
+    "tituloOriginal": "暗河传",
+    "autor": "Zhou Munan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 38,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-10-20",
+  "finalizacion": "2025-11-08",
+  "generos": [
+    "Bromance",
+    "Acción",
+    "Wuxia",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela",
+    "Wuxia",
+    "Asesinos",
+    "Artes marciales",
+    "Intriga",
+    "Universo compartido"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Muyu",
+        "Su Changhe"
+      ]
+    }
+  ],
+  "sinopsis": "Blood River es la organización de asesinos más temida del mundo de las artes marciales. Cuando su patriarca es envenenado, Su Muyu protege al líder durante la búsqueda de una cura mientras los tres clanes que controlan la organización luchan por el poder. Su antigua amistad con Su Changhe se ve sometida a nuevos conflictos y alianzas.",
+  "activo": true
+}

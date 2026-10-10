@@ -1,0 +1,82 @@
+{
+  "codigo": "DR000058",
+  "titulo": "Plan B to U",
+  "tituloOriginal": "จากศัตรูสู่ที่รัก",
+  "alias": [
+    "Jak Sattru Su Teerak"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000058",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 0,
+  "duracion": 0,
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Krit",
+      "persona": "PR000059",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nile",
+      "persona": "PR000058",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000014",
+      "personajes": [
+        "Krit",
+        "Nile"
+      ]
+    }
+  ],
+  "sinopsis": "Nile compra una casa a un precio muy bajo a Krit, director ejecutivo de la discográfica Rabbit Hole, pero pronto descubre que la casa está embrujada. Cuando Krit se niega a cancelar la venta, Nile decide conseguir unas prácticas en su empresa para vengarse. Lo que comienza como un plan de venganza acaba acercando a ambos mientras tienen que enfrentarse a la convivencia, al trabajo y a los fenómenos sobrenaturales de la casa.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/dd/bb/cf/ddbbcf7890b617b675d578bfd465a1ce.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=jpnjz1r8WPA"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=jpnjz1r8WPA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

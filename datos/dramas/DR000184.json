@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000184",
+  "titulo": "Laundry Romance",
+  "tituloOriginal": "런드리 로맨스",
+  "alias": [
+    "Laundry Romance",
+    "Reondeuri Romaenseu"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "UN000006",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-02-05",
+  "finalizacion": "2026-02-26",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "BL",
+    "Slow Burn",
+    "Sanación",
+    "Vida cotidiana",
+    "Lavandería",
+    "Adultos",
+    "Ansiedad",
+    "Desempleo",
+    "Reencuentro emocional"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Jae Min",
+      "persona": "PR000706",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Seok",
+      "persona": "PR000707",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Han Jae Min",
+        "Ji Seok"
+      ]
+    }
+  ],
+  "sinopsis": "Jae Min, un hombre de treinta años desempleado y marcado por una ansiedad constante, encuentra refugio en una lavandería automática durante sus noches de insomnio. Allí conoce a Ji Seok, un hombre de treinta y cuatro años que decidió apartarse voluntariamente de las exigencias de la vida laboral. Entre conversaciones nocturnas, encuentros cotidianos y dos formas muy distintas de afrontar la vida, ambos comienzan a encontrar consuelo y una conexión inesperada. Una historia de romance pausado y sanación emocional ambientada entre el ruido de las lavadoras.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=HNT9KqhnmJc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000621",
+  "titulo": "Ossan's Love The Movie: Love or Dead",
+  "tituloOriginal": "劇場版おっさんずラブ ～LOVE or DEAD～",
+  "alias": [
+    "Ossan's Love: Love or Dead",
+    "Gekijoban Ossan's Love: Love or Dead"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2019,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000034",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 114,
+  "estado": "Finalizado",
+  "estreno": "2019-08-23",
+  "finalizacion": "2019-08-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Oficina",
+    "Triángulo amoroso",
+    "Boda",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruta Soichi",
+        "Maki Ryota"
+      ]
+    }
+  ],
+  "sinopsis": "Haruta Soichi y Maki Ryota intentan continuar su vida en pareja mientras Haruta se ve envuelto nuevamente en una situación sentimental caótica. El regreso de Musashi Kurosawa y la aparición de nuevos personajes ponen a prueba la relación de la pareja.",
+  "activo": true
+}

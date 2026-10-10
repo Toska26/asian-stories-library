@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001060",
+  "titulo": "Love Destiny",
+  "tituloOriginal": "บุพเพสันนิวาส",
+  "alias": [
+    "Bupphesanniwat",
+    "Buppesannivas"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM001060",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Bupphesanniwat",
+    "tituloOriginal": "บุพเพสันนิวาส",
+    "autor": "Rompaeng",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "episodios": 15,
+  "estado": "Finalizado",
+  "estreno": "2018-02-21",
+  "finalizacion": "2018-04-11",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama histórico",
+    "Fantasía",
+    "Viajes en el tiempo"
+  ],
+  "tags": [
+    "Viajes en el tiempo",
+    "Cambio de cuerpo",
+    "Ayutthaya",
+    "Romance histórico",
+    "Reencarnación",
+    "Identidad secreta",
+    "Adaptación literaria",
+    "Tailandia histórica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kadesurang",
+        "Muen Suntorndewa"
+      ]
+    }
+  ],
+  "sinopsis": "Kadesurang, una estudiante de arqueología de la época actual, sufre un accidente y su espíritu despierta en el cuerpo de Karaket, una joven noble de carácter cruel que vivió durante el reino de Ayutthaya en el siglo XVII. Mientras intenta adaptarse a una época desconocida y comprender su nueva identidad, su relación con Muen Suntorndewa evoluciona desde el rechazo hasta el amor. Sus conocimientos del futuro también influirán en las personas y los acontecimientos que la rodean.",
+  "activo": true
+}

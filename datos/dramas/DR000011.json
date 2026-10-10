@@ -1,0 +1,139 @@
+{
+  "codigo": "DR000011",
+  "titulo": "Stay by My Side",
+  "tituloOriginal": "免疫屏蔽",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "universo": "UN000002",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2023-07-07",
+  "finalizacion": "2023-09-01",
+  "generos": [
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Gu Bu-Xia",
+      "persona": "PR000077",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Chi",
+      "persona": "PR000078",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Guo Zheng-Hong",
+      "persona": "PR000081",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Yun-Hao",
+      "persona": "PR000082",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lan Bai-Wei",
+      "persona": "PR000083",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gu Bu-Tao",
+      "persona": "PR000079",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Dai-Han",
+      "persona": "PR000080",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000100",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000103",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000104",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000018",
+      "personajes": [
+        "Gu Bu-Xia",
+        "Jiang Chi"
+      ]
+    }
+  ],
+  "sinopsis": "Gu Bu-Xia, criado en un templo y capaz de escuchar las voces de los fantasmas, comienza a sufrir este extraño fenómeno después de que un accidente debilita la protección espiritual que lo había mantenido a salvo. Cuando Jiang Chi se convierte en su nuevo compañero de habitación, Bu-Xia descubre que las voces desaparecen cuando está cerca de él. Intrigado por esta conexión, comienza a buscar excusas para acercarse a Jiang Chi, mientras ambos van descubriendo poco a poco sus sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000023042370/0/stay_by_my_side.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000019",
+      "funcion": [
+        "Productora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode",
+      "fecha": "2024-05-24"
+    }
+  ],
+  "activo": true
+}

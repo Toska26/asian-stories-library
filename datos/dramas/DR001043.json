@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001043",
+  "titulo": "Wu",
+  "tituloOriginal": "อู",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-05",
+  "finalizacion": "2026-06-30",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Wu Special",
+      "fecha": "2026-04-28"
+    }
+  ],
+  "sinopsis": "Una historia de amor y crecimiento personal en la que los protagonistas deberán enfrentarse a sus propios sentimientos, a las expectativas de quienes los rodean y a las decisiones que pueden cambiar el rumbo de sus vidas.",
+  "activo": true
+}

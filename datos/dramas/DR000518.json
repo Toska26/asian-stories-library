@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000518",
+  "titulo": "The Untamed",
+  "tituloOriginal": "陈情令",
+  "alias": [
+    "Chen Qing Ling",
+    "The Untamed 陈情令"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000033",
+    "orden": 1
+  },
+  "universo": "UN000016",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Mo Dao Zu Shi",
+    "tituloOriginal": "魔道祖师",
+    "autor": "Mo Xiang Tong Xiu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 50,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2019-06-27",
+  "finalizacion": "2019-08-20",
+  "generos": [
+    "BL",
+    "Xianxia",
+    "Fantasía",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Artes marciales"
+  ],
+  "tags": [
+    "BL",
+    "Bromance",
+    "Danmei",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wei Wuxian",
+        "Lan Wangji"
+      ]
+    }
+  ],
+  "sinopsis": "Wei Wuxian, un cultivador de espíritu libre, se reencuentra con Lan Wangji, un cultivador disciplinado de la secta Gusu Lan, dieciséis años después de su supuesta muerte. Juntos investigan una serie de misterios relacionados con acontecimientos del pasado y descubren una conspiración que conecta a varias de las grandes sectas de cultivadores.",
+  "activo": true
+}

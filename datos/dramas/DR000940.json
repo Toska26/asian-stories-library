@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000940",
+  "titulo": "Beside The Sky",
+  "tituloOriginal": "ต้นฟ้าไต้ฝุ่น",
+  "alias": [
+    "South: Beside the Sky",
+    "Fourever You Part 2: Beside the Sky",
+    "Fourever You 2: Beside the Sky"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000047",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "South: Beside the Sky",
+    "tituloOriginal": "ต้นฟ้าไต้ฝุ่น",
+    "autor": "Howlsairy",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2025-12-20",
+  "finalizacion": "2026-02-07",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Universitario"
+  ],
+  "tags": [
+    "Adaptación",
+    "Amigos de la infancia",
+    "Primera historia de amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tonfah",
+        "Typhoon"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Beside The Sky — Special Episode",
+      "estreno": "2026-07-27",
+      "duracion": 59
+    }
+  ],
+  "sinopsis": "Tonfah y Typhoon fueron vecinos y crecieron juntos, pero una dolorosa experiencia familiar provocó que Typhoon se alejara de él. Años después, sus caminos vuelven a cruzarse cuando ambos se encuentran en la universidad. Mientras Typhoon intenta superar las heridas de su pasado y recuperar la confianza en quienes lo rodean, Tonfah permanece a su lado y ambos descubren que los sentimientos que habían quedado atrás pueden convertirse en algo más.",
+  "activo": true
+}

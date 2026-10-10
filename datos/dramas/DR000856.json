@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000856",
+  "titulo": "That's My Candy",
+  "tituloOriginal": "นายแคนดี้ของฉัน",
+  "alias": [
+    "That’s My Candy",
+    "Nai Candy Khong Chan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 44,
+  "estado": "Finalizado",
+  "estreno": "2022-04-24",
+  "finalizacion": "2022-05-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Pareja de larga duración",
+    "Reconciliación",
+    "Magia",
+    "Dulces",
+    "Enfermería",
+    "Universidad",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Guy",
+        "Jing"
+      ]
+    }
+  ],
+  "sinopsis": "Guy y Jing llevan tiempo siendo pareja, pero sus obligaciones hacen que apenas tengan tiempo para estar juntos. Después de una fuerte discusión, Jing decide terminar la relación. Desesperado por recuperar a su novio, Guy busca la ayuda del VJ favorito de Jing y acaba recibiendo un misterioso dulce con poderes mágicos que podría darle una oportunidad para reparar su relación.",
+  "activo": true
+}

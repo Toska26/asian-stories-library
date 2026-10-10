@@ -1,0 +1,122 @@
+{
+  "codigo": "DR000077",
+  "titulo": "Melody of Secrets",
+  "tituloOriginal": "ความลับในบทเพลงที่บรรเลงไม่รู้จบ",
+  "alias": [
+    "Khwam Lap Nai Bot Phleng Thi Banleng Mai Ru Chop"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000077",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-12-05",
+  "finalizacion": "2026-02-13",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Crimen",
+    "Misterio"
+  ],
+  "personas": [
+    {
+      "nombre": "Tankhun",
+      "persona": "PR000516",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Botpleng",
+      "persona": "PR000517",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thanphop",
+      "persona": "PR000529",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Botpleng",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000081",
+      "personajes": [
+        "Tankhun",
+        "Botpleng"
+      ]
+    },
+    {
+      "ship": "SH000089",
+      "personajes": [
+        "Thanphop",
+        "Botpleng"
+      ]
+    }
+  ],
+  "sinopsis": "Botpleng es un joven periodista que ha perdido parte de sus recuerdos tras un accidente. Cuando encuentra un diario que habla de una relación amorosa de su pasado, descubre el nombre de Tankhun, un hombre que supuestamente fue su primer amor. Al reencontrarse con él, Botpleng sospecha que algo no encaja y decide acercarse a Tankhun mientras investiga un misterioso caso de asesinato relacionado con el día en que se conocieron. A medida que salen a la luz secretos, recuerdos e identidades ocultas, ambos vuelven a enfrentarse a unos sentimientos que parecían pertenecer al pasado.",
+  "multimedia": {
+    "portada": [
+      " https://i.pinimg.com/736x/e8/94/ac/e894ac0e5e620e19d0b8e7ced52c8da2.jpg",
+      "https://i.pinimg.com/736x/d8/cd/01/d8cd01ee076318ca4a8e53a288600218.jpg",
+      "https://i.pinimg.com/736x/66/ec/a3/66eca353df653a65f952f1b33116658d.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ouGVE645dXE"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=8E1YTlqyHBE",
+      "https://www.youtube.com/watch?v=LH_50OZn-0g"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

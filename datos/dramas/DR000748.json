@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000748",
+  "titulo": "My Bromance",
+  "tituloOriginal": "พี่ชาย",
+  "alias": [
+    "Phi Chai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2014,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000043",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 118,
+  "estado": "Finalizado",
+  "estreno": "2014-02-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Golf",
+        "Bank"
+      ]
+    }
+  ],
+  "sinopsis": "Golf, un estudiante de instituto de carácter conflictivo, conoce a Bank, el hijo adolescente de la nueva esposa de su padre. Obligados a convivir como hermanastros, ambos desarrollan una relación que va más allá de la fraternidad y deben enfrentarse a la oposición de su familia.",
+  "activo": true
+}

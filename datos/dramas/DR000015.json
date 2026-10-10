@@ -1,0 +1,246 @@
+{
+  "codigo": "DR000015",
+  "titulo": "Love in the Air",
+  "tituloOriginal": "บรรยากาศรัก เดอะซีรีส์",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "universo": "UN000001",
+  "remake": {
+    "codigo": "RM000015",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2022-08-18",
+  "finalizacion": "2022-11-10",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Phayu",
+      "persona": "PR000108",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rain",
+      "persona": "PR000109",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Prapai",
+      "persona": "PR000110",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sky",
+      "persona": "PR000111",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sig",
+      "persona": "PR000112",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Por",
+      "persona": "PR000113",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Saifah",
+      "persona": "PR000114",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ple",
+      "persona": "PR000115",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Som",
+      "persona": "PR000116",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Plerng",
+      "persona": "PR000117",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Stop",
+      "persona": "PR000118",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gun",
+      "persona": "PR000119",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phan",
+      "persona": "PR000120",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bas",
+      "persona": "PR000121",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Petch",
+      "persona": "PR000122",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aon",
+      "persona": "PR000123",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nui",
+      "persona": "PR000124",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Joy",
+      "persona": "PR000125",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000134",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000022",
+      "personajes": [
+        "Phayu",
+        "Rain"
+      ]
+    },
+    {
+      "ship": "SH000023",
+      "personajes": [
+        "Prapai",
+        "Sky"
+      ]
+    }
+  ],
+  "sinopsis": "Rain, un estudiante universitario, se ve involucrado en un encuentro con Phayu, un hombre que despierta inmediatamente su interés y que pronto se convierte en una presencia constante en su vida. Paralelamente, su amigo Sky conoce a Prapai, iniciándose entre ellos una relación marcada por la atracción, los conflictos y los sentimientos cada vez más profundos.",
+  "multimedia": {
+    "portada": [
+      "https://images.plex.tv/photo?scale=2&size=large-720&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsPL95QpwujQnPlY7ZATqMYgZn1j.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=HTTVO7IMVf0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000011",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Special",
+      "fecha": "2022-11-26"
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000301",
+  "titulo": "Truly Very Yours",
+  "alias": [
+    "Truly Very Yours: A Homemade Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000025",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 9,
+  "estado": "Finalizado",
+  "estreno": "2020-06-07",
+  "finalizacion": "2020-07-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mark",
+        "David"
+      ]
+    }
+  ],
+  "sinopsis": "Mark, un aspirante a guionista atrapado en la rutina del confinamiento, realiza una llamada de broma que vuelve a poner en su vida a David, alguien con quien había dejado asuntos pendientes. Mientras intenta aclarar el malentendido, Mark descubre que entre ambos todavía pueden existir sentimientos y se enfrenta también a la insistencia de Kevin, que quiere iniciar una relación con él.",
+  "activo": true
+}

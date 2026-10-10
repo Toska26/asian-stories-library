@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000645",
+  "titulo": "I Just Want to See You",
+  "tituloOriginal": "君のことだけ見ていたい",
+  "alias": [
+    "Kimi no Koto Dake Mite Itai"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Just Want to See You",
+    "tituloOriginal": "君のことだけ見ていたい",
+    "autor": "Janome",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2022-06-17",
+  "finalizacion": "2022-06-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Primer amor",
+    "Amor no correspondido",
+    "Juventud",
+    "Coming of age"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Asakura Sakura",
+        "Nagase Yuma"
+      ]
+    }
+  ],
+  "sinopsis": "Asakura Sakura y Nagase Yuma son amigos de la infancia y han estado juntos desde la escuela primaria. Durante su último verano de instituto, Sakura decide confesar sus sentimientos a Yuma, que poco a poco empieza a darse cuenta de lo que siente por su amigo. Entre dudas, amistad y sentimientos que habían permanecido ocultos durante años, ambos se enfrentan a su primer amor.",
+  "activo": true
+}

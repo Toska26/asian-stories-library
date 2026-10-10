@@ -1,0 +1,133 @@
+{
+  "codigo": "DR000060",
+  "titulo": "Moonlight Chicken",
+  "tituloOriginal": "พระจันทร์มันไก่",
+  "alias": [
+    "Midnight Series: Moonlight Chicken"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000060",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2023-02-08",
+  "finalizacion": "2023-03-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Jim",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wen",
+      "persona": "PR000514",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alan",
+      "persona": "PR000388",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gaipa",
+      "persona": "PR000017",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Heart",
+      "persona": "PR000522",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Ming",
+      "persona": "PR000523",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000079",
+      "personajes": [
+        "Jim",
+        "Wen"
+      ]
+    },
+    {
+      "ship": "SH000068",
+      "personajes": [
+        "Alan",
+        "Gaipa"
+      ]
+    },
+    {
+      "ship": "SH000084",
+      "personajes": [
+        "Heart",
+        "Li Ming"
+      ]
+    }
+  ],
+  "sinopsis": "Jim, propietario de un pequeño restaurante de arroz con pollo, conoce una noche a Wen, un cliente que llega al local después de beber. Lo que debía ser un encuentro de una sola noche acaba dando paso a una relación que obliga a ambos a replantearse sus vidas. Paralelamente, Li Ming, el sobrino de Jim, comienza a acercarse a Heart, un compañero de clase con discapacidad auditiva, mientras las relaciones del entorno del restaurante se cruzan con problemas familiares, económicos y personales.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/cc/19/9f/cc199f6c018610d195126374bb1bdc4a.jpg",
+      "https://i.pinimg.com/736x/ae/cd/7b/aecd7b0f8bb71b7dc5f600ddc2478a50.jpg",
+      "https://i.pinimg.com/1200x/75/5a/54/755a5470dc932a50e65e5424add69662.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ug1kDpXvzg8"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=FlEkwF0EPv4"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=BIaX7YjJkzU",
+      "https://www.youtube.com/watch?v=0INmj1L9qEM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

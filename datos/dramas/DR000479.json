@@ -1,0 +1,34 @@
+{
+  "codigo": "DR000479",
+  "titulo": "Life Gives Us Sadness",
+  "alias": [
+    "Đời cho ta những nỗi buồn"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2025-05-30",
+  "finalizacion": "2025-06-06",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Drama corto",
+    "Amor",
+    "Dolor",
+    "Relaciones",
+    "Emocional",
+    "Juventud"
+  ],
+  "sinopsis": "Una historia breve e íntima sobre el amor y las heridas emocionales que pueden quedar cuando una relación llega a un momento difícil. A través de sus dos episodios, la serie explora los sentimientos, las pérdidas y las decisiones que acompañan a una relación entre dos hombres.",
+  "activo": true
+}

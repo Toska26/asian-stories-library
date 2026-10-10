@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000951",
+  "titulo": "Wandee Goodday",
+  "tituloOriginal": "วันดีวิทยา",
+  "alias": [
+    "Wandee Goodday",
+    "Wandee Wittaya",
+    "Wandee Good Day"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Wandee Wittaya",
+    "tituloOriginal": "วันดีวิทยา",
+    "autor": "Nottakorn",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 49,
+  "estado": "Finalizado",
+  "estreno": "2024-05-04",
+  "finalizacion": "2024-07-20",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Friends with benefits",
+    "Muay Thai",
+    "Médicos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wandee",
+        "Yoryak"
+      ]
+    }
+  ],
+  "sinopsis": "Wandee es un médico que, después de una dolorosa ruptura, decide dejar atrás su imagen de hombre perfecto. Una noche conoce a Yoryak, un boxeador de Muay Thai, y ambos terminan iniciando una relación sin compromiso. Lo que comienza como un acuerdo de amigos con beneficios se complica cuando los sentimientos entre ellos empiezan a hacerse cada vez más profundos.",
+  "activo": true
+}

@@ -1,0 +1,66 @@
+{
+  "codigo": "DR000917",
+  "titulo": "Only Friends: Dream On",
+  "tituloOriginal": "โอนลีเฟรนด์ : ดรีมออน",
+  "alias": [
+    "Only Friends Dream On",
+    "Only Friends: Dream On The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000045",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2026-02-27",
+  "finalizacion": "2026-05-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Universidad",
+    "Teatro",
+    "Amistad",
+    "Relaciones",
+    "Exparejas",
+    "Celos",
+    "Secretos",
+    "Sueños",
+    "Adaptación teatral",
+    "Romeo y Julieta"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jack",
+        "Dean"
+      ]
+    },
+    {
+      "personajes": [
+        "Arnold",
+        "Tua"
+      ]
+    },
+    {
+      "personajes": [
+        "Rome",
+        "Raffy"
+      ]
+    }
+  ],
+  "sinopsis": "Jack dirige una producción teatral universitaria basada en una reinterpretación de Romeo y Julieta protagonizada por dos hombres. Su exnovio Dean obtiene uno de los papeles principales, mientras que Raffy compite por el papel de Romeo y continúa teniendo sentimientos por Jack. Paralelamente, Arnold y Tua se acercan mientras trabajan en la producción, y Rome desarrolla una relación cada vez más cercana con Raffy. La historia recupera además a algunos personajes de Only Friends, conectando ambas producciones dentro de la misma franquicia.",
+  "activo": true
+}

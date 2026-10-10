@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000370",
+  "titulo": "Make a Wish",
+  "alias": [
+    "Make a Wish the Series",
+    "Make a Wish: The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": 29,
+  "estado": "Finalizado",
+  "estreno": "2022-04-04",
+  "finalizacion": "2022-06-03",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amor",
+    "Aceptación",
+    "Pasado",
+    "Superación",
+    "Segundas oportunidades",
+    "Extraños",
+    "Sanación emocional",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Isko",
+        "Alexeuz"
+      ]
+    }
+  ],
+  "sinopsis": "Isko es una persona sencilla que solo desea ser querido y aceptado, pero su pasado y el miedo al juicio de los demás le impiden avanzar. La aparición inesperada de Alexeuz cambia su forma de ver la vida y se convierte en el punto de partida de un proceso de descubrimiento, aceptación y nuevos sentimientos.",
+  "activo": true
+}

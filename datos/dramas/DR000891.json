@@ -1,0 +1,93 @@
+{
+  "codigo": "DR000891",
+  "titulo": "609 Bedtime Story",
+  "tituloOriginal": "เบดไทม์สตอรี่",
+  "alias": [
+    "609 Bedtime Story The Series",
+    "609 Bedtime Story"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "609 Bedtime Story",
+    "tituloOriginal": "609 Bedtime Story",
+    "autor": "Saoyrampun",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 11,
+  "estado": "Finalizado",
+  "estreno": "2022-12-02",
+  "finalizacion": "2023-02-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Universos paralelos",
+    "Viaje entre universos",
+    "Líneas temporales",
+    "Tiempo invertido",
+    "Habitación 609",
+    "Misterio",
+    "Asesinato",
+    "Investigación",
+    "Destino",
+    "Amor prohibido",
+    "Triángulo amoroso",
+    "Amigos a amantes",
+    "Relación secreta",
+    "Segundas oportunidades",
+    "Realidades alternativas",
+    "Final alternativo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mum",
+        "Dew"
+      ]
+    },
+    {
+      "personajes": [
+        "Games",
+        "Vee"
+      ]
+    },
+    {
+      "personajes": [
+        "Dew",
+        "Mint"
+      ]
+    },
+    {
+      "personajes": [
+        "Vee",
+        "A"
+      ]
+    }
+  ],
+  "sinopsis": "Mum, un joven propietario de un apartamento, comienza a encontrarse en sus sueños con Dew, un hombre procedente de un universo paralelo en el que el tiempo transcurre en sentido inverso. A medida que ambos mundos comienzan a entrelazarse, Mum se ve atrapado en un misterio relacionado con Dew, sus relaciones y una serie de acontecimientos que parecen conectados entre las distintas realidades. Mientras intenta descubrir qué está ocurriendo, sus sentimientos por Dew se hacen cada vez más profundos y deberá enfrentarse a las consecuencias de sus decisiones y a las diferencias entre ambos universos.",
+  "especiales": [
+    {
+      "titulo": "Dream On",
+      "tituloOriginal": "Dream On",
+      "tipo": "Final alternativo",
+      "anio": 2023,
+      "episodios": 1,
+      "estreno": "2023-02-10"
+    }
+  ],
+  "activo": true
+}

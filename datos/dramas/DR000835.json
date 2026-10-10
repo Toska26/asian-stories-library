@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000835",
+  "titulo": "The Best Story",
+  "tituloOriginal": "ครั้งหนึ่งที่รัก",
+  "alias": [
+    "The Best Story",
+    "The Best Story The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": "33-49 min",
+  "estado": "Finalizado",
+  "estreno": "2021-07-09",
+  "finalizacion": "2021-07-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Coming of Age"
+  ],
+  "tags": [
+    "Instituto",
+    "Amor secreto",
+    "Amor no correspondido",
+    "Música",
+    "Guitarra",
+    "Amistad",
+    "Celos",
+    "Primer amor",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dew",
+        "Best"
+      ]
+    }
+  ],
+  "sinopsis": "Best, un estudiante tímido que suele sentirse como un fracasado, se enamora de Dew, un compañero popular y músico. Incapaz de confesar directamente sus sentimientos, Best comienza a escribir una canción para expresar lo que siente. Mientras el curso escolar llega a su fin, deberá decidir si finalmente se atreve a contarle a Dew la verdad sobre su amor.",
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000328",
+  "titulo": "Pay-Ibig",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "estado": "Finalizado",
+  "estreno": "2021-12-08",
+  "finalizacion": "2021-12-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Triángulo amoroso",
+    "Amor",
+    "Dinero",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Doins",
+        "Nathan"
+      ]
+    },
+    {
+      "personajes": [
+        "Doins",
+        "Carl"
+      ]
+    }
+  ],
+  "sinopsis": "Doins está dispuesto a hacer cualquier cosa por Nathan, con quien mantiene una relación marcada por el amor y las dificultades económicas. Sin embargo, la aparición de Carl hace que Doins empiece a cuestionar sus sentimientos. Entre el amor, la necesidad y las decisiones difíciles, los tres quedan atrapados en un complejo triángulo sentimental.",
+  "activo": true
+}

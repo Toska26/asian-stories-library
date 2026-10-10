@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000541",
+  "titulo": "My Enemy Has a Crush on Me",
+  "tituloOriginal": "我的死对头暗恋我",
+  "alias": [
+    "Wo De Si Dui Tou An Lian Wo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 19,
+  "estado": "Finalizado",
+  "estreno": "2025-02-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Rivales",
+    "Enemigos a amantes",
+    "Vertical",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fu Ci",
+        "Jiang Nai"
+      ]
+    }
+  ],
+  "sinopsis": "Fu Ci y Jiang Nai han sido rivales desde hace años. Su relación cambia cuando vuelven a encontrarse y descubren que detrás de su enfrentamiento existe una atracción que ninguno de los dos había querido reconocer.",
+  "activo": true
+}

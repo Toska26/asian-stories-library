@@ -1,0 +1,285 @@
+{
+  "codigo": "DR000023",
+  "titulo": "Love by Chance 2: A Chance to Love",
+  "tituloOriginal": "รักนี้บังเอิญคือคุณ 2: โอกาสที่จะได้รัก",
+  "alias": [
+    "Love by Chance 2",
+    "A Chance to Love"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000008",
+    "orden": 2
+  },
+  "universo": "UN000001",
+  "serie": "SR000022",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2020-09-02",
+  "finalizacion": "2020-11-18",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tin",
+      "persona": "PR000066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Can",
+      "persona": "PR000193",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ae",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Techno",
+      "persona": "PR000194",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kengkla",
+      "persona": "PR000195",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tum",
+      "persona": "PR000196",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tar",
+      "persona": "PR000056",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pond",
+      "persona": "PR000067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bow",
+      "persona": "PR000060",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Good",
+      "persona": "PR000068",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Technic",
+      "persona": "PR000203",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Keen",
+      "persona": "PR000214",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tul",
+      "persona": "PR000210",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gonhin",
+      "persona": "PR000211",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Job",
+      "persona": "PR000212",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lemon",
+      "persona": "PR000207",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chompoo",
+      "persona": "PR000206",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Champ",
+      "persona": "PR000215",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mai",
+      "persona": "PR000213",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Can",
+      "persona": "PR000199",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madre de Ae",
+      "persona": "PR000209",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pete",
+      "persona": "PR000192",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000075",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000035",
+      "personajes": [
+        "Tin",
+        "Can"
+      ]
+    },
+    {
+      "ship": "SH000036",
+      "personajes": [
+        "Kengkla",
+        "Techno"
+      ]
+    },
+    {
+      "ship": "SH000037",
+      "personajes": [
+        "Tum",
+        "Tar"
+      ]
+    },
+    {
+      "ship": "SH000038",
+      "personajes": [
+        "Tul",
+        "Gonhin"
+      ]
+    }
+  ],
+  "sinopsis": "Después de la marcha de Pete, Ae se encuentra profundamente afectado por la ruptura y lucha por continuar con su vida. Mientras tanto, Tin y Can comienzan una relación complicada: Tin está decidido a acercarse a Can, pero las diferencias entre sus personalidades y sus respectivos mundos harán que el camino no sea sencillo. Can tendrá que descubrir qué significa realmente estar enamorado y aprender a aceptar sus propios sentimientos. Paralelamente, Techno intenta afrontar las consecuencias de su relación con Kengkla, mientras Tum y Tar continúan enfrentándose a sus propios conflictos. La llegada de nuevos personajes, entre ellos Tul y Gonhin, ampliará las historias familiares y sentimentales que rodean a los protagonistas.",
+  "multimedia": {
+    "portada": [
+      "https://images.justwatch.com/poster/327079595/s718/Staffel-2.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=QINXcSbUZAA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000010",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

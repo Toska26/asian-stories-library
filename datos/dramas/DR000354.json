@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000354",
+  "titulo": "BO:SO",
+  "alias": [
+    "BO:SO: The First Awakening",
+    "BOSO",
+    "BO:SO The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "universo": "UN000010",
+  "serie": "SR000350",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2021-08-12",
+  "finalizacion": "2021-10-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Pandemia",
+    "Cuarentena",
+    "Familia",
+    "Deseo",
+    "Relaciones prohibidas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bobet",
+        "Celso"
+      ]
+    }
+  ],
+  "sinopsis": "Durante la pandemia, Bobet y Celso, hermanastros unidos por un vínculo familiar muy estrecho, quedan atrapados en una situación que pone a prueba sus relaciones y sus deseos. El confinamiento les obliga a enfrentarse a sentimientos y secretos que habían permanecido ocultos.",
+  "activo": true
+}

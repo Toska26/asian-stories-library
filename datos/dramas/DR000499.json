@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000499",
+  "titulo": "I'm a Fool for You",
+  "tituloOriginal": "那個傻的 請一直傻下去",
+  "alias": [
+    "I’m a Fool for You Season 1",
+    "那個傻的 請一直傻下去 第一季"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000499",
+  "temporadas": 4,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 8,
+  "estado": "Finalizado",
+  "estreno": "2021-01-14",
+  "finalizacion": "2021-02-25",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Romance",
+    "Amistad",
+    "Juventud",
+    "Relaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hin",
+        "Yiu"
+      ]
+    }
+  ],
+  "sinopsis": "Primera temporada de la serie, en la que se presentan sus protagonistas y las relaciones sentimentales que se desarrollarán a lo largo de las temporadas posteriores.",
+  "activo": true
+}

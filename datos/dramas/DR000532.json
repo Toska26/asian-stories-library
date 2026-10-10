@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000532",
+  "titulo": "Stay With Me",
+  "tituloOriginal": "哥哥你别跑",
+  "alias": [
+    "Ge Ge Ni Bie Pao",
+    "San Xiao Wu Cai",
+    "三小无猜",
+    "Innocent Playmates"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000509",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Are You Addicted?",
+    "tituloOriginal": "你丫上瘾了",
+    "autor": "Chai Jidan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2023-07-07",
+  "finalizacion": "2023-08-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Drama",
+    "Escolar",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Remake",
+    "Addicted"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Yu",
+        "Wu Bi"
+      ]
+    }
+  ],
+  "sinopsis": "Su Yu lleva una vida sencilla junto a su padre hasta que su madre se casa con un hombre rico y Wu Bi, el hijo de este, se convierte inesperadamente en su hermanastro y compañero de clase. Sus personalidades opuestas provocan constantes enfrentamientos, pero la convivencia hace que su relación se transforme progresivamente en un vínculo mucho más profundo.",
+  "activo": true
+}

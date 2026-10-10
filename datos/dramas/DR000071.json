@@ -1,0 +1,129 @@
+{
+  "codigo": "DR000071",
+  "titulo": "Never Let Me Go",
+  "tituloOriginal": "เพื่อนายแค่หนึ่งเดียว",
+  "alias": [
+    "Phuea Nai Khae Nueng Diao"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000071",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 53,
+  "estado": "Finalizado",
+  "estreno": "2022-12-13",
+  "finalizacion": "2023-02-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Palm",
+      "persona": "PR000515",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nuengdiao",
+      "persona": "PR000284",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chopper",
+      "persona": "PR000191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ben",
+      "persona": "PR000548",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000080",
+      "personajes": [
+        "Palm",
+        "Nuengdiao"
+      ]
+    },
+    {
+      "ship": "SH000101",
+      "personajes": [
+        "Chopper",
+        "Ben"
+      ]
+    }
+  ],
+  "sinopsis": "Nuengdiao es el heredero de una familia poderosa cuya vida cambia cuando su padre es asesinado. Para protegerlo, Palm, hijo de un empleado de confianza de la familia, se convierte en su guardaespaldas. Mientras ambos afrontan amenazas y conflictos familiares, la relación entre ellos evoluciona de la protección y la amistad hacia el amor. Paralelamente, Chopper y Ben desarrollan su propia historia mientras se enfrentan a los problemas de sus respectivas familias.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/f1/de/85/f1de850015bb6e377b8c8330ea00878b.jpg",
+      "https://i.pinimg.com/736x/74/05/9e/74059ea8aff473735a0f37841e7785c0.jpg",
+      "https://i.pinimg.com/1200x/b3/82/6e/b3826e8f88df9e048b731c0390092886.jpg",
+      "https://i.pinimg.com/1200x/14/7c/1f/147c1f4b88a6db6a6e4c71560ddaa26b.jpg",
+      "https://i.imgur.com/rdPMFaZ.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=p8AwJVKAJAM"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=Bzx89phzpek",
+      "https://www.youtube.com/watch?v=E_iHxCqX_vE"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — Never Let Me Go",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: Never Let Me Go"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-04-19"
+    }
+  ],
+  "activo": true
+}

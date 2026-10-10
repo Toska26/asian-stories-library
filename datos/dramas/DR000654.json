@@ -1,0 +1,65 @@
+{
+  "codigo": "DR000654",
+  "titulo": "Eternal Yesterday",
+  "tituloOriginal": "永遠の昨日",
+  "alias": [
+    "Eien no Kinō",
+    "Eien no Kinou"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Eternal Yesterday",
+    "tituloOriginal": "永遠の昨日",
+    "autor": "Yuri Enokida",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2022-10-21",
+  "finalizacion": "2022-12-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Amigos de clase",
+    "Sobrenatural",
+    "Duelo",
+    "Muerte",
+    "Amor eterno",
+    "Tragedia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yamada Koichi",
+        "Oumi Mitsuru"
+      ]
+    }
+  ],
+  "sinopsis": "Yamada Koichi es un estudiante alegre y popular, mientras que Oumi Mitsuru es reservado y tiene dificultades para relacionarse con los demás. Los dos se sienten atraídos pese a sus diferencias, pero una mañana Koichi es atropellado delante de Mitsuru. Aunque parece seguir con vida, poco a poco las personas a su alrededor comienzan a olvidar que existe.",
+  "especiales": [
+    {
+      "titulo": "Eternal Yesterday: Complete Edition",
+      "tipo": "Versión completa",
+      "anio": 2023,
+      "episodios": 8
+    }
+  ],
+  "activo": true
+}

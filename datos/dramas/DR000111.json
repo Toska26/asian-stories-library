@@ -1,0 +1,99 @@
+{
+  "codigo": "DR000111",
+  "titulo": "Light on Me",
+  "tituloOriginal": "새빛남고 학생회",
+  "alias": [
+    "Light on Me",
+    "Saebit Boys High School Council",
+    "Saebitnamgo Haksaenghoe"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000111",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": "19 min",
+  "estado": "Finalizado",
+  "estreno": "2021-06-29",
+  "finalizacion": "2021-08-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Consejo estudiantil",
+    "Triángulo amoroso",
+    "Amistad",
+    "Primer amor",
+    "Competición"
+  ],
+  "personas": [
+    {
+      "nombre": "Woo Tae Kyung",
+      "persona": "PR000579",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Noh Shin Woo",
+      "persona": "PR000580",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Woo Tae Kyung",
+        "Noh Shin Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Woo Tae Kyung es un estudiante de secundaria que siempre ha tenido dificultades para hacer amigos. Al entrar en el consejo estudiantil de Saebit High School conoce a Noh Shin Woo, Shin Da On y Nam Gung On. Las nuevas amistades y los sentimientos que surgen dentro del grupo hacen que Tae Kyung descubra poco a poco qué significa enamorarse.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/6b/86/d2/6b86d2a3fd641a68d3944a492913ca94.jpg",
+      "https://i.pinimg.com/1200x/5d/85/9d/5d859d7a470e5ba5c02d34eed330bc3f.jpg",
+      "https://i.pinimg.com/736x/dd/97/32/dd97322fb3abf7f9d8957dec21cdc24d.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Hr1seS7XmgI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000071",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000029",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000734",
+  "titulo": "My Summer of You",
+  "tituloOriginal": "君は夏のなか",
+  "alias": [
+    "Kimi wa Natsu no Naka"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-06-24",
+  "finalizacion": "2026-09-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Escolar",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Toda Wataru",
+        "Saeki Chiharu"
+      ]
+    }
+  ],
+  "sinopsis": "Wataru Toda y Chiharu Saeki son dos estudiantes de instituto unidos por su pasión por el cine. Una excursión de verano a distintos lugares relacionados con sus películas favoritas hace que su amistad se transforme gradualmente cuando Chiharu confiesa sus sentimientos románticos.",
+  "activo": true
+}

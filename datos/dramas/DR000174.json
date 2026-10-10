@@ -1,0 +1,97 @@
+{
+  "codigo": "DR000174",
+  "titulo": "Peach Trap",
+  "tituloOriginal": "복숭아 꽃이 피었습니다",
+  "alias": [
+    "Peach Trap",
+    "Peach Blossoms Bloomed",
+    "Boksunga Kkoti Pieotseumnida"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2025-11-06",
+  "finalizacion": "2025-11-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Cuadrado amoroso",
+    "Primer amor",
+    "Romance",
+    "Comedia romántica",
+    "Amigos a amantes",
+    "Señales de amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Su-bin",
+      "persona": "PR000701",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Se-jin",
+      "persona": "PR000702",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoo Do-ha",
+        "Taek Gyeon"
+      ]
+    }
+  ],
+  "sinopsis": "Yoo Do-ha es un joven que nunca ha tenido una relación y que se encuentra en el momento más complicado de su vida cuando tres hombres comienzan a acercarse a él al mismo tiempo. Cada uno muestra sus propios sentimientos y Do-ha queda atrapado en una confusa tormenta de señales amorosas. Entre encuentros, malentendidos y primeros sentimientos, deberá descubrir hacia quién quiere dirigir finalmente su corazón.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=fEi8VfZwlVc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000137",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

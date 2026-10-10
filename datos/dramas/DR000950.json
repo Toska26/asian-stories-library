@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000950",
+  "titulo": "Only Boo!",
+  "tituloOriginal": "แค่ที่แกง",
+  "alias": [
+    "Only Boo!",
+    "Khae Thi Kaeng"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Khae Thi Kaeng",
+    "tituloOriginal": "แค่ที่แกง",
+    "autor": "peachhplease",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2024-03-31",
+  "finalizacion": "2024-06-23",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación",
+    "Idols",
+    "Instituto",
+    "Amor juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Moo",
+        "Kang"
+      ]
+    }
+  ],
+  "sinopsis": "Moo sueña con convertirse en idol y está decidido a aprovechar cualquier oportunidad para alcanzar su objetivo. En el colegio conoce a Kang, un joven que trabaja en el puesto de comida de su madre. Lo que comienza como una amistad se transforma en una relación amorosa, pero el camino hacia el debut de Moo incluye una regla que amenaza directamente su romance: los idols de la agencia no pueden tener pareja.",
+  "activo": true
+}

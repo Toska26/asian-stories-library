@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000610",
+  "titulo": "Ossan's Love",
+  "tituloOriginal": "おっさんずラブ",
+  "alias": [
+    "Ossan's Love (2016)",
+    "Ossan's Love Special",
+    "Ossan's Love - Special"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2016,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000034",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2016-12-30",
+  "finalizacion": "2016-12-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Triángulo amoroso",
+    "Oficina",
+    "Compañeros de trabajo",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruta Soichi",
+        "Hasegawa Yukiya"
+      ]
+    }
+  ],
+  "sinopsis": "Haruta Soichi es un empleado de oficina de 33 años que desea encontrar una pareja, pero no tiene demasiado éxito en el amor. Un día descubre que su jefe, Kurosawa Musashi, guarda fotografías suyas y, poco después, recibe una inesperada confesión de amor. Mientras intenta asimilar la situación, su compañero de piso y compañero de trabajo Hasegawa Yukiya también le revela sus sentimientos. Haruta se encuentra así en medio de un inesperado triángulo amoroso.",
+  "activo": true
+}

@@ -1,0 +1,24 @@
+{
+  "codigo": "DR000416",
+  "titulo": "Bà 5 Bống Phần 2",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "Webdrama",
+  "serie": "SR000415",
+  "temporadas": 2,
+  "temporada": 2,
+  "estado": "Finalizado",
+  "estreno": "2019-08-02",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Familia",
+    "Humor"
+  ],
+  "sinopsis": "Segunda parte de Bà 5 Bống, que continúa las historias y situaciones familiares alrededor de sus personajes.",
+  "activo": true
+}

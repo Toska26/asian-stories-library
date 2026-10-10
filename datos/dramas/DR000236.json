@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000236",
+  "titulo": "See You After Quarantine?",
+  "tituloOriginal": "隔離後見個面，好嗎？",
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "7-12 min",
+  "estado": "Finalizado",
+  "estreno": "2021-09-17",
+  "finalizacion": "2022-06-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Cuarentena",
+    "Relación a distancia",
+    "Internet",
+    "Mensajes",
+    "Primer encuentro",
+    "Romance virtual"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sato Itsuki",
+        "Chen Bo Chun"
+      ]
+    }
+  ],
+  "sinopsis": "Sato Itsuki y Chen Bo Chun se conocen a través de internet durante el periodo de cuarentena. Lo que comienza como una conversación casual se convierte poco a poco en una relación romántica mientras las restricciones les impiden encontrarse personalmente.",
+  "activo": true
+}

@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000478",
+  "titulo": "I Have a Little Story",
+  "alias": [
+    "Tôi Có 1 Câu Chuyện Nhỏ"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2025-04-26",
+  "finalizacion": "2026-01-17",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Healing",
+    "Slow Burn",
+    "Friends to Lovers",
+    "Cuaderno",
+    "Amistad",
+    "Vida cotidiana",
+    "Amor juvenil",
+    "Vulnerabilidad",
+    "Vietnam rural"
+  ],
+  "sinopsis": "En un entorno tranquilo de la provincia vietnamita, dos jóvenes con personalidades muy diferentes comienzan a acercarse después de que uno de ellos descubre accidentalmente un pequeño cuaderno donde el otro guarda sus pensamientos, dudas y sentimientos secretos. Las conversaciones nocturnas, los paseos en bicicleta y la convivencia cotidiana hacen que su amistad evolucione poco a poco hacia algo más profundo. Mientras afrontan los prejuicios de quienes los rodean y sus propias inseguridades, deberán decidir si tienen el valor de escribir juntos el resto de su pequeña historia.",
+  "activo": true
+}

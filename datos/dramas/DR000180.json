@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000180",
+  "titulo": "Cross Link",
+  "tituloOriginal": "크로스 링크",
+  "alias": [
+    "Cross Link",
+    "Keuroseu Ringkeu"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000179",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 2,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2026-01-08",
+  "finalizacion": "2026-01-15",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Pareja estable",
+    "Primera aniversario",
+    "Relación a distancia",
+    "Trabajo en el extranjero",
+    "Crisis de pareja",
+    "Accidente",
+    "Suspense",
+    "Protección mutua",
+    "Angustia",
+    "Amor adulto"
+  ],
+  "personas": [
+    {
+      "nombre": "Ian",
+      "persona": "PR000715",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alt",
+      "persona": "PR000716",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ian",
+        "Alt"
+      ]
+    }
+  ],
+  "sinopsis": "Ian y Alt están a punto de celebrar su primer aniversario como pareja cuando Ian recibe una oferta de trabajo en el extranjero que podría separarlos. Mientras intenta decidir cómo afrontar la situación, un acontecimiento inesperado altera por completo sus planes y pone a prueba tanto su relación como su seguridad. Ante una situación que exige tomar decisiones rápidas, ambos deberán apoyarse mutuamente mientras intentan proteger el futuro que habían comenzado a construir juntos.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/gh7BKBpkw1ZXWj3zHzysA5BUO9x.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

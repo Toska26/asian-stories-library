@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000586",
+  "titulo": "The Blood of Youth: Quest of Heroic Hearts",
+  "tituloOriginal": "少年歌行之天下无双",
+  "alias": [
+    "Shao Nian Ge Xing Zhi Tian Xia Wu Shuang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000021",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Blood of Youth",
+    "tituloOriginal": "少年歌行",
+    "autor": "Zhou Munan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2026-01-28",
+  "finalizacion": "2026-02-06",
+  "generos": [
+    "Wuxia",
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación",
+    "Novela",
+    "Universo compartido",
+    "Jianghu",
+    "Artes marciales",
+    "Aventura",
+    "Amistad",
+    "Supervivencia",
+    "The Blood of Youth"
+  ],
+  "sinopsis": "El legendario sable Tianzhan vuelve a aparecer y altera el equilibrio del Jianghu. Wei Gui, un joven que sobrevivió de niño a la masacre de su familia y perdió sus recuerdos, emprende la búsqueda de los fragmentos del arma. En el camino se une a Lei Lingze, discípulo del clan Lei decidido a convertirse en el número uno bajo el cielo, y ambos se ven envueltos junto a Ye Zhixin y Hua Xiaohua en una conspiración relacionada con la secta Tianwai Tian.",
+  "activo": true
+}

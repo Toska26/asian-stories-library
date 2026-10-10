@@ -1,0 +1,115 @@
+{
+  "codigo": "DR000120",
+  "titulo": "Semantic Error",
+  "tituloOriginal": "시맨틱 에러",
+  "alias": [
+    "Semantic Error",
+    "Simaentig Ereo"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000120",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2022-02-16",
+  "finalizacion": "2022-03-10",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Programación",
+    "Diseño",
+    "Compañeros de clase",
+    "Enemigos a amantes",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Choo Sang-woo",
+      "persona": "PR000590",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jang Jae-young",
+      "persona": "PR000591",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choo Sang-woo",
+        "Jang Jae-young"
+      ]
+    }
+  ],
+  "sinopsis": "Choo Sang-woo es un estudiante de informática metódico y reservado que está acostumbrado a seguir las reglas al pie de la letra. Cuando decide eliminar de un proyecto universitario a los compañeros que no han colaborado, perjudica sin saberlo los planes de Jang Jae-young, un estudiante de diseño que estaba a punto de graduarse. El conflicto entre ambos comienza como una guerra de personalidades, pero la convivencia y los encuentros cada vez más frecuentes hacen que la relación entre ellos cambie de forma inesperada.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/11/2d/53/112d53ded0bf4a71d7b25fef2f3dba2d.jpg",
+      "https://i.pinimg.com/736x/ff/ab/83/ffab8341aa6427cf306ee9d54ba1c444.jpg",
+      "https://i.pinimg.com/1200x/c3/2a/dc/c32adc6e93b99ac7552e9a9277e80a7e.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Sjnq-0Bb6HQ"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=0DycWi5nPJo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000078",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000079",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Semantic Error: Short Animation",
+      "tipo": "Serie corta de animación",
+      "anio": 2021,
+      "episodios": 4
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000564",
+  "titulo": "Pink Summer",
+  "tituloOriginal": "这个夏天结束前",
+  "alias": [
+    "Before the End of the Summer",
+    "Zhe Ge Xia Tian Jie Shu Qian",
+    "Pink Summer S1",
+    "这个夏天结束前 第一季"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "serie": "SR000564",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 6,
+  "estado": "Finalizado",
+  "estreno": "2024-12-25",
+  "finalizacion": "2025-01-05",
+  "generos": [
+    "Bromance",
+    "Romance",
+    "Juventud",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Amistad",
+    "Convivencia",
+    "Miniserie",
+    "Episodios cortos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Jingyu",
+        "Gu Senhe"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Jingyu se ve obligado a compartir temporalmente su casa con su vecino Gu Senhe, un joven de personalidad peculiar que siempre le pregunta si es feliz. Durante unas vacaciones de verano, ambos terminan viviendo una experiencia inesperada que transforma su relación.",
+  "activo": true
+}

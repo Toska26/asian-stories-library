@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000971",
+  "titulo": "Caged Again",
+  "tituloOriginal": "บอกกรงๆ...ว่ารักเธอ",
+  "alias": [
+    "Caged Again",
+    "Bok Krong Krong... Wa Rak Thoe"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 46,
+  "estado": "Finalizado",
+  "estreno": "2024-11-15",
+  "finalizacion": "2025-01-10",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Adaptación?",
+    "Animales antropomorfos",
+    "Pingüinos",
+    "Internado",
+    "Sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Junior",
+        "Sun"
+      ]
+    }
+  ],
+  "sinopsis": "Junior es un joven pingüino que consigue transformarse en humano para escapar del zoológico y llegar hasta el Polo Norte. Sin embargo, termina atrapado en un misterioso internado. Allí conoce a Sun, un joven reservado que también posee una naturaleza animal y que se convierte en su aliado. Mientras ambos intentan encontrar una forma de escapar, entre ellos surge una relación que va mucho más allá de la amistad.",
+  "activo": true
+}

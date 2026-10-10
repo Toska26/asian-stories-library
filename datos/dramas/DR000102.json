@@ -1,0 +1,95 @@
+{
+  "codigo": "DR000102",
+  "titulo": "Gunshot",
+  "tituloOriginal": "ผมหลงรักฆาตกร",
+  "alias": [
+    "Phom Long Rak Khatakon"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000102",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Próximo estreno",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Acción",
+    "Thriller",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Policía",
+    "Asesino",
+    "Venganza",
+    "Crimen",
+    "Investigación",
+    "Trauma",
+    "Pasado",
+    "Identidad",
+    "Amor prohibido"
+  ],
+  "personas": [
+    {
+      "nombre": "Kongpon",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mini",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Kongpon",
+        "Mini"
+      ]
+    }
+  ],
+  "sinopsis": "Kongpon es un policía que se encuentra con Mini, un joven marcado por un pasado doloroso y consumido por el deseo de vengarse de quienes le hicieron daño. Mientras Kongpon intenta comprenderlo y ayudarlo a superar sus heridas, Mini continúa atrapado en un camino de violencia y venganza. La relación entre ambos se desarrolla en medio de una investigación criminal y de los secretos que rodean el pasado de Mini.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/d2/94/57/d2945703700e8a331c6ac74380cc851d.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=pT8es0G-oH4",
+      "https://www.youtube.com/watch?v=-iZMjFWGzSg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

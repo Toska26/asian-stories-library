@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000340",
+  "titulo": "Worth The Wait",
+  "alias": [
+    "My Toxic Lover 2",
+    "Worth The Wait The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": "SR000339",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2021-06-05",
+  "finalizacion": "2021-08-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Enemies to lovers",
+    "Celebridad",
+    "Rivales",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ethon Kaizer",
+        "Martin"
+      ]
+    }
+  ],
+  "sinopsis": "Después de la dolorosa ruptura con Bryce, Ethon intenta seguir adelante mientras comienza a trabajar en una nueva película junto a Martin, su rival profesional. Obligados a convivir durante dos semanas, la hostilidad inicial entre ambos comienza a transformarse en una relación romántica.",
+  "activo": true
+}

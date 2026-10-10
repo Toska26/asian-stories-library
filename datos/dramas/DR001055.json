@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001055",
+  "titulo": "Peach and Me",
+  "tituloOriginal": "มีสติแล้วลูกพีช",
+  "alias": [
+    "Mi Sati Laeo Luk Peach",
+    "Me and Thee 2",
+    "Me and Thee Special Sequel"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000050",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "episodios": 4,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-07-11",
+  "finalizacion": "2026-08-01",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Matrimonio",
+    "Vida en pareja",
+    "Luna de miel",
+    "Vida cotidiana",
+    "Relación estable",
+    "Continuación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thee",
+        "Peach"
+      ]
+    }
+  ],
+  "sinopsis": "Después de los acontecimientos de Me and Thee, Thee y Peach comienzan una nueva etapa como matrimonio. Thee quiere demostrar que puede ser un marido más atento y organizado, por lo que planea escapadas románticas de fin de semana durante seis meses. Entre momentos cotidianos, gestos exagerados de cariño y nuevos retos familiares y profesionales, ambos tendrán que aprender a convivir y a cuidar de su relación mientras se acostumbran a esta nueva vida juntos.",
+  "multimedia": {
+    "portada": [
+      "https://pic0.iqiyipic.com/image/20260630/d3/d7/a_100907199_m_600_zh-CN_m2_440_608.webp"
+    ]
+  },
+  "activo": true
+}

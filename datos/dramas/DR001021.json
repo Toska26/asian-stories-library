@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001021",
+  "titulo": "My Stubborn",
+  "tituloOriginal": "ไหนเฮียบอกไม่ชอบเด็ก",
+  "alias": [
+    "Nai Hia Bok Mai Chop Dek",
+    "ไหนเฮียบอกไม่ชอบเด็ก"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Nai Hia Bok Mai Chop Dek",
+    "tituloOriginal": "ไหนเฮียบอกไม่ชอบเด็ก",
+    "autor": "MissPa_Ob",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "53 min",
+  "estado": "Finalizado",
+  "estreno": "2025-04-20",
+  "finalizacion": "2025-07-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Workplace"
+  ],
+  "tags": [
+    "Oficina",
+    "Prácticas",
+    "Enemies to Lovers",
+    "Age Gap",
+    "Mentor-Mentee",
+    "Celos",
+    "Romance adulto"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sorn",
+        "Jun"
+      ]
+    },
+    {
+      "personajes": [
+        "Tai",
+        "Champ"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "My Stubborn Special Episode",
+      "tituloOriginal": "ไหนเฮียบอกไม่ชอบเด็ก Special Episode",
+      "alias": [
+        "My Stubborn Special EP1"
+      ],
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-09-21"
+    },
+    {
+      "titulo": "My Stubborn Special Episode 2",
+      "alias": [
+        "My Stubborn Special EP2"
+      ],
+      "tipo": "Especial",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-09-28"
+    }
+  ],
+  "sinopsis": "Jun es un joven estudiante en prácticas, alegre, travieso y experto en sacar de quicio a Sorn, un trabajador de RT Design conocido por su carácter serio y su rechazo a relacionarse con personas más jóvenes. Después de años de enfrentamientos y bromas, una situación inesperada cambia la naturaleza de su relación. Lo que empieza como una relación sin compromiso termina convirtiéndose en sentimientos reales, mientras los celos, las inseguridades y las dificultades del entorno laboral ponen a prueba a ambos. Paralelamente, Tai y Champ desarrollan su propia historia romántica.",
+  "activo": true
+}

@@ -1,0 +1,81 @@
+{
+  "codigo": "DR000935",
+  "titulo": "The Whisperer",
+  "tituloOriginal": "ศพกระซิบ",
+  "alias": [
+    "The Whisperer: ศพกระซิบ",
+    "The Whispering Corpse"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Whisperer",
+    "tituloOriginal": "ศพกระซิบ",
+    "autor": "Phakhinai Kasirak",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2023-11-26",
+  "finalizacion": "2024-01-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Terror",
+    "Sobrenatural",
+    "Thriller",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Terror",
+    "Sobrenatural",
+    "Thriller",
+    "Misterio",
+    "Fantasmas",
+    "Espíritus",
+    "Visiones",
+    "Alucinaciones",
+    "Muerte",
+    "Duelo",
+    "Traición",
+    "Infidelidad",
+    "Relaciones tóxicas",
+    "Manipulación",
+    "Secretos",
+    "Investigación",
+    "Familia",
+    "Hermanos",
+    "Sobrino",
+    "Casa encantada",
+    "Cementerio",
+    "Psicología"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khun",
+        "Taw"
+      ]
+    },
+    {
+      "personajes": [
+        "Taw",
+        "Vit"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la muerte de su hermano y su cuñada en un accidente, Khun se hace cargo de su sobrino y se muda a una nueva casa. Allí comienza a experimentar visiones y a ver a personas que quienes lo rodean aseguran que no existen. Mientras Khun intenta comprender las apariciones y descubrir qué se esconde tras ellas, su relación con Taw se deteriora cuando Taw se acerca cada vez más a Vit. Los secretos, la traición y las experiencias sobrenaturales terminan mezclando el dolor de la pérdida con una amenaza que parece conducir a la muerte.",
+  "activo": true
+}

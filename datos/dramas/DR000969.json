@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000969",
+  "titulo": "Bad Guy My Boss",
+  "tituloOriginal": "เจ้านายร้ายรัก",
+  "alias": [
+    "Bad Guy My Boss",
+    "Bad Guy (My Boss)",
+    "My Bad Boss"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Bad Guy (My Boss)",
+    "tituloOriginal": "เจ้านาย ร้ายรัก",
+    "autor": "anin19",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-09-15",
+  "finalizacion": "2024-12-01",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Adaptación",
+    "Oficina",
+    "Jefe y empleado",
+    "Secretaria",
+    "Diferencia de estatus"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pat",
+        "Elyes"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Bad Guy My Boss — Special Episode",
+      "fecha": "2024-12-08",
+      "tipo": "Narrativo"
+    }
+  ],
+  "sinopsis": "Pat es el secretario personal de Elyes, un jefe exigente, frío y temido por todos los empleados. Después de trabajar a su lado durante años, Pat comienza a desarrollar sentimientos por él y trata de mantenerlos ocultos para no poner en peligro su puesto. Sin embargo, la creciente atención de Elyes hacia Pat hace que la relación entre jefe y empleado se vuelva cada vez más difícil de mantener dentro de los límites profesionales.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000464",
+  "titulo": "The Star Always Follows You",
+  "alias": [
+    "Lấp Lánh Tựa Ánh Sao Trời"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-11-26",
+  "finalizacion": "2023-01-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Coming of Age",
+    "Rural Romance",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Đăng",
+        "Sơn"
+      ]
+    }
+  ],
+  "sinopsis": "Đăng, un estudiante de ciudad con dificultades académicas, es enviado al campo para alejarlo de las distracciones y preparar sus exámenes de acceso a la universidad. Allí conoce a Sơn, su tutor y maestro, y la convivencia hace crecer entre ambos una relación que va más allá de los estudios.",
+  "especiales": [
+    {
+      "titulo": "Stormy Honeymoon",
+      "anio": 2023
+    }
+  ],
+  "activo": true
+}

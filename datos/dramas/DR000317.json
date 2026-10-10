@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000317",
+  "titulo": "Diving Into Love",
+  "alias": [
+    "Diving Into Love The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 16,
+  "estado": "Finalizado",
+  "estreno": "2021-03-20",
+  "finalizacion": "2021-06-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Superación",
+    "Autodescubrimiento",
+    "Buceo",
+    "Puerto Galera"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sam",
+        "Andrei"
+      ]
+    }
+  ],
+  "sinopsis": "Sam y Andrei se conocen mientras ambos intentan superar experiencias sentimentales anteriores y encontrar un nuevo rumbo en sus vidas. Durante su estancia en Puerto Galera, la cercanía entre ellos evoluciona progresivamente desde una atracción inicial hacia una relación romántica.",
+  "activo": true
+}

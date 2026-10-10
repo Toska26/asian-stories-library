@@ -1,0 +1,79 @@
+{
+  "codigo": "DR000070",
+  "titulo": "Twenty One",
+  "tituloOriginal": "21วัน ลองมารักกันดูไหม",
+  "alias": [
+    "Twenty One เราลองมารักกันสัก21วันดูไหม",
+    "21 Days, Shall We Try Falling in Love?"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000070",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": "",
+  "duracion": "",
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Música"
+  ],
+  "personas": [
+    {
+      "nombre": "Aii",
+      "persona": "PR000529",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koon",
+      "persona": "PR000530",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000089",
+      "personajes": [
+        "Aii",
+        "Koon"
+      ]
+    }
+  ],
+  "sinopsis": "Aii y Koon quedan destrozados después de ser rechazados por la misma persona. Al conocerse y descubrir que tienen muchas cosas en común, comienzan a apoyarse mutuamente y terminan convirtiéndose en compañeros de piso. Cuando Aii se da cuenta de que sus sentimientos por Koon van más allá de la amistad y se lo confiesa, Koon teme perder la relación que ya tienen. Finalmente propone un experimento de veintiún días para descubrir si Aii puede conseguir que se enamore de él.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/f5/09/cf/f509cfccc368495857c0dc2348a8094a.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=kqiruuXSplM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000549",
+  "titulo": "A Sketchy Job!",
+  "tituloOriginal": "这见鬼的工作!",
+  "alias": [
+    "Zhe Jian Gui De Gong Zuo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2025-06-26",
+  "finalizacion": "2025-07-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Trabajo",
+    "Novio de alquiler",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Xiao",
+        "Liu Zairong"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Xiao trabaja como novio de alquiler y acepta un encargo que lo lleva a conocer a Liu Zairong. Lo que inicialmente parece un trabajo más termina convirtiéndose en una relación real cuando ambos comienzan a desarrollar sentimientos.",
+  "activo": true
+}

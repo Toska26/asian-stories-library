@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000629",
+  "titulo": "Cherry Magic! The Movie",
+  "tituloOriginal": "チェリまほ THE MOVIE ～30歳まで童貞だと魔法使いになれるらしい～",
+  "alias": [
+    "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!: The Movie",
+    "Cherry Maho THE MOVIE"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000038",
+    "orden": 4
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 104,
+  "estado": "Finalizado",
+  "estreno": "2022-04-08",
+  "finalizacion": "2022-04-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Oficina",
+    "Relación a distancia",
+    "Traslado laboral",
+    "Pareja estable",
+    "Matrimonio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Adachi Kiyoshi",
+        "Kurosawa Yuichi"
+      ]
+    }
+  ],
+  "sinopsis": "Adachi y Kurosawa ya son pareja y disfrutan de su relación cuando Adachi recibe una oferta de traslado laboral a Nagasaki, a unos 1.200 kilómetros de Tokio. La posibilidad de vivir separados hace que ambos tengan que enfrentarse a sus dudas y decidir qué futuro quieren construir juntos.",
+  "activo": true
+}

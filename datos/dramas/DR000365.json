@@ -1,0 +1,31 @@
+{
+  "codigo": "DR000365",
+  "titulo": "Inseparable",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 19,
+  "estado": "Finalizado",
+  "estreno": "2022-09-19",
+  "finalizacion": "2022-10-31",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amistad",
+    "Amor",
+    "Sentimientos",
+    "Dudas",
+    "Relaciones",
+    "Decisiones",
+    "Conflicto emocional"
+  ],
+  "sinopsis": "Dos personas enfrentan el conflicto entre mantener una amistad duradera y aceptar unos sentimientos que pueden transformar su relación. La historia explora las dudas, los vínculos afectivos y la incertidumbre de descubrir si una amistad puede convertirse en algo más.",
+  "activo": true
+}

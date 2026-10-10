@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000902",
+  "titulo": "Dead Friend Forever",
+  "tituloOriginal": "เพื่อนนายแค่หนึ่งเดียว",
+  "alias": [
+    "Dead Friend Forever - DFF",
+    "DFF"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "Finalizado",
+  "estreno": "2023-12-23",
+  "finalizacion": "2024-03-09",
+  "generos": [
+    "BL",
+    "Drama",
+    "Terror",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "Amistad",
+    "Instituto",
+    "Casa aislada",
+    "Grupo de amigos",
+    "Venganza",
+    "Culpa",
+    "Trauma",
+    "Secretos",
+    "Bullying",
+    "Pasado oscuro",
+    "Película dentro de la historia",
+    "Supervivencia",
+    "Horror psicológico",
+    "Identidad",
+    "Alucinaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phee",
+        "Jin"
+      ]
+    },
+    {
+      "personajes": [
+        "Tee",
+        "White"
+      ]
+    }
+  ],
+  "sinopsis": "Un grupo de amigos se reúne en una casa aislada para despedir a Jin antes de que se marche al extranjero. Allí descubren antiguas grabaciones relacionadas con Non, un antiguo compañero que desapareció años atrás después de sufrir una serie de abusos y humillaciones. Cuando empiezan a suceder acontecimientos inexplicables y violentos, los secretos del pasado salen a la luz y el grupo debe enfrentarse a las consecuencias de sus actos.",
+  "activo": true
+}

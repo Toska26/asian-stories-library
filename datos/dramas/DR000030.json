@@ -1,0 +1,212 @@
+{
+  "codigo": "DR000030",
+  "titulo": "Close Friend T1",
+  "tituloOriginal": "โคตรแฟน",
+  "alias": [
+    "Close Friend The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "universo": "UN000026",
+  "serie": "SR000030",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-04-22",
+  "finalizacion": "2021-05-27",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amistad",
+    "Música"
+  ],
+  "personas": [
+    {
+      "nombre": "Pierce",
+      "persona": "PR000055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Typhoon",
+      "persona": "PR000054",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sin",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Moojoom",
+      "persona": "PR000248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mini",
+      "persona": "PR000308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Titan",
+      "persona": "PR000309",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Ping",
+      "persona": "PR000310",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Peam",
+      "persona": "PR000311",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Night",
+      "persona": "PR000312",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mekhin",
+      "persona": "PR000313",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ray",
+      "persona": "PR000314",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jedi",
+      "persona": "PR000315",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "persona": "PR000340",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000341",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000342",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000012",
+      "personajes": [
+        "Pierce",
+        "Typhoon"
+      ]
+    },
+    {
+      "ship": "SH000054",
+      "personajes": [
+        "Titan",
+        "Mini"
+      ]
+    },
+    {
+      "ship": "SH000055",
+      "personajes": [
+        "Peam",
+        "Xiao Ping"
+      ]
+    },
+    {
+      "ship": "SH000056",
+      "personajes": [
+        "Night",
+        "Mekhin"
+      ]
+    },
+    {
+      "ship": "SH000057",
+      "personajes": [
+        "Jedi",
+        "Ray"
+      ]
+    }
+  ],
+  "sinopsis": "Seis historias, seis parejas y seis formas diferentes de entender el amor. Close Friend presenta una antología de historias independientes en las que la amistad, la atracción y los sentimientos comienzan a transformar las relaciones entre sus protagonistas. A lo largo de la temporada, las parejas se enfrentan a situaciones muy diferentes: desde los problemas de una relación que debe adaptarse a los cambios de la vida, hasta sentimientos que nacen entre amigos, encuentros inesperados, amores a distancia y relaciones que mezclan la realidad con la fantasía. Cada historia explora una forma distinta de acercarse al amor y muestra cómo, en ocasiones, la persona que buscamos puede estar mucho más cerca de lo que imaginamos. La música acompaña cada relato y se convierte en una parte esencial de estas seis pequeñas historias sobre el amor y la amistad.",
+  "multimedia": {
+    "portada": [
+      "https://media.senscritique.com/media/000022195181/0/close_friend.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=IzwlwyAPwuo"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=UaVpNQKOo48"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000030",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

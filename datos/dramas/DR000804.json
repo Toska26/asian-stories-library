@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000804",
+  "titulo": "Puppy Love",
+  "tituloOriginal": "วัยพันธุ์แสบ",
+  "alias": [
+    "Puppy Love The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 18,
+  "estado": "Finalizado",
+  "estreno": "2020-03-07",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Orfanato",
+    "Viaje en el tiempo",
+    "Cambio de edad",
+    "Amistad",
+    "Familia"
+  ],
+  "sinopsis": "Un joven que sueña con convertirse en alguien tan exitoso como Steve Jobs y otro joven rebelde y adicto a los videojuegos ven sus vidas transformadas cuando, de manera inesperada, vuelven a convertirse en niños. Ambos deben adaptarse a vivir en un hogar para niños y afrontar una serie de situaciones que cambian por completo la forma en que entienden su pasado y su futuro.",
+  "activo": true
+}

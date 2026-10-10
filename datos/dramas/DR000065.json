@@ -1,0 +1,107 @@
+{
+  "codigo": "DR000065",
+  "titulo": "WEIRDO-101",
+  "tituloOriginal": "แรงโน้มถ่วงระหว่างเรา",
+  "alias": [
+    "Raeng Nom Thuang Rawang Rao",
+    "The Gravity Between Us"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000065",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 41,
+  "estado": "En emisión",
+  "estreno": "2026-08-14",
+  "finalizacion": "",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Juventud"
+  ],
+  "personas": [
+    {
+      "nombre": "Cheewa",
+      "persona": "PR000526",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Niran",
+      "persona": "PR000527",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pok",
+      "persona": "PR000554",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000086",
+      "personajes": [
+        "Cheewa",
+        "Niran"
+      ]
+    }
+  ],
+  "sinopsis": "Niran, un estudiante de secundaria y atleta de judo que lleva una vida despreocupada, conoce a Cheewa, un estudiante brillante del club de astronomía con una forma de pensar y comunicarse muy particular. Después de que Niran lo salva de un estudiante problemático, Cheewa comienza a acercarse a él de una manera directa y poco convencional, haciendo que Niran empiece a cuestionarse sus propios sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/04/db/4a/04db4a798c3bfb103153808bc88dbf46.jpg",
+      "https://i.pinimg.com/736x/72/0d/fb/720dfb0441e165503c93b08256764944.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=FoAiCEWA_ko"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=NYQlEk3Bg0A",
+      "https://www.youtube.com/watch?v=vRH6Po4jAiQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000049",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "especiales": [
+    "WEIRDO-101 แรงโน้มถ่วงระหว่างเรา Special"
+  ],
+  "activo": true
+}

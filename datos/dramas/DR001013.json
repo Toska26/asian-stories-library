@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001013",
+  "titulo": "Lover Merman",
+  "tituloOriginal": "เพียงนาวา",
+  "alias": [
+    "Lover Merman",
+    "เพียงนาวา",
+    "Phiang Nawa"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Phiang Nawa Lover Merman",
+    "tituloOriginal": "เพียงนาวา",
+    "autor": "Guy Suwannaroj y Lita P.",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2025-09-27",
+  "finalizacion": "2025-11-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "Sirena",
+    "Isla",
+    "Mar",
+    "Bar",
+    "Sobrenatural",
+    "Secretos",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phu",
+        "Nawa"
+      ]
+    }
+  ],
+  "sinopsis": "Phu, un hombre de Bangkok, se traslada a una tranquila isla para ayudar a su amigo Phana a gestionar un bar. Allí conoce a Nawa, un joven reservado que trabaja como camarero y que oculta un secreto: en realidad es un tritón. La cercanía entre ambos hace crecer sus sentimientos mientras los secretos de Nawa y las fuerzas sobrenaturales que rodean su vida amenazan con separarlos.",
+  "activo": true
+}

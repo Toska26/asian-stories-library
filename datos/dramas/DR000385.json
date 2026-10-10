@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000385",
+  "titulo": "Marahuyo Project",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 34,
+  "estado": "Finalizado",
+  "estreno": "2024-06-24",
+  "finalizacion": "2024-06-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "LGBTQ+"
+  ],
+  "tags": [
+    "Universidad",
+    "LGBTQ+",
+    "Identidad",
+    "Aceptación",
+    "Activismo",
+    "Amistad",
+    "Amor",
+    "Familia",
+    "Discriminación",
+    "Mitología filipina"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "King",
+        "Ino"
+      ]
+    }
+  ],
+  "sinopsis": "King llega a Marahuyo y comienza sus estudios en Mariano Soliman University, donde decide crear la primera organización estudiantil LGBTQIA+ del campus. Para conseguirlo deberá enfrentarse al conservador consejo estudiantil y colaborar con nuevos amigos como Venice y Lorie. Mientras lucha por defender la comunidad LGBTQIA+, su enfrentamiento con Ino, el presidente del consejo estudiantil, evoluciona progresivamente hacia una relación amorosa. Los secretos familiares, la identidad, la aceptación y las tradiciones de Marahuyo se entrelazan con la historia de los jóvenes.",
+  "activo": true
+}

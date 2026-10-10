@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000316",
+  "titulo": "The Alter",
+  "alias": [
+    "Alter",
+    "Alter The Series",
+    "The Alter BL Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 14,
+  "estado": "Finalizado",
+  "estreno": "2021-02-14",
+  "finalizacion": "2021-04-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Identidad",
+    "Gemelos",
+    "Familia",
+    "Aceptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Elmo",
+        "Jessie"
+      ]
+    }
+  ],
+  "sinopsis": "Elmo decide hacerse pasar por su hermana gemela Sarah para ayudarla a salir de una situación complicada. Al adoptar su identidad y relacionarse con las personas de su entorno, empieza a enfrentarse a sentimientos y deseos que había mantenido ocultos. La experiencia le lleva a cuestionarse su propia identidad y a descubrir qué quiere realmente para su vida y sus relaciones.",
+  "activo": true
+}

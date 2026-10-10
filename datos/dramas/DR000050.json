@@ -1,0 +1,82 @@
+{
+  "codigo": "DR000050",
+  "titulo": "The Ex-Morning",
+  "tituloOriginal": "เพราะแฟนเก่าเปลี่ยนแปลงบ่อย",
+  "alias": [
+    "Phro Faen Kao Plianplaeng Boi",
+    "Because Exes Change Frequently"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000050",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2025-05-22",
+  "finalizacion": "2025-07-24",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Padtaphi",
+      "persona": "PR000162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tamtawan",
+      "persona": "PR000163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000029",
+      "personajes": [
+        "Padtaphi",
+        "Tamtawan"
+      ]
+    }
+  ],
+  "sinopsis": "Padtaphi, un reconocido periodista de televisión conocido como el “Príncipe del pronóstico”, ve su carrera caer en picado después de un incidente que provoca una fuerte reacción pública. Para recuperar su reputación, recibe la oportunidad de desarrollar un nuevo programa de noticias, pero debe trabajar con un nuevo productor. El problema es que ese productor es Tamtawan, su antiguo novio. Obligados a trabajar juntos de nuevo, ambos tendrán que enfrentarse a los problemas profesionales y, sobre todo, a los sentimientos que todavía permanecen entre ellos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/36/8f/4f/368f4f69b37bdf7e204976f6bc78a372.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=jajW3bDRf3E"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=sZef3yFGU7o",
+      "https://www.youtube.com/watch?v=-4fLeu6THjo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

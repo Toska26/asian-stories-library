@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000600",
+  "titulo": "Bittersweet Love",
+  "tituloOriginal": "嫁入高门",
+  "alias": [
+    "The Man Who Married into a Wealthy Family",
+    "Jia Ru Gao Men"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2026-07-03",
+  "finalizacion": "2026-08-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Diferencia de clase",
+    "Matrimonio de conveniencia",
+    "Familia adinerada",
+    "Matrimonio arreglado",
+    "Amor prohibido",
+    "Familia",
+    "Sanación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Xiaofan",
+        "Bei Luqing"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Xiaofan, un joven de origen rural, entra en una poderosa familia de Pekín al casarse como sustituto en un matrimonio que pronto descubre que es solo una fachada. Tratado como una pieza conveniente para proteger la reputación familiar, intenta encontrar su lugar dentro de un entorno que le resulta completamente ajeno. Su única fuente inesperada de apoyo es Bei Luqing, el hermano de su nueva esposa. Lo que comienza como una relación de ayuda y confianza se transforma gradualmente en una atracción que ninguno de los dos puede seguir ignorando.",
+  "activo": true
+}

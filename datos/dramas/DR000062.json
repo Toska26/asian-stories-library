@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000062",
+  "titulo": "Ticket to Heaven",
+  "tituloOriginal": "เด็กชายไม่ไปสวรรค์",
+  "alias": [
+    "The Boy Who Doesn’t Go to Heaven",
+    "Dek Chai Mai Pai Sawan"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000062",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2026-05-30",
+  "finalizacion": "2026-07-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar",
+    "Juventud"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Tanrak",
+      "persona": "PR000522",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Barth",
+      "persona": "PR000523",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000084",
+      "personajes": [
+        "Barth",
+        "Tanrak"
+      ]
+    }
+  ],
+  "sinopsis": "Tanrak es un joven profundamente religioso que estudia en un entorno cristiano y sueña con convertirse en sacerdote para reencontrarse algún día con sus padres en el cielo. Su vida cambia cuando llega Barth, un nuevo estudiante marcado por heridas personales y con una visión muy diferente de la fe. La relación entre ambos crece mientras Tanrak se enfrenta al conflicto entre sus creencias, las normas de su entorno y unos sentimientos que no puede ignorar.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/e0/41/1b/e0411b9c91dcf5e03b56febb23ca9c21.jpg",
+      "https://i.pinimg.com/736x/04/ac/66/04ac667cde232fbf04ae3a5564698555.jpg",
+      "https://i.pinimg.com/736x/e9/88/bf/e988bf9b20ceb6046ee8a2bcee378b39.jpg",
+      "https://i.pinimg.com/736x/84/3a/ee/843aeefa1acaf3ad47e5e6315ab94892.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=9rPBmHoxQX4"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=idzwDVPAmMQ"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=6DB7wFVaebs",
+      "https://www.youtube.com/watch?v=MTrKtAYUjq8",
+      "https://www.youtube.com/watch?v=05eatQM91jY"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

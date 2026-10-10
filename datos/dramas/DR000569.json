@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000569",
+  "titulo": "Reach for the Stars",
+  "tituloOriginal": "摘星",
+  "alias": [
+    "Zhai Xing",
+    "Reach for the Stars"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000568",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Runaway Starlight",
+    "tituloOriginal": "失控星光",
+    "autor": "Si Jiao",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 81,
+  "duracion": 2,
+  "estado": "Finalizado",
+  "estreno": "2025-02-14",
+  "finalizacion": "2025-02-14",
+  "generos": [
+    "Bromance",
+    "Romance",
+    "Drama",
+    "Entretenimiento"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Novela BL",
+    "Remake",
+    "Enemigos a amantes",
+    "Reencuentro",
+    "Entretenimiento",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Jixing",
+        "Zhou Yili"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Jixing, una estrella caída en desgracia, pierde su posición en la industria del entretenimiento y termina refugiándose junto a Zhou Yili, un antiguo rival. La convivencia entre ambos reabre viejas heridas y sentimientos mientras intentan reconstruir sus vidas.",
+  "activo": true
+}

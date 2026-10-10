@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000533",
+  "titulo": "A League of Nobleman",
+  "tituloOriginal": "君子盟",
+  "alias": [
+    "Jun Zi Meng",
+    "The Mystery of Zhang Guo",
+    "Zhang Gong An",
+    "张公案"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Mystery of Zhang Guo",
+    "tituloOriginal": "张公案",
+    "autor": "Da Feng Gua Guo",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2023-01-30",
+  "finalizacion": "2023-02-27",
+  "generos": [
+    "Bromance",
+    "Histórico",
+    "Misterio",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Histórico",
+    "Investigación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lan Jue",
+        "Zhang Ping"
+      ]
+    }
+  ],
+  "sinopsis": "Lan Jue, un ministro reservado y de origen noble, se cruza con Zhang Ping, un joven vendedor de fideos con una extraordinaria capacidad para descubrir secretos. Aunque sus personalidades y métodos son muy diferentes, ambos terminan colaborando para resolver misterios y descubrir intrigas ocultas en la corte imperial.",
+  "activo": true
+}

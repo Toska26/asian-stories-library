@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000355",
+  "titulo": "BO:SO Season 2",
+  "alias": [
+    "BO:SO 2",
+    "BO:SO Season 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "universo": "UN000010",
+  "serie": "SR000350",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2022-03-17",
+  "finalizacion": "2022-05-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Deseo",
+    "Identidad",
+    "Secretos",
+    "Reencuentro",
+    "Relaciones"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bobet",
+        "Celso"
+      ]
+    }
+  ],
+  "sinopsis": "Tras los acontecimientos de la primera temporada, Bobet y Celso afrontan las consecuencias de lo ocurrido y comienzan a descubrir la verdadera naturaleza de su vínculo. Mientras buscan respuestas sobre su pasado e identidad, sus sentimientos y deseos pasan a ocupar un lugar central en la historia.",
+  "activo": true
+}

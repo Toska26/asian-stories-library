@@ -1,0 +1,27 @@
+{
+  "codigo": "DR001037",
+  "titulo": "Bling Bling The Series",
+  "tituloOriginal": "เพชรประกาย",
+  "alias": [
+    "Petchprakai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-03-13",
+  "finalizacion": "2026-05-29",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "sinopsis": "Petch-thae se ve obligado a asumir el liderazgo de la compañía de likay de su familia después de la muerte de su fundador. Sin experiencia para afrontar la responsabilidad, tendrá que enfrentarse a los problemas internos de la compañía, proteger su legado y demostrar que el arte tradicional tailandés todavía puede encontrar un lugar en la era digital.",
+  "activo": true
+}

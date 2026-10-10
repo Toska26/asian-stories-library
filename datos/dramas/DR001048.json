@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001048",
+  "titulo": "Zantiis: Miss You",
+  "tituloOriginal": "Zantiis คิดถึงเธอ",
+  "alias": [
+    "Zantiis",
+    "Zantiis Misses You"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2026-06-19",
+  "finalizacion": "2026-08-07",
+  "generos": [
+    "Romance",
+    "Comedia romántica",
+    "Romance sanador",
+    "Romance adulto"
+  ],
+  "tags": [
+    "CEO encubierto",
+    "Burnout",
+    "Insomnio",
+    "Sanación emocional",
+    "Proximidad forzada",
+    "Compañeros de habitación",
+    "Jefe y empleado",
+    "Identidad oculta",
+    "Los opuestos se atraen",
+    "Sentimientos secretos",
+    "Entorno rural",
+    "De la ciudad al campo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sila",
+        "Tonnam"
+      ]
+    }
+  ],
+  "sinopsis": "Sila, un joven empresario agotado que sufre insomnio, se refugia de incógnito en una de sus propiedades para escapar de la presión laboral. Allí conoce a Tonnam, un amable recepcionista con quien termina compartiendo alojamiento. La convivencia y la tranquilidad del entorno ayudan a Sila a recuperar el equilibrio y a descubrir sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/7kRygWbR7pXVzEOzmVrkBrTQMYV.jpg"
+    ]
+  },
+  "activo": true
+}

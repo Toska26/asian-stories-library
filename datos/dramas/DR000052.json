@@ -1,0 +1,138 @@
+{
+  "codigo": "DR000052",
+  "titulo": "Vice Versa",
+  "tituloOriginal": "รักสลับโลก",
+  "alias": [
+    "Vice Versa: The Series",
+    "Rak Salap Lok"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000052",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2022-07-16",
+  "finalizacion": "2022-10-01",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Puen",
+      "persona": "PR000520",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Talay",
+      "persona": "PR000521",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tess",
+      "persona": "PR000546",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tun",
+      "persona": "PR000547",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Au",
+      "persona": "PR000533",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fuse",
+      "persona": "PR000534",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000083",
+      "personajes": [
+        "Puen",
+        "Talay"
+      ]
+    },
+    {
+      "ship": "SH000100",
+      "personajes": [
+        "Tess",
+        "Tun"
+      ]
+    },
+    {
+      "ship": "SH000092",
+      "personajes": [
+        "Au",
+        "Fuse"
+      ]
+    }
+  ],
+  "sinopsis": "Talay despierta en el cuerpo de otra persona después de sufrir un accidente y descubre que se encuentra en un universo paralelo. Allí conoce a Puen, un famoso actor que también ha llegado a ese mundo después de un accidente y ahora ocupa el cuerpo de otra persona. Ambos deben adaptarse a su nueva realidad mientras intentan descubrir cómo regresar a su universo y cumplir la misión que tienen por delante.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/54/4d/6b/544d6bad216e1c99f4228c586ec9847e.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=RbpBsChDTnk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy 2 — Vice Versa",
+      "tituloOriginal": "Our Skyy 2",
+      "alias": [
+        "Our Skyy 2: Vice Versa"
+      ],
+      "tipo": "Especial",
+      "anio": 2023,
+      "episodios": 2,
+      "estreno": "2023-05-10"
+    }
+  ],
+  "activo": true
+}

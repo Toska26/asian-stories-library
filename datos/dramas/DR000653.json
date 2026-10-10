@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000653",
+  "titulo": "Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized",
+  "tituloOriginal": "壁サー同人作家の猫屋敷くんは承認欲求をこじらせている",
+  "alias": [
+    "Kabe-Koji",
+    "Kabe Koji"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized",
+    "tituloOriginal": "壁サー同人作家の猫屋敷くんは承認欲求をこじらせている",
+    "autor": "Kazuki Minamoto",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2022-10-03",
+  "finalizacion": "2022-11-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos de la infancia",
+    "Reencuentro",
+    "Ídolo",
+    "Mangaka",
+    "Doujinshi",
+    "Sueños",
+    "Amor de juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nekoyashiki Mamoru",
+        "Kazama Issei"
+      ]
+    }
+  ],
+  "sinopsis": "Nekoyashiki Mamoru es un estudiante y creador de manga BL doujinshi que busca desesperadamente reconocimiento por su trabajo. Su vida cambia cuando se reencuentra con su amigo de la infancia Kazama Issei, ahora un popular idol del grupo SHINY SMILE. Los dos han tomado caminos completamente diferentes, pero su reencuentro despierta sentimientos y recuerdos que creían olvidados.",
+  "activo": true
+}

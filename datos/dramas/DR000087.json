@@ -1,0 +1,108 @@
+{
+  "codigo": "DR000087",
+  "titulo": "Ossan's Love Thailand",
+  "tituloOriginal": "รักนี้ให้ “นาย”",
+  "alias": [
+    "Rak Ni Hai Nai"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "remake": {
+    "codigo": "RM000087",
+    "orden": 3
+  },
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000087",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "53 min",
+  "estado": "Finalizado",
+  "estreno": "2025-01-06",
+  "finalizacion": "2025-03-24",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Oficina",
+    "Jefe",
+    "Triángulo amoroso",
+    "Remake"
+  ],
+  "personas": [
+    {
+      "nombre": "Heng",
+      "persona": "PR000198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mo",
+      "persona": "PR000514",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000079",
+      "personajes": [
+        "Heng",
+        "Mo"
+      ]
+    }
+  ],
+  "sinopsis": "Heng es un joven soltero que trabaja como agente inmobiliario y cuya vida amorosa parece no tener rumbo. Todo cambia cuando descubre que su jefe, Kongdech, está enamorado de él. Al mismo tiempo, su compañero de trabajo y compañero de piso, Mo, también comienza a desarrollar sentimientos por Heng. En medio de este inesperado triángulo amoroso, Heng tendrá que descubrir quién ocupa realmente su corazón.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/96/26/7a/96267a3023e7f44c2b76a62df0d7c3c9.jpg",
+      "https://i.pinimg.com/736x/f4/ae/88/f4ae886a3c05e625de8e884fe55c7176.jpg",
+      "https://i.pinimg.com/736x/6e/d2/b2/6ed2b21df17a9b6cdf7ddfe47811acdb.jpg",
+      "https://i.pinimg.com/736x/2d/ba/b0/2dbab07f8e022940bbad793974d94374.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=lsEDajn3xJ4"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000031",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000051",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

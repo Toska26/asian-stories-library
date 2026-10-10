@@ -1,0 +1,76 @@
+{
+  "codigo": "DR000811",
+  "titulo": "Lovely Writer",
+  "tituloOriginal": "นับสิบจะจูบ",
+  "alias": [
+    "Lovely Writer The Series",
+    "Nubsib Will Kiss",
+    "Nubsib ja Jub"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Lovely Writer",
+    "tituloOriginal": "นับสิบจะจูบ",
+    "autor": "Wankling",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "60 min",
+  "estado": "Finalizado",
+  "estreno": "2021-02-24",
+  "finalizacion": "2021-05-12",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "Escritor",
+    "Novela BL",
+    "Adaptación televisiva",
+    "Industria del entretenimiento",
+    "Actores",
+    "Productora",
+    "Secretos",
+    "Familia",
+    "Relación contractual",
+    "Homofobia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gene",
+        "Nubsib"
+      ]
+    },
+    {
+      "personajes": [
+        "Tum",
+        "Tiffy"
+      ]
+    }
+  ],
+  "sinopsis": "Gene es un escritor de novelas de fantasía y terror al que su editorial convence para escribir una novela BL. La obra se convierte en un éxito y es adaptada a una serie, donde Nubsib consigue el papel protagonista. Nubsib se acerca a Gene ocultando inicialmente sus verdaderas intenciones y ambos terminan enfrentándose a los problemas derivados de su relación, de la industria del entretenimiento y de las personas que intentan separarlos.",
+  "especiales": [
+    {
+      "titulo": "2 Years Later I 2Gether or not?",
+      "alias": [
+        "Lovely Writer Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2021,
+      "episodios": 1,
+      "estreno": "2021-06-09"
+    }
+  ],
+  "activo": true
+}

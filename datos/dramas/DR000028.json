@@ -1,0 +1,235 @@
+{
+  "codigo": "DR000028",
+  "titulo": "Dark Blue Kiss",
+  "tituloOriginal": "จูบสุดท้ายเพื่อนายคนเดียว",
+  "alias": [
+    "Dark Blue Kiss The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2019,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000009",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2019-10-12",
+  "finalizacion": "2019-12-28",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Pete",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kao",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sun",
+      "persona": "PR000291",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mork",
+      "persona": "PR000268",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Non",
+      "persona": "PR000266",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rain",
+      "persona": "PR000285",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sandee",
+      "persona": "PR000276",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Thada",
+      "persona": "PR000270",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "June",
+      "persona": "PR000171",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Manow",
+      "persona": "PR000021",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kitty",
+      "persona": "PR000277",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pete's Father",
+      "persona": "PR000274",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kao's Mother",
+      "persona": "PR000263",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Na",
+      "persona": "PR000208",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Morn",
+      "persona": "PR000284",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gord",
+      "persona": "PR000294",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Namwan",
+      "persona": "PR000287",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000279",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000296",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Pete",
+        "Kao"
+      ]
+    },
+    {
+      "ship": "SH000051",
+      "personajes": [
+        "Sun",
+        "Mork"
+      ]
+    },
+    {
+      "ship": "SH000052",
+      "personajes": [
+        "Rain",
+        "Manow"
+      ]
+    }
+  ],
+  "sinopsis": "Pete y Kao llevan tiempo juntos y han conseguido mantener su relación lejos de las miradas de quienes los rodean. Sin embargo, mantener su amor en secreto empieza a resultar cada vez más difícil, especialmente cuando Kao teme que su madre descubra la verdad sobre su relación. La situación se complica todavía más cuando Non, un estudiante al que Kao ayuda con sus estudios, comienza a acercarse demasiado a él y despierta los celos y las inseguridades de Pete. Al mismo tiempo, Sun, un joven responsable y trabajador que inicialmente desconfía de Mork por su actitud conflictiva, acaba descubriendo que detrás de su comportamiento existe una persona muy diferente de la que imaginaba. Mientras ambas historias avanzan, Pete y Kao tendrán que enfrentarse a los secretos, los celos y el miedo a perderse, mientras Sun y Mork intentan superar sus diferencias y descubrir qué significa realmente estar juntos. Las dos parejas deberán aprender a confiar en sus sentimientos y aceptar que el amor también implica afrontar los problemas y las consecuencias de las decisiones que toman.",
+  "multimedia": {
+    "portada": [
+      "https://pics.filmaffinity.com/dark_blue_kiss-281192767-large.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=zRr2QTHukzo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

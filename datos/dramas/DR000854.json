@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000854",
+  "titulo": "Secret Crush on You",
+  "tituloOriginal": "แอบหลงรัก",
+  "alias": [
+    "Stalker the Series",
+    "Aep Long Rak",
+    "แอบหลงรักเดอะซีรีส์"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Stalker",
+    "tituloOriginal": "แอบ.หลง.รัก",
+    "autor": "Darin",
+    "ilustrador": "Poppycage",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2022-02-11",
+  "finalizacion": "2022-05-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Universidad",
+    "Crush secreto",
+    "Amor no correspondido",
+    "Campus",
+    "Friends to lovers",
+    "Romance secundario",
+    "GL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Toh",
+        "Nuea"
+      ]
+    },
+    {
+      "personajes": [
+        "Jao",
+        "Sky"
+      ]
+    },
+    {
+      "personajes": [
+        "Daisy",
+        "Touch"
+      ]
+    },
+    {
+      "personajes": [
+        "Som",
+        "Tor"
+      ]
+    },
+    {
+      "personajes": [
+        "Kongkwan",
+        "Fon"
+      ]
+    }
+  ],
+  "sinopsis": "Toh es un estudiante universitario tímido e inseguro que lleva tiempo enamorado en secreto de Nuea, uno de los estudiantes más populares de la universidad. Incapaz de acercarse a él, Toh se limita a observarlo y guardar recuerdos de la persona que admira. Sin embargo, cuando las circunstancias hacen que ambos se acerquen, Nuea comienza a corresponder sus sentimientos y el secreto que Toh ha guardado durante tanto tiempo amenaza con salir a la luz.",
+  "especiales": [
+    {
+      "titulo": "Secret Crush on You — Special Episode",
+      "tituloOriginal": "แอบหลงรัก Special Episode",
+      "alias": [
+        "Behind The Scenes"
+      ],
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-05-20"
+    }
+  ],
+  "activo": true
+}

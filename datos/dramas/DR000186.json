@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000186",
+  "titulo": "Love Reset",
+  "tituloOriginal": "러브 리셋",
+  "alias": [
+    "Love Reset",
+    "Reobeu Riset"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000016",
+    "orden": 2
+  },
+  "universo": "UN000006",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2025-10-02",
+  "finalizacion": "2025-10-23",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Pareja estable",
+    "Relación de larga duración",
+    "Crisis de pareja",
+    "Reencuentro",
+    "Amor adulto",
+    "Dudas sentimentales",
+    "Romance melancólico",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Jae Hyeon",
+      "persona": "PR000705",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "U Jin",
+      "persona": "PR000708",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jae Hyeon",
+        "U Jin"
+      ]
+    }
+  ],
+  "sinopsis": "Después de siete años juntos, Jae Hyeon y U Jin descubren que una relación estable también puede quedar atrapada en la rutina. Lo que antes parecía una conexión sólida comienza a deteriorarse entre la distancia emocional, las dudas y los sentimientos que ambos han dejado sin expresar. Mientras Jae Hyeon se ha acostumbrado a dar por segura la presencia de U Jin, las inseguridades y el cansancio emocional de este último hacen que la pareja se pregunte si todavía puede recuperar aquello que los unió. Para ambos, amar de nuevo puede requerir volver al principio y aprender a mirarse como si fuera la primera vez.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=QWrDefFc1ko"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

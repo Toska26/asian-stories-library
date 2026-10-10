@@ -1,0 +1,112 @@
+{
+  "codigo": "DR000786",
+  "titulo": "Why R U?",
+  "tituloOriginal": "เพราะรักใช่ป่าว",
+  "alias": [
+    "Why R U?: The Series",
+    "Why Are You?",
+    "Why Are You: The Series",
+    "Why Are You The One",
+    "The One to Me"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000786",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Why R U?",
+    "tituloOriginal": "Why R U? เพราะรักใช่เปล่า",
+    "autor": "Candy On",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 65,
+  "estado": "Finalizado",
+  "estreno": "2020-01-24",
+  "finalizacion": "2020-04-24",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Enemies to Lovers",
+    "Múltiples parejas",
+    "Ficción dentro de la ficción",
+    "Escritura",
+    "Amistad",
+    "Música",
+    "Fantasía"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tutor",
+        "Fighter"
+      ]
+    },
+    {
+      "personajes": [
+        "Saifah",
+        "Zon"
+      ]
+    },
+    {
+      "personajes": [
+        "Japan",
+        "Tanthai"
+      ]
+    },
+    {
+      "personajes": [
+        "Dew",
+        "Blue"
+      ]
+    },
+    {
+      "personajes": [
+        "Day",
+        "Hwahwa"
+      ]
+    },
+    {
+      "personajes": [
+        "Zen",
+        "Natee"
+      ]
+    },
+    {
+      "personajes": [
+        "Junior",
+        "Soda"
+      ]
+    }
+  ],
+  "sinopsis": "Zon, un estudiante universitario que aspira a convertirse en escritor de ciencia ficción, descubre que su hermana Zol ha escrito una novela BL en la que él y su rival Saifah son los protagonistas. Después de desafiar a su hermana y negar que la historia pueda hacerse realidad, Zon comienza a experimentar situaciones que parecen seguir el argumento de la novela. Mientras intenta descubrir si sus sentimientos por Saifah son realmente suyos o forman parte de la ficción, su amigo Tutor se acerca cada vez más a Fighter, un estudiante con quien mantenía una relación de rivalidad. A su alrededor se desarrollan también varias relaciones entre estudiantes, mientras la frontera entre la ficción y la realidad se vuelve cada vez más difícil de distinguir.",
+  "especiales": [
+    {
+      "titulo": "SaifahZon Story",
+      "tituloOriginal": "SaifahZon Story",
+      "alias": [
+        "Why R U? SaifahZon Story",
+        "Saifah & Zon Story"
+      ],
+      "tipo": "Especial",
+      "anio": 2020,
+      "episodios": 3,
+      "estreno": "2020-12-03"
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,89 @@
+{
+  "codigo": "DR000149",
+  "titulo": "Bump Up Business",
+  "tituloOriginal": "범프 업 비즈니스",
+  "alias": [
+    "Bump Up Business",
+    "Bump Up Business: The Series"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "16 min",
+  "estado": "Finalizado",
+  "estreno": "2023-10-20",
+  "finalizacion": "2023-10-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "K-pop",
+    "Ídolos",
+    "Música",
+    "Industria del entretenimiento",
+    "Business Gay",
+    "Celos",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Eden",
+      "persona": "PR000650",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Hoon",
+      "persona": "PR000651",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Eden",
+        "Ji Hoon"
+      ]
+    }
+  ],
+  "sinopsis": "Eden está a punto de debutar como miembro de un nuevo dúo de K-pop cuando descubre que su compañero será Ji Hoon, un idol veterano cuya carrera ha perdido popularidad. La agencia decide que ambos deben promocionarse mediante un concepto de pareja conocido como Business Gay. Lo que comienza como una estrategia de marketing acaba complicándose cuando los sentimientos entre ambos empiezan a superar los límites de la actuación.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/6d/f2/1c/6df21c451f7a0b61a6b0a41ba6ce8d60.jpg",
+      "https://i.pinimg.com/736x/2c/ec/ed/2ceced8d956851b780c2a938a0bbe51a.jpg",
+      "https://i.pinimg.com/736x/84/62/57/8462574971055d72134b2f5fb3259e6d.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000566",
+  "titulo": "Nearly-Royal Highness / Nine Thousand Years Old",
+  "tituloOriginal": "九千岁",
+  "alias": [
+    "Nine Thousand Years Old",
+    "Jiu Qian Sui",
+    "九千岁-古风日常"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "Finalizado",
+  "estreno": "2025-01-26",
+  "finalizacion": "2025-01-29",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Histórico",
+    "Wuxia",
+    "Político"
+  ],
+  "tags": [
+    "Bromance",
+    "Doble protagonista",
+    "Palacio imperial",
+    "Venganza",
+    "Identidad oculta",
+    "Eunucos",
+    "Censura"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pei Huaizhi",
+        "Xiao Shiqing"
+      ]
+    }
+  ],
+  "sinopsis": "Pei Huaizhi, antiguo príncipe heredero que sobrevivió a la caída de su familia adoptando la identidad de un eunuco, se convierte en el poderoso Jiu Qian Sui. Su plan de venganza se cruza con Xiao Shiqing, el sexto príncipe, y ambos terminan formando una alianza marcada por la confianza, el conflicto y los secretos de la corte.",
+  "activo": true
+}

@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000983",
+  "titulo": "MU-TE-LUV: Love Lock",
+  "tituloOriginal": "เลิฟ ล็อก",
+  "alias": [
+    "Love Lock",
+    "MuTeLuv: Love Lock"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2026-01-12",
+  "finalizacion": "2026-02-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Superstición",
+    "Ruptura",
+    "Viaje",
+    "Japón",
+    "Maldición",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phayu",
+        "Satsuki"
+      ]
+    }
+  ],
+  "sinopsis": "Después de romper con su novia May, Phayu intenta rehacer su vida sentimental, pero empieza a sufrir visiones de ella que arruinan cualquier nueva relación. Convencido de que una placa japonesa de deseos que May dejó en Japón es la causa de la maldición, viaja hasta Kawagoe para encontrarla y destruirla. Allí un accidente con Satsuki, una joven japonesa, hace que ella se convierta a regañadientes en su guía. Durante el viaje, Phayu comienza a enfrentarse a sus sentimientos y a la posibilidad de abrirse de nuevo al amor.",
+  "activo": true
+}

@@ -1,0 +1,93 @@
+{
+  "codigo": "DR000156",
+  "titulo": "Gray Shelter",
+  "tituloOriginal": "회색기류",
+  "alias": [
+    "Gray Shelter",
+    "Grey Shelter",
+    "Hoesaekgiryu"
+  ],
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": "21 min",
+  "estado": "Finalizado",
+  "estreno": "2024-04-11",
+  "finalizacion": "2024-04-25",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Adultos",
+    "Reencuentro",
+    "Convivencia",
+    "Familia",
+    "Trauma",
+    "Supervivencia",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Soo-hyuk",
+      "persona": "PR000667",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Yoon-dae",
+      "persona": "PR000609",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cha Soo-hyuk",
+        "Lee Yoon-dae"
+      ]
+    }
+  ],
+  "sinopsis": "Soo Hyuk regresa a la vida de su antiguo amigo Jae Hee en un momento especialmente difícil. Ambos terminan compartiendo espacio mientras intentan enfrentarse a las heridas y problemas que arrastran de su pasado. La convivencia hace que los sentimientos que habían permanecido ocultos vuelvan a aparecer, obligándolos a enfrentarse a aquello de lo que habían intentado escapar.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=0NZB5ll5V44"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000118",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

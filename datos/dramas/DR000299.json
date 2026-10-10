@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000299",
+  "titulo": "Win Jaime's Heart",
+  "pais": [
+    "PH"
+  ],
+  "año": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2020-12-21",
+  "finalizacion": "2021-01-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jaime",
+        "Winston"
+      ]
+    }
+  ],
+  "sinopsis": "Un joven creador de contenido intenta ayudar a su amiga a encontrar un nuevo amor para superar una ruptura, pero el proyecto termina convirtiéndose en una historia romántica inesperada para él mismo.",
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000616",
+  "titulo": "Pornographer: Spring Life",
+  "tituloOriginal": "ポルノグラファー～春的生活～",
+  "alias": [
+    "Spring Life",
+    "Pornographer: Haru-teki Seikatsu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000035",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2021-01-18",
+  "finalizacion": "2021-01-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Pareja",
+    "Reencuentro",
+    "Familia",
+    "Vida en pareja",
+    "Prólogo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kijima Rio",
+        "Kuzumi Haruhiko"
+      ]
+    }
+  ],
+  "sinopsis": "Kijima Rio continúa viviendo en la casa familiar del campo y trabajando como escritor, mientras Kuzumi Haruhiko ya trabaja en Tokio. Después de dos años y medio separados, Kuzumi visita nuevamente la casa de Kijima y ambos vuelven a encontrarse. El especial funciona como prólogo de Pornographer: Playback y muestra el reencuentro de la pareja antes de los acontecimientos de la película.",
+  "activo": true
+}

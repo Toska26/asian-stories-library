@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001007",
+  "titulo": "Doctor's Mine",
+  "tituloOriginal": "หมอน่ารักคนนี้เป็นของผม",
+  "alias": [
+    "Doctor's Mine",
+    "หมอน่ารักคนนี้เป็นของผม"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": [
+    {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Gown and Gear",
+      "tituloOriginal": "Gown and Gear เมียวิศวะมัน(ส์)ดี หรือหมอจะลอง",
+      "autor": "I'm Mynt",
+      "pais": "TH"
+    },
+    {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Extern",
+      "tituloOriginal": "EXTERN พี่หมอครับ! รับเกียร์แล้วเป็นเมียกูที",
+      "autor": "I'm Mynt",
+      "pais": "TH"
+    }
+  ],
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "56 min",
+  "estado": "Finalizado",
+  "estreno": "2025-07-20",
+  "finalizacion": "2025-09-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Universidad"
+  ],
+  "tags": [
+    "Estudiantes",
+    "Medicina",
+    "Ingeniería",
+    "Universidad",
+    "Fake Dating",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mind",
+        "Night"
+      ]
+    },
+    {
+      "personajes": [
+        "Gun",
+        "Per"
+      ]
+    }
+  ],
+  "sinopsis": "Mind, estudiante de medicina, finge mantener una relación con Night, estudiante de ingeniería, para escapar de una situación incómoda. La falsa relación comienza a complicarse cuando los sentimientos entre ambos empiezan a hacerse reales.",
+  "activo": true
+}

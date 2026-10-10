@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000521",
+  "titulo": "Fatal Journey",
+  "tituloOriginal": "陈情令之乱魄",
+  "alias": [
+    "Luan Po",
+    "The Untamed: Fatal Journey",
+    "The Untamed: Chaos"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000033",
+    "orden": 3
+  },
+  "universo": "UN000016",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 82,
+  "estado": "Finalizado",
+  "estreno": "2020-03-26",
+  "finalizacion": "2020-03-26",
+  "generos": [
+    "Fantasía",
+    "Histórico",
+    "Artes marciales",
+    "Acción",
+    "Drama"
+  ],
+  "tags": [
+    "Bromance",
+    "Spin-off",
+    "The Untamed"
+  ],
+  "sinopsis": "Los hermanos Nie Mingjue y Nie Huaisang se embarcan en una misión para restaurar la tumba ancestral de espadas de la secta Qinghe Nie. Durante el viaje, Nie Huaisang comienza a madurar mientras su hermano mayor llega a comprenderlo mejor y a ayudarlo a convertirse en el futuro líder de la secta.",
+  "activo": true
+}

@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000543",
+  "titulo": "Caged Bird",
+  "tituloOriginal": "笼中雀",
+  "alias": [
+    "Long Zhong Que",
+    "The Forbidden Flame"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 45,
+  "duracion": 2,
+  "estado": "Finalizado",
+  "estreno": "2025-02-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Vertical",
+    "Microdrama",
+    "Reencuentro",
+    "Relación prohibida"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Bi",
+        "Song Yan"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Bi y Song Yan mantienen una relación marcada por una conexión prohibida. Después de una separación de años, ambos vuelven a encontrarse y deben enfrentarse a los sentimientos que todavía existen entre ellos.",
+  "activo": true
+}

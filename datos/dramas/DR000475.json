@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000475",
+  "titulo": "Stand By Me",
+  "alias": [
+    "Đảo Nhỏ Nuôi Mèo"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "Finalizado",
+  "estreno": "2024-11-12",
+  "finalizacion": "2025-04-01",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Coming of Age",
+    "Primer amor",
+    "Amigos de la infancia",
+    "Slow Burn",
+    "Familia",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hoàng Khang",
+        "Quốc"
+      ]
+    }
+  ],
+  "sinopsis": "Hoàng Khang, estudiante de último curso de instituto, vive preocupado por su futuro y por la situación económica de su abuela, que lo ha criado mientras regenta un pequeño puesto de chè. Quốc es un joven afectuoso que siempre intenta cuidar de Khang, pero sus sentimientos han sido rechazados una y otra vez. Mientras ambos afrontan las incertidumbres de la juventud y las responsabilidades familiares, su vínculo se transforma y les obliga a enfrentarse a aquello que realmente sienten.",
+  "activo": true
+}

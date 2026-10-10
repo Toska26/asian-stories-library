@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000632",
+  "titulo": "The Reason Why He Fell in Love with Me: Drama Special",
+  "tituloOriginal": "彼が僕に恋した理由 ドラマスペシャル",
+  "alias": [
+    "The Reason Why He Fell in Love with Me Special",
+    "Kare ga Boku ni Koishita Wake: Drama Special",
+    "BokuKoi Drama Special"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000039",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2020-12-28",
+  "finalizacion": "2020-12-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Abogados",
+    "Oficina",
+    "Reencuentro",
+    "Nueva relación",
+    "Amor correspondido",
+    "Adultos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hikawa Toru",
+        "Takase Ryo"
+      ]
+    }
+  ],
+  "sinopsis": "Tres años después de los acontecimientos de la primera temporada, Hikawa Toru ha dejado la enseñanza y se convierte en abogado. Tras comenzar a trabajar en un bufete, conoce al joven abogado Takase Ryo. La relación entre ambos evoluciona hasta convertirse en una nueva relación sentimental.",
+  "activo": true
+}

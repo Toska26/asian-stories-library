@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000467",
+  "titulo": "Stupid Genius",
+  "alias": [
+    "Thiên Tài Hạng Bét"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 17,
+  "estado": "Finalizado",
+  "estreno": "2023-06-09",
+  "finalizacion": "2023-07-14",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Vida escolar",
+    "Tutoría",
+    "Estudiantes",
+    "Deportes",
+    "Bádminton",
+    "Enemies to Lovers",
+    "Crecimiento personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Khoa",
+        "Vinh"
+      ]
+    }
+  ],
+  "sinopsis": "Thu Khoa es uno de los peores estudiantes de su clase, pero sueña con convertirse en campeón nacional de bádminton. Para poder alcanzar su objetivo necesita mejorar sus notas y recurre a Vinh, el alumno más brillante de la clase. Vinh no está inicialmente interesado en ayudarlo, pero termina aceptando y comienza a darle clases particulares. Mientras pasan cada vez más tiempo juntos, Vinh empieza a sentirse atraído por Khoa y la relación entre ambos evoluciona de la tutoría y la amistad hacia el romance.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000280",
+  "titulo": "Our Story: The Series",
+  "tituloOriginal": "Our Story The Series",
+  "alias": [
+    "My Day Season 3",
+    "Our Story Season 3"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000278",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 13,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2023-09-09",
+  "finalizacion": "2023-12-02",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Secuela",
+    "Romance",
+    "Pareja",
+    "Amistad",
+    "Triángulo amoroso",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zeke",
+        "Fifth"
+      ]
+    }
+  ],
+  "sinopsis": "La tercera temporada continúa la línea de My Day y My Story, siguiendo las relaciones y conflictos de un nuevo grupo de personajes mientras afrontan los cambios y desafíos de sus vidas sentimentales.",
+  "activo": true
+}

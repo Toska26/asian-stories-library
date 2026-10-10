@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000737",
+  "titulo": "Duty First, Kiss Later",
+  "tituloOriginal": "キスは捜査のあとで",
+  "alias": [
+    "Kisu wa Sousa no Ato de",
+    "Kiss After the Investigation"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2026-07-26",
+  "finalizacion": "2026-09-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Policial"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Takoi Heisuke",
+        "Shiono Shu"
+      ]
+    }
+  ],
+  "sinopsis": "Heisuke Takoi es un detective veterano de una comisaría rural que se toma muy en serio incluso los problemas más pequeños de los vecinos. Su relación profesional con el detective Shu Shiono está marcada por los enfrentamientos, hasta que la tensión entre ambos comienza a transformarse en atracción.",
+  "activo": true
+}

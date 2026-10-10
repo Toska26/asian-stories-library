@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000359",
+  "titulo": "Rainbow Prince",
+  "alias": [
+    "Rainbow Prince The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 51,
+  "estado": "Finalizado",
+  "estreno": "2022-01-15",
+  "finalizacion": "2022-03-19",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Musical"
+  ],
+  "tags": [
+    "Realeza",
+    "Príncipe",
+    "Identidad secreta",
+    "Amor prohibido",
+    "Hotel",
+    "Música",
+    "Familia",
+    "Aceptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zeyn",
+        "Mikey"
+      ]
+    },
+    {
+      "personajes": [
+        "Malik",
+        "Ken"
+      ]
+    }
+  ],
+  "sinopsis": "El príncipe Zeyn, heredero del reino de Zurbania, debe huir de su país tras un intento de golpe y refugiarse en Filipinas bajo una identidad falsa. Allí conoce a Mikey, un joven que trabaja en el Grand Hotel, y entre ambos surge una relación que deberá enfrentarse a los secretos de Zeyn, sus responsabilidades como futuro rey y las amenazas de su pasado.",
+  "activo": true
+}

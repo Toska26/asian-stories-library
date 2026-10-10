@@ -1,0 +1,38 @@
+{
+  "codigo": "DR000310",
+  "titulo": "Daddy Love",
+  "alias": [
+    "Daddy Love Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2021-02-28",
+  "finalizacion": "2021-06-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Diferencia de edad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Francis",
+        "Mark"
+      ]
+    }
+  ],
+  "sinopsis": "Mark, un joven que todavía está descubriendo su camino, conoce a Francis, un hombre mayor y abiertamente gay. La relación que surge entre ambos explora el afecto, las diferencias de edad y las dificultades que aparecen cuando dos personas de generaciones y experiencias muy distintas intentan construir un vínculo romántico.",
+  "activo": true
+}

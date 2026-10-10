@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000965",
+  "titulo": "Live in Love",
+  "tituloOriginal": "รักผ่านไลฟ์ เดอะซีรีส์",
+  "alias": [
+    "Live In Love",
+    "Live in Love the Series",
+    "Rak Phan Live"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-09-01",
+  "finalizacion": "2024-09-29",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Universitario",
+    "Redes sociales",
+    "Amor juvenil",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kla",
+        "Cake"
+      ]
+    }
+  ],
+  "sinopsis": "Kla y Cake son dos estudiantes universitarios que se conocen de una forma inesperada a través de una transmisión en directo. Un comentario inocente sobre Cake desencadena una ola de comentarios y bromas en redes sociales que termina acercándolos. Lo que comienza como una interacción casual se transforma poco a poco en una relación marcada por el cariño y los sentimientos mutuos.",
+  "activo": true
+}

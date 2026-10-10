@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000260",
+  "titulo": "Wishing Upon the Shooting Stars",
+  "tituloOriginal": "向流星許願的我們",
+  "alias": [
+    "Wishing Upon the Shooting Stars"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2026,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "Finalizado",
+  "estreno": "2026-03-26",
+  "finalizacion": "2026-06-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Fantasía",
+    "Romance",
+    "Amor",
+    "Reencuentro",
+    "Amigos de infancia",
+    "Segunda oportunidad",
+    "Reencarnación",
+    "Deseos",
+    "Isla"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Xiang Yong",
+        "Chen Hao Wei"
+      ]
+    },
+    {
+      "personajes": [
+        "Li Wan Zhe",
+        "Hamaguchi Aomi"
+      ]
+    }
+  ],
+  "sinopsis": "He Xiang Yong regresa a su pueblo natal después de perder su trabajo. Una noche, desesperado, pide a una estrella fugaz el deseo de desaparecer. Al despertar, nadie parece reconocerlo y adopta una nueva identidad, Zhong Xiao You. Solo su amigo Li Wan Zhe sabe quién es realmente. En el pueblo vuelve a encontrarse con Chen Hao Wei, un antiguo amigo y amor del pasado, mientras Wan Zhe comienza inesperadamente una relación con Hamaguchi Aomi, un cliente japonés. Las dos historias de amor se entrelazan con los misterios del deseo y la identidad.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000740",
+  "titulo": "Love Sick: The Series",
+  "tituloOriginal": "รักวุ่น วัยรุ่นแสบ",
+  "alias": [
+    "Love Sick",
+    "Love Sick The Series",
+    "Love Sick: The Chaotic Lives of Blue Shorts Guys"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2014,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000042",
+    "orden": 1
+  },
+  "serie": "SR000740",
+  "remake": {
+    "codigo": "RM000740",
+    "orden": 1
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2014-07-06",
+  "finalizacion": "2014-09-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Noh",
+        "Phun"
+      ]
+    }
+  ],
+  "sinopsis": "Noh y Phun son dos estudiantes de secundaria cuya amistad se transforma gradualmente en una relación amorosa mientras afrontan las presiones familiares, los celos, las amistades y la vida escolar.",
+  "activo": true
+}

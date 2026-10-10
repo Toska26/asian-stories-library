@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000407",
+  "titulo": "My Brother",
+  "alias": [
+    "Bí Mật Của Adam 2",
+    "Adam's Secret 2: My Brother"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2017,
+  "tipo": "Webdrama",
+  "universo": "UN000011",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2017-11-17",
+  "finalizacion": "2018-03-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familia"
+  ],
+  "tags": [
+    "Amor",
+    "Familia",
+    "Hermanastros",
+    "Aceptación",
+    "Prejuicios",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phong",
+        "Vu"
+      ]
+    }
+  ],
+  "sinopsis": "Vu y su madre han permanecido siempre muy unidos, pero su vida cambia cuando ella decide mudarse con su pareja y el hijo de este, Phong. La convivencia entre los dos hermanastros comienza con dificultades, pero la calidez de Vu consigue romper poco a poco la frialdad de Phong. A medida que sus sentimientos crecen, ambos deben enfrentarse al conflicto familiar, a los prejuicios y a las consecuencias de su relación.",
+  "activo": true
+}

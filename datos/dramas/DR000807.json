@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000807",
+  "titulo": "Soulmate",
+  "tituloOriginal": "Roommate the Series ห้องนี้พี่ให้นาย Part II « พรหมลิขิต »",
+  "alias": [
+    "Roommate 2: Soulmate",
+    "Soul Roommate",
+    "Roommate the Series Part 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000806",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 2,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2020-12-25",
+  "finalizacion": "2020-12-29",
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "Compañeros de habitación",
+    "Almas gemelas",
+    "Destino",
+    "Reencuentro",
+    "Romance",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "James",
+        "Sky"
+      ]
+    }
+  ],
+  "sinopsis": "La historia de James y Sky continúa cuando ambos descubren que su encuentro quizá no fue una simple coincidencia. Mientras profundizan en su relación, comienzan a preguntarse si existe un vínculo entre ellos que va más allá de las circunstancias que los llevaron a convertirse en compañeros de habitación.",
+  "activo": true
+}

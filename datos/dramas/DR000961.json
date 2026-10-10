@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000961",
+  "titulo": "4Minutes",
+  "tituloOriginal": "สี่นาที",
+  "alias": [
+    "4MINUTES",
+    "4 Minutes",
+    "Si Na Tee"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2024-07-26",
+  "finalizacion": "2024-09-13",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Premonición",
+    "Medicina",
+    "Universitario",
+    "Realidades alternativas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Great",
+        "Tyme"
+      ]
+    }
+  ],
+  "sinopsis": "Great, un estudiante de administración e hijo de un poderoso empresario, descubre que puede ver acontecimientos futuros con cuatro minutos de antelación. Su capacidad le permite alterar el resultado de los acontecimientos, pero también lo arrastra hacia una compleja cadena de posibilidades. En una de ellas conoce a Tyme, un médico residente de cirugía que despierta en él una atracción inesperada.",
+  "activo": true
+}

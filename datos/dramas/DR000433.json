@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000433",
+  "titulo": "Mến Gái Miền Tây",
+  "alias": [
+    "Mến Gái Miền Tây: Ghe Bẹo Ghẹo Ai"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000029",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 103,
+  "estado": "Finalizado",
+  "estreno": "2022-03-25",
+  "finalizacion": "2022-03-25",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "LGBT",
+    "Amor",
+    "Familia",
+    "Identidad",
+    "Prejuicios",
+    "Comunidad LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mến",
+        "Nhớ"
+      ]
+    }
+  ],
+  "sinopsis": "La historia continúa las experiencias de Mến, una persona de la comunidad LGBT que debe enfrentarse a los prejuicios y a las dificultades familiares y sociales mientras intenta vivir de acuerdo con sus sentimientos y su identidad.",
+  "activo": true
+}

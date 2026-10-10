@@ -1,0 +1,120 @@
+{
+  "codigo": "DR000049",
+  "titulo": "I'm Tee, Me Too",
+  "tituloOriginal": "คนละทีเดียวกัน",
+  "alias": [
+    "Kon La Tee Dieow Gun",
+    "Different People - I’m Tee, Me Too"
+  ],
+  "tipo": "Drama",
+  "anio": 2020,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2020-09-18",
+  "finalizacion": "2020-11-06",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Watee",
+      "persona": "PR000162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Maitee",
+      "persona": "PR000163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Maytee",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "T-Rex",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Teedo",
+      "persona": "PR000292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Teedet",
+      "persona": "PR000164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000029",
+      "personajes": [
+        "Watee",
+        "Maitee"
+      ]
+    },
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Maytee",
+        "T-Rex"
+      ]
+    },
+    {
+      "ship": "SH000043",
+      "personajes": [
+        "Teedo",
+        "Teedet"
+      ]
+    }
+  ],
+  "sinopsis": "Watee, un estudiante universitario huérfano, descubre que la casa que heredó de su madre está hipotecada y necesita encontrar una forma de conservarla. Para poder pagar la deuda, decide alquilar las habitaciones a cinco jóvenes que, casualmente, también tienen el apodo de Tee. Los seis tienen personalidades muy diferentes y deben aprender a convivir bajo el mismo techo, enfrentándose juntos a sus problemas, miedos y a las situaciones caóticas que surgen de compartir una casa.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/91/ad/6d/91ad6d0dc82e8c4ebf5ac1eceea2f565.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=2xRF9eMlzTU"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

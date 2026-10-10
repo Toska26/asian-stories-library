@@ -1,0 +1,45 @@
+{
+  "codigo": "DR000716",
+  "titulo": "Takumi-kun Series 3: Bibō no Detail",
+  "tituloOriginal": "タクミくんシリーズ 美貌のディテイル",
+  "alias": [
+    "Takumi-kun Series 3",
+    "The Beauty of Detail"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2010,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "82 min",
+  "estado": "Finalizado",
+  "estreno": "2010-01-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    },
+    {
+      "personajes": [
+        "Misu Arata",
+        "Shingyoji Kanemitsu"
+      ]
+    }
+  ],
+  "sinopsis": "Al comenzar el tercer curso, Takumi deja de compartir habitación con Gii y pasa a convivir con Misu Arata. Mientras Takumi sufre al percibir un cambio en la actitud de Gii, Misu y Shingyoji forman una de las líneas románticas secundarias de la historia.",
+  "activo": true
+}

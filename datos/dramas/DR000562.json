@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000562",
+  "titulo": "The Leopard Cat Scholar",
+  "tituloOriginal": "狸猫书生",
+  "alias": [
+    "Li Mao Shu Sheng",
+    "The Leopard Cat Scholar S1",
+    "狸猫书生第一季"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000562",
+  "origen": {
+    "tipo": "Programa de televisión",
+    "titulo": "Great Escape",
+    "tituloOriginal": "密室大逃脱",
+    "pais": "CN"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2025-01-23",
+  "finalizacion": "2025-01-23",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Misterio",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación de programa",
+    "Ambientación histórica",
+    "Demonio",
+    "Investigación",
+    "Miniserie",
+    "Episodios cortos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tao Shaozhong",
+        "Wang Yizhi"
+      ]
+    }
+  ],
+  "sinopsis": "Los estudiantes de la Academia Qingshan, Tao Shaozhong y Wang Yizhi, se ven envueltos en una serie de misteriosas muertes. Mientras investigan, descubren pistas relacionadas con el legendario demonio gato y una red de corrupción y magia oscura dentro de la academia.",
+  "activo": true
+}

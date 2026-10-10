@@ -1,0 +1,95 @@
+{
+  "codigo": "DR000116",
+  "titulo": "Behind Cut",
+  "tituloOriginal": "비하인드 컷",
+  "alias": [
+    "Behind Cut",
+    "Bihindeu Keot"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000116",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2021-12-28",
+  "finalizacion": "2022-01-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Moda",
+    "Fotografía",
+    "Diseño",
+    "Amistad",
+    "Amor no correspondido",
+    "Trabajo"
+  ],
+  "personas": [
+    {
+      "nombre": "Ki Jin",
+      "persona": "PR000587",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeong Woo",
+      "persona": "PR000588",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ki Jin",
+        "Yeong Woo"
+      ]
+    }
+  ],
+  "sinopsis": "Ki Jin es un joven diseñador de moda que intenta abrirse camino mientras compagina su trabajo con sus sueños. Su vida cambia cuando conoce a Yeong Woo, un fotógrafo con quien desarrolla una relación que le obliga a enfrentarse a sus inseguridades y a las decisiones que ha tomado para alcanzar sus objetivos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/0b/e0/23/0be02329339a1da0e572f208c5610859.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=1jYZ9RlS3VM"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000075",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

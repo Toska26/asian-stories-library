@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000622",
+  "titulo": "Cherry Magic! 30 of Virginity Can Make You a Wizard?!",
+  "tituloOriginal": "30歳まで童貞だと魔法使いになれるらしい",
+  "alias": [
+    "Cherry Magic!",
+    "30-sai Made Doutei da to Mahou Tsukai ni Nareru Rashii"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000038",
+    "orden": 1
+  },
+  "remake": {
+    "codigo": "RM000066",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2020-10-09",
+  "finalizacion": "2020-12-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Oficina",
+    "Lectura de mente",
+    "Amor correspondido",
+    "Múltiples parejas"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Adachi Kiyoshi",
+        "Kurosawa Yuichi"
+      ]
+    },
+    {
+      "personajes": [
+        "Tsuge Masato",
+        "Wataya Minato"
+      ]
+    }
+  ],
+  "sinopsis": "Al cumplir treinta años sin haber tenido relaciones sexuales, el tímido oficinista Adachi Kiyoshi adquiere la capacidad de leer la mente de las personas cuando las toca. Al descubrir accidentalmente que su atractivo compañero Kurosawa Yuichi está enamorado de él, Adachi comienza a replantearse sus propios sentimientos. Paralelamente, su amigo Tsuge Masato inicia una relación con el repartidor Wataya Minato.",
+  "activo": true
+}

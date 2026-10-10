@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000638",
+  "titulo": "Given",
+  "tituloOriginal": "ギヴン",
+  "alias": [
+    "Given",
+    "GIVEN"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2021-07-17",
+  "finalizacion": "2021-08-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música",
+    "Banda",
+    "Instituto",
+    "Universidad",
+    "Duelo",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Uenoyama Ritsuka",
+        "Satou Mafuyu"
+      ]
+    },
+    {
+      "personajes": [
+        "Kaji Akihiko",
+        "Nakayama Haruki"
+      ]
+    }
+  ],
+  "sinopsis": "Ritsuka Uenoyama, un estudiante de instituto que ha perdido el interés por la música, conoce a Mafuyu Satou y comienza a enseñarle a tocar la guitarra. A través de la música, ambos desarrollan una relación cada vez más profunda mientras se enfrentan a sus sentimientos y a las heridas de su pasado.",
+  "activo": true
+}

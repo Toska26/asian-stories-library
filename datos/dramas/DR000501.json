@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000501",
+  "titulo": "Ossan's Love",
+  "tituloOriginal": "大叔的愛",
+  "alias": [
+    "Ossan's Love HK",
+    "Ossan’s Love (Hong Kong)",
+    "Uncle’s Love"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000087",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2021-06-28",
+  "finalizacion": "2021-07-16",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Remake",
+    "Triángulo amoroso",
+    "Trabajo",
+    "Oficina",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tin Yat Hung",
+        "Ling Siu Muk"
+      ]
+    }
+  ],
+  "sinopsis": "Tin Yat-hung, un agente inmobiliario cuya vida amorosa nunca ha tenido demasiado éxito, descubre que su jefe KK está enamorado de él. Al mismo tiempo, su compañero de trabajo y nuevo compañero de piso, Ling Siu Muk, también confiesa sus sentimientos. Tin se ve así atrapado en un inesperado triángulo amoroso.",
+  "activo": true
+}

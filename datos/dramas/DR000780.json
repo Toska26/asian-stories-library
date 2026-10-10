@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000780",
+  "titulo": "The Best Twins",
+  "tituloOriginal": "รักจิ้น ฟินเฟร่อ",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "35 min",
+  "estado": "Finalizado",
+  "estreno": "2019-03-30",
+  "finalizacion": "2019-05-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Gemelos",
+    "Familia",
+    "Instituto",
+    "Vecindad",
+    "Expareja"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Car",
+        "Ball"
+      ]
+    }
+  ],
+  "sinopsis": "Los gemelos Per y Car son muy diferentes: Per es heterosexual, mientras que Car es gay y mantiene una relación con su vecino Ball. La situación familiar se complica cuando Pad, su hermana mayor, se opone a que Car tenga una relación con otro hombre y cuando Tee, el exnovio de Car, vuelve a aparecer en sus vidas.",
+  "activo": true
+}

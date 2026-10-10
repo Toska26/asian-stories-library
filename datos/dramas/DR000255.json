@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000255",
+  "titulo": "A Perfect Match",
+  "tituloOriginal": "一拍即合",
+  "alias": [
+    "Yi Pai Ji He"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2025-02-24",
+  "finalizacion": "2025-02-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Deportes",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Tenis",
+    "Juventud",
+    "Empresa",
+    "CEO",
+    "Familia",
+    "Reencuentro",
+    "Amor",
+    "Expareja"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cheng Tian Xiang",
+        "Lin Xiao Nan"
+      ]
+    }
+  ],
+  "sinopsis": "Cheng Tian Xiang, un joven apasionado por el tenis, pierde una importante entrevista de trabajo después de detenerse para ayudar a una niña. El incidente lo lleva a conocer a Lin Xiao Nan, el frío gerente general de la empresa donde tenía previsto entrevistarse. Aunque al principio chocan por sus personalidades opuestas, la cercanía entre ambos hace que surja una atracción que poco a poco se transforma en amor.",
+  "activo": true
+}

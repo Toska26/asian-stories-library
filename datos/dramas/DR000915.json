@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000915",
+  "titulo": "My Dear Gangster Oppa",
+  "tituloOriginal": "พี่นักเลงที่รัก",
+  "alias": [
+    "Phi Nakleng Thi Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "The Ideal Relationship",
+    "tituloOriginal": "호형호제",
+    "autor": "KEN",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2023-10-26",
+  "finalizacion": "2023-12-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Crimen"
+  ],
+  "tags": [
+    "BL",
+    "Mafia",
+    "Videojuegos",
+    "Amor no correspondido",
+    "Mejores amigos",
+    "Identidad secreta",
+    "Gángsters",
+    "Triángulo amoroso",
+    "Webtoon"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Guy",
+        "Tew"
+      ]
+    }
+  ],
+  "sinopsis": "Guy es un estudiante universitario tímido que está enamorado en secreto de su mejor amigo Whan. Para escapar de sus sentimientos se refugia en los videojuegos, donde conoce a Yuri. Más tarde descubre que Yuri es en realidad la hermana del mafioso Tew, y su relación con él cambia por completo su vida.",
+  "especiales": [
+    {
+      "titulo": "My Dear Gangster Oppa Special Episode",
+      "tituloOriginal": "Special Episode",
+      "anio": 2023,
+      "fecha": "2023-12-21"
+    }
+  ],
+  "activo": true
+}

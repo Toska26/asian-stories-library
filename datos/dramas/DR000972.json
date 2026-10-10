@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000972",
+  "titulo": "Your Sky",
+  "tituloOriginal": "กี่หมื่นฟ้า",
+  "alias": [
+    "Your Sky",
+    "Your Sky Series",
+    "Khi Muen Fa"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Your Sky",
+    "tituloOriginal": "กี่หมื่นฟ้า",
+    "autor": "25.15.66",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 55,
+  "estado": "Finalizado",
+  "estreno": "2024-11-17",
+  "finalizacion": "2025-02-02",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Escolar"
+  ],
+  "tags": [
+    "Adaptación",
+    "Universitario",
+    "Relación falsa",
+    "Amor juvenil",
+    "Fake dating"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Teerak",
+        "Muenfah"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Your Sky of Us",
+      "fecha": "2025-02-09",
+      "tipo": "Narrativo"
+    }
+  ],
+  "sinopsis": "Teerak es un estudiante universitario alegre y amable que tiene dificultades para rechazar las peticiones de los demás. Cuando un estudiante mayor insiste en acercarse a él, Muenfah interviene y finge ser su novio para ayudarlo a salir de la situación. Lo que comienza como una relación falsa termina haciendo que ambos desarrollen sentimientos reales mientras descubren qué significa estar juntos.",
+  "activo": true
+}

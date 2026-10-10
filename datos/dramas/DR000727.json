@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000727",
+  "titulo": "Life in Smokey Blue",
+  "tituloOriginal": "スモークブルーの雨のち晴れ",
+  "alias": [
+    "Smoke Blue no Ame Nochi Hare"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "24 min",
+  "estado": "Finalizado",
+  "estreno": "2026-04-07",
+  "finalizacion": "2026-06-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Slice of Life"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Azuma Sakutaro",
+        "Kuji Shizuka"
+      ]
+    }
+  ],
+  "sinopsis": "Sakutaro Azuma, antiguo empleado estrella de una farmacéutica, se encuentra desempleado y sin rumbo. Una noche vuelve a encontrarse con Shizuka Kuji, su antiguo compañero y rival, con quien tuvo un encuentro íntimo ocho años atrás. La inesperada reunión hace que ambos vuelvan a entrar en la vida del otro.",
+  "activo": true
+}

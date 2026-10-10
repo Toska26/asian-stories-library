@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000434",
+  "titulo": "Ghe Bẹo Ghẹo Ai 2",
+  "alias": [
+    "Mến 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2023,
+  "tipo": "Webdrama",
+  "franquicia": {
+    "codigo": "FR000029",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2023-06-08",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Amor",
+    "Familia",
+    "Identidad",
+    "Prejuicios",
+    "Infidelidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mến",
+        "Nhớ"
+      ]
+    }
+  ],
+  "sinopsis": "La historia de Mến comienza durante su etapa escolar, cuando protege a otros jóvenes de la comunidad LGBT mientras oculta su propia identidad y sus sentimientos por Nhớ. Años después, su vida en pareja vuelve a enfrentarse a una nueva crisis cuando descubre la infidelidad de Nhớ.",
+  "activo": true
+}

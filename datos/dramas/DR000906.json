@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000906",
+  "titulo": "Future",
+  "tituloOriginal": "วิศวะสุดหล่อขอหมอเป็นเมีย",
+  "alias": [
+    "Future The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Future",
+    "tituloOriginal": "วิศวะสุดหล่อขอหมอเป็นเมีย",
+    "autor": "Faddist",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2023-03-12",
+  "finalizacion": "2023-04-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Ingeniería",
+    "Odontología",
+    "Flechazo",
+    "Comedia romántica"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fuse",
+        "Ana"
+      ]
+    }
+  ],
+  "sinopsis": "Fuse, un estudiante de ingeniería, queda fascinado por Ana, un estudiante de odontología de quinto año. Decidido a conquistarle, comienza a acercarse a él hasta que el juego de seducción se convierte en una relación real.",
+  "activo": true
+}

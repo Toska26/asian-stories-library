@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000684",
+  "titulo": "At 25:00 in Akasaka",
+  "tituloOriginal": "25時、赤坂で",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000683",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "At 25:00 in Akasaka",
+    "tituloOriginal": "25時、赤坂で",
+    "autor": "Hiroko Natsuno",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-10-02",
+  "finalizacion": "2025-12-04",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Pareja establecida",
+    "Actores",
+    "Fama",
+    "Trabajo",
+    "Relación a distancia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shirasaki Yuki",
+        "Hayama Asami"
+      ]
+    }
+  ],
+  "sinopsis": "Yuki y Hayama continúan su relación mientras afrontan las dificultades derivadas de sus carreras como actores y de la exposición pública de su romance. Su relación se pone a prueba mientras intentan encontrar un equilibrio entre su vida profesional y personal.",
+  "especiales": [
+    {
+      "titulo": "Hiru no Yume: Another Side",
+      "tituloOriginal": "昼のゆめ another side",
+      "alias": [
+        "At 25:00 in Akasaka Season 2 Spin-off: Hiru no Yume — Another Side"
+      ],
+      "tipo": "Spin-off",
+      "anio": 2025,
+      "episodios": 1,
+      "estreno": "2025-12-11"
+    }
+  ],
+  "activo": true
+}

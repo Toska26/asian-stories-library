@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000714",
+  "titulo": "Takumi-kun Series: Soshite Harukaze ni Sasayaite",
+  "tituloOriginal": "タクミくんシリーズ そして春風にささやいて",
+  "alias": [
+    "Takumi-kun Series 1",
+    "And the Spring Breeze Whispers"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2007,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000041",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": "75 min",
+  "estado": "Finalizado",
+  "estreno": "2007-12-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hayama Takumi",
+        "Saki Giichi"
+      ]
+    }
+  ],
+  "sinopsis": "Takumi Hayama, un estudiante de segundo curso con una fuerte aversión al contacto físico, es asignado como compañero de habitación de Giichi Saki, conocido como Gii. La convivencia entre ambos transforma la vida de Takumi cuando Gii le confiesa que está enamorado de él.",
+  "activo": true
+}

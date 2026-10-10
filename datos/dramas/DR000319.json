@@ -1,0 +1,60 @@
+{
+  "codigo": "DR000319",
+  "titulo": "Love at the End of the World",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 21,
+  "estado": "Finalizado",
+  "estreno": "2021-12-30",
+  "finalizacion": "2022-02-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Suspense",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Apocalipsis",
+    "Asteroide",
+    "Antología",
+    "Supervivencia",
+    "18+"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ben",
+        "Sam"
+      ]
+    },
+    {
+      "personajes": [
+        "Mark",
+        "Kaloy"
+      ]
+    },
+    {
+      "personajes": [
+        "Tony",
+        "Ian"
+      ]
+    },
+    {
+      "personajes": [
+        "Cris",
+        "Renzo"
+      ]
+    }
+  ],
+  "sinopsis": "Cuando se anuncia que un asteroide destruirá la Tierra en siete días, las vidas de varias personas quedan alteradas. La historia se divide en cuatro relatos que siguen a diferentes parejas mientras afrontan el amor, el deseo, los conflictos personales, la pérdida y la necesidad de resolver sus asuntos pendientes antes del fin del mundo.",
+  "activo": true
+}

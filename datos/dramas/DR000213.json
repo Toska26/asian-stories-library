@@ -1,0 +1,102 @@
+{
+  "codigo": "DR000213",
+  "titulo": "Checkered Shirt",
+  "tituloOriginal": "체크 남방을 입은 사내",
+  "alias": [
+    "Checkered Shirt",
+    "The Man in the Checkered Shirt",
+    "Chekeu Nambangeul Ibeun Sanae"
+  ],
+  "tipo": "Drama",
+  "anio": 2025,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000213",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "8 min",
+  "estado": "Finalizado",
+  "estreno": "2025-01-30",
+  "finalizacion": "2025-03-28",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance juvenil",
+    "Universidad",
+    "Primera relación",
+    "Aplicación de segunda mano",
+    "Destino",
+    "Fotografía",
+    "Secreto",
+    "Enamoramiento",
+    "Reencuentro emocional",
+    "Militar",
+    "Slow Burn"
+  ],
+  "personas": [
+    {
+      "nombre": "Jeong Woo",
+      "persona": "PR000670",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Gyeol",
+      "persona": "PR000595",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Young Hoon",
+      "persona": "PR000721",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jeong Woo",
+        "Han Gyeol"
+      ]
+    }
+  ],
+  "sinopsis": "Jeong Woo es un estudiante universitario con poca experiencia sentimental que compra una camisa de cuadros de segunda mano antes de comenzar su servicio militar. Al revisar la prenda descubre una fotografía que pertenece a Han Gyeol, el antiguo propietario de la camisa, y decide devolvérsela. El encuentro entre ambos despierta una conexión inesperada y lleva a Jeong Woo a descubrir una historia que se encontraba escondida en aquella fotografía. Mientras la curiosidad se transforma en sentimientos, ambos comienzan a acercarse justo cuando el futuro amenaza con separarlos.",
+  "multimedia": {
+    "portada": [
+      "https://boyslovefrance.wordpress.com/wp-content/uploads/2025/01/checkeredshirt_poster01.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=FRpqTJbjUgw"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000139",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

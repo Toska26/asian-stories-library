@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000563",
+  "titulo": "The Leopard Cat Scholar 2",
+  "tituloOriginal": "狸猫书生2",
+  "alias": [
+    "The Leopard Cat Scholar Season 2",
+    "Li Mao Shu Sheng 2",
+    "狸猫书生第二季",
+    "密室大逃脱衍生剧之狸猫书生2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000562",
+  "origen": {
+    "tipo": "Programa de televisión",
+    "titulo": "Great Escape",
+    "tituloOriginal": "密室大逃脱",
+    "pais": "CN"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 20,
+  "duracion": 10,
+  "estado": "Finalizado",
+  "estreno": "2025-10-06",
+  "finalizacion": "2025-10-12",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Misterio",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Bromance",
+    "Secuela",
+    "Viajes en el tiempo",
+    "Ambientación histórica",
+    "Universidad",
+    "Investigación",
+    "Miniserie",
+    "Episodios cortos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tao Ran",
+        "Wang Haozhi"
+      ]
+    }
+  ],
+  "sinopsis": "Wang Haozhi, un antiguo demonio gato, utiliza su capacidad para viajar a través del tiempo y llega a la universidad de Qingshan en 2025, donde conoce a Tao Ran, a quien considera la reencarnación de su antiguo amigo. Juntos investigan un caso ocurrido en 2005 mientras intentan descubrir la verdad que conecta el pasado y el presente.",
+  "activo": true
+}

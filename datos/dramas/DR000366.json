@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000366",
+  "titulo": "The Heirs",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": 13,
+  "estado": "Finalizado",
+  "estreno": "2022-08-01",
+  "finalizacion": "2022-08-17",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Deudas",
+    "Cobrador",
+    "Enemigos a amantes",
+    "Diferencias sociales",
+    "Ayuda",
+    "Confianza",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kevin",
+        "Carl"
+      ]
+    }
+  ],
+  "sinopsis": "Kevin hereda las deudas de sus padres y lucha por conseguir el dinero necesario para pagarlas. Su relación con Carl, el cobrador encargado de la deuda, comienza marcada por el conflicto y la desconfianza. Sin embargo, cuando Kevin ayuda a Carl después de que su casa sea robada, ambos empiezan a acercarse y sus sentimientos cambian.",
+  "activo": true
+}

@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000261",
+  "titulo": "Smile After Tears",
+  "tituloOriginal": "轉過頭幫你擦眼淚",
+  "alias": [
+    "Zhuan Guo Tou Bang Ni Ca Yan Lei"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2026,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 27,
+  "estado": "Finalizado",
+  "estreno": "2026-05-20",
+  "finalizacion": "2026-07-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Juvenil",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Juventud",
+    "Música",
+    "Banda",
+    "Amor",
+    "Amor de juventud",
+    "Duelo",
+    "Vida después de la muerte",
+    "Superación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Jun Jia",
+        "He Yan Kai"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhang Jun Jia",
+        "Zheng Diao Qin"
+      ]
+    }
+  ],
+  "sinopsis": "Zhang Jun Jia es un estudiante optimista que utiliza su sonrisa para ocultar sus verdaderos sentimientos. Al trasladarse a una nueva escuela entra en la banda Backspace y conoce a He Yan Kai, un alumno mayor y reservado con quien desarrolla una relación especial a través de la música. Sin embargo, un accidente cambia sus vidas y obliga a Jun Jia a enfrentarse al dolor de la pérdida. Mientras He intenta ayudarlo desde un misterioso espacio entre la vida y la muerte, una nueva conexión comienza a surgir entre Jun Jia y Zheng Diao Qin.",
+  "activo": true
+}

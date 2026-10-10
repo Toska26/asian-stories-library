@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000819",
+  "titulo": "Country Boy T2",
+  "tituloOriginal": "บ้านพักหลังป่วนกับก๊วนเด็กเมือง 2",
+  "alias": [
+    "Country Boy 2",
+    "Country Boy Season 2"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000818",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 2,
+  "duracion": "33-38 min",
+  "estado": "Finalizado",
+  "estreno": "2022-03-29",
+  "finalizacion": "2022-04-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "Familia",
+    "Trabajo",
+    "Ciudad",
+    "Casa rural",
+    "Distancia",
+    "Relación a distancia",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Keptawan",
+        "Nabdao"
+      ]
+    }
+  ],
+  "sinopsis": "Después de que la casa de huéspedes de Nabdao consigue recuperarse económicamente gracias a su estrategia de marketing, Keptawan viaja a la ciudad para trabajar en la cafetería de su tío. La distancia y las nuevas obligaciones dificultan su relación con Nabdao, pero ambos intentan encontrar la forma de volver a acercarse.",
+  "activo": true
+}

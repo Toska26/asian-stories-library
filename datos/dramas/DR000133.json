@@ -1,0 +1,94 @@
+{
+  "codigo": "DR000133",
+  "titulo": "Oh! My Assistant",
+  "tituloOriginal": "오! 나의 어시님",
+  "alias": [
+    "Oh! My Assistant",
+    "Oh! Naui Eosineum"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000133",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2022-11-10",
+  "finalizacion": "2022-12-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Webtoon",
+    "Escritor",
+    "Asistente",
+    "Oficina",
+    "Convivencia",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Seon Ho",
+      "persona": "PR000613",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mu Yeong",
+      "persona": "PR000614",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Seon Ho",
+        "Mu Yeong"
+      ]
+    }
+  ],
+  "sinopsis": "Seon Ho es un autor de webtoons que trabaja en cómics para adultos, pero el éxito de sus historias le ha provocado un problema inesperado: ha perdido por completo su libido. Para poder hacer frente a la creciente carga de trabajo, contrata a Mu Yeong, un joven que además de convertirse en su asistente es uno de sus mayores admiradores. La convivencia hace que Mu Yeong desarrolle sentimientos por él, mientras la aparición de Joon Seok complica aún más la relación entre los tres.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/a6/08/be/a608be025d5c1f9dd0d802c5b5c36ad5.jpg",
+      "https://i.pinimg.com/1200x/e6/06/82/e60682ab8d0b24dd13c66b8d077354c5.jpg",
+      "https://i.pinimg.com/1200x/4c/63/25/4c6325b16b2ffbee3f222ca442d02035.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000060",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000088",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

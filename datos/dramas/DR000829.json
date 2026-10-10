@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000829",
+  "titulo": "Deal Lover",
+  "tituloOriginal": "ซื้อง่ายขายรัก",
+  "alias": [
+    "Deal Lover The Series",
+    "Buy Easy, Sell Love"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": "20-23 min",
+  "estado": "Finalizado",
+  "estreno": "2021-02-01",
+  "finalizacion": "2021-03-01",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Casa",
+    "Convivencia",
+    "Competición",
+    "Familia",
+    "Universidad",
+    "Amistad",
+    "Romance"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tokyo",
+        "Tam"
+      ]
+    }
+  ],
+  "sinopsis": "Din y Milan compiten por hacerse con la propiedad de una casa, pero la situación obliga a sus respectivos familiares y amigos a relacionarse. Mientras la disputa por la vivienda continúa, Tokyo, el hermano menor de Milan, conoce a Tam, el mejor amigo de Din, y ambos desarrollan rápidamente una relación romántica.",
+  "activo": true
+}

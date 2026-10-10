@@ -1,0 +1,149 @@
+{
+  "codigo": "DR000095",
+  "titulo": "Senior Secret Love: Puppy Honey",
+  "tituloOriginal": "รุ่นพี่ Secret Love ตอน Puppy Honey",
+  "alias": [
+    "Puppy Honey"
+  ],
+  "tipo": "Drama",
+  "anio": 2016,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000095",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2016-03-20",
+  "finalizacion": "2016-04-24",
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Veterinaria",
+    "Animales",
+    "Club de animales",
+    "Fobia a los perros",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Porsche",
+      "persona": "PR000563",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Emma",
+      "persona": "PR000564",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pick",
+      "persona": "PR000177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rome",
+      "persona": "PR000513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000115",
+      "personajes": [
+        "Porsche",
+        "Emma"
+      ]
+    },
+    {
+      "ship": "SH000078",
+      "personajes": [
+        "Pick",
+        "Rome"
+      ]
+    }
+  ],
+  "sinopsis": "Porsche y Pick son estudiantes de cuarto año de veterinaria y forman parte de un club universitario dedicado al cuidado de perros y gatos. Cuando el decano decide cerrar el club, Porsche busca la ayuda de Emma, una estudiante de primer año y sobrina del decano, para evitar que desaparezca. Emma ama a los animales, especialmente a los gatos, pero tiene miedo de los perros. Mientras Porsche intenta ayudarla a superar su fobia, Pick y Rome, el mejor amigo de Emma, comienzan a descubrir que entre ellos existe algo más que amistad.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/6b/11/6d/6b116d8256c54c9cb0d7cc7313895888.jpg",
+      "https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg",
+      "https://media.fstatic.com/YYHr9c8rzFzJTQNL6nr-EAW0iMs%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/04/secret-love-puppy-love_tNone.jpg",
+      "https://media.fstatic.com/Br4WL8CFgVydPJ50UKQrcELBGb8%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/05/secret-love-puppy-honey_t205675.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=9WOCQoyiJC8"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=O8HFbePqinQ"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=PQO7PXBvDhA",
+      "https://www.youtube.com/watch?v=HBcRC5tMzwA"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=S4QT7prMhrA"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000005",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Our Skyy — Puppy Honey",
+      "tituloOriginal": "Our Skyy",
+      "alias": [
+        "Our Skyy: Pick & Rome"
+      ],
+      "tipo": "Especial",
+      "anio": 2018,
+      "episodios": 1,
+      "estreno": "2018-11-23"
+    }
+  ],
+  "activo": true
+}

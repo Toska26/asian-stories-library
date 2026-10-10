@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000881",
+  "titulo": "Big Dragon",
+  "tituloOriginal": "มังกรกินใหญ่",
+  "alias": [
+    "Big Dragon The Series",
+    "Mangkon Kin Yai",
+    "Mangkorn Yai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Big Dragon",
+    "tituloOriginal": "มังกรกินใหญ่",
+    "autor": "Aiden N Vivienne",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-08",
+  "finalizacion": "2022-11-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Universidad"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Enemigos a amantes",
+    "Universidad",
+    "Arquitectura",
+    "Primera noche",
+    "Rivalidad",
+    "Celos",
+    "Venganza",
+    "Negocios",
+    "Atracción física"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mangkorn",
+        "Yai"
+      ]
+    }
+  ],
+  "sinopsis": "Yai y Mangkorn son dos universitarios que mantienen una relación de rivalidad y enfrentamiento constante. Después de una noche impulsiva que ninguno de los dos esperaba, Yai decide renovar su local para borrar todo rastro de aquel encuentro. Sin embargo, el destino vuelve a poner a Mangkorn en su camino cuando descubre que él será el arquitecto encargado de diseñar la reforma. Obligados a trabajar juntos, los dos tendrán que enfrentarse a la atracción que existe entre ellos y descubrir si su hostilidad puede transformarse en algo mucho más profundo.",
+  "activo": true
+}

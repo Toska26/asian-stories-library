@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000693",
+  "titulo": "Sugar Dog Life",
+  "tituloOriginal": "シュガードッグライフ",
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Sugar Dog Life",
+    "tituloOriginal": "シュガードッグライフ",
+    "autor": "Yoriko",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 24,
+  "estado": "Finalizado",
+  "estreno": "2024-08-03",
+  "finalizacion": "2024-09-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Policía",
+    "Diferencia de edad",
+    "Cocina",
+    "Vida cotidiana"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sakuraba Isumi",
+        "Amasawa Kyo"
+      ]
+    }
+  ],
+  "sinopsis": "Isumi Sakuraba, un estudiante universitario de baja estatura que trabaja en una tienda de conveniencia, conoce a Amasawa, un policía de mayor edad. Lo que comienza con encuentros casuales y comida compartida acaba convirtiéndose en una relación romántica.",
+  "activo": true
+}

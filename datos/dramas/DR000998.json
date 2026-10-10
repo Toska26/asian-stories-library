@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000998",
+  "titulo": "Boys in Love",
+  "tituloOriginal": "เปิดเทอมใหม่ หัวใจหัดรัก",
+  "alias": [
+    "Boys in Love The Series",
+    "Poet Lae"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 46,
+  "estado": "Finalizado",
+  "estreno": "2025-04-20",
+  "finalizacion": "2025-07-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Juventud",
+    "Drama"
+  ],
+  "tags": [
+    "Instituto",
+    "Amistad",
+    "Tutorías",
+    "Primer amor",
+    "Vida escolar",
+    "Flechazo"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shane",
+        "Kit"
+      ]
+    },
+    {
+      "personajes": [
+        "Kim",
+        "Mon"
+      ]
+    }
+  ],
+  "sinopsis": "Durante un nuevo semestre escolar, Shane debe ayudar como tutor al despreocupado y coqueto Kit, mientras su amigo Kim, cansado de sus decepciones amorosas, conoce al nuevo estudiante Mon y se enamora de él a primera vista. Las historias de los cuatro jóvenes se entrelazan mientras descubren el amor, la amistad y las responsabilidades de crecer.",
+  "activo": true
+}

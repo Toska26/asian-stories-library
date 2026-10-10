@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000649",
+  "titulo": "Fudanshi Bartender",
+  "tituloOriginal": "腐男子バーテンダーの嗜み",
+  "alias": [
+    "Fudanshi Bartender no Tashinami"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Fudanshi Bartender",
+    "tituloOriginal": "腐男子バーテンダーの嗜み",
+    "autor": "Naruko",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 2,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2022-05-31",
+  "finalizacion": "2022-05-31",
+  "generos": [
+    "BL",
+    "Comedia",
+    "Slice of Life"
+  ],
+  "tags": [
+    "BL",
+    "Fudanshi",
+    "Otaku",
+    "Bar",
+    "Comedia",
+    "Imaginación",
+    "Cultura BL"
+  ],
+  "sinopsis": "Hibiki Soichiro trabaja como bartender en un bar de Shonan y oculta un secreto: es un fudanshi apasionado por el BL. Mientras atiende a sus clientes, observa sus interacciones e imagina posibles parejas entre ellos, convirtiendo la vida cotidiana del bar en una comedia llena de fantasías BL.",
+  "activo": true
+}

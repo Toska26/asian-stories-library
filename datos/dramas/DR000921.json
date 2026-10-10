@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000921",
+  "titulo": "The Luminous Begins",
+  "tituloOriginal": "แสงแรกรัก",
+  "alias": [
+    "The Luminous Solution Season 2",
+    "Luminous Begins",
+    "Saeng Raek Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000920",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2025-08-20",
+  "finalizacion": "2025-10-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural",
+    "Precuela",
+    "Cafetería mágica",
+    "Deseos",
+    "Maldición",
+    "Amor trágico",
+    "Destino",
+    "Sacrificio",
+    "Origen de la maldición"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nont",
+        "Nai"
+      ]
+    }
+  ],
+  "sinopsis": "Precuela de The Luminous Solution que revela cómo comenzó la maldición relacionada con la misteriosa cafetería que concede deseos. La historia se centra en Nont y Nai y en el nacimiento de su relación, mientras los primeros deseos concedidos desencadenan una serie de acontecimientos trágicos que terminarán dando origen a la maldición que afecta a las historias posteriores.",
+  "activo": true
+}

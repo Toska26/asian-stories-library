@@ -1,0 +1,98 @@
+{
+  "codigo": "DR000192",
+  "titulo": "Private Lesson",
+  "tituloOriginal": "프라이빗 레슨",
+  "alias": [
+    "Private Lesson",
+    "Peuraibaet Reseun"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000017",
+    "orden": 2
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "10 min",
+  "estado": "Finalizado",
+  "estreno": "2026-05-07",
+  "finalizacion": "2026-05-28",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Romance universitario"
+  ],
+  "tags": [
+    "BL",
+    "Amor secreto",
+    "Sentimientos ocultos",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Primer amor",
+    "Tutor y alumno",
+    "Deseo reprimido",
+    "Diferencia de poder",
+    "Romance adulto"
+  ],
+  "personas": [
+    {
+      "nombre": "Hyeon Seo",
+      "persona": "PR000711",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae On",
+      "persona": "PR000712",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hyeon Seo",
+        "Jae On"
+      ]
+    }
+  ],
+  "sinopsis": "Hyeon Seo trabaja como tutor privado y ha intentado mantener ocultos los sentimientos que conserva desde el pasado. Su vida cambia cuando vuelve a encontrarse con Jae On, su antiguo alumno, que conoce más de esos sentimientos de lo que Hyeon Seo quisiera admitir. El reencuentro despierta emociones que ambos habían intentado dejar atrás y los obliga a enfrentarse a una relación marcada por secretos, recuerdos y sentimientos reprimidos.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=P3UEPVLe7ZQ"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,52 @@
+{
+  "codigo": "DR000237",
+  "titulo": "About Youth",
+  "tituloOriginal": "默默的我，不默默的我們",
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "22-30 min",
+  "estado": "Finalizado",
+  "estreno": "2022-08-29",
+  "finalizacion": "2022-09-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Música",
+    "Banda",
+    "Amigos a amantes",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xu Qi Zhang",
+        "Ye Guang"
+      ]
+    },
+    {
+      "personajes": [
+        "Ah Jian",
+        "Ray"
+      ]
+    }
+  ],
+  "sinopsis": "Xu Qi Zhang es un estudiante reservado que encuentra su confianza cuando actúa como músico, mientras Ye Guang es un alumno popular que esconde su soledad. Ambos se acercan al competir por la presidencia estudiantil y descubren una conexión que transforma su relación. Paralelamente, Ah Jian y Ray desarrollan su propia historia romántica.",
+  "activo": true
+}

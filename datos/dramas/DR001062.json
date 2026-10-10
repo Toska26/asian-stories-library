@@ -1,0 +1,53 @@
+{
+  "codigo": "DR001062",
+  "titulo": "Unlucky Bae",
+  "tituloOriginal": "จุดจีบสายมู",
+  "alias": [
+    "Jut Jeeb Sai Mu"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2026-08-06",
+  "finalizacion": "2026-10-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Maldiciones",
+    "Superstición",
+    "Rituales",
+    "Destino",
+    "Protección",
+    "Amor inesperado",
+    "Universidad",
+    "Múltiples parejas",
+    "Amigos a amantes",
+    "GMMTV"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Rin",
+        "Khobfah"
+      ]
+    },
+    {
+      "personajes": [
+        "Krit",
+        "Mochi"
+      ]
+    }
+  ],
+  "sinopsis": "Rin, un joven procedente de una familia vinculada a las creencias y los rituales espirituales, siempre ha intentado apartarse de esa tradición. Cuando descubre que su expareja, Krit, está con Mochi, se deja llevar por la rabia y realiza un ritual para maldecir a su antiguo amor. Sin embargo, utiliza por error un bolígrafo que pertenece a Khobfah, un estudiante de Administración y amigo de Krit. Al comprender que ha condenado a la persona equivocada, Rin se acerca a Khobfah para protegerlo de la mala suerte provocada por la maldición. Lo que comienza como un intento de reparar el error se convierte en una relación inesperada. En paralelo, Krit y Mochi deberán descubrir si lo que empezó como una relación sin compromiso puede transformarse en amor verdadero.",
+  "activo": true
+}

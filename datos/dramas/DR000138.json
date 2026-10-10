@@ -1,0 +1,127 @@
+{
+  "codigo": "DR000138",
+  "titulo": "A Shoulder to Cry On",
+  "tituloOriginal": "소년을 위로해줘!",
+  "alias": [
+    "A Shoulder to Cry On",
+    "Comfort the Boy",
+    "Let Me Comfort The Boy",
+    "Sonyeoneul Wirohaejwo"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 7,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2023-03-15",
+  "finalizacion": "2023-03-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Escolar",
+    "Instituto",
+    "Amistad",
+    "Enemistad",
+    "Primer amor",
+    "Coming-of-age"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Da Yeol",
+      "persona": "PR000629",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jo Tae Hyun",
+      "persona": "PR000630",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Da Yeol",
+        "Jo Tae Hyun"
+      ]
+    }
+  ],
+  "sinopsis": "Da Yeol, un estudiante dedicado al tiro con arco, ve amenazada su beca cuando se ve involucrado en un incidente con Tae Hyun, uno de los alumnos más populares del instituto. Tae Hyun aprovecha la situación para atormentarlo y convertir su vida escolar en un infierno. Sin embargo, la hostilidad entre ambos comienza a transformarse cuando Da Yeol descubre la soledad y las heridas que se esconden detrás de la actitud de Tae Hyun.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/a8/1a/e4/a81ae455a65584db9131a2ebd9a11350.jpg",
+      "https://i.pinimg.com/1200x/71/3a/dc/713adcdeaf7b10dc2cf16c29925c536d.jpg",
+      "https://i.pinimg.com/1200x/4c/72/b4/4c72b47623a2a9a2a45c60d202e37684.jpg",
+      "https://i.pinimg.com/1200x/1b/6e/90/1b6e903bba0edc43e16b4b345d7d25ab.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=mFbB52wpaiM"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=krsif04sIWc"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000098",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000099",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000091",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000114",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

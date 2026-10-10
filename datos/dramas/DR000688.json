@@ -1,0 +1,62 @@
+{
+  "codigo": "DR000688",
+  "titulo": "Takara's Treasure",
+  "tituloOriginal": "タカラのびいどろ",
+  "alias": [
+    "Takara no Bīdoro"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Takara's Treasure",
+    "tituloOriginal": "タカラのびいどろ",
+    "autor": "Minta Suzumaru",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2024-07-01",
+  "finalizacion": "2024-09-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Amor no correspondido",
+    "Persecución amorosa",
+    "Diferencia de edad",
+    "Fukuoka"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Takara Shiga",
+        "Taishin Nakano"
+      ]
+    }
+  ],
+  "sinopsis": "Taishin se muda a Tokio para comenzar la universidad y reencontrarse con Takara, un joven que lo consoló en un momento difícil. Cuando Takara lo recibe con frialdad, Taishin decide acercarse a él hasta que sus sentimientos comienzan a cambiar.",
+  "especiales": [
+    {
+      "titulo": "Takara's Treasure: Taishin Turns 20",
+      "tituloOriginal": "大進、ハタチになる",
+      "tipo": "Spin-off",
+      "anio": 2024,
+      "episodios": 1,
+      "estreno": "2024-09-09"
+    }
+  ],
+  "activo": true
+}

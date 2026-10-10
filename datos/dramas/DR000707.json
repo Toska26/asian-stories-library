@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000707",
+  "titulo": "Chosen Home",
+  "tituloOriginal": "ぼくたちん家",
+  "alias": [
+    "Bokutachinchi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-10-12",
+  "finalizacion": "2025-12-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Familia elegida",
+    "Cohabitación",
+    "Diferencia de edad",
+    "Adultos",
+    "Coming out",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hatano Genichi",
+        "Sakuta Saku"
+      ]
+    }
+  ],
+  "sinopsis": "Hatano Genichi, un hombre gay de 50 años que desea construir una vida junto a la persona que ama, se enamora de Sakuta Saku, un profesor de secundaria gay emocionalmente distante. Sus vidas cambian cuando una adolescente llamada Hotaru les pide que se conviertan en sus tutores, dando comienzo a una convivencia poco convencional.",
+  "especiales": [
+    {
+      "titulo": "Mou Hitori no Sakuta Saku, no Koi",
+      "tituloOriginal": "もうひとりの作田索、の恋",
+      "alias": [
+        "The Love of Another Sakuta Saku"
+      ],
+      "tipo": "Historia original de Hulu",
+      "anio": 2025,
+      "episodios": 2,
+      "estreno": "2025-12-07"
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000790",
+  "titulo": "I Promised You the Moon",
+  "tituloOriginal": "แปลรักฉันด้วยใจเธอ Part 2",
+  "alias": [
+    "I Told Sunset About You: Part 2",
+    "IPYTM"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "serie": {
+    "codigo": "SR000789"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 5,
+  "estado": "Finalizado",
+  "estreno": "2021-05-27",
+  "finalizacion": "2021-06-24",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Coming-of-age"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Relación de pareja",
+    "Distancia emocional",
+    "Celos",
+    "Infidelidad",
+    "Madurez",
+    "Identidad",
+    "Bangkok"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Teh",
+        "Oh-aew"
+      ]
+    }
+  ],
+  "sinopsis": "Después de dejar Phuket para comenzar su vida universitaria en Bangkok, Teh y Oh-aew afrontan una nueva etapa de su relación. La distancia emocional, los nuevos amigos, las exigencias de la universidad y las nuevas experiencias ponen a prueba el vínculo que construyeron durante años. Mientras ambos intentan descubrir qué quieren para su futuro, deberán decidir si su amor puede sobrevivir a los cambios que trae consigo la vida adulta.",
+  "activo": true
+}

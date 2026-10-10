@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000644",
+  "titulo": "Minato's Laundromat 2",
+  "tituloOriginal": "みなと商事コインランドリー2",
+  "alias": [
+    "Minato Shouji Coin Laundry 2",
+    "Minato Shōji Coin Laundry 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "serie": "SR000643",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2023-07-05",
+  "finalizacion": "2023-09-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Diferencia de edad",
+    "Amor de juventud",
+    "Primer amor",
+    "Pareja estable",
+    "Amnesia",
+    "Convivencia",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minato Akira",
+        "Katsuki Shintaro"
+      ]
+    },
+    {
+      "personajes": [
+        "Hanabusa Asuka",
+        "Sakuma Shu"
+      ]
+    }
+  ],
+  "sinopsis": "Minato y Shintaro ya son pareja y disfrutan de su relación, aunque la diferencia de edad y sus distintas etapas de vida siguen planteándoles nuevos desafíos. Mientras ambos intentan construir un futuro juntos, un accidente provoca que Shintaro pierda parte de sus recuerdos y pone a prueba su relación. Paralelamente, Asuka y Shu continúan desarrollando su propia relación y afrontan juntos nuevas dificultades.",
+  "activo": true
+}

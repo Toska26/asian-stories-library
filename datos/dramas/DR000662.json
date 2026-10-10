@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000662",
+  "titulo": "I Became the Main Role of a BL Drama 2",
+  "tituloOriginal": "続・BLドラマの主演になりました",
+  "alias": [
+    "Zoku BL Drama no Shuen ni Narimashita",
+    "Zoku: BL Drama no Shuen ni Narimashita",
+    "I Became the Main Role of a BL Drama: Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000661",
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "I Became the Main Role of a BL Drama",
+    "tituloOriginal": "BLドラマの主演になりました",
+    "autor": "Suzuri Machi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 6,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2025-06-13",
+  "finalizacion": "2025-07-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Showbiz",
+    "Actores",
+    "Convivencia",
+    "Pareja",
+    "Amor correspondido",
+    "Adaptación de manga"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Akafuji Yuichiro",
+        "Aoyagi Hajime"
+      ]
+    }
+  ],
+  "sinopsis": "Después de superar los obstáculos de su convivencia y comenzar oficialmente su relación, Akafuji Yuichiro y Aoyagi Hajime afrontan una nueva etapa de su amor. Mientras intentan avanzar como pareja, nuevas situaciones profesionales y personales ponen a prueba su relación, dando lugar a nuevos malentendidos y momentos de romance.",
+  "activo": true
+}

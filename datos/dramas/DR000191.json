@@ -1,0 +1,87 @@
+{
+  "codigo": "DR000191",
+  "titulo": "Wuju Bakery",
+  "tituloOriginal": "우주빵집",
+  "alias": [
+    "Wuju Bakery",
+    "Wooju Bakery",
+    "Space Bakery",
+    "Uju Bakery",
+    "Uju Ppangjip"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "25 min",
+  "estado": "Finalizado",
+  "estreno": "2026-04-10",
+  "finalizacion": "2026-05-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Panadería",
+    "Extraterrestre",
+    "Príncipe alienígena",
+    "Cohabitación",
+    "Misterio",
+    "Vida cotidiana",
+    "Identidad secreta",
+    "Romance fantástico"
+  ],
+  "personas": [
+    {
+      "nombre": "Wooju",
+      "persona": "PR000734",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Raon",
+      "persona": "PR000735",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wooju",
+        "Raon"
+      ]
+    }
+  ],
+  "sinopsis": "La tranquila vida de Wooju, propietario de una pequeña panadería, cambia por completo cuando un misterioso príncipe extraterrestre aparece en su establecimiento. Obligados a convivir mientras intentan comprender el origen de Raon y mantener su existencia en secreto, ambos empiezan a desarrollar una relación que mezcla situaciones cotidianas, misterio y sentimientos inesperados.",
+  "entidades": [
+    {
+      "codigo": "EN000072",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

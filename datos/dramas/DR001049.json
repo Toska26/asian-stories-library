@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001049",
+  "titulo": "Lost to Light",
+  "tituloOriginal": "Lost to Light",
+  "alias": [
+    "Lost to Light UNCUT"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Lost to Light",
+    "tituloOriginal": "อยากจะดัง หรือ อาจจะยัง",
+    "autor": "BamBam",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 52,
+  "estado": "Finalizado",
+  "estreno": "2026-06-20",
+  "finalizacion": "2026-07-18",
+  "generos": [
+    "Romance",
+    "Comedia romántica",
+    "Drama musical",
+    "Drama"
+  ],
+  "tags": [
+    "Industria musical",
+    "Grupo idol",
+    "Vida de idols",
+    "Música",
+    "Baile",
+    "Sueños de fama",
+    "Grupo en crisis",
+    "Rivales a amantes",
+    "Amor no correspondido",
+    "Primer amor",
+    "Segundas oportunidades",
+    "Identidad falsa",
+    "Comedia",
+    "BL",
+    "GL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jeng",
+        "Mai"
+      ]
+    },
+    {
+      "personajes": [
+        "Sithian",
+        "Bailiu"
+      ]
+    }
+  ],
+  "especiales": [
+    "Special EP1",
+    "Special EP2"
+  ],
+  "sinopsis": "Un grupo idol que sueña con alcanzar la fama atraviesa una crisis y acaba obligado a llevar disfraces de mascota. Para evitar su disolución, su jefe impone una condición: incorporar a Mai al grupo. Mientras Jeng y Mai desarrollan una relación entre tensiones y sentimientos inesperados, Sithian debe recurrir a Bailiu, su primer amor y ahora un poderoso empresario musical, para salvar el proyecto.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/nEEX1lTFrr2sAZinjNbEpCDayq1.jpg"
+    ]
+  },
+  "activo": true
+}

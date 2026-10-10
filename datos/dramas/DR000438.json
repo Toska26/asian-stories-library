@@ -1,0 +1,32 @@
+{
+  "codigo": "DR000438",
+  "titulo": "Happiness Flies Far Away",
+  "alias": [
+    "Hạnh Phúc Xa Bay"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "estreno": "2020-10-29",
+  "finalizacion": "2020-12-17",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Amor",
+    "Familia",
+    "Separación",
+    "Reencuentro",
+    "LGBT"
+  ],
+  "sinopsis": "Una historia de amor marcada por la distancia y las circunstancias que separan a sus protagonistas. Los sentimientos permanecen mientras ambos afrontan las dificultades que amenazan su relación y su búsqueda de la felicidad.",
+  "activo": true
+}

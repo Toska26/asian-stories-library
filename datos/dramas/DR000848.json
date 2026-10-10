@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000848",
+  "titulo": "The Tuxedo",
+  "tituloOriginal": "สูทรักนักออกแบบ",
+  "alias": [
+    "The Tuxedo The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-03-05",
+  "finalizacion": "2022-04-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nawee",
+        "Aioun"
+      ]
+    }
+  ],
+  "sinopsis": "Nawee, heredero de una gran fortuna, es arrogante y distante debido a una grave fobia social provocada por un trauma de infancia. Su vida cambia cuando conoce a Aioun, un talentoso sastre que debe confeccionar sus trajes. A medida que trabajan juntos, la confianza y la atracción entre ambos crecen hasta convertirse en una relación amorosa.",
+  "activo": true
+}

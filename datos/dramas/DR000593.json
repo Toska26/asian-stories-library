@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000593",
+  "titulo": "Journey With You",
+  "tituloOriginal": "与君同",
+  "alias": [
+    "Yu Jun Tong",
+    "與君同"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-08",
+  "finalizacion": "2026-06-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Renacimiento",
+    "Segunda oportunidad",
+    "Intriga palaciega",
+    "Príncipe",
+    "Viaje temporal",
+    "Venganza",
+    "Destino",
+    "Lealtad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yin Qi",
+        "Pei Yanzhi"
+      ]
+    }
+  ],
+  "sinopsis": "Yin Qi, quinto príncipe de la dinastía Xing, regresa a la capital después de tres años protegiendo la frontera y cae en una conspiración junto a Pei Yanzhi, el hombre más cercano a él. Tras morir, Yin Qi despierta tres años en el pasado con sus recuerdos intactos y decide cambiar el destino de ambos, proteger a Pei Yanzhi y descubrir quién se encuentra detrás de la conspiración que acabó con sus vidas.",
+  "activo": true
+}

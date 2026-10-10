@@ -1,0 +1,61 @@
+{
+  "codigo": "DR000880",
+  "titulo": "Ghost Host, Ghost House",
+  "tituloOriginal": "รัก เล่า เรื่องผี",
+  "alias": [
+    "Ghost Host Ghost House",
+    "Ghost House Ghost House"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "57 min",
+  "estado": "Finalizado",
+  "estreno": "2022-10-05",
+  "finalizacion": "2022-11-23",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural",
+    "Terror"
+  ],
+  "tags": [
+    "Fantasmas",
+    "Caza de fantasmas",
+    "Streamer",
+    "Duelo",
+    "Trauma",
+    "Familia",
+    "Casa encantada",
+    "Vida y muerte",
+    "Secretos",
+    "Paranormal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kevin",
+        "Pluem"
+      ]
+    }
+  ],
+  "sinopsis": "Kevin, un streamer dedicado a la exploración urbana y a la caza de fantasmas, regresa a Tailandia después de pasar gran parte de su vida en Estados Unidos. Al instalarse en casa de su tía, descubre que la familia oculta un secreto relacionado con los espíritus que habitan el lugar. Allí conoce a Pluem, un joven que trabaja para su familia y que parece comprender mejor que nadie el dolor y las pérdidas que Kevin arrastra desde el pasado. Mientras ambos recorren lugares encantados y se enfrentan a fenómenos inexplicables, su vínculo se vuelve cada vez más profundo y deberán afrontar una verdad que cambiará sus vidas.",
+  "especiales": [
+    {
+      "titulo": "Knock Knock",
+      "tituloOriginal": "Knock Knock",
+      "tipo": "Especial",
+      "anio": 2022,
+      "episodios": 1,
+      "estreno": "2022-10-03"
+    }
+  ],
+  "activo": true
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "DR000115",
+  "titulo": "Tinted With You",
+  "tituloOriginal": "물들여",
+  "alias": [
+    "Tinted With You",
+    "Muldeulyeo"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000115",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "12-15 min",
+  "estado": "Finalizado",
+  "estreno": "2021-12-23",
+  "finalizacion": "2022-01-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "tags": [
+    "BL",
+    "Viaje en el tiempo",
+    "Joseon",
+    "Príncipe heredero",
+    "Pintura",
+    "Guardaespaldas",
+    "Destino",
+    "Amor prohibido"
+  ],
+  "personas": [
+    {
+      "nombre": "Eun Ho",
+      "persona": "PR000585",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Heon",
+      "persona": "PR000586",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Geum",
+      "persona": "PR000027",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Eun Ho",
+        "Lee Heon"
+      ]
+    }
+  ],
+  "sinopsis": "Eun Ho, un estudiante de arte de la época actual, descubre un cuadro que lo transporta a la Corea de la era Joseon. Allí conoce a Lee Heon, un príncipe heredero destronado que vive bajo la amenaza de sus enemigos. Mientras Eun Ho intenta encontrar el camino de regreso a su época, ambos desarrollan sentimientos que ponen sus vidas en peligro.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/d0/81/07/d0810743603c042064da1ee4f6b87d31.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=fWVNI2u1tQk"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000061",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000062",
+      "funcion": [
+        "Distribuidora",
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000076",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

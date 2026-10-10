@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000614",
+  "titulo": "Pornographer",
+  "tituloOriginal": "ポルノグラファー",
+  "alias": [
+    "The Novelist",
+    "Pornographer: The Novelist"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000035",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2018-07-28",
+  "finalizacion": "2018-08-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Escritor",
+    "Universidad",
+    "Literatura",
+    "Convivencia",
+    "Adultos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kijima Rio",
+        "Kuzumi Haruhiko"
+      ]
+    }
+  ],
+  "sinopsis": "Kuzumi Haruhiko, un estudiante universitario, atropella accidentalmente en bicicleta al escritor de novelas eróticas Kijima Rio y le fractura un brazo. Como Kijima no tiene seguro, propone a Kuzumi que le ayude a escribir sus novelas mediante dictado como compensación por el accidente. Lo que comienza como una relación circunstancial evoluciona gradualmente hacia un vínculo amoroso entre ambos.",
+  "activo": true
+}

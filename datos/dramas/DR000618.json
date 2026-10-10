@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000618",
+  "titulo": "Pornographer: Continued Spring Life",
+  "tituloOriginal": "ポルノグラファー～続・春的生活～",
+  "alias": [
+    "Continued Spring Life",
+    "Pornographer: Zoku Haru-teki Seikatsu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Especial",
+  "franquicia": {
+    "codigo": "FR000035",
+    "orden": 5
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2021-03-05",
+  "finalizacion": "2021-03-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Pareja",
+    "Familia",
+    "Vida en pareja",
+    "Epílogo",
+    "Final"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kijima Rio",
+        "Kuzumi Haruhiko"
+      ]
+    }
+  ],
+  "sinopsis": "Después de superar sus diferencias, Kijima Rio y Kuzumi Haruhiko se encuentran nuevamente en la casa familiar de Kijima. Mientras Kuzumi convive con la familia, algunas preguntas sobre la relación de ambos provocan una situación incómoda. Kijima termina revelando a Kuzumi un secreto relacionado con su pasado y con Kido, cerrando la historia de la pareja después de los acontecimientos de Playback.",
+  "activo": true
+}

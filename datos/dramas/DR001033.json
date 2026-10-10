@@ -1,0 +1,42 @@
+{
+  "codigo": "DR001033",
+  "titulo": "Yesterday",
+  "tituloOriginal": "รอยรักวันวาน",
+  "alias": [
+    "Yesterday: Love Footprint from the Past",
+    "Yesterday The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "昨天",
+    "tituloOriginal": "昨天",
+    "autor": "Feng Nong",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2026-02-09",
+  "finalizacion": "2026-04-06",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode",
+      "fecha": "2026-04-13"
+    }
+  ],
+  "sinopsis": "Veir, heredero del grupo VPG, regresa después de haber desaparecido durante un año y descubre que la empresa familiar atraviesa una grave crisis. En medio de la lucha empresarial vuelve a encontrarse con Kelvin, el hombre al que amó en el pasado. La traición, el resentimiento y los sentimientos que nunca desaparecieron harán que ambos tengan que enfrentarse a su historia compartida.",
+  "activo": true
+}

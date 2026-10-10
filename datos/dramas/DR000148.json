@@ -1,0 +1,103 @@
+{
+  "codigo": "DR000148",
+  "titulo": "Bon Appétit",
+  "tituloOriginal": "본아페티",
+  "alias": [
+    "Bon Appétit",
+    "Bon Appetit"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "27 min",
+  "estado": "Finalizado",
+  "estreno": "2023-09-27",
+  "finalizacion": "2023-09-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Comida",
+    "Cocina",
+    "Chef",
+    "Oficina",
+    "Convivencia",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Yoon Soo",
+      "persona": "PR000648",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jung Do Hoon",
+      "persona": "PR000649",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Yoon Soo",
+        "Jung Do Hoon"
+      ]
+    }
+  ],
+  "sinopsis": "Do Hoon, un joven que vive una vida rutinaria, comienza a acercarse a su vecino Ha Min, un chef que entra inesperadamente en su vida a través de la comida. Entre platos caseros, conversaciones y momentos compartidos, ambos descubren que la relación que comienza alrededor de una mesa puede convertirse en algo mucho más íntimo.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/03/5c/e8/035ce881f6727c10e4c8a3d1c6865835.jpg",
+      "https://i.pinimg.com/736x/36/1b/9c/361b9c03c6b8400d40e0cccdd0c207df.jpg",
+      "https://i.pinimg.com/1200x/c3/87/65/c38765744cff46917918f8a75531cb9f.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=X0eJuBkzZvg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000105",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000109",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

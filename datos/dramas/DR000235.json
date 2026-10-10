@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000235",
+  "titulo": "Papa & Daddy",
+  "tituloOriginal": "酷蓋爸爸",
+  "alias": [
+    "Papa and Daddy"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000235",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "20-30 min",
+  "estado": "Finalizado",
+  "estreno": "2021-04-23",
+  "finalizacion": "2021-05-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Familia",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Familia",
+    "Padres",
+    "Pareja establecida",
+    "Paternidad",
+    "Crianza",
+    "Vida familiar",
+    "Gestación subrogada"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Damian",
+        "Jerry"
+      ]
+    }
+  ],
+  "sinopsis": "Damian y Jerry son una pareja que ha construido una familia junto a su hijo Kai Kai mediante gestación subrogada. Cuando Kai Kai comienza el jardín de infancia, ambos deben enfrentarse a las preguntas de otros niños y padres sobre su familia, además de afrontar las diferencias entre sus propias familias.",
+  "activo": true
+}

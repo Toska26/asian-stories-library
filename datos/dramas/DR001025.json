@@ -1,0 +1,38 @@
+{
+  "codigo": "DR001025",
+  "titulo": "Goddess Bless You from Death",
+  "tituloOriginal": "สิงสาลาตาย",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Goddess Bless You from Death",
+    "tituloOriginal": "สิงสาลาตาย",
+    "autor": "MTRD.S.",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 58,
+  "estado": "Finalizado",
+  "estreno": "2025-10-31",
+  "finalizacion": "2026-01-30",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "BL",
+    "Misterio",
+    "Sobrenatural",
+    "Crimen"
+  ],
+  "sinopsis": "Thup posee una capacidad sobrenatural que le permite percibir los rastros de los muertos. Cuando una serie de asesinatos rituales vuelve a aparecer, sus habilidades lo llevan hasta un caso que conecta el mundo de los vivos con fuerzas sobrenaturales y una antigua maldición.",
+  "activo": true
+}

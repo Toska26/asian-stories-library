@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000308",
+  "titulo": "Padayon",
+  "alias": [
+    "Padayon The Series",
+    "Continue The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "año": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2021-02-27",
+  "finalizacion": "2021-04-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama social",
+    "Pandemia",
+    "Discriminación",
+    "Salud mental"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kai Andres",
+        "Andre Rodriguez"
+      ]
+    }
+  ],
+  "sinopsis": "Kai Andres, que vive y trabaja junto a su madre en una propiedad rural perteneciente a una familia adinerada, se ve obligado a convivir con Andre Rodriguez, el hijo privilegiado y arrogante de los propietarios. Lo que comienza con enfrentamientos y diferencias sociales evoluciona progresivamente hacia una relación afectiva mientras ambos descubren nuevas perspectivas sobre sus propias vidas y sobre las personas que los rodean.",
+  "activo": true
+}

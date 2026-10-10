@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001059",
+  "titulo": "Match Point",
+  "tituloOriginal": "รักนี้ต้องเสิร์ฟ",
+  "alias": [
+    "Rak Nee Tong Serve"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-07-26",
+  "finalizacion": "2026-09-27",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Deportes"
+  ],
+  "tags": [
+    "BL",
+    "Tenis",
+    "Rivales a amantes",
+    "Rivalidad familiar",
+    "Restaurantes",
+    "Competición",
+    "Amistad",
+    "Deporte escolar"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sun",
+        "Bay"
+      ]
+    }
+  ],
+  "sinopsis": "Sun, un estudiante ejemplar y estrella del equipo de tenis, pertenece a una familia que regenta un restaurante tradicional de dim sum. Bay, un joven artista de espíritu libre, es hijo de los propietarios de un restaurante rival famoso por sus shumai. La enemistad entre sus padres viene de lejos y amenaza con convertirlos también a ellos en adversarios. Cuando Sun propone una tregua para disfrutar de su último semestre escolar, Bay responde retándolo en la pista. Una lesión y una apuesta entre las dos familias complican la rivalidad y obligan a ambos a enfrentarse a lo que sienten realmente.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BM2Y5ZDUzYzctMDllNi00OTQyLThkZDctYTQ4MTA4ZDVjZDcyXkFqcGc%40._V1_.jpg"
+    ]
+  },
+  "activo": true
+}

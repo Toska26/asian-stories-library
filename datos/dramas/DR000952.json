@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000952",
+  "titulo": "My Stand-In",
+  "tituloOriginal": "ตัวนาย ตัวแทน",
+  "alias": [
+    "My Stand-In",
+    "My Stand In",
+    "Tua Nai Tua Thaen",
+    "Professional Body Double",
+    "职业替身"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Professional Body Double",
+    "tituloOriginal": "职业替身",
+    "autor": "Shui Qiancheng",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "Finalizado",
+  "estreno": "2024-04-26",
+  "finalizacion": "2024-07-12",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Adaptación",
+    "Doble de acción",
+    "Industria del entretenimiento",
+    "Segunda oportunidad",
+    "Reencarnación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Joe",
+        "Ming"
+      ]
+    }
+  ],
+  "sinopsis": "Joe trabaja como doble de acción y sustituto de Tong, un famoso actor. Su vida cambia cuando conoce a Ming y ambos comienzan una relación marcada por una atracción intensa y por los secretos de Ming. Después de que un accidente le cueste la vida, Joe despierta en el cuerpo de otro joven que también se llama Joe. Con una segunda oportunidad y un pasado que todavía no ha quedado atrás, vuelve a encontrarse con Ming.",
+  "activo": true
+}

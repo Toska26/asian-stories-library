@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000361",
+  "titulo": "Papa, What Is Love?",
+  "alias": [
+    "Papa, What is Love?"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "serie": "SR000361",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2022-05-14",
+  "finalizacion": "2022-06-25",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Familia"
+  ],
+  "tags": [
+    "Diferencia de edad",
+    "Viudedad",
+    "Padre e hijo",
+    "Familia",
+    "Amor inesperado",
+    "Empleador y empleado",
+    "Aceptación",
+    "Coming out"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Rich",
+        "Tupe"
+      ]
+    }
+  ],
+  "sinopsis": "Rich, un viudo de mediana edad que vive solo desde la muerte de su esposa, contrata a Tupe como ayudante para cuidar de su casa. La relación entre ambos comienza como una relación laboral, pero poco a poco se transforma en un vínculo romántico. La situación se complica cuando Greg, el hijo de Rich, descubre la relación y debe enfrentarse a la nueva vida sentimental de su padre.",
+  "activo": true
+}

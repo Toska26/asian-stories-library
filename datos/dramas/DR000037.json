@@ -1,0 +1,115 @@
+{
+  "codigo": "DR000037",
+  "titulo": "The Invisible Dragon",
+  "tituloOriginal": "เคียงมังกร",
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "universo": "",
+  "franquicia": {
+    "codigo": "",
+    "orden": 0
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "Anunciado",
+  "estreno": "",
+  "finalizacion": "",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "personas": [
+    {
+      "nombre": "Earn",
+      "persona": "PR000388",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khun",
+      "persona": "PR000017",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yok",
+      "persona": "PR000389",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leng",
+      "persona": "PR000391",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khimhan",
+      "persona": "PR000390",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000392",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000068",
+      "personajes": [
+        "Earn",
+        "Khun"
+      ]
+    }
+  ],
+  "sinopsis": "Khun aspira a convertirse en la cabeza del león para el Festival del Dragón y se interesa por Earn. Earn, que fue adoptado y no posee sangre de dragón, está más preocupado por conseguir convocar al dragón. Mientras ambos entrenan y se acercan, Leng se convierte en un obstáculo para su relación.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BZDk3NWFjNWYtOGNkMy00OGI3LTk5MzQtNTFhOGUwYWU2NDY0XkEyXkFqcGc%40.*V1*.jpg"
+    ],
+    "pilot": [
+      "https://www.youtube.com/watch?v=vM6E73hy9-8"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000007",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000042",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "activo": true
+}

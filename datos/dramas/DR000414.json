@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000414",
+  "titulo": "Bikini Wars",
+  "alias": [
+    "Bikini Báo Thù",
+    "Bikini War"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2018,
+  "tipo": "Webserie",
+  "franquicia": {
+    "codigo": "FR000028",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 12,
+  "estado": "Finalizado",
+  "estreno": "2018-11-27",
+  "finalizacion": "2019-01-29",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Fútbol",
+    "Amnesia",
+    "Entrenamiento",
+    "Hotel",
+    "Venganza",
+    "Amor",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến Dũng",
+        "Đức Chinh"
+      ]
+    }
+  ],
+  "sinopsis": "Continuación de Football Guys. Después de los acontecimientos de la primera historia, Tiến Dũng sufre una pérdida de memoria y termina viviendo en un complejo hotelero. Cuando Đức Chinh y sus compañeros llegan al lugar para realizar un campamento de entrenamiento, vuelven a encontrarse con Tiến Dũng y comienza una nueva etapa de su historia.",
+  "activo": true
+}

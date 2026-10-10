@@ -1,0 +1,42 @@
+{
+  "codigo": "DR000471",
+  "titulo": "Under the Oak Tree",
+  "alias": [
+    "Dưới Tán Cây Mùa Hè"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2024-05-17",
+  "finalizacion": "2024-07-27",
+  "generos": [
+    "Romance",
+    "Musical",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Juventud",
+    "Instituto",
+    "Música",
+    "Primer amor",
+    "Diferencias sociales",
+    "Familia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "An Khánh",
+        "Hải Đăng"
+      ]
+    }
+  ],
+  "sinopsis": "An Khánh es un estudiante tímido procedente de una familia humilde cuya pasión por la música representa una de las pocas alegrías de su vida. Hải Đăng, por el contrario, es un joven popular y deportista, hijo del director del instituto, que también siente una profunda pasión por la música aunque debe enfrentarse a las expectativas de su familia. Cuando ambos se conocen, la música se convierte en el punto de unión que les permite superar sus diferencias y acercarse sentimentalmente.",
+  "activo": true
+}

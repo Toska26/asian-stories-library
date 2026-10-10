@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000667",
+  "titulo": "Naked Dining",
+  "tituloOriginal": "全ラ飯",
+  "alias": [
+    "Zenra Meshi",
+    "Naked Dining ~Love, Life and Liberation~"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2023-04-14",
+  "finalizacion": "2023-06-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Cocina",
+    "Comida",
+    "Estrés laboral",
+    "Vida cotidiana",
+    "Original"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ichijou Souta",
+        "Miki Mahiro"
+      ]
+    }
+  ],
+  "sinopsis": "Ichijou Souta es un trabajador de oficina aparentemente perfecto que tiene una peculiar forma de liberar el estrés: comer completamente desnudo. Cuando su secreto es descubierto accidentalmente por Miki Mahiro, un joven que trabaja en una tienda de frutas y verduras, ambos comienzan una relación que hará que Souta reconsidere sus prioridades y lo que realmente quiere de su vida.",
+  "activo": true
+}

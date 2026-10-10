@@ -1,0 +1,99 @@
+{
+  "codigo": "DR000190",
+  "titulo": "Winter Fever",
+  "tituloOriginal": "윈터 피버",
+  "alias": [
+    "Winter Fever",
+    "Winteo Pibeo"
+  ],
+  "tipo": "Drama",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": {
+    "codigo": "FR000017",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": "9 min",
+  "estado": "Finalizado",
+  "estreno": "2026-03-26",
+  "finalizacion": "2026-04-16",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Amigos a amantes",
+    "Amor de infancia",
+    "Relación de larga duración",
+    "Ruptura",
+    "Inseguridad",
+    "Celos",
+    "Obsesión",
+    "Relación tóxica",
+    "Triángulo amoroso",
+    "Angustia"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Jun",
+      "persona": "PR000709",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeon Ho",
+      "persona": "PR000710",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Jun",
+        "Yeon Ho"
+      ]
+    }
+  ],
+  "sinopsis": "Después de quince años de amistad, Yu Jun y Yeon Ho han convertido su vínculo en una relación amorosa, pero la inseguridad comienza a ponerla en peligro. Yu Jun, convencido de que la devoción de Yeon Ho nace de la lástima y no del amor, decide romper pensando que estaría mejor sin él. Para Yeon Ho, el rechazo destruye el equilibrio de su vida y transforma su amor en una necesidad obsesiva de mantener a Yu Jun a su lado. Mientras ambos quedan atrapados entre la culpa, los celos y los sentimientos que todavía los unen, Hyeon Seo aprovecha la fragilidad de la situación para intervenir y manipular la ruptura.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=IzHgXG6yK70"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000138",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

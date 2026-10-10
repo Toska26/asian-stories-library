@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000398",
+  "titulo": "The Day I Loved You, Two",
+  "alias": [
+    "The Day I Loved You 2",
+    "The Day I Loved You Two"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000376",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 36,
+  "duracion": 3,
+  "estado": "Finalizado",
+  "estreno": "2026-06-19",
+  "finalizacion": "",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Universidad",
+    "Natación",
+    "Duelo",
+    "Primer amor",
+    "Reencuentro",
+    "Superación",
+    "Amistad",
+    "Segundas oportunidades",
+    "Nuevos comienzos",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Eli",
+        "Rev"
+      ]
+    }
+  ],
+  "sinopsis": "Tres años después de perder a su primer amor, Eli intenta seguir adelante mientras comienza una nueva etapa universitaria. Encuentra apoyo en su mejor amiga Ashley, pero su vida cambia cuando conoce a Rev, otro estudiante y nadador con quien surge una conexión inesperada. Mientras Eli intenta superar el duelo por Nikko y dejar atrás el pasado, los sentimientos por Rev crecen y le obligan a decidir si está preparado para volver a enamorarse.",
+  "activo": true
+}

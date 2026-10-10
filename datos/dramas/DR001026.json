@@ -1,0 +1,43 @@
+{
+  "codigo": "DR001026",
+  "titulo": "Reloved",
+  "tituloOriginal": "เริ่มใหม่หัวใจเดิม",
+  "alias": [
+    "Reloved The Series",
+    "Roem Mai Huajai Doem"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 57,
+  "estado": "Finalizado",
+  "estreno": "2025-11-29",
+  "finalizacion": "2026-02-07",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Segundas oportunidades",
+    "Familia"
+  ],
+  "especiales": [
+    {
+      "titulo": "Reloved Special Episode",
+      "fecha": "2026-01-03"
+    },
+    {
+      "titulo": "Otherwise, Us",
+      "fecha": "2026-02-21"
+    }
+  ],
+  "sinopsis": "Than, un hombre soltero que dirige un gimnasio y cuida de su sobrina tras la muerte de su hermano, se reencuentra inesperadamente con Akin, su antiguo novio, ahora también padre. El encuentro despierta sentimientos del pasado y obliga a ambos a enfrentarse a las razones que provocaron su separación.",
+  "activo": true
+}

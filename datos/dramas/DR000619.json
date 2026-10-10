@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000619",
+  "titulo": "His: I Didn't Think I Would Fall in Love",
+  "tituloOriginal": "his〜恋するつもりなんてなかった〜",
+  "alias": [
+    "His: I Didn’t Think I Would Fall in Love"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000036",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2019-04-09",
+  "finalizacion": "2019-05-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Primer amor",
+    "Escolar",
+    "Juventud",
+    "Surf",
+    "Descubrimiento personal",
+    "Reencuentro"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Igawa Shun",
+        "Hibino Nagisa"
+      ]
+    }
+  ],
+  "sinopsis": "Durante las vacaciones de primavera, el estudiante de secundaria Shun Igawa llega a Fujisawa y conoce a Nagisa Hibino, un joven de su misma edad que vive solo junto al mar. Lo que comienza como una amistad se transforma poco a poco en su primer amor.",
+  "activo": true
+}

@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000974",
+  "titulo": "ThamePo: Heart That Skips a Beat",
+  "tituloOriginal": "เธมโป้ Heart That Skips a Beat",
+  "alias": [
+    "ThamePo: Heart That Skips a Beat",
+    "Thame-Po Heart That Skips a Beat",
+    "ThamePo",
+    "Thame - Po"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 49,
+  "estado": "Finalizado",
+  "estreno": "2024-12-13",
+  "finalizacion": "2025-03-07",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Música",
+    "Comedia"
+  ],
+  "tags": [
+    "Idols",
+    "Industria musical",
+    "Amor entre compañeros",
+    "Banda",
+    "Famosos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Thame",
+        "Po"
+      ]
+    }
+  ],
+  "sinopsis": "Po, un director de documentales, recibe el encargo de grabar el concierto final de MARS antes de la supuesta disolución del grupo. Allí conoce a Thame, el líder de la banda, que planea marcharse a Corea del Sur para iniciar una carrera en solitario. Mientras Po intenta ayudar a Thame a reconciliarse con sus compañeros y evitar la ruptura del grupo, ambos se acercan y terminan desarrollando sentimientos que podrían poner en riesgo el futuro de MARS.",
+  "activo": true
+}

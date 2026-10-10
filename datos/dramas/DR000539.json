@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000539",
+  "titulo": "The Spirealm",
+  "tituloOriginal": "致命游戏",
+  "alias": [
+    "Zhi Ming You Xi",
+    "Kaleidoscope of Death",
+    "死亡万花筒"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "Kaleidoscope of Death",
+    "tituloOriginal": "死亡万花筒",
+    "autor": "Xi Zi Xu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 78,
+  "estado": "Finalizado",
+  "estreno": "2024-02-02",
+  "finalizacion": "2024-02-02",
+  "generos": [
+    "Bromance",
+    "Drama",
+    "Misterio",
+    "Terror",
+    "Fantasía",
+    "Aventura"
+  ],
+  "tags": [
+    "Bromance",
+    "Adaptación",
+    "Danmei",
+    "Censura",
+    "Supervivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ling Jiushi",
+        "Ruan Lanzhu"
+      ]
+    }
+  ],
+  "sinopsis": "Ling Jiushi, un diseñador de videojuegos de realidad virtual, entra accidentalmente en un misterioso mundo formado por doce puertas de hierro. Allí conoce a Ruan Lanzhu, un hombre enigmático que lo ayuda a sobrevivir a los peligros que se esconden tras cada puerta. Juntos deberán enfrentarse a desafíos mortales mientras descubren los secretos del mundo de las puertas y de su propia existencia.",
+  "activo": true
+}

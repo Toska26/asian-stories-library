@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000520",
+  "titulo": "The Living Dead",
+  "tituloOriginal": "陈情令之生魂",
+  "alias": [
+    "Chen Qing Ling Zhi Sheng Hun",
+    "The Untamed: A Living Soul",
+    "The Untamed: A Raw Soul"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2019,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000033",
+    "orden": 2
+  },
+  "universo": "UN000016",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 83,
+  "estado": "Finalizado",
+  "estreno": "2019-11-07",
+  "finalizacion": "2019-11-07",
+  "generos": [
+    "BL",
+    "Fantasía",
+    "Histórico",
+    "Artes marciales",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Bromance",
+    "Spin-off"
+  ],
+  "sinopsis": "Después de separarse de Wei Wuxian y Lan Wangji, Wen Ning llega a la misteriosa ciudad de Fu Feng, donde sus habitantes viven aterrorizados por una serie de muertes relacionadas con la aparición de espíritus durante la noche. Allí se reencuentra con Lan Sizhui y ambos unen sus fuerzas para investigar el misterio y enfrentarse a las fuerzas sobrenaturales que amenazan la ciudad.",
+  "activo": true
+}

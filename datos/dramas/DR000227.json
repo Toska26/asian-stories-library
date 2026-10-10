@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000227",
+  "titulo": "Mermaid Sauna",
+  "tituloOriginal": "美男魚澡堂",
+  "alias": [
+    "Mermaid Sauna: No Gender for Souls"
+  ],
+  "tipo": "Drama",
+  "anio": 2018,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000020",
+    "orden": 3
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "12-20 min",
+  "estado": "Finalizado",
+  "estreno": "2018-07-04",
+  "finalizacion": "2018-08-08",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "GL",
+    "Intercambio de cuerpos",
+    "Sauna",
+    "Identidad",
+    "Fantasía",
+    "Comedia",
+    "Gay"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "A-Bu",
+        "Paul"
+      ]
+    },
+    {
+      "personajes": [
+        "Hua Hua",
+        "Xi Jia"
+      ]
+    }
+  ],
+  "sinopsis": "A-Bu, propietario de una sauna para hombres, trabaja junto a Hua Hua y Xiao Chi. Después de una noche de alcohol, los tres intercambian sus almas y deben experimentar la vida desde el cuerpo de otra persona. El intercambio altera sus relaciones y les lleva a enfrentarse a sus propios sentimientos, deseos y relaciones románticas.",
+  "activo": true
+}

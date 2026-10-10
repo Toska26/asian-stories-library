@@ -1,0 +1,37 @@
+{
+  "codigo": "DR000435",
+  "titulo": "The Time Adventure of Tô An",
+  "alias": [
+    "Tô An Ký"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "estado": "Finalizado",
+  "estreno": "2020-01-09",
+  "finalizacion": "2020-03-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Viajes en el tiempo",
+    "Amor",
+    "Reencuentro",
+    "LGBT"
+  ],
+  "sinopsis": "Tô An viaja en el tiempo y se ve envuelto en una historia de amor que conecta diferentes momentos de su vida. El viaje temporal le permite descubrir secretos, sentimientos y vínculos que cambiarán su forma de entender el pasado y el presente.",
+  "especiales": [
+    "The Story of Ngoc Chi",
+    "The Love of Ngoc Nga",
+    "The Loneliness of Henry"
+  ],
+  "activo": true
+}

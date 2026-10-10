@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000522",
+  "titulo": "Capture Lover",
+  "tituloOriginal": "冰糖陷阱",
+  "alias": [
+    "Bing Tang Xian Jing",
+    "Love Trap"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2020-06-25",
+  "finalizacion": "2020-07-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ding Jun Jie",
+        "Ying Jia Ming"
+      ]
+    }
+  ],
+  "sinopsis": "Ding Jun Jie, subdirector general de una importante empresa de cosméticos, se ve obligado a trabajar con Ying Jia Ming, el hijo del presidente de la compañía. Lo que comienza como una relación de rivalidad y provocaciones termina convirtiéndose en una relación amorosa que ambos intentan mantener en secreto ante las presiones familiares y profesionales.",
+  "activo": true
+}

@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000225",
+  "titulo": "Red Balloon",
+  "tituloOriginal": "紅色氣球",
+  "tipo": "Drama",
+  "anio": 2017,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000020",
+    "orden": 1
+  },
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "10-12 min",
+  "estado": "Finalizado",
+  "estreno": "2017-05-10",
+  "finalizacion": "2017-06-28",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Primer amor",
+    "Instituto",
+    "Adultos",
+    "Segunda oportunidad",
+    "Amor del pasado",
+    "Diferencia de edad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Zhi Chen",
+        "Li Xiang Wan"
+      ]
+    }
+  ],
+  "sinopsis": "Xia Zhi Chen y Li Xiang Wan se conocen durante la etapa escolar. Lo que comienza como una relación conflictiva acaba transformándose en un primer amor. Años después, ambos se reencuentran y los sentimientos que habían quedado en el pasado vuelven a surgir.",
+  "activo": true
+}

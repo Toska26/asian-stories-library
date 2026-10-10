@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000429",
+  "titulo": "Tiến Bromance: My Small Family",
+  "alias": [
+    "Tiến Bromance: The Bonus Episodes"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2020,
+  "tipo": "Webdrama",
+  "universo": "UN000014",
+  "serie": "SR000427",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2020-08-15",
+  "finalizacion": "2021-06-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción"
+  ],
+  "tags": [
+    "BL",
+    "Pareja",
+    "Familia",
+    "Convivencia",
+    "Amor",
+    "LGBT"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến",
+        "Tài"
+      ]
+    }
+  ],
+  "sinopsis": "Después de los acontecimientos de Tiến Bromance, Tiến y Tài intentan construir una vida tranquila juntos y formar una pequeña familia. Esta etapa se centra en su convivencia y en los desafíos que afrontan como pareja, alejándose inicialmente de los conflictos y peligros de la historia original.",
+  "activo": true
+}

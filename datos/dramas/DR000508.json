@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000508",
+  "titulo": "Double Helix",
+  "tituloOriginal": "双程",
+  "alias": [
+    "Shuang Cheng",
+    "Shuāngchéng",
+    "A Round Trip to Love",
+    "Round Trip to Love"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "universo": "UN000015",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "A Round Trip to Love",
+    "tituloOriginal": "双程",
+    "autor": "Lan Lin",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 44,
+  "estado": "Finalizado",
+  "estreno": "2026-05-08",
+  "finalizacion": "2026-06-13",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Feng",
+        "Cheng Yichen"
+      ]
+    },
+    {
+      "personajes": [
+        "Qin Lang",
+        "Cheng Yichen (hermano menor)"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Feng, heredero de una familia adinerada, y Cheng Yichen, un estudiante ejemplar, se enamoran durante la adolescencia. Cuando su relación queda expuesta, la presión de sus familias y del entorno escolar los obliga a separarse. Años después se reencuentran cuando Lu Feng se convierte en el jefe de Yichen. Los sentimientos que nunca desaparecieron regresan, pero las heridas del pasado, la oposición familiar y los conflictos personales vuelven a poner a prueba su relación.",
+  "activo": true
+}

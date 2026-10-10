@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000514",
+  "titulo": "Holy Fox Son 1: Advent",
+  "tituloOriginal": "灵狐圣子1：圣子出世",
+  "alias": [
+    "Holy Fox Son 1",
+    "Holy Fox Son: Advent",
+    "Ling Hu Sheng Zi 1: Sheng Zi Chu Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "Película",
+  "franquicia": {
+    "codigo": "FR000031",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 77,
+  "estado": "Finalizado",
+  "estreno": "2017-08-22",
+  "finalizacion": "2017-08-22",
+  "generos": [
+    "BL",
+    "Drama",
+    "Fantasía",
+    "Wuxia"
+  ],
+  "tags": [
+    "BL",
+    "Fantasía",
+    "Precuela"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Bai",
+        "Xiao Jing Chen"
+      ]
+    }
+  ],
+  "sinopsis": "Precuela de The Fairy Fox construida a partir de acontecimientos mostrados en los flashbacks de la serie. El clan zorro protege una piedra sagrada mientras el clan lobo amenaza con arrebatársela. Lu Bai debe encontrar al descendiente del Dios de la Guerra, la única persona capaz de proteger a su clan.",
+  "activo": true
+}

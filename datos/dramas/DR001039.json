@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001039",
+  "titulo": "Magic Move",
+  "tituloOriginal": "เขมจิราต้องรอด",
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2026-05-07",
+  "finalizacion": "2026-06-23",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode"
+    }
+  ],
+  "sinopsis": "Un joven con la capacidad de percibir fenómenos sobrenaturales se ve envuelto en una serie de acontecimientos que cambiarán su vida cuando conoce a una persona relacionada con su pasado y con poderes que no comprende.",
+  "activo": true
+}

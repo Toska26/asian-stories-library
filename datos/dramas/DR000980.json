@@ -1,0 +1,39 @@
+{
+  "codigo": "DR000980",
+  "titulo": "MU-TE-LUV: Diva Deva Mata",
+  "tituloOriginal": "เจ้าแม่ตัวแม่",
+  "alias": [
+    "Diva Deva Mata",
+    "MuTeLuv: Diva Deva Mata",
+    "Jao Mae Tua Mae"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-10-20",
+  "finalizacion": "2025-11-10",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Influencers",
+    "Instituto",
+    "Superstición",
+    "Posesión",
+    "Espíritus",
+    "Amistad"
+  ],
+  "sinopsis": "Nevia, Ingky, Fews y Kat forman Air Dolls, un popular grupo de influencers cuya cuenta ha dejado de crecer. Desesperadas por recuperar su popularidad, recurren a la poderosa médium Diva Deva Mata para conseguir ayuda sobrenatural. El ritual funciona inicialmente, pero pronto se vuelve contra Kat, que acaba poseída por el espíritu. Sus amigas deberán trabajar juntas para liberarla y recuperar la amistad que las unía.",
+  "activo": true
+}

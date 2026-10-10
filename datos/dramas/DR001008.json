@@ -1,0 +1,49 @@
+{
+  "codigo": "DR001008",
+  "titulo": "Dating Game",
+  "tituloOriginal": "เดทเกมนี้ ต้องได้ใจนาย",
+  "alias": [
+    "Dating Game",
+    "Date Game Ni Tong Dai Jai Nai",
+    "เดทติ้งเกม",
+    "Dating Game〜口説いてもいいですか"
+  ],
+  "pais": [
+    "TH",
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "50 min",
+  "estado": "Finalizado",
+  "estreno": "2025-07-14",
+  "finalizacion": "2025-09-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Oficina"
+  ],
+  "tags": [
+    "Tailandia-Japón",
+    "Videojuegos",
+    "Dating Sim",
+    "Oficina",
+    "CEO",
+    "Romance intercultural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hill",
+        "Junji"
+      ]
+    }
+  ],
+  "sinopsis": "Hill, un diseñador de videojuegos que encontró consuelo durante su infancia en una heroína de un juego de citas, consigue trabajar en la empresa que creó el juego. Allí conoce a Junji, un frío y exigente ejecutivo japonés enviado para reorganizar la filial tailandesa. Lo que comienza como una relación profesional termina convirtiéndose en una historia de amor entre dos personas de culturas y personalidades muy diferentes.",
+  "activo": true
+}

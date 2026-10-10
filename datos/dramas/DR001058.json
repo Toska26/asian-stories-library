@@ -1,0 +1,51 @@
+{
+  "codigo": "DR001058",
+  "titulo": "Class Crush Crisis",
+  "tituloOriginal": "เพื่อนสนิทระวังคิดไม่ซื่อ",
+  "alias": [
+    "CCC",
+    "Phuean Sanit Rawang Khit Mai Sue"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Class Crush Crisis",
+    "tituloOriginal": "เพื่อนสนิทระวังคิดไม่ซื่อ",
+    "autor": "JittiRain",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-07-24",
+  "finalizacion": "2026-09-11",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama juvenil",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amistad",
+    "Primer amor",
+    "Música",
+    "Grupo de amigos",
+    "Adaptación literaria",
+    "Crecimiento personal"
+  ],
+  "sinopsis": "Lee-ith es un estudiante rebelde que sueña con convertirse en músico de rock y no presta demasiada atención a sus estudios. Sus padres, cansados de sus prioridades, lo presionan para ingresar en un prestigioso centro educativo que antes era exclusivo para chicas y que ahora admite alumnos varones. Lee-ith llega acompañado de Indy, su mejor amigo y teclista, esperando tener más libertad, pero pronto descubre que adaptarse al nuevo entorno y a las relaciones que surgen en él será mucho más complicado de lo que imaginaba.",
+  "multimedia": {
+    "portada": [
+      "https://thaicontentdb.com/_next/image?q=75&url=https%3A%2F%2Fthaitvseriesimage.sgp1.digitaloceanspaces.com%2Fposters%2Fdrama%2Fcmky5451p04ugmw0jpyvn13pv%2F2026%2F01%2Fdrama__d9493552-f6b4-4437-91b9-a51eabc6cc4f.jpg&w=1080"
+    ]
+  },
+  "activo": true
+}

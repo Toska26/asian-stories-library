@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000556",
+  "titulo": "Blurred Desire",
+  "tituloOriginal": "懵動",
+  "alias": [
+    "Meng Dong"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "The Promise Sealed with Our Lips: Floating Clouds Out of the Cave",
+    "tituloOriginal": "唇诺之浮云出岫",
+    "autor": "Guan Gai Man Jing Hua",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 61,
+  "estado": "Finalizado",
+  "estreno": "2025-07-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Novela BL",
+    "Vertical",
+    "Microdrama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xiao Zhengyan",
+        "Liu Zimo"
+      ]
+    }
+  ],
+  "sinopsis": "Xiao Zhengyan y Liu Zimo desarrollan una relación marcada inicialmente por el conflicto y la distancia. A medida que sus sentimientos evolucionan, la hostilidad inicial da paso a una atracción y un vínculo romántico.",
+  "activo": true
+}

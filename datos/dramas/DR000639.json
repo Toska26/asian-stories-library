@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000639",
+  "titulo": "My Love Mix-Up!",
+  "tituloOriginal": "消えた初恋",
+  "alias": [
+    "Kieta Hatsukoi",
+    "My Love Mix-Up!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "remake": {
+    "codigo": "RM000061",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 23,
+  "estado": "Finalizado",
+  "estreno": "2021-10-09",
+  "finalizacion": "2021-12-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Escolar",
+    "Instituto",
+    "Amor correspondido",
+    "Malentendido",
+    "Primer amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Aoki Sota",
+        "Ida Kosuke"
+      ]
+    }
+  ],
+  "sinopsis": "Aoki Sota está enamorado de Hashimoto, una compañera de clase. Cuando toma prestada su goma de borrar y descubre que lleva escrito el nombre de Ida, el chico que se sienta delante de él, comienza una cadena de malentendidos que hace que Ida crea que Aoki está enamorado de él.",
+  "activo": true
+}

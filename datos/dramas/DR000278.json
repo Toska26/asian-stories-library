@@ -1,0 +1,48 @@
+{
+  "codigo": "DR000278",
+  "titulo": "My Day: The Series",
+  "tituloOriginal": "My Day The Series",
+  "alias": [
+    "My Day",
+    "My Day Season 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "serie": "SR000278",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2020-08-08",
+  "finalizacion": "2020-10-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Oficina",
+    "Jefe y empleado",
+    "CEO",
+    "Prácticas",
+    "Romance",
+    "VBL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sky",
+        "Ace"
+      ]
+    }
+  ],
+  "sinopsis": "Sky es un joven pasante de cocina que comienza a trabajar en una gran empresa alimentaria y entra en conflicto con Ace, su exigente y distante jefe. La convivencia laboral hace que la rivalidad inicial se transforme progresivamente en una relación romántica.",
+  "activo": true
+}

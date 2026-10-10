@@ -1,0 +1,58 @@
+{
+  "codigo": "DR000900",
+  "titulo": "Chains of Heart",
+  "tituloOriginal": "Chains of Heart",
+  "alias": [
+    "Chains of Heart: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2023,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Chains of Heart",
+    "tituloOriginal": "Chains of Heart",
+    "autor": "TJ Tommys",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2023-02-18",
+  "finalizacion": "2023-04-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Acción",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Venganza",
+    "Misterio",
+    "Crimen",
+    "Contrabando",
+    "Identidad secreta",
+    "Amor perdido",
+    "Reencuentro",
+    "Pareja separada",
+    "Investigación",
+    "Supervivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ken",
+        "Din"
+      ]
+    }
+  ],
+  "sinopsis": "Ken y Din son pareja y trabajan juntos contra una organización dedicada al contrabando. Cuando Din parece morir después de proteger a Ken, este queda devastado. Tiempo después, un misterioso hombre aparece en su vida y guarda un extraordinario parecido con Din. Ken comienza a sospechar que su antiguo novio podría seguir vivo mientras se ve arrastrado nuevamente a una peligrosa red de secretos, venganza e identidades ocultas.",
+  "activo": true
+}

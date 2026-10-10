@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000729",
+  "titulo": "Unexpectedly Naughty Fukami",
+  "tituloOriginal": "やたらやらしい深見くん",
+  "alias": [
+    "Yatara Yarashii Fukami-kun"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "24 min",
+  "estado": "Finalizado",
+  "estreno": "2026-04-07",
+  "finalizacion": "2026-06-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Oficina"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Akihiro Kaji",
+        "Yu Fukami"
+      ]
+    }
+  ],
+  "sinopsis": "Akihiro Kaji es el empleado estrella del departamento de ventas y un narcisista que juzga a los demás según su atractivo. Durante un viaje de trabajo termina compartiendo habitación con su discreto compañero Yu Fukami y descubre una faceta de él que cambia por completo la forma en que lo ve.",
+  "activo": true
+}

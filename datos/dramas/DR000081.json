@@ -1,0 +1,113 @@
+{
+  "codigo": "DR000081",
+  "titulo": "Hidden Agenda",
+  "tituloOriginal": "วาระซ่อนเร้น",
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000081",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "48 min",
+  "estado": "Finalizado",
+  "estreno": "2023-07-09",
+  "finalizacion": "2023-09-24",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Romance",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Joke",
+      "persona": "PR000518",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zo",
+      "persona": "PR000519",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pat",
+      "persona": "PR000533",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jeng",
+      "persona": "PR000534",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000082",
+      "personajes": [
+        "Joke",
+        "Zo"
+      ]
+    },
+    {
+      "ship": "SH000092",
+      "personajes": [
+        "Pat",
+        "Jeng"
+      ]
+    }
+  ],
+  "sinopsis": "Zo es un estudiante universitario que quiere acercarse a Nita y decide pedir ayuda a Joke, un estudiante experimentado en relaciones y seducción. Lo que comienza como una estrategia para conquistar a otra persona acaba acercando cada vez más a Zo y Joke. Mientras ambos descubren sus verdaderos sentimientos, la relación entre Pat y Jeng también evoluciona a su alrededor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/7b/55/22/7b552242d1798912152bb8410456e354.jpg",
+      "https://i.pinimg.com/736x/0b/a8/d2/0ba8d2c78ac4667b3c178a5f89a57c4e.jpg",
+      "https://i.pinimg.com/736x/19/80/4b/19804ba7f5dd2170a545c98af7fa570a.jpg",
+      "https://i.pinimg.com/736x/3b/d4/11/3bd4112d5c79e666406ff45566c6ba68.jpg",
+      "https://image.tmdb.org/t/p/original/uxNm0RfDTxTK2cg5Zt4dJZNbxDJ.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=UdPTjMt52jM"
+    ],
+    "ost": [
+      "https://www.youtube.com/watch?v=AYz5JGU1TWg",
+      "https://www.youtube.com/watch?v=Tryba5gU1h0"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000004",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000006",
+      "funcion": [
+        "Emisora"
+      ]
+    }
+  ],
+  "activo": true
+}

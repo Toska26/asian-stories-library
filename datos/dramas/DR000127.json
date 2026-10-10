@@ -1,0 +1,96 @@
+{
+  "codigo": "DR000127",
+  "titulo": "Love in Spring",
+  "tituloOriginal": "춘정지란",
+  "alias": [
+    "Love in Spring",
+    "Spring of Crush",
+    "Chun Jung Ji-ran"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000127",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": "20 min",
+  "estado": "Finalizado",
+  "estreno": "2022-05-16",
+  "finalizacion": "2022-07-06",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "BL",
+    "Joseon",
+    "Histórico",
+    "Identidad secreta",
+    "Matrimonio",
+    "Convivencia",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Choi Hye-seong",
+      "persona": "PR000601",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Geum-seong",
+      "persona": "PR000602",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Choi Hye-seong",
+        "Jin Geum-seong"
+      ]
+    }
+  ],
+  "sinopsis": "En la era Joseon, una joven noble se ve obligada a disfrazarse de hombre para poder sobrevivir y proteger a su familia. Su vida cambia cuando se encuentra con un hombre que empieza a sospechar de su verdadera identidad. Entre secretos, obligaciones familiares y sentimientos inesperados, ambos terminan acercándose.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/00/ff/f3/00fff3769d42ee272d11ad3fcc7b01d6.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=n-yauZcijUo"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000083",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000089",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000090",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

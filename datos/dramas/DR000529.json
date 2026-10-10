@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000529",
+  "titulo": "In Your Heart",
+  "tituloOriginal": "在你心之所向的地方",
+  "alias": [
+    "Zai Ni Xin Zhi Suo Xiang De Di Fang",
+    "In Your Heart: The Place Where Your Heart Belongs"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2022,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "In Your Heart",
+    "tituloOriginal": "在你心之所向的地方",
+    "autor": "Li Yun Ming",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 20,
+  "estado": "Finalizado",
+  "estreno": "2022-02-11",
+  "finalizacion": "2022-03-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Juventud",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación",
+    "Coming-of-age"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ling Zi Ming",
+        "Cheng Yi"
+      ]
+    },
+    {
+      "personajes": [
+        "Lu Xiang Lin",
+        "Yue Yu Zhi"
+      ]
+    }
+  ],
+  "sinopsis": "Ling Zi Ming y Cheng Yi son amigos de la infancia que crecieron en familias incompletas y encontraron apoyo emocional el uno en el otro. Junto a sus amigos Lu Xiang Lin y Yue Yu Zhi, atraviesan los cambios de la adolescencia mientras descubren sus sentimientos y el significado del amor.",
+  "activo": true
+}

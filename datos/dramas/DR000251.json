@@ -1,0 +1,46 @@
+{
+  "codigo": "DR000251",
+  "titulo": "Eternal Butler",
+  "tituloOriginal": "化外之醫",
+  "tipo": "Drama",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "24-33 min",
+  "estado": "Finalizado",
+  "estreno": "2024-12-20",
+  "finalizacion": "2025-03-07",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Fantasía"
+  ],
+  "tags": [
+    "BL",
+    "Mayordomo",
+    "Inteligencia artificial",
+    "Tecnología",
+    "Ciencia ficción",
+    "Romance",
+    "Convivencia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Wei",
+        "Zheng Yi"
+      ]
+    }
+  ],
+  "sinopsis": "Un joven médico se ve involucrado en una relación inesperada con un mayordomo dotado de capacidades extraordinarias. Mientras ambos conviven y descubren la naturaleza de su vínculo, deberán enfrentarse a secretos relacionados con su origen y su existencia.",
+  "activo": true
+}

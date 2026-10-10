@@ -1,0 +1,41 @@
+{
+  "codigo": "DR000314",
+  "titulo": "Stranger's Kiss",
+  "alias": [
+    "Stranger's Kiss The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 22,
+  "estado": "Finalizado",
+  "estreno": "2021-02-08",
+  "finalizacion": "2021-03-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Triángulo amoroso",
+    "Amor",
+    "Vida rural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Julius Villamor",
+        "Niko"
+      ]
+    }
+  ],
+  "sinopsis": "Julius Villamor vive una situación inesperada cuando un beso de un desconocido cambia el rumbo de sus sentimientos. La aparición de Niko y la presencia de Prince complican una historia marcada por la atracción, los sentimientos y las dificultades que deben afrontar los personajes en su entorno y dentro de la comunidad LGBT.",
+  "activo": true
+}

@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000483",
+  "titulo": "My Little Ghost",
+  "alias": [
+    "Chàng Kẹ",
+    "My Little Ghost the Series"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-10-03",
+  "finalizacion": "2025-12-05",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Fantasía",
+    "Sobrenatural",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Estudiante de arquitectura",
+    "Fantasma",
+    "Humano x Fantasma",
+    "Convivencia",
+    "Amnesia",
+    "Investigación",
+    "Sanación",
+    "Slow Burn",
+    "Pérdida",
+    "Vida después de la muerte"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kiên",
+        "Kẹ"
+      ]
+    }
+  ],
+  "sinopsis": "Kiên, un estudiante de arquitectura, se muda a una vivienda aparentemente vacía y descubre que comparte el lugar con Kẹ, un joven fantasma que ha perdido sus recuerdos. Ambos llegan a un acuerdo: Kiên ayudará a Kẹ a descubrir quién fue y qué ocurrió con él, mientras Kẹ intenta ayudar a Kiên con sus propios problemas. La convivencia transforma poco a poco la extraña relación entre ambos en un vínculo afectivo profundo. Sin embargo, recuperar la memoria de Kẹ también significa enfrentarse a la verdad sobre su muerte y a las reglas que separan el mundo de los vivos del de los muertos.",
+  "especiales": [
+    {
+      "titulo": "Episode 10 — Special Ending",
+      "fecha": "2026-01-16"
+    }
+  ],
+  "activo": true
+}

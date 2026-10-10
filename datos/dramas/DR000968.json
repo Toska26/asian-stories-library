@@ -1,0 +1,54 @@
+{
+  "codigo": "DR000968",
+  "titulo": "Jack & Joker: U Steal My Heart!",
+  "tituloOriginal": "แจ็คกับโจ๊กเกอร์ ทำไมต้องเป็นเธอทุกที",
+  "alias": [
+    "Jack & Joker",
+    "Jack and Joker",
+    "Jack & Joker: U Steal My Heart!"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2024-09-09",
+  "finalizacion": "2024-11-25",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Ladrones",
+    "Deudas",
+    "Reencuentro",
+    "Segunda oportunidad",
+    "Artes marciales"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jack",
+        "Joker"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Jack & Joker: Special Episode",
+      "fecha": "2025-03-01",
+      "tipo": "Narrativo"
+    }
+  ],
+  "sinopsis": "Jack, un antiguo atleta de taekwondo que trabaja como cobrador de deudas, vuelve a encontrarse con Joke, su antiguo amigo, convertido ahora en un ladrón experto en disfraces. Tras una traición del pasado que los separó durante años, ambos terminan involucrados en una serie de robos y enfrentamientos con personas poderosas. Mientras trabajan juntos, Jack y Joke deben afrontar el pasado y los sentimientos que todavía los unen.",
+  "activo": true
+}

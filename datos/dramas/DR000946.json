@@ -1,0 +1,43 @@
+{
+  "codigo": "DR000946",
+  "titulo": "Time",
+  "tituloOriginal": "ไทม์ผ่านเวลา",
+  "alias": [
+    "Time",
+    "Time the Series",
+    "Time ผ่านเวลา"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2024-01-09",
+  "finalizacion": "2024-03-12",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Viajes en el tiempo"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Segunda oportunidad",
+    "Misterio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Foam",
+        "Chris"
+      ]
+    }
+  ],
+  "sinopsis": "Foam presencia la muerte de Chris, el hombre al que ama, y queda destrozado por no haber podido impedirla. Cuando recibe la posibilidad de regresar al pasado, decide aprovechar esa segunda oportunidad para cambiar los acontecimientos y salvar a Chris, aunque alterar el pasado tendrá consecuencias que pondrán a prueba su relación y su propio futuro.",
+  "activo": true
+}

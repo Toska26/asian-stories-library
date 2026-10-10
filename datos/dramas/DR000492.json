@@ -1,0 +1,57 @@
+{
+  "codigo": "DR000492",
+  "titulo": "Ash",
+  "alias": [
+    "煙灰",
+    "烟灰",
+    "Smoke & Ash",
+    "Smoke Ash",
+    "Cigarette Ash",
+    "Yan Hui"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2026-08-14",
+  "finalizacion": "2026-10-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Acción",
+    "Crimen",
+    "Suspense",
+    "Thriller"
+  ],
+  "tags": [
+    "BL",
+    "Hong Kong",
+    "Cantonés",
+    "Policía encubierto",
+    "Crimen organizado",
+    "Mafia",
+    "Identidad secreta",
+    "Enemigos a amantes",
+    "Amor prohibido",
+    "Corrupción",
+    "Traición",
+    "Lealtad",
+    "Doble identidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mo Feihuan",
+        "Xu Luetao"
+      ]
+    }
+  ],
+  "sinopsis": "Mo Feihuan es un joven agente de policía que trabaja infiltrado, mientras Xu Luetao es el poderoso hijo mayor de una familia vinculada al mundo empresarial y criminal de Hong Kong. Cuando sus caminos se cruzan, ambos se sienten atraídos el uno por el otro mientras mantienen ocultas sus verdaderas identidades. En medio de una operación relacionada con el crimen organizado, falsificaciones, luchas entre grupos rivales y secretos familiares, la confianza entre ambos se convierte en una cuestión de supervivencia.",
+  "activo": true
+}

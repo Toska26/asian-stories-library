@@ -1,0 +1,42 @@
+{
+  "codigo": "DR001032",
+  "titulo": "Love Alert",
+  "tituloOriginal": "มีคำเตือน โปรดระมัดระวัง",
+  "alias": [
+    "Love Alert: Please Be Careful",
+    "Mi Kham Tuean Prot Ramatrawang"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "มีคำเตือน โปรดระมัดระวัง",
+    "tituloOriginal": "มีคำเตือน โปรดระมัดระวัง",
+    "autor": "Nottakorn",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 45,
+  "estado": "Finalizado",
+  "estreno": "2025-12-28",
+  "finalizacion": "2026-03-01",
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
+  "especiales": [
+    {
+      "titulo": "Special Episode",
+      "fecha": "2026-03-12"
+    }
+  ],
+  "sinopsis": "Jimmy es un estudiante universitario acostumbrado a convertir las relaciones en un juego. Después de otra ruptura, se fija en Plaifah, un joven que no parece impresionado por sus encantos. Para acercarse a él, Jimmy intenta utilizar a Teh, pero el juego comienza a complicarse cuando los sentimientos y las relaciones entre los personajes dejan de estar bajo su control.",
+  "activo": true
+}

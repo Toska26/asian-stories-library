@@ -1,0 +1,49 @@
+{
+  "codigo": "DR000259",
+  "titulo": "Secret Lover",
+  "tituloOriginal": "秘密關係",
+  "alias": [
+    "Secret Relationship"
+  ],
+  "tipo": "Drama",
+  "pais": [
+    "TW"
+  ],
+  "anio": 2025,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "Finalizado",
+  "estreno": "2025-07-22",
+  "finalizacion": "2025-09-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia",
+    "Juvenil"
+  ],
+  "tags": [
+    "BL",
+    "Amigos a amantes",
+    "Amistad de infancia",
+    "Universidad",
+    "Teatro",
+    "Relación secreta",
+    "Convivencia",
+    "Familia",
+    "Identidad",
+    "Crecimiento personal"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Jun Xi",
+        "Han Tuo"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Jun Xi y Han Tuo son amigos inseparables desde la infancia. Durante un ejercicio de teatro universitario, Han Tuo se da cuenta de que sus sentimientos por Jun Xi van más allá de la amistad y propone practicar una relación para preparar la actuación. Lo que comienza como un juego de citas, abrazos e intimidad acaba convirtiéndose en una relación real que ambos deciden mantener en secreto mientras afrontan las presiones familiares y los cambios propios de la vida adulta.",
+  "activo": true
+}

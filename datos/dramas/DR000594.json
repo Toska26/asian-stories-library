@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000594",
+  "titulo": "Blackout",
+  "tituloOriginal": "断片",
+  "alias": [
+    "Black Out"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 15,
+  "estado": "Finalizado",
+  "estreno": "2026-04-26",
+  "finalizacion": "2026-05-15",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Viaje",
+    "Reencuentro",
+    "Pareja en crisis",
+    "Lijiang",
+    "Amnesia",
+    "Tercero en discordia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Yi",
+        "Xu Cheng"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Yi y Xu Cheng viajan a Lijiang con la esperanza de recuperar la magia de su relación, pero la tensión entre ambos aumenta durante el viaje. Una noche de excesos hace que Lin Yi conozca a Nick, un cantante alojado en la misma pensión, y el encuentro altera por completo la relación de la pareja.",
+  "activo": true
+}

@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000777",
+  "titulo": "He's Coming to Me",
+  "tituloOriginal": "เขามาเชงเม้งข้างๆหลุมผมครับ",
+  "alias": [
+    "Come to Me"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "65 min",
+  "estado": "Finalizado",
+  "estreno": "2019-03-07",
+  "finalizacion": "2019-04-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Misterio",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Sobrenatural",
+    "Fantasmas",
+    "Universidad",
+    "Vida después de la muerte"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Med",
+        "Thun"
+      ]
+    }
+  ],
+  "sinopsis": "Med es el espíritu de un joven que murió prematuramente y permanece ligado a su tumba. Durante el festival de Qingming conoce a Thun, un estudiante capaz de verlo. Ambos comienzan a investigar las circunstancias de la muerte de Med mientras su relación se transforma gradualmente en amor y descubren un vínculo que conecta sus vidas de una forma inesperada.",
+  "activo": true
+}

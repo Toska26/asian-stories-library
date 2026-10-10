@@ -1,0 +1,36 @@
+{
+  "codigo": "DR000348",
+  "titulo": "The Navor",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "Finalizado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Identidad",
+    "Autodescubrimiento",
+    "Aceptación",
+    "Sexualidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Madam J",
+        "Miguel"
+      ]
+    }
+  ],
+  "sinopsis": "Un hombre que siempre se ha identificado como heterosexual conoce a otro hombre que despierta en él sentimientos que nunca había cuestionado. A medida que pasan más tiempo juntos, comienza un proceso de autodescubrimiento en el que debe replantearse su identidad, sus emociones y aquello que realmente desea.",
+  "activo": true
+}

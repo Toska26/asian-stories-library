@@ -1,0 +1,47 @@
+{
+  "codigo": "DR000981",
+  "titulo": "MU-TE-LUV: Fist Foot Fusion",
+  "tituloOriginal": "แม่ไม้มวยรำ",
+  "alias": [
+    "Fist Foot Fusion",
+    "MuTeLuv: Fist Foot Fusion"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "universo": "UN000027",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-11-17",
+  "finalizacion": "2025-12-08",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Deportes"
+  ],
+  "tags": [
+    "Muay Thai",
+    "Danza",
+    "Superstición",
+    "Promesas",
+    "Rivales a amantes",
+    "Competición"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Klairung",
+        "Malai"
+      ]
+    }
+  ],
+  "sinopsis": "Klairung, un influencer especializado en boxeo, teme que quede al descubierto que en realidad no sabe pelear. Para asegurarse la victoria en su próximo combate, hace una promesa a una deidad en un santuario y consigue ganar, pero se niega a cumplir su parte del pacto. Como consecuencia, pierde la capacidad de cerrar el puño. Para romper la maldición necesita la ayuda de Malai, una bailarina que conoce el ritual necesario para cumplir la promesa.",
+  "activo": true
+}

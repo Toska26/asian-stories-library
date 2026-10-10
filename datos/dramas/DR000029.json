@@ -1,0 +1,226 @@
+{
+  "codigo": "DR000029",
+  "titulo": "Don't Say No",
+  "tituloOriginal": "เมื่อหัวใจใกล้กัน",
+  "alias": [
+    "Don't Say No The Series",
+    "When Hearts Are Close Together"
+  ],
+  "tipo": "Drama",
+  "anio": 2021,
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "franquicia": {
+    "codigo": "FR000008",
+    "orden": 5
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "Finalizado",
+  "estreno": "2021-08-06",
+  "finalizacion": "2021-10-22",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Amistad",
+    "De amigos a amantes",
+    "Baloncesto"
+  ],
+  "personas": [
+    {
+      "nombre": "Leo",
+      "persona": "PR000064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fiat",
+      "persona": "PR000248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Leon",
+      "persona": "PR000298",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pobphan",
+      "persona": "PR000299",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chai",
+      "persona": "PR000300",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Seng",
+      "persona": "PR000301",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Puth",
+      "persona": "PR000302",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Beam",
+      "persona": "PR000303",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rin",
+      "persona": "PR000304",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ole",
+      "persona": "PR000255",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Earth",
+      "persona": "PR000305",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Varun",
+      "persona": "PR000121",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Earth",
+      "persona": "PR000306",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Natt",
+      "persona": "PR000307",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000258",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000135",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "ship": "SH000040",
+      "personajes": [
+        "Leo",
+        "Fiat"
+      ]
+    },
+    {
+      "ship": "SH000053",
+      "personajes": [
+        "Leon",
+        "Pobphan"
+      ]
+    }
+  ],
+  "sinopsis": "Leo y Fiat llevan tiempo juntos y han conseguido mantener su relación lejos de las miradas de quienes los rodean. Sin embargo, mantener su amor en secreto empieza a resultar cada vez más difícil, especialmente cuando Fiat teme que su madre descubra la verdad sobre su relación. La situación se complica todavía más cuando Pobphan, un estudiante al que Fiat ayuda con sus estudios, comienza a acercarse demasiado a él y despierta los celos y las inseguridades de Leo. Al mismo tiempo, Leon, el hermano de Leo, se acerca a Pobphan y ambos comienzan a descubrir sentimientos que van más allá de su amistad. Mientras ambas historias avanzan, Leo y Fiat tendrán que enfrentarse a los secretos, los celos y el miedo a perderse, mientras Leon y Pobphan intentan descubrir qué significa realmente estar juntos. Las dos parejas deberán aprender a confiar en sus sentimientos y aceptar que el amor también implica afrontar los problemas y las consecuencias de las decisiones que toman.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/3b/10/ee/3b10ee5a240b5f418012a8b538e68197.jpg",
+      "https://www.memindy.com/wp-content/uploads/2021/08/don-t-say-no-expand-600x800.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=6viQRyMgfKI"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000011",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000014",
+      "funcion": [
+        "Emisora"
+      ]
+    },
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "The Secret (Love) - LeoFiat Special",
+      "fecha": "2021-07-04"
+    },
+    {
+      "titulo": "When My Heart Says I Love You",
+      "fecha": "2021-11-06"
+    }
+  ],
+  "activo": true
+}

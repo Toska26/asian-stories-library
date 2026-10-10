@@ -1,0 +1,55 @@
+{
+  "codigo": "DR000769",
+  "titulo": "My Dream",
+  "tituloOriginal": "นายในฝัน The Series",
+  "alias": [
+    "My Dream The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2018,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 40,
+  "estado": "Finalizado",
+  "estreno": "2018-10-10",
+  "finalizacion": "2018-12-26",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Sobrenatural",
+    "Juvenil"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Runway",
+        "Dream"
+      ]
+    },
+    {
+      "personajes": [
+        "Tanai",
+        "Guide"
+      ]
+    },
+    {
+      "personajes": [
+        "Dr. Good",
+        "Elle"
+      ]
+    },
+    {
+      "personajes": [
+        "Yim",
+        "Asawin"
+      ]
+    }
+  ],
+  "sinopsis": "Runway, un estudiante de secundaria que sufre pesadillas desde la muerte de su padre, comienza a tener sueños agradables después de colgar en su habitación el antiguo atrapasueños de su padre. En esos sueños conoce a Dream, un misterioso joven que poco a poco se convierte en alguien muy importante para él. Al mismo tiempo, en el mundo real, su vecino Tanai le pide salir, haciendo que Runway se encuentre dividido entre sus sentimientos por Dream y lo que ocurre en su vida cotidiana. Paralelamente, sus amigos y sus propios problemas sentimentales se entrelazan con una historia sobrenatural relacionada con el mundo de los sueños.",
+  "activo": true
+}

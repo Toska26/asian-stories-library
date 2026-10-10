@@ -1,0 +1,91 @@
+{
+  "codigo": "DR000128",
+  "titulo": "Love Class",
+  "tituloOriginal": "수업중입니다",
+  "alias": [
+    "Love Class",
+    "Sueop Jungimnida"
+  ],
+  "tipo": "Drama",
+  "anio": 2022,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000128",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2022-05-13",
+  "finalizacion": "2022-05-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Universidad",
+    "Campus",
+    "Compañeros de clase",
+    "Proyecto grupal",
+    "Amistad",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Woo",
+      "persona": "PR000603",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ro Ah",
+      "persona": "PR000604",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji Woo",
+        "Ro Ah"
+      ]
+    }
+  ],
+  "sinopsis": "Un grupo de estudiantes universitarios se enfrenta a un proyecto académico sobre el amor que les obliga a trabajar juntos. Entre ellos, uno intenta proteger a la persona de la que está enamorado mientras comienza a cuestionarse sus propios sentimientos. A medida que el proyecto avanza, las relaciones entre los estudiantes se complican y lo que parecía una simple tarea universitaria termina convirtiéndose en una oportunidad para descubrir el amor y comprenderse mejor a sí mismos.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/4d/9d/67/4d9d676ab817cc174cdb4a683a77a4d7.jpg",
+      "https://i.pinimg.com/736x/93/e7/3e/93e73e13341573b03931c4bfb27237ad.jpg",
+      "https://i.pinimg.com/736x/67/02/d1/6702d14760ff6a4609a32e0dde1c325b.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=IQwjK2Tv-ok"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000084",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

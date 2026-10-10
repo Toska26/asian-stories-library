@@ -1,0 +1,78 @@
+{
+  "codigo": "DR000809",
+  "titulo": "So Much in Love",
+  "tituloOriginal": "นิยามรัก",
+  "alias": [
+    "So Much in Love The Series",
+    "So Much in Love: The Series",
+    "Ni Yam Ruk",
+    "Niyanruk: The Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2020,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": "45 min",
+  "estado": "Finalizado",
+  "estreno": "2020-08-13",
+  "finalizacion": "2020-11-05",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Terror",
+    "Deporte",
+    "Juventud"
+  ],
+  "tags": [
+    "Academia deportiva",
+    "Internado",
+    "Voleibol",
+    "Natación",
+    "Fantasmas",
+    "Sobrenatural",
+    "Amistad",
+    "Romance",
+    "Familia",
+    "Homofobia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jedi",
+        "Indy"
+      ]
+    },
+    {
+      "personajes": [
+        "North",
+        "Ongsah"
+      ]
+    },
+    {
+      "personajes": [
+        "Wan",
+        "Mai"
+      ]
+    },
+    {
+      "personajes": [
+        "Ten",
+        "Arm"
+      ]
+    },
+    {
+      "personajes": [
+        "Phil",
+        "Thun"
+      ]
+    }
+  ],
+  "sinopsis": "En la Victory Academy, una academia deportiva donde conviven estudiantes de distintas disciplinas, las historias de amor, amistad y rivalidad se entrelazan con problemas familiares, prejuicios y una leyenda sobrenatural. Tras un accidente en la piscina, el espíritu de North permanece ligado al lugar mientras los estudiantes afrontan sus propios sentimientos y los secretos que rodean la academia.",
+  "activo": true
+}

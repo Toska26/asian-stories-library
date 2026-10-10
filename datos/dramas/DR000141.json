@@ -1,0 +1,107 @@
+{
+  "codigo": "DR000141",
+  "titulo": "Happy Merry Ending",
+  "tituloOriginal": "해피메리엔딩",
+  "alias": [
+    "Happy Merry Ending",
+    "Happy Merry Ending?"
+  ],
+  "tipo": "Drama",
+  "anio": 2023,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "15 min",
+  "estado": "Finalizado",
+  "estreno": "2023-04-26",
+  "finalizacion": "2023-05-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Pianista",
+    "Cantante",
+    "Trauma",
+    "Sanación",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Lee Seung Jun",
+      "persona": "PR000635",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae Hyun",
+      "persona": "PR000636",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Seung Jun",
+        "Jae Hyun"
+      ]
+    }
+  ],
+  "sinopsis": "Seung Jun trabaja como pianista y cantante en bodas, pero arrastra un profundo trauma relacionado con una antigua relación. En una de sus actuaciones conoce a Jae Hyun, un cantante de bodas cuya amabilidad y paciencia comienzan poco a poco a derribar sus defensas. Mientras ambos se acercan a través de la música, Seung Jun debe enfrentarse a sus heridas del pasado para poder abrirse de nuevo al amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/fa/3a/40/fa3a40438af223af3d5fa276c2a0cad0.jpg",
+      "https://i.pinimg.com/1200x/70/b0/d7/70b0d7fa748132458c089d7a7fc03489.jpg",
+      "https://i.pinimg.com/1200x/78/18/0d/78180d8074073d0738823fd7e58d0b3f.jpg",
+      "https://i.pinimg.com/1200x/7a/31/22/7a31229a5f009743405238fe526a4cb2.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000088",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000102",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000111",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
+}

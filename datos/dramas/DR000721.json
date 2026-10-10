@@ -1,0 +1,35 @@
+{
+  "codigo": "DR000721",
+  "titulo": "Therapy Game",
+  "tituloOriginal": "セラピーゲーム",
+  "alias": [
+    "Serapī Gēmu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": "30 min",
+  "estado": "Finalizado",
+  "estreno": "2025-10-29",
+  "finalizacion": "2025-12-24",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mito Minato",
+        "Ikushima Shizuma"
+      ]
+    }
+  ],
+  "sinopsis": "Minato Mito, un fotógrafo gay de carácter reservado y desconfiado en el amor, conoce en un bar a Shizuma Ikushima, un estudiante de veterinaria que acaba de sufrir una ruptura. Después de pasar una noche juntos, Shizuma no recuerda nada de Minato al despertar. Herido y enfadado, Minato apuesta con los empleados del bar que conseguirá enamorar a Shizuma para después abandonarlo. Sin embargo, cuanto más tiempo pasa con él, más difícil resulta mantener sus sentimientos al margen del juego.",
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000828",
+  "titulo": "The Cupid Coach",
+  "tituloOriginal": "โค้ชลับสลับรัก",
+  "alias": [
+    "The Cupid Coach",
+    "The Cupid Coach The Series",
+    "Coach Rak Salap Rak"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "30-35 min",
+  "estado": "Finalizado",
+  "estreno": "2021-01-12",
+  "finalizacion": "2021-03-30",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía",
+    "Deportes"
+  ],
+  "tags": [
+    "Fútbol",
+    "Deporte",
+    "Cupido",
+    "Dios del amor",
+    "Amor no correspondido",
+    "Universidad",
+    "Amistad",
+    "Destino",
+    "Supernatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Latte",
+        "Nice"
+      ]
+    }
+  ],
+  "sinopsis": "Latte es un joven futbolista que está enamorado de Pudit, un médico deportivo y antiguo alumno de su universidad. Cuando intenta descubrir lo que realmente siente por él, aparece Nice, un dios del amor encargado de ayudarle a cumplir su deseo romántico. Sin embargo, cuanto más tiempo pasan juntos, Latte comienza a comprender que sus verdaderos sentimientos no están dirigidos hacia la persona que creía amar.",
+  "activo": true
+}

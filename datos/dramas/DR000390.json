@@ -1,0 +1,59 @@
+{
+  "codigo": "DR000390",
+  "titulo": "Hermoso",
+  "alias": [
+    "Your Thoughts in My Eyes"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "serie": "SR000390",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 52,
+  "estado": "Finalizado",
+  "estreno": "2025-06-28",
+  "finalizacion": "2025-08-30",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Pesca",
+    "Mar",
+    "Diferencias sociales",
+    "Familia",
+    "Secretos",
+    "Pasado",
+    "Escándalo",
+    "Expareja",
+    "Amor",
+    "Segundas oportunidades",
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kyle",
+        "Andres"
+      ]
+    },
+    {
+      "personajes": [
+        "Joswell",
+        "Pedra"
+      ]
+    }
+  ],
+  "sinopsis": "Kyle regresa a Zamboanga después de huir de Manila a causa de un escándalo financiero provocado por su exnovio y antiguo socio, Bill. Obligado a acercarse al negocio pesquero de su familia, conoce a Andres, un joven pescador que trabaja en el mar y cuya vida está marcada por sus propias responsabilidades familiares. A pesar de proceder de mundos muy diferentes, Kyle y Andres desarrollan una conexión cada vez más profunda mientras afrontan las tensiones del trabajo, los secretos familiares y el regreso de personas del pasado de Kyle. Paralelamente, Joswell y Pedra desarrollan una relación marcada por el coqueteo y una creciente intimidad.",
+  "especiales": [
+    {
+      "titulo": "Where is Andres?",
+      "episodios": 1
+    }
+  ],
+  "activo": true
+}

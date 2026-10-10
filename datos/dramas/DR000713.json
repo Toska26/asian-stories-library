@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000713",
+  "titulo": "School Trip: Joined a Group I'm Not Close To Season 2",
+  "tituloOriginal": "修学旅行で仲良くないグループに入りました2",
+  "alias": [
+    "School Trip: Joined a Group I’m Not Close To 2",
+    "Shugaku Ryoko de Nakayoku Nai Group ni Hairimashita 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2026,
+  "tipo": "Drama",
+  "serie": "SR000706",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "School Trip: Joined a Group I'm Not Close To",
+    "tituloOriginal": "修学旅行で仲良くないグループに入りました",
+    "autor": "Kakuregi Uzura",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "Próximamente",
+  "estreno": "2026-10-17",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amor juvenil",
+    "Pareja",
+    "Tercer año",
+    "Celos",
+    "Primer amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hioki Asahi",
+        "Watarai Tsukasa"
+      ]
+    }
+  ],
+  "sinopsis": "Dos meses después de comenzar su relación, Hioki Asahi y Watarai Tsukasa pasan a su tercer año de instituto y son separados en clases diferentes. Mientras intentan mantener su relación, deberán enfrentarse a nuevos cambios y a la distancia dentro de la escuela.",
+  "activo": true
+}

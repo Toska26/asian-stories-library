@@ -1,0 +1,56 @@
+{
+  "codigo": "DR000993",
+  "titulo": "My Golden Blood",
+  "tituloOriginal": "เลือดนายลมหายใจฉัน",
+  "alias": [
+    "My Golden Blood",
+    "Lueat Nai Lom Haijai Chan",
+    "Lueat Nai Lom Haichai Chan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2025,
+  "tipo": "Serie",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Golden Blood",
+    "tituloOriginal": "เลือดนายลมหายใจฉัน",
+    "autor": "Dawin",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 48,
+  "estado": "Finalizado",
+  "estreno": "2025-03-12",
+  "finalizacion": "2025-05-28",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Adaptación",
+    "Vampiros",
+    "Sangre especial",
+    "Inmortalidad",
+    "Protección",
+    "Universitario",
+    "Amor sobrenatural"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mark",
+        "Tong"
+      ]
+    }
+  ],
+  "sinopsis": "Tong es un joven cuya vida ha estado marcada por estrictas precauciones para protegerlo de cualquier situación que pueda hacerle sangrar. Sin saberlo, su sangre posee una característica extremadamente rara que resulta irresistible para los vampiros. Mark, un vampiro que lleva décadas buscando un sentido a su existencia, conoce a Tong y decide protegerlo de otros vampiros mientras lucha contra su propio instinto y los sentimientos que desarrolla por él.",
+  "activo": true
+}

@@ -1,0 +1,50 @@
+{
+  "codigo": "DR000334",
+  "titulo": "Between Us",
+  "alias": [
+    "Between Us The Series",
+    "BTween Us"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2021,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2021-03-06",
+  "finalizacion": "2021-08-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Universidad",
+    "Enemies to lovers",
+    "Tutor",
+    "Amistad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sai",
+        "Khel"
+      ]
+    },
+    {
+      "personajes": [
+        "Art",
+        "Mack"
+      ]
+    }
+  ],
+  "sinopsis": "En una universidad filipina, cuatro estudiantes terminan unidos por dos historias de amor. Sai y Khel comienzan enfrentándose por un libro y poco a poco transforman su rivalidad en amistad y después en sentimientos más profundos. Paralelamente, Art acepta trabajar como tutor de Mack y la convivencia entre ambos hace que sus prejuicios iniciales den paso a una relación más cercana.",
+  "activo": true
+}

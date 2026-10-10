@@ -1,0 +1,51 @@
+{
+  "codigo": "DR000506",
+  "titulo": "Kill to Love",
+  "tituloOriginal": "紫陌红尘",
+  "alias": [
+    "Zi Mo Hong Chen",
+    "Shan He Yong Ji",
+    "山河永寂",
+    "紫陌紅塵"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "universo": "UN000015",
+  "origen": {
+    "tipo": "Novela web",
+    "titulo": "Shan He Yong Ji",
+    "tituloOriginal": "山河永寂",
+    "autor": "Yi Han He",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 35,
+  "estado": "Finalizado",
+  "estreno": "2025-08-25",
+  "finalizacion": "2025-09-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Histórico",
+    "Wuxia",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Duan Ziang",
+        "Xiao Shu He"
+      ]
+    }
+  ],
+  "sinopsis": "Duan Ziang, un asesino criado en las sombras, salva al sexto príncipe del Reino del Sur, Xiao Shu He, y entre ambos nace un amor que desafía las reglas de un mundo marcado por la guerra y las luchas de poder. Para proteger a Shu He, Ziang toma una decisión que rompe su vínculo y desaparece. Años después, regresa convertido en emperador del Reino del Norte, mientras Shu He ocupa el trono del Sur. Convertidos en gobernantes de territorios enfrentados, deberán enfrentarse a los sentimientos que nunca dejaron atrás.",
+  "activo": true
+}

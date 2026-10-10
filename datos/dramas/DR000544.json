@@ -1,0 +1,40 @@
+{
+  "codigo": "DR000544",
+  "titulo": "Infidelity, It’s a Disease",
+  "tituloOriginal": "花心，是一种病",
+  "alias": [
+    "Hua Xin, Shi Yi Zhong Bing"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2025,
+  "tipo": "Drama",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "Finalizado",
+  "estreno": "2025-05-01",
+  "finalizacion": "2025-05-22",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Diferencia cultural",
+    "China-Taiwán",
+    "Relación a distancia"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Ye",
+        "Zi Rui"
+      ]
+    }
+  ],
+  "sinopsis": "Jiang Ye conoce a Zi Rui, un masajista taiwanés, y ambos desarrollan una relación que debe superar las diferencias personales y las dificultades derivadas de sus circunstancias.",
+  "activo": true
+}

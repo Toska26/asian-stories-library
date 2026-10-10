@@ -1,0 +1,44 @@
+{
+  "codigo": "DR000441",
+  "titulo": "Double Daddy, Double Happy",
+  "alias": [
+    "Tiến Bromance 2",
+    "Tiến Bromance: Double Daddy, Double Happy"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2021,
+  "tipo": "Webdrama",
+  "universo": "UN000014",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "Finalizado",
+  "estreno": "2021-10-01",
+  "finalizacion": "2021-10-01",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "LGBT",
+    "Pareja",
+    "Familia",
+    "Paternidad",
+    "Convivencia",
+    "Amor"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tiến",
+        "Tài"
+      ]
+    }
+  ],
+  "sinopsis": "Tiến y Tài comienzan una nueva etapa de su vida como pareja y forman una familia junto a su hijo adoptivo Đô. Mientras intentan adaptarse a la paternidad y a su nueva vida juntos, deben afrontar problemas familiares, diferencias en la crianza, prejuicios y distintas situaciones que ponen a prueba su relación.",
+  "activo": true
+}

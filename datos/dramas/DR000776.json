@@ -1,0 +1,53 @@
+{
+  "codigo": "DR000776",
+  "titulo": "Thank God It's Friday",
+  "tituloOriginal": "ขอบคุณวันสุข",
+  "alias": [
+    "TGIF"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2019,
+  "tipo": "Drama",
+  "franquicia": {
+    "codigo": "FR000042",
+    "orden": 5
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "52 min",
+  "estado": "Finalizado",
+  "estreno": "2019-08-24",
+  "finalizacion": "2019-11-09",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud",
+    "Música"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jump",
+        "Home"
+      ]
+    },
+    {
+      "personajes": [
+        "Yong",
+        "Por"
+      ]
+    },
+    {
+      "personajes": [
+        "Lun",
+        "Nana"
+      ]
+    }
+  ],
+  "sinopsis": "El club de música del Friday College de Bangkok corre el riesgo de desaparecer después de un año sin buenos resultados. Para salvarlo, su presidente Jump decide que todos los miembros viajen durante las vacaciones al Friday College de Khon Kaen para entrenar y preparar una competición. Durante el viaje y la estancia en la nueva escuela surgen nuevas amistades y relaciones sentimentales.",
+  "activo": true
+}
