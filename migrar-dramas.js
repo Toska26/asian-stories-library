@@ -8,7 +8,7 @@ if (!fs.existsSync(dirSalida)) {
 }
 
 // 2. Ruta al archivo original dentro de /datos/
-const rutaArchivoOld = path.join(__dirname, 'datos', 'dramas_old.js');
+const rutaArchivoOld = path.join(__dirname, 'datos', 'DRAMAS_old.js');
 
 if (!fs.existsSync(rutaArchivoOld)) {
     console.error('❌ Error: No se encontró el archivo datos/dramas_old.js');
