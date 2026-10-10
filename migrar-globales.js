@@ -28,16 +28,12 @@ function migrarArchivoGlobal(item) {
         const sandbox = { window: {} };
         sandbox.window = sandbox;
         vm.createContext(sandbox);
-        
-        // Ejecutamos el contenido dentro del sandbox
         vm.runInContext(contenido, sandbox);
 
-        // Intentamos extraer la variable de múltiples formas posibles
         let datos = sandbox[item.varName] || sandbox.window[item.varName];
 
         if (!datos) {
             try {
-                // Forzamos la evaluación devolviendo la variable explícitamente
                 datos = vm.runInContext(`(function() { ${contenido}; return (typeof ${item.varName} !== 'undefined' ? ${item.varName} : null); })()`, sandbox);
             } catch (e) {
                 datos = null;
@@ -45,8 +41,12 @@ function migrarArchivoGlobal(item) {
         }
 
         if (Array.isArray(datos)) {
-            fs.writeFileSync(rutaJson, JSON.stringify(datos, null, 2), 'utf8');
-            console.log(`✅ Migrado con éxito: ${item.js} -> ${item.json} (${datos.length} elementos)`);
+            // Formateamos cada objeto en una sola línea y unimos con saltos de línea y comas
+            const lineasElementos = datos.map(elem => `\t${JSON.stringify(elem)}`).join(',\n');
+            const contenidoJsonCompacto = `[\n${lineasElementos}\n]\n`;
+
+            fs.writeFileSync(rutaJson, contenidoJsonCompacto, 'utf8');
+            console.log(`✅ Migrado a formato de una línea por elemento: ${item.js} -> ${item.json} (${datos.length} elementos)`);
         } else {
             console.error(`❌ Error: No se pudo localizar el array '${item.varName}' dentro de ${item.js}`);
         }
@@ -55,6 +55,6 @@ function migrarArchivoGlobal(item) {
     }
 }
 
-console.log('🔄 Iniciando conversión robusta de ficheros globales JS a JSON...\n');
+console.log('🔄 Iniciando conversión compacta (una línea por elemento) a JSON...\n');
 ARCHIVOS_A_MIGRAR.forEach(migrarArchivoGlobal);
 console.log('\n✨ Proceso de migración finalizado.');
