@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
 
-// Lista de archivos globales que queremos migrar de .js a .json
 const ARCHIVOS_A_MIGRAR = [
     { js: 'ENTIDADES.js', json: 'ENTIDADES.json', varName: 'ENTIDADES' },
     { js: 'PERSONAS.js', json: 'PERSONAS.json', varName: 'PERSONAS' },
@@ -26,15 +25,26 @@ function migrarArchivoGlobal(item) {
     try {
         const contenido = fs.readFileSync(rutaJs, 'utf8');
         
-        // Entorno seguro para extraer la variable global del archivo .js
         const sandbox = { window: {} };
+        sandbox.window = sandbox;
         vm.createContext(sandbox);
+        
+        // Ejecutamos el contenido dentro del sandbox
         vm.runInContext(contenido, sandbox);
 
-        const datos = sandbox[item.varName] || sandbox.window[item.varName];
+        // Intentamos extraer la variable de múltiples formas posibles
+        let datos = sandbox[item.varName] || sandbox.window[item.varName];
+
+        if (!datos) {
+            try {
+                // Forzamos la evaluación devolviendo la variable explícitamente
+                datos = vm.runInContext(`(function() { ${contenido}; return (typeof ${item.varName} !== 'undefined' ? ${item.varName} : null); })()`, sandbox);
+            } catch (e) {
+                datos = null;
+            }
+        }
 
         if (Array.isArray(datos)) {
-            // Guardamos el JSON limpio y tabulado con 2 espacios
             fs.writeFileSync(rutaJson, JSON.stringify(datos, null, 2), 'utf8');
             console.log(`✅ Migrado con éxito: ${item.js} -> ${item.json} (${datos.length} elementos)`);
         } else {
@@ -45,6 +55,6 @@ function migrarArchivoGlobal(item) {
     }
 }
 
-console.log('🔄 Iniciando conversión de ficheros globales JS a JSON...\n');
+console.log('🔄 Iniciando conversión robusta de ficheros globales JS a JSON...\n');
 ARCHIVOS_A_MIGRAR.forEach(migrarArchivoGlobal);
 console.log('\n✨ Proceso de migración finalizado.');
