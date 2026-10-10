@@ -28,27 +28,6 @@ const biblioteca = [
     }
   },
   {
-    "codigo": "DR000006",
-    "titulo": "Bad Romance: The Series",
-    "pais": [
-      "TH"
-    ],
-    "anio": 2016,
-    "tipo": "Drama",
-    "estado": "Finalizado",
-    "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": true,
-    "tieneEntidades": true,
-    "portada": "https://artworks.thetvdb.com/banners/posters/314649-1.jpg",
-    "franquicia": {
-      "codigo": "FR000002",
-      "orden": 1
-    },
-    "ship": "MaxTul",
-    "numShips": 4
-  },
-  {
     "codigo": "DR000939",
     "titulo": "Fourever You",
     "pais": [
