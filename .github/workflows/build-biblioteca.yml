@@ -4,8 +4,8 @@ on:
   push:
     paths:
       - 'datos/dramas/**'
-      - 'datos/SHIPS.js'
-      - 'datos/PERSONAS.js'
+      - 'datos/SHIPS.json'
+      - 'datos/PERSONAS.json'
       - 'build-biblioteca.js'
     branches:
       - main
