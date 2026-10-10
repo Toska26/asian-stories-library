@@ -120,18 +120,17 @@ const ENTIDADES = [
 {codigo:'EN000114', nombre:'TVING', pais:'KR', tipos:['Plataforma'], activo:true},
    {codigo:'EN000115', nombre:'Wavve Studios', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000116', nombre:'IPQ', pais:'KR', tipos:['Productora'], activo:true},
-{codigo:'EN000117', nombre:'MODT Studio', pais:'KR', tipos:['Productora'], activo:true},
+
 {codigo:'EN000118', nombre:'Nakwon Mansion', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000119', nombre:'JIBS KR', pais:'KR', tipos:['Productora'], activo:true},
-{codigo:'EN000120', nombre:'Matchbox', pais:'KR', tipos:['Productora'], activo:true},
-{codigo:'EN000121', nombre:'STRONGBERRY', pais:'KR', tipos:['Productora'], activo:true},
+
 {codigo:'EN000122', nombre:'Page One Film', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000123', nombre:'New Black Studio', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000124', nombre:'Numberthree Pictures', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000125', nombre:'KT StudioGenie', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000126', nombre:'Merry Christmas', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000127', nombre:'Bigstone Studio', pais:'KR', tipos:['Productora'], activo:true},
-{codigo:'EN000128', nombre:'Hanyang Studio', pais:'KR', tipos:['Productora'], activo:true},
+
 {codigo:'EN000129', nombre:'Blue By Blue', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000130', nombre:'Studio OAK', pais:'KR', tipos:['Productora'], activo:true},
 {codigo:'EN000131', nombre:'Sambok Production', pais:'KR', tipos:['Productora'], activo:true},
