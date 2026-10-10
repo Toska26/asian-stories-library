@@ -1,30 +1,5 @@
 const biblioteca = [
   {
-    "codigo": "DR000002",
-    "titulo": "2gether",
-    "pais": [
-      "TH"
-    ],
-    "anio": 2020,
-    "tipo": "Drama",
-    "estado": "Finalizado",
-    "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": true,
-    "tieneEntidades": true,
-    "tieneMultimedia": true,
-    "portada": "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
-    "serie": "SR000002",
-    "temporada": 1,
-    "temporadas": 2,
-    "franquicia": {
-      "codigo": "FR000001",
-      "orden": 1
-    },
-    "ship": "BrightWin",
-    "numShips": 3
-  },
-  {
     "codigo": "DR000004",
     "titulo": "2gether: The Movie",
     "pais": [
