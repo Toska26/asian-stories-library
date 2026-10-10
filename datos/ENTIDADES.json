@@ -1,1411 +1,158 @@
 [
-  {
-    "codigo": "EN000001",
-    "nombre": "TV Tokyo",
-    "pais": "JP",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000002",
-    "nombre": "Stardust Pictures",
-    "pais": "JP",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000003",
-    "nombre": "Moonlight ENT",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000004",
-    "nombre": "GMMTV",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000005",
-    "nombre": "Housestories 8",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000006",
-    "nombre": "GMM 25",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000007",
-    "nombre": "The One Enterprise",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000008",
-    "nombre": "TV Thunder",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000009",
-    "nombre": "PPTV HD 36",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000010",
-    "nombre": "Studio Wabi Sabi",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000011",
-    "nombre": "Me Mind Y",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000012",
-    "nombre": "Felloww",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000013",
-    "nombre": "Bear House Production",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000014",
-    "nombre": "One 31",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000015",
-    "nombre": "GMM Grammy",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000016",
-    "nombre": "Asmik Ace",
-    "pais": "JP",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000017",
-    "nombre": "Golden Village Pictures",
-    "pais": "SG",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000018",
-    "nombre": "M Pictures Cambodia",
-    "pais": "KH",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000019",
-    "nombre": "Vidol",
-    "pais": "TW",
-    "tipos": [
-      "Productora",
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000020",
-    "nombre": "SETTV",
-    "pais": "TW",
-    "tipos": [
-      "Productora",
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000021",
-    "nombre": "SPO Entertainment",
-    "pais": "TW",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000022",
-    "nombre": "LINE TV",
-    "pais": "TH",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000023",
-    "nombre": "YouTube",
-    "pais": "US",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000024",
-    "nombre": "iQIYI",
-    "pais": "CN",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000025",
-    "nombre": "GagaOOLala",
-    "pais": "TW",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000026",
-    "nombre": "Disney+ Hotstar",
-    "pais": "US",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000027",
-    "nombre": "iWantTFC",
-    "pais": "PH",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000028",
-    "nombre": "Viki",
-    "pais": "US",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000029",
-    "nombre": "WeTV",
-    "pais": "CN",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000030",
-    "nombre": "SHORYUKEN Production",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000031",
-    "nombre": "Viu",
-    "pais": "HK",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000032",
-    "nombre": "Ultimate Troop",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000033",
-    "nombre": "Amarin TV",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000034",
-    "nombre": "BEC World",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000035",
-    "nombre": "Mediaplex International",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000036",
-    "nombre": "Quality Plus Group",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000037",
-    "nombre": "Channel 3",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000038",
-    "nombre": "Argentis Studios",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000039",
-    "nombre": "CHANGE2561",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000040",
-    "nombre": "Netflix",
-    "pais": "US",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000041",
-    "nombre": "oneD",
-    "pais": "TH",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000042",
-    "nombre": "Maker-Y",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000043",
-    "nombre": "Mandee Work",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000044",
-    "nombre": "Workpoint TV",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000045",
-    "nombre": "Punphap Studio",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000046",
-    "nombre": "Kongthup Production",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000047",
-    "nombre": "Domundi TV",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000048",
-    "nombre": "Copy A Bangkok",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000049",
-    "nombre": "TrueVisions Now",
-    "pais": "TH",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000050",
-    "nombre": "GMO Films",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000051",
-    "nombre": "TV Asahi",
-    "pais": "JP",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000052",
-    "nombre": "Cholumpi Brothers",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000053",
-    "nombre": "Gemmistry Studio",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000054",
-    "nombre": "AIS PLAY",
-    "pais": "TH",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000055",
-    "nombre": "Parbdee Taweesuk",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000056",
-    "nombre": "Chamade Film",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000057",
-    "nombre": "W-STORY",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000058",
-    "nombre": "EnergeDic Company",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000059",
-    "nombre": "Contents Monster",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000060",
-    "nombre": "Emotion Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000061",
-    "nombre": "Moving Pictures Co.",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000062",
-    "nombre": "Idol Romance",
-    "pais": "KR",
-    "tipos": [
-      "Productora",
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000063",
-    "nombre": "Storywiz",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000064",
-    "nombre": "Convergence TV",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000065",
-    "nombre": "Japangi",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000066",
-    "nombre": "H&Co",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000067",
-    "nombre": "Damhwa Co., Ltd.",
-    "pais": "KR",
-    "tipos": [
-      "Productora",
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000068",
-    "nombre": "Kiwi Media Group",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000069",
-    "nombre": "Jaye Entertainment",
-    "pais": "KR",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000070",
-    "nombre": "Bucket Studio",
-    "pais": "KR",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000071",
-    "nombre": "WHYNOT MEDIA",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000072",
-    "nombre": "Hanyang Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000073",
-    "nombre": "SILKWOOD",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000074",
-    "nombre": "Little Big Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Distribuidora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000075",
-    "nombre": "ATA Entertainment",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000076",
-    "nombre": "Bilibili",
-    "pais": "CN",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000077",
-    "nombre": "Sunset Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000078",
-    "nombre": "RaemongRaein",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000079",
-    "nombre": "Axis",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000080",
-    "nombre": "Kakao TV",
-    "pais": "KR",
-    "tipos": [
-      "Productora",
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000081",
-    "nombre": "Vanilla Production",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000082",
-    "nombre": "Another Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000083",
-    "nombre": "Media Atlantis",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000084",
-    "nombre": "Studio Yanggwibi",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000085",
-    "nombre": "Matchbox",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000086",
-    "nombre": "Strongberry",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000087",
-    "nombre": "The Dramatist",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000088",
-    "nombre": "Kidari Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000089",
-    "nombre": "Watcha",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000090",
-    "nombre": "Rakuten TV",
-    "pais": "JP",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000091",
-    "nombre": "Wavve",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000092",
-    "nombre": "Channel K",
-    "pais": "IN",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000093",
-    "nombre": "ABEMA",
-    "pais": "JP",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000094",
-    "nombre": "Box Media",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000095",
-    "nombre": "Kenaz",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000096",
-    "nombre": "T2N Media",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000097",
-    "nombre": "Youth Film",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000098",
-    "nombre": "IPQ Entertainment",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000099",
-    "nombre": "MODT Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000100",
-    "nombre": "Studio Winsome",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000101",
-    "nombre": "Studio Empo",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000102",
-    "nombre": "One Point Media",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000103",
-    "nombre": "Myung Films",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000104",
-    "nombre": "NEW",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000105",
-    "nombre": "Gogo Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000106",
-    "nombre": "1012 Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000107",
-    "nombre": "ASCENDIO",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000108",
-    "nombre": "FLASH ENT.",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000109",
-    "nombre": "Naver Series On",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000110",
-    "nombre": "Heavenly",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000111",
-    "nombre": "FOD",
-    "pais": "JP",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000112",
-    "nombre": "KBS",
-    "pais": "KR",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000113",
-    "nombre": "iQIYI Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000114",
-    "nombre": "TVING",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000115",
-    "nombre": "Wavve Studios",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000116",
-    "nombre": "IPQ",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000118",
-    "nombre": "Nakwon Mansion",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000119",
-    "nombre": "JIBS KR",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000122",
-    "nombre": "Page One Film",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000123",
-    "nombre": "New Black Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000124",
-    "nombre": "Numberthree Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000125",
-    "nombre": "KT StudioGenie",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000126",
-    "nombre": "Merry Christmas",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000127",
-    "nombre": "Bigstone Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000129",
-    "nombre": "Blue By Blue",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000130",
-    "nombre": "Studio OAK",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000131",
-    "nombre": "Sambok Production",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000132",
-    "nombre": "Playlist Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000133",
-    "nombre": "Fuji Television",
-    "pais": "JP",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000134",
-    "nombre": "Kakao Entertainment",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000135",
-    "nombre": "Film K",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000136",
-    "nombre": "Changin' Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000137",
-    "nombre": "Heavenly Pictures",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000138",
-    "nombre": "TRUE FILM",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000139",
-    "nombre": "SUKFILM",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000140",
-    "nombre": "SEEKMedia",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000141",
-    "nombre": "Shortime",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000142",
-    "nombre": "Fangle Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000143",
-    "nombre": "Lovememory",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000144",
-    "nombre": "GND Studio",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000145",
-    "nombre": "CITYBOY_LOG",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000146",
-    "nombre": "QueerDeep",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000147",
-    "nombre": "YYDS Entertainment",
-    "pais": "TH",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000148",
-    "nombre": "Studio Coffee Break",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000149",
-    "nombre": "Shortime",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000150",
-    "nombre": "Blue By Blue",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000151",
-    "nombre": "AXIS CCP",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000152",
-    "nombre": "TUJAELEE Co., Ltd.",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000153",
-    "nombre": "OAK Company",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000154",
-    "nombre": "Likey",
-    "pais": "KR",
-    "tipos": [
-      "Plataforma"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000155",
-    "nombre": "Flying Penguin",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000156",
-    "nombre": "Rainbow",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000157",
-    "nombre": "Nakwon Mansion",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000158",
-    "nombre": "CODE CRAYON",
-    "pais": "KR",
-    "tipos": [
-      "Productora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000159",
-    "nombre": "CTS",
-    "pais": "TW",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  },
-  {
-    "codigo": "EN000160",
-    "nombre": "EYE TV Drama",
-    "pais": "TW",
-    "tipos": [
-      "Emisora"
-    ],
-    "activo": true
-  }
+	{"codigo":"EN000001","nombre":"TV Tokyo","pais":"JP","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000002","nombre":"Stardust Pictures","pais":"JP","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000003","nombre":"Moonlight ENT","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000004","nombre":"GMMTV","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000005","nombre":"Housestories 8","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000006","nombre":"GMM 25","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000007","nombre":"The One Enterprise","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000008","nombre":"TV Thunder","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000009","nombre":"PPTV HD 36","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000010","nombre":"Studio Wabi Sabi","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000011","nombre":"Me Mind Y","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000012","nombre":"Felloww","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000013","nombre":"Bear House Production","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000014","nombre":"One 31","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000015","nombre":"GMM Grammy","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000016","nombre":"Asmik Ace","pais":"JP","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000017","nombre":"Golden Village Pictures","pais":"SG","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000018","nombre":"M Pictures Cambodia","pais":"KH","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000019","nombre":"Vidol","pais":"TW","tipos":["Productora","Plataforma"],"activo":true},
+	{"codigo":"EN000020","nombre":"SETTV","pais":"TW","tipos":["Productora","Emisora"],"activo":true},
+	{"codigo":"EN000021","nombre":"SPO Entertainment","pais":"TW","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000022","nombre":"LINE TV","pais":"TH","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000023","nombre":"YouTube","pais":"US","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000024","nombre":"iQIYI","pais":"CN","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000025","nombre":"GagaOOLala","pais":"TW","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000026","nombre":"Disney+ Hotstar","pais":"US","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000027","nombre":"iWantTFC","pais":"PH","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000028","nombre":"Viki","pais":"US","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000029","nombre":"WeTV","pais":"CN","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000030","nombre":"SHORYUKEN Production","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000031","nombre":"Viu","pais":"HK","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000032","nombre":"Ultimate Troop","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000033","nombre":"Amarin TV","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000034","nombre":"BEC World","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000035","nombre":"Mediaplex International","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000036","nombre":"Quality Plus Group","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000037","nombre":"Channel 3","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000038","nombre":"Argentis Studios","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000039","nombre":"CHANGE2561","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000040","nombre":"Netflix","pais":"US","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000041","nombre":"oneD","pais":"TH","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000042","nombre":"Maker-Y","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000043","nombre":"Mandee Work","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000044","nombre":"Workpoint TV","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000045","nombre":"Punphap Studio","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000046","nombre":"Kongthup Production","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000047","nombre":"Domundi TV","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000048","nombre":"Copy A Bangkok","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000049","nombre":"TrueVisions Now","pais":"TH","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000050","nombre":"GMO Films","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000051","nombre":"TV Asahi","pais":"JP","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000052","nombre":"Cholumpi Brothers","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000053","nombre":"Gemmistry Studio","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000054","nombre":"AIS PLAY","pais":"TH","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000055","nombre":"Parbdee Taweesuk","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000056","nombre":"Chamade Film","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000057","nombre":"W-STORY","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000058","nombre":"EnergeDic Company","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000059","nombre":"Contents Monster","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000060","nombre":"Emotion Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000061","nombre":"Moving Pictures Co.","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000062","nombre":"Idol Romance","pais":"KR","tipos":["Productora","Plataforma"],"activo":true},
+	{"codigo":"EN000063","nombre":"Storywiz","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000064","nombre":"Convergence TV","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000065","nombre":"Japangi","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000066","nombre":"H&Co","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000067","nombre":"Damhwa Co., Ltd.","pais":"KR","tipos":["Productora","Distribuidora"],"activo":true},
+	{"codigo":"EN000068","nombre":"Kiwi Media Group","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000069","nombre":"Jaye Entertainment","pais":"KR","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000070","nombre":"Bucket Studio","pais":"KR","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000071","nombre":"WHYNOT MEDIA","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000072","nombre":"Hanyang Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000073","nombre":"SILKWOOD","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000074","nombre":"Little Big Pictures","pais":"KR","tipos":["Distribuidora"],"activo":true},
+	{"codigo":"EN000075","nombre":"ATA Entertainment","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000076","nombre":"Bilibili","pais":"CN","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000077","nombre":"Sunset Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000078","nombre":"RaemongRaein","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000079","nombre":"Axis","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000080","nombre":"Kakao TV","pais":"KR","tipos":["Productora","Plataforma"],"activo":true},
+	{"codigo":"EN000081","nombre":"Vanilla Production","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000082","nombre":"Another Pictures","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000083","nombre":"Media Atlantis","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000084","nombre":"Studio Yanggwibi","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000085","nombre":"Matchbox","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000086","nombre":"Strongberry","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000087","nombre":"The Dramatist","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000088","nombre":"Kidari Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000089","nombre":"Watcha","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000090","nombre":"Rakuten TV","pais":"JP","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000091","nombre":"Wavve","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000092","nombre":"Channel K","pais":"IN","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000093","nombre":"ABEMA","pais":"JP","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000094","nombre":"Box Media","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000095","nombre":"Kenaz","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000096","nombre":"T2N Media","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000097","nombre":"Youth Film","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000098","nombre":"IPQ Entertainment","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000099","nombre":"MODT Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000100","nombre":"Studio Winsome","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000101","nombre":"Studio Empo","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000102","nombre":"One Point Media","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000103","nombre":"Myung Films","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000104","nombre":"NEW","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000105","nombre":"Gogo Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000106","nombre":"1012 Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000107","nombre":"ASCENDIO","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000108","nombre":"FLASH ENT.","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000109","nombre":"Naver Series On","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000110","nombre":"Heavenly","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000111","nombre":"FOD","pais":"JP","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000112","nombre":"KBS","pais":"KR","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000113","nombre":"iQIYI Pictures","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000114","nombre":"TVING","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000115","nombre":"Wavve Studios","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000116","nombre":"IPQ","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000118","nombre":"Nakwon Mansion","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000119","nombre":"JIBS KR","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000122","nombre":"Page One Film","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000123","nombre":"New Black Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000124","nombre":"Numberthree Pictures","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000125","nombre":"KT StudioGenie","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000126","nombre":"Merry Christmas","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000127","nombre":"Bigstone Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000129","nombre":"Blue By Blue","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000130","nombre":"Studio OAK","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000131","nombre":"Sambok Production","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000132","nombre":"Playlist Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000133","nombre":"Fuji Television","pais":"JP","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000134","nombre":"Kakao Entertainment","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000135","nombre":"Film K","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000136","nombre":"Changin' Pictures","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000137","nombre":"Heavenly Pictures","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000138","nombre":"TRUE FILM","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000139","nombre":"SUKFILM","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000140","nombre":"SEEKMedia","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000141","nombre":"Shortime","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000142","nombre":"Fangle Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000143","nombre":"Lovememory","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000144","nombre":"GND Studio","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000145","nombre":"CITYBOY_LOG","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000146","nombre":"QueerDeep","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000147","nombre":"YYDS Entertainment","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000148","nombre":"Studio Coffee Break","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000149","nombre":"Shortime","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000150","nombre":"Blue By Blue","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000151","nombre":"AXIS CCP","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000152","nombre":"TUJAELEE Co., Ltd.","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000153","nombre":"OAK Company","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000154","nombre":"Likey","pais":"KR","tipos":["Plataforma"],"activo":true},
+	{"codigo":"EN000155","nombre":"Flying Penguin","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000156","nombre":"Rainbow","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000157","nombre":"Nakwon Mansion","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000158","nombre":"CODE CRAYON","pais":"KR","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000159","nombre":"CTS","pais":"TW","tipos":["Emisora"],"activo":true},
+	{"codigo":"EN000160","nombre":"EYE TV Drama","pais":"TW","tipos":["Emisora"],"activo":true}
 ]
