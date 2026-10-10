@@ -223,7 +223,10 @@ function construirBiblioteca() {
 
     listaCompilada.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es', { sensitivity: 'base' }));
 
-    const contenidoOutput = `const biblioteca = ${JSON.stringify(listaCompilada, null, 2)};\n`;
+    // Formateamos cada drama en una sola línea tabulada
+    const lineasDramas = listaCompilada.map(drama => `\t${JSON.stringify(drama)}`).join(',\n');
+    const contenidoOutput = `const biblioteca = [\n${lineasDramas}\n];\n`;
+    
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
     console.log(`\n✅ Proceso finalizado: ${listaCompilada.length} drama(s) procesados.`);
