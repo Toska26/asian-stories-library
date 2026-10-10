@@ -1,27 +1,5 @@
 const biblioteca = [
   {
-    "codigo": "DR000004",
-    "titulo": "2gether: The Movie",
-    "pais": [
-      "TH"
-    ],
-    "anio": 2021,
-    "tipo": "Película",
-    "estado": "Finalizado",
-    "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": true,
-    "tieneEntidades": true,
-    "tieneMultimedia": true,
-    "portada": "https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
-    "franquicia": {
-      "codigo": "FR000001",
-      "orden": 3
-    },
-    "ship": "BrightWin",
-    "numShips": 3
-  },
-  {
     "codigo": "DR000839",
     "titulo": "7 Project",
     "pais": [
