@@ -1,56 +1,32 @@
 const fs = require('fs');
 const path = require('path');
-const vm = require('vm');
 
-// Configuración de rutas relativas
+// Configuración de rutas a los nuevos ficheros JSON
 const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
-const RUTA_SHIPS = path.join(__dirname, 'datos', 'SHIPS.js');
-const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.js');
+const RUTA_SHIPS = path.join(__dirname, 'datos', 'SHIPS.json');
+const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.json');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
 /**
- * Carga de forma segura archivos globales (SHIPS.js, PERSONAS.js)
+ * Carga directa y rápida de archivos JSON globales
  */
-function cargarArchivoGlobal(rutaArchivo, posiblesNombres) {
+function cargarJsonGlobal(rutaArchivo) {
     if (!fs.existsSync(rutaArchivo)) {
         console.warn(`⚠️ No se encontró el archivo global: ${rutaArchivo}`);
         return [];
     }
     try {
         const contenido = fs.readFileSync(rutaArchivo, 'utf8');
-        
-        const sandbox = { window: {} };
-        sandbox.window = sandbox;
-
-        vm.createContext(sandbox);
-        vm.runInContext(contenido, sandbox);
-
-        for (const nombre of posiblesNombres) {
-            let data = sandbox[nombre] || sandbox.window?.[nombre];
-
-            if (!data) {
-                try {
-                    data = vm.runInContext(`(function() { ${contenido}; return (typeof ${nombre} !== 'undefined' ? ${nombre} : null); })()`, sandbox);
-                } catch (e) {
-                    data = null;
-                }
-            }
-
-            if (Array.isArray(data) && data.length > 0) {
-                return data;
-            }
-        }
-
-        return [];
+        return JSON.parse(contenido);
     } catch (error) {
-        console.error(`❌ Error al cargar ${rutaArchivo}:`, error.message);
+        console.error(`❌ Error al leer ${rutaArchivo}:`, error.message);
         return [];
     }
 }
 
-// Carga única de colecciones globales
-const shipsGlobales = cargarArchivoGlobal(RUTA_SHIPS, ['SHIPS', 'ships', 'Ships']);
-const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, ['PERSONAS', 'personas', 'Personas']);
+// Carga directa de colecciones globales desde JSON
+const shipsGlobales = cargarJsonGlobal(RUTA_SHIPS);
+const personasGlobales = cargarJsonGlobal(RUTA_PERSONAS);
 
 /**
  * Resuelve únicamente el primer ship según las reglas estrictas
@@ -58,7 +34,7 @@ const personasGlobales = cargarArchivoGlobal(RUTA_PERSONAS, ['PERSONAS', 'person
 function obtenerPrimerShipResuelto(itemShip, drama) {
     if (!itemShip) return null;
 
-    // REGLA 1: Código oficial de Ship en SHIPS.js
+    // REGLA 1: Código oficial de Ship en SHIPS.json
     if (itemShip.ship) {
         const sEncontrado = shipsGlobales.find(s => s.codigo === itemShip.ship);
         if (sEncontrado && sEncontrado.nombre) {
@@ -66,7 +42,7 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
         }
     }
 
-    // REGLA 2: Mapeo por personajes ficticios -> Nombres Artísticos en PERSONAS.js
+    // REGLA 2: Mapeo por personajes ficticios -> Nombres Artísticos en PERSONAS.json
     if (Array.isArray(itemShip.personajes) && itemShip.personajes.length >= 2) {
         if (Array.isArray(drama.personas) && drama.personas.length > 0) {
             const codigosPersonas = itemShip.personajes.map(nombreFicticio => {
@@ -185,7 +161,7 @@ function compilarDramaParaBiblioteca(drama) {
  */
 function construirBiblioteca() {
     console.log('🔄 Reconstruyendo biblioteca.js ultraligera desde archivos JSON...');
-    console.log(`📦 Globales cargados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
+    console.log(`📦 Globales cargados: ${shipsGlobales.length} ships en SHIPS.json, ${personasGlobales.length} personas en PERSONAS.json.`);
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
         console.error('❌ Error: No existe la carpeta:', RUTA_DRAMAS);
