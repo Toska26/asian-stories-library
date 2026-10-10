@@ -10,7 +10,6 @@ const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
 
 /**
  * Carga de forma segura archivos globales (SHIPS.js, PERSONAS.js)
- * buscando nombres de variables tanto en mayúsculas como en minúsculas.
  */
 function cargarArchivoGlobal(rutaArchivo, posiblesNombres) {
     if (!fs.existsSync(rutaArchivo)) {
@@ -185,7 +184,7 @@ function compilarDramaParaBiblioteca(drama) {
  * Función principal de compilación
  */
 function construirBiblioteca() {
-    console.log('🔄 Reconstruyendo biblioteca.js ultraligera...');
+    console.log('🔄 Reconstruyendo biblioteca.js ultraligera desde archivos JSON...');
     console.log(`📦 Globales cargados: ${shipsGlobales.length} ships en SHIPS.js, ${personasGlobales.length} personas en PERSONAS.js.`);
 
     if (!fs.existsSync(RUTA_DRAMAS)) {
@@ -198,7 +197,8 @@ function construirBiblioteca() {
         fs.mkdirSync(carpetaDatos, { recursive: true });
     }
 
-    const archivos = fs.readdirSync(RUTA_DRAMAS).filter(f => f.endsWith('.js'));
+    // Leemos únicamente archivos .json
+    const archivos = fs.readdirSync(RUTA_DRAMAS).filter(f => f.endsWith('.json'));
     const listaCompilada = [];
     let erroresContador = 0;
 
@@ -207,20 +207,13 @@ function construirBiblioteca() {
         
         try {
             const contenido = fs.readFileSync(rutaArchivo, 'utf8');
-            const sandbox = { window: {} };
-            sandbox.window = sandbox;
+            const dramaObjeto = JSON.parse(contenido);
 
-            vm.createContext(sandbox);
-            vm.runInContext(contenido, sandbox);
-
-            const codigoDrama = archivo.replace('.js', '');
-            const dramaObjeto = sandbox[codigoDrama] || sandbox.window?.[codigoDrama] || sandbox.DRAMA_ACTUAL || sandbox.dramaActual || sandbox.window?.dramaActual;
-
-            if (dramaObjeto) {
+            if (dramaObjeto && dramaObjeto.codigo) {
                 const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
                 if (elementoBiblio) listaCompilada.push(elementoBiblio);
             } else {
-                console.warn(`⚠️ Objeto no detectado en: ${archivo}`);
+                console.warn(`⚠️ Objeto no válido o sin código en: ${archivo}`);
             }
         } catch (error) {
             erroresContador++;
