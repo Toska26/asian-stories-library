@@ -3,6 +3,9 @@ name: Migrar dramas a JSON
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write  # 👈 Esto le da permiso al bot para guardar los ficheros JSON en tu repo
+
 jobs:
   migrar:
     runs-on: ubuntu-latest
@@ -23,5 +26,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add datos/dramas/
-          git commit -m "Migración automática de dramas_old.js a /dramas/*.json" || exit 0
+          git commit -m "Migración automática de dramas_old.js a datos/dramas/*.json" || exit 0
           git push
