@@ -144,31 +144,6 @@ const biblioteca = [
     "numShips": 1
   },
   {
-    "codigo": "DR000003",
-    "titulo": "Still 2gether",
-    "pais": [
-      "TH"
-    ],
-    "anio": 2020,
-    "tipo": "Drama",
-    "estado": "Finalizado",
-    "activo": true,
-    "tieneSinopsis": true,
-    "tienePersonas": true,
-    "tieneEntidades": true,
-    "tieneMultimedia": true,
-    "portada": "https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg",
-    "serie": "SR000002",
-    "temporada": 2,
-    "temporadas": 2,
-    "franquicia": {
-      "codigo": "FR000001",
-      "orden": 2
-    },
-    "ship": "BrightWin",
-    "numShips": 3
-  },
-  {
     "codigo": "DR000005",
     "titulo": "The Eighth Sense",
     "pais": [
