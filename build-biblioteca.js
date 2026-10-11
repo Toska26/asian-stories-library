@@ -96,11 +96,33 @@ function compilarDramaParaBiblioteca(drama) {
     const tienePersonas = Boolean(Array.isArray(drama.personas) && drama.personas.length > 0);
     const tieneEntidades = Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0);
 
+    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
+    const tieneOrigen = Boolean(
+        (Array.isArray(drama.origen) && drama.origen.length > 0) ||
+        (drama.origen && typeof drama.origen === 'object' && Object.keys(drama.origen).length > 0) ||
+        (typeof drama.origen === 'string' && drama.origen.trim() !== '')
+    );
+    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
+    const tieneEspeciales = Boolean(
+        (Array.isArray(drama.especiales) && drama.especiales.length > 0) ||
+        (drama.especiales && typeof drama.especiales === 'object' && Object.keys(drama.especiales).length > 0) ||
+        (typeof drama.especiales === 'string' && drama.origen.trim() !== '')
+    );
+    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
+    const tieneRelaciones = Boolean(
+        (Array.isArray(drama.relaciones) && drama.relaciones.length > 0) ||
+        (drama.relaciones && typeof drama.relaciones === 'object' && Object.keys(drama.relaciones).length > 0) ||
+        (typeof drama.relaciones === 'string' && drama.relaciones.trim() !== '')
+    );
+    
     if (tieneSinopsis) objetoBiblioteca.tieneSinopsis = true;
     if (tienePersonas) objetoBiblioteca.tienePersonas = true;
     if (tieneEntidades) objetoBiblioteca.tieneEntidades = true;
     if (tieneMedia) objetoBiblioteca.tieneMultimedia = true;
-
+    if (tieneOrigen) objetoBiblioteca.tieneOrigen = true;
+    if (tieneEspeciales) objetoBiblioteca.tieneEspeciales = true;
+    if (tieneRelaciones) objetoBiblioteca.tieneRelaciones = true;
+    
     // 4. Portada: Solo se agrega si no está vacía
     const urlPortada = drama.portada || (m.portada && m.portada[0]) || '';
     if (urlPortada.trim() !== '') {
