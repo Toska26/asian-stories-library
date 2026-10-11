@@ -1,7 +1,10 @@
 name: Generar Índices Bajo Demanda
 
 on:
-  workflow_dispatch: # <-- Esto habilita el botón de ejecución manual
+  workflow_dispatch:
+
+permissions:
+  contents: write  # <-- Esto le da permiso al bot para guardar y hacer git push en tu repositorio
 
 jobs:
   generar:
