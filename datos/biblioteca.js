@@ -801,7 +801,7 @@ const biblioteca = [
 	{"codigo":"DR000532","titulo":"Stay With Me","pais":["CN"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"remake":{"codigo":"RM000509","orden":2}},
 	{"codigo":"DR000918","titulo":"Step by Step","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000046","orden":1}},
 	{"codigo":"DR000003","titulo":"Still 2gether","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"tieneEspeciales":true,"portada":"https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg","serie":"SR000002","temporada":2,"temporadas":2,"franquicia":{"codigo":"FR000001","orden":2},"ship":"BrightWin","numShips":3},
-	{"codigo":"DR000293","titulo":"Strange Heart","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Cancelado","activo":true},
+	{"codigo":"DR000293","titulo":"Strange Heart","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Cancelado","activo":true},
 	{"codigo":"DR000314","titulo":"Stranger's Kiss","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000367","titulo":"Stranger's Love","pais":["PH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000345","titulo":"Stuck On You","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000009"}},

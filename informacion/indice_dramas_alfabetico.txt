@@ -800,7 +800,7 @@ DR000496	HK	2023	Stay Still
 DR000532	CN	2023	Stay With Me
 DR000918	TH	2023	Step by Step
 DR000003	TH	2020	Still 2gether T2
-DR000293	PH	????	Strange Heart
+DR000293	PH	2020	Strange Heart
 DR000314	PH	2021	Stranger's Kiss
 DR000367	PH	2022	Stranger's Love
 DR000345	PH	2021	Stuck On You
