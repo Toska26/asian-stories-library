@@ -222,7 +222,7 @@ DR000017	TH	2020	En of Love: Tossara
 DR000075	TH	2022	Enchanté
 DR000251	TW	2024	Eternal Butler
 DR000654	JP	2022	Eternal Yesterday
-DR000283	PH	????	Even After
+DR000283	PH	2020	Even After
 DR000056	TH	2022	Even Sun
 DR000380	PH	2023	Ever After
 DR000936	TH	2024	Every You, Every Me

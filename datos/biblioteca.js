@@ -223,7 +223,7 @@ const biblioteca = [
 	{"codigo":"DR000075","titulo":"Enchanté","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://media.senscritique.com/media/000020508093/0/enchante.jpg","serie":"SR000075","temporada":1,"temporadas":1,"ship":"ForceBook","numShips":1},
 	{"codigo":"DR000251","titulo":"Eternal Butler","pais":["TW"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000654","titulo":"Eternal Yesterday","pais":["JP"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true},
-	{"codigo":"DR000283","titulo":"Even After","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000283","titulo":"Even After","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000056","titulo":"Even Sun","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/1200x/8f/d0/7b/8fd07bbd67647fd2a2fc393930b4e690.jpg","serie":"SR000056","temporada":1,"temporadas":1,"ship":"BounPrem","numShips":2},
 	{"codigo":"DR000380","titulo":"Ever After","pais":["PH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000936","titulo":"Every You, Every Me","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneRelaciones":true},
