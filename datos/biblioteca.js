@@ -987,7 +987,7 @@ const biblioteca = [
 	{"codigo":"DR000471","titulo":"Under the Oak Tree","pais":["VN"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000531","titulo":"Under the Skin","pais":["CN"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000531","temporada":1,"temporadas":2},
 	{"codigo":"DR000535","titulo":"Under the Skin II","pais":["CN"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000531","temporada":2,"temporadas":2},
-	{"codigo":"DR000285","titulo":"Unexpected","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Cancelado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000285","titulo":"Unexpected","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Cancelado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000729","titulo":"Unexpectedly Naughty Fukami","pais":["JP"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000599","titulo":"Unfold","pais":["HK"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000215","titulo":"Unfollow","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"ship":"Hwan Seok & Joo Young","numShips":1},
