@@ -662,7 +662,7 @@ DR000697	JP	2024	Our Youth
 DR000568	CN	2025	Out of Control Starlight
 DR000799	TH	2020	Oxygen
 DR000309	PH	????	Paano Kaya Kung Tayo?
-DR000308	PH	????	Padayon
+DR000308	PH	2021	Padayon
 DR000815	TH	2021	Paint with Love
 DR000235	TW	2021	Papa & Daddy
 DR000239	TW	2022	Papa & Daddy T2

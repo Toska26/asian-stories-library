@@ -663,7 +663,7 @@ const biblioteca = [
 	{"codigo":"DR000568","titulo":"Out of Control Starlight","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"remake":{"codigo":"RM000568","orden":1}},
 	{"codigo":"DR000799","titulo":"Oxygen","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000309","titulo":"Paano Kaya Kung Tayo?","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000308","titulo":"Padayon","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000308","titulo":"Padayon","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000815","titulo":"Paint with Love","pais":["TH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000235","titulo":"Papa & Daddy","pais":["TW"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000235","temporada":1,"temporadas":2},
 	{"codigo":"DR000239","titulo":"Papa & Daddy","pais":["TW"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000235","temporada":2,"temporadas":2},
