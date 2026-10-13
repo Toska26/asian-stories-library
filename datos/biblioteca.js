@@ -146,7 +146,7 @@ const biblioteca = [
 	{"codigo":"DR000900","titulo":"Chains of Heart","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000307","titulo":"Chasing Sunsets","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000008"}},
 	{"codigo":"DR000687","titulo":"Chastity High","pais":["JP"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000296","titulo":"Cheat","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000296","titulo":"Cheat","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000193","titulo":"Check in to You","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"ship":"Dong Hee & Dong Won","numShips":1},
 	{"codigo":"DR000864","titulo":"Check Out","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true},
 	{"codigo":"DR000213","titulo":"Checkered Shirt","pais":["KR"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://boyslovefrance.wordpress.com/wp-content/uploads/2025/01/checkeredshirt_poster01.jpg","serie":"SR000213","temporada":1,"temporadas":2,"ship":"Dong-ho & Yu-bin","numShips":1},

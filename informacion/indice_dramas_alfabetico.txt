@@ -145,7 +145,7 @@ DR000959	TH	2024	Century of Love
 DR000900	TH	2023	Chains of Heart
 DR000307	PH	????	Chasing Sunsets
 DR000687	JP	2024	Chastity High
-DR000296	PH	????	Cheat
+DR000296	PH	2020	Cheat
 DR000193	KR	2026	Check in to You
 DR000864	TH	2022	Check Out
 DR000213	KR	2025	Checkered Shirt
