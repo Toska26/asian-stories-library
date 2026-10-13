@@ -275,7 +275,7 @@ DR000638	JP	2021	Given
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
 DR000392	PH	2025	Got My Eyes on You
-DR000297	PH	????	Got'chu Fam!
+DR000297	PH	2020	Got'chu Fam!
 DR000156	KR	2024	Gray Shelter
 DR000754	TH	2016	Grey Rainbow
 DR000561	CN	2025	Gu Jin Nan Qiu

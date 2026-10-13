@@ -276,7 +276,7 @@ const biblioteca = [
 	{"codigo":"DR001025","titulo":"Goddess Bless You from Death","pais":["TH"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000813","titulo":"Golden Blood","pais":["TH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000392","titulo":"Got My Eyes on You","pais":["PH"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000297","titulo":"Got'chu Fam!","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000297","titulo":"Got'chu Fam!","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000156","titulo":"Gray Shelter","pais":["KR"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"ship":"Woo-young & Jae-bin","numShips":1},
 	{"codigo":"DR000754","titulo":"Grey Rainbow","pais":["TH"],"anio":2016,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000561","titulo":"Gu Jin Nan Qiu","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
