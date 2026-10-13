@@ -412,7 +412,7 @@ DR000305	PH	????	Kumusta Bro? The Series T2
 DR000226	TW	2017	La Boum
 DR000858	TH	2022	La Cuisine
 DR000910	TH	2023	La Pluie
-DR000292	PH	????	Lakan
+DR000292	PH	2020	Lakan
 DR000990	TH	2025	Last Meal Universe
 DR000053	TH	2023	Last Twilight
 DR000942	TH	2026	Lately, It’s Winter Season

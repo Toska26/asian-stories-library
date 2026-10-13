@@ -413,7 +413,7 @@ const biblioteca = [
 	{"codigo":"DR000226","titulo":"La Boum","pais":["TW"],"anio":2017,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000020","orden":2}},
 	{"codigo":"DR000858","titulo":"La Cuisine","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000910","titulo":"La Pluie","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
-	{"codigo":"DR000292","titulo":"Lakan","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000292","titulo":"Lakan","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000990","titulo":"Last Meal Universe","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000053","titulo":"Last Twilight","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/736x/71/e1/71/71e171a149c2493cbd88c717556088fa.jpg","serie":"SR000053","temporada":1,"temporadas":1,"ship":"JimmySea","numShips":1},
 	{"codigo":"DR000942","titulo":"Lately, It’s Winter Season","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true,"franquicia":{"codigo":"FR000047","orden":4}},
