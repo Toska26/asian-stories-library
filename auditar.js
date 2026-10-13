@@ -1,12 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-// Ajusta si tu carpeta de dramas está en 'datos/dramas' o solo en 'dramas'
 const carpetaDramas = path.join(__dirname, 'datos', 'dramas'); 
 const carpetaInformacion = path.join(__dirname, 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES AUDITAR CUANDO LO NECESITES
-// Ejemplos: "sinopsis", "tituloOriginal", "multimedia.portada", "anio"
 const campoABuscar = "multimedia.portada"; 
 
 function obtenerValorAnidado(obj, ruta) {
@@ -22,11 +20,11 @@ if (!fs.existsSync(carpetaInformacion)) {
     fs.mkdirSync(carpetaInformacion, { recursive: true });
 }
 
-fs.readdir(carpetaDramas, (err, archivos) => {
-    if (err) return console.error(err);
-
+try {
+    const archivos = fs.readdirSync(carpetaDramas);
     let incompletos = 0;
     let lineasResultado = [];
+    
     lineasResultado.push(`🔎 Auditoría de campo: [ ${campoABuscar} ]`);
     lineasResultado.push(`--------------------------------------------------`);
 
@@ -47,14 +45,11 @@ fs.readdir(carpetaDramas, (err, archivos) => {
 
                 if (estaVacio) {
                     incompletos++;
-                    
-                    // Extraemos los datos adicionales de forma limpia
                     const codigo = drama.codigo || 'SIN-CODIGO';
                     const pais = (Array.isArray(drama.pais) && drama.pais.length > 0) ? drama.pais[0] : '??';
                     const anio = drama.anio || '????';
                     const titulo = drama.titulo || archivo;
 
-                    // Formato de línea: Código \t País \t Año \t Título
                     lineasResultado.push(`${codigo}\t${pais}\t${anio}\t${titulo}`);
                 }
             } catch (e) {
@@ -66,12 +61,13 @@ fs.readdir(carpetaDramas, (err, archivos) => {
     lineasResultado.push(`--------------------------------------------------`);
     lineasResultado.push(`📊 Total dramas sin el campo "${campoABuscar}": ${incompletos}`);
 
-    // Transformamos el campo (ej: "multimedia.portada" pasa a "multimedia_portada")
     const campoParaNombre = campoABuscar.replace(/\./g, '_');
     const nombreArchivo = `informe_auditoria_${campoParaNombre}.txt`;
-
     const archivoSalida = path.join(carpetaInformacion, nombreArchivo);
+
     fs.writeFileSync(archivoSalida, lineasResultado.join('\n'), 'utf8');
-    
     console.log(`¡Auditoría completada! Fichero guardado en informacion/${nombreArchivo}`);
-});
+
+} catch (err) {
+    console.error('Error durante la lectura de la carpeta dramas:', err);
+}
