@@ -976,7 +976,7 @@ DR000381	PH	2023	Toreros
 DR000554	CN	2025	Trapped in Osaka
 DR000423	VN	2019	Trật Tự Mới
 DR000862	TH	2022	Triage
-DR000301	PH	????	Truly Very Yours
+DR000301	PH	2020	Truly Very Yours
 DR000070	TH	2026	Twenty One
 DR000368	PH	2022	Twinkle, Twinkle Little Star
 DR000931	TH	2023	Twins

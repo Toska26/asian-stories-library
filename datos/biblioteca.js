@@ -977,7 +977,7 @@ const biblioteca = [
 	{"codigo":"DR000554","titulo":"Trapped in Osaka","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000423","titulo":"Trật Tự Mới","pais":["VN"],"anio":2019,"tipo":"Webdrama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000013"}},
 	{"codigo":"DR000862","titulo":"Triage","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
-	{"codigo":"DR000301","titulo":"Truly Very Yours","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000025","orden":1}},
+	{"codigo":"DR000301","titulo":"Truly Very Yours","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000025","orden":1}},
 	{"codigo":"DR000070","titulo":"Twenty One","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Anunciado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/736x/f5/09/cf/f509cfccc368495857c0dc2348a8094a.jpg","serie":"SR000070","temporada":1,"temporadas":1,"ship":"JuniorMark","numShips":1},
 	{"codigo":"DR000368","titulo":"Twinkle, Twinkle Little Star","pais":["PH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000931","titulo":"Twins","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
