@@ -6,7 +6,7 @@
   "anio": 2025,
   "pais": ["JP"],
   "idioma": "ja",
-  "franquicia": {"codigo":"","orden":0},
+  "franquicia": null,
   "temporadas": 1,
   "temporada": 1,
   "episodios": 12,
