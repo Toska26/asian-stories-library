@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const carpetaDramas = path.join(__dirname, 'datos', 'dramas');
-const rutaPlantilla = path.join(__dirname, 'plantilla.json');
+const rutaPlantilla = path.join(__dirname,'informacion', 'plantilla.json');
 const carpetaInformacion = path.join(__dirname, 'informacion');
 
 if (!fs.existsSync(carpetaDramas) || !fs.existsSync(rutaPlantilla)) {
