@@ -380,7 +380,7 @@ const biblioteca = [
 	{"codigo":"DR000234","titulo":"Innocent","pais":["TW"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000365","titulo":"Inseparable","pais":["PH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR001018","titulo":"Interminable","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true},
-	{"codigo":"DR000290","titulo":"Island","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Cancelado","activo":true},
+	{"codigo":"DR000290","titulo":"Island","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Cancelado","activo":true},
 	{"codigo":"DR000312","titulo":"Jack & Jill","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000968","titulo":"Jack & Joker: U Steal My Heart!","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true},
 	{"codigo":"DR000664","titulo":"Jack o' Frost","pais":["JP"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
