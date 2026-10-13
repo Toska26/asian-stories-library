@@ -1033,7 +1033,7 @@ const biblioteca = [
 	{"codigo":"DR000786","titulo":"Why R U?","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true,"remake":{"codigo":"RM000786","orden":1}},
 	{"codigo":"DR000887","titulo":"Why You… Y Me?","pais":["TH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000574","titulo":"Wildfire by Daylight","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000299","titulo":"Win Jaime's Heart","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000299","titulo":"Win Jaime's Heart","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000526","titulo":"Winter Begonia","pais":["CN"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000190","titulo":"Winter Fever","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"franquicia":{"codigo":"FR000017","orden":1},"ship":"Jeong Hyeon & Geon Hee","numShips":1},
 	{"codigo":"DR000105","titulo":"Wish You: Your Melody from My Heart","pais":["KR"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/1200x/dc/70/04/dc70041942b9423fd2d4157be3ecef6d.jpg","serie":"SR000105","temporada":1,"temporadas":1,"ship":"Insoo & Sang","numShips":1},
