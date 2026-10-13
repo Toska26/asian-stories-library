@@ -813,7 +813,7 @@ const biblioteca = [
 	{"codigo":"DR000207","titulo":"Summertime","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"ship":"Do Min & In Ho","numShips":1},
 	{"codigo":"DR000956","titulo":"Sunset x Vibes","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true},
 	{"codigo":"DR001002","titulo":"SUNTINY","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000049","orden":2}},
-	{"codigo":"DR000291","titulo":"Swap Test","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true},
+	{"codigo":"DR000291","titulo":"Swap Test","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true},
 	{"codigo":"DR000188","titulo":"Sweet Blood","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"ship":"Sang Min & Jae Min","numShips":1},
 	{"codigo":"DR000994","titulo":"Sweet Tooth, Good Dentist","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000170","titulo":"Sweetheart Service","pais":["KR"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://m.media-amazon.com/images/M/MV5BMTIwYTE1YzctNTlkYi00NjQ0LWExNzAtNmYyZjQ5NjEwZjBkXkEyXkFqcGc%40._V1_.jpg"},
