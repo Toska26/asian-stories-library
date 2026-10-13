@@ -1,33 +1,18 @@
 const fs = require('fs');
 const path = require('path');
 
-// Ruta a la carpeta donde están tus dramas
 const carpetaDramas = path.join(__dirname, 'dramas');
 
-// Función para compactar objetos/arrays en 1 línea
 function formatearCompacto(obj, nivel = 0) {
     const indent = '  '.repeat(nivel);
-    
-    if (obj === null || typeof obj !== 'object') {
-        return JSON.stringify(obj);
-    }
+    if (obj === null || typeof obj !== 'object') return JSON.stringify(obj);
 
     if (Array.isArray(obj)) {
         if (obj.length === 0) return '[]';
-        
-        // Comprueba si es un array simple (paises, generos, tags)
         const esSimple = obj.every(item => typeof item !== 'object' || item === null);
-        if (esSimple) {
-            const elementos = obj.map(item => JSON.stringify(item)).join(', ');
-            return `[${elementos}]`;
-        }
+        if (esSimple) return `[${obj.map(item => JSON.stringify(item)).join(', ')}]`;
 
-        // Para arrays de objetos (personas, ships, entidades, etc.)
-        const itemsFormateados = obj.map(item => {
-            const jsonLinea = JSON.stringify(item);
-            return `${indent}  ${jsonLinea}`;
-        });
-
+        const itemsFormateados = obj.map(item => `${indent}  ${JSON.stringify(item)}`);
         return `[\n${itemsFormateados.join(',\n')}\n${indent}]`;
     }
 
@@ -58,31 +43,27 @@ function formatearCompacto(obj, nivel = 0) {
     return `{\n${lineas.join(',\n')}\n${indent}}`;
 }
 
-// Recorrer todos los archivos de la carpeta
-fs.readdir(carpetaDramas, (err, archivos) => {
-    if (err) {
-        console.error('Error al leer la carpeta dramas:', err);
-        return;
-    }
+if (!fs.existsSync(carpetaDramas)) {
+    console.error('No se encuentra la carpeta dramas');
+    process.exit(1);
+}
 
+fs.readdir(carpetaDramas, (err, archivos) => {
+    if (err) return console.error(err);
     let procesados = 0;
 
     archivos.forEach(archivo => {
         if (path.extname(archivo).toLowerCase() === '.json') {
-            const rutaCompleta = path.join(carpetaDramas, archivo);
+            const ruta = path.join(carpetaDramas, archivo);
             try {
-                const contenido = fs.readFileSync(rutaCompleta, 'utf8');
-                const jsonParsed = JSON.parse(contenido);
-                const jsonFormateado = formatearCompacto(jsonParsed, 0);
-
-                fs.writeFileSync(rutaCompleta, jsonFormateado, 'utf8');
+                const contenido = fs.readFileSync(ruta, 'utf8');
+                const json = JSON.parse(contenido);
+                fs.writeFileSync(ruta, formatearCompacto(json, 0), 'utf8');
                 procesados++;
-                console.log(`✓ Formateado: ${archivo}`);
             } catch (e) {
-                console.error(`✕ Error procesando ${archivo}:`, e.message);
+                console.error(`Error en ${archivo}:`, e.message);
             }
         }
     });
-
-    console.log(`\n¡Proceso terminado! Se han formateado ${procesados} archivos.`);
+    console.log(`¡Formateados ${procesados} archivos correctamente!`);
 });
