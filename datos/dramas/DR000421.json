@@ -1,9 +1,7 @@
 {
   "codigo": "DR000421",
   "titulo": "Sạc Pin Trái Tim",
-  "pais": [
-    "VN"
-  ],
+  "pais": ["VN"],
   "anio": 2019,
   "tipo": "Webserie",
   "serie": "SR000421",
@@ -12,18 +10,8 @@
   "episodios": 25,
   "estado": "Finalizado",
   "estreno": "2019-06-15",
-  "generos": [
-    "Drama",
-    "Romance",
-    "Escolar",
-    "Ciencia ficción"
-  ],
-  "tags": [
-    "Instituto",
-    "Amor",
-    "Juventud",
-    "Ciencia ficción"
-  ],
+  "generos": ["Drama", "Romance", "Escolar", "Ciencia ficción"],
+  "tags": ["Instituto", "Amor", "Juventud", "Ciencia ficción"],
   "sinopsis": "Una historia juvenil que combina romance y elementos de ciencia ficción, siguiendo las relaciones y experiencias de un grupo de jóvenes mientras descubren sus sentimientos y afrontan diferentes situaciones.",
   "activo": true
 }

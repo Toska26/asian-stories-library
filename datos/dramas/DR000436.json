@@ -1,12 +1,8 @@
 {
   "codigo": "DR000436",
   "titulo": "Stage of Love",
-  "alias": [
-    "Stage of Love The Series"
-  ],
-  "pais": [
-    "VN"
-  ],
+  "alias": ["Stage of Love The Series"],
+  "pais": ["VN"],
   "anio": 2020,
   "tipo": "Webdrama",
   "temporadas": 1,
@@ -15,22 +11,9 @@
   "estado": "Finalizado",
   "estreno": "2020-06-12",
   "finalizacion": "2020-07-31",
-  "generos": [
-    "Drama",
-    "Romance"
-  ],
-  "tags": [
-    "BL",
-    "Universidad",
-    "Amor",
-    "Amistad",
-    "Celos",
-    "LGBT"
-  ],
+  "generos": ["Drama", "Romance"],
+  "tags": ["BL", "Universidad", "Amor", "Amistad", "Celos", "LGBT"],
   "sinopsis": "Una historia de amor entre jóvenes que se conocen durante su etapa universitaria. Los sentimientos de los protagonistas se desarrollan mientras afrontan malentendidos, celos y las dificultades propias de sus relaciones.",
-  "especiales": [
-    "Extra Episode 1: Hy & Khanh",
-    "Extra Episode 2: Huan"
-  ],
+  "especiales": ["Extra Episode 1: Hy & Khanh", "Extra Episode 2: Huan"],
   "activo": true
 }

@@ -1,9 +1,7 @@
 {
   "codigo": "DR000333",
   "titulo": "DanDanSoy",
-  "pais": [
-    "PH"
-  ],
+  "pais": ["PH"],
   "anio": 2021,
   "tipo": "Drama",
   "temporadas": 1,
@@ -13,27 +11,10 @@
   "estado": "Finalizado",
   "estreno": "2021-07-01",
   "finalizacion": "2021-07-29",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Pareja",
-    "Vida rural",
-    "Pobreza",
-    "Pandemia",
-    "Supervivencia"
-  ],
+  "generos": ["BL", "Romance", "Drama"],
+  "tags": ["BL", "Romance", "Pareja", "Vida rural", "Pobreza", "Pandemia", "Supervivencia"],
   "ships": [
-    {
-      "personajes": [
-        "Cardo",
-        "Nathaniel"
-      ]
-    }
+    {"personajes":["Cardo","Nathaniel"]}
   ],
   "sinopsis": "Cardo y Nathaniel llevan una vida sencilla en una zona rural de Filipinas y mantienen una relación basada en el amor y el apoyo mutuo. Cuando las dificultades económicas y la pandemia ponen en peligro su estabilidad, Cardo decide buscar trabajo para intentar mantener a flote su hogar y su relación.",
   "activo": true

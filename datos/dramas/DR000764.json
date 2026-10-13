@@ -2,13 +2,8 @@
   "codigo": "DR000764",
   "titulo": "My Dear Loser: Monster Romance",
   "tituloOriginal": "My Dear Loser รักไม่เอาถ่าน ตอน Monster Romance",
-  "alias": [
-    "Monster Romance",
-    "My Dear Loser: Monster Romance"
-  ],
-  "pais": [
-    "TH"
-  ],
+  "alias": ["Monster Romance", "My Dear Loser: Monster Romance"],
+  "pais": ["TH"],
   "anio": 2017,
   "tipo": "Drama",
   "serie": "SR000763",
@@ -19,19 +14,9 @@
   "estado": "Finalizado",
   "estreno": "2017-09-10",
   "finalizacion": "2017-12-17",
-  "generos": [
-    "Romance",
-    "Drama",
-    "Comedia",
-    "Juvenil"
-  ],
+  "generos": ["Romance", "Drama", "Comedia", "Juvenil"],
   "ships": [
-    {
-      "personajes": [
-        "Pong",
-        "Namking"
-      ]
-    }
+    {"personajes":["Pong","Namking"]}
   ],
   "sinopsis": "Pong es un estudiante universitario que todavía arrastra las inseguridades de su adolescencia y tiene dificultades para relacionarse con los demás. Su vida cambia cuando conoce a Namking, una joven con una personalidad fuerte y muy diferente a la suya. Mientras intentan superar sus diferencias, ambos descubren que la atracción puede surgir entre personas aparentemente incompatibles.",
   "activo": true

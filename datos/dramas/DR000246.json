@@ -2,14 +2,10 @@
   "codigo": "DR000246",
   "titulo": "Unknown",
   "tituloOriginal": "不可抗力",
-  "alias": [
-    "Unknown: The Series"
-  ],
+  "alias": ["Unknown: The Series"],
   "tipo": "Drama",
   "anio": 2024,
-  "pais": [
-    "TW"
-  ],
+  "pais": ["TW"],
   "idioma": "zh",
   "franquicia": "",
   "universo": "",
@@ -21,28 +17,10 @@
   "estado": "Finalizado",
   "estreno": "2024-02-24",
   "finalizacion": "2024-04-20",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Familia"
-  ],
-  "tags": [
-    "BL",
-    "Familia",
-    "Hermanos",
-    "Amigos de infancia",
-    "Reencuentro",
-    "Amor prohibido",
-    "Diferencia de edad"
-  ],
+  "generos": ["BL", "Romance", "Drama", "Familia"],
+  "tags": ["BL", "Familia", "Hermanos", "Amigos de infancia", "Reencuentro", "Amor prohibido", "Diferencia de edad"],
   "ships": [
-    {
-      "personajes": [
-        "Qiu Shi Ran",
-        "Wei Qian"
-      ]
-    }
+    {"personajes":["Qiu Shi Ran","Wei Qian"]}
   ],
   "sinopsis": "Wei Qian queda huérfano y asume la responsabilidad de cuidar de su hermana y de su hermano adoptivo Wei Zhi Yuan. Años después, la relación entre los dos hombres se transforma en sentimientos románticos mientras deben enfrentarse a los conflictos familiares y a las consecuencias de su pasado.",
   "activo": true

@@ -1,12 +1,8 @@
 {
   "codigo": "DR000298",
   "titulo": "Third and Josh",
-  "alias": [
-    "Third And Josh"
-  ],
-  "pais": [
-    "PH"
-  ],
+  "alias": ["Third And Josh"],
+  "pais": ["PH"],
   "año": 2020,
   "tipo": "Drama",
   "temporadas": 1,
@@ -16,20 +12,10 @@
   "estado": "Finalizado",
   "estreno": "2020-11-29",
   "finalizacion": "2020-12-13",
-  "generos": [
-    "BL",
-    "Romance"
-  ],
-  "tags": [
-    "BL"
-  ],
+  "generos": ["BL", "Romance"],
+  "tags": ["BL"],
   "ships": [
-    {
-      "personajes": [
-        "Third",
-        "Josh"
-      ]
-    }
+    {"personajes":["Third","Josh"]}
   ],
   "sinopsis": "",
   "activo": true

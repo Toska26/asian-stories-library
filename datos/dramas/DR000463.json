@@ -1,12 +1,8 @@
 {
   "codigo": "DR000463",
   "titulo": "Love Bill",
-  "alias": [
-    "Lời Hứa Mùa Hạ"
-  ],
-  "pais": [
-    "VN"
-  ],
+  "alias": ["Lời Hứa Mùa Hạ"],
+  "pais": ["VN"],
   "anio": 2022,
   "tipo": "Drama",
   "temporadas": 1,
@@ -16,25 +12,10 @@
   "estado": "Finalizado",
   "estreno": "2022-10-29",
   "finalizacion": "2023-01-10",
-  "generos": [
-    "Drama",
-    "Romance",
-    "BL"
-  ],
-  "tags": [
-    "BL",
-    "LGBTQ+",
-    "Cohabitación",
-    "Age Gap",
-    "YouTube"
-  ],
+  "generos": ["Drama", "Romance", "BL"],
+  "tags": ["BL", "LGBTQ+", "Cohabitación", "Age Gap", "YouTube"],
   "ships": [
-    {
-      "personajes": [
-        "Nghĩa",
-        "Thiên"
-      ]
-    }
+    {"personajes":["Nghĩa","Thiên"]}
   ],
   "sinopsis": "Nghĩa, un joven heredero expulsado de su casa, viaja para reclamar una deuda familiar. Al descubrir que el deudor ha fallecido, termina viviendo con Thiên, su hijo, y la convivencia forzada transforma poco a poco su enfrentamiento inicial en una relación afectiva.",
   "activo": true

@@ -1,12 +1,8 @@
 {
   "codigo": "DR000454",
   "titulo": "School's Out! Let's Date Now!",
-  "alias": [
-    "Tan học rồi, hẹn hò không?"
-  ],
-  "pais": [
-    "VN"
-  ],
+  "alias": ["Tan học rồi, hẹn hò không?"],
+  "pais": ["VN"],
   "anio": 2021,
   "tipo": "Drama",
   "temporadas": 1,
@@ -16,19 +12,8 @@
   "estado": "Finalizado",
   "estreno": "2021-01-31",
   "finalizacion": "2021-03-14",
-  "generos": [
-    "Drama",
-    "Romance",
-    "GL",
-    "BL"
-  ],
-  "tags": [
-    "GL",
-    "BL",
-    "Escolar",
-    "LGBTQ+",
-    "YouTube"
-  ],
+  "generos": ["Drama", "Romance", "GL", "BL"],
+  "tags": ["GL", "BL", "Escolar", "LGBTQ+", "YouTube"],
   "sinopsis": "Drama escolar que sigue las relaciones, amistades, celos, descubrimientos y secretos de un grupo de estudiantes. La historia es principalmente GL e incluye también una pareja BL secundaria.",
   "activo": true
 }

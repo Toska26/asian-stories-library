@@ -2,16 +2,10 @@
   "codigo": "DR000123",
   "titulo": "Blue of Winter",
   "tituloOriginal": "유도소년",
-  "alias": [
-    "Blue of Winter",
-    "Judo Boy",
-    "Yudo Sonyeon"
-  ],
+  "alias": ["Blue of Winter", "Judo Boy", "Yudo Sonyeon"],
   "tipo": "Drama",
   "anio": 2022,
-  "pais": [
-    "KR"
-  ],
+  "pais": ["KR"],
   "idioma": "ko",
   "franquicia": "",
   "universo": "",
@@ -23,73 +17,23 @@
   "estado": "Finalizado",
   "estreno": "2022-03-15",
   "finalizacion": "2022-03-29",
-  "generos": [
-    "Drama",
-    "Romance",
-    "Juventud",
-    "Deportes"
-  ],
-  "tags": [
-    "BL",
-    "Instituto",
-    "Judo",
-    "Triángulo amoroso",
-    "Amistad",
-    "Amor"
-  ],
+  "generos": ["Drama", "Romance", "Juventud", "Deportes"],
+  "tags": ["BL", "Instituto", "Judo", "Triángulo amoroso", "Amistad", "Amor"],
   "personas": [
-    {
-      "nombre": "Lee Hyun Woo",
-      "persona": "PR000595",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Kim Do Jin",
-      "persona": "PR000628",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Han Ji Seok",
-      "persona": "PR000596",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    }
+    {"nombre":"Lee Hyun Woo","persona":"PR000595","funcion":["Actor"],"principal":true},
+    {"nombre":"Kim Do Jin","persona":"PR000628","funcion":["Actor"],"principal":true},
+    {"nombre":"Han Ji Seok","persona":"PR000596","funcion":["Actor"],"principal":true}
   ],
   "ships": [
-    {
-      "personajes": [
-        "Lee Hyun Woo",
-        "Han Ji Seok"
-      ]
-    }
+    {"personajes":["Lee Hyun Woo","Han Ji Seok"]}
   ],
   "sinopsis": "Ji Seok y Do Jin conocen a Hyeon Woo durante una competición de judo entre institutos de Seúl. Fascinados por su forma temeraria de luchar, ambos terminan acercándose a él, aunque sus sentimientos evolucionan de manera diferente. Do Jin se enamora de Hyeon Woo, mientras Ji Seok acaba convirtiéndose en su pareja. Años después, cuando Do Jin regresa convertido en campeón de judo, los tres vuelven a encontrarse y deben enfrentarse a los sentimientos y heridas que quedaron sin resolver.",
   "multimedia": {
-    "portada": [
-      "https://i.pinimg.com/1200x/4a/ec/b1/4aecb1908d0425ebc0299b6a5482376e.jpg"
-    ]
+    "portada": ["https://i.pinimg.com/1200x/4a/ec/b1/4aecb1908d0425ebc0299b6a5482376e.jpg"]
   },
   "entidades": [
-    {
-      "codigo": "EN000077",
-      "funcion": [
-        "Productora"
-      ]
-    },
-    {
-      "codigo": "EN000023",
-      "funcion": [
-        "Plataforma"
-      ]
-    }
+    {"codigo":"EN000077","funcion":["Productora"]},
+    {"codigo":"EN000023","funcion":["Plataforma"]}
   ],
   "activo": true
 }

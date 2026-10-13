@@ -2,14 +2,8 @@
   "codigo": "DR000999",
   "titulo": "I Promise I Will Come Back",
   "tituloOriginal": "ฉันคอยเธอ",
-  "alias": [
-    "I Promise I Will Comeback",
-    "Chan Khoi Thoe",
-    "I Waited for You"
-  ],
-  "pais": [
-    "TH"
-  ],
+  "alias": ["I Promise I Will Comeback", "Chan Khoi Thoe", "I Waited for You"],
+  "pais": ["TH"],
   "anio": 2025,
   "tipo": "Serie",
   "temporadas": 1,
@@ -19,37 +13,13 @@
   "estado": "Finalizado",
   "estreno": "2025-05-19",
   "finalizacion": "2025-07-07",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Fantasía"
-  ],
-  "tags": [
-    "Tailandia rural",
-    "Viaje",
-    "Promesa",
-    "Amistad",
-    "Accidente",
-    "Líneas temporales",
-    "Romance intercultural"
-  ],
+  "generos": ["BL", "Romance", "Drama", "Fantasía"],
+  "tags": ["Tailandia rural", "Viaje", "Promesa", "Amistad", "Accidente", "Líneas temporales", "Romance intercultural"],
   "ships": [
-    {
-      "personajes": [
-        "TK",
-        "Victor"
-      ]
-    }
+    {"personajes":["TK","Victor"]}
   ],
   "especiales": [
-    {
-      "titulo": "I Promise I Will Come Back Special Episode",
-      "tipo": "Especial",
-      "anio": 2025,
-      "episodios": 1,
-      "estreno": "2025-07-21"
-    }
+    {"titulo":"I Promise I Will Come Back Special Episode","tipo":"Especial","anio":2025,"episodios":1,"estreno":"2025-07-21"}
   ],
   "sinopsis": "TK, un joven del norte de Tailandia, conoce inesperadamente a Victor, un viajero extranjero. El encuentro da lugar a una relación marcada por una promesa y por acontecimientos que desafían el paso del tiempo. Tras un accidente y la aparición de circunstancias extraordinarias, ambos deberán enfrentarse a la distancia, la pérdida y la posibilidad de volver a encontrarse.",
   "activo": true

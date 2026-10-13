@@ -2,14 +2,10 @@
   "codigo": "DR000231",
   "titulo": "We Best Love: No. 1 For You",
   "tituloOriginal": "永遠的第一名",
-  "alias": [
-    "We Best Love: Forever the First"
-  ],
+  "alias": ["We Best Love: Forever the First"],
   "tipo": "Drama",
   "anio": 2021,
-  "pais": [
-    "TW"
-  ],
+  "pais": ["TW"],
   "idioma": "zh",
   "franquicia": "",
   "universo": "",
@@ -21,28 +17,10 @@
   "estado": "Finalizado",
   "estreno": "2021-01-08",
   "finalizacion": "2021-02-05",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Juventud"
-  ],
-  "tags": [
-    "BL",
-    "Rivales",
-    "Amigos a amantes",
-    "Instituto",
-    "Universidad",
-    "Primer amor",
-    "Reencuentro"
-  ],
+  "generos": ["BL", "Romance", "Drama", "Juventud"],
+  "tags": ["BL", "Rivales", "Amigos a amantes", "Instituto", "Universidad", "Primer amor", "Reencuentro"],
   "ships": [
-    {
-      "personajes": [
-        "Gao Shi De",
-        "Zhou Shu Yi"
-      ]
-    }
+    {"personajes":["Gao Shi De","Zhou Shu Yi"]}
   ],
   "sinopsis": "Gao Shi De y Zhou Shu Yi se conocen desde la infancia y mantienen una rivalidad constante por ocupar el primer puesto. Años después vuelven a encontrarse en la universidad, donde la rivalidad comienza a transformarse en sentimientos románticos.",
   "activo": true

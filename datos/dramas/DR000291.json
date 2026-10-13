@@ -1,12 +1,8 @@
 {
   "codigo": "DR000291",
   "titulo": "Swap Test",
-  "alias": [
-    "Swap Test The Series"
-  ],
-  "pais": [
-    "PH"
-  ],
+  "alias": ["Swap Test The Series"],
+  "pais": ["PH"],
   "año": 2020,
   "tipo": "Drama",
   "temporadas": 1,
@@ -15,15 +11,8 @@
   "estado": "Finalizado",
   "estreno": "2020-10-23",
   "finalizacion": "2021-02-16",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Comedia"
-  ],
-  "tags": [
-    "BL"
-  ],
+  "generos": ["BL", "Romance", "Drama", "Comedia"],
+  "tags": ["BL"],
   "sinopsis": "",
   "activo": true
 }

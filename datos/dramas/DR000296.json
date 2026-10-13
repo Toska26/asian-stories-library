@@ -1,12 +1,8 @@
 {
   "codigo": "DR000296",
   "titulo": "Cheat",
-  "alias": [
-    "Cheat The Series"
-  ],
-  "pais": [
-    "PH"
-  ],
+  "alias": ["Cheat The Series"],
+  "pais": ["PH"],
   "año": 2020,
   "tipo": "Drama",
   "temporadas": 1,
@@ -16,29 +12,11 @@
   "estado": "Finalizado",
   "estreno": "2020-12-01",
   "finalizacion": "2021-01-19",
-  "generos": [
-    "BL",
-    "Drama",
-    "Suspense",
-    "Terror",
-    "Sobrenatural"
-  ],
-  "tags": [
-    "BL"
-  ],
+  "generos": ["BL", "Drama", "Suspense", "Terror", "Sobrenatural"],
+  "tags": ["BL"],
   "ships": [
-    {
-      "personajes": [
-        "Vee",
-        "Jay"
-      ]
-    },
-    {
-      "personajes": [
-        "Dong",
-        "Allen"
-      ]
-    }
+    {"personajes":["Vee","Jay"]},
+    {"personajes":["Dong","Allen"]}
   ],
   "sinopsis": "Vee, un joven criado de forma aislada, entra en contacto con una familia marcada por secretos, relaciones complejas, celos y elementos sobrenaturales.",
   "activo": true

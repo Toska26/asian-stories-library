@@ -2,9 +2,7 @@
   "codigo": "DR001031",
   "titulo": "Too Close Friend 2",
   "tituloOriginal": "เพื่อนเล่น ไม่เล่นเพื่อน 2",
-  "pais": [
-    "TH"
-  ],
+  "pais": ["TH"],
   "anio": 2026,
   "tipo": "Drama",
   "serie": "SR001029",
@@ -15,17 +13,8 @@
   "estado": "Finalizado",
   "estreno": "2026-06-14",
   "finalizacion": "2026-08-09",
-  "generos": [
-    "Romance",
-    "Drama",
-    "Juventud"
-  ],
-  "tags": [
-    "BL",
-    "Instituto",
-    "Amigos a amantes",
-    "Serie corta"
-  ],
+  "generos": ["Romance", "Drama", "Juventud"],
+  "tags": ["BL", "Instituto", "Amigos a amantes", "Serie corta"],
   "sinopsis": "Tee y K intentan avanzar en su relación mientras afrontan nuevas amenazas y secretos familiares. La vuelta a clase marca una nueva etapa para ambos, pero la aparición de una presencia misteriosa y la llegada de la hermana de Tee complican el equilibrio de la pareja.",
   "activo": true
 }

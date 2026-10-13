@@ -2,20 +2,11 @@
   "codigo": "DR000685",
   "titulo": "Cosmetic Playlover",
   "tituloOriginal": "コスメティック・プレイラバー",
-  "pais": [
-    "JP"
-  ],
+  "pais": ["JP"],
   "anio": 2024,
   "tipo": "Drama",
   "serie": "SR000685",
-  "origen": {
-    "tipo": "Manga",
-    "relacion": "Adaptación",
-    "titulo": "Cosmetic Playlover",
-    "tituloOriginal": "コスメティック・プレイラバー",
-    "autor": "Sachi Narashima",
-    "pais": "JP"
-  },
+  "origen": {"tipo":"Manga","relacion":"Adaptación","titulo":"Cosmetic Playlover","tituloOriginal":"コスメティック・プレイラバー","autor":"Sachi Narashima","pais":"JP"},
   "temporadas": 2,
   "temporada": 1,
   "episodios": 8,
@@ -23,25 +14,10 @@
   "estado": "Finalizado",
   "estreno": "2024-08-06",
   "finalizacion": "2024-08-27",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Trabajo",
-    "Cosmética",
-    "Compañeros de trabajo",
-    "Romance laboral"
-  ],
+  "generos": ["BL", "Romance", "Drama"],
+  "tags": ["BL", "Trabajo", "Cosmética", "Compañeros de trabajo", "Romance laboral"],
   "ships": [
-    {
-      "personajes": [
-        "Natsume Sōichi",
-        "Sahashi Tōma"
-      ]
-    }
+    {"personajes":["Natsume Sōichi","Sahashi Tōma"]}
   ],
   "sinopsis": "Natsume, consultor de belleza, mantiene una complicada relación laboral con su compañero Tōma. Lo que comienza como una rivalidad profesional se transforma poco a poco en una relación romántica.",
   "activo": true

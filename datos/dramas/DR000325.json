@@ -1,12 +1,8 @@
 {
   "codigo": "DR000325",
   "titulo": "Love By Fehler",
-  "alias": [
-    "Love By Fehler The Series"
-  ],
-  "pais": [
-    "PH"
-  ],
+  "alias": ["Love By Fehler The Series"],
+  "pais": ["PH"],
   "anio": 2021,
   "tipo": "Drama",
   "temporadas": 1,
@@ -16,18 +12,8 @@
   "estado": "Finalizado",
   "estreno": "2021-06-27",
   "finalizacion": "2021-07-18",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Amistad",
-    "Amor",
-    "Amigos"
-  ],
+  "generos": ["BL", "Romance", "Drama"],
+  "tags": ["BL", "Romance", "Amistad", "Amor", "Amigos"],
   "sinopsis": "Dos amigos descubren que sus sentimientos por el otro van más allá de la amistad. A medida que su relación cambia, deben enfrentarse a las consecuencias de convertir una amistad cercana en una relación romántica.",
   "activo": true
 }

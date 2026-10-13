@@ -2,9 +2,7 @@
   "codigo": "DR000675",
   "titulo": "Polyethylene Terephthalate",
   "tituloOriginal": "ポリエチレンテレフタレート",
-  "pais": [
-    "JP"
-  ],
+  "pais": ["JP"],
   "anio": 2023,
   "tipo": "Drama",
   "temporadas": 1,
@@ -13,30 +11,10 @@
   "estado": "Finalizado",
   "estreno": "2023-02-18",
   "finalizacion": "2023-03-18",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Convivencia",
-    "Pareja",
-    "Vida cotidiana",
-    "Ruptura",
-    "Desamor",
-    "Realismo",
-    "Producción independiente"
-  ],
+  "generos": ["BL", "Romance", "Drama"],
+  "tags": ["BL", "Romance", "Drama", "Convivencia", "Pareja", "Vida cotidiana", "Ruptura", "Desamor", "Realismo", "Producción independiente"],
   "ships": [
-    {
-      "personajes": [
-        "Ryo",
-        "Kaoru"
-      ]
-    }
+    {"personajes":["Ryo","Kaoru"]}
   ],
   "sinopsis": "Ryo y Kaoru son una pareja que comenzó su relación después de graduarse de la universidad y que lleva varios años viviendo junta. Mientras se acerca su segundo aniversario, la rutina, las diferencias personales y las dificultades de la convivencia hacen que ambos se cuestionen si todavía pueden continuar juntos. La historia retrata el desgaste de una relación desde el amor hasta la posibilidad de una separación.",
   "activo": true
