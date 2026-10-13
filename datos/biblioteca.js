@@ -53,7 +53,7 @@ const biblioteca = [
 	{"codigo":"DR000677","titulo":"Although I Love You, and You?","pais":["JP"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000153","titulo":"Always Meet Again","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/736x/9b/89/7b/9b897bd5f9e8eb5530f488df4d25a6a9.jpg","franquicia":{"codigo":"FR000014","orden":2},"ship":"Jeong Yu & Woo Ji Han","numShips":1},
 	{"codigo":"DR000284","titulo":"Amore","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000300","titulo":"Ang Pokpok ng Pandemya","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true},
+	{"codigo":"DR000300","titulo":"Ang Pokpok ng Pandemya","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true},
 	{"codigo":"DR000014","titulo":"AntiReset","pais":["TW"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"portada":"https://image.tmdb.org/t/p/original/C1UE6DKeQLouDyv8xNwZgC8llO.jpg","universo":{"codigo":"UN000002"},"ship":"Roy Wu & Leo Huang","numShips":1},
 	{"codigo":"DR000585","titulo":"Archives: The Nanyang Mystery","pais":["CN"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"universo":{"codigo":"UN000022"}},
 	{"codigo":"DR000733","titulo":"Are the Sexy Buttocks Not Good?","pais":["JP"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
