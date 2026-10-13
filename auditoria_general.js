@@ -64,7 +64,7 @@ try {
                         const titulo = drama.titulo || archivo;
 
                         lineasResultado.push(`[${codigo}] (${pais} - ${anio})${titulo}`);
-                        lineasResultado.push(`   ❌ Falta / Vacío: \${camposFaltantes.join(', ')}`);
+                        lineasResultado.push(`   ❌ Falta / Vacío: ${camposFaltantes.join(', ')}`);
                         lineasResultado.push(``);
                     }
                 } catch (e) {
