@@ -1,0 +1,29 @@
+name: Ejecutar Auditoría General
+
+on:
+  workflow_dispatch: # Permite lanzarlo manualmente cuando lo necesites desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  auditar-general:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Ejecutar script de auditoría general
+        run: node auditoria_general.js
+
+      - name: Guardar y subir el informe general a la carpeta informacion
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add informacion/informe_auditoria_general.txt
+          git diff --staged --quiet || (git commit -m "chore: actualizar informe de auditoría general [skip ci]" && git push)
