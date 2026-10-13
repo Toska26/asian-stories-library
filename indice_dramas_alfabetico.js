@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Ruta de tu archivo biblioteca.js (ajusta el nombre si se llama diferente)
-const rutaBiblioteca = path.join(__dirname, 'biblioteca.js');
-const archivoSalida = path.join(__dirname, 'indice_dramas_alfabetico.txt');
+const rutaBiblioteca = path.join(__dirname, 'datos','biblioteca.js');
+const archivoSalida = path.join(__dirname, 'Informacion','indice_dramas_alfabetico.txt');
 
 if (!fs.existsSync(rutaBiblioteca)) {
     console.error('No se encuentra el archivo biblioteca.js');
