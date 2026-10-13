@@ -186,7 +186,7 @@ DR000088	TH	2026	Cupid's Ghost
 DR000086	TH	2022	Cupid's Last Wish
 DR000040	TH	2022	Cutie Pie
 DR000041	TH	2023	Cutie Pie 2 You T2
-DR000310	PH	????	Daddy Love
+DR000310	PH	2021	Daddy Love
 DR000333	PH	2021	DanDanSoy
 DR000072	TH	2023	Dangerous Romance
 DR000083	TH	2026	Dare You to Death
@@ -661,7 +661,7 @@ DR000280	PH	2023	Our Story: The Series T3
 DR000697	JP	2024	Our Youth
 DR000568	CN	2025	Out of Control Starlight
 DR000799	TH	2020	Oxygen
-DR000309	PH	????	Paano Kaya Kung Tayo?
+DR000309	PH	2021	Paano Kaya Kung Tayo?
 DR000308	PH	2021	Padayon
 DR000815	TH	2021	Paint with Love
 DR000235	TW	2021	Papa & Daddy
