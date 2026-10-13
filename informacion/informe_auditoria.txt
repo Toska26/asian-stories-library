@@ -1,0 +1,11 @@
+🔎 Auditoría de campo: [ sinopsis ]
+--------------------------------------------------
+DR000039	Khemjira Forever
+DR000290	Island
+DR000291	Swap Test
+DR000293	Strange Heart
+DR000298	Third and Josh
+DR000300	Ang Pokpok ng Pandemya
+DR000850	LOVE STAGE!!
+--------------------------------------------------
+📊 Total dramas sin el campo "sinopsis": 7
