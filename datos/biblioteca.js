@@ -738,7 +738,7 @@ const biblioteca = [
 	{"codigo":"DR000421","titulo":"Sạc Pin Trái Tim","pais":["VN"],"anio":2019,"tipo":"Webserie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000421","temporada":1,"temporadas":2},
 	{"codigo":"DR000287","titulo":"Safe Haven","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000181","titulo":"Saint Laurence Academy","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"ship":"Sang Min & Tae Youn","numShips":1},
-	{"codigo":"DR000281","titulo":"Sakristan","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000281","titulo":"Sakristan","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000491","titulo":"Sammy's Children's Day","pais":["HK"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000975","titulo":"Sangmin Dinneaw","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000389","titulo":"Sashes and Hearts","pais":["PH"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
