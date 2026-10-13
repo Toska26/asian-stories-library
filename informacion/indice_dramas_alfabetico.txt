@@ -373,7 +373,7 @@ DR000529	CN	2022	In Your Heart
 DR000360	PH	2022	Indigo
 DR000151	KR	2023	Individual Circumstances
 DR000544	CN	2025	Infidelity, It’s a Disease
-DR000306	PH	????	Influencers
+DR000306	PH	2020	Influencers
 DR000803	TH	2020	Ingredients
 DR000311	PH	????	INN Love
 DR000234	TW	2021	Innocent
@@ -407,8 +407,8 @@ DR000119	KR	2022	Kissable Lips
 DR000955	TH	2024	Knock Knock, Boys!
 DR001001	TH	2025	Knock Out
 DR001053	TH	2026	KNOT
-DR000304	PH	????	Kumusta Bro?
-DR000305	PH	????	Kumusta Bro? The Series T2
+DR000304	PH	2020	Kumusta Bro?
+DR000305	PH	2022	Kumusta Bro? The Series T2
 DR000226	TW	2017	La Boum
 DR000858	TH	2022	La Cuisine
 DR000910	TH	2023	La Pluie
@@ -991,7 +991,7 @@ DR000729	JP	2026	Unexpectedly Naughty Fukami
 DR000599	HK	2026	Unfold
 DR000215	KR	2026	Unfollow
 DR000871	TH	2022	Unforgotten Night
-DR000303	PH	????	Unguarded
+DR000303	PH	2020	Unguarded
 DR000140	KR	2023	Unintentional Love Story
 DR000246	TW	2024	Unknown
 DR001062	TH	2026	Unlucky Bae
