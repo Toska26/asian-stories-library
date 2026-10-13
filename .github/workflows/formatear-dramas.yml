@@ -1,0 +1,28 @@
+name: Formatear Dramas JSON
+
+on:
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde la pestaña "Actions" de GitHub
+
+jobs:
+  formatear:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite a la acción guardar los cambios automáticamente en tu repositorio
+    
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Ejecutar script de formateo
+        run: node formatear.js
+
+      - name: Guardar y subir cambios a GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-formato de los JSON de dramas"
+          branch: main # Cambia a 'master' si tu rama principal se llama así
