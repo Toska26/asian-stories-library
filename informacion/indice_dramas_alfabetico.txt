@@ -125,7 +125,7 @@ DR000899	TH	2023	Boyband
 DR000498	HK	2022	BOYS
 DR000159	KR	2024	Boys Be Brave!
 DR000998	TH	2025	Boys in Love
-DR000289	PH	????	Boys' Lockdown
+DR000289	PH	2020	Boys' Lockdown
 DR000830	TH	2021	Brothers
 DR000202	KR	2024	Buddy Boy
 DR000203	KR	2026	Buddy Boy: After T2
@@ -566,7 +566,7 @@ DR000764	TH	2017	My Dear Loser: Monster Romance T2
 DR000769	TH	2018	My Dream
 DR000541	CN	2025	My Enemy Has a Crush on Me
 DR000797	TH	2020	My Engineer
-DR000288	PH	????	My Extraordinary
+DR000288	PH	2020	My Extraordinary
 DR000363	PH	2022	My Freaky Love Story
 DR000798	TH	2020	My Gear and Your Gown
 DR000993	TH	2025	My Golden Blood
