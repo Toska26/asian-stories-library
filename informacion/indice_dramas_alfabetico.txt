@@ -51,7 +51,7 @@ DR000152	KR	2023	All the Liquors
 DR000397	PH	2026	All the Things I Leave You (Patawid)
 DR000677	JP	2024	Although I Love You, and You?
 DR000153	KR	2026	Always Meet Again
-DR000284	PH	????	Amore
+DR000284	PH	2020	Amore
 DR000300	PH	????	Ang Pokpok ng Pandemya
 DR000014	TW	2024	AntiReset
 DR000585	CN	2026	Archives: The Nanyang Mystery
