@@ -335,7 +335,7 @@ const biblioteca = [
 	{"codigo":"DR000840","titulo":"Hometown's Embrace","pais":["TH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000576","titulo":"Honey on the Edge of the Knife","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000523","titulo":"Honey Sir","pais":["CN"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
-	{"codigo":"DR000302","titulo":"Hook Up","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000025","orden":2}},
+	{"codigo":"DR000302","titulo":"Hook Up","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"franquicia":{"codigo":"FR000025","orden":2}},
 	{"codigo":"DR000908","titulo":"House of Stars","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000342","titulo":"How To Heal My Broken Heart","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000341","temporada":2,"temporadas":2},
 	{"codigo":"DR000084","titulo":"How to Survive My CEO","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Anunciado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/1200x/f3/28/d4/f328d4225d7c4a04d2aef6c2ad043b84.jpg","serie":"SR000084","temporada":1,"temporadas":1,"ship":"JoongDunk","numShips":1},

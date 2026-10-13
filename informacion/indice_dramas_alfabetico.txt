@@ -334,7 +334,7 @@ DR000515	CN	2017	Holy Fox Son 2: Fairy Mountain Battle
 DR000840	TH	2021	Hometown's Embrace
 DR000576	CN	2025	Honey on the Edge of the Knife
 DR000523	CN	2020	Honey Sir
-DR000302	PH	????	Hook Up
+DR000302	PH	2020	Hook Up
 DR000908	TH	2023	House of Stars
 DR000342	PH	2021	How To Heal My Broken Heart T2
 DR000084	TH	2026	How to Survive My CEO
