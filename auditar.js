@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'dramas');
+// Ajusta la ruta de la carpeta dramas según tu estructura (ej. si está dentro de datos/dramas, pon path.join(__dirname, 'datos', 'dramas'))
+const carpetaDramas = path.join(__dirname,'datos', 'dramas'); 
+const carpetaInformacion = path.join(__dirname, 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES BUSCAR
-// Ejemplos: "sinopsis", "tituloOriginal", "multimedia.portada", "anio", "ships"
 const campoABuscar = "sinopsis"; 
 
 function obtenerValorAnidado(obj, ruta) {
@@ -16,11 +17,18 @@ if (!fs.existsSync(carpetaDramas)) {
     process.exit(1);
 }
 
+// Asegurar que la carpeta informacion existe
+if (!fs.existsSync(carpetaInformacion)) {
+    fs.mkdirSync(carpetaInformacion, { recursive: true });
+}
+
 fs.readdir(carpetaDramas, (err, archivos) => {
     if (err) return console.error(err);
 
     let incompletos = 0;
-    console.log(`\n🔎 Auditoría de campo: [ ${campoABuscar} ]\n--------------------------------------------------`);
+    let lineasResultado = [];
+    lineasResultado.push(`🔎 Auditoría de campo: [ ${campoABuscar} ]`);
+    lineasResultado.push(`--------------------------------------------------`);
 
     archivos.forEach(archivo => {
         if (path.extname(archivo).toLowerCase() === '.json') {
@@ -31,7 +39,6 @@ fs.readdir(carpetaDramas, (err, archivos) => {
                 
                 const valor = obtenerValorAnidado(drama, campoABuscar);
 
-                // Criterio de "falta de información": es null, undefined, cadena vacía o array vacío
                 const estaVacio = 
                     valor === null || 
                     valor === undefined || 
@@ -40,7 +47,7 @@ fs.readdir(carpetaDramas, (err, archivos) => {
 
                 if (estaVacio) {
                     incompletos++;
-                    console.log(`❌ [Falta] ${drama.codigo} - ${drama.titulo || archivo}`);
+                    lineasResultado.push(`[Falta] ${drama.codigo || 'SIN-CODIGO'} - ${drama.titulo || archivo}`);
                 }
             } catch (e) {
                 console.error(`⚠️ Error leyendo ${archivo}:`, e.message);
@@ -48,6 +55,12 @@ fs.readdir(carpetaDramas, (err, archivos) => {
         }
     });
 
-    console.log(`--------------------------------------------------`);
-    console.log(`📊 Resultado: ${incompletos} dramas encontrados sin el campo "${campoABuscar}".\n`);
+    lineasResultado.push(`--------------------------------------------------`);
+    lineasResultado.push(`📊 Resultado: ${incompletos} dramas encontrados sin el campo "${campoABuscar}".`);
+
+    // Guardar el resultado en la carpeta informacion
+    const archivoSalida = path.join(carpetaInformacion, `auditoria_${campoABuscar.replace('.', '_')}.txt`);
+    fs.writeFileSync(archivoSalida, lineasResultado.join('\n'), 'utf8');
+    
+    console.log(`¡Auditoría completada! Archivo guardado en: ${archivoSalida}`);
 });
