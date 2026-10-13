@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'dramas');
+const carpetaDramas = path.join(__dirname, 'datos','dramas');
 
 function formatearCompacto(obj, nivel = 0) {
     const indent = '  '.repeat(nivel);
