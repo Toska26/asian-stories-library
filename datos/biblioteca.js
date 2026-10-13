@@ -941,7 +941,7 @@ const biblioteca = [
 	{"codigo":"DR000836","titulo":"The Yearbook","pais":["TH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000097","titulo":"Theory of Love","pais":["TH"],"anio":2019,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"tieneEspeciales":true,"portada":"https://i.pinimg.com/736x/e7/de/20/e7de202da269cc4e73d8c4d9cbce3050.jpg","serie":"SR000097","temporada":1,"temporadas":1,"ship":"OffGun","numShips":1},
 	{"codigo":"DR000721","titulo":"Therapy Game","pais":["JP"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000298","titulo":"Third and Josh","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true},
+	{"codigo":"DR000298","titulo":"Third and Josh","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true},
 	{"codigo":"DR000958","titulo":"This Love Doesn't Have Long Beans","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000426","titulo":"Thư Viện Ký Ức","pais":["VN"],"anio":2019,"tipo":"Webserie","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000175","titulo":"Thundercloud Rainstorm","pais":["KR"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2025-11-21/b108d30f-b8c9-4faf-b450-966cf300e23d.jpg"},

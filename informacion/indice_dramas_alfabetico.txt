@@ -940,7 +940,7 @@ DR001015	TH	2025	The Wicked Game
 DR000836	TH	2021	The Yearbook
 DR000097	TH	2019	Theory of Love
 DR000721	JP	2025	Therapy Game
-DR000298	PH	????	Third and Josh
+DR000298	PH	2020	Third and Josh
 DR000958	TH	2024	This Love Doesn't Have Long Beans
 DR000426	VN	2019	Thư Viện Ký Ức
 DR000175	KR	2025	Thundercloud Rainstorm
