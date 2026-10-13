@@ -144,7 +144,7 @@ const biblioteca = [
 	{"codigo":"DR000090","titulo":"Cat for Cash","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://i.pinimg.com/736x/97/b7/ed/97b7eda73fc55bc11dcf52296d83aa64.jpg","serie":"SR000090","temporada":1,"temporadas":1,"ship":"FirstKhaotung","numShips":2},
 	{"codigo":"DR000959","titulo":"Century of Love","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000900","titulo":"Chains of Heart","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
-	{"codigo":"DR000307","titulo":"Chasing Sunsets","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000008"}},
+	{"codigo":"DR000307","titulo":"Chasing Sunsets","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000008"}},
 	{"codigo":"DR000687","titulo":"Chastity High","pais":["JP"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000296","titulo":"Cheat","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000193","titulo":"Check in to You","pais":["KR"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"ship":"Dong Hee & Dong Won","numShips":1},

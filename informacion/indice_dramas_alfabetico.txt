@@ -143,7 +143,7 @@ DR000522	CN	2020	Capture Lover
 DR000090	TH	2026	Cat for Cash
 DR000959	TH	2024	Century of Love
 DR000900	TH	2023	Chains of Heart
-DR000307	PH	????	Chasing Sunsets
+DR000307	PH	2020	Chasing Sunsets
 DR000687	JP	2024	Chastity High
 DR000296	PH	2020	Cheat
 DR000193	KR	2026	Check in to You
