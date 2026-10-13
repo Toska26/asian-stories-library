@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const carpetaDramas = path.join(__dirname, 'datos', 'dramas');
-const rutaPlantilla = path.join(__dirname,'informacion', 'plantilla.json');
+const rutaPlantilla = path.join(__dirname, 'informacion', 'plantilla.json');
 const carpetaInformacion = path.join(__dirname, 'informacion');
 
 if (!fs.existsSync(carpetaDramas) || !fs.existsSync(rutaPlantilla)) {
@@ -56,14 +56,13 @@ try {
                         }
                     });
 
-                   if (camposFaltantes.length > 0) {
+                    if (camposFaltantes.length > 0) {
                         dramasConFaltas++;
                         const codigo = drama.codigo || 'SIN-CODIGO';
                         const pais = (Array.isArray(drama.pais) && drama.pais.length > 0) ? drama.pais[0] : '??';
                         const anio = drama.anio || '????';
                         const titulo = drama.titulo || archivo;
 
-                        // 💡 Corregido con backticks (``) para que interpole bien las variables
                         lineasResultado.push(`[${codigo}] (${pais} - ${anio})${titulo}`);
                         lineasResultado.push(`   ❌ Falta / Vacío: \${camposFaltantes.join(', ')}`);
                         lineasResultado.push(``);
