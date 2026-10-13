@@ -63,12 +63,10 @@ fs.readdir(carpetaDramas, (err, archivos) => {
         }
     });
 
- 
-
     lineasResultado.push(`--------------------------------------------------`);
     lineasResultado.push(`📊 Total dramas sin el campo "${campoABuscar}": ${incompletos}`);
 
-    // 💡 Transformamos el campo (ej: "multimedia.portada" pasa a "multimedia_portada")
+    // Transformamos el campo (ej: "multimedia.portada" pasa a "multimedia_portada")
     const campoParaNombre = campoABuscar.replace(/\./g, '_');
     const nombreArchivo = `informe_auditoria_${campoParaNombre}.txt`;
 
@@ -76,5 +74,4 @@ fs.readdir(carpetaDramas, (err, archivos) => {
     fs.writeFileSync(archivoSalida, lineasResultado.join('\n'), 'utf8');
     
     console.log(`¡Auditoría completada! Fichero guardado en informacion/${nombreArchivo}`);
-});
 });
