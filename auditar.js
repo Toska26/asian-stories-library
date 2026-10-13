@@ -1,11 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-// Ajusta la ruta de la carpeta dramas según tu estructura (ej. si está dentro de datos/dramas, pon path.join(__dirname, 'datos', 'dramas'))
-const carpetaDramas = path.join(__dirname,'datos', 'dramas'); 
+// Ajusta si tu carpeta de dramas está en 'datos/dramas' o solo en 'dramas'
+const carpetaDramas = path.join(__dirname, 'datos', 'dramas'); 
 const carpetaInformacion = path.join(__dirname, 'informacion');
 
-// 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES BUSCAR
+// 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES AUDITAR CUANDO LO NECESITES
+// Ejemplos: "sinopsis", "tituloOriginal", "multimedia.portada", "anio"
 const campoABuscar = "sinopsis"; 
 
 function obtenerValorAnidado(obj, ruta) {
@@ -17,7 +18,6 @@ if (!fs.existsSync(carpetaDramas)) {
     process.exit(1);
 }
 
-// Asegurar que la carpeta informacion existe
 if (!fs.existsSync(carpetaInformacion)) {
     fs.mkdirSync(carpetaInformacion, { recursive: true });
 }
@@ -47,7 +47,7 @@ fs.readdir(carpetaDramas, (err, archivos) => {
 
                 if (estaVacio) {
                     incompletos++;
-                    lineasResultado.push(`[Falta] ${drama.codigo || 'SIN-CODIGO'} - ${drama.titulo || archivo}`);
+                    lineasResultado.push(`${drama.codigo || 'SIN-CODIGO'}\t${drama.titulo || archivo}`);
                 }
             } catch (e) {
                 console.error(`⚠️ Error leyendo ${archivo}:`, e.message);
@@ -56,11 +56,10 @@ fs.readdir(carpetaDramas, (err, archivos) => {
     });
 
     lineasResultado.push(`--------------------------------------------------`);
-    lineasResultado.push(`📊 Resultado: ${incompletos} dramas encontrados sin el campo "${campoABuscar}".`);
+    lineasResultado.push(`📊 Total dramas sin el campo "${campoABuscar}": ${incompletos}`);
 
-    // Guardar el resultado en la carpeta informacion
-    const archivoSalida = path.join(carpetaInformacion, `auditoria_${campoABuscar.replace('.', '_')}.txt`);
+    const archivoSalida = path.join(carpetaInformacion, 'informe_auditoria.txt');
     fs.writeFileSync(archivoSalida, lineasResultado.join('\n'), 'utf8');
     
-    console.log(`¡Auditoría completada! Archivo guardado en: ${archivoSalida}`);
+    console.log(`¡Auditoría completada! Fichero guardado en informacion/informe_auditoria.txt`);
 });
