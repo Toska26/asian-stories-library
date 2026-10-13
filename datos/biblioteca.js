@@ -376,7 +376,7 @@ const biblioteca = [
 	{"codigo":"DR000544","titulo":"Infidelity, It’s a Disease","pais":["CN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000306","titulo":"Influencers","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000008"}},
 	{"codigo":"DR000803","titulo":"Ingredients","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true},
-	{"codigo":"DR000311","titulo":"INN Love","pais":["PH"],"anio":null,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
+	{"codigo":"DR000311","titulo":"INN Love","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000234","titulo":"Innocent","pais":["TW"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000365","titulo":"Inseparable","pais":["PH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR001018","titulo":"Interminable","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true},
