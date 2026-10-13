@@ -7,7 +7,7 @@ const carpetaInformacion = path.join(__dirname, 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES AUDITAR CUANDO LO NECESITES
 // Ejemplos: "sinopsis", "tituloOriginal", "multimedia.portada", "anio"
-const campoABuscar = "sinopsis"; 
+const campoABuscar = "multimedia.portada"; 
 
 function obtenerValorAnidado(obj, ruta) {
     return ruta.split('.').reduce((acc, parte) => (acc && acc[parte] !== undefined) ? acc[parte] : undefined, obj);
@@ -47,7 +47,15 @@ fs.readdir(carpetaDramas, (err, archivos) => {
 
                 if (estaVacio) {
                     incompletos++;
-                    lineasResultado.push(`${drama.codigo || 'SIN-CODIGO'}\t${drama.titulo || archivo}`);
+                    
+                    // Extraemos los datos adicionales de forma limpia
+                    const codigo = drama.codigo || 'SIN-CODIGO';
+                    const pais = (Array.isArray(drama.pais) && drama.pais.length > 0) ? drama.pais[0] : '??';
+                    const anio = drama.anio || '????';
+                    const titulo = drama.titulo || archivo;
+
+                    // Formato de línea: Código \t País \t Año \t Título
+                    lineasResultado.push(`${codigo}\t${pais}\t${anio}\t${titulo}`);
                 }
             } catch (e) {
                 console.error(`⚠️ Error leyendo ${archivo}:`, e.message);
