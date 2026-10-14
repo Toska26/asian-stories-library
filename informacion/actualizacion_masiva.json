@@ -1,88 +1,134 @@
 [
-           {
-        "codigo": "DR000185",
+    {
+        "codigo": "DR000191",
         "multimedia": {
             "portada": [
-                "https://i.mydramalist.com/KpygA0_4f.jpg"
+                "https://i.mydramalist.com/73RpZN_4f.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000186",
+        "codigo": "DR000197",
         "multimedia": {
             "portada": [
-                "https://i.pinimg.com/1200x/c1/e7/aa/c1e7aab5507a7a5fd2a301bfaa9390fa.jpg",
-                "https://i.mydramalist.com/Dk5zyN_4f.jpg"
+                "https://i.mydramalist.com/73Anje_4f.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000187",
+        "codigo": "DR000198",
         "multimedia": {
             "portada": [
-                "https://i.mydramalist.com/DydVb5_4f.jpg"
+                "https://i.pinimg.com/736x/16/5c/8d/165c8d3f717b29984bf0d1932caf01dc.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000188",
+        "codigo": "DR000199",
         "multimedia": {
             "portada": [
-                "https://i.mydramalist.com/Dk5xNp_4f.jpg",
-                "https://i.pinimg.com/736x/12/a1/e6/12a1e669dda336d0aef6b5357fe76216.jpg"
+                "https://i.mydramalist.com/YYNmQd_4f.jpg",
+                "https://i.pinimg.com/736x/2f/16/09/2f160962cf149b046d61c4af8db5a689.jpg",
+				"https://i.pinimg.com/736x/88/c4/fa/88c4faaf1fea1bc81ced6bdd503f175c.jpg",
+				"https://i.pinimg.com/736x/65/2a/e7/652ae78c3b18a14917195f98355fdf28.jpg",
+				"https://i.pinimg.com/736x/77/b0/05/77b00508a75eb586d514f77e5cb6d557.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000190",
+        "codigo": "DR000200",
         "multimedia": {
             "portada": [
-                "https://i.pinimg.com/736x/0b/73/5c/0b735cf723790b90d6d45469b5903ed3.jpg",
-                "https://i.pinimg.com/736x/cd/03/59/cd0359685aef0633161ed3fa3f6d4e94.jpg"
+                "https://i.mydramalist.com/LwZWvB_4f.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000192",
+        "codigo": "DR000201",
         "multimedia": {
             "portada": [
-                "https://i.mydramalist.com/JB6wlX_4f.jpg"
+                "https://i.pinimg.com/736x/8f/42/b7/8f42b7c60010859fc810000110541698.jpg",
+				"https://i.pinimg.com/736x/c6/ef/b8/c6efb8acf4bd498a09af641942ac89fe.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000193",
+        "codigo": "DR000203",
         "multimedia": {
             "portada": [
-                "https://i.pinimg.com/736x/7a/bf/8f/7abf8fdcc7c5e6e5fc189ad08a8a8d4b.jpg"
+                "https://i.pinimg.com/736x/71/44/6e/71446e2b3c424a967ef08ae33de10ccf.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000194",
+        "codigo": "DR000204",
         "multimedia": {
             "portada": [
-                "https://i.pinimg.com/736x/4a/38/49/4a3849e1f32c6d8fa60322484e4aa890.jpg"
+                "https://i.mydramalist.com/JB8ROX_4f.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000195",
+        "codigo": "DR000205",
         "multimedia": {
             "portada": [
-                "https://i.pinimg.com/736x/2f/8e/82/2f8e82f976d48467966bbd2e85a8f552.jpg",
-                "https://i.mydramalist.com/O8P1lL_4f.jpg"
+                "https://i.pinimg.com/736x/7e/65/d8/7e65d895dd3ea1fb96451b10f4ec91ec.jpg"
             ]
         }
     },
     {
-        "codigo": "DR000196",
+        "codigo": "DR000206",
         "multimedia": {
             "portada": [
-                "https://i.mydramalist.com/zByjW1_4f.jpg",
-                "https://i.pinimg.com/736x/ba/16/a6/ba16a6a9b16574ade96fb157b9249a5a.jpg",
-                "https://i.pinimg.com/736x/c5/56/d3/c556d3630c630d087f25dd7a63642d5e.jpg",
-                "https://i.pinimg.com/736x/36/a3/fc/36a3fcb63ae668393a3310be8a060ab7.jpg"
+                "https://i.mydramalist.com/3o5L84_4f.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000207",
+        "multimedia": {
+            "portada": [
+                "https://i.pinimg.com/736x/4d/18/04/4d180419f1cb9ca8480614e31bd10b95.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000209",
+        "multimedia": {
+            "portada": [
+                "https://i.pinimg.com/736x/ed/fb/0d/edfb0d4d6181de1e30184b3e6e656fc9.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000211",
+        "multimedia": {
+            "portada": [
+                "https://i.pinimg.com/736x/b9/87/b6/b987b6aa5a11ca24efbf0242d041364a.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000212",
+        "multimedia": {
+            "portada": [
+                "https://i.mydramalist.com/NRkxVe_4f.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000215",
+        "multimedia": {
+            "portada": [
+                "https://i.mydramalist.com/73Jvme_4f.jpg"
+            ]
+        }
+    },
+    {
+        "codigo": "DR000216",
+        "multimedia": {
+            "portada": [
+                "https://i.pinimg.com/736x/f0/67/b4/f067b4a5d15d06c21b243b67ac5b3ea0.jpg,"https://i.pinimg.com/736x/42/42/a7/4242a7529cb129d2a305b43ee6e6d4c4.jpg","https://i.pinimg.com/736x/99/fe/23/99fe2370b8bce791774e31e153284033.jpg"
             ]
         }
     }
