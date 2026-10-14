@@ -16,5 +16,11 @@
          "multimedia": {
             "portada": ["https://i.pinimg.com/736x/d7/c3/90/d7c3905c16fc84e9e611498935325fe9.jpg","https://i.pinimg.com/736x/e4/a8/af/e4a8afc07e88a900a6319b34c91497c4.jpg","https://i.pinimg.com/736x/ae/85/b1/ae85b1a576f7a83e9972638e6051f29e.jpg"]
         }
-    }       
+    },
+     {
+        "codigo": "DR000243",
+         "multimedia": {
+            "portada": ["https://i.pinimg.com/736x/55/e4/2d/55e42d770e0a07c5ebec55c78a26301d.jpg","https://i.pinimg.com/736x/6e/f9/16/6ef916eabf0c40758914e0710b23c416.jpg","https://i.pinimg.com/736x/38/bf/ae/38bfae8e8e0299234ab2c203fdd0a267.jpg"]
+        }
+    }      
 ]
