@@ -88,8 +88,26 @@ try {
         }
     });
 
+    // ... (todo tu código anterior de actualización masiva sigue exactamente igual hasta el resumen) ...
+
     console.log(`\n--------------------------------------------------`);
     console.log(`📊 Resumen: ${actualizados} actualizados, ${noEncontrados} no encontrados.`);
+
+    // 🚀 AUTOMATIZACIÓN: Disparamos la generación del biblioteca.js y el índice alfabético
+    if (actualizados > 0) {
+        console.log(`\n⚙️ Regenerando 'biblioteca.js' e índices automáticamente...`);
+        try {
+            // Reutilizamos el script de construcción de la biblioteca
+            require('./build-biblioteca.js');
+            console.log(`✅ ¡Biblioteca e índices regenerados con éxito!`);
+        } catch (errorBulid) {
+            console.error(`⚠️ Hubo un error al regenerar la biblioteca automáticamente:`, errorBulid.message);
+        }
+    }
+
+} catch (e) {
+    console.error('❌ Error al leer el fichero de actualizaciones masivas:', e.message);
+}
 
 } catch (e) {
     console.error('❌ Error al leer el fichero de actualizaciones masivas:', e.message);
