@@ -1,0 +1,24 @@
+[
+    {
+        "codigo": "DR001018",
+        "especiales": [
+            {
+                "titulo": "Interminable Special Episode",
+                "tituloOriginal": null,
+                "alias": ["Interminable Special"],
+                "tipo": "Especial",
+                "anio": 2026,
+                "episodios": 1,
+                "estreno": "2026-01-23"
+            }
+        ],
+        "multimedia": {
+            "portada": ["https://tuservidor.com/imagen-portada.jpg"]
+        }
+    },
+    {
+        "codigo": "DR001019",
+        "generos": ["BL", "Romance", "Drama", "Ciencia ficción", "Distopía"],
+        "remake": null
+    }
+]
