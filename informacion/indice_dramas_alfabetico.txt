@@ -455,7 +455,6 @@ DR001056	TH	2026	Love Destiny
 DR001060	TH	2018	Love Destiny
 DR000154	KR	2024	Love for Love's Sake
 DR000200	KR	2026	Love Hurts
-DR000178	KR	2026	Love in Protocol
 DR000127	KR	2022	Love in Spring
 DR000015	TH	2022	Love in the Air
 DR000696	JP	2024	Love in the Air: Premonition of Love
