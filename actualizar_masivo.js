@@ -109,6 +109,3 @@ try {
     console.error('❌ Error al leer el fichero de actualizaciones masivas:', e.message);
 }
 
-} catch (e) {
-    console.error('❌ Error al leer el fichero de actualizaciones masivas:', e.message);
-}
