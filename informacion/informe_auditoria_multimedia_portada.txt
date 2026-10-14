@@ -1,18 +1,7 @@
 🔎 Auditoría de campo: [ multimedia.portada ]
 --------------------------------------------------
 DR000177	KR	2026	Opposites Attract
-DR000185	KR	2025	First Page
-DR000186	KR	2025	Love Reset
-DR000187	KR	2026	Between Doors
-DR000188	KR	2026	Sweet Blood
-DR000189	KR	2026	Never Forget Your Enemy
-DR000190	KR	2026	Winter Fever
 DR000191	KR	2026	Wuju Bakery
-DR000192	KR	2026	Private Lesson
-DR000193	KR	2026	Check in to You
-DR000194	KR	2026	Backdoor
-DR000195	KR	2026	The Lie We Lived In
-DR000196	KR	2026	Fix the Error!
 DR000197	KR	2026	The Table
 DR000198	KR	2026	The Prosecutor's Proposal
 DR000199	KR	2026	Sin and Love
@@ -865,4 +854,4 @@ DR001065	TH	2026	Nour
 DR001066	TH	2026	You Maniac
 DR001067	TH	2026	Mr. Fanboy
 --------------------------------------------------
-📊 Total dramas sin el campo "multimedia.portada": 864
+📊 Total dramas sin el campo "multimedia.portada": 853
