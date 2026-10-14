@@ -27,3 +27,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add datos/dramas/
           git diff --staged --quiet || (git commit -m "chore: actualización masiva de dramas [skip ci]" && git push)
+
+      - name: Guardar y subir los cambios y la nueva biblioteca a GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add datos/dramas/ datos/biblioteca.js informacion/
+          git diff --staged --quiet || (git commit -m "chore: actualización masiva de dramas y regeneración de biblioteca [skip ci]" && git push)
