@@ -1,0 +1,29 @@
+name: Ejecutar Actualización Masiva
+
+on:
+  workflow_dispatch: # Permite lanzarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar-masivo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Ejecutar script de actualización masiva
+        run: node actualizar_masivo.js
+
+      - name: Guardar y subir los cambios en los dramas a GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add datos/dramas/
+          git diff --staged --quiet || (git commit -m "chore: actualización masiva de dramas [skip ci]" && git push)
