@@ -1,26 +1,17 @@
 [
     {
-        "codigo": "DR000154",
+        "codigo": "DR000247",
          "multimedia": {
-            "portada": ["https://i.pinimg.com/736x/fc/74/65/fc746561d9e3de7f6ed25939810749b4.jpg","https://i.pinimg.com/736x/72/be/93/72be93da76c02ff757f879a4b3a10609.jpg","https://i.pinimg.com/736x/83/a1/89/83a189156f97026d59a919c682312f2c.jpg"]
+            "portada": ["https://i.pinimg.com/1200x/15/12/f9/1512f97745ea16f8b652db539727812e.jpg",
+                "https://i.pinimg.com/736x/72/be/93/72be93da76c02ff757f879a4b3a10609.jpg",
+                "https://i.pinimg.com/736x/94/08/ee/9408ee0c2b3f1106fdc8c801b2ac64b0.jpg",
+            "https://i.pinimg.com/1200x/3e/6a/d5/3e6ad54fdcbe18f86867ec454e489234.jpg"]
         }
     },
     {
-        "codigo": "DR000155",
+        "codigo": "DR000248",
          "multimedia": {
-            "portada": ["https://i.pinimg.com/736x/b0/57/27/b05727efbd93d346250d12ac58677597.jpg","https://i.pinimg.com/1200x/a1/15/28/a115282c17dc66e3272ec90ec297e230.jpg"]
+            "portada": ["https://i.pinimg.com/736x/17/66/b3/1766b306f207ee02a7b7aa47cb99a9a6.jpg","https://i.pinimg.com/736x/47/43/f4/4743f43bd4e9f2ef2bea54557b793784.jpg"]
         }
-    },
-        {
-        "codigo": "DR000156",
-         "multimedia": {
-            "portada": ["https://i.pinimg.com/736x/d7/c3/90/d7c3905c16fc84e9e611498935325fe9.jpg","https://i.pinimg.com/736x/e4/a8/af/e4a8afc07e88a900a6319b34c91497c4.jpg","https://i.pinimg.com/736x/ae/85/b1/ae85b1a576f7a83e9972638e6051f29e.jpg"]
-        }
-    },
-     {
-        "codigo": "DR000243",
-         "multimedia": {
-            "portada": ["https://i.pinimg.com/736x/55/e4/2d/55e42d770e0a07c5ebec55c78a26301d.jpg","https://i.pinimg.com/736x/6e/f9/16/6ef916eabf0c40758914e0710b23c416.jpg","https://i.pinimg.com/736x/38/bf/ae/38bfae8e8e0299234ab2c203fdd0a267.jpg"]
-        }
-    }      
+    }
 ]
