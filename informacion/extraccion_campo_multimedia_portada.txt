@@ -1,0 +1,205 @@
+📋 Extracción del campo: [ multimedia.portada ] (Dramas que SÍ lo tienen informado)
+----------------------------------------------------------------------------------
+DR000001	JP	2025	10 Things I Want To Do Before I Turn 40	https://artworks.thetvdb.com/banners/v4/series/464121/posters/683b10ecb6a33.jpg
+DR000002	TH	2020	2gether	https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg
+DR000003	TH	2020	Still 2gether	https://image.tmdb.org/t/p/original/4aZ2P5crezp0Kl4E4VUJQRO362T.jpg
+DR000004	TH	2021	2gether: The Movie	https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg
+DR000005	KR	2023	The Eighth Sense	https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg
+DR000006	TH	2016	Bad Romance: The Series	https://artworks.thetvdb.com/banners/posters/314649-1.jpg
+DR000007	TH	2017	Together with Me	https://s.isanook.com/mv/0/ui/13/67289/c8aukntv4aawxm8_1491280258.jpg
+DR000008	TH	2018	Together with Me: The Next Chapter	https://ekladata.com/FHAZxEdGuN0F7UExrjNuCT2UzEQ.jpg
+DR000009	TH	2019	Until We Meet Again	https://pimg.1px.tw/pink03049/1578043278-3791294791.jpg
+DR000010	TH	2022	Between Us	https://i.pinimg.com/originals/3d/8e/08/3d8e08b81070edf2441f9bfe4dae9cf9.jpg
+DR000011	TW	2023	Stay by My Side	https://media.senscritique.com/media/000023042370/0/stay_by_my_side.jpg
+DR000012	TW	2023	You Are Mine	https://img.chil-chil.net/cms_img/0147/230519_201933.jpg
+DR000013	TW	2023	VIP Only	https://m.media-amazon.com/images/M/MV5BMjc2MDkzMzEtNjg0OC00MGY5LWI0MjgtZmUxMDdlMDZkZmY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg
+DR000014	TW	2024	AntiReset	https://image.tmdb.org/t/p/original/C1UE6DKeQLouDyv8xNwZgC8llO.jpg
+DR000015	TH	2022	Love in the Air	https://images.plex.tv/photo?scale=2&size=large-720&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsPL95QpwujQnPlY7ZATqMYgZn1j.jpg
+DR000016	TH	2023	Wedding Plan	https://media.senscritique.com/media/000022189892/0/wedding_plan.webp
+DR000017	TH	2020	En of Love: Tossara	https://i.pinimg.com/736x/45/45/a7/4545a7763f14eb885b16b6f2a8b4bf14.jpg
+DR000018	TH	2020	En of Love: Love Mechanics	https://cf.shopee.co.th/file/073c9200c9fe4e860a130bc5eec63dfb
+DR000019	TH	2020	En of Love: This Is Love Story	https://images.justwatch.com/poster/186746175/s718/en-of-love-this-is-love-story.jpg
+DR000020	TH	2016	SOTUS	https://artworks.thetvdb.com/banners/posters/314882-2.jpg
+DR000021	TH	2017	SOTUS S	https://i0.wp.com/lovewithoutgender.com/wp-content/uploads/2019/03/cc3db-sotus-s.jpg
+DR000022	TH	2018	Love by Chance	https://artworks.thetvdb.com/banners/posters/346688-1.jpg
+DR000023	TH	2020	Love by Chance 2: A Chance to Love	https://images.justwatch.com/poster/327079595/s718/Staffel-2.jpg
+DR000024	TH	2019	TharnType	https://i.pinimg.com/1200x/54/0b/19/540b190988e1f419149bbcadb0ad77b5.jpg, https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2019_poster.jpg
+DR000025	TH	2020	TharnType 2: 7 Years of Love	https://i.pinimg.com/1200x/eb/3e/28/eb3e285c3544c0fa5210b588cbe0dc1a.jpg, https://www.memindy.com/wp-content/uploads/2021/08/TharnType_The_Series_2021_poster-crop.jpg
+DR000026	TH	2016	Kiss: The Series	https://pics.filmaffinity.com/kiss_the_series-875888852-large.jpg
+DR000027	TH	2018	Kiss Me Again	https://boyslovefrance.wordpress.com/wp-content/uploads/2020/07/kissmeagain_poster02-1.jpg
+DR000028	TH	2019	Dark Blue Kiss	https://pics.filmaffinity.com/dark_blue_kiss-281192767-large.jpg
+DR000029	TH	2021	Don't Say No	https://i.pinimg.com/736x/3b/10/ee/3b10ee5a240b5f418012a8b538e68197.jpg, https://www.memindy.com/wp-content/uploads/2021/08/don-t-say-no-expand-600x800.jpg
+DR000030	TH	2021	Close Friend T1	https://media.senscritique.com/media/000022195181/0/close_friend.jpg
+DR000031	TH	2022	Remember Me	https://image.tmdb.org/t/p/w500/gArcpCalXZ5szroNrXPueV9InAT.jpg
+DR000032	TH	2023	Be Mine, Superstar	https://media.senscritique.com/media/000022195163/0/be_mine_superstar.webp
+DR000033	TH	2026	Police in Love	https://yflix.me/wp-content/uploads/2026/01/Cover-Police-696x869.webp, https://image.tmdb.org/t/p/original/4tMEPQlZO2B4wG4c0sHuoyaq4T8.jpg
+DR000034	TH	2025	The Boy Next World	https://i.pinimg.com/736x/6a/01/04/6a010461b1df7475f5ba59c10ee18add.jpg, https://www.memindy.com/wp-content/uploads/2025/03/LINE_ALBUM_2024.12.13_241215_12-819x1024.jpg
+DR000035	TH	2026	Crazy Love, Moo-Moo!	https://blglflix.com/wp-content/uploads/2026/06/crazy-love-moo-moo-683x1024.jpg, https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Crazy-Love-Moo-Moo-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B9%88-Fresh-Releases-Local-Viu-Original-LGBTQ-Thai-BL-Drama-Rom-com-Boss-Chaikamon-Sermsongwittaya-Noeul-Nuttarat-Tangwai-thumbnail-vertical-e1778556959402.jpeg
+DR000036	TH	2026	The Crow Club	https://pbs.twimg.com/media/G_z8yd4bUAEgWXo.jpg, https://pbs.twimg.com/media/G_wcURMXAAA8kcU.jpg
+DR000037	TH	2026	The Invisible Dragon	https://m.media-amazon.com/images/M/MV5BZDk3NWFjNWYtOGNkMy00OGI3LTk5MzQtNTFhOGUwYWU2NDY0XkEyXkFqcGc%40.*V1*.jpg
+DR000038	TH	2025	Khemjira	https://m.media-amazon.com/images/M/MV5BMzZkZGVhZjAtMmYyZS00MGYzLWIyOTktNjJhYTAyMTVhMThhXkEyXkFqcGc%40._V1_.jpg
+DR000039	TH	2026	Khemjira Forever	https://i.pinimg.com/736x/45/5c/67/455c673c153ce9821787d978d4d8073c.jpg, https://img.youtube.com/vi/XAfGM3EbAjE/maxresdefault.jpg
+DR000040	TH	2022	Cutie Pie	https://media.senscritique.com/media/000020315342/0/cutie_pie.jpg
+DR000041	TH	2023	Cutie Pie 2 You	https://m.media-amazon.com/images/M/MV5BYzRlNDE1YjAtMmNmZi00YjcwLTg1Y2EtOTQyYTg5NTc2MGJkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg, https://www.ethaicd.com/img/93437.jpg, https://img.youtube.com/vi/BPe5h1hwD04/maxresdefault.jpg
+DR000042	TH	2023	Naughty Babe	https://image.tmdb.org/t/p/original/20c4ZGTF8nL3JmxyCASW8W5EgvG.jpg, https://image.springnews.co.th/uploads/images/contents/w1024/2023/06/xL0VtIr08Chw1ybn0Gie.webp?x-image-process=style%2Flg-webp, https://img.youtube.com/vi/AZOd8vxG95k/maxresdefault.jpg
+DR000043	TH	2025	The Next Prince	https://i.pinimg.com/originals/1d/1e/85/1d1e8514a9ad52ac122744659579d581.jpg, https://kpop.asiachan.com/img/445419, https://img.youtube.com/vi/xKAOhZyvcAU/maxresdefault.jpg
+DR000044	TH	2024	Two Worlds	https://phoenixreborn.altervista.org/wp-content/uploads/2024/03/2wo4eO_4f.jpg, https://media.senscritique.com/media/000022194397/0/two_worlds.jpg, https://img.youtube.com/vi/hDbDrL4kPRs/maxresdefault.jpg
+DR000045	TH	2026	Your Third	https://stat.ameba.jp/user_images/20250228/12/sana-sanyaa/49/5f/j/o3281409615549223876.jpg, https://pbs.twimg.com/media/HAcIxdZaEAA2lyg.jpg, https://img.youtube.com/vi/GweuZgo2gOU/maxresdefault.jpg
+DR000046	TH	2023	The Middleman's Love	https://image.tmdb.org/t/p/original/xkonMwqxR6Tb7LgqqUgrtn8yd87.jpg, https://img.youtube.com/vi/MwUCV0ybEK4/maxresdefault.jpg
+DR000047	TH	2026	ChermChey	https://blglflix.com/wp-content/uploads/2026/06/chermchey-683x1024.jpg, https://image.tmdb.org/t/p/original/sbenI8G0SYE6zH8jFlRsVeLubFK.jpg, https://pbs.twimg.com/media/G6tlRTwa0AMjto8.jpg, https://img.youtube.com/vi/N124kAywrmE/maxresdefault.jpg
+DR000048	TH	2023	Bed Friend	https://pbs.twimg.com/media/FpQ25jSaQAE0q-a?format=jpg&name=large
+DR000049	TH	2020	I'm Tee, Me Too	https://i.pinimg.com/736x/91/ad/6d/91ad6d0dc82e8c4ebf5ac1eceea2f565.jpg
+DR000050	TH	2025	The Ex-Morning	https://i.pinimg.com/736x/36/8f/4f/368f4f69b37bdf7e204976f6bc78a372.jpg
+DR000051	TH	2026	Write You Again	https://i.pinimg.com/736x/65/fb/47/65fb47be56be0984b958ea27ab311ae2.jpg
+DR000052	TH	2022	Vice Versa	https://i.pinimg.com/1200x/54/4d/6b/544d6bad216e1c99f4228c586ec9847e.jpg
+DR000053	TH	2023	Last Twilight	https://i.pinimg.com/736x/71/e1/71/71e171a149c2493cbd88c717556088fa.jpg, https://i.pinimg.com/1200x/ac/9a/89/ac9a89e0fe08e485c74657983a0367f3.jpg, https://i.pinimg.com/1200x/9d/fd/8c/9dfd8c3c3d6908616df1e4ee6df9bf61.jpg, https://i.pinimg.com/736x/5c/be/24/5cbe2473f8b2e7dc84961443c030a2d0.jpg
+DR000054	TH	2025	My Magic Prophecy	https://i.pinimg.com/736x/d8/7c/5a/d87c5ac994dd9df2f16376ca2f57cd20.jpg
+DR000055	TH	2026	I Will Always Save You	https://i.pinimg.com/736x/57/fe/0f/57fe0f2349332ca9630f0cff8b955d76.jpg
+DR000056	TH	2022	Even Sun	https://i.pinimg.com/1200x/8f/d0/7b/8fd07bbd67647fd2a2fc393930b4e690.jpg
+DR000057	TH	2025	Revamp The Undead Story	https://i.pinimg.com/736x/70/61/9d/70619d479cc002cf792341079cc63ccc.jpg
+DR000058	TH	2026	Plan B to U	https://i.pinimg.com/1200x/dd/bb/cf/ddbbcf7890b617b675d578bfd465a1ce.jpg
+DR000059	TH	2022	My School President	https://i.pinimg.com/736x/c8/da/3c/c8da3c135d83ecd5cd10e98b9dc8c469.jpg, https://i.pinimg.com/1200x/89/62/a0/8962a0d7d4f46ae82ebf7172b3601c9b.jpg
+DR000060	TH	2023	Moonlight Chicken	https://i.pinimg.com/736x/cc/19/9f/cc199f6c018610d195126374bb1bdc4a.jpg, https://i.pinimg.com/736x/ae/cd/7b/aecd7b0f8bb71b7dc5f600ddc2478a50.jpg, https://i.pinimg.com/1200x/75/5a/54/755a5470dc932a50e65e5424add69662.jpg
+DR000061	TH	2024	My Love Mix-Up!	https://i.pinimg.com/736x/ed/26/78/ed2678364dace8f4441cf58e1b74ce9b.jpg, https://i.pinimg.com/736x/bb/b1/1d/bbb11d18edf26739f1b69d775210f148.jpg
+DR000062	TH	2026	Ticket to Heaven	https://i.pinimg.com/736x/e0/41/1b/e0411b9c91dcf5e03b56febb23ca9c21.jpg, https://i.pinimg.com/736x/04/ac/66/04ac667cde232fbf04ae3a5564698555.jpg, https://i.pinimg.com/736x/e9/88/bf/e988bf9b20ceb6046ee8a2bcee378b39.jpg, https://i.pinimg.com/736x/84/3a/ee/843aeefa1acaf3ad47e5e6315ab94892.jpg
+DR000063	TH	2024	Only Boo!	https://i.pinimg.com/736x/81/6a/b6/816ab6a6a9338f197a57f47d0a078319.jpg, https://i.pinimg.com/736x/2b/b5/83/2bb583b2cc1ebd0d0a9cade060224ede.jpg, https://i.pinimg.com/736x/82/4f/89/824f890c8147dcaa31b457352dff3f42.jpg, https://i.pinimg.com/736x/d6/59/fa/d659facc83a2401e1b5c072db3281d77.jpg
+DR000064	TH	2025	Head 2 Head	https://i.pinimg.com/736x/08/69/b3/0869b335aa60f2633d15161686da5932.jpg, https://i.pinimg.com/736x/34/f9/d4/34f9d44d81d82dfbdb5f9dff3434ba60.jpg
+DR000065	TH	2026	WEIRDO-101	https://i.pinimg.com/736x/04/db/4a/04db4a798c3bfb103153808bc88dbf46.jpg, https://i.pinimg.com/736x/72/0d/fb/720dfb0441e165503c93b08256764944.jpg
+DR000066	TH	2023	Cherry Magic 30 ยังซิง	https://i.pinimg.com/736x/05/46/5f/05465f21a2c2180e85b5fd59553bc4dc.jpg, https://i.pinimg.com/736x/7c/b7/ef/7cb7efbc4bc24e21f4327170ad4043d7.jpg, https://i.pinimg.com/1200x/d5/2c/8c/d52c8cb1709a7c6277e80d7d6a8b8c6a.jpg, https://i.pinimg.com/736x/50/bb/5d/50bb5dfbc2dfc04eb35da37a0a4740ee.jpg, https://i.pinimg.com/736x/78/68/b3/7868b38857791fbc9c928b2897d9f141.jpg, https://stat.ameba.jp/user_images/20240218/16/pokapokanyanko/0e/08/j/o1642204815403057552.jpg
+DR000067	TH	2026	A Dog and a Plane	https://i.pinimg.com/736x/87/cd/50/87cd5014d4da555714b6a50aeb01ccbc.jpg, https://i.pinimg.com/736x/37/35/b7/3735b7ede40c751fce25ff761bfc40ec.jpg, https://i.pinimg.com/736x/47/40/d9/4740d9dcfe7f55588dabbd7de99185df.jpg, https://images.justwatch.com/poster/345823831/s718/a-dog-and-a-plane.jpg
+DR000068	TH	2024	Perfect 10 Liners	https://i.pinimg.com/736x/fa/6d/92/fa6d927155189ebccd37e8f117cbd201.jpg, https://i.pinimg.com/736x/66/e7/cc/66e7cc2230e8c2ca9d89be46a03fdc4a.jpg, https://i.pinimg.com/736x/06/3d/ca/063dcae7cc04a4fa3fbb5ce49e37275b.jpg, https://i.pinimg.com/736x/ff/25/f2/ff25f28b4c8cdc0c47e7716afdbbf2f2.jpg
+DR000069	TH	2026	My Romance Scammer	https://i.pinimg.com/736x/07/f3/16/07f3161f410e032d857bda6400903c5a.jpg, https://i.pinimg.com/736x/94/e9/5b/94e95bd08fc9dd48898e4a8ea545253f.jpg, https://i.pinimg.com/736x/90/44/52/90445225c81f05baf5d85015fdc54525.jpg
+DR000070	TH	2026	Twenty One	https://i.pinimg.com/736x/f5/09/cf/f509cfccc368495857c0dc2348a8094a.jpg
+DR000071	TH	2022	Never Let Me Go	https://i.pinimg.com/736x/f1/de/85/f1de850015bb6e377b8c8330ea00878b.jpg, https://i.pinimg.com/736x/74/05/9e/74059ea8aff473735a0f37841e7785c0.jpg, https://i.pinimg.com/1200x/b3/82/6e/b3826e8f88df9e048b731c0390092886.jpg, https://i.pinimg.com/1200x/14/7c/1f/147c1f4b88a6db6a6e4c71560ddaa26b.jpg, https://i.imgur.com/rdPMFaZ.jpg
+DR000072	TH	2023	Dangerous Romance	https://i.pinimg.com/1200x/bb/b0/17/bbb01756181ada9d0a2ec61a3a1a0e84.jpg, https://i.pinimg.com/736x/f5/73/2c/f5732cf3863d37167d6e026eaaaeb927.jpg, https://i.pinimg.com/1200x/8c/dd/3a/8cdd3a371c4f51a4cc53e3a4da4fe6b6.jpg, https://cms.dmpcdn.com/ugcarticle/2023/08/20/5a185af0-3f3b-11ee-8dbf-6f718e4dc00c_webp_original.webp, https://bancodeseries.com.br/images/posters/31433.jpg
+DR000073	TH	2026	Love You Teacher	https://i.pinimg.com/736x/d8/56/e8/d856e8d5ef5b0d9f622222bca19e7fc1.jpg, https://i.pinimg.com/736x/d0/40/8d/d0408d5c8e67dfc70e6caf68b031cd26.jpg, https://static.tvmaze.com/uploads/images/original_untouched/545/1363706.jpg
+DR000074	TH	2026	Heartbound	https://i.pinimg.com/1200x/f9/44/27/f94427dbb0b5ef08799d9669283f0d35.jpg, https://i.pinimg.com/736x/5d/c8/b7/5dc8b79cb84d156e72ca62df77ecc831.jpg, https://i.pinimg.com/736x/74/48/3f/74483f57e4f267c7fede42b7591b1715.jpg
+DR000075	TH	2022	Enchanté	https://media.senscritique.com/media/000020508093/0/enchante.jpg
+DR000076	TH	2023	A Boss and a Babe	https://www.gmm-tv.com/cms/upload_file/category/poster/d49fb8dd118081053469cd986f0a5481.jpg
+DR000077	TH	2025	Melody of Secrets	 https://i.pinimg.com/736x/e8/94/ac/e894ac0e5e620e19d0b8e7ced52c8da2.jpg, https://i.pinimg.com/736x/d8/cd/01/d8cd01ee076318ca4a8e53a288600218.jpg, https://i.pinimg.com/736x/66/ec/a3/66eca353df653a65f952f1b33116658d.jpg
+DR000078	TH	2026	Lovers & Gangsters	https://image.idntimes.com/post/20251125/img_3010_7740836d-92c6-4ce3-b666-3eef403023d5.jpeg?tr=w-640
+DR000079	TH	2022	Star in My Mind	https://i.pinimg.com/736x/07/31/c9/0731c902e73ae5774dd51bc165295d38.jpg, https://i.pinimg.com/736x/15/2a/6d/152a6d82b6e065b277e39f20accce006.jpg, https://i.pinimg.com/1200x/aa/30/f5/aa30f557e6d0f56f877f297a780f3b41.jpg, https://i.pinimg.com/736x/62/6f/e5/626fe55c7e2c29a5586a6727658038ad.jpg, https://image.tmdb.org/t/p/original/ep50huHBkNMS3mvhWCo298DyRsn.jpg
+DR000080	TH	2022	Sky in Your Heart	https://i.pinimg.com/1200x/9b/2d/9a/9b2d9a292a7647acb631a428a30ad6d3.jpg, https://i.pinimg.com/736x/bc/93/91/bc93913738a5ef580fc28ac43df112ef.jpg, https://static.tvmaze.com/uploads/images/original_untouched/409/1024982.jpg
+DR000081	TH	2023	Hidden Agenda	https://i.pinimg.com/1200x/7b/55/22/7b552242d1798912152bb8410456e354.jpg, https://i.pinimg.com/736x/0b/a8/d2/0ba8d2c78ac4667b3c178a5f89a57c4e.jpg, https://i.pinimg.com/736x/19/80/4b/19804ba7f5dd2170a545c98af7fa570a.jpg, https://i.pinimg.com/736x/3b/d4/11/3bd4112d5c79e666406ff45566c6ba68.jpg, https://image.tmdb.org/t/p/original/uxNm0RfDTxTK2cg5Zt4dJZNbxDJ.jpg
+DR000082	TH	2024	The Heart Killers	https://i.pinimg.com/736x/16/17/ea/1617ea0bae65ab72ea35b2e16d2ce553.jpg, https://i.pinimg.com/736x/bd/f1/13/bdf1134a9263c7ffd24ec3643ae7b0c6.jpg, https://i.pinimg.com/736x/c7/f1/f7/c7f1f75f85e7917d1c67995e42e0f30b.jpg, https://i.pinimg.com/736x/36/87/33/368733e2f3296616a417e9a17f53375a.jpg, https://static.tvmaze.com/uploads/images/original_untouched/544/544932.jpg
+DR000083	TH	2026	Dare You to Death	https://i.pinimg.com/736x/09/51/92/095192a6e06bfc616da3e641deae187d.jpg, https://i.pinimg.com/1200x/5d/d3/40/5dd340b8b7946ff676e4c0ab277b0c69.jpg, https://pbs.twimg.com/media/G7XzWOVawAAGjAq.jpg
+DR000084	TH	2026	How to Survive My CEO	https://i.pinimg.com/1200x/f3/28/d4/f328d4225d7c4a04d2aef6c2ad043b84.jpg, https://mintmagth.s3.ap-southeast-1.amazonaws.com/photos/shares/Mint%20People/2025/NOV/GMMTV%202026/6926d1b98e9b0.jpeg
+DR000085	TH	2021	A Tale of Thousand Stars	https://i.pinimg.com/1200x/df/9d/7e/df9d7e24c06228ffa49bb459190e27c3.jpg, https://i.pinimg.com/736x/d2/20/18/d22018aaaa1270635342fc2d60795065.jpg, https://media.senscritique.com/media/000020255386/0/a_tale_of_thousand_stars.jpg
+DR000086	TH	2022	Cupid's Last Wish	https://i.pinimg.com/1200x/72/42/c1/7242c13ff0d652dea76620160fb32cc3.jpg, https://i.pinimg.com/1200x/01/f5/46/01f546dbc6cb0863c0fa7a748d7e05e2.jpg, https://i.pinimg.com/1200x/f9/e4/d7/f9e4d78e6a2c49d4e79208a040c36da2.jpg, https://media.senscritique.com/media/000020377948/0/cupid_s_last_wish.jpg
+DR000087	TH	2025	Ossan's Love Thailand	https://i.pinimg.com/736x/96/26/7a/96267a3023e7f44c2b76a62df0d7c3c9.jpg, https://i.pinimg.com/736x/f4/ae/88/f4ae886a3c05e625de8e884fe55c7176.jpg, https://i.pinimg.com/736x/6e/d2/b2/6ed2b21df17a9b6cdf7ddfe47811acdb.jpg, https://i.pinimg.com/736x/2d/ba/b0/2dbab07f8e022940bbad793974d94374.jpg
+DR000088	TH	2026	Cupid's Ghost	https://i.pinimg.com/736x/d8/cf/24/d8cf2450ae1635da35390ba0635eb2a8.jpg, https://i.pinimg.com/736x/37/52/5b/37525bae286a24374898a9bfa60816fa.jpg
+DR000089	TH	2022	The Eclipse	https://i.pinimg.com/1200x/f0/dd/7e/f0dd7e587c13d216bfaca4012cae1aa8.jpg, https://i.pinimg.com/736x/01/0f/4b/010f4b1e0d83c8f58efdb7b4d200cc06.jpg, https://i.pinimg.com/736x/52/ec/d2/52ecd2da60343101d71bc076d492e1ac.jpg, https://i.pinimg.com/1200x/b5/81/5b/b5815b9af9a469efcffc0e0cef405985.jpg, https://cms.dmpcdn.com/ugcarticle/2022/10/21/5438e210-50ff-11ed-9875-f91c51608aaa_original.jpg
+DR000090	TH	2026	Cat for Cash	https://i.pinimg.com/736x/97/b7/ed/97b7eda73fc55bc11dcf52296d83aa64.jpg, https://i.pinimg.com/1200x/8b/08/e6/8b08e6f089e71d2a822d867d4285a4fd.jpg, https://i.pinimg.com/736x/de/3e/81/de3e8128ec4471f443e06e5c6684987e.jpg, https://i.pinimg.com/1200x/26/8c/1f/268c1fe020944ea38a02fc6fbc318ebb.jpg, https://i.pinimg.com/1200x/84/40/76/8440766130f98d24903b738224819e2f.jpg, https://truevisions.co.th/static/9a89afbd-cefa-4805-a939-f31466d6f980.jpg
+DR000091	TH	2024	We Are	https://i.pinimg.com/736x/fa/2f/04/fa2f044dea673902a386061519533709.jpg, https://i.pinimg.com/736x/3a/79/3a/3a793a544640dfee9ec27869bdd8c87c.jpg, https://i.pinimg.com/1200x/70/9a/e0/709ae096a8e4023777c06fead82829fd.jpg, https://i.pinimg.com/736x/cc/f3/bb/ccf3bbc9d5afe4aec80cc166ed430925.jpg, https://i.pinimg.com/736x/48/bf/88/48bf8882b625705e3be03b73dee350e7.jpg, https://i.pinimg.com/736x/2b/a7/c7/2ba7c715e9cb1b540d937157bc4a5797.jpg, https://i.pinimg.com/1200x/9c/42/e6/9c42e63e276dfc973ad564a8f83ffc1e.jpg, https://bldramas.com/wp-content/uploads/2024/04/we-are-poster.webp
+DR000092	TH	2025	Memoir of Rati	https://i.pinimg.com/736x/9a/b4/f6/9ab4f671bed700e21751b9912e782767.jpg, https://i.pinimg.com/736x/08/37/ee/0837ee9dec828d536cf6b5e7e2d2d3d0.jpg, https://i.pinimg.com/736x/fe/55/ee/fe55eeda58bcf666becf0d65a496786f.jpg, https://i.pinimg.com/1200x/8d/eb/97/8deb9745d0069cd9a263046041f58520.jpg, https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FatpWS19QH1HOwaUrw2cxyEW6ay3.jpg
+DR000093	TH	2026	Billionaire Biker	https://i.pinimg.com/736x/48/bb/04/48bb04b82dbfd1f35b9d08a1da8f1545.jpg, https://m.media-amazon.com/images/M/MV5BMDA5Nzc5MTMtZTU4My00MzhhLTlmMTctZmNhMTc0YWRjYmQ5XkEyXkFqcGc%40._V1_.jpg
+DR000094	TH	2025	That Summer	https://i.pinimg.com/736x/43/19/2f/43192fe46cf51d3f508c2696d56055e4.jpg, https://i.pinimg.com/736x/37/86/39/37863982a80618afe8f2109b20a56b62.jpg, https://i.pinimg.com/736x/d4/8d/9b/d48d9b05f8dc3ebe75cbca39c8b3d38a.jpg, https://m.media-amazon.com/images/M/MV5BM2Y2Yzk3NDUtNzA0My00MjQxLWFhYjItMDFlYjM4ZjIxNGE3XkEyXkFqcGc%40._V1_.jpg
+DR000095	TH	2016	Senior Secret Love: Puppy Honey	https://i.pinimg.com/736x/6b/11/6d/6b116d8256c54c9cb0d7cc7313895888.jpg, https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg, https://media.fstatic.com/YYHr9c8rzFzJTQNL6nr-EAW0iMs%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/04/secret-love-puppy-love_tNone.jpg, https://media.fstatic.com/Br4WL8CFgVydPJ50UKQrcELBGb8%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2016/05/secret-love-puppy-honey_t205675.jpg
+DR000096	TH	2017	Senior Secret Love: Puppy Honey 2	https://i.pinimg.com/736x/77/e7/a0/77e7a00d388475e03e552fc768786b43.jpg, https://i.pinimg.com/1200x/85/78/19/85781949b2bbc70cd90deff7f09e3215.jpg, https://media.fstatic.com/4JfihAzguyaqqnHggKUw2_8nS5M%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2017/03/secret-love2_gmm.jpg
+DR000097	TH	2019	Theory of Love	https://i.pinimg.com/736x/e7/de/20/e7de202da269cc4e73d8c4d9cbce3050.jpg, https://i.pinimg.com/1200x/67/3f/71/673f71735ae7dfc1a5d3e989ba09ffa5.jpg
+DR000098	TH	2021	Not Me	https://i.pinimg.com/736x/f5/7d/e3/f57de36aa28a02087d267eacbd20caaf.jpg, https://i.pinimg.com/736x/9f/20/c0/9f20c046c4eba1c1ab54febd39833a06.jpg, https://i.pinimg.com/1200x/bb/2b/39/bb2b39bddf142aabc916cb0fe6f2e8ad.jpg
+DR000099	TH	2023	Cooking Crush	https://i.pinimg.com/736x/94/9f/aa/949faae66af2384bcec4b00e7b904936.jpg, https://i.pinimg.com/736x/fe/8b/3a/fe8b3ab0550f88aed960a9e5bf862680.jpg, https://i.pinimg.com/1200x/af/f3/27/aff327d0433b7ee64a71e300c0da7c3c.jpg
+DR000100	TH	2024	The Trainee	https://i.pinimg.com/736x/97/94/73/979473b3256846206709881e06e96d1d.jpg, https://i.pinimg.com/736x/8c/5c/bd/8c5cbd406b748c2014a963259543668d.jpg
+DR000101	TH	2025	Burnout Syndrome	https://i.pinimg.com/736x/57/75/78/57757813d32bfa63a883865cfbdaeb00.jpg, https://i.pinimg.com/1200x/f8/7b/73/f87b737534f888b77beccbed18e2b18d.jpg, https://i.pinimg.com/736x/a6/47/50/a647500843610acea3287f9ca7c306d0.jpg
+DR000102	TH	2026	Gunshot	https://i.pinimg.com/736x/d2/94/57/d2945703700e8a331c6ac74380cc851d.jpg
+DR000103	KR	2020	Where Your Eyes Linger	https://i.pinimg.com/736x/40/f3/d2/40f3d2c1535fd13a38c0929f796c3506.jpg, https://i.pinimg.com/736x/f4/db/64/f4db64b75323543809e6daedaa60b6c3.jpg, https://pimg.1px.tw/pink03049/1589087541-3219822327.jpg
+DR000104	KR	2020	Mr. Heart	https://i.pinimg.com/736x/9c/85/13/9c85136ddb53c9074be9f521f9d16c2d.jpg, https://bancodeseries.tv.br/images/posters/20563.jpg
+DR000105	KR	2020	Wish You: Your Melody from My Heart	https://i.pinimg.com/1200x/dc/70/04/dc70041942b9423fd2d4157be3ecef6d.jpg, https://i.pinimg.com/736x/cd/29/7a/cd297a9c19e98a9e530baa1d3164557e.jpg, https://resize-image.vocus.cc/resize?norotation=true&quality=80&sign=twVTqrfh3YV16-IOQ8jrqR-IDnLjlJBQJRrwixSs2V8&url=https%3A%2F%2Fimages.vocus.cc%2F60ae0d16-0813-4be6-8bfe-abfbbef4125e.jpg&width=740
+DR000106	KR	2020	Color Rush	https://i.pinimg.com/1200x/2e/61/09/2e6109ea1b0035b850774a8f9489035f.jpg, https://i.pinimg.com/1200x/12/09/e6/1209e6013722704661810491a68bc72b.jpg, https://i.pinimg.com/736x/9e/01/ca/9e01caeccc733e23d9b7a8301e63d0b3.jpg, https://images.justwatch.com/poster/333489955/s718/color-rush.jpg
+DR000107	KR	2022	Color Rush 2	https://i.pinimg.com/736x/49/c3/7a/49c37abb7b5e46ddd6de2587ad03ba8a.jpg, https://i.pinimg.com/1200x/e2/d5/0f/e2d50f83a4b4773d386765f5773d76f5.jpg, https://image.kpopmap.com/2021/11/Color-rush-season-2-2022-scaled.jpg
+DR000108	KR	2021	To My Star	https://i.pinimg.com/1200x/20/7d/f8/207df8bfc181a9bd7cfeabc7380f2a6a.jpg, https://i.pinimg.com/1200x/c9/cd/7a/c9cd7a18eeb21ebc2b59b1cf20fbaea3.jpg
+DR000109	KR	2021	You Make Me Dance	https://i.pinimg.com/1200x/29/63/1d/29631dbb91d50492bd4d3080ab1f343c.jpg, https://i.pinimg.com/1200x/c0/07/60/c007601bf09e057f7ee9dadd90f4b3bf.jpg
+DR000110	KR	2021	Nobleman Ryu's Wedding	https://i.pinimg.com/1200x/43/76/c4/4376c4169b97643aaf5ee4dc0e6dd1d4.jpg, https://i.pinimg.com/1200x/4d/09/28/4d0928afd462b07f05d3019bc255a180.jpg
+DR000111	KR	2021	Light on Me	https://i.pinimg.com/1200x/6b/86/d2/6b86d2a3fd641a68d3944a492913ca94.jpg, https://i.pinimg.com/1200x/5d/85/9d/5d859d7a470e5ba5c02d34eed330bc3f.jpg, https://i.pinimg.com/736x/dd/97/32/dd97322fb3abf7f9d8957dec21cdc24d.jpg
+DR000112	KR	2021	Peach of Time	https://i.pinimg.com/1200x/f5/ae/54/f5ae542e72c25b46fe9cd90b44cfff8f.jpg, https://i.pinimg.com/736x/88/1b/a6/881ba67882bebe64ac32b595160a0f44.jpg, https://i.pinimg.com/1200x/42/a4/3c/42a43c2e08361e5e3fd46eed72e35148.jpg
+DR000113	KR	2021	The Tasty Florida	https://i.pinimg.com/736x/c3/b3/77/c3b3771f65cac320bb7a1f95fc8e56e6.jpg, https://i.pinimg.com/1200x/23/a1/b5/23a1b54634484d48e6582c54cbbc96f6.jpg
+DR000114	KR	2021	My Sweet Dear	https://i.pinimg.com/736x/9f/c9/76/9fc976c29920a66a8b6c72a78b2a009f.jpg, https://i.pinimg.com/736x/ed/0a/45/ed0a45a775489ded5350056f30a250ec.jpg, https://i.pinimg.com/736x/71/38/9c/71389cac8015a364c307b6910f98aacb.jpg
+DR000115	KR	2021	Tinted With You	https://i.pinimg.com/736x/d0/81/07/d0810743603c042064da1ee4f6b87d31.jpg
+DR000116	KR	2021	Behind Cut	https://i.pinimg.com/1200x/0b/e0/23/0be02329339a1da0e572f208c5610859.jpg
+DR000117	KR	2022	To My Star 2	https://i.pinimg.com/736x/30/b4/4c/30b44c48995f5416beddcce16c4545e0.jpg, https://i.pinimg.com/1200x/a6/59/70/a6597056f2d868f61cc189202d84efa7.jpg, https://i.pinimg.com/1200x/d2/2d/f0/d22df097d53a96e6cb10dea29ff2a63e.jpg
+DR000118	KR	2026	Light on Me 2	https://welcon.kocca.kr/cmm/getImage.do?fileSn=1&thumb=&atchFileId=FILE_67b6ecc5-b5b9-4705-ae68-341c8d49966c
+DR000119	KR	2022	Kissable Lips	https://i.pinimg.com/736x/ff/3f/61/ff3f6152cdae9dd0e1e2973980a1edec.jpg, https://i.pinimg.com/736x/43/8d/94/438d9484e42b0eb0a9606132415fc5ec.jpg
+DR000120	KR	2022	Semantic Error	https://i.pinimg.com/736x/11/2d/53/112d53ded0bf4a71d7b25fef2f3dba2d.jpg, https://i.pinimg.com/736x/ff/ab/83/ffab8341aa6427cf306ee9d54ba1c444.jpg, https://i.pinimg.com/1200x/c3/2a/dc/c32adc6e93b99ac7552e9a9277e80a7e.jpg
+DR000121	KR	2022	Oh! Boarding House	https://i.pinimg.com/1200x/5f/3e/d3/5f3ed3851bf5860fe95f0ca335adf7c7.jpg, https://i.pinimg.com/736x/57/95/a7/5795a7355df848af3aaf202a71d22389.jpg, https://i.pinimg.com/736x/70/42/0c/70420cca23497d1570bb155d130ae54f.jpg
+DR000122	KR	2022	First Love Again	https://i.pinimg.com/1200x/a4/5d/cd/a45dcd0705b521cd020a2afb3cf48395.jpg
+DR000123	KR	2022	Blue of Winter	https://i.pinimg.com/1200x/4a/ec/b1/4aecb1908d0425ebc0299b6a5482376e.jpg
+DR000124	KR	2022	Blueming	https://i.pinimg.com/1200x/f8/2e/be/f82ebebb3497489c08a3d6c838604a28.jpg, https://i.pinimg.com/1200x/74/73/46/74734662e62179859f17df76f45a8e0c.jpg
+DR000125	KR	2022	Cherry Blossoms After Winter	https://i.pinimg.com/736x/37/30/3e/37303ee1ad4426fdeb0bc7957b89b194.jpg, https://i.pinimg.com/736x/04/0d/c6/040dc6e3f3685c88d4d33bb9b9a9903f.jpg, https://i.pinimg.com/736x/3a/cd/40/3acd40cb6df961f8985d3fa353769691.jpg
+DR000126	KR	2022	Ocean Likes Me	https://i.pinimg.com/736x/90/b7/17/90b717030d1b7f3a7d3d76909af2b59a.jpg
+DR000127	KR	2022	Love in Spring	https://i.pinimg.com/1200x/00/ff/f3/00fff3769d42ee272d11ad3fcc7b01d6.jpg
+DR000128	KR	2022	Love Class	https://i.pinimg.com/736x/4d/9d/67/4d9d676ab817cc174cdb4a683a77a4d7.jpg, https://i.pinimg.com/736x/93/e7/3e/93e73e13341573b03931c4bfb27237ad.jpg, https://i.pinimg.com/736x/67/02/d1/6702d14760ff6a4609a32e0dde1c325b.jpg
+DR000129	KR	2022	Once Again	https://i.pinimg.com/736x/13/2a/a8/132aa8da4bdca9ea396a33f653bd802c.jpg
+DR000130	KR	2022	Roommates of Poongduck 304	https://i.pinimg.com/1200x/2c/5e/eb/2c5eeb82fd73ba4919caf7d629189418.jpg, https://i.pinimg.com/736x/78/4b/44/784b44d45d7b37400976e20f4bbcedf5.jpg
+DR000131	KR	2022	Choco Milk Shake	https://i.pinimg.com/1200x/88/a7/12/88a7128b3cc1123137bef7c6724785f0.jpg, https://i.pinimg.com/1200x/06/8d/ad/068dadd7fc9e59449c83cb2998eb4f62.jpg, https://i.pinimg.com/1200x/2a/f3/71/2af371ddac90a363443d0d8c7a6c57b0.jpg
+DR000132	KR	2022	Happy Ending Romance	https://i.pinimg.com/1200x/73/eb/93/73eb931e7eb7e6c1ce46b01744c8a54f.jpg, https://i.pinimg.com/1200x/60/e2/70/60e270a379a61a5f108a55ff03efad82.jpg, https://i.pinimg.com/1200x/9c/c8/b8/9cc8b86da71ac37e128bf237297b2f2c.jpg
+DR000133	KR	2022	Oh! My Assistant	https://i.pinimg.com/1200x/a6/08/be/a608be025d5c1f9dd0d802c5b5c36ad5.jpg, https://i.pinimg.com/1200x/e6/06/82/e60682ab8d0b24dd13c66b8d077354c5.jpg, https://i.pinimg.com/1200x/4c/63/25/4c6325b16b2ffbee3f222ca442d02035.jpg
+DR000134	KR	2022	The Director Who Buys Me Dinner	https://i.pinimg.com/736x/6d/b3/ed/6db3edb3e372c12dbe19d9287fe8070a.jpg, https://i.pinimg.com/1200x/23/db/20/23db20c8a8b9bf6ef9547a5bec6f1c15.jpg, https://i.pinimg.com/1200x/1b/1c/0b/1b1c0beadd7e73b2412ad100c01c44dd.jpg, https://i.pinimg.com/1200x/d4/0b/1c/d40b1c51186e9b085383cbf611c8c1dc.jpg
+DR000135	KR	2022	The New Employee	https://i.pinimg.com/1200x/03/c3/28/03c32808b85ee1c6894697032115785b.jpg, https://i.pinimg.com/1200x/80/cf/ab/80cfabe86a6d7fdfb78306c3a2a795ff.jpg, https://i.pinimg.com/736x/5d/60/96/5d6096b02c32b14a2d6f3fefb3c3cec1.jpg
+DR000136	KR	2023	Love Class 2	https://i.pinimg.com/736x/63/39/09/6339096bf62511478ca0d8c4bd96a821.jpg, https://i.pinimg.com/1200x/8a/84/74/8a8474205112d51770a42fbbcc933ccc.jpg, https://i.pinimg.com/1200x/76/16/a7/7616a72e8a9b87751bb8e594820b19ae.jpg
+DR000137	KR	2026	Love Class 3	https://i.pinimg.com/1200x/ec/15/26/ec152601468c0e3dafb520af4b93447b.jpg, https://i.pinimg.com/736x/8e/15/ad/8e15ad7fd1f92ce566ce71e85d3564a7.jpg
+DR000138	KR	2023	A Shoulder to Cry On	https://i.pinimg.com/1200x/a8/1a/e4/a81ae455a65584db9131a2ebd9a11350.jpg, https://i.pinimg.com/1200x/71/3a/dc/713adcdeaf7b10dc2cf16c29925c536d.jpg, https://i.pinimg.com/1200x/4c/72/b4/4c72b47623a2a9a2a45c60d202e37684.jpg, https://i.pinimg.com/1200x/1b/6e/90/1b6e903bba0edc43e16b4b345d7d25ab.jpg
+DR000139	KR	2023	Our Dating Sim	https://i.pinimg.com/1200x/bd/20/47/bd204728901afbefe0a318de19101bfa.jpg, https://i.pinimg.com/1200x/2d/a0/fd/2da0fd2561e550fa49816fadc1fd4275.jpg, https://i.pinimg.com/1200x/54/ac/a6/54aca6312b589cbc58675731eab1e1c2.jpg, https://i.pinimg.com/1200x/04/35/49/0435499648b18d7df547906d25a57d9f.jpg, https://i.pinimg.com/1200x/26/99/84/2699849eddf3542ed6ee7161d16e6538.jpg, https://i.pinimg.com/736x/12/bf/a4/12bfa4307022f223a0a62360b4c0b500.jpg
+DR000140	KR	2023	Unintentional Love Story	https://i.pinimg.com/736x/85/ad/50/85ad5013feb40e4db410d1a36a978efe.jpg, https://i.pinimg.com/1200x/2f/0b/0c/2f0b0c9eb2a3da0a966b0a1eb37fe78e.jpg, https://i.pinimg.com/736x/c7/c6/f7/c7c6f751ca3a677536cf1e2469c7b9b0.jpg, https://i.pinimg.com/1200x/9e/dc/bd/9edcbdf8510427908fa02246b0321466.jpg
+DR000141	KR	2023	Happy Merry Ending	https://i.pinimg.com/1200x/fa/3a/40/fa3a40438af223af3d5fa276c2a0cad0.jpg, https://i.pinimg.com/1200x/70/b0/d7/70b0d7fa748132458c089d7a7fc03489.jpg, https://i.pinimg.com/1200x/78/18/0d/78180d8074073d0738823fd7e58d0b3f.jpg, https://i.pinimg.com/1200x/7a/31/22/7a31229a5f009743405238fe526a4cb2.jpg
+DR000142	KR	2023	Love Mate	https://i.pinimg.com/1200x/8a/a4/c7/8aa4c7b8ec94c5e251951e7238598989.jpg, https://i.pinimg.com/1200x/11/9b/21/119b2199684b897261f4190e96b39601.jpg, https://i.pinimg.com/736x/2d/26/61/2d2661bfe1b8b5ccd0f10adac1e87529.jpg
+DR000143	KR	2023	Star Struck	https://i.pinimg.com/1200x/a7/b0/75/a7b0752cd3e7144c3695d4c0e6acd3da.jpg
+DR000144	KR	2023	Love Tractor	https://i.pinimg.com/1200x/42/2e/a3/422ea3726ee219ea3aaf3f35a37dd44e.jpg, https://i.pinimg.com/1200x/5c/d1/9d/5cd19d0af59c08041336ba2ddf16b6a1.jpg, https://i.pinimg.com/1200x/58/07/d1/5807d19710d5ac496f349ce925985cb4.jpg
+DR000145	KR	2023	Sing My Crush	https://i.pinimg.com/1200x/db/09/cf/db09cf291ab2af198b867fa90b3bf19b.jpg
+DR000146	KR	2023	Jun & Jun	https://i.pinimg.com/1200x/54/b2/78/54b278309203459155eb7a105356dc09.jpg, https://i.pinimg.com/1200x/24/c4/61/24c461dd5f6e83be2a54940278355133.jpg, https://static.wikia.nocookie.net/drama/images/4/44/Jun_and_Jun-2023-01.jpg/revision/latest/scale-to-width-down/1000?cb=20230613105900&path-prefix=es
+DR000147	KR	2023	Why R U?	https://i.pinimg.com/1200x/b4/7e/cd/b47ecdf0f91870ca0aed883e5002ded3.jpg, https://i.pinimg.com/1200x/54/69/c6/5469c6d442d07da2983c055bf759eec3.jpg, https://i.pinimg.com/1200x/b4/7d/3e/b47d3ec55b01caaea1db4cf2e7116277.jpg
+DR000148	KR	2023	Bon Appétit	https://i.pinimg.com/1200x/03/5c/e8/035ce881f6727c10e4c8a3d1c6865835.jpg, https://i.pinimg.com/736x/36/1b/9c/361b9c03c6b8400d40e0cccdd0c207df.jpg, https://i.pinimg.com/1200x/c3/87/65/c38765744cff46917918f8a75531cb9f.jpg
+DR000149	KR	2023	Bump Up Business	https://i.pinimg.com/1200x/6d/f2/1c/6df21c451f7a0b61a6b0a41ba6ce8d60.jpg, https://i.pinimg.com/736x/2c/ec/ed/2ceced8d956851b780c2a938a0bbe51a.jpg, https://i.pinimg.com/736x/84/62/57/8462574971055d72134b2f5fb3259e6d.jpg
+DR000150	KR	2023	A Breeze of Love	https://i.pinimg.com/736x/96/b7/42/96b742474d356eb14d235a52cd0b53e7.jpg, https://i.pinimg.com/1200x/d9/d1/ed/d9d1ed8c61199c00207dc146ab689244.jpg, https://i.pinimg.com/736x/01/e3/b0/01e3b06d5706de8cddeb9c63a8aca4bd.jpg
+DR000151	KR	2023	Individual Circumstances	https://i.pinimg.com/1200x/b0/c6/a6/b0c6a69486b40f38d74f363589d7012c.jpg, https://i.pinimg.com/1200x/bb/30/09/bb3009612f0c2e6fe144c84f5767f2a6.jpg
+DR000152	KR	2023	All the Liquors	https://i.pinimg.com/736x/2a/58/84/2a58846903a22c055a90b130e172ed67.jpg, https://i.pinimg.com/736x/7c/51/b6/7c51b61bd6d5da8e8f88b7cceade63ce.jpg
+DR000153	KR	2026	Always Meet Again	https://i.pinimg.com/736x/9b/89/7b/9b897bd5f9e8eb5530f488df4d25a6a9.jpg, https://i.pinimg.com/736x/0c/63/1e/0c631ec8fce9b46c6473ede8f36a7fa7.jpg
+DR000154	KR	2024	Love for Love's Sake	https://i.pinimg.com/736x/fc/74/65/fc746561d9e3de7f6ed25939810749b4.jpg, https://i.pinimg.com/736x/72/be/93/72be93da76c02ff757f879a4b3a10609.jpg, https://i.pinimg.com/736x/83/a1/89/83a189156f97026d59a919c682312f2c.jpg
+DR000155	KR	2024	Jazz for Two	https://i.pinimg.com/736x/b0/57/27/b05727efbd93d346250d12ac58677597.jpg, https://i.pinimg.com/1200x/a1/15/28/a115282c17dc66e3272ec90ec297e230.jpg
+DR000156	KR	2024	Gray Shelter	https://i.pinimg.com/736x/d7/c3/90/d7c3905c16fc84e9e611498935325fe9.jpg, https://i.pinimg.com/736x/e4/a8/af/e4a8afc07e88a900a6319b34c91497c4.jpg, https://i.pinimg.com/736x/ae/85/b1/ae85b1a576f7a83e9972638e6051f29e.jpg
+DR000157	KR	2024	Love Is Like a Cat	https://i.pinimg.com/736x/66/cc/37/66cc37e209a6ebbed3996fbe2cbe295a.jpg, https://i.pinimg.com/1200x/dc/ab/1c/dcab1c633c588c16e9496c75d558b2ab.jpg, https://i.pinimg.com/736x/01/1e/b5/011eb5a05e9a70866726b9e999bcb739.jpg
+DR000158	KR	2024	Blossom Campus	https://i.pinimg.com/736x/57/9e/9a/579e9a51254aadc820dfdc39fc89497b.jpg, https://i.pinimg.com/736x/3d/f4/87/3df48708bd03667b5f507a4d0906543a.jpg, https://i.pinimg.com/736x/47/cb/7e/47cb7ef26f6305756bc0154037d37a22.jpg
+DR000159	KR	2024	Boys Be Brave!	https://i.pinimg.com/736x/1d/c3/51/1dc351a47cfd8ab578dc1d01e5d2e6fa.jpg, https://i.pinimg.com/1200x/bc/1b/0d/bc1b0dd0944d006cf7c1f2a25299d1bb.jpg
+DR000160	KR	2024	The Time of Fever	https://i.pinimg.com/736x/df/be/d3/dfbed3228743b14404347ee7dc78a40a.jpg, https://i.pinimg.com/736x/04/70/ce/0470ceb7960ccaf69716c15a12b8cf0e.jpg
+DR000161	KR	2024	Love in the Big City	https://i.pinimg.com/736x/ff/6e/f1/ff6ef1eefa05843c6f9966d6bd510bc9.jpg, https://i.pinimg.com/736x/99/c1/6b/99c16b262389fc0f5f7f01b4a838a15d.jpg
+DR000162	KR	2024	Let Free the Curse of Taekwondo	https://i.pinimg.com/736x/e9/85/18/e985182764be3b4d9a144135be712c1a.jpg, https://i.pinimg.com/736x/73/12/53/7312539cd9d4dc332a413b3cddc7e91e.jpg
+DR000163	KR	2024	Eccentric Romance	https://i.pinimg.com/1200x/50/9c/53/509c5313d1e260f52e3777dd95b56400.jpg, https://i.pinimg.com/736x/5e/43/e9/5e43e9084923c4b82694892a243e6c8d.jpg
+DR000164	KR	2025	FC Soldout	https://image.tmdb.org/t/p/original/haX6tI8bGGzaVMcHWLCdLQtKLKl.jpg
+DR000165	KR	2025	Heart Stain	https://image.tmdb.org/t/p/original/sBIVxIpOXhDsCKs3ibINdCoqGGJ.jpg
+DR000166	KR	2025	Secret Relationships	https://image.tmdb.org/t/p/original/aytDKHN1Tmr6uqcLPap7U1Cjy9a.jpg
+DR000167	KR	2025	Heesu in Class 2	https://www.animeclick.it/immagini/live_action/Heesu_in_Class_2/gallery_original/Heesu_in_Class_2-67e974a9174d5.jpg
+DR000168	KR	2025	Business as Usual	https://image.tmdb.org/t/p/original/ndVWj0sVXC6YdyC3pujdikgtbGx.jpg
+DR000169	KR	2025	Ball Boy Tactics	https://image.tmdb.org/t/p/original/yIX9Fu5kt9Tf6PLZSfCKjm3YZLB.jpg
+DR000170	KR	2025	Sweetheart Service	https://m.media-amazon.com/images/M/MV5BMTIwYTE1YzctNTlkYi00NjQ0LWExNzAtNmYyZjQ5NjEwZjBkXkEyXkFqcGc%40._V1_.jpg
+DR000171	KR	2025	My Bias Is Showing?!	https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg
+DR000172	KR	2025	My Secret Vampire	https://boyslovefrance.wordpress.com/wp-content/uploads/2025/09/mysecretvampire_poster.jpeg
+DR000173	KR	2025	The Story of Bihyung: Enchanted Master of the Goblin	https://image.tmdb.org/t/p/original/k4Ow0l747TMk1hutdeXZ5oKfAye.jpg
+DR000174	KR	2025	Peach Trap	https://image.tmdb.org/t/p/original/g3U4dTRLkD3k98kavIIGXWLP1b6.jpg
+DR000175	KR	2025	Thundercloud Rainstorm	https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2025-11-21/b108d30f-b8c9-4faf-b450-966cf300e23d.jpg
+DR000176	KR	2026	Fan Service	https://i.pinimg.com/1200x/84/4b/e7/844be71d26a93d5337cafac0721135da.jpg, https://i.pinimg.com/1200x/85/11/e8/8511e853e1b4f944b9b37fa44c2adea5.jpg
+DR000178	KR	2026	Love in Protocol	https://i.pinimg.com/736x/61/82/37/6182372e6321bf03ee1e6db2e2ac89c6.jpg, https://i.mydramalist.com/nOe532_4f.jpg, https://www.imdb.com/es-es/title/tt39736857/mediaviewer/rm3844792066/?ref_=ext_shr_lnk
+DR000179	KR	2025	Connect	https://image.tmdb.org/t/p/original/63KQxu9BNCkkK8Aj2o9BTSHMv9p.jpg
+DR000180	KR	2026	Cross Link	https://image.tmdb.org/t/p/original/gh7BKBpkw1ZXWj3zHzysA5BUO9x.jpg
+DR000181	KR	2026	Saint Laurence Academy	https://i.mydramalist.com/73VADb_4f.jpg
+DR000182	KR	2025	Tide of Love	https://world-of-bl.com/uploads/TideOfLove/TideOfLove-Logo.jpg
+DR000183	KR	2026	Tide of Love 2	https://boyslovefrance.wordpress.com/wp-content/uploads/2026/02/tideoflove2_poster.jpg
+DR000184	KR	2026	Laundry Romance	https://i.mydramalist.com/zByjW1_4f.jpg, https://seriesboyslove.es/wp-content/uploads/2026/02/Laundry-Romance.jpeg
+DR000202	KR	2024	Buddy Boy	https://prcdn.freetls.fastly.net/release_image/155551/10/155551-10-37675f3b01ea0be081370824e007a7ad-400x560.png?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400
+DR000213	KR	2025	Checkered Shirt	https://boyslovefrance.wordpress.com/wp-content/uploads/2025/01/checkeredshirt_poster01.jpg
+DR000214	KR	2025	Checkered Shirt 2	https://world-of-bl.com/uploads/CheckeredShirt/CheckeredShirt2-Logo.jpg
+DR000243	TW	2023	Kiseki: Dear to Me	https://i.pinimg.com/736x/55/e4/2d/55e42d770e0a07c5ebec55c78a26301d.jpg, https://i.pinimg.com/736x/6e/f9/16/6ef916eabf0c40758914e0710b23c416.jpg, https://i.pinimg.com/736x/38/bf/ae/38bfae8e8e0299234ab2c203fdd0a267.jpg
+DR000247	TW	2024	The On1y One	https://i.pinimg.com/1200x/15/12/f9/1512f97745ea16f8b652db539727812e.jpg, https://i.pinimg.com/736x/72/be/93/72be93da76c02ff757f879a4b3a10609.jpg, https://i.pinimg.com/736x/94/08/ee/9408ee0c2b3f1106fdc8c801b2ac64b0.jpg, https://i.pinimg.com/1200x/3e/6a/d5/3e6ad54fdcbe18f86867ec454e489234.jpg
+DR000248	TW	2024	First Note of Love	https://i.pinimg.com/736x/17/66/b3/1766b306f207ee02a7b7aa47cb99a9a6.jpg, https://i.pinimg.com/736x/47/43/f4/4743f43bd4e9f2ef2bea54557b793784.jpg
+DR000295	PH	2020	Oh, Mando!	https://i.pinimg.com/1200x/35/64/fb/3564fb072070b0588f9028e29bade977.jpg
+DR000377	PH	2023	Tie the Not	https://i.pinimg.com/1200x/34/9a/c0/349ac02b026300420555af67c3e584ef.jpg, https://i.pinimg.com/1200x/08/ff/fd/08fffd79c744e5e602316fd0d03132ef.jpg
+DR001048	TH	2026	Zantiis: Miss You	https://image.tmdb.org/t/p/original/7kRygWbR7pXVzEOzmVrkBrTQMYV.jpg
+DR001049	TH	2026	Lost to Light	https://image.tmdb.org/t/p/original/nEEX1lTFrr2sAZinjNbEpCDayq1.jpg
+DR001050	TH	2026	The Edge of Horizon	https://www.iboy.tv/media/titles/the-edge-of-horizon/poster.jpg
+DR001051	TH	2026	When Light Fades	https://image.tmdb.org/t/p/original/asObI5BixnoumvMG93EOuUsdwZh.jpg
+DR001054	TH	2026	Mr. Kill	https://m.media-amazon.com/images/M/MV5BNGFkYmZjZjEtYjg0Mi00YWZhLTg3YWQtZDE5NDczZjlhMjdlXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg
+DR001055	TH	2026	Peach and Me	https://pic0.iqiyipic.com/image/20260630/d3/d7/a_100907199_m_600_zh-CN_m2_440_608.webp
+DR001056	TH	2026	Love Destiny	https://img.mundobl.com.ar/series/1784186437510_8lwmtz_card.webp
+DR001057	TH	2026	Be My Player Two	https://static.tvmaze.com/uploads/images/original_untouched/596/1490935.jpg
+DR001058	TH	2026	Class Crush Crisis	https://thaicontentdb.com/_next/image?q=75&url=https%3A%2F%2Fthaitvseriesimage.sgp1.digitaloceanspaces.com%2Fposters%2Fdrama%2Fcmky5451p04ugmw0jpyvn13pv%2F2026%2F01%2Fdrama__d9493552-f6b4-4437-91b9-a51eabc6cc4f.jpg&w=1080
+DR001059	TH	2026	Match Point	https://m.media-amazon.com/images/M/MV5BM2Y5ZDUzYzctMDllNi00OTQyLThkZDctYTQ4MTA4ZDVjZDcyXkFqcGc%40._V1_.jpg
+----------------------------------------------------------------------------------
+📊 Total dramas con el campo "multimedia.portada" informado: 201
