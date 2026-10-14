@@ -1,17 +1,6 @@
 🔎 Auditoría de campo: [ multimedia.portada ]
 --------------------------------------------------
-DR000157	KR	2024	Love Is Like a Cat
-DR000158	KR	2024	Blossom Campus
-DR000159	KR	2024	Boys Be Brave!
-DR000160	KR	2024	The Time of Fever
-DR000161	KR	2024	Love in the Big City
-DR000162	KR	2024	Let Free the Curse of Taekwondo
-DR000163	KR	2024	Eccentric Romance
-DR000176	KR	2026	Fan Service
 DR000177	KR	2026	Opposites Attract
-DR000178	KR	2026	Love in Protocol
-DR000181	KR	2026	Saint Laurence Academy
-DR000184	KR	2026	Laundry Romance
 DR000185	KR	2025	First Page
 DR000186	KR	2025	Love Reset
 DR000187	KR	2026	Between Doors
@@ -876,4 +865,4 @@ DR001065	TH	2026	Nour
 DR001066	TH	2026	You Maniac
 DR001067	TH	2026	Mr. Fanboy
 --------------------------------------------------
-📊 Total dramas sin el campo "multimedia.portada": 875
+📊 Total dramas sin el campo "multimedia.portada": 864
