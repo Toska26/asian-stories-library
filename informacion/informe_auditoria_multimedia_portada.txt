@@ -1,8 +1,5 @@
 🔎 Auditoría de campo: [ multimedia.portada ]
 --------------------------------------------------
-DR000154	KR	2024	Love for Love's Sake
-DR000155	KR	2024	Jazz for Two
-DR000156	KR	2024	Gray Shelter
 DR000157	KR	2024	Love Is Like a Cat
 DR000158	KR	2024	Blossom Campus
 DR000159	KR	2024	Boys Be Brave!
@@ -69,12 +66,9 @@ DR000239	TW	2022	Papa & Daddy
 DR000240	TW	2022	Plus & Minus
 DR000241	TW	2022	My Tooth Your Love
 DR000242	TW	2022	49 Days With a Merman
-DR000243	TW	2023	Kiseki: Dear to Me
 DR000244	TW	2026	Double Shuffle
 DR000245	TW	2024	Let's Talk About Chu
 DR000246	TW	2024	Unknown
-DR000247	TW	2024	The On1y One
-DR000248	TW	2024	First Note of Love
 DR000249	TW	2024	See Your Love
 DR000250	TW	2024	The Nipple Talk
 DR000251	TW	2024	Eternal Butler
@@ -107,37 +101,36 @@ DR000277	PH	2021	Why Love Why Season 2
 DR000278	PH	2020	My Day: The Series
 DR000279	PH	2023	My Story: The Series
 DR000280	PH	2023	Our Story: The Series
-DR000281	PH	????	Sakristan
-DR000282	PH	????	In Between
-DR000283	PH	????	Even After
-DR000284	PH	????	Amore
-DR000285	PH	????	Unexpected
-DR000286	PH	????	Oh My Sexual
-DR000287	PH	????	Safe Haven
-DR000288	PH	????	My Extraordinary
-DR000289	PH	????	Boys' Lockdown
-DR000290	PH	????	Island
-DR000291	PH	????	Swap Test
-DR000292	PH	????	Lakan
-DR000293	PH	????	Strange Heart
-DR000294	PH	????	Better Days
-DR000295	PH	????	Oh, Mando!
-DR000296	PH	????	Cheat
-DR000297	PH	????	Got'chu Fam!
-DR000298	PH	????	Third and Josh
-DR000299	PH	????	Win Jaime's Heart
-DR000300	PH	????	Ang Pokpok ng Pandemya
-DR000301	PH	????	Truly Very Yours
-DR000302	PH	????	Hook Up
-DR000303	PH	????	Unguarded
-DR000304	PH	????	Kumusta Bro?
-DR000305	PH	????	Kumusta Bro? The Series
-DR000306	PH	????	Influencers
-DR000307	PH	????	Chasing Sunsets
-DR000308	PH	????	Padayon
-DR000309	PH	????	Paano Kaya Kung Tayo?
-DR000310	PH	????	Daddy Love
-DR000311	PH	????	INN Love
+DR000281	PH	2020	Sakristan
+DR000282	PH	2020	In Between
+DR000283	PH	2020	Even After
+DR000284	PH	2020	Amore
+DR000285	PH	2020	Unexpected
+DR000286	PH	2020	Oh My Sexual
+DR000287	PH	2020	Safe Haven
+DR000288	PH	2020	My Extraordinary
+DR000289	PH	2020	Boys' Lockdown
+DR000290	PH	2020	Island
+DR000291	PH	2020	Swap Test
+DR000292	PH	2020	Lakan
+DR000293	PH	2020	Strange Heart
+DR000294	PH	2020	Better Days
+DR000296	PH	2020	Cheat
+DR000297	PH	2020	Got'chu Fam!
+DR000298	PH	2020	Third and Josh
+DR000299	PH	2020	Win Jaime's Heart
+DR000300	PH	2020	Ang Pokpok ng Pandemya
+DR000301	PH	2020	Truly Very Yours
+DR000302	PH	2020	Hook Up
+DR000303	PH	2020	Unguarded
+DR000304	PH	2020	Kumusta Bro?
+DR000305	PH	2022	Kumusta Bro? The Series
+DR000306	PH	2020	Influencers
+DR000307	PH	2020	Chasing Sunsets
+DR000308	PH	2021	Padayon
+DR000309	PH	2021	Paano Kaya Kung Tayo?
+DR000310	PH	2021	Daddy Love
+DR000311	PH	2021	INN Love
 DR000312	PH	2021	Jack & Jill
 DR000313	PH	2021	HeartBreak Mountain
 DR000314	PH	2021	Stranger's Kiss
@@ -203,7 +196,6 @@ DR000373	PH	2023	Beautiful Scars
 DR000374	PH	2023	Lonely Connections
 DR000375	PH	2023	Teach Me How
 DR000376	PH	2023	The Day I Loved You
-DR000377	PH	2023	Tie the Not
 DR000378	PH	2023	Stay
 DR000379	PH	2023	A Story to Remember
 DR000380	PH	2023	Ever After
@@ -884,4 +876,4 @@ DR001065	TH	2026	Nour
 DR001066	TH	2026	You Maniac
 DR001067	TH	2026	Mr. Fanboy
 --------------------------------------------------
-📊 Total dramas sin el campo "multimedia.portada": 883
+📊 Total dramas sin el campo "multimedia.portada": 875
