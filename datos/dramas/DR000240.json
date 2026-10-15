@@ -1,27 +1,59 @@
 {
-  "codigo": "DR000240",
-  "titulo": "Plus & Minus",
-  "tituloOriginal": "正負之間",
-  "tipo": "Drama",
-  "anio": 2022,
-  "pais": ["TW"],
-  "idioma": "zh",
-  "franquicia": "",
-  "universo": "",
-  "serie": "",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 12,
-  "duracion": "25-30 min",
-  "estado": "Finalizado",
-  "estreno": "2022-04-15",
-  "finalizacion": "2022-06-24",
-  "generos": ["BL", "Romance", "Drama", "Comedia"],
-  "tags": ["BL", "Amigos de infancia", "Oficina", "Abogados", "Amigos a amantes", "Convivencia", "Pareja secundaria"],
-  "ships": [
-    {"personajes":["Fu Li Gong","Zheng Ze Shou"]},
-    {"personajes":["Jian Ying Ze","Kato Yuki"]}
-  ],
-  "sinopsis": "Fu Li Gong y Zheng Ze Shou son amigos inseparables desde la infancia y ahora trabajan juntos en el mismo bufete de abogados. Su amistad comienza a transformarse en una relación romántica. Paralelamente, Jian Ying Ze y Kato Yuki desarrollan su propia relación.",
-  "activo": true
+    "codigo": "DR000240",
+    "titulo": "Plus & Minus",
+    "tituloOriginal": "正負之間",
+    "tipo": "Drama",
+    "anio": 2022,
+    "pais": [
+        "TW"
+    ],
+    "idioma": "zh",
+    "franquicia": "",
+    "universo": "",
+    "serie": "",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 12,
+    "duracion": "25-30 min",
+    "estado": "Finalizado",
+    "estreno": "2022-04-15",
+    "finalizacion": "2022-06-24",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama",
+        "Comedia"
+    ],
+    "tags": [
+        "BL",
+        "Amigos de infancia",
+        "Oficina",
+        "Abogados",
+        "Amigos a amantes",
+        "Convivencia",
+        "Pareja secundaria"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Fu Li Gong",
+                "Zheng Ze Shou"
+            ]
+        },
+        {
+            "personajes": [
+                "Jian Ying Ze",
+                "Kato Yuki"
+            ]
+        }
+    ],
+    "sinopsis": "Fu Li Gong y Zheng Ze Shou son amigos inseparables desde la infancia y ahora trabajan juntos en el mismo bufete de abogados. Su amistad comienza a transformarse en una relación romántica. Paralelamente, Jian Ying Ze y Kato Yuki desarrollan su propia relación.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.pinimg.com/1200x/20/4a/91/204a916fa65626412caae707039b47a5.jpg",
+            "https://i.pinimg.com/1200x/c1/7a/98/c17a989a0b78c6699948127c6e73ed7a.jpg",
+            "https://i.pinimg.com/736x/65/d1/83/65d183b8d2f4e9dae28908ee5ebf6e44.jpg"
+        ]
+    }
 }
