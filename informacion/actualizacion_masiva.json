@@ -1,673 +1,348 @@
 
 [
   {
-    "codigo": "DR000683",
+    "codigo": "DR000737",
     "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/pTGgnjfAMdvjtrF5dNpdWPIa8ti.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000684",
-    "multimedia": {
-      "portada": ["https://i.pinimg.com/736x/18/7e/fc/187efcf2846077de7505ba19c54fdb54.jpg",
-        "https://www.tv-tokyo.co.jp/txcms/media/others/3c/27/b7f2fb7dd985870027129af3fa73.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000480",
-    "multimedia": {
-      "portada": [
-        "https://boys-love.de/wp-content/uploads/2025/09/Poster-Awaiting-Dawn.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000587",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/dQER7Wee8pRKASowPgJjgddGBDT.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000273",
-    "multimedia": {
-      "portada": [
-        "https://1.bp.blogspot.com/-UzLKoFk0CBk/YSe_9ALT2DI/AAAAAAABDr8/1Aq9MLbPZ1Iq8JvjC8294XFeL6RhahmkwCLcBGAsYHQ/w1200-h630-p-k-no-nu/6dmY0_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000415",
-    "multimedia": {
-      "portada": [
-        "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/11/dtbwjv87_1920x1080-ba5bong_296_168.webp"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000416",
-    "multimedia": {
-      "portada": [
-        "https://cdn2.tuoitre.vn/471584752817336320/data/teen360/pictures/2019/07/25/1564056889_batch_poster-duy-khanh-copy.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000772",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/8slFjcbVZhr3rTTvrltmpLhdj4N.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000969",
-    "multimedia": {
-      "portada": [
-        "https://yflix.me/wp-content/uploads/2024/08/GV5tWefbkAARAse.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000383",
-    "multimedia": {
-      "portada": [
-        "https://m.media-amazon.com/images/M/MV5BMDM2MjJhZTctYTk2Mi00NmIwLTgyZDMtYjBkYTU4MzgyYWIwXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000896",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/x8ALYItHWI45jv3KRNvz1fwR2hh.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000940",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/YYexeA_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000294",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/ZQkQ8_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000766",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/w780/eG9x9Ls46bbCblyqOD88kDnMRSz.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000417",
-    "multimedia": {
-      "portada": [
-        "https://phunuvietnam.mediacdn.vn/media/news/a6dad32cf405c5d7c243bc2fcaf5efcd/phim3.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000962",
-    "multimedia": {
-      "portada": [
-        "https://static.tvmaze.com/uploads/images/original_untouched/524/1310376.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000625",
-    "multimedia": {
-      "portada": [
-        "https://media.fstatic.com/l2WJnqjHrxM32lG_W9WnhpTC3ks%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2020/10/BNm7R_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000897",
-    "multimedia": {
-      "portada": [
-        "https://static.tvmaze.com/uploads/images/medium_portrait/460/1152365.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000470",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/hR2iCPkN33k525yU8dgYngi9b4o.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000373",
-    "multimedia": {
-      "portada": [
-        "https://m.media-amazon.com/images/M/MV5BOWUwYWMyMWYtZjQxMS00NDEyLWIwNzAtNmJjMzYyZTkxMWQxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000411",
-    "multimedia": {
-      "portada": [
-        "https://static.tvmaze.com/uploads/images/medium_portrait/297/744331.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000451",
-    "multimedia": {
-      "portada": [
-        "https://cdn-i.vtcnews.vn/resize/th/upload/2021/12/31/1-14303425.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000516",
-    "multimedia": {
-      "portada": [
-        "https://m.media-amazon.com/images/M/MV5BZGVhMzQ1MmMtODgxMC00M2Y3LTgyZTUtZDcwZjhhMjMzMThmXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000420",
-    "multimedia": {
-      "portada": [
-        "https://m.media-amazon.com/images/M/MV5BMzllODJmNjItNzVkNi00NTkyLThjYTItNTRlNzAxNTY1MGUyXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000575",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/Kpe4y0_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000538",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/kA3zxv_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000601",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/mOw3V1_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000665",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/4eepXr_4f.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000556",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/yWy06k_4f.jpg"
-      ]
-    }
-  },  {
-    "codigo": "DR000334",
-    "multimedia": {
-      "portada": [
-        "https://boyslovefrance.files.wordpress.com/2021/02/betweenustheseriesph_poster03.jpg?strip=info&w=640"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000898",
-    "multimedia": {
-      "portada": [
-        "https://static.tvmaze.com/uploads/images/original_untouched/482/1205976.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000881",
-    "multimedia": {
-      "portada": [
-        "https://media.senscritique.com/media/000020986865/0/big_dragon.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000414",
-    "multimedia": {
-      "portada": [
-        "https://static.wixstatic.com/media/3917c7_2a9606f83dcd48eca801bba73c5e46f8~mv2.jpg/v1/fill/w_720%2Ch_1007%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/3917c7_2a9606f83dcd48eca801bba73c5e46f8~mv2.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000814",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/zjMQ0WsjgAcei9JBG25weLG439n.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000600",
-    "multimedia": {
-      "portada": [
-        "https://wiki.d-addicts.com/images/thumb/5/56/Bittersweet_Love.jpg/450px-Bittersweet_Love.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000785",
-    "multimedia": {
-      "portada": [
-        "https://m.media-amazon.com/images/M/MV5BYjI3OGVkYmMtNmYwOC00OWZhLTliYWMtZGRkNmVmYzkyYWVkXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000594",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/yhOKOT16pBSxo5YNrJtCV2MQs89.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000573",
-    "multimedia": {
-      "portada": [
-        "https://image.tmdb.org/t/p/original/oQcuWZ2GCpkHy3L4klHj7H8QzC5.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000597",
-    "multimedia": {
-      "portada": [
-        "https://media.fstatic.com/VKvc3rF0jOHys-jxP8ZByq3MlK4%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2026/09/15_t342556.png"
-      ]
-    }
-  },
-  {
-    "codigo": "DR001037",
-    "multimedia": {
-      "portada": [
-        "https://tvs.dmpcdn.com/cdn-cgi/image/format%3Dpng%2Cwidth%3D1024%2Cheight%3D1024/https%3A//tvs.dmpcdn.com/movie/2026/05/21/603b2cc0-54e9-11f1-8c94-43467d8dd01e_webp_original.webp"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000371",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/22Er2_4f.jpg"
+      "portada": ["https://i.pinimg.com/736x/12/81/c0/1281c0784cadf0f744a96a135f2e583b.jpg",
+        "https://i.mydramalist.com/zBQv6W_4f.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000655",
+    "codigo": "DR000581",
     "multimedia": {
-      "portada": [
-        "https://i.pinimg.com/736x/65/3b/f0/653bf09db1c6fcf9432fd5b9df2534be.jpg"
+      "portada": ["https://i.mydramalist.com/JBO4Wo_4f.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000522",
+    "codigo": "DR000654",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/RR2ZY_4f.jpg"
+        "https://i.mydramalist.com/2RDnd_4f.jpg"
       ]
     }
-  }, {
-    "codigo": "DR000354",
+  }{
+    "codigo": "DR000829",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BMjcyNzE1ZDgtNmZmOC00MDMwLTk2NmUtMjc0ZjYzMGQzMDU1XkEyXkFqcGc%40._V1_.jpg"
+        "https://artworks.thetvdb.com/banners/series/396624/posters/603e76cd4f079.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000355",
+    "codigo": "DR000859",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BOWY1NDEzNzAtNzM4MC00N2E4LTg5Y2EtMTY2OTI2NGI4MGE2XkEyXkFqcGc%40._V1_.jpg"
+        "https://proxyplayerth.com/images/movie/gXW5qB5UM0Hx4CYJYjMa5hl73t32Tjz.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000842",
+    "codigo": "DR000598",
     "multimedia": {
       "portada": [
-        "https://pbs.twimg.com/media/FL0UjL4VcAESJhJ.jpg"
+        "https://img.mnop.tw/usr/uploads/mnop/30780212-56e2bd7acf703f1e.png"
       ]
     }
   },
   {
-    "codigo": "DR000899",
+    "codigo": "DR000949",
     "multimedia": {
       "portada": [
-        "https://boyslovefrance.wordpress.com/wp-content/uploads/2023/02/boybandtheseries_poster01.jpg"
+        "https://media.senscritique.com/media/000022199440/0/deep_night.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000498",
+    "codigo": "DR000701",
     "multimedia": {
       "portada": [
-        "https://blwatcher.com/wp-content/uploads/Boys-BL-Series-Boris-and-Ho-Yin.jpg"
+        "https://www.animeclick.it/immagini/live_action/Hishakai_Shindo/cover/Hishakai_Shindo-cover.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000998",
+    "codigo": "DR000903",
     "multimedia": {
       "portada": [
-        "https://pbs.twimg.com/media/Gn7ZEmDXUAAtNmN.jpg"
+        "https://vcover-vt-pic.wetvinfo.com/vcover_vt_pic/0/ksxquoh0jjz4rwo1730711695899_yAAn-pj9/0"
       ]
     }
   },
   {
-    "codigo": "DR000289",
+    "codigo": "DR000904",
     "multimedia": {
       "portada": [
-        "https://world-of-bl.com/uploads/BoysLockdown/BoysLockdown-Poster1.jpg"
+        "https://s.isanook.com/mv/0/ui/29/146859/Sanook_dinolovemainamarin.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000830",
+    "codigo": "DR000582",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BZGNiZWM1NDItNmQ3YS00MzJiLWE2MTItYjJlNTAxNmUxMGMzXkEyXkFqcGc%40._V1_.jpg"
+        "https://imgs.tom.com/ent/202512/1854603663/CONTENTba29721e1307e704.jpeg"
       ]
     }
   },
   {
-    "codigo": "DR000971",
+    "codigo": "DR000317",
     "multimedia": {
       "portada": [
-        "https://s.isanook.com/mv/0/ui/34/174695/gal-174695-20241030072715-d28645f.jpeg"
+        "https://img.youtube.com/vi/ru480KehpFE/maxresdefault.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000543",
+    "codigo": "DR001007",
     "multimedia": {
       "portada": [
-        "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/67d28805739244cd9d557ed1bff156c9~tplv-xv4ileqgde-resize-w%3A750.image"
+        "https://ogre.natalie.mu/media/news/eiga/2025/0626/DoctorsMine_202506_01.jpg?imdensity=1&impolicy=hq&imwidth=1460"
       ]
     }
   },
   {
-    "codigo": "DR000805",
+    "codigo": "DR001005",
     "multimedia": {
       "portada": [
-        "https://artworks.thetvdb.com/banners/series/385709/posters/5f298cc692c26.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMTg3N2Y4OTUtOTQ5OS00YjMzLTgyMWUtZjA5YTI0ZjcxMTE0XkEyXkFqcGc%40._V1_.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000822",
+    "codigo": "DR001052",
     "multimedia": {
       "portada": [
-        "https://images.squarespace-cdn.com/content/v1/5febf98e659e447b0e805244/1629272156368-69HEUHBAL5S4DA2MEPLB/CIWYW%2Bofficial%2Bposter.jpg"
+        "https://media.myshows.me/shows/normal/8/f3/8f384edbaf33d83a7c44a26829fde970.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000823",
+    "codigo": "DR000678",
     "multimedia": {
       "portada": [
-        "https://www.queerupthevolume.com/sites/default/files/styles/poster/public/film/%E6%88%80%E6%84%9B%E7%84%A1%E5%90%8D%E6%B0%8F2_%E6%B5%B7%E5%A0%B1_%E6%AC%BE7%28%E4%BA%94%E4%BA%BA%E7%89%88%29_%E8%8B%B1_0.jpg?itok=HD8KMWlt"
+        "https://www.tokai-tv.com/oppan/assets/img/top/header_poster.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000901",
+    "codigo": "DR000441",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/E5Y8ym_4f.jpg"
+        "https://stat.ameba.jp/user_images/20250501/08/9bouz/fe/e0/j/o0750093815582143766.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000310",
+    "codigo": "DR000508",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/RpgBR_4f.jpg"
+        "https://image.tmdb.org/t/p/w780/udcrxC8tceOSAZ41jKtLCc47j6F.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000333",
+    "codigo": "DR000508",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/ZqDn7_4f.jpg"
+        "https://image.tmdb.org/t/p/w780/udcrxC8tceOSAZ41jKtLCc47j6F.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000584",
+    "codigo": "DR000939",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/Z8W0l8_4f.jpg"
+        "https://i.mydramalist.com/wJrlr1_4f.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001008",
+    "codigo": "DR000795",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/l06kzb_4f.jpg"
+        "https://i.mydramalist.com/RQlLP_4f.jpg"
       ]
     }
   },
   {
-     "codigo": "DR000959",
+    "codigo": "DR000649",
     "multimedia": {
       "portada": [
-        "https://images.justwatch.com/poster/319250869/s718/century-of-love.jpg"
+        "https://i.mydramalist.com/1rYvb_4f.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000900",
+    "codigo": "DR000906",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BYmU1YzdjZWUtODQ3OS00ZTM2LWJiYzMtMTI0OTRiYTBkOTA2XkEyXkFqcGc%40._V1_.jpg"
+        "https://i.mydramalist.com/d0rgJK_4f.jpg"
       ]
     }
   },
+
   {
-    "codigo": "DR000307",
+    "codigo": "DR000283",
     "multimedia": {
       "portada": [
-        "https://img.gagaoolala.com/media/6847e51c-665846-lg.jpg"
+        "https://image.tmdb.org/t/p/original/CaUCjv6O0Guo4a4SF4eC9g5mXf.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000687",
+    "codigo": "DR000380",
     "multimedia": {
       "portada": [
-        "https://cms.dmpcdn.com/ugcarticle/2024/08/31/db4166f0-66f2-11ef-9c75-476a87383efd_webp_original.webp"
+        "https://i.mydramalist.com/4emg1Q_3f.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000296",
+    "codigo": "DR000936",
     "multimedia": {
       "portada": [
-        "https://pbs.twimg.com/media/EnoNYVgVoAEsVVa.jpg"
+        "https://boyslovefrance.wordpress.com/wp-content/uploads/2024/09/everyyoueveryme_poster01-1.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000864",
+    "codigo": "DR000995",
     "multimedia": {
       "portada": [
-        "https://image.tmdb.org/t/p/w500/jDnuMFuoEzMmwDVWiKqnCyVCy0E.jpg"
+        "https://static.tvmaze.com/uploads/images/original_untouched/567/1419056.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000622",
+    "codigo": "DR000883",
     "multimedia": {
       "portada": [
-        "https://fujian.fanxinzhui.com/poster/2020/1009/a6dc494da5a8997f2b0db74ae0bd4a2a.png"
+        "https://m.media-amazon.com/images/M/MV5BN2UxMGU4NDctMjk0YS00MTJiLWEyNzMtNzc5MmFhNmNmMDhjXkEyXkFqcGc%40._V1_.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000629",
+    "codigo": "DR000728",
     "multimedia": {
       "portada": [
-        "https://cherimaho-movie.com/news/img/20220803_02.jpg"
+        "https://image.tmdb.org/t/p/original/zluu45NlOOyxMRWDmG5fIvNVzex.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000628",
+    "codigo": "DR000547",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/I/81Tn5I34LYL._AC_UL640_FMwebp_QL65_.jpg"
+        "https://image.tmdb.org/t/p/original/eRkMeKJaHAUtIyCRLsC1LWg8NXh.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000627",
+    "codigo": "DR000402",
     "multimedia": {
       "portada": [
-        "https://contents.oricon.co.jp/upimg/news/20201210/2178875_202012100954519001607551202e.jpg"
+        "https://img.youtube.com/vi/j3nVffIcBpg/hqdefault.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000768",
+    "codigo": "DR000521",
     "multimedia": {
       "portada": [
-        "https://newsplus.co.th/wp-content/uploads/2026/08/Y8RbQf.jpg"
+        "https://artworks.thetvdb.com/banners/v4/movie/134661/posters/64a649dade6f2.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000707",
+    "codigo": "DR000589",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BMTBkOWQyNzItZTQ1ZS00OWZlLWE3YzktMDg3OTQzNGVmNTc4XkEyXkFqcGc%40._V1_.jpg"
+        "https://1.vikiplatform.com/c/41360c/a39c7247b4.jpg?x=b"
       ]
     }
   },
   {
-    "codigo": "DR000947",
+    "codigo": "DR000476",
     "multimedia": {
       "portada": [
-        "https://media.senscritique.com/media/000022192783/0/city_of_stars.jpg"
+        "https://media.fstatic.com/Zl8DqpMVwD-rEmDL5eP3xyOddQY%3D/322x478/smart/filters%3Aformat%28webp%29/media/movies/covers/2025/01/GgOdHLSXwAAKy_A.jfif"
       ]
     }
   },
   {
-    "codigo": "DR000369",
+    "codigo": "DR000810",
     "multimedia": {
       "portada": [
-        "https://watch.here.tv/img/clik-clak-clok_poster_55306a6609.jpg"
-      ]
-    }
-  },
-  {
-    "codigo": "DR000938",
-    "multimedia": {
-      "portada": ["https://i.mydramalist.com/Bd3oYq_4f.jpg",
-        "https://prcdn.freetls.fastly.net/release_image/84/1505/84-1505-52d508fb3c1749ef1c470cc7b72da9e6-800x450.jpg?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400"
+        "https://us-fbcloud.net/wb/data/1368/1368365-img.v8c3h1.1lrpv.opsbqhw1.webp"
       ]
     }
   },
   {
-    "codigo": "DR000824",
+    "codigo": "DR000986",
     "multimedia": {
       "portada": [
-        "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/78ae802a-1488-4e6d-a113-19e34062d8b5/600x900"
+        "https://image.tmdb.org/t/p/w500/wV6roLd06pv6sulke0mfeofA6iE.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000868",
+    "codigo": "DR000603",
     "multimedia": {
       "portada": [
-        "https://s359.kapook.com/pagebuilder/71b0cbee-d70e-4696-a300-2df45a837096.jpg"
+        "https://img.youtube.com/vi/Tp5unSvb1AQ/hqdefault.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000723",
+    "codigo": "DR001041",
     "multimedia": {
       "portada": [
-        "https://www.animeclick.it/immagini/live_action/Contrast/cover/Contrast-cover.jpg"
+        "https://pbs.twimg.com/media/HB_tppwaMAE-aaW.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000685",
+    "codigo": "DR000439",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BNTk3OGQxOTgtNTcxMC00ZmIwLThkZGQtNjRjNGFlZDBlM2JhXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+        "https://boyslovefrance.wordpress.com/wp-content/uploads/2020/12/followmysunshine_poster01.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000686",
+    "codigo": "DR000453",
     "multimedia": {
       "portada": [
-        "https://v7.dramacool.ba/public/storage/drama/17737708507067.webp"
+        "https://img.youtube.com/vi/-milLi3aJmQ/maxresdefault.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000724",
+    "codigo": "DR000413",
     "multimedia": {
       "portada": [
-        "https://image.tmdb.org/t/p/w1280/vd6ozks8WtIpPUHjcadQsOGglO7.jpg"
+        "https://static.wixstatic.com/media/3917c7_38a4c1e8802f4ca9baf3b7eb3204c166~mv2.jpg/v1/fill/w_680%2Ch_1000%2Cal_c%2Cq_85/3917c7_38a4c1e8802f4ca9baf3b7eb3204c166~mv2.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000818",
+    "codigo": "DR000905",
     "multimedia": {
       "portada": [
-        "https://img.gagaoolala.com/media/32cae572-144301-lg.jpg"
+        "https://static.tvmaze.com/uploads/images/medium_portrait/489/1224291.jpg"
       ]
     }
   },
   {
-    "codigo": "DR000819",
+    "codigo": "DR000465",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/4ep1JY_4f.jpg"
+        "https://world-of-bl.com/uploads/ForYouAThousandTimes/ForYouAThousandTimes-Logo.jpg"
       ]
     }
   }
+
+
 ]
