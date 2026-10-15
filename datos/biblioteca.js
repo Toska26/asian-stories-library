@@ -78,7 +78,7 @@ const biblioteca = [
 	{"codigo":"DR000417","titulo":"Bao Lô","pais":["VN"],"anio":2019,"tipo":"Webdrama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000962","titulo":"Battle of the Writers","pais":["TH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000625","titulo":"BE LOVE","pais":["JP"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000233","titulo":"Be Loved in House: I Do","pais":["TW"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.pinimg.com/736x/f0/67/b4/f067b4a5d15d06c21b243b67ac5b3ea0.jpg"},
+	{"codigo":"DR000233","titulo":"Be Loved in House: I Do","pais":["TW"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.pinimg.com/1200x/c7/da/d1/c7dad12645967db35e19600f53f9b558.jpg"},
 	{"codigo":"DR000032","titulo":"Be Mine, Superstar","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEntidades":true,"tieneMultimedia":true,"portada":"https://media.senscritique.com/media/000022195163/0/be_mine_superstar.webp","ship":"JaFirst","numShips":2},
 	{"codigo":"DR000897","titulo":"Be My Favorite","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR001057","titulo":"Be My Player Two","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://static.tvmaze.com/uploads/images/original_untouched/596/1490935.jpg","universo":{"codigo":"UN000028"}},
