@@ -1,50 +1,122 @@
 
 [
   {
-    "codigo": "DR001062",
+    "codigo": "DR000771",
     "multimedia": {
       "portada": [
-        "https://i.mydramalist.com/3oVKEW_4f.jpg"
+        "https://image.tmdb.org/t/p/original/wAhhbX2l0lgDnUqZBPF8RMvZWBB.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001063",
+    "codigo": "DR000945",
     "multimedia": {
       "portada": [
-        "https://cdn.moviefone.com/image-assets/53345/gBhnHJ6EkzyrST3gZ0Q70sBJyyn.jpg?d=480x720&q=50"
+        "https://static.tvmaze.com/uploads/images/original_untouched/561/1404143.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001064",
+    "codigo": "DR000709",
     "multimedia": {
       "portada": [
-        "https://m.media-amazon.com/images/M/MV5BNDkxYWY1YjctYjIwYy00MDM4LWExMjUtOGEzMWNmZGRjZTk4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+        "https://images.ctfassets.net/4cd45et68cgf/69CCLwTKa7Vt1VAiEHsiru/44eefa14f8a55c048cf96ac174cd2974/ja_jp_10dance_main_main_vertical_27x40_rgb_predate_1.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001065",
+    "codigo": "DR000875",
     "multimedia": {
       "portada": [
-        "https://image.tmdb.org/t/p/w500/rtVXZmThWUfvfCYQHtwKQfNBaZd.jpg"
+        "https://m.media-amazon.com/images/M/MV5BOGNiNGE4ZDEtYmU0Yi00ZTM3LWEzODMtZmE4YTAxNmU0YTZiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001066",
+    "codigo": "DR000759",
     "multimedia": {
       "portada": [
-        "https://pic4.iqiyipic.com/image/20260831/24/61/a_101367999_m_600_en_m3_440_608.webp"
+        "https://image.tmdb.org/t/p/w500/94KpDr7iv808v5k2LkIf4QJ4bon.jpg"
       ]
     }
   },
   {
-    "codigo": "DR001067",
+    "codigo": "DR000760",
     "multimedia": {
       "portada": [
-        "https://pic3.iqiyipic.com/image/20260827/e7/e6/a_101368218_m_600_en_440_608.webp"
+        "https://image.tmdb.org/t/p/w600_and_h900_face/xSWU6VPVYfwSRRNi4AGh5uoMPdZ.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000761",
+    "multimedia": {
+      "portada": [
+        "https://image.tmdb.org/t/p/original/85F4UzwZSR3HEAfpFC7srysuBtN.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000865",
+    "multimedia": {
+      "portada": [
+        "https://image.tmdb.org/t/p/original/9KSUUTKpBqg0v0K5b2YYbDMDU0W.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000775",
+    "multimedia": {
+      "portada": ["https://i.mydramalist.com/Xr57pf.jpg",
+        "https://artworks.thetvdb.com/banners/series/372603/backgrounds/62036745.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000783",
+    "multimedia": {
+      "portada": [
+        "https://image.tmdb.org/t/p/w780/4oQyCKKGBXTLR01n49c9Wj8nsWi.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000985",
+    "multimedia": {
+      "portada": ["https://i.mydramalist.com/PxYYLX_4f.jpg",
+        "https://www.serialzone.cz/obrazky/kclankum/img-11610.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000961",
+    "multimedia": {
+      "portada": [
+        "https://images.justwatch.com/poster/324770114/s718/4-minutes.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000891",
+    "multimedia": {
+      "portada": [
+        "https://static.tvmaze.com/uploads/images/original_untouched/429/1074851.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000894",
+    "multimedia": {
+      "portada": [
+        "https://static.tvmaze.com/uploads/images/original_untouched/480/1200989.jpg"
+      ]
+    }
+  },
+  {
+    "codigo": "DR000839",
+    "multimedia": {
+      "portada": [
+        "https://doramy.by/uploads/posts/2022-07/4891984_1657060202.jpg"
       ]
     }
   }
