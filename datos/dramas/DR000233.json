@@ -1,27 +1,58 @@
 {
-  "codigo": "DR000233",
-  "titulo": "Be Loved in House: I Do",
-  "tituloOriginal": "約・定～I do",
-  "tipo": "Drama",
-  "anio": 2021,
-  "pais": ["TW"],
-  "idioma": "zh",
-  "franquicia": "",
-  "universo": "",
-  "serie": "",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 12,
-  "duracion": "25-30 min",
-  "estado": "Finalizado",
-  "estreno": "2021-05-20",
-  "finalizacion": "2021-07-29",
-  "generos": ["BL", "Romance", "Drama", "Comedia"],
-  "tags": ["BL", "Oficina", "Jefe y empleado", "Convivencia", "Enemigos a amantes", "Pareja secundaria"],
-  "ships": [
-    {"personajes":["Jin Yu Zhen","Shi Lei"]},
-    {"personajes":["Yan Zhao Gang","Wu Si Qi"]}
-  ],
-  "sinopsis": "Jin Yu Zhen se convierte en el nuevo director de un estudio de diseño y establece una estricta prohibición de relaciones sentimentales entre los empleados. Shi Lei se enfrenta a la nueva norma y acaba acercándose a su jefe, mientras la relación entre ambos evoluciona hacia el amor. Paralelamente, Yan Zhao Gang y Wu Si Qi desarrollan su propia relación.",
-  "activo": true
+    "codigo": "DR000233",
+    "titulo": "Be Loved in House: I Do",
+    "tituloOriginal": "約・定～I do",
+    "tipo": "Drama",
+    "anio": 2021,
+    "pais": [
+        "TW"
+    ],
+    "idioma": "zh",
+    "franquicia": "",
+    "universo": "",
+    "serie": "",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 12,
+    "duracion": "25-30 min",
+    "estado": "Finalizado",
+    "estreno": "2021-05-20",
+    "finalizacion": "2021-07-29",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama",
+        "Comedia"
+    ],
+    "tags": [
+        "BL",
+        "Oficina",
+        "Jefe y empleado",
+        "Convivencia",
+        "Enemigos a amantes",
+        "Pareja secundaria"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Jin Yu Zhen",
+                "Shi Lei"
+            ]
+        },
+        {
+            "personajes": [
+                "Yan Zhao Gang",
+                "Wu Si Qi"
+            ]
+        }
+    ],
+    "sinopsis": "Jin Yu Zhen se convierte en el nuevo director de un estudio de diseño y establece una estricta prohibición de relaciones sentimentales entre los empleados. Shi Lei se enfrenta a la nueva norma y acaba acercándose a su jefe, mientras la relación entre ambos evoluciona hacia el amor. Paralelamente, Yan Zhao Gang y Wu Si Qi desarrollan su propia relación.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.pinimg.com/736x/f0/67/b4/f067b4a5d15d06c21b243b67ac5b3ea0.jpg",
+            "https://i.pinimg.com/736x/42/42/a7/4242a7529cb129d2a305b43ee6e6d4c4.jpg",
+            "https://i.pinimg.com/736x/99/fe/23/99fe2370b8bce791774e31e153284033.jpg"
+        ]
+    }
 }
