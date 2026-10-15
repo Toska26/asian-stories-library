@@ -1,23 +1,56 @@
 {
-  "codigo": "DR000709",
-  "titulo": "10DANCE",
-  "tituloOriginal": "10DANCE",
-  "alias": ["10 Dance"],
-  "pais": ["JP"],
-  "anio": 2025,
-  "tipo": "Película",
-  "origen": {"tipo":"Manga","relacion":"Adaptación","titulo":"10DANCE","tituloOriginal":"10DANCE","autor":"Inouesatoh","pais":"JP"},
-  "temporadas": 1,
-  "temporada": 1,
-  "duracion": 126,
-  "estado": "Finalizado",
-  "estreno": "2025-12-18",
-  "finalizacion": "2025-12-18",
-  "generos": ["BL", "Romance", "Drama", "Deportes"],
-  "tags": ["BL", "Danza", "Competición", "Rivales", "Atracción", "Película"],
-  "ships": [
-    {"personajes":["Shinya Suzuki","Shinya Sugiki"]}
-  ],
-  "sinopsis": "Shinya Suzuki, campeón japonés de baile latino, y Shinya Sugiki, campeón japonés de baile de salón estándar, son dos bailarines de personalidades opuestas que compiten en disciplinas diferentes. Sugiki propone a Suzuki entrenarse mutuamente para participar juntos en la exigente competición 10 Dance, y la rivalidad entre ambos comienza a transformarse en una atracción inesperada.",
-  "activo": true
+    "codigo": "DR000709",
+    "titulo": "10DANCE",
+    "tituloOriginal": "10DANCE",
+    "alias": [
+        "10 Dance"
+    ],
+    "pais": [
+        "JP"
+    ],
+    "anio": 2025,
+    "tipo": "Película",
+    "origen": {
+        "tipo": "Manga",
+        "relacion": "Adaptación",
+        "titulo": "10DANCE",
+        "tituloOriginal": "10DANCE",
+        "autor": "Inouesatoh",
+        "pais": "JP"
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "duracion": 126,
+    "estado": "Finalizado",
+    "estreno": "2025-12-18",
+    "finalizacion": "2025-12-18",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama",
+        "Deportes"
+    ],
+    "tags": [
+        "BL",
+        "Danza",
+        "Competición",
+        "Rivales",
+        "Atracción",
+        "Película"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Shinya Suzuki",
+                "Shinya Sugiki"
+            ]
+        }
+    ],
+    "sinopsis": "Shinya Suzuki, campeón japonés de baile latino, y Shinya Sugiki, campeón japonés de baile de salón estándar, son dos bailarines de personalidades opuestas que compiten en disciplinas diferentes. Sugiki propone a Suzuki entrenarse mutuamente para participar juntos en la exigente competición 10 Dance, y la rivalidad entre ambos comienza a transformarse en una atracción inesperada.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://images.ctfassets.net/4cd45et68cgf/69CCLwTKa7Vt1VAiEHsiru/44eefa14f8a55c048cf96ac174cd2974/ja_jp_10dance_main_main_vertical_27x40_rgb_predate_1.jpg"
+        ]
+    }
 }
