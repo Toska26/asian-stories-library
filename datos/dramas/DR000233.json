@@ -50,9 +50,9 @@
     "activo": true,
     "multimedia": {
         "portada": [
-            "https://i.pinimg.com/736x/f0/67/b4/f067b4a5d15d06c21b243b67ac5b3ea0.jpg",
-            "https://i.pinimg.com/736x/42/42/a7/4242a7529cb129d2a305b43ee6e6d4c4.jpg",
-            "https://i.pinimg.com/736x/99/fe/23/99fe2370b8bce791774e31e153284033.jpg"
+            "https://i.pinimg.com/1200x/c7/da/d1/c7dad12645967db35e19600f53f9b558.jpg",
+				"https://i.pinimg.com/736x/71/a4/9d/71a49d45b715c97caa40a1094f35d6f5.jpg",
+				"https://i.pinimg.com/736x/09/bd/c1/09bdc1e822816cac602cea5b684a93f7.jpg"
         ]
     }
 }
