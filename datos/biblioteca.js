@@ -569,7 +569,7 @@ const biblioteca = [
 	{"codigo":"DR000797","titulo":"My Engineer","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true,"portada":"https://boyslovefrance.files.wordpress.com/2020/03/myengineer_poster04.jpg?w=724"},
 	{"codigo":"DR000288","titulo":"My Extraordinary","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000363","titulo":"My Freaky Love Story","pais":["PH"],"anio":2022,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000798","titulo":"My Gear and Your Gown","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://www.iboy.tv/images/posters/my-gear-and-your-gown.jpg"},
+	{"codigo":"DR000798","titulo":"My Gear and Your Gown","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000993","titulo":"My Golden Blood","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmxAOiCe411AXtu8Xnou0LStI2rB.jpg"},
 	{"codigo":"DR000469","titulo":"My Goofy Deskmate","pais":["VN"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR001046","titulo":"My Grandpa Is a BL Writer","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://www.thaicontentdb.com/storage/posters/cmolp33rw0716pd0kq13zv6h1.jpg"},
