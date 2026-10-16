@@ -39,10 +39,5 @@
         }
     ],
     "sinopsis": "Un escritor de libros ilustrados y el editor encargado de sus obras viven juntos mientras trabajan en un nuevo proyecto. Su relación amorosa se ve alterada por los celos, la pérdida y los recuerdos que permanecen incluso después de la muerte.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://media.fstatic.com/l2WJnqjHrxM32lG_W9WnhpTC3ks%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2020/10/BNm7R_4f.jpg"
-        ]
-    }
+    "activo": true
 }
