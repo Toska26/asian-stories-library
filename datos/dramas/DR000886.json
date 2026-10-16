@@ -67,10 +67,5 @@
             "estreno": "2023-03-25"
         }
     ],
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://pics.filmaffinity.com/Ai_Long_Nhai_Serie_de_TV-796342527-large.jpg"
-        ]
-    }
+    "activo": true
 }
