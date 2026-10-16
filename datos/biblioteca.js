@@ -572,7 +572,7 @@ const biblioteca = [
 	{"codigo":"DR000798","titulo":"My Gear and Your Gown","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000993","titulo":"My Golden Blood","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmxAOiCe411AXtu8Xnou0LStI2rB.jpg"},
 	{"codigo":"DR000469","titulo":"My Goofy Deskmate","pais":["VN"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR001046","titulo":"My Grandpa Is a BL Writer","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://www.thaicontentdb.com/storage/posters/cmolp33rw0716pd0kq13zv6h1.jpg"},
+	{"codigo":"DR001046","titulo":"My Grandpa Is a BL Writer","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000456","titulo":"My Lascivious Boss","pais":["VN"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000483","titulo":"My Little Ghost","pais":["VN"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true},
 	{"codigo":"DR000437","titulo":"My Little Sister","pais":["VN"],"anio":2020,"tipo":"Webserie","estado":"Finalizado","activo":true,"tieneSinopsis":true},
