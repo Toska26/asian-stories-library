@@ -53,10 +53,5 @@
             "estreno": "2022-10-09"
         }
     ],
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://img.goldposter.com/2023/05/on-cloud-nine_poster_goldposter_com_1.jpg"
-        ]
-    }
+    "activo": true
 }
