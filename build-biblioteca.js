@@ -70,6 +70,9 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
 function compilarDramaParaBiblioteca(drama) {
     if (!drama || !drama.codigo) return null;
 
+    // 🛑 FILTRO: Si el drama está marcado como inactivo (activo: false), lo omitimos por completo
+    if (drama.activo === false) return null;
+
     // 1. Detección de presencia de multimedia
     const m = drama.multimedia || {};
     const tieneMedia = Boolean(
@@ -88,7 +91,7 @@ function compilarDramaParaBiblioteca(drama) {
         anio: drama.anio || null,
         tipo: drama.tipo || 'Drama',
         estado: drama.estado || 'Finalizado',
-        activo: drama.activo !== undefined ? drama.activo : true
+        activo: true
     };
 
     // 3. Flags booleanos: Solo se agregan si son `true`
@@ -96,19 +99,18 @@ function compilarDramaParaBiblioteca(drama) {
     const tienePersonas = Boolean(Array.isArray(drama.personas) && drama.personas.length > 0);
     const tieneEntidades = Boolean(Array.isArray(drama.entidades) && drama.entidades.length > 0);
 
-    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
     const tieneOrigen = Boolean(
         (Array.isArray(drama.origen) && drama.origen.length > 0) ||
         (drama.origen && typeof drama.origen === 'object' && Object.keys(drama.origen).length > 0) ||
         (typeof drama.origen === 'string' && drama.origen.trim() !== '')
     );
-    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
+    
     const tieneEspeciales = Boolean(
         (Array.isArray(drama.especiales) && drama.especiales.length > 0) ||
         (drama.especiales && typeof drama.especiales === 'object' && Object.keys(drama.especiales).length > 0) ||
-        (typeof drama.especiales === 'string' && drama.origen.trim() !== '')
+        (typeof drama.especiales === 'string' && drama.especiales.trim() !== '')
     );
-    // NUEVA VALIDACIÓN DE ORIGEN: Comprobamos si tiene datos válidos (sea objeto o array)
+    
     const tieneRelaciones = Boolean(
         (Array.isArray(drama.relaciones) && drama.relaciones.length > 0) ||
         (drama.relaciones && typeof drama.relaciones === 'object' && Object.keys(drama.relaciones).length > 0) ||
