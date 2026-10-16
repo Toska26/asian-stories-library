@@ -44,10 +44,6 @@
         }
     ],
     "sinopsis": "Sky es un joven pasante de cocina que comienza a trabajar en una gran empresa alimentaria y entra en conflicto con Ace, su exigente y distante jefe. La convivencia laboral hace que la rivalidad inicial se transforme progresivamente en una relación romántica.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://bancodeseries.com.br/images/posters/20387.jpg"
-        ]
-    }
+    "activo": true
+    
 }
