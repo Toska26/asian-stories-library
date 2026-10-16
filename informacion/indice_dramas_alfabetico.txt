@@ -402,7 +402,6 @@ DR000953	TH	2024	Kiseki in Tokyo Chapter 2
 DR000243	TW	2023	Kiseki: Dear to Me
 DR000027	TH	2018	Kiss Me Again
 DR000604	CN	2026	Kiss or Kill
-DR000026	TH	2016	Kiss: The Series
 DR000119	KR	2022	Kissable Lips
 DR000955	TH	2024	Knock Knock, Boys!
 DR001001	TH	2025	Knock Out
