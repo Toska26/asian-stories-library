@@ -105,10 +105,5 @@
             "estreno": "2021-06-17"
         }
     ],
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://bldramas.com/wp-content/uploads/2025/06/y-destiny.webp"
-        ]
-    }
+    "activo": true
 }
