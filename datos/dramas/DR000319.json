@@ -56,10 +56,5 @@
         }
     ],
     "sinopsis": "Cuando se anuncia que un asteroide destruirá la Tierra en siete días, las vidas de varias personas quedan alteradas. La historia se divide en cuatro relatos que siguen a diferentes parejas mientras afrontan el amor, el deseo, los conflictos personales, la pérdida y la necesidad de resolver sus asuntos pendientes antes del fin del mundo.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://image.tmdb.org/t/p/original/7fVxXzYQw5oX2aX7bN9XQ4.jpg"
-        ]
-    }
+    "activo": true
 }
