@@ -512,7 +512,7 @@ const biblioteca = [
 	{"codigo":"DR001010","titulo":"MANDATE The Series","pais":["TH"],"anio":2025,"tipo":"Serie","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000796","titulo":"Manner of Death","pais":["TH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000385","titulo":"Marahuyo Project","pais":["PH"],"anio":2024,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR001059","titulo":"Match Point","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://m.media-amazon.com/images/M/MV5BM2Y5ZDUzYzctMDllNi00OTQyLThkZDctYTQ4MTA4ZDVjZDcyXkFqcGc%40._V1_.jpg"},
+	{"codigo":"DR001059","titulo":"Match Point","pais":["TH"],"anio":2026,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR001024","titulo":"Me and Thee","pais":["TH"],"anio":2025,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true,"portada":"https://m.media-amazon.com/images/M/MV5BODk2MWIxNGUtNmVlZi00ZmU5LTg4ZWYtMWM2ZmFhZmEyMDM1XkEyXkFqcGc%40._V1_.jpg","franquicia":{"codigo":"FR000050","orden":1}},
 	{"codigo":"DR000674","titulo":"Me, My Husband & My Husband's Boyfriend","pais":["JP"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true},
 	{"codigo":"DR000343","titulo":"Meet My Angel","pais":["PH"],"anio":2021,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000343","temporada":1,"temporadas":2},
