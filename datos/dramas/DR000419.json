@@ -1,21 +1,46 @@
 {
-  "codigo": "DR000419",
-  "titulo": "Ghe Bẹo Ghẹo Ai",
-  "pais": ["VN"],
-  "anio": 2019,
-  "tipo": "Webdrama",
-  "franquicia": {"codigo":"FR000029","orden":1},
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 5,
-  "estado": "Finalizado",
-  "estreno": "2019-06-06",
-  "finalizacion": "2019-07-25",
-  "generos": ["Drama", "Romance"],
-  "tags": ["BL", "LGBT", "Amor", "Familia", "Prejuicios", "Identidad"],
-  "ships": [
-    {"personajes":["Mến","Nhớ"]}
-  ],
-  "sinopsis": "Mến y Nhớ se conocen en circunstancias que hacen que sus vidas terminen entrelazadas. A medida que su relación se desarrolla, ambos deben enfrentarse a los sentimientos, los prejuicios y las dificultades familiares que rodean su amor.",
-  "activo": true
+    "codigo": "DR000419",
+    "titulo": "Ghe Bẹo Ghẹo Ai",
+    "pais": [
+        "VN"
+    ],
+    "anio": 2019,
+    "tipo": "Webdrama",
+    "franquicia": {
+        "codigo": "FR000029",
+        "orden": 1
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 5,
+    "estado": "Finalizado",
+    "estreno": "2019-06-06",
+    "finalizacion": "2019-07-25",
+    "generos": [
+        "Drama",
+        "Romance"
+    ],
+    "tags": [
+        "BL",
+        "LGBT",
+        "Amor",
+        "Familia",
+        "Prejuicios",
+        "Identidad"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Mến",
+                "Nhớ"
+            ]
+        }
+    ],
+    "sinopsis": "Mến y Nhớ se conocen en circunstancias que hacen que sus vidas terminen entrelazadas. A medida que su relación se desarrolla, ambos deben enfrentarse a los sentimientos, los prejuicios y las dificultades familiares que rodean su amor.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://cdn.24h.com.vn/upload/2-2019/images/2019-06-04/1559648970-939-60630494_2192341054206918_4411298752954892288_n-1559550918-width672height960.jpg"
+        ]
+    }
 }
