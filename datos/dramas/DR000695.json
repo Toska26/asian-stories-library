@@ -49,10 +49,5 @@
         }
     ],
     "sinopsis": "Ryoma Shiba es un brillante abogado que conoce a Haruto, un joven estafador capaz de adoptar cualquier identidad. Impresionado por sus habilidades, Ryoma lo convierte en su socio secreto para resolver casos y ambos terminan viviendo juntos mientras sus sentimientos evolucionan hacia el amor.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://m.media-amazon.com/images/M/MV5BMzhiMmJmMGMtYzc4Yy00MDgxLThjNjEtNWIyY2Y0XkEyXkFqcGc%40._V1_.jpg"
-        ]
-    }
+    "activo": true
 }
