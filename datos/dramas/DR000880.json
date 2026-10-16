@@ -57,10 +57,5 @@
             "estreno": "2022-10-03"
         }
     ],
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://pics.filmaffinity.com/ghost_host_ghost_house-511810363-large.jpg"
-        ]
-    }
+    "activo": true
 }
