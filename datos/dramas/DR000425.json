@@ -24,10 +24,5 @@
         "LGBT"
     ],
     "sinopsis": "Una historia juvenil sobre el primer amor y los sentimientos que surgen entre dos jóvenes mientras descubren su identidad y afrontan las dificultades propias de la juventud.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://media.fstatic.com/6igWmci4PhtxddemZerc7TB-41A%3D/350x525/smart/filters%3Aformat%28webp%29/media/movies/covers/2021/08/cd9e2df2f39f1f8625fcdf68b18ae0c2f5937758r1-467-640v2_uhq.jpg"
-        ]
-    }
+    "activo": true
 }
