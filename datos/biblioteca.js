@@ -559,7 +559,7 @@ const biblioteca = [
 	{"codigo":"DR000750","titulo":"My Bromance: The Series","pais":["TH"],"anio":2016,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
 	{"codigo":"DR000407","titulo":"My Brother","pais":["VN"],"anio":2017,"tipo":"Webdrama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000011"}},
 	{"codigo":"DR000495","titulo":"My Colleague at BL Shop Might Be The Meant-To-Be","pais":["HK"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true},
-	{"codigo":"DR000278","titulo":"My Day: The Series","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"portada":"https://bancodeseries.com.br/images/posters/20387.jpg","serie":"SR000278","temporada":1,"temporadas":3},
+	{"codigo":"DR000278","titulo":"My Day: The Series","pais":["PH"],"anio":2020,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000278","temporada":1,"temporadas":3},
 	{"codigo":"DR000915","titulo":"My Dear Gangster Oppa","pais":["TH"],"anio":2023,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"tieneEspeciales":true,"portada":"https://boyslovefrance.files.wordpress.com/2023/10/mydeargangsteroppa_poster03.jpg"},
 	{"codigo":"DR000763","titulo":"My Dear Loser: Edge of 17","pais":["TH"],"anio":2017,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true,"serie":"SR000763","temporada":1,"temporadas":3},
 	{"codigo":"DR000765","titulo":"My Dear Loser: Happy Ever After","pais":["TH"],"anio":2017,"tipo":"Drama","estado":"Finalizado","activo":true,"tieneSinopsis":true,"serie":"SR000763","temporada":3,"temporadas":3},
