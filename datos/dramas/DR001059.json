@@ -18,8 +18,6 @@
     {"personajes":["Sun","Bay"]}
   ],
   "sinopsis": "Sun, un estudiante ejemplar y estrella del equipo de tenis, pertenece a una familia que regenta un restaurante tradicional de dim sum. Bay, un joven artista de espíritu libre, es hijo de los propietarios de un restaurante rival famoso por sus shumai. La enemistad entre sus padres viene de lejos y amenaza con convertirlos también a ellos en adversarios. Cuando Sun propone una tregua para disfrutar de su último semestre escolar, Bay responde retándolo en la pista. Una lesión y una apuesta entre las dos familias complican la rivalidad y obligan a ambos a enfrentarse a lo que sienten realmente.",
-  "multimedia": {
-    "portada": ["https://m.media-amazon.com/images/M/MV5BM2Y5ZDUzYzctMDllNi00OTQyLThkZDctYTQ4MTA4ZDVjZDcyXkFqcGc%40._V1_.jpg"]
-  },
+ 
   "activo": true
 }
