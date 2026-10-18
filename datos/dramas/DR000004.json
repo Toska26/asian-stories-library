@@ -17,7 +17,9 @@
   "generos": ["Comedia", "Romance"],
   "tags": ["BL", "Universidad", "Música", "Recopilatoria"],
   "multimedia": {
-    "portada": ["https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg"],
+    "portada": ["https://images.justwatch.com/poster/246450652/s718/2gether-the-movie.jpg",
+    "https://i.pinimg.com/1200x/e4/d5/54/e4d554a92b2275a4cff13794159637a7.jpg",
+    "https://i.pinimg.com/1200x/d8/b6/44/d8b644fff96e2742d29851c35006d835.jpg"],
     "trailer": ["https://www.youtube.com/watch?v=Ryta9zAkVjU"]
   },
   "personas": [
