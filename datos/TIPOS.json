@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "DR",
+    "nombre": "Drama",
+    "tiene_episodios": true,
+    "permite_temporadas": true
+  },
+  {
+    "codigo": "PEL",
+    "nombre": "Película",
+    "tiene_episodios": false,
+    "permite_temporadas": false
+  },
+  {
+    "codigo": "ESP",
+    "nombre": "Especial / OVA",
+    "tiene_episodios": true,
+    "permite_temporadas": false
+  },
+  {
+    "codigo": "MIN",
+    "nombre": "Miniserie",
+    "tiene_episodios": true,
+    "permite_temporadas": false
+  }
+]
