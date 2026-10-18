@@ -1,6 +1,6 @@
 [
 	{"codigo":"SH000001","nombre":"Kazama & Shoji","personas":["PR000001","PR000002"],"activo":false,"oficial":false},
-	{"codigo":"SH000002","nombre":"BrightWin","personas":["PR000008","PR000009"],"activo":false,"oficial":true},
+	{"codigo":"SH000002","nombre":"BrightWin","personas":["PR000008","PR000009"],"activo":false,"multimedia":{"foto":["https://i.pinimg.com/736x/7c/83/8f/7c838f4e1095db14824f4533915887b5.jpg","https://i.pinimg.com/736x/16/70/05/1670056ea34a73ed786eb01aca41f102.jpg"]},"oficial":true},
 	{"codigo":"SH000003","nombre":"GunMike","personas":["PR000010","PR000011"],"activo":false,"oficial":true},
 	{"codigo":"SH000004","nombre":"FrankDrake","personas":["PR000012","PR000013"],"activo":false,"oficial":true},
 	{"codigo":"SH000005","nombre":"Im & Oh","personas":["PR000023","PR000024"],"activo":false,"oficial":false},
