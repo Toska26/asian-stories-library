@@ -1,4 +1,4 @@
-name: Build Biblioteca y Generar Índice
+name: Build Biblioteca e Índices Cruzados
 
 on:
   push:
@@ -7,12 +7,10 @@ on:
       - 'datos/SHIPS.json'
       - 'datos/PERSONAS.json'
       - 'build-biblioteca.js'
+      - 'build-indices.js'
       - 'indice_dramas_alfabetico.js'
-    branches:
-      - main
   workflow_dispatch:
 
-# Agrupa todas las ejecuciones de la rama main y las pone en cola en lugar de cancelarlas
 concurrency:
   group: pages-and-build-${{ github.ref }}
   cancel-in-progress: false
@@ -35,6 +33,9 @@ jobs:
       - name: Generar biblioteca.js
         run: node build-biblioteca.js
 
+      - name: Generar índices cruzados
+        run: node build-indices.js
+
       - name: Generar índice alfabético en texto plano
         run: node indice_dramas_alfabetico.js
 
@@ -42,5 +43,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add datos/biblioteca.js informacion/indice_dramas_alfabetico.txt
-          git diff --staged --quiet || (git commit -m "chore:  auto-build biblioteca e índice alfabético [skip ci]" && git push)
+          git add datos/biblioteca.js datos/personas_dramas.js datos/ships_dramas.js datos/entidades_dramas.js informacion/indice_dramas_alfabetico.txt
+          git diff --staged --quiet || (git commit -m "chore: auto-build biblioteca e índices cruzados [skip ci]" && git push)
