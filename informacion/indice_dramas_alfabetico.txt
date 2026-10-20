@@ -127,8 +127,6 @@ DR000159	KR	2024	Boys Be Brave!
 DR000998	TH	2025	Boys in Love
 DR000289	PH	2020	Boys' Lockdown
 DR000830	TH	2021	Brothers
-DR000202	KR	2024	Buddy Boy
-DR000203	KR	2026	Buddy Boy: After T2
 DR000149	KR	2023	Bump Up Business
 DR000101	TH	2025	Burnout Syndrome
 DR000168	KR	2025	Business as Usual
@@ -169,7 +167,6 @@ DR000824	TH	2022	Close Friend T2 T2
 DR000868	TH	2022	Coffee Melody
 DR000106	KR	2020	Color Rush
 DR000107	KR	2022	Color Rush 2 T2
-DR000179	KR	2025	Connect
 DR000263	TW	2026	Connecting to You
 DR000723	JP	2026	Contrast
 DR000099	TH	2023	Cooking Crush
@@ -181,7 +178,6 @@ DR000819	TH	2022	Country Boy T2 T2
 DR000229	TW	2020	Craving You
 DR000901	TH	2023	Crazy Handsome Rich
 DR000035	TH	2026	Crazy Love, Moo-Moo!
-DR000180	KR	2026	Cross Link T2
 DR000088	TH	2026	Cupid's Ghost
 DR000086	TH	2022	Cupid's Last Wish
 DR000040	TH	2022	Cutie Pie
@@ -238,7 +234,6 @@ DR000164	KR	2025	FC Soldout
 DR000589	CN	2026	Feel What You Feel
 DR000476	VN	2025	Fight for Love
 DR000257	TW	2025	Fight For You
-DR000122	KR	2022	First Love Again
 DR000248	TW	2024	First Note of Love
 DR000185	KR	2025	First Page
 DR000810	TH	2021	Fish Upon the Sky
@@ -403,7 +398,6 @@ DR000243	TW	2023	Kiseki: Dear to Me
 DR000027	TH	2018	Kiss Me Again
 DR000604	CN	2026	Kiss or Kill
 DR000026	TH	2016	Kiss: The Series
-DR000119	KR	2022	Kissable Lips
 DR000955	TH	2024	Knock Knock, Boys!
 DR001001	TH	2025	Knock Out
 DR001053	TH	2026	KNOT
@@ -454,12 +448,9 @@ DR000137	KR	2026	Love Class 3 T3
 DR001056	TH	2026	Love Destiny
 DR001060	TH	2018	Love Destiny
 DR000154	KR	2024	Love for Love's Sake
-DR000200	KR	2026	Love Hurts
 DR000178	KR	2026	Love in Protocol
-DR000127	KR	2022	Love in Spring
 DR000015	TH	2022	Love in the Air
 DR000696	JP	2024	Love in the Air: Premonition of Love
-DR000161	KR	2024	Love in the Big City
 DR001011	TH	2025	Love in the Moonlight
 DR000912	TH	2023	Love in Translation
 DR000331	PH	2021	Love Is
@@ -728,7 +719,6 @@ DR000347	PH	2021	Rewrite the Stars
 DR000395	PH	2026	Riffs and Runs
 DR000806	TH	2020	Roommate
 DR000405	VN	2017	Roommates
-DR000130	KR	2022	Roommates of Poongduck 304
 DR000770	TH	2018	Roop Thong
 DR000212	KR	2026	Rule 101
 DR000400	PH	2026	Sa Dulo't Dulo: Isinulat Para Magwakas
@@ -769,7 +759,6 @@ DR001006	TH	2025	Shine
 DR000372	PH	2022	Si Andy, Si Lauren, O Si Peng?
 DR000833	TH	2021	Siew Sum Noi
 DR000341	PH	2021	Simply Don't
-DR000199	KR	2026	Sin and Love
 DR000145	KR	2023	Sing My Crush
 DR000481	VN	2025	Situationship in the City
 DR000816	TH	2020	Skinship T1
@@ -894,7 +883,6 @@ DR000791	TH	2020	The Moment I Need You
 DR000792	TH	2020	The Moment Since T2
 DR000455	VN	2021	The Most Peaceful Place Is My Place
 DR000348	PH	2021	The Navor
-DR000135	KR	2022	The New Employee
 DR000043	TH	2025	The Next Prince
 DR000485	VN	2026	The Night Before Blossom
 DR000250	TW	2024	The Nipple Talk
@@ -944,8 +932,6 @@ DR000958	TH	2024	This Love Doesn't Have Long Beans
 DR000426	VN	2019	Thư Viện Ký Ức
 DR000175	KR	2025	Thundercloud Rainstorm
 DR000062	TH	2026	Ticket to Heaven
-DR000182	KR	2025	Tide of Love
-DR000183	KR	2026	Tide of Love 2 T2
 DR000377	PH	2023	Tie the Not
 DR000427	VN	2019	Tiến Bromance
 DR000429	VN	2020	Tiến Bromance: My Small Family T2
