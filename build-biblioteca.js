@@ -1,16 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-// Configuración de rutas a los ficheros
+// Configuración de rutas a los nuevos ficheros JSON
 const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
 const RUTA_SHIPS = path.join(__dirname, 'datos', 'SHIPS.json');
 const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.json');
 const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
-
-// 📂 Rutas para los nuevos índices cruzados optimizados
-const RUTA_INDEX_PERSONAS = path.join(__dirname, 'datos', 'personas_dramas.js');
-const RUTA_INDEX_SHIPS = path.join(__dirname, 'datos', 'ships_dramas.js');
-const RUTA_INDEX_ENTIDADES = path.join(__dirname, 'datos', 'entidades_dramas.js');
 
 /**
  * Carga directa y rápida de archivos JSON globales
@@ -57,7 +52,7 @@ function obtenerPrimerShipResuelto(itemShip, drama) {
 
             const nombresArtisticos = codigosPersonas.map(cod => {
                 const pEncontrada = personasGlobales.find(p => p.codigo === cod);
-                return pEncontrada ? (pEncontrada.nombreArtistico || p.nombre) : null;
+                return pEncontrada ? (pEncontrada.nombreArtistico || pEncontrada.nombre) : null;
             }).filter(Boolean);
 
             if (nombresArtisticos.length >= 2) {
@@ -207,11 +202,6 @@ function construirBiblioteca() {
     const listaCompilada = [];
     let erroresContador = 0;
 
-    // 🌐 Estructuras para los índices cruzados invertidos
-    const indexPersonas = {};
-    const indexShips = {};
-    const indexEntidades = {};
-
     archivos.forEach(archivo => {
         const rutaArchivo = path.join(RUTA_DRAMAS, archivo);
         
@@ -220,50 +210,8 @@ function construirBiblioteca() {
             const dramaObjeto = JSON.parse(contenido);
 
             if (dramaObjeto && dramaObjeto.codigo) {
-                // Solo procesamos activos para la biblioteca y los índices
-                if (dramaObjeto.activo !== false) {
-                    const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
-                    if (elementoBiblio) listaCompilada.push(elementoBiblio);
-
-                    // 🗺️ Alimentar índice invertido de Personas (Actores, Directores, etc.)
-                    if (Array.isArray(dramaObjeto.personas)) {
-                        dramaObjeto.personas.forEach(p => {
-                            const codPersona = typeof p === 'object' ? (p.persona || p.codigo) : p;
-                            if (codPersona) {
-                                if (!indexPersonas[codPersona]) indexPersonas[codPersona] = [];
-                                if (!indexPersonas[codPersona].includes(dramaObjeto.codigo)) {
-                                    indexPersonas[codPersona].push(dramaObjeto.codigo);
-                                }
-                            }
-                        });
-                    }
-
-                    // 🗺️ Alimentar índice invertido de Ships
-                    if (Array.isArray(dramaObjeto.ships)) {
-                        dramaObjeto.ships.forEach(s => {
-                            const codShip = typeof s === 'object' ? (s.ship || s.codigo) : s;
-                            if (codShip) {
-                                if (!indexShips[codShip]) indexShips[codShip] = [];
-                                if (!indexShips[codShip].includes(dramaObjeto.codigo)) {
-                                    indexShips[codShip].push(dramaObjeto.codigo);
-                                }
-                            }
-                        });
-                    }
-
-                    // 🗺️ Alimentar índice invertido de Entidades
-                    if (Array.isArray(dramaObjeto.entidades)) {
-                        dramaObjeto.entidades.forEach(e => {
-                            const codEnt = typeof e === 'object' ? (e.codigo || e.entidad) : e;
-                            if (codEnt) {
-                                if (!indexEntidades[codEnt]) indexEntidades[codEnt] = [];
-                                if (!indexEntidades[codEnt].includes(dramaObjeto.codigo)) {
-                                    indexEntidades[codEnt].push(dramaObjeto.codigo);
-                                }
-                            }
-                        });
-                    }
-                }
+                const elementoBiblio = compilarDramaParaBiblioteca(dramaObjeto);
+                if (elementoBiblio) listaCompilada.push(elementoBiblio);
             } else {
                 console.warn(`⚠️ Objeto no válido o sin código en: ${archivo}`);
             }
@@ -275,18 +223,13 @@ function construirBiblioteca() {
 
     listaCompilada.sort((a, b) => a.titulo.localeCompare(b.titulo, 'es', { sensitivity: 'base' }));
 
-    // 1. Guardar biblioteca.js principal
+    // Formateamos cada drama en una sola línea tabulada
     const lineasDramas = listaCompilada.map(drama => `\t${JSON.stringify(drama)}`).join(',\n');
     const contenidoOutput = `const biblioteca = [\n${lineasDramas}\n];\n`;
+    
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
-    // 2. Guardar los nuevos ficheros de índices cruzados optimizados
-    fs.writeFileSync(RUTA_INDEX_PERSONAS, `window.INDEX_PERSONAS = ${JSON.stringify(indexPersonas, null, 2)};`, 'utf8');
-    fs.writeFileSync(RUTA_INDEX_SHIPS, `window.INDEX_SHIPS = ${JSON.stringify(indexShips, null, 2)};`, 'utf8');
-    fs.writeFileSync(RUTA_INDEX_ENTIDADES, `window.INDEX_ENTIDADES = ${JSON.stringify(indexEntidades, null, 2)};`, 'utf8');
-
     console.log(`\n✅ Proceso finalizado: ${listaCompilada.length} drama(s) procesados.`);
-    console.log(`⚡ Índices cruzados generados: personas_dramas.js, ships_dramas.js, entidades_dramas.js`);
     if (erroresContador > 0) {
         console.log(`⚠️ Se omitieron ${erroresContador} archivo(s) por errores de sintaxis.`);
     }
