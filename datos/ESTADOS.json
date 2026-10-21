@@ -33,5 +33,19 @@
 "icono": "📜",
 "imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-antiguo.png",
 "clase": "estado-antiguo"
+},
+{
+"codigo": "cancelado",
+"nombre": "Cancelado",
+"icono": "🚫",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-cancelado.png",
+"clase": "estado-cancelado"
+},
+{
+"codigo": "proximamente",
+"nombre": "Próximamente",
+"icono": "⏳",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-proximamente.png",
+"clase": "estado-proximamente"
 }
 ]
