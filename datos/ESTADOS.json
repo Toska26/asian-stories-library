@@ -1,0 +1,37 @@
+[
+{
+"codigo": "anunciado",
+"nombre": "Anunciado",
+"icono": "📢",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-anunciado.png",
+"clase": "estado-anunciado"
+},
+{
+"codigo": "proximo",
+"nombre": "Próximo estreno",
+"icono": "🗓️",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-proximo.png",
+"clase": "estado-proximo"
+},
+{
+"codigo": "emision",
+"nombre": "En emisión",
+"icono": "📺",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-emision.png",
+"clase": "estado-emision"
+},
+{
+"codigo": "finalizado",
+"nombre": "Finalizado",
+"icono": "🎬",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-finalizado.png",
+"clase": "estado-finalizado"
+},
+{
+"codigo": "antiguo",
+"nombre": "Antiguo",
+"icono": "📜",
+"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-antiguo.png",
+"clase": "estado-antiguo"
+}
+]
