@@ -36,7 +36,7 @@
     "permite_temporadas": true
   },
   {
-    "codigo": "WEB",
+    "codigo": "WDR",
     "nombre": "Webdrama",
     "tiene_episodios": true,
     "permite_temporadas": false
