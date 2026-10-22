@@ -2,36 +2,43 @@
   {
     "id": "finalizado",
     "nombre": "Finalizado",
+    "abrev": "FI",
     "clase": "estado-finalizado"
   },
   {
     "id": "en_emision",
     "nombre": "En emisión",
+    "abrev": "EM",
     "clase": "estado-emision"
   },
   {
     "id": "proximo",
     "nombre": "Próximo estreno",
+    "abrev": "PE",
     "clase": "estado-proximo"
   },
   {
     "id": "proximamente",
     "nombre": "Próximamente",
+    "abrev": "PR",
     "clase": "estado-proximamente"
   },
   {
     "id": "anunciado",
     "nombre": "Anunciado",
+    "abrev": "AN",
     "clase": "estado-anunciado"
   },
   {
     "id": "cancelado",
     "nombre": "Cancelado",
+    "abrev": "CA",
     "clase": "estado-cancelado"
   },
   {
     "id": "antiguo",
     "nombre": "Antiguo",
+    "abrev": "AT",
     "clase": "estado-antiguo"
   }
 ]
