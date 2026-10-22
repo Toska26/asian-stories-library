@@ -1,51 +1,37 @@
 [
-{
-"codigo": "anunciado",
-"nombre": "Anunciado",
-"icono": "📢",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-anunciado.png",
-"clase": "estado-anunciado"
-},
-{
-"codigo": "proximo",
-"nombre": "Próximo estreno",
-"icono": "🗓️",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-proximo.png",
-"clase": "estado-proximo"
-},
-{
-"codigo": "emision",
-"nombre": "En emisión",
-"icono": "📺",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-emision.png",
-"clase": "estado-emision"
-},
-{
-"codigo": "finalizado",
-"nombre": "Finalizado",
-"icono": "🎬",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-finalizado.png",
-"clase": "estado-finalizado"
-},
-{
-"codigo": "antiguo",
-"nombre": "Antiguo",
-"icono": "📜",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-antiguo.png",
-"clase": "estado-antiguo"
-},
-{
-"codigo": "cancelado",
-"nombre": "Cancelado",
-"icono": "🚫",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-cancelado.png",
-"clase": "estado-cancelado"
-},
-{
-"codigo": "proximamente",
-"nombre": "Próximamente",
-"icono": "⏳",
-"imagen": "https://blogger.googleusercontent.com/img/b/R21fa2lk/estado-proximamente.png",
-"clase": "estado-proximamente"
-}
+  {
+    "id": "finalizado",
+    "nombre": "Finalizado",
+    "clase": "estado-finalizado"
+  },
+  {
+    "id": "en_emision",
+    "nombre": "En emisión",
+    "clase": "estado-emision"
+  },
+  {
+    "id": "proximo",
+    "nombre": "Próximo estreno",
+    "clase": "estado-proximo"
+  },
+  {
+    "id": "proximamente",
+    "nombre": "Próximamente",
+    "clase": "estado-proximamente"
+  },
+  {
+    "id": "anunciado",
+    "nombre": "Anunciado",
+    "clase": "estado-anunciado"
+  },
+  {
+    "id": "cancelado",
+    "nombre": "Cancelado",
+    "clase": "estado-cancelado"
+  },
+  {
+    "id": "antiguo",
+    "nombre": "Antiguo",
+    "clase": "estado-antiguo"
+  }
 ]
