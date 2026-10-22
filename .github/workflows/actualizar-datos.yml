@@ -1,28 +1,27 @@
 name: Actualizar y Normalizar Datos JSON
 
-# Esto permite que puedas ejecutarlo manualmente desde la pestaña "Actions" en GitHub
 on:
   workflow_dispatch:
+
+# Añadimos estos permisos explícitos para que el bot pueda escribir en el repo
+permissions:
+  contents: write
 
 jobs:
   actualizar:
     runs-on: ubuntu-latest
     steps:
-      # 1. Descarga el código de tu repositorio
       - name: Clonar repositorio
         uses: actions/checkout@v4
 
-      # 2. Configurar Node.js en el entorno de ejecución
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 3. Ejecutar el script de Node.js que hace la magia
       - name: Ejecutar script de actualización masiva
         run: node scripts/normalizar-datos.js
 
-      # 4. Guardar y hacer commit de los cambios automáticamente en tu repositorio
       - name: Commit y Push de los cambios
         run: |
           git config --global user.name "GitHub Actions Bot"
