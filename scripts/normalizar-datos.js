@@ -1,23 +1,20 @@
 const fs = require('fs');
-const path = path = require('path');
+const path = require('path');
 
 // Ruta donde se encuentran tus ficheros individuales de dramas
 const directorioDramas = path.join(__dirname, '../datos/dramas');
 
 function ejecutarNormalizacionMasiva() {
     try {
-        // 1. Verificar si la carpeta existe
         if (!fs.existsSync(directorioDramas)) {
             console.log(`No se encontró el directorio: ${directorioDramas}`);
             return;
         }
 
-        // 2. Leer todos los archivos del directorio
         const archivos = fs.readdirSync(directorioDramas);
         let archivosModificadosCount = 0;
 
         archivos.forEach(archivo => {
-            // Nos aseguramos de procesar solo ficheros JSON (ej. DR000001.json)
             if (archivo.endsWith('.json')) {
                 const rutaArchivo = path.join(directorioDramas, archivo);
                 const contenidoRaw = fs.readFileSync(rutaArchivo, 'utf8');
@@ -26,9 +23,7 @@ function ejecutarNormalizacionMasiva() {
                     let drama = JSON.parse(contenidoRaw);
                     let huboCambios = false;
 
-                    // --- REGLAS DE CAMBIO / NORMALIZACIÓN ---
-
-                    // 1. Normalizar estados (ej. "Finalizado" a "finalizado")
+                    // --- 1. NORMALIZACIÓN DE ESTADOS ---
                     if (drama.estado) {
                         const mapEstados = {
                             "Finalizado": "finalizado",
@@ -45,26 +40,32 @@ function ejecutarNormalizacionMasiva() {
                         }
                     }
 
-                    // 2. Ejemplo de cambio masivo de tipo (si aplica)
-                   if (drama.tipo) {
+                    // --- 2. NORMALIZACIÓN DE TIPOS ---
+                    if (drama.tipo) {
                         const mapTipos = {
                             "Drama": "DR",
-                            "Serie": "DR",
+                            "Serie": "SER",
                             "Película": "PEL",
                             "pelicula": "PEL",
                             "Especial": "ESP",
                             "Especial / OVA": "ESP",
                             "Miniserie": "MIN",
                             "Antología": "ANT",
-                            "Webdrama": "WDR",
-                            "Webserie": "WDR",
+                            "Webdrama": "WEB",
+                            "Webserie": "WSR",
                             "Cortometraje": "COR"
                         };
-                        
                         if (mapTipos[drama.tipo]) {
                             drama.tipo = mapTipos[drama.tipo];
                             huboCambios = true;
                         }
+                    }
+
+                    // --- GUARDAR SI HUBO MODIFICACIONES ---
+                    if (huboCambios) {
+                        fs.writeFileSync(rutaArchivo, JSON.stringify(drama, null, 2), 'utf8');
+                        console.log(`Actualizado: ${archivo}`);
+                        archivosModificadosCount++;
                     }
 
                 } catch (parseError) {
