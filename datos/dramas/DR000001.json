@@ -11,7 +11,7 @@
   "temporada": 1,
   "episodios": 12,
   "duracion": 30,
-  "estado": "Finalizado",
+  "estado": "finalizado",
   "estreno": "2025-07-04",
   "finalizacion": "2025-09-19",
   "generos": ["Drama", "Romance"],
