@@ -46,16 +46,25 @@ function ejecutarNormalizacionMasiva() {
                     }
 
                     // 2. Ejemplo de cambio masivo de tipo (si aplica)
-                    if (drama.tipo === "Drama") {
-                        drama.tipo = "DR";
-                        huboCambios = true;
-                    }
-
-                    // --- GUARDAR SI HUBO MODIFICACIONES ---
-                    if (huboCambios) {
-                        fs.writeFileSync(rutaArchivo, JSON.stringify(drama, null, 2), 'utf8');
-                        console.log(`Actualizado: ${archivo}`);
-                        archivosModificadosCount++;
+                   if (drama.tipo) {
+                        const mapTipos = {
+                            "Drama": "DR",
+                            "Serie": "DR",
+                            "Película": "PEL",
+                            "pelicula": "PEL",
+                            "Especial": "ESP",
+                            "Especial / OVA": "ESP",
+                            "Miniserie": "MIN",
+                            "Antología": "ANT",
+                            "Webdrama": "WDR",
+                            "Webserie": "WDR",
+                            "Cortometraje": "COR"
+                        };
+                        
+                        if (mapTipos[drama.tipo]) {
+                            drama.tipo = mapTipos[drama.tipo];
+                            huboCambios = true;
+                        }
                     }
 
                 } catch (parseError) {
