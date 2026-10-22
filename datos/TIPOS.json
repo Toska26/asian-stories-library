@@ -6,6 +6,12 @@
     "permite_temporadas": true
   },
   {
+    "codigo": "SER",
+    "nombre": "Serie",
+    "tiene_episodios": true,
+    "permite_temporadas": true
+  },
+  {
     "codigo": "PEL",
     "nombre": "Película",
     "tiene_episodios": false,
@@ -13,7 +19,7 @@
   },
   {
     "codigo": "ESP",
-    "nombre": "Especial / OVA",
+    "nombre": "Especial",
     "tiene_episodios": true,
     "permite_temporadas": false
   },
@@ -21,6 +27,30 @@
     "codigo": "MIN",
     "nombre": "Miniserie",
     "tiene_episodios": true,
+    "permite_temporadas": false
+  },
+  {
+    "codigo": "ANT",
+    "nombre": "Antología",
+    "tiene_episodios": true,
+    "permite_temporadas": true
+  },
+  {
+    "codigo": "WEB",
+    "nombre": "Webdrama",
+    "tiene_episodios": true,
+    "permite_temporadas": false
+  },
+  {
+    "codigo": "WSR",
+    "nombre": "Webserie",
+    "tiene_episodios": true,
+    "permite_temporadas": true
+  },
+  {
+    "codigo": "COR",
+    "nombre": "Cortometraje",
+    "tiene_episodios": false,
     "permite_temporadas": false
   }
 ]
