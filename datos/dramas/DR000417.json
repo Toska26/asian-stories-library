@@ -1,29 +1,29 @@
 {
-    "codigo": "DR000417",
-    "titulo": "Bao Lô",
-    "pais": [
-        "VN"
-    ],
-    "anio": 2019,
-    "tipo": "Webdrama",
-    "temporadas": 1,
-    "temporada": 1,
-    "estado": "Finalizado",
-    "estreno": "2019-01-10",
-    "generos": [
-        "Comedia",
-        "Drama"
-    ],
-    "tags": [
-        "Lotería",
-        "Apuestas",
-        "Crimen"
-    ],
-    "sinopsis": "Una historia ambientada alrededor de personajes relacionados con la lotería y las apuestas, en la que las circunstancias y decisiones de los protagonistas generan situaciones de humor y conflicto.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://phunuvietnam.mediacdn.vn/media/news/a6dad32cf405c5d7c243bc2fcaf5efcd/phim3.jpg"
-        ]
-    }
+  "codigo": "DR000417",
+  "titulo": "Bao Lô",
+  "pais": [
+    "VN"
+  ],
+  "anio": 2019,
+  "tipo": "WEB",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2019-01-10",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Lotería",
+    "Apuestas",
+    "Crimen"
+  ],
+  "sinopsis": "Una historia ambientada alrededor de personajes relacionados con la lotería y las apuestas, en la que las circunstancias y decisiones de los protagonistas generan situaciones de humor y conflicto.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://phunuvietnam.mediacdn.vn/media/news/a6dad32cf405c5d7c243bc2fcaf5efcd/phim3.jpg"
+    ]
+  }
 }

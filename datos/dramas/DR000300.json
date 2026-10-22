@@ -1,26 +1,26 @@
 {
-    "codigo": "DR000300",
-    "titulo": "Ang Pokpok ng Pandemya",
-    "pais": [
-        "PH"
-    ],
-    "anio": 2020,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "estado": "Finalizado",
-    "estreno": "2020",
-    "generos": [
-        "BL"
-    ],
-    "tags": [
-        "BL"
-    ],
-    "sinopsis": "",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.mydramalist.com/xBxeq_4f.jpg"
-        ]
-    }
+  "codigo": "DR000300",
+  "titulo": "Ang Pokpok ng Pandemya",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2020",
+  "generos": [
+    "BL"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "sinopsis": "",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/xBxeq_4f.jpg"
+    ]
+  }
 }

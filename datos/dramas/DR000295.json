@@ -1,32 +1,32 @@
 {
-    "codigo": "DR000295",
-    "titulo": "Oh, Mando!",
-    "pais": [
-        "PH"
-    ],
-    "anio": 2020,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 6,
-    "duracion": 30,
-    "estado": "Finalizado",
-    "estreno": "2020-11-05",
-    "finalizacion": "2020-12-10",
-    "generos": [
-        "BL",
-        "Romance",
-        "Comedia",
-        "Drama"
-    ],
-    "tags": [
-        "BL"
-    ],
-    "sinopsis": "Mando, un estudiante universitario que mantiene una relación con su novia Krisha, desarrolla sentimientos por Barry, su amor platónico y hermano de Krisha.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/1200x/35/64/fb/3564fb072070b0588f9028e29bade977.jpg"
-        ]
-    }
+  "codigo": "DR000295",
+  "titulo": "Oh, Mando!",
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2020-11-05",
+  "finalizacion": "2020-12-10",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "sinopsis": "Mando, un estudiante universitario que mantiene una relación con su novia Krisha, desarrolla sentimientos por Barry, su amor platónico y hermano de Krisha.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/35/64/fb/3564fb072070b0588f9028e29bade977.jpg"
+    ]
+  }
 }

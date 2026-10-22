@@ -1,89 +1,89 @@
 {
-    "codigo": "DR000203",
-    "titulo": "Buddy Boy: After",
-    "tituloOriginal": "버디보이 애프터",
-    "alias": [
-        "Buddy Boy: After",
-        "Buddy Boy Season 2",
-        "Buddy Boy 2",
-        "Beodi Boi Aeteo"
-    ],
-    "tipo": "Drama",
-    "anio": 2026,
-    "pais": [
-        "KR"
-    ],
-    "idioma": "ko",
-    "franquicia": "",
-    "universo": "",
-    "serie": "SR000202",
-    "temporadas": 2,
-    "temporada": 2,
-    "episodios": 77,
-    "duracion": "2 min",
-    "estado": "Finalizado",
-    "estreno": "2026-07-03",
-    "finalizacion": "2026-07-03",
-    "generos": [
-        "Romance",
-        "Drama",
-        "Melodrama"
-    ],
-    "tags": [
-        "BL",
-        "Segunda oportunidad",
-        "Reencuentro",
-        "Ruptura",
-        "Dos años después",
-        "Primer amor",
-        "Relación pasada",
-        "Dolor emocional",
-        "Reconciliación",
-        "Vida adulta",
-        "Sanación"
-    ],
-    "personas": [
-        {
-            "nombre": "Yu Ho",
-            "persona": "PR000719",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Jin Gu",
-            "persona": "PR000720",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        }
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Yu Ho",
-                "Jin Gu"
-            ]
-        }
-    ],
-    "sinopsis": "Después de su ruptura, Yu Ho y Jin Gu intentan continuar con sus vidas por separado mientras afrontan el dolor de haber perdido su relación. Dos años después, cuando ambos empiezan a recuperar cierta estabilidad, el destino vuelve a cruzar sus caminos. El reencuentro despierta sentimientos que nunca llegaron a desaparecer y obliga a los dos a enfrentarse a aquello que quedó pendiente entre ellos.",
-    "multimedia": {
-        "teaser": [
-            "https://www.youtube.com/watch?v=S5CKFhtRRQQ"
-        ],
-        "portada": [
-            "https://i.pinimg.com/736x/71/44/6e/71446e2b3c424a967ef08ae33de10ccf.jpg"
-        ]
+  "codigo": "DR000203",
+  "titulo": "Buddy Boy: After",
+  "tituloOriginal": "버디보이 애프터",
+  "alias": [
+    "Buddy Boy: After",
+    "Buddy Boy Season 2",
+    "Buddy Boy 2",
+    "Beodi Boi Aeteo"
+  ],
+  "tipo": "DR",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "SR000202",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 77,
+  "duracion": "2 min",
+  "estado": "finalizado",
+  "estreno": "2026-07-03",
+  "finalizacion": "2026-07-03",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "BL",
+    "Segunda oportunidad",
+    "Reencuentro",
+    "Ruptura",
+    "Dos años después",
+    "Primer amor",
+    "Relación pasada",
+    "Dolor emocional",
+    "Reconciliación",
+    "Vida adulta",
+    "Sanación"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Ho",
+      "persona": "PR000719",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     },
-    "entidades": [
-        {
-            "codigo": "EN000141",
-            "funcion": [
-                "Plataforma"
-            ]
-        }
+    {
+      "nombre": "Jin Gu",
+      "persona": "PR000720",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Ho",
+        "Jin Gu"
+      ]
+    }
+  ],
+  "sinopsis": "Después de su ruptura, Yu Ho y Jin Gu intentan continuar con sus vidas por separado mientras afrontan el dolor de haber perdido su relación. Dos años después, cuando ambos empiezan a recuperar cierta estabilidad, el destino vuelve a cruzar sus caminos. El reencuentro despierta sentimientos que nunca llegaron a desaparecer y obliga a los dos a enfrentarse a aquello que quedó pendiente entre ellos.",
+  "multimedia": {
+    "teaser": [
+      "https://www.youtube.com/watch?v=S5CKFhtRRQQ"
     ],
-    "activo": true
+    "portada": [
+      "https://i.pinimg.com/736x/71/44/6e/71446e2b3c424a967ef08ae33de10ccf.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000141",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
 }

@@ -1,104 +1,104 @@
 {
-    "codigo": "DR000159",
-    "titulo": "Boys Be Brave!",
-    "tituloOriginal": "고백을 못하고",
-    "alias": [
-        "Boys Be Brave!",
-        "Go Baek Eul Mot Hago"
-    ],
-    "tipo": "Drama",
-    "anio": 2024,
-    "pais": [
-        "KR"
-    ],
-    "idioma": "ko",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 8,
-    "duracion": "28 min",
-    "estado": "Finalizado",
-    "estreno": "2024-04-25",
-    "finalizacion": "2024-05-16",
-    "generos": [
-        "Drama",
-        "Romance",
-        "Comedia",
-        "Juventud"
-    ],
-    "tags": [
-        "BL",
-        "Amigos a amantes",
-        "Amor secreto",
-        "Convivencia",
-        "Compañeros de piso",
-        "Primer amor",
-        "Triángulo amoroso",
-        "Webtoon"
-    ],
-    "personas": [
-        {
-            "nombre": "Kim Jin-woo",
-            "persona": "PR000671",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Jung Ki-sub",
-            "persona": "PR000672",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        }
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Kim Jin-woo",
-                "Jung Ki-sub"
-            ]
-        }
-    ],
-    "sinopsis": "Kim Jin Woo está enamorado en secreto de su amigo Jung Ki Sub, pero nunca ha conseguido confesar sus sentimientos. Todo se complica cuando Ki Sub necesita un lugar donde quedarse y termina viviendo con él. La convivencia hace que sus sentimientos sean cada vez más difíciles de ocultar, mientras antiguos amores y malentendidos amenazan con alterar la relación entre ambos.",
-    "multimedia": {
-        "trailer": [
-            "https://www.youtube.com/watch?v=ZqbLf2Kz5fo"
-        ],
-        "portada": [
-            "https://i.pinimg.com/736x/1d/c3/51/1dc351a47cfd8ab578dc1d01e5d2e6fa.jpg",
-            "https://i.pinimg.com/1200x/bc/1b/0d/bc1b0dd0944d006cf7c1f2a25299d1bb.jpg"
-        ]
+  "codigo": "DR000159",
+  "titulo": "Boys Be Brave!",
+  "tituloOriginal": "고백을 못하고",
+  "alias": [
+    "Boys Be Brave!",
+    "Go Baek Eul Mot Hago"
+  ],
+  "tipo": "DR",
+  "anio": 2024,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "28 min",
+  "estado": "finalizado",
+  "estreno": "2024-04-25",
+  "finalizacion": "2024-05-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Amigos a amantes",
+    "Amor secreto",
+    "Convivencia",
+    "Compañeros de piso",
+    "Primer amor",
+    "Triángulo amoroso",
+    "Webtoon"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Jin-woo",
+      "persona": "PR000671",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     },
-    "entidades": [
-        {
-            "codigo": "EN000122",
-            "funcion": [
-                "Productora"
-            ]
-        },
-        {
-            "codigo": "EN000123",
-            "funcion": [
-                "Productora"
-            ]
-        },
-        {
-            "codigo": "EN000110",
-            "funcion": [
-                "Plataforma"
-            ]
-        },
-        {
-            "codigo": "EN000028",
-            "funcion": [
-                "Plataforma"
-            ]
-        }
+    {
+      "nombre": "Jung Ki-sub",
+      "persona": "PR000672",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Jin-woo",
+        "Jung Ki-sub"
+      ]
+    }
+  ],
+  "sinopsis": "Kim Jin Woo está enamorado en secreto de su amigo Jung Ki Sub, pero nunca ha conseguido confesar sus sentimientos. Todo se complica cuando Ki Sub necesita un lugar donde quedarse y termina viviendo con él. La convivencia hace que sus sentimientos sean cada vez más difíciles de ocultar, mientras antiguos amores y malentendidos amenazan con alterar la relación entre ambos.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=ZqbLf2Kz5fo"
     ],
-    "activo": true
+    "portada": [
+      "https://i.pinimg.com/736x/1d/c3/51/1dc351a47cfd8ab578dc1d01e5d2e6fa.jpg",
+      "https://i.pinimg.com/1200x/bc/1b/0d/bc1b0dd0944d006cf7c1f2a25299d1bb.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000122",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000123",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000110",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
 }

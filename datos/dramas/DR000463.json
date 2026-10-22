@@ -1,46 +1,46 @@
 {
-    "codigo": "DR000463",
-    "titulo": "Love Bill",
-    "alias": [
-        "Lời Hứa Mùa Hạ"
-    ],
-    "pais": [
-        "VN"
-    ],
-    "anio": 2022,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 10,
-    "duracion": 40,
-    "estado": "Finalizado",
-    "estreno": "2022-10-29",
-    "finalizacion": "2023-01-10",
-    "generos": [
-        "Drama",
-        "Romance",
-        "BL"
-    ],
-    "tags": [
-        "BL",
-        "LGBTQ+",
-        "Cohabitación",
-        "Age Gap",
-        "YouTube"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Nghĩa",
-                "Thiên"
-            ]
-        }
-    ],
-    "sinopsis": "Nghĩa, un joven heredero expulsado de su casa, viaja para reclamar una deuda familiar. Al descubrir que el deudor ha fallecido, termina viviendo con Thiên, su hijo, y la convivencia forzada transforma poco a poco su enfrentamiento inicial en una relación afectiva.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://static.wixstatic.com/media/3917c7_ced310ca243542a59a3849ca4442c725~mv2.jpeg/v1/fill/w_640%2Ch_640%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3917c7_ced310ca243542a59a3849ca4442c725~mv2.jpeg"
-        ]
+  "codigo": "DR000463",
+  "titulo": "Love Bill",
+  "alias": [
+    "Lời Hứa Mùa Hạ"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "anio": 2022,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2022-10-29",
+  "finalizacion": "2023-01-10",
+  "generos": [
+    "Drama",
+    "Romance",
+    "BL"
+  ],
+  "tags": [
+    "BL",
+    "LGBTQ+",
+    "Cohabitación",
+    "Age Gap",
+    "YouTube"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nghĩa",
+        "Thiên"
+      ]
     }
+  ],
+  "sinopsis": "Nghĩa, un joven heredero expulsado de su casa, viaja para reclamar una deuda familiar. Al descubrir que el deudor ha fallecido, termina viviendo con Thiên, su hijo, y la convivencia forzada transforma poco a poco su enfrentamiento inicial en una relación afectiva.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://static.wixstatic.com/media/3917c7_ced310ca243542a59a3849ca4442c725~mv2.jpeg/v1/fill/w_640%2Ch_640%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3917c7_ced310ca243542a59a3849ca4442c725~mv2.jpeg"
+    ]
+  }
 }

@@ -1,52 +1,52 @@
 {
-    "codigo": "DR000664",
-    "titulo": "Jack o' Frost",
-    "tituloOriginal": "ジャックフロスト",
-    "alias": [
-        "Jack Frost"
-    ],
-    "pais": [
-        "JP"
-    ],
-    "anio": 2023,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 6,
-    "duracion": 24,
-    "estado": "Finalizado",
-    "estreno": "2023-02-17",
-    "finalizacion": "2023-03-31",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Misterio"
-    ],
-    "tags": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Amnesia",
-        "Pérdida de memoria",
-        "Exparejas",
-        "Convivencia",
-        "Reencuentro",
-        "Recuperación de recuerdos"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Okusawa Ritsu",
-                "Ikegami Fumiya"
-            ]
-        }
-    ],
-    "sinopsis": "Okusawa Ritsu sufre un accidente y pierde los recuerdos relacionados con su relación con Ikegami Fumiya. Fumiya, que todavía vive con él, decide ayudarlo a reconstruir su pasado juntos. Mientras Ritsu intenta recuperar sus recuerdos, ambos vuelven a acercarse y descubren que sus sentimientos siguen presentes.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/03/Fnus7DAaIAE5Hgw.jpg?fit=3072%2C2304&ssl=1"
-        ]
+  "codigo": "DR000664",
+  "titulo": "Jack o' Frost",
+  "tituloOriginal": "ジャックフロスト",
+  "alias": [
+    "Jack Frost"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "anio": 2023,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 24,
+  "estado": "finalizado",
+  "estreno": "2023-02-17",
+  "finalizacion": "2023-03-31",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Amnesia",
+    "Pérdida de memoria",
+    "Exparejas",
+    "Convivencia",
+    "Reencuentro",
+    "Recuperación de recuerdos"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Okusawa Ritsu",
+        "Ikegami Fumiya"
+      ]
     }
+  ],
+  "sinopsis": "Okusawa Ritsu sufre un accidente y pierde los recuerdos relacionados con su relación con Ikegami Fumiya. Fumiya, que todavía vive con él, decide ayudarlo a reconstruir su pasado juntos. Mientras Ritsu intenta recuperar sus recuerdos, ambos vuelven a acercarse y descubren que sus sentimientos siguen presentes.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/03/Fnus7DAaIAE5Hgw.jpg?fit=3072%2C2304&ssl=1"
+    ]
+  }
 }

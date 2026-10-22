@@ -1,57 +1,57 @@
 {
-    "codigo": "DR000246",
-    "titulo": "Unknown",
-    "tituloOriginal": "不可抗力",
-    "alias": [
-        "Unknown: The Series"
-    ],
-    "tipo": "Drama",
-    "anio": 2024,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 12,
-    "duracion": "25-37 min",
-    "estado": "Finalizado",
-    "estreno": "2024-02-24",
-    "finalizacion": "2024-04-20",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Familia"
-    ],
-    "tags": [
-        "BL",
-        "Familia",
-        "Hermanos",
-        "Amigos de infancia",
-        "Reencuentro",
-        "Amor prohibido",
-        "Diferencia de edad"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Qiu Shi Ran",
-                "Wei Qian"
-            ]
-        }
-    ],
-    "sinopsis": "Wei Qian queda huérfano y asume la responsabilidad de cuidar de su hermana y de su hermano adoptivo Wei Zhi Yuan. Años después, la relación entre los dos hombres se transforma en sentimientos románticos mientras deben enfrentarse a los conflictos familiares y a las consecuencias de su pasado.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/736x/bb/0c/72/bb0c72af5ec007d9eb34714bc1f7d948.jpg",
-            "https://i.pinimg.com/1200x/12/60/cb/1260cbcb0867a079b09d5d56af983970.jpg",
-            "https://i.pinimg.com/1200x/16/8d/bc/168dbc4d11cafcaab2c2b6aa95444d2c.jpg",
-            "https://i.pinimg.com/1200x/25/73/48/25734859d08e7edb40e7f625f5ff6fcf.jpg"
-        ]
+  "codigo": "DR000246",
+  "titulo": "Unknown",
+  "tituloOriginal": "不可抗力",
+  "alias": [
+    "Unknown: The Series"
+  ],
+  "tipo": "DR",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "25-37 min",
+  "estado": "finalizado",
+  "estreno": "2024-02-24",
+  "finalizacion": "2024-04-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Familia",
+    "Hermanos",
+    "Amigos de infancia",
+    "Reencuentro",
+    "Amor prohibido",
+    "Diferencia de edad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qiu Shi Ran",
+        "Wei Qian"
+      ]
     }
+  ],
+  "sinopsis": "Wei Qian queda huérfano y asume la responsabilidad de cuidar de su hermana y de su hermano adoptivo Wei Zhi Yuan. Años después, la relación entre los dos hombres se transforma en sentimientos románticos mientras deben enfrentarse a los conflictos familiares y a las consecuencias de su pasado.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/bb/0c/72/bb0c72af5ec007d9eb34714bc1f7d948.jpg",
+      "https://i.pinimg.com/1200x/12/60/cb/1260cbcb0867a079b09d5d56af983970.jpg",
+      "https://i.pinimg.com/1200x/16/8d/bc/168dbc4d11cafcaab2c2b6aa95444d2c.jpg",
+      "https://i.pinimg.com/1200x/25/73/48/25734859d08e7edb40e7f625f5ff6fcf.jpg"
+    ]
+  }
 }

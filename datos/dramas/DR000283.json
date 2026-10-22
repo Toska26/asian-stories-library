@@ -1,41 +1,41 @@
 {
-    "codigo": "DR000283",
-    "titulo": "Even After",
-    "alias": [
-        "Even After The Series"
-    ],
-    "pais": [
-        "PH"
-    ],
-    "anio": 2020,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 10,
-    "duracion": 8,
-    "estado": "Finalizado",
-    "estreno": "2020-07-25",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama"
-    ],
-    "tags": [
-        "BL"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Zig",
-                "Zag"
-            ]
-        }
-    ],
-    "sinopsis": "Durante la cuarentena, Zig y Zag se conocen a través de las redes sociales y desarrollan una relación mientras intentan afrontar el aislamiento y sus propias circunstancias.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://image.tmdb.org/t/p/original/CaUCjv6O0Guo4a4SF4eC9g5mXf.jpg"
-        ]
+  "codigo": "DR000283",
+  "titulo": "Even After",
+  "alias": [
+    "Even After The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "anio": 2020,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 8,
+  "estado": "finalizado",
+  "estreno": "2020-07-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zig",
+        "Zag"
+      ]
     }
+  ],
+  "sinopsis": "Durante la cuarentena, Zig y Zag se conocen a través de las redes sociales y desarrollan una relación mientras intentan afrontar el aislamiento y sus propias circunstancias.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/CaUCjv6O0Guo4a4SF4eC9g5mXf.jpg"
+    ]
+  }
 }

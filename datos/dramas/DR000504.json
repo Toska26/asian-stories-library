@@ -2,21 +2,35 @@
   "codigo": "DR000504",
   "titulo": "Love Algorithm",
   "tituloOriginal": "恋爱演算法",
-  "alias": ["Love Algorithm The Series"],
-  "pais": ["MY"],
+  "alias": [
+    "Love Algorithm The Series"
+  ],
+  "pais": [
+    "MY"
+  ],
   "anio": 2026,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 10,
   "duracion": 10,
-  "estado": "Finalizado",
+  "estado": "finalizado",
   "estreno": "2026-07-15",
   "finalizacion": "2026-09-16",
-  "generos": ["BL", "Romance"],
-  "tags": ["BL"],
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
   "ships": [
-    {"personajes":["Cole","Phil"]}
+    {
+      "personajes": [
+        "Cole",
+        "Phil"
+      ]
+    }
   ],
   "sinopsis": "Cole, guionista de un reality de citas, se reencuentra con Phil, su antiguo mejor amigo del instituto y ahora cantante viral, cuando debe incorporarlo al programa. Un antiguo malentendido amoroso les hizo creer que ambos estaban enamorados de la misma chica, pero al reencontrarse descubren que los sentimientos que habían reprimido estaban dirigidos el uno hacia el otro.",
   "activo": true

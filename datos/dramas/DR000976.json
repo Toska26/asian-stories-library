@@ -1,50 +1,50 @@
 {
-    "codigo": "DR000976",
-    "titulo": "Memory in the Letter",
-    "tituloOriginal": "ทรงจำในอักษร",
-    "alias": [
-        "Memory in the Letter",
-        "Memories in Letters"
-    ],
-    "pais": [
-        "TH"
-    ],
-    "anio": 2024,
-    "tipo": "Drama",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 6,
-    "duracion": 33,
-    "estado": "Finalizado",
-    "estreno": "2024-04-06",
-    "finalizacion": "2024-05-11",
-    "generos": [
-        "BL",
-        "Drama",
-        "Romance",
-        "Fantasía",
-        "Ciencia ficción"
-    ],
-    "tags": [
-        "Universos paralelos",
-        "Espejos",
-        "Viaje entre mundos",
-        "Escritores",
-        "Misterio"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Aksorn",
-                "Songjam"
-            ]
-        }
-    ],
-    "sinopsis": "Después de enfrentarse con su padre, Aksorn se muda a una nueva habitación donde descubre que el espejo permite ver a un joven llamado Songjam que vive en un universo paralelo. Cuando Aksorn encuentra una novela publicada en internet que describe exactamente los acontecimientos que está viviendo, comienza a investigar quién está escribiendo la historia y cómo puede llegar hasta Songjam.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://m.media-amazon.com/images/M/MV5BOGJhODM3MjAtZGQwNS00MmRiLWJkYjMtMzI0NTRmYTg1NGY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-        ]
+  "codigo": "DR000976",
+  "titulo": "Memory in the Letter",
+  "tituloOriginal": "ทรงจำในอักษร",
+  "alias": [
+    "Memory in the Letter",
+    "Memories in Letters"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "anio": 2024,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 33,
+  "estado": "finalizado",
+  "estreno": "2024-04-06",
+  "finalizacion": "2024-05-11",
+  "generos": [
+    "BL",
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Universos paralelos",
+    "Espejos",
+    "Viaje entre mundos",
+    "Escritores",
+    "Misterio"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Aksorn",
+        "Songjam"
+      ]
     }
+  ],
+  "sinopsis": "Después de enfrentarse con su padre, Aksorn se muda a una nueva habitación donde descubre que el espejo permite ver a un joven llamado Songjam que vive en un universo paralelo. Cuando Aksorn encuentra una novela publicada en internet que describe exactamente los acontecimientos que está viviendo, comienza a investigar quién está escribiendo la historia y cómo puede llegar hasta Songjam.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BOGJhODM3MjAtZGQwNS00MmRiLWJkYjMtMzI0NTRmYTg1NGY3XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+    ]
+  }
 }

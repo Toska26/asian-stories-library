@@ -1,17 +1,27 @@
 {
   "codigo": "DR000293",
   "titulo": "Strange Heart",
-  "alias": ["When Two Hearts Beat As One"],
-  "pais": ["PH"],
+  "alias": [
+    "When Two Hearts Beat As One"
+  ],
+  "pais": [
+    "PH"
+  ],
   "anio": 2020,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 4,
-  "estado": "Cancelado",
+  "estado": "cancelado",
   "estreno": "2020-10-26",
-  "generos": ["BL", "Romance", "Drama"],
-  "tags": ["BL"],
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
   "sinopsis": "",
   "activo": true
 }

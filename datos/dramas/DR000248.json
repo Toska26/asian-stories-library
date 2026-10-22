@@ -1,53 +1,53 @@
 {
-    "codigo": "DR000248",
-    "titulo": "First Note of Love",
-    "tituloOriginal": "彈一場完美戀愛",
-    "tipo": "Drama",
-    "anio": 2024,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 12,
-    "duracion": "28-30 min",
-    "estado": "Finalizado",
-    "estreno": "2024-08-12",
-    "finalizacion": "2024-10-21",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Música"
-    ],
-    "tags": [
-        "BL",
-        "Música",
-        "Cantante",
-        "Compositor",
-        "Reencuentro",
-        "Primer amor",
-        "Diferencia de edad",
-        "Superación"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Neil",
-                "Sea"
-            ]
-        }
-    ],
-    "sinopsis": "Un antiguo cantante que abandonó su carrera musical conoce a un joven músico que está intentando abrirse camino en la industria. La música les permite acercarse y enfrentarse a heridas del pasado mientras descubren nuevos sentimientos.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/736x/17/66/b3/1766b306f207ee02a7b7aa47cb99a9a6.jpg",
-            "https://i.pinimg.com/736x/47/43/f4/4743f43bd4e9f2ef2bea54557b793784.jpg"
-        ]
+  "codigo": "DR000248",
+  "titulo": "First Note of Love",
+  "tituloOriginal": "彈一場完美戀愛",
+  "tipo": "DR",
+  "anio": 2024,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "28-30 min",
+  "estado": "finalizado",
+  "estreno": "2024-08-12",
+  "finalizacion": "2024-10-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "BL",
+    "Música",
+    "Cantante",
+    "Compositor",
+    "Reencuentro",
+    "Primer amor",
+    "Diferencia de edad",
+    "Superación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Neil",
+        "Sea"
+      ]
     }
+  ],
+  "sinopsis": "Un antiguo cantante que abandonó su carrera musical conoce a un joven músico que está intentando abrirse camino en la industria. La música les permite acercarse y enfrentarse a heridas del pasado mientras descubren nuevos sentimientos.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/17/66/b3/1766b306f207ee02a7b7aa47cb99a9a6.jpg",
+      "https://i.pinimg.com/736x/47/43/f4/4743f43bd4e9f2ef2bea54557b793784.jpg"
+    ]
+  }
 }

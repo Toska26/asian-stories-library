@@ -1,71 +1,71 @@
 {
-    "codigo": "DR000228",
-    "titulo": "Because of You",
-    "tituloOriginal": "因為愛你",
-    "alias": [
-        "2020 Because of You"
-    ],
-    "tipo": "Drama",
-    "anio": 2020,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 10,
-    "duracion": "15 min",
-    "estado": "Finalizado",
-    "estreno": "2020-02-14",
-    "finalizacion": "2020-03-14",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Familia"
-    ],
-    "tags": [
-        "BL",
-        "Familia",
-        "Hermanastros",
-        "Diferencia de clase",
-        "Amigos a amantes",
-        "Primer amor",
-        "Herencia",
-        "Empresarios",
-        "Vida universitaria"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Yuan Jun Cheng",
-                "Lin Xun"
-            ]
-        },
-        {
-            "personajes": [
-                "Yuan Jun Dao",
-                "Yang Xiang"
-            ]
-        },
-        {
-            "personajes": [
-                "Yuan Jun Ping",
-                "Yan Yue"
-            ]
-        }
-    ],
-    "sinopsis": "Los tres hermanos Yuan, nacidos de madres diferentes, crecen dentro de una poderosa familia empresarial. Mientras afrontan la lucha por el futuro del imperio familiar, cada uno desarrolla una relación sentimental: Jun Cheng con Lin Xun, Jun Dao con Yang Xiang y Jun Ping con Yan Yue.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/1200x/cf/69/b2/cf69b26b46b87561bb5220a281f31e39.jpg",
-            "https://i.pinimg.com/1200x/62/19/92/621992491d004bc93f61fbf77b8afa0c.jpg",
-            "https://i.pinimg.com/1200x/98/3c/3f/983c3f14e892d9d129594304961c8a25.jpg",
-            "https://i.pinimg.com/736x/05/da/30/05da3065c4d9405bd0c35abadd21a0aa.jpg"
-        ]
+  "codigo": "DR000228",
+  "titulo": "Because of You",
+  "tituloOriginal": "因為愛你",
+  "alias": [
+    "2020 Because of You"
+  ],
+  "tipo": "DR",
+  "anio": 2020,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": "15 min",
+  "estado": "finalizado",
+  "estreno": "2020-02-14",
+  "finalizacion": "2020-03-14",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "BL",
+    "Familia",
+    "Hermanastros",
+    "Diferencia de clase",
+    "Amigos a amantes",
+    "Primer amor",
+    "Herencia",
+    "Empresarios",
+    "Vida universitaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yuan Jun Cheng",
+        "Lin Xun"
+      ]
+    },
+    {
+      "personajes": [
+        "Yuan Jun Dao",
+        "Yang Xiang"
+      ]
+    },
+    {
+      "personajes": [
+        "Yuan Jun Ping",
+        "Yan Yue"
+      ]
     }
+  ],
+  "sinopsis": "Los tres hermanos Yuan, nacidos de madres diferentes, crecen dentro de una poderosa familia empresarial. Mientras afrontan la lucha por el futuro del imperio familiar, cada uno desarrolla una relación sentimental: Jun Cheng con Lin Xun, Jun Dao con Yang Xiang y Jun Ping con Yan Yue.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/cf/69/b2/cf69b26b46b87561bb5220a281f31e39.jpg",
+      "https://i.pinimg.com/1200x/62/19/92/621992491d004bc93f61fbf77b8afa0c.jpg",
+      "https://i.pinimg.com/1200x/98/3c/3f/983c3f14e892d9d129594304961c8a25.jpg",
+      "https://i.pinimg.com/736x/05/da/30/05da3065c4d9405bd0c35abadd21a0aa.jpg"
+    ]
+  }
 }

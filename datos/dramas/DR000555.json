@@ -2,19 +2,37 @@
   "codigo": "DR000555",
   "titulo": "Lost in Kyoto",
   "tituloOriginal": "情迷京都",
-  "alias": ["Qing Mi Jing Du"],
-  "pais": ["CN"],
+  "alias": [
+    "Qing Mi Jing Du"
+  ],
+  "pais": [
+    "CN"
+  ],
   "anio": 2025,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 4,
-  "estado": "Finalizado",
+  "estado": "finalizado",
   "estreno": "2025-07-31",
-  "generos": ["BL", "Romance", "Drama"],
-  "tags": ["BL", "Vertical", "Kyoto", "Reencuentro"],
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Vertical",
+    "Kyoto",
+    "Reencuentro"
+  ],
   "ships": [
-    {"personajes":["Kai Xu","Wen Xi"]}
+    {
+      "personajes": [
+        "Kai Xu",
+        "Wen Xi"
+      ]
+    }
   ],
   "sinopsis": "Kai Xu y Wen Xi se encuentran en Kioto y desarrollan una relación marcada por la atracción, los sentimientos y las circunstancias que los llevan a acercarse durante su estancia en Japón.",
   "activo": true

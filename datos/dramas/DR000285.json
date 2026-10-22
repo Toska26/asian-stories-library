@@ -1,21 +1,35 @@
 {
   "codigo": "DR000285",
   "titulo": "Unexpected",
-  "alias": ["Unexpected The Series"],
-  "pais": ["PH"],
+  "alias": [
+    "Unexpected The Series"
+  ],
+  "pais": [
+    "PH"
+  ],
   "anio": 2020,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 3,
   "duracion": 12,
-  "estado": "Cancelado",
+  "estado": "cancelado",
   "estreno": "2020-08-15",
   "finalizacion": "2020-09-05",
-  "generos": ["BL", "Romance"],
-  "tags": ["BL"],
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "BL"
+  ],
   "ships": [
-    {"personajes":["Ken","Edward"]}
+    {
+      "personajes": [
+        "Ken",
+        "Edward"
+      ]
+    }
   ],
   "sinopsis": "Ken busca a alguien con quien hablar por internet y conoce a Edward. De ese encuentro comienza a desarrollarse una relación inesperada.",
   "activo": true

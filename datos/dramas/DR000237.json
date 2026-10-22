@@ -1,60 +1,60 @@
 {
-    "codigo": "DR000237",
-    "titulo": "About Youth",
-    "tituloOriginal": "默默的我，不默默的我們",
-    "tipo": "Drama",
-    "anio": 2022,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 8,
-    "duracion": "22-30 min",
-    "estado": "Finalizado",
-    "estreno": "2022-08-29",
-    "finalizacion": "2022-09-19",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Juventud"
-    ],
-    "tags": [
-        "BL",
-        "Instituto",
-        "Primer amor",
-        "Música",
-        "Banda",
-        "Amigos a amantes",
-        "Pareja secundaria"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Xu Qi Zhang",
-                "Ye Guang"
-            ]
-        },
-        {
-            "personajes": [
-                "Ah Jian",
-                "Ray"
-            ]
-        }
-    ],
-    "sinopsis": "Xu Qi Zhang es un estudiante reservado que encuentra su confianza cuando actúa como músico, mientras Ye Guang es un alumno popular que esconde su soledad. Ambos se acercan al competir por la presidencia estudiantil y descubren una conexión que transforma su relación. Paralelamente, Ah Jian y Ray desarrollan su propia historia romántica.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/1200x/76/29/87/7629879106e2cc393d3d39d355dae560.jpg",
-            "https://i.pinimg.com/736x/ad/b9/9e/adb99e424950850addeedb1ae696c31d.jpg",
-            "https://i.pinimg.com/1200x/77/42/4d/77424d10c606851cf335f6a9a73833a4.jpg",
-            "https://i.pinimg.com/736x/83/f5/23/83f5233fa89d43126901f39b0d9392b8.jpg"
-        ]
+  "codigo": "DR000237",
+  "titulo": "About Youth",
+  "tituloOriginal": "默默的我，不默默的我們",
+  "tipo": "DR",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": "22-30 min",
+  "estado": "finalizado",
+  "estreno": "2022-08-29",
+  "finalizacion": "2022-09-19",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Primer amor",
+    "Música",
+    "Banda",
+    "Amigos a amantes",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xu Qi Zhang",
+        "Ye Guang"
+      ]
+    },
+    {
+      "personajes": [
+        "Ah Jian",
+        "Ray"
+      ]
     }
+  ],
+  "sinopsis": "Xu Qi Zhang es un estudiante reservado que encuentra su confianza cuando actúa como músico, mientras Ye Guang es un alumno popular que esconde su soledad. Ambos se acercan al competir por la presidencia estudiantil y descubren una conexión que transforma su relación. Paralelamente, Ah Jian y Ray desarrollan su propia historia romántica.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/76/29/87/7629879106e2cc393d3d39d355dae560.jpg",
+      "https://i.pinimg.com/736x/ad/b9/9e/adb99e424950850addeedb1ae696c31d.jpg",
+      "https://i.pinimg.com/1200x/77/42/4d/77424d10c606851cf335f6a9a73833a4.jpg",
+      "https://i.pinimg.com/736x/83/f5/23/83f5233fa89d43126901f39b0d9392b8.jpg"
+    ]
+  }
 }

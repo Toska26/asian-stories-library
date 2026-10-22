@@ -2,17 +2,23 @@
   "codigo": "DR001042",
   "titulo": "One Year",
   "tituloOriginal": "เลือนรางและจางหาย",
-  "pais": ["TH"],
+  "pais": [
+    "TH"
+  ],
   "anio": 2026,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
   "duracion": 50,
-  "estado": "Finalizado",
+  "estado": "finalizado",
   "estreno": "2026-04-26",
   "finalizacion": "2026-06-14",
-  "generos": ["Romance", "Drama", "BL"],
+  "generos": [
+    "Romance",
+    "Drama",
+    "BL"
+  ],
   "sinopsis": "Una historia sobre el paso del tiempo, los recuerdos y los sentimientos que permanecen incluso cuando las personas intentan dejar atrás el pasado. Los protagonistas deberán afrontar aquello que creían olvidado cuando sus caminos vuelven a cruzarse.",
   "activo": true
 }

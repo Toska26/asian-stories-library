@@ -1,58 +1,58 @@
 {
-    "codigo": "DR000233",
-    "titulo": "Be Loved in House: I Do",
-    "tituloOriginal": "約・定～I do",
-    "tipo": "Drama",
-    "anio": 2021,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 12,
-    "duracion": "25-30 min",
-    "estado": "Finalizado",
-    "estreno": "2021-05-20",
-    "finalizacion": "2021-07-29",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Comedia"
-    ],
-    "tags": [
-        "BL",
-        "Oficina",
-        "Jefe y empleado",
-        "Convivencia",
-        "Enemigos a amantes",
-        "Pareja secundaria"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Jin Yu Zhen",
-                "Shi Lei"
-            ]
-        },
-        {
-            "personajes": [
-                "Yan Zhao Gang",
-                "Wu Si Qi"
-            ]
-        }
-    ],
-    "sinopsis": "Jin Yu Zhen se convierte en el nuevo director de un estudio de diseño y establece una estricta prohibición de relaciones sentimentales entre los empleados. Shi Lei se enfrenta a la nueva norma y acaba acercándose a su jefe, mientras la relación entre ambos evoluciona hacia el amor. Paralelamente, Yan Zhao Gang y Wu Si Qi desarrollan su propia relación.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/1200x/c7/da/d1/c7dad12645967db35e19600f53f9b558.jpg",
-				"https://i.pinimg.com/736x/71/a4/9d/71a49d45b715c97caa40a1094f35d6f5.jpg",
-				"https://i.pinimg.com/736x/09/bd/c1/09bdc1e822816cac602cea5b684a93f7.jpg"
-        ]
+  "codigo": "DR000233",
+  "titulo": "Be Loved in House: I Do",
+  "tituloOriginal": "約・定～I do",
+  "tipo": "DR",
+  "anio": 2021,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "25-30 min",
+  "estado": "finalizado",
+  "estreno": "2021-05-20",
+  "finalizacion": "2021-07-29",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Oficina",
+    "Jefe y empleado",
+    "Convivencia",
+    "Enemigos a amantes",
+    "Pareja secundaria"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin Yu Zhen",
+        "Shi Lei"
+      ]
+    },
+    {
+      "personajes": [
+        "Yan Zhao Gang",
+        "Wu Si Qi"
+      ]
     }
+  ],
+  "sinopsis": "Jin Yu Zhen se convierte en el nuevo director de un estudio de diseño y establece una estricta prohibición de relaciones sentimentales entre los empleados. Shi Lei se enfrenta a la nueva norma y acaba acercándose a su jefe, mientras la relación entre ambos evoluciona hacia el amor. Paralelamente, Yan Zhao Gang y Wu Si Qi desarrollan su propia relación.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/c7/da/d1/c7dad12645967db35e19600f53f9b558.jpg",
+      "https://i.pinimg.com/736x/71/a4/9d/71a49d45b715c97caa40a1094f35d6f5.jpg",
+      "https://i.pinimg.com/736x/09/bd/c1/09bdc1e822816cac602cea5b684a93f7.jpg"
+    ]
+  }
 }

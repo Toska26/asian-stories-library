@@ -1,64 +1,64 @@
 {
-    "codigo": "DR000241",
-    "titulo": "My Tooth Your Love",
-    "tituloOriginal": "我的牙想你",
-    "alias": [
-        "My Teeth Misses You"
-    ],
-    "tipo": "Drama",
-    "anio": 2022,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 12,
-    "duracion": "30-40 min",
-    "estado": "Finalizado",
-    "estreno": "2022-10-14",
-    "finalizacion": "2022-12-20",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Comedia"
-    ],
-    "tags": [
-        "BL",
-        "Dentista",
-        "Restaurante",
-        "Fobia",
-        "Amigos a amantes",
-        "Diferencia de edad",
-        "Pareja secundaria",
-        "Segunda oportunidad"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Bai Lang",
-                "Jin Xun An"
-            ]
-        },
-        {
-            "personajes": [
-                "Zhou Cheng Hao",
-                "He Qing Tian"
-            ]
-        }
-    ],
-    "sinopsis": "Bai Lang, propietario de un restaurante-bar, tiene miedo de acudir al dentista hasta que conoce a Jin Xun An, un joven y reservado dentista. La relación entre ambos evoluciona desde sus primeros encuentros profesionales hacia el amor. Paralelamente, Zhou Cheng Hao desarrolla una relación con He Qing Tian.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/736x/97/fa/25/97fa25fa838216cd27847a1773d26ee1.jpg",
-            "https://i.pinimg.com/1200x/3b/77/7b/3b777bea6c93e3aa4bdede8932b6ee4b.jpg",
-            "https://i.pinimg.com/1200x/1f/a2/a9/1fa2a98809d5f8509e0087da600e9263.jpg",
-            "https://i.pinimg.com/736x/3f/30/dd/3f30dde70da896e70ea489a513e1959c.jpg"
-        ]
+  "codigo": "DR000241",
+  "titulo": "My Tooth Your Love",
+  "tituloOriginal": "我的牙想你",
+  "alias": [
+    "My Teeth Misses You"
+  ],
+  "tipo": "DR",
+  "anio": 2022,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": "30-40 min",
+  "estado": "finalizado",
+  "estreno": "2022-10-14",
+  "finalizacion": "2022-12-20",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Dentista",
+    "Restaurante",
+    "Fobia",
+    "Amigos a amantes",
+    "Diferencia de edad",
+    "Pareja secundaria",
+    "Segunda oportunidad"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bai Lang",
+        "Jin Xun An"
+      ]
+    },
+    {
+      "personajes": [
+        "Zhou Cheng Hao",
+        "He Qing Tian"
+      ]
     }
+  ],
+  "sinopsis": "Bai Lang, propietario de un restaurante-bar, tiene miedo de acudir al dentista hasta que conoce a Jin Xun An, un joven y reservado dentista. La relación entre ambos evoluciona desde sus primeros encuentros profesionales hacia el amor. Paralelamente, Zhou Cheng Hao desarrolla una relación con He Qing Tian.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/736x/97/fa/25/97fa25fa838216cd27847a1773d26ee1.jpg",
+      "https://i.pinimg.com/1200x/3b/77/7b/3b777bea6c93e3aa4bdede8932b6ee4b.jpg",
+      "https://i.pinimg.com/1200x/1f/a2/a9/1fa2a98809d5f8509e0087da600e9263.jpg",
+      "https://i.pinimg.com/736x/3f/30/dd/3f30dde70da896e70ea489a513e1959c.jpg"
+    ]
+  }
 }

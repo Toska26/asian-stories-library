@@ -1,55 +1,55 @@
 {
-    "codigo": "DR000510",
+  "codigo": "DR000510",
+  "titulo": "Advance Bravely",
+  "tituloOriginal": "盛势",
+  "alias": [
+    "Advance Bravely",
+    "Advancing Bravely",
+    "Sheng Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "anio": 2017,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
     "titulo": "Advance Bravely",
-    "tituloOriginal": "盛势",
-    "alias": [
-        "Advance Bravely",
-        "Advancing Bravely",
-        "Sheng Shi"
-    ],
-    "pais": [
-        "CN"
-    ],
-    "anio": 2017,
-    "tipo": "Drama",
-    "origen": {
-        "tipo": "Novela",
-        "titulo": "Advance Bravely",
-        "tituloOriginal": "势不可挡",
-        "autor": "Chai Jidan",
-        "pais": "CN"
-    },
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 30,
-    "duracion": 25,
-    "estado": "Finalizado",
-    "estreno": "2017-08-12",
-    "finalizacion": "2018-03-06",
-    "generos": [
-        "BL",
-        "Romance",
-        "Acción",
-        "Drama",
-        "Comedia"
-    ],
-    "tags": [
-        "BL",
-        "Adaptación"
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Xia Yao",
-                "Yuan Zong"
-            ]
-        }
-    ],
-    "sinopsis": "Xia Yao, un antiguo playboy procedente de una familia influyente, intenta rehacer su vida. Yuan Zong, un exsoldado de las fuerzas especiales convertido en instructor de guardaespaldas, entra en su vida cuando intenta ayudar a su hermana Yuan Ru a conquistar a Xia Yao. La relación entre ambos evoluciona mientras se enfrentan a sus diferencias y a las circunstancias que los rodean.",
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://m.media-amazon.com/images/M/MV5BYzliZjhlMjYtMGE2OS00NDQ1LWE5NDktNTNhZGM0YjliODkyXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
-        ]
+    "tituloOriginal": "势不可挡",
+    "autor": "Chai Jidan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 25,
+  "estado": "finalizado",
+  "estreno": "2017-08-12",
+  "finalizacion": "2018-03-06",
+  "generos": [
+    "BL",
+    "Romance",
+    "Acción",
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación"
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Yao",
+        "Yuan Zong"
+      ]
     }
+  ],
+  "sinopsis": "Xia Yao, un antiguo playboy procedente de una familia influyente, intenta rehacer su vida. Yuan Zong, un exsoldado de las fuerzas especiales convertido en instructor de guardaespaldas, entra en su vida cuando intenta ayudar a su hermana Yuan Ru a conquistar a Xia Yao. La relación entre ambos evoluciona mientras se enfrentan a sus diferencias y a las circunstancias que los rodean.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BYzliZjhlMjYtMGE2OS00NDQ1LWE5NDktNTNhZGM0YjliODkyXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
+    ]
+  }
 }

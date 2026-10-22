@@ -1,21 +1,36 @@
 {
   "codigo": "DR000281",
   "titulo": "Sakristan",
-  "alias": ["Altar Boy"],
-  "pais": ["PH"],
+  "alias": [
+    "Altar Boy"
+  ],
+  "pais": [
+    "PH"
+  ],
   "anio": 2020,
-  "tipo": "Drama",
+  "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
   "duracion": 20,
-  "estado": "Finalizado",
+  "estado": "finalizado",
   "estreno": "2020-05-31",
   "finalizacion": "2020-07-19",
-  "generos": ["BL", "Romance", "Drama"],
-  "tags": ["BL"],
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL"
+  ],
   "ships": [
-    {"personajes":["Zach","Christian"]}
+    {
+      "personajes": [
+        "Zach",
+        "Christian"
+      ]
+    }
   ],
   "sinopsis": "Zach, un estudiante y triatleta obligado a convertirse en monaguillo, es asignado a Christian, el jefe de los monaguillos. A pesar de sus diferencias y del entorno conservador de la iglesia, ambos desarrollan una relación romántica.",
   "activo": true

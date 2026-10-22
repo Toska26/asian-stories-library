@@ -1,92 +1,92 @@
 {
-    "codigo": "DR000176",
-    "titulo": "Fan Service",
-    "tituloOriginal": "팬서비스",
-    "alias": [
-        "Fan Service",
-        "Fanservice",
-        "Paen Seobiseu",
-        "Paenseobiseu"
-    ],
-    "tipo": "Drama",
-    "anio": 2026,
-    "pais": [
-        "KR"
-    ],
-    "idioma": "ko",
-    "franquicia": "",
-    "universo": "",
-    "serie": "",
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 6,
-    "duracion": "10 min",
-    "estado": "Finalizado",
-    "estreno": "2026-01-07",
-    "finalizacion": "2026-02-25",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama"
-    ],
-    "tags": [
-        "BL",
-        "Celebridad",
-        "Estudiante universitario",
-        "Fan obsesivo",
-        "Sasaeng",
-        "Entrevista",
-        "Vida pública y privada",
-        "Rumores",
-        "Escándalo",
-        "Reencuentro"
-    ],
-    "personas": [
-        {
-            "nombre": "Geon U",
-            "persona": "PR000722",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Jae Yeon",
-            "persona": "PR000723",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        }
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Geon U",
-                "Jae Yeon"
-            ]
-        }
-    ],
-    "sinopsis": "Geon U es una estrella de la Hallyu cuya vida privada está constantemente invadida por fans obsesivos. Tras escapar temporalmente de la presión de la industria, se cruza con Jae Yeon, un estudiante universitario al que inicialmente confunde con un acosador. Lo que comienza como un malentendido termina convirtiéndose en una relación que obliga a ambos a distinguir entre la intimidad real y la imagen que los demás esperan de ellos.",
-    "entidades": [
-        {
-            "codigo": "EN000142",
-            "funcion": [
-                "Productora"
-            ]
-        },
-        {
-            "codigo": "EN000025",
-            "funcion": [
-                "Plataforma"
-            ]
-        }
-    ],
-    "activo": true,
-    "multimedia": {
-        "portada": [
-            "https://i.pinimg.com/1200x/84/4b/e7/844be71d26a93d5337cafac0721135da.jpg",
-            "https://i.pinimg.com/1200x/85/11/e8/8511e853e1b4f944b9b37fa44c2adea5.jpg"
-        ]
+  "codigo": "DR000176",
+  "titulo": "Fan Service",
+  "tituloOriginal": "팬서비스",
+  "alias": [
+    "Fan Service",
+    "Fanservice",
+    "Paen Seobiseu",
+    "Paenseobiseu"
+  ],
+  "tipo": "DR",
+  "anio": 2026,
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "franquicia": "",
+  "universo": "",
+  "serie": "",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": "10 min",
+  "estado": "finalizado",
+  "estreno": "2026-01-07",
+  "finalizacion": "2026-02-25",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Celebridad",
+    "Estudiante universitario",
+    "Fan obsesivo",
+    "Sasaeng",
+    "Entrevista",
+    "Vida pública y privada",
+    "Rumores",
+    "Escándalo",
+    "Reencuentro"
+  ],
+  "personas": [
+    {
+      "nombre": "Geon U",
+      "persona": "PR000722",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jae Yeon",
+      "persona": "PR000723",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Geon U",
+        "Jae Yeon"
+      ]
+    }
+  ],
+  "sinopsis": "Geon U es una estrella de la Hallyu cuya vida privada está constantemente invadida por fans obsesivos. Tras escapar temporalmente de la presión de la industria, se cruza con Jae Yeon, un estudiante universitario al que inicialmente confunde con un acosador. Lo que comienza como un malentendido termina convirtiéndose en una relación que obliga a ambos a distinguir entre la intimidad real y la imagen que los demás esperan de ellos.",
+  "entidades": [
+    {
+      "codigo": "EN000142",
+      "funcion": [
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.pinimg.com/1200x/84/4b/e7/844be71d26a93d5337cafac0721135da.jpg",
+      "https://i.pinimg.com/1200x/85/11/e8/8511e853e1b4f944b9b37fa44c2adea5.jpg"
+    ]
+  }
 }

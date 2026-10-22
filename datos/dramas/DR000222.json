@@ -1,127 +1,127 @@
 {
-    "codigo": "DR000222",
-    "titulo": "HIStory3: Make Our Days Count",
-    "tituloOriginal": "HIStory3 - 那一天",
-    "alias": [
-        "Make Our Days Count",
-        "That Day",
-        "Nà Yītiān"
-    ],
-    "tipo": "Drama",
-    "anio": 2019,
-    "pais": [
-        "TW"
-    ],
-    "idioma": "zh",
-    "franquicia": {
-        "codigo": "FR000019",
-        "orden": 7
+  "codigo": "DR000222",
+  "titulo": "HIStory3: Make Our Days Count",
+  "tituloOriginal": "HIStory3 - 那一天",
+  "alias": [
+    "Make Our Days Count",
+    "That Day",
+    "Nà Yītiān"
+  ],
+  "tipo": "DR",
+  "anio": 2019,
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "franquicia": {
+    "codigo": "FR000019",
+    "orden": 7
+  },
+  "universo": "",
+  "serie": "SR000216",
+  "temporadas": 5,
+  "temporada": 3,
+  "episodios": 20,
+  "duracion": "25 min",
+  "estado": "finalizado",
+  "estreno": "2019-10-16",
+  "finalizacion": "2019-12-18",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Juventud"
+  ],
+  "tags": [
+    "BL",
+    "Instituto",
+    "Amigos de infancia",
+    "Rivales",
+    "Primer amor",
+    "Coming of Age",
+    "Diferencias de personalidad",
+    "Celos",
+    "Amistad",
+    "Familia",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Xiang Hao Ting",
+      "persona": "PR000779",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     },
-    "universo": "",
-    "serie": "SR000216",
-    "temporadas": 5,
-    "temporada": 3,
-    "episodios": 20,
-    "duracion": "25 min",
-    "estado": "Finalizado",
-    "estreno": "2019-10-16",
-    "finalizacion": "2019-12-18",
-    "generos": [
-        "BL",
-        "Romance",
-        "Drama",
-        "Juventud"
-    ],
-    "tags": [
-        "BL",
-        "Instituto",
-        "Amigos de infancia",
-        "Rivales",
-        "Primer amor",
-        "Coming of Age",
-        "Diferencias de personalidad",
-        "Celos",
-        "Amistad",
-        "Familia",
-        "Segunda oportunidad"
-    ],
-    "personas": [
-        {
-            "nombre": "Xiang Hao Ting",
-            "persona": "PR000779",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Yu Xi Gu",
-            "persona": "PR000780",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Sun Bo Xiang",
-            "persona": "PR000781",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        },
-        {
-            "nombre": "Lu Zhi Gang",
-            "persona": "PR000782",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": true
-        }
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Xiang Hao Ting",
-                "Yu Xi Gu"
-            ]
-        },
-        {
-            "personajes": [
-                "Sun Bo Xiang",
-                "Lu Zhi Gang"
-            ]
-        }
-    ],
-    "sinopsis": "Xiang Hao Ting es un estudiante popular, extrovertido e impulsivo que termina fijándose en Yu Xi Gu, un compañero reservado y brillante que prefiere mantenerse al margen de los demás. Lo que comienza con conflictos y malentendidos poco a poco se transforma en una relación profunda mientras ambos descubren sus propias inseguridades y aprenden a apoyarse. Paralelamente, Sun Bo Xiang y Lu Zhi Gang construyen su propia historia de amor.",
-    "multimedia": {
-        "trailer": [
-            "https://www.youtube.com/watch?v=HtOqn8Tmf70"
-        ],
-        "portada": [
-            "https://i.pinimg.com/1200x/e5/e7/d7/e5e7d74640a1fbbca6b8b0d45b9242b0.jpg",
-            "https://i.pinimg.com/1200x/cc/bf/d6/ccbfd6ea369c84d76534d30f6883da53.jpg"
-        ]
+    {
+      "nombre": "Yu Xi Gu",
+      "persona": "PR000780",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     },
-    "entidades": [
-        {
-            "codigo": "EN000022",
-            "funcion": [
-                "Plataforma"
-            ]
-        },
-        {
-            "codigo": "EN000028",
-            "funcion": [
-                "Plataforma"
-            ]
-        },
-        {
-            "codigo": "EN000023",
-            "funcion": [
-                "Plataforma"
-            ]
-        }
+    {
+      "nombre": "Sun Bo Xiang",
+      "persona": "PR000781",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Zhi Gang",
+      "persona": "PR000782",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xiang Hao Ting",
+        "Yu Xi Gu"
+      ]
+    },
+    {
+      "personajes": [
+        "Sun Bo Xiang",
+        "Lu Zhi Gang"
+      ]
+    }
+  ],
+  "sinopsis": "Xiang Hao Ting es un estudiante popular, extrovertido e impulsivo que termina fijándose en Yu Xi Gu, un compañero reservado y brillante que prefiere mantenerse al margen de los demás. Lo que comienza con conflictos y malentendidos poco a poco se transforma en una relación profunda mientras ambos descubren sus propias inseguridades y aprenden a apoyarse. Paralelamente, Sun Bo Xiang y Lu Zhi Gang construyen su propia historia de amor.",
+  "multimedia": {
+    "trailer": [
+      "https://www.youtube.com/watch?v=HtOqn8Tmf70"
     ],
-    "activo": true
+    "portada": [
+      "https://i.pinimg.com/1200x/e5/e7/d7/e5e7d74640a1fbbca6b8b0d45b9242b0.jpg",
+      "https://i.pinimg.com/1200x/cc/bf/d6/ccbfd6ea369c84d76534d30f6883da53.jpg"
+    ]
+  },
+  "entidades": [
+    {
+      "codigo": "EN000022",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": [
+        "Plataforma"
+      ]
+    },
+    {
+      "codigo": "EN000023",
+      "funcion": [
+        "Plataforma"
+      ]
+    }
+  ],
+  "activo": true
 }
