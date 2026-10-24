@@ -36,25 +36,25 @@
     "trailer": [
       {
         "titulo": "Trailer url 1",
-        "utl": "https://www.youtube.com/watch?v=s4p1S6-iyGs"
+        "url": "https://www.youtube.com/watch?v=s4p1S6-iyGs"
       },
       {
         "titulo": "Trailer url 2",
-        "utl": "https://www.youtube.com/watch?v=R8YZDBXoBOY"
+        "url": "https://www.youtube.com/watch?v=R8YZDBXoBOY"
       },
       {
         "titulo": "Trailer url 3",
-        "utl": "https://www.youtube.com/watch?v=ZVRh1nRavy0"
+        "url": "https://www.youtube.com/watch?v=ZVRh1nRavy0"
       }     
     ],
     "teaser": [
       {
         "titulo": "Teaser url 1",
-        "utl": "https://www.youtube.com/watch?v=uiJhnk9kAfA"
+        "url": "https://www.youtube.com/watch?v=uiJhnk9kAfA"
       },
       {
         "titulo": "Teaser url 2",
-        "utl": "https://www.youtube.com/watch?v=gBQYyiR1WP4"
+        "url": "https://www.youtube.com/watch?v=gBQYyiR1WP4"
       }
     ]
   },
