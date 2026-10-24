@@ -29,16 +29,33 @@
   ],
   "multimedia": {
     "portada": [
-      "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg"
+      
+         "https://i.pinimg.com/736x/bf/ca/06/bfca06960028fb349da11263aa5ab04c.jpg"
+     
     ],
     "trailer": [
-      "https://www.youtube.com/watch?v=s4p1S6-iyGs",
-      "https://www.youtube.com/watch?v=R8YZDBXoBOY",
-      "https://www.youtube.com/watch?v=ZVRh1nRavy0"
+      {
+        "titulo": "Trailer",
+        "utl": "https://www.youtube.com/watch?v=s4p1S6-iyGs"
+      },
+      {
+        "titulo": "Trailer",
+        "utl": ""https://www.youtube.com/watch?v=R8YZDBXoBOY""
+      },
+      {
+        "titulo": "Trailer",
+        "utl": "https://www.youtube.com/watch?v=ZVRh1nRavy0"
+      }     
     ],
     "teaser": [
-      "https://www.youtube.com/watch?v=uiJhnk9kAfA",
-      "https://www.youtube.com/watch?v=gBQYyiR1WP4"
+      {
+        "titulo": "Teaser",
+        "utl": "https://www.youtube.com/watch?v=uiJhnk9kAfA"
+      },
+      {
+        "titulo": "Teaser",
+        "utl": "https://www.youtube.com/watch?v=gBQYyiR1WP4"
+      }
     ]
   },
   "personas": [
