@@ -859,6 +859,7 @@ DR000134	KR	2022	The Director Who Buys Me Dinner
 DR000089	TH	2022	The Eclipse
 DR001050	TH	2026	The Edge of Horizon
 DR000781	TH	2019	The Effect
+DR000005	KR	2023	The Eighth Sense
 DR000663	JP	2023	The End of the World With You
 DR000050	TH	2025	The Ex-Morning
 DR000513	CN	2017	The Fairy Fox
