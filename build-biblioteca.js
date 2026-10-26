@@ -225,8 +225,8 @@ function construirBiblioteca() {
 
     // Formateamos cada drama en una sola línea tabulada
     const lineasDramas = listaCompilada.map(drama => `\t${JSON.stringify(drama)}`).join(',\n');
-    const contenidoOutput = `const biblioteca = [\n${lineasDramas}\n];\n`;
-    
+   // const contenidoOutput = `const biblioteca = [\n${lineasDramas}\n];\n`;
+    const contenidoOutput = `window.biblioteca = window.biblioteca || [\n${lineasDramas}\n];\n`;
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
     console.log(`\n✅ Proceso finalizado: ${listaCompilada.length} drama(s) procesados.`);
