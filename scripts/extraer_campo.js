@@ -1,8 +1,17 @@
+/**
+ * @file scripts/extraer_campo.js
+ * @description Extrae de forma masiva los valores de un campo específico (incluso anidado) de los archivos JSON 
+ *              de dramas y genera un informe en formato de texto plano dentro de la carpeta informacion/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/extraer.yml)
+ *            o manualmente desde consola con: node scripts/extraer_campo.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'datos', 'dramas'); 
-const carpetaInformacion = path.join(__dirname, 'informacion');
+// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+const carpetaDramas = path.join(__dirname, '..', 'datos', 'dramas'); 
+const carpetaInformacion = path.join(__dirname, '..', 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES EXTRAER Y VER SU VALOR
 // Ejemplos: "sinopsis", "anio", "multimedia.portada", "tituloOriginal"
