@@ -788,5 +788,13 @@
 	{"codigo":"PR000787","nombre":"Chang Shuo Hang","nombreOriginal":"張碩航","nombreArtistico":"Sean Chang","alias":["Leo Zhang","Chang Shuo-Hang"],"pais":"TW","idioma":"zh","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
 	{"codigo":"PR000788","nombre":"Wang Zhao Wei","nombreOriginal":"王肇緯","nombreArtistico":"Linus Wang","alias":["Wang Chao Wei"],"pais":"MY","idioma":"zh","profesiones":["Actor","Modelo"],"multimedia":{"foto":[]},"activo":true},
 	{"codigo":"PR000789","nombre":"Xu Tao","nombreOriginal":"徐韜","nombreArtistico":"Jason Tauh","alias":["Hsu Tao"],"pais":"TW","idioma":"zh","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
-	{"codigo":"PR000790","nombre":"Chen Xi An","nombreOriginal":"陳璽安","nombreArtistico":"Anson Chen","alias":["Chen Hsi An","Chen Xian","Chen Hsian"],"pais":"TW","idioma":"zh","profesiones":["Actor","Modelo"],"multimedia":{"foto":[]},"activo":true}
+	{"codigo":"PR000790","nombre":"Chen Xi An","nombreOriginal":"陳璽安","nombreArtistico":"Anson Chen","alias":["Chen Hsi An","Chen Xian","Chen Hsian"],"pais":"TW","idioma":"zh","profesiones":["Actor","Modelo"],"multimedia":{"foto":[]},"activo":true},
+	{"codigo": "PR000791", "nombre": "Tsubasa Nakagawa", "nombreOriginal": "中川翼", "nombreArtistico": "Tsubasa", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Actor"], "multimedia": {"foto": []}, "activo": true}
+	{"codigo": "PR000792", "nombre": "Masaya Sakuragi", "nombreOriginal": "桜木雅哉", "nombreArtistico": "Masaya", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Actor"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000793", "nombre": "Rio Takahashi", "nombreOriginal": "高橋璃央", "nombreArtistico": "Rio", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Actor"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000794", "nombre": "Aren Sakurai", "nombreOriginal": "櫻井亜蓮", "nombreArtistico": "Aren", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Actor"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000795", "nombre": "Keisuke Shibata", "nombreOriginal": "柴田啓佑", "nombreArtistico": "Keisuke", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Director"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000796", "nombre": "Masayoshi Kishida", "nombreOriginal": "岸田雅喜", "nombreArtistico": "Masayoshi", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Director"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000797", "nombre": "Motoko Takahashi", "nombreOriginal": "高橋モトコ", "nombreArtistico": "Motoko", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Guionista"], "multimedia": {"foto": []}, "activo": true},
+	{"codigo": "PR000798", "nombre": "Riuji Yoshizaki", "nombreOriginal": "吉崎竜司", "nombreArtistico": "Riuji", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Guionista"], "multimedia": {"foto": []}, "activo": true}
 ]
