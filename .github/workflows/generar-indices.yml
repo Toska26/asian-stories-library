@@ -19,7 +19,7 @@ jobs:
           node-version: '18'
 
       - name: 🚀 Ejecutar script de índices
-        run: node generar-indices.js
+        run: node scripts/generar-indices.js
 
       - name: 💾 Guardar cambios en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
