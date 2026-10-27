@@ -6,9 +6,9 @@ on:
       - 'datos/dramas/**'
       - 'datos/SHIPS.json'
       - 'datos/PERSONAS.json'
-      - 'build-biblioteca.js'
-      - 'build-indices.js'
-      - 'indice_dramas_alfabetico.js'
+      - 'scripts/build-biblioteca.js'
+      - 'scripts/build-indices.js'
+      - 'scripts/indice_dramas_alfabetico.js'
   workflow_dispatch:
 
 concurrency:
@@ -31,13 +31,13 @@ jobs:
           node-version: '24'
 
       - name: Generar biblioteca.js
-        run: node build-biblioteca.js
+        run: node scripts/build-biblioteca.js
 
       - name: Generar índices cruzados
-        run: node build-indices.js
+        run: node scripts/build-indices.js
 
       - name: Generar índice alfabético en texto plano
-        run: node indice_dramas_alfabetico.js
+        run: node scripts/indice_dramas_alfabetico.js
 
       - name: Guardar y subir cambios
         run: |
