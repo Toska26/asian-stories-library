@@ -22,6 +22,64 @@
     "Romance",
     "Escolar"
   ],
+  "personas": [
+    {
+      "nombre": "Kishida Sui",
+      "persona": "PR000791",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kurobe Harutora",
+      "persona": "PR000792",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shimizu Daiki",
+      "persona": "PR000793",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shibusawa Yuma",
+      "persona": "PR000794",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR000795",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000796",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR000797",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR000798",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
   "ships": [
     {
       "personajes": [
@@ -35,28 +93,43 @@
   "multimedia": {
     "portada": [
       "https://www.mbs.jp/harutora/images/kv_sp.webp"
-    ]
+    ],
+    "trailer": [
+      {
+        "titulo": "Japanese BL Series \"Hold on, Harutora-kun\" Official Trailer | GagaOOLala",
+        "url": "http://www.youtube.com/watch?v=ciDSRrnzmpc"
+      }
+    ],
+    "teaser": [
+      {
+        "titulo": "ドラマフィル「ちょっと待とうよ、春虎くん」8月13日（木）放送スタート【OP主題歌版：予告映像60秒】",
+        "url": "http://www.youtube.com/watch?v=N4Dr7jXat8k"
+      }
+    ],
+    "pilot": [],
+    "ost": [],
+    "videos": []
   },
   "entidades": [
-  {
-    "codigo": "EN000161",
-    "funcion": ["Emisora", "Productora"]
-  },
-  {
-    "codigo": "EN000028",
-    "funcion": ["Plataforma"]
-  },
-  {
-    "codigo": "EN000025",
-    "funcion": ["Plataforma"]
-  },
-  {
-    "codigo": "EN000111",
-    "funcion": ["Plataforma"]
-  },
-  {
-    "codigo": "EN000162",
-    "funcion": ["Plataforma"]
-  }
-]
+    {
+      "codigo": "EN000161",
+      "funcion": ["Emisora", "Productora"]
+    },
+    {
+      "codigo": "EN000028",
+      "funcion": ["Plataforma"]
+    },
+    {
+      "codigo": "EN000025",
+      "funcion": ["Plataforma"]
+    },
+    {
+      "codigo": "EN000111",
+      "funcion": ["Plataforma"]
+    },
+    {
+      "codigo": "EN000162",
+      "funcion": ["Plataforma"]
+    }
+  ]
 }
