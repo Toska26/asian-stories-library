@@ -1,8 +1,17 @@
+/**
+ * @file scripts/generar-indices.js
+ * @description Genera un índice cruzado filtrado por el campo 'origen' de los dramas 
+ *              y lo guarda en datos/indices.json bajo demanda.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/generar-indices.yml)
+ *            o manualmente desde consola con: node scripts/generar-indices.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const CARPETA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
-const CARPETA_DATOS = path.join(__dirname, 'datos');
+// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+const CARPETA_DRAMAS = path.join(__dirname, '..', 'datos', 'dramas');
+const CARPETA_DATOS = path.join(__dirname, '..', 'datos');
 
 function generarIndicesBajoDemanda() {
     try {
