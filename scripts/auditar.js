@@ -1,8 +1,17 @@
+/**
+ * @file scripts/auditar.js
+ * @description Realiza una auditoría sobre un campo específico de los archivos JSON de dramas
+ *              y genera un informe detallado en formato de texto plano dentro de la carpeta informacion/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/auditar.yml)
+ *            o manualmente desde consola con: node scripts/auditar.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'datos', 'dramas'); 
-const carpetaInformacion = path.join(__dirname, 'informacion');
+// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+const carpetaDramas = path.join(__dirname, '..', 'datos', 'dramas'); 
+const carpetaInformacion = path.join(__dirname, '..', 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES AUDITAR CUANDO LO NECESITES
 const campoABuscar = "multimedia.portada"; 
