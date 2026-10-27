@@ -36,5 +36,27 @@
     "portada": [
       "https://www.mbs.jp/harutora/images/kv_sp.webp"
     ]
+  },
+  "entidades": [
+  {
+    "codigo": "EN000161",
+    "funcion": ["Emisora", "Productora"]
+  },
+  {
+    "codigo": "EN000028",
+    "funcion": ["Plataforma"]
+  },
+  {
+    "codigo": "EN000025",
+    "funcion": ["Plataforma"]
+  },
+  {
+    "codigo": "EN000111",
+    "funcion": ["Plataforma"]
+  },
+  {
+    "codigo": "EN000162",
+    "funcion": ["Plataforma"]
   }
+]
 }
