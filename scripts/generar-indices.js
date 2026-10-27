@@ -1,7 +1,7 @@
 /**
  * @file scripts/generar-indices.js
  * @description Genera un índice cruzado filtrado por el campo 'origen' de los dramas 
- *              y lo guarda en datos/indices.json bajo demanda.
+ *              y lo guarda en informacion/indices.json bajo demanda.
  * @execution Se ejecuta mediante GitHub Actions (.github/workflows/generar-indices.yml)
  *            o manualmente desde consola con: node scripts/generar-indices.js
  */
@@ -9,15 +9,19 @@
 const fs = require('fs');
 const path = require('path');
 
-// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+// Rutas ajustadas: la carpeta de destino ahora es informacion/
 const CARPETA_DRAMAS = path.join(__dirname, '..', 'datos', 'dramas');
-const CARPETA_DATOS = path.join(__dirname, '..', 'datos');
+const CARPETA_INFORMACION = path.join(__dirname, '..', 'informacion');
 
 function generarIndicesBajoDemanda() {
     try {
         if (!fs.existsSync(CARPETA_DRAMAS)) {
             console.error("❌ No se encuentra la carpeta de dramas.");
             return;
+        }
+
+        if (!fs.existsSync(CARPETA_INFORMACION)) {
+            fs.mkdirSync(CARPETA_INFORMACION, { recursive: true });
         }
 
         const archivos = fs.readdirSync(CARPETA_DRAMAS);
@@ -29,7 +33,6 @@ function generarIndicesBajoDemanda() {
                 try {
                     const drama = JSON.parse(fs.readFileSync(ruta, 'utf8'));
                     
-                    // Comprobación estricta: solo si tiene "origen" y no está vacío/nulo
                     const tieneOrigen = drama.origen !== undefined && 
                                         drama.origen !== null && 
                                         drama.origen !== "" && 
@@ -49,9 +52,10 @@ function generarIndicesBajoDemanda() {
             }
         });
 
-        const rutaSalida = path.join(CARPETA_DATOS, 'indices.json');
+        // Guardamos el índice dentro de la carpeta informacion/
+        const rutaSalida = path.join(CARPETA_INFORMACION, 'indices.json');
         fs.writeFileSync(rutaSalida, JSON.stringify(resumen, null, 2), 'utf8');
-        console.log(`✅ ¡Índice de origen generado con éxito! ${resumen.length} dramas con origen incluidos.`);
+        console.log(`✅ ¡Índice de origen generado con éxito en informacion/indices.json! (${resumen.length} dramas incluidos)`);
 
     } catch (error) {
         console.error("❌ Error al generar indices:", error);
