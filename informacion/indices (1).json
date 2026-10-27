@@ -1,0 +1,2755 @@
+[
+  {
+    "codigo": "DR000033",
+    "titulo": "Police in Love",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "The Inspector’s Wife",
+      "tituloOriginal": "ภรรยาสารวัตรเธียร์",
+      "autor": "Kanola",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000035",
+    "titulo": "Crazy Love, Moo-Moo!",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Phi Fak Chop Thoe Mu",
+      "tituloOriginal": "พี่ฟากชอบเธอมู่",
+      "autor": "Meaw Sorn Mied",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000253",
+    "titulo": "Uncle Unknown",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "After the Flirting, My Uncle Kept Chasing Me",
+      "tituloOriginal": "乱撩后小叔对我穷追不舍",
+      "autor": "Wan Xi Zi",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000498",
+    "titulo": "BOYS",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Obra teatral",
+      "relacion": "Spin-off",
+      "titulo": "BOYS",
+      "tituloOriginal": "BOYS",
+      "pais": "HK"
+    }
+  },
+  {
+    "codigo": "DR000506",
+    "titulo": "Kill to Love",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela web",
+      "titulo": "Shan He Yong Ji",
+      "tituloOriginal": "山河永寂",
+      "autor": "Yi Han He",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000508",
+    "titulo": "Double Helix",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "A Round Trip to Love",
+      "tituloOriginal": "双程",
+      "autor": "Lan Lin",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000509",
+    "titulo": "Addicted",
+    "anio": 2016,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Are You Addicted?",
+      "tituloOriginal": "你丫上瘾了",
+      "autor": "Chai Jidan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000510",
+    "titulo": "Advance Bravely",
+    "anio": 2017,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Advance Bravely",
+      "tituloOriginal": "势不可挡",
+      "autor": "Chai Jidan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000511",
+    "titulo": "Love Is More Than a Word",
+    "anio": 2016,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Love Is More Than a Word",
+      "tituloOriginal": "识汝不识丁",
+      "autor": "Su Youbing",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000512",
+    "titulo": "Till Death Tear Us Apart",
+    "anio": 2017,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Love in a Blaze",
+      "tituloOriginal": "一生一世",
+      "autor": "Nan Zhi",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000516",
+    "titulo": "Beloved Enemy",
+    "anio": 2017,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Beloved Enemy",
+      "tituloOriginal": "针锋对决",
+      "autor": "Shui Qian Cheng",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000517",
+    "titulo": "Guardian",
+    "anio": 2018,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Guardian",
+      "tituloOriginal": "镇魂",
+      "autor": "Priest",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000518",
+    "titulo": "The Untamed",
+    "anio": 2019,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Mo Dao Zu Shi",
+      "tituloOriginal": "魔道祖师",
+      "autor": "Mo Xiang Tong Xiu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000523",
+    "titulo": "Honey Sir",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Historias reales",
+      "titulo": "Historias reales de amor gay",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000524",
+    "titulo": "Word of Honor",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Faraway Wanderers",
+      "tituloOriginal": "天涯客",
+      "autor": "Priest",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000526",
+    "titulo": "Winter Begonia",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Winter Begonia",
+      "tituloOriginal": "鬓边不是海棠红",
+      "autor": "Shui Ru Tian Er",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000527",
+    "titulo": "The Sleuth of the Ming Dynasty",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Fourteenth Year of Chenghua",
+      "tituloOriginal": "成化十四年",
+      "autor": "Meng Xi Shi",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000529",
+    "titulo": "In Your Heart",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "In Your Heart",
+      "tituloOriginal": "在你心之所向的地方",
+      "autor": "Li Yun Ming",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000532",
+    "titulo": "Stay With Me",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Are You Addicted?",
+      "tituloOriginal": "你丫上瘾了",
+      "autor": "Chai Jidan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000533",
+    "titulo": "A League of Nobleman",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Mystery of Zhang Guo",
+      "tituloOriginal": "张公案",
+      "autor": "Da Feng Gua Guo",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000534",
+    "titulo": "Mysterious Lotus Casebook",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Auspicious Pattern Lotus House",
+      "tituloOriginal": "吉祥纹莲花楼",
+      "autor": "Teng Ping",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000537",
+    "titulo": "Meet You at the Blossom",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Meet You at the Blossom",
+      "tituloOriginal": "花开有时，颓靡无声",
+      "autor": "Shui Qian Cheng",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000539",
+    "titulo": "The Spirealm",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Kaleidoscope of Death",
+      "tituloOriginal": "死亡万花筒",
+      "autor": "Xi Zi Xu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000546",
+    "titulo": "Moon and Dust",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Bad Dog",
+      "tituloOriginal": "坏狗",
+      "autor": "1 Bite Off",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000547",
+    "titulo": "Falling in Love with a Rival",
+    "anio": 2015,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Counter Attack",
+      "tituloOriginal": "逆袭",
+      "autor": "Chai Ji Dan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000548",
+    "titulo": "Revenged Love",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Counter Attack",
+      "tituloOriginal": "逆袭",
+      "autor": "Chai Ji Dan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000550",
+    "titulo": "ABO Desire",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Desire",
+      "tituloOriginal": "垂涎",
+      "autor": "Nong Jian",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000551",
+    "titulo": "To My Shore",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Four-Faced Buddha",
+      "tituloOriginal": "四面佛",
+      "autor": "Su Erliang",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000556",
+    "titulo": "Blurred Desire",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Promise Sealed with Our Lips: Floating Clouds Out of the Cave",
+      "tituloOriginal": "唇诺之浮云出岫",
+      "autor": "Guan Gai Man Jing Hua",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000562",
+    "titulo": "The Leopard Cat Scholar",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Programa de televisión",
+      "titulo": "Great Escape",
+      "tituloOriginal": "密室大逃脱",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000563",
+    "titulo": "The Leopard Cat Scholar 2",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Programa de televisión",
+      "titulo": "Great Escape",
+      "tituloOriginal": "密室大逃脱",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000568",
+    "titulo": "Out of Control Starlight",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Runaway Starlight",
+      "tituloOriginal": "失控星光",
+      "autor": "Si Jiao",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000569",
+    "titulo": "Reach for the Stars",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Runaway Starlight",
+      "tituloOriginal": "失控星光",
+      "autor": "Si Jiao",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000575",
+    "titulo": "Blood River",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Tales of Dark River",
+      "tituloOriginal": "暗河传",
+      "autor": "Zhou Munan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000578",
+    "titulo": "The Company",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Ya She",
+      "tituloOriginal": "哑舍",
+      "autor": "Xuan Se",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000580",
+    "titulo": "Time Raiders",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Grave Robbers’ Chronicles",
+      "tituloOriginal": "盗墓笔记",
+      "autor": "Nan Pai San Shu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000583",
+    "titulo": "The Blood of Youth",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Blood of Youth",
+      "tituloOriginal": "少年歌行",
+      "autor": "Zhou Munan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000584",
+    "titulo": "Dashing Youth",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Dashing Youth",
+      "tituloOriginal": "少年白马醉春风",
+      "autor": "Zhou Munan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000585",
+    "titulo": "Archives: The Nanyang Mystery",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Southern Archives",
+      "tituloOriginal": "南部档案",
+      "autor": "Nanpai Sanshu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000586",
+    "titulo": "The Blood of Youth: Quest of Heroic Hearts",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "The Blood of Youth",
+      "tituloOriginal": "少年歌行",
+      "autor": "Zhou Munan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000589",
+    "titulo": "Feel What You Feel",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Love and Punishment by Weiming Lake",
+      "tituloOriginal": "未名湖畔的爱与罚",
+      "autor": "Ni Lv Zhu Ren",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000591",
+    "titulo": "A Mountain Can Hold Two Tigers",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "A Mountain Can Hold Two Tigers",
+      "tituloOriginal": "一山能容二虎",
+      "autor": "Liang Xin",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000598",
+    "titulo": "Deep In",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "titulo": "Deep in the Act",
+      "tituloOriginal": "入戏",
+      "autor": "Tong Zi",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000645",
+    "titulo": "I Just Want to See You",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Just Want to See You",
+      "tituloOriginal": "君のことだけ見ていたい",
+      "autor": "Janome",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000646",
+    "titulo": "Kei × Yaku: Dangerous Partners",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Kei × Yaku: Dangerous Partners",
+      "tituloOriginal": "ケイ×ヤク −あぶない相棒−",
+      "autor": "Yoshie Kaoruhara",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000648",
+    "titulo": "Mr. Unlucky Has No Choice But to Kiss!",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Mr. Unlucky Has No Choice But to Kiss!",
+      "tituloOriginal": "不幸くんはキスするしかない！",
+      "autor": "Gamoko Tsuyu",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000649",
+    "titulo": "Fudanshi Bartender",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Fudanshi Bartender",
+      "tituloOriginal": "腐男子バーテンダーの嗜み",
+      "autor": "Naruko",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000650",
+    "titulo": "Old Fashion Cupcake",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Old Fashion Cupcake",
+      "tituloOriginal": "オールドファッションカップケーキ",
+      "autor": "Sagan Sagan",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000651",
+    "titulo": "Senpai, This Can't Be Love!",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Senpai, This Can't Be Love!",
+      "tituloOriginal": "先輩、断じて恋では！",
+      "autor": "Shinta Harekawa",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000652",
+    "titulo": "Takara-kun & Amagi-kun",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Takara-kun & Amagi-kun",
+      "tituloOriginal": "高良くんと天城くん",
+      "autor": "Hanage no Mai",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000653",
+    "titulo": "Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized",
+      "tituloOriginal": "壁サー同人作家の猫屋敷くんは承認欲求をこじらせている",
+      "autor": "Kazuki Minamoto",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000654",
+    "titulo": "Eternal Yesterday",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Eternal Yesterday",
+      "tituloOriginal": "永遠の昨日",
+      "autor": "Yuri Enokida",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000655",
+    "titulo": "Candy Color Paradox",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Candy Color Paradox",
+      "tituloOriginal": "飴色パラドックス",
+      "autor": "Isaku Natsume",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000656",
+    "titulo": "More Than Words",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "More Than Words",
+      "tituloOriginal": "モアザンワーズ",
+      "autor": "Etsuko",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000661",
+    "titulo": "I Became the Main Role of a BL Drama",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Became the Main Role of a BL Drama",
+      "tituloOriginal": "BLドラマの主演になりました",
+      "autor": "Suzuri Machi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000662",
+    "titulo": "I Became the Main Role of a BL Drama 2",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Became the Main Role of a BL Drama",
+      "tituloOriginal": "BLドラマの主演になりました",
+      "autor": "Suzuri Machi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000663",
+    "titulo": "The End of the World With You",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "The End of the World With You",
+      "tituloOriginal": "僕らのミクロな終末",
+      "autor": "Maki Marukido",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000665",
+    "titulo": "Blue Sky Complex",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Blue Sky Complex",
+      "tituloOriginal": "ブルースカイコンプレックス",
+      "autor": "Kei Ichikawa",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000666",
+    "titulo": "Our Dining Table",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Our Dining Table",
+      "tituloOriginal": "僕らの食卓",
+      "autor": "Mita Ori",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000668",
+    "titulo": "Tokyo in April Is...",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Tokyo in April Is...",
+      "tituloOriginal": "４月の東京は…",
+      "autor": "Haru",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000669",
+    "titulo": "My Personal Weatherman",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "My Personal Weatherman",
+      "tituloOriginal": "体感予報",
+      "autor": "Nikke Taino",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000670",
+    "titulo": "I Cannot Reach You",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Cannot Reach You",
+      "tituloOriginal": "君には届かない。",
+      "autor": "Mika",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000671",
+    "titulo": "If It's With You",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "If It's With You, I Might Try Falling in Love",
+      "tituloOriginal": "君となら恋をしてみても",
+      "autor": "Maru Kubota",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000672",
+    "titulo": "One Room Angel",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "One Room Angel",
+      "tituloOriginal": "ワンルームエンジェル",
+      "autor": "Harada",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000673",
+    "titulo": "Mr. Sahara & Toki-kun",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Mr. Sahara & Toki-kun",
+      "tituloOriginal": "佐原先生と土岐くん",
+      "autor": "Tori Ubu",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000674",
+    "titulo": "Me, My Husband & My Husband's Boyfriend",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Me, My Husband & My Husband's Boyfriend",
+      "tituloOriginal": "私と夫と夫の彼氏",
+      "autor": "Ayano Ayano",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000676",
+    "titulo": "Perfect Propose",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Perfect Propose",
+      "tituloOriginal": "パーフェクトプロポーズ",
+      "autor": "Mayo Tsurukame",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000677",
+    "titulo": "Although I Love You, and You?",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Although I Love You, and You?",
+      "tituloOriginal": "好きやねんけどどうやろか",
+      "autor": "Ryoko Chiba",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000678",
+    "titulo": "Don't Care for an Old Man's Underwear",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Don't Care for an Old Man's Underwear",
+      "tituloOriginal": "おっさんのパンツがなんだっていいじゃないか！",
+      "autor": "Nerima Zim",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000680",
+    "titulo": "Love Is Better the Second Time Around",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Love Is Better the Second Time Around",
+      "tituloOriginal": "恋をするなら二度目が上等",
+      "autor": "Keiko Kinoshita",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000681",
+    "titulo": "Love Is Better the Second Time Around",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Love Is Better the Second Time Around",
+      "tituloOriginal": "恋をするなら二度目が上等",
+      "autor": "Keiko Kinoshita",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000682",
+    "titulo": "Living With Him",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Living With Him",
+      "tituloOriginal": "彼のいる生活",
+      "autor": "Miyata Toworu",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000683",
+    "titulo": "At 25:00 in Akasaka",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "At 25:00 in Akasaka",
+      "tituloOriginal": "25時、赤坂で",
+      "autor": "Hiroko Natsuno",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000684",
+    "titulo": "At 25:00 in Akasaka",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "At 25:00 in Akasaka",
+      "tituloOriginal": "25時、赤坂で",
+      "autor": "Hiroko Natsuno",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000685",
+    "titulo": "Cosmetic Playlover",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Cosmetic Playlover",
+      "tituloOriginal": "コスメティック・プレイラバー",
+      "autor": "Sachi Narashima",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000686",
+    "titulo": "Cosmetic Playlover",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Cosmetic Playlover",
+      "tituloOriginal": "コスメティック・プレイラバー",
+      "autor": "Sachi Narashima",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000688",
+    "titulo": "Takara's Treasure",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Takara's Treasure",
+      "tituloOriginal": "タカラのびいどろ",
+      "autor": "Minta Suzumaru",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000689",
+    "titulo": "Mr. Mitsuya's Planned Feeding",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Mr. Mitsuya's Planned Feeding",
+      "tituloOriginal": "三ツ矢先生の計画的な餌付け。",
+      "autor": "Ayaka Matsumoto",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000690",
+    "titulo": "I Hear the Sunspot",
+    "anio": 2017,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Hear the Sunspot",
+      "tituloOriginal": "ひだまりが聴こえる",
+      "autor": "Yuki Fumino",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000691",
+    "titulo": "I Hear the Sunspot",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "I Hear the Sunspot",
+      "tituloOriginal": "ひだまりが聴こえる",
+      "autor": "Yuki Fumino",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000692",
+    "titulo": "Happy of the End",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Happy of the End",
+      "tituloOriginal": "ハッピー・オブ・ジ・エンド",
+      "autor": "Ogeretsu Tanaka",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000693",
+    "titulo": "Sugar Dog Life",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Sugar Dog Life",
+      "tituloOriginal": "シュガードッグライフ",
+      "autor": "Yoriko",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000694",
+    "titulo": "Smells Like Green Spirit",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Smells Like Green Spirit",
+      "tituloOriginal": "スメルズ ライク グリーン スピリット",
+      "autor": "Saburō Nagai",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000695",
+    "titulo": "Love Is a Poison",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Doku Koi: Doku mo Sugireba Koi to Naru",
+      "tituloOriginal": "毒恋～毒もすぎれば恋となる～",
+      "autor": "Keisuke Makino",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000697",
+    "titulo": "Our Youth",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Webtoon",
+      "relacion": "Adaptación",
+      "titulo": "Minor",
+      "tituloOriginal": "미성년",
+      "autor": "Hi Nun",
+      "pais": "KR"
+    }
+  },
+  {
+    "codigo": "DR000698",
+    "titulo": "Love Sea",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "ต้องรักมหาสมุทร",
+      "tituloOriginal": "Love Sea",
+      "autor": "MAME Orawan Vichayawannakul",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000699",
+    "titulo": "Love Sea: The Home for Lovers",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación y remake",
+      "titulo": "Love Sea",
+      "tituloOriginal": "ต้องรักมหาสมุทร",
+      "autor": "MAME Orawan Vichayawannakul",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000700",
+    "titulo": "When It Rains, It Pours",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "When It Rains, It Pours",
+      "tituloOriginal": "ふったらどしゃぶり",
+      "autor": "Michi Ichiho",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000701",
+    "titulo": "Depth of Field",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Depth of Field",
+      "tituloOriginal": "被写界深度",
+      "autor": "Sono",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000702",
+    "titulo": "The Proper Way to Write Love",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "The Proper Way to Write Love",
+      "tituloOriginal": "恋愛ルビの正しいふりかた",
+      "autor": "Ogeretsu Tanaka",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000703",
+    "titulo": "Stay By My Side After the Rain",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Stay By My Side After the Rain",
+      "tituloOriginal": "雨上がりの僕らについて",
+      "autor": "Rakuta Shoko",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000704",
+    "titulo": "The Journey to Killing You",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "The Journey to Killing You",
+      "tituloOriginal": "あなたを殺す旅",
+      "autor": "Asai Nishi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000705",
+    "titulo": "Punks Triangle",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "PUNKS△TRIANGLE",
+      "tituloOriginal": "PUNKS△TRIANGLE",
+      "autor": "Okita Yuho",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000706",
+    "titulo": "School Trip: Joined a Group I'm Not Close To",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "School Trip: Joined a Group I'm Not Close To",
+      "tituloOriginal": "修学旅行で仲良くないグループに入りました",
+      "autor": "Kakuregi Uzura",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000708",
+    "titulo": "Love Begins in the World of If",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Love Begins in the World of If",
+      "tituloOriginal": "ifの世界で恋がはじまる",
+      "autor": "Umino Sachi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000709",
+    "titulo": "10DANCE",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "10DANCE",
+      "tituloOriginal": "10DANCE",
+      "autor": "Inouesatoh",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000710",
+    "titulo": "When It Rains, It Pours: Mellow Rain",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "When It Rains, It Pours",
+      "tituloOriginal": "ふったらどしゃぶり",
+      "autor": "Michi Ichiho",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000711",
+    "titulo": "The Proper Way to Write Love Season 2",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "The Proper Way to Write Love",
+      "tituloOriginal": "恋愛ルビの正しいふりかた",
+      "autor": "Ogeretsu Tanaka",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000712",
+    "titulo": "The Journey to Killing You Season 2",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "The Journey to Killing You",
+      "tituloOriginal": "あなたを殺す旅",
+      "autor": "Asai Nishi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000713",
+    "titulo": "School Trip: Joined a Group I'm Not Close To Season 2",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "School Trip: Joined a Group I'm Not Close To",
+      "tituloOriginal": "修学旅行で仲良くないグループに入りました",
+      "autor": "Kakuregi Uzura",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000762",
+    "titulo": "Water Boyy: The Series",
+    "anio": 2017,
+    "origen": {
+      "tipo": "Película",
+      "relacion": "Adaptación",
+      "titulo": "Water Boyy",
+      "tituloOriginal": "Water Boyy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000771",
+    "titulo": "'Cause You're My Boy",
+    "anio": 2018,
+    "origen": {
+      "tipo": "Novela gráfica",
+      "relacion": "Adaptación",
+      "titulo": "'Cause You're My Boy",
+      "tituloOriginal": "อาตี๋ของผม",
+      "autor": "CaffeineDekD",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000772",
+    "titulo": "Bad Buddy",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Behind the Scenes",
+      "tituloOriginal": "หลังม่าน",
+      "autor": "Afterday & -West-",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000785",
+    "titulo": "Blacklist",
+    "anio": 2019,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Blacklist",
+      "tituloOriginal": "Blacklist",
+      "autor": "Puifai",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000786",
+    "titulo": "Why R U?",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Why R U?",
+      "tituloOriginal": "Why R U? เพราะรักใช่เปล่า",
+      "autor": "Candy On",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000796",
+    "titulo": "Manner of Death",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Manner of Death",
+      "tituloOriginal": "พฤติการณ์ที่ตาย",
+      "autor": "Sammon",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000797",
+    "titulo": "My Engineer",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Engineer",
+      "tituloOriginal": "มีช็อป มีเกียร์ มีเมียรึยังวะ",
+      "autor": "Mommae",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000798",
+    "titulo": "My Gear and Your Gown",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Gear and Your Gown",
+      "tituloOriginal": "เกียร์สีขาวกับกาวน์สีฝุ่น",
+      "autor": "Faddist",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000799",
+    "titulo": "Oxygen",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Oxygen: Love You More Than the Air I Breathe",
+      "tituloOriginal": "Oxygen: Love You More Than the Air I Breathe",
+      "autor": "Chesshire",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000810",
+    "titulo": "Fish Upon the Sky",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Fish Upon the Sky",
+      "tituloOriginal": "ปลาบนฟ้า",
+      "autor": "JittiRain",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000811",
+    "titulo": "Lovely Writer",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Lovely Writer",
+      "tituloOriginal": "นับสิบจะจูบ",
+      "autor": "Wankling",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000812",
+    "titulo": "Y-Destiny",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Y-Destiny",
+      "tituloOriginal": "หรือนี่คือพรหมลิขิต",
+      "autor": "More FIIN",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000814",
+    "titulo": "Bite Me",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Grab a Bite",
+      "tituloOriginal": "ส่งร้อน เสิร์ฟรัก",
+      "autor": "Sammon",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000815",
+    "titulo": "Paint with Love",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Paint with Love",
+      "tituloOriginal": "ใส่รักป้ายสี",
+      "autor": "Indigo",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000825",
+    "titulo": "Nitiman",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "NITI man, society and lover",
+      "tituloOriginal": "มนุษย์นิติสังคมและคนรัก",
+      "autor": "Chamaij",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000826",
+    "titulo": "My Boy",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Boy",
+      "tituloOriginal": "วุ่นนักรักซะเลย",
+      "autor": "Pych",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000827",
+    "titulo": "My Mate Match",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Mate Match",
+      "autor": "Patrick Rangsimant",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000836",
+    "titulo": "The Yearbook",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Cortometraje",
+      "relacion": "Adaptación",
+      "titulo": "The Yearbook",
+      "autor": "Mean Phiravich Attachitsataporn",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000838",
+    "titulo": "Loveless Society",
+    "anio": 2021,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Loveless Society",
+      "autor": "Miranda",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000843",
+    "titulo": "Something in My Room",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Cómic",
+      "relacion": "Adaptación",
+      "titulo": "Something in My Room",
+      "tituloOriginal": "ผมและผีในห้อง",
+      "autor": "raflael",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000845",
+    "titulo": "My Ride",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Ride, I Love You",
+      "autor": "Patrick Rangsimant",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000849",
+    "titulo": "The Miracle of Teddy Bear",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Khun Mee Patihan",
+      "tituloOriginal": "คุณหมีปาฏิหาริย์",
+      "autor": "Prapt",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000850",
+    "titulo": "LOVE STAGE!!",
+    "anio": 2020,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Love Stage!!",
+      "tituloOriginal": "ラブ ステージ!!",
+      "autor": "Eiki Eiki",
+      "ilustrador": "Taishi Zaou",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000854",
+    "titulo": "Secret Crush on You",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Stalker",
+      "tituloOriginal": "แอบ.หลง.รัก",
+      "autor": "Darin",
+      "ilustrador": "Poppycage",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000855",
+    "titulo": "What Zabb Man!",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "รักวุ่นวาย นายรสแซ่บ",
+      "tituloOriginal": "รักวุ่นวาย นายรสแซ่บ",
+      "autor": "Sutharat Dara",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000857",
+    "titulo": "Meow Ears Up",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Manhua",
+      "relacion": "Adaptación",
+      "titulo": "Hey, Your Ears Popped Out!",
+      "tituloOriginal": "喂，看見耳朵啦",
+      "autor": "Tracy Hu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000858",
+    "titulo": "La Cuisine",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "La Cuisine",
+      "tituloOriginal": "เมนูลับฉบับแก้มยุ้ย",
+      "autor": "GrandPine",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000859",
+    "titulo": "Dear Doctor, I'm Coming for Soul",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Khun Mo Khrap, Phom Ma Rap Winyan Khon Khai",
+      "tituloOriginal": "คุณหมอครับ ผมมารับวิญญาณคนไข้",
+      "autor": "Hungry Bird",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000860",
+    "titulo": "KinnPorsche",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "KinnPorsche Story",
+      "tituloOriginal": "รักโคตรร้าย สุดท้ายโคตรรัก",
+      "autor": "Daemi",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000862",
+    "titulo": "Triage",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Triage",
+      "tituloOriginal": "Triage",
+      "autor": "Sammon",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000868",
+    "titulo": "Coffee Melody",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Coffee Melody",
+      "tituloOriginal": "Coffee Melody",
+      "autor": "Gorachanok Boonma",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000871",
+    "titulo": "Unforgotten Night",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Mafia’s Bad Love",
+      "tituloOriginal": "ร้ายนักนะ...รักของมาเฟีย",
+      "autor": "Yeo Nim",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000872",
+    "titulo": "Love Syndrome III",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Love Syndrome",
+      "tituloOriginal": "Love Syndrome",
+      "autor": "Yeo Nim",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000873",
+    "titulo": "Love Syndrome: The Beginning",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Love Syndrome",
+      "tituloOriginal": "Love Syndrome",
+      "autor": "Yeo Nim",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000877",
+    "titulo": "My Only 12%",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "12%",
+      "tituloOriginal": "12%",
+      "autor": "Afterday",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000881",
+    "titulo": "Big Dragon",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Big Dragon",
+      "tituloOriginal": "มังกรกินใหญ่",
+      "autor": "Aiden N Vivienne",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000883",
+    "titulo": "Fahlanruk",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Fahlanruk",
+      "tituloOriginal": "ฟ้าลั่นรัก",
+      "autor": "BamBam",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000886",
+    "titulo": "Ai Long Nhai",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Ai Long Nhai",
+      "tituloOriginal": "อัยย์หลงไน๋",
+      "autor": "Nottakorn",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000889",
+    "titulo": "I Will Knock You",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "I Will Hit You Na, Noei",
+      "tituloOriginal": "พี่จะตีนะเนย",
+      "autor": "KoreanRabbit",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000891",
+    "titulo": "609 Bedtime Story",
+    "anio": 2022,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "609 Bedtime Story",
+      "tituloOriginal": "609 Bedtime Story",
+      "autor": "Saoyrampun",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000894",
+    "titulo": "7 Days Before Valentine",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "7 Days Before Valentine",
+      "tituloOriginal": "7 วันก่อนวาเลนไทน์",
+      "autor": "Patrick Rangsimant",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000895",
+    "titulo": "Absolute Zero",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Absolute Zero",
+      "tituloOriginal": "องศาสูญ",
+      "autor": "Salil",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000897",
+    "titulo": "Be My Favorite",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "บทกวีของปีแสง",
+      "tituloOriginal": "บทกวีของปีแสง",
+      "autor": "JittiRain",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000900",
+    "titulo": "Chains of Heart",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Chains of Heart",
+      "tituloOriginal": "Chains of Heart",
+      "autor": "TJ Tommys",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000903",
+    "titulo": "Destiny Seeker",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Racha Wihok",
+      "tituloOriginal": "ราชาวิหค",
+      "autor": "Chiffon_cake",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000904",
+    "titulo": "Dinosaur Love",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Dinosaur Love",
+      "tituloOriginal": "ไดโนซอร์รัก",
+      "autor": "Scriper",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000906",
+    "titulo": "Future",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Future",
+      "tituloOriginal": "วิศวะสุดหล่อขอหมอเป็นเมีย",
+      "autor": "Faddist",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000909",
+    "titulo": "I Feel You Linger in the Air",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "I Feel You Linger in the Air",
+      "tituloOriginal": "หอมกลิ่นความรัก",
+      "autor": "Violet Rain",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000910",
+    "titulo": "La Pluie",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "La Pluie",
+      "tituloOriginal": "ฝนตกครั้งนั้น…ฉันรักเธอ",
+      "autor": "Eddy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000913",
+    "titulo": "Low Frequency",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Low Frequency",
+      "tituloOriginal": "คลื่นความถี่ต่ำ",
+      "autor": "Dawin",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000914",
+    "titulo": "Make a Wish",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Make a Wish",
+      "tituloOriginal": "ภารกิจนายเทวดา",
+      "autor": "Sammon",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000915",
+    "titulo": "My Dear Gangster Oppa",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Webtoon",
+      "relacion": "Adaptación",
+      "titulo": "The Ideal Relationship",
+      "tituloOriginal": "호형호제",
+      "autor": "KEN",
+      "pais": "KR"
+    }
+  },
+  {
+    "codigo": "DR000919",
+    "titulo": "The Chemistry",
+    "anio": 2027,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "The Chemistry #จ๊าบเจน",
+      "tituloOriginal": "The Chemistry #จ๊าบเจน",
+      "autor": "summer december",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000922",
+    "titulo": "Night Dream",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Night Dream",
+      "tituloOriginal": "คืนฝันของฉันและเธอ",
+      "autor": "Faddist",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000924",
+    "titulo": "Pit Babe",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Pit Babe",
+      "tituloOriginal": "พิษเบ๊บ",
+      "autor": "_alittlebitch",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000925",
+    "titulo": "Pit Babe 2",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Pit Babe 2: The Initium",
+      "tituloOriginal": "พิษเบ๊บ 2: The Initium",
+      "autor": "_alittlebitch",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000929",
+    "titulo": "The Sign",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Premonition",
+      "tituloOriginal": "ลางสังหรณ์",
+      "autor": "I-Rain-Yia",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000930",
+    "titulo": "Tin Tem Jai",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Tin Tem Jai",
+      "tituloOriginal": "ติณณ์เต็มใจ",
+      "autor": "Taohu Khai",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000935",
+    "titulo": "The Whisperer",
+    "anio": 2023,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "The Whisperer",
+      "tituloOriginal": "ศพกระซิบ",
+      "autor": "Phakhinai Kasirak",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000937",
+    "titulo": "Addicted Heroin",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Are You Addicted?",
+      "tituloOriginal": "你丫上瘾了",
+      "autor": "Chai Jidan",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000939",
+    "titulo": "Fourever You",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novelas",
+      "relacion": "Adaptación",
+      "titulo": "East: Tag!, You’re Mine / North: How Much Is Your Love?",
+      "autor": "Howlsairy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000940",
+    "titulo": "Beside The Sky",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "South: Beside the Sky",
+      "tituloOriginal": "ต้นฟ้าไต้ฝุ่น",
+      "autor": "Howlsairy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000941",
+    "titulo": "The Sun From Another Star",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "West: The Sun From Another Star",
+      "tituloOriginal": "อาทิตย์ดาวตก",
+      "autor": "Howlsairy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000942",
+    "titulo": "Lately, It’s Winter Season",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Lately, It’s Winter Season",
+      "tituloOriginal": "ช่วงนี้เดือนหนาว",
+      "autor": "Howlsairy",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000944",
+    "titulo": "A Secretly Love",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Pluem Khonprot",
+      "tituloOriginal": "ปลื้มคนโปรด",
+      "autor": "Avery Pie",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000947",
+    "titulo": "City of Stars",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "City of Stars",
+      "tituloOriginal": "เฟื่องนคร",
+      "autor": "Jidanun Lueangpiansamut",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000948",
+    "titulo": "To Be Continued",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "To Be Continued",
+      "tituloOriginal": "คุณได้ไปต่อ",
+      "autor": "Nottakorn",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000950",
+    "titulo": "Only Boo!",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Khae Thi Kaeng",
+      "tituloOriginal": "แค่ที่แกง",
+      "autor": "peachhplease",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000951",
+    "titulo": "Wandee Goodday",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Wandee Wittaya",
+      "tituloOriginal": "วันดีวิทยา",
+      "autor": "Nottakorn",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000952",
+    "titulo": "My Stand-In",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Professional Body Double",
+      "tituloOriginal": "职业替身",
+      "autor": "Shui Qiancheng",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000956",
+    "titulo": "Sunset x Vibes",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Sunset x Vibes",
+      "tituloOriginal": "เพียงชลาลัย",
+      "autor": "Rosesarin",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000958",
+    "titulo": "This Love Doesn't Have Long Beans",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "This Love Doesn't Have Long Beans",
+      "tituloOriginal": "รักนี้ไม่มีถั่วฝักยาว",
+      "autor": "Ninepinta",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000960",
+    "titulo": "I Saw You in My Dream",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "I Saw You in My Dream",
+      "tituloOriginal": "คุณในฝัน",
+      "autor": "afterday",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000962",
+    "titulo": "Battle of the Writers",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "The Great Battle of Games",
+      "tituloOriginal": "游戏大作战",
+      "autor": "Ping Guo Shu Shu Shu",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR000963",
+    "titulo": "Monster Next Door",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Godzilla Next Door",
+      "tituloOriginal": "พี่เขาบุกโลกของผม",
+      "autor": "Jiwinil",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000969",
+    "titulo": "Bad Guy My Boss",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Bad Guy (My Boss)",
+      "tituloOriginal": "เจ้านาย ร้ายรัก",
+      "autor": "anin19",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000970",
+    "titulo": "High School Frenemy",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Drama",
+      "relacion": "Adaptación",
+      "titulo": "School 2013",
+      "tituloOriginal": "학교 2013",
+      "pais": "KR"
+    }
+  },
+  {
+    "codigo": "DR000972",
+    "titulo": "Your Sky",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Your Sky",
+      "tituloOriginal": "กี่หมื่นฟ้า",
+      "autor": "25.15.66",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000973",
+    "titulo": "Spare Me Your Mercy",
+    "anio": 2024,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Spare Me Your Mercy",
+      "autor": "Sammon",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000986",
+    "titulo": "Flirt Milk",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "รักรสนม(จืด)",
+      "tituloOriginal": "รักรสนม(จืด)",
+      "autor": "arpo_novel",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000990",
+    "titulo": "Last Meal Universe",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "The Last Meal before the World Turns into Galaxy Expressway",
+      "tituloOriginal": "อาหารมื้อสุดท้ายก่อนโลกกลายเป็นทางด่วนอวกาศ",
+      "autor": "Patrick Rangsimant",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000991",
+    "titulo": "Lost in the Woods",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Lost in the Woods",
+      "tituloOriginal": "ฤดูหลงป่า",
+      "autor": "theneoclassic",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000992",
+    "titulo": "Top Form",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Manga",
+      "relacion": "Adaptación",
+      "titulo": "Dakaichi: I'm Being Harassed by the Sexiest Man of the Year",
+      "tituloOriginal": "抱かれたい男1位に脅されています。",
+      "autor": "Hashigo Sakurabi",
+      "pais": "JP"
+    }
+  },
+  {
+    "codigo": "DR000993",
+    "titulo": "My Golden Blood",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "My Golden Blood",
+      "tituloOriginal": "เลือดนายลมหายใจฉัน",
+      "autor": "Dawin",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000994",
+    "titulo": "Sweet Tooth, Good Dentist",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Sweet Tooth, Good Dentist",
+      "tituloOriginal": "แฟนที่ทันตแพทย์ส่วนใหญ่แนะนำ",
+      "autor": "JittiRain",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR000995",
+    "titulo": "Eye Contact",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Eye Contact",
+      "tituloOriginal": "เพียงสบตา",
+      "autor": "Nu",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001003",
+    "titulo": "My Sweetheart Jom",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Wanjai Phuyai Jom",
+      "tituloOriginal": "หวานใจผู้ใหญ่จอม",
+      "autor": "Naoto",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001004",
+    "titulo": "Reset",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "RESET",
+      "tituloOriginal": "RESET การเกิดใหม่ของดวงดาว",
+      "autor": "Crystaljade",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001005",
+    "titulo": "DogBro",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "What's the น้อง? #ใต้กาวน์",
+      "tituloOriginal": "What's the น้อง? #ใต้กาวน์",
+      "autor": "I'm Mynt",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001007",
+    "titulo": "Doctor's Mine",
+    "anio": 2025,
+    "origen": [
+      {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "titulo": "Gown and Gear",
+        "tituloOriginal": "Gown and Gear เมียวิศวะมัน(ส์)ดี หรือหมอจะลอง",
+        "autor": "I'm Mynt",
+        "pais": "TH"
+      },
+      {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "titulo": "Extern",
+        "tituloOriginal": "EXTERN พี่หมอครับ! รับเกียร์แล้วเป็นเมียกูที",
+        "autor": "I'm Mynt",
+        "pais": "TH"
+      }
+    ]
+  },
+  {
+    "codigo": "DR001012",
+    "titulo": "I'm the Most Beautiful Count",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Webtoon",
+      "relacion": "Adaptación",
+      "titulo": "I'm the Most Beautiful Count",
+      "autor": "YKP Studio",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001013",
+    "titulo": "Lover Merman",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Phiang Nawa Lover Merman",
+      "tituloOriginal": "เพียงนาวา",
+      "autor": "Guy Suwannaroj y Lita P.",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001016",
+    "titulo": "My Secret of Seer",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "การโต้กลับของซินแส",
+      "tituloOriginal": "การโต้กลับของซินแส",
+      "autor": "wickedwish_",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001017",
+    "titulo": "Mystique in the Mirror",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Mystique in the Mirror",
+      "tituloOriginal": "ใครในกระจก",
+      "autor": "Patrick III Rangsimant",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001018",
+    "titulo": "Interminable",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "อสงไขย",
+      "tituloOriginal": "อสงไขย",
+      "autor": "Sine",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001020",
+    "titulo": "Let Me Into Your Heart",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Let Me Into Your Heart",
+      "tituloOriginal": "ขอเป็นพระเอกในหัวใจพระเอก?",
+      "autor": "P.PICHA",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001021",
+    "titulo": "My Stubborn",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Nai Hia Bok Mai Chop Dek",
+      "tituloOriginal": "ไหนเฮียบอกไม่ชอบเด็ก",
+      "autor": "MissPa_Ob",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001023",
+    "titulo": "The Love Never Sets",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Ai Ru Yong Zhou",
+      "tituloOriginal": "爱如永昼",
+      "autor": "Ni Zhoumo You Le",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR001024",
+    "titulo": "Me and Thee",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Me and Thee",
+      "tituloOriginal": "มีสติหน่อยคุณธีร์",
+      "autor": "laWila",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001025",
+    "titulo": "Goddess Bless You from Death",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Goddess Bless You from Death",
+      "tituloOriginal": "สิงสาลาตาย",
+      "autor": "MTRD.S.",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001028",
+    "titulo": "Peach Lover",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Peach Lover",
+      "tituloOriginal": "ลูกพีชทานสด",
+      "autor": "HAMSTER",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001032",
+    "titulo": "Love Alert",
+    "anio": 2025,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "มีคำเตือน โปรดระมัดระวัง",
+      "tituloOriginal": "มีคำเตือน โปรดระมัดระวัง",
+      "autor": "Nottakorn",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001033",
+    "titulo": "Yesterday",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "昨天",
+      "tituloOriginal": "昨天",
+      "autor": "Feng Nong",
+      "pais": "CN"
+    }
+  },
+  {
+    "codigo": "DR001035",
+    "titulo": "The Masked Hearts",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela web",
+      "relacion": "Adaptación",
+      "titulo": "Nai Khon",
+      "tituloOriginal": "นายโขน",
+      "autor": "NooDangzz",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001038",
+    "titulo": "Love Upon a Time",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "ภพเธอ",
+      "tituloOriginal": "ภพเธอ",
+      "autor": "Littlebbear96",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001047",
+    "titulo": "PayBack The Series",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Manhwa",
+      "relacion": "Adaptación",
+      "titulo": "PAYBACK",
+      "tituloOriginal": "페이백",
+      "autor": "samk",
+      "ilustrador": "Fujoking",
+      "pais": "KR"
+    }
+  },
+  {
+    "codigo": "DR001049",
+    "titulo": "Lost to Light",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Lost to Light",
+      "tituloOriginal": "อยากจะดัง หรือ อาจจะยัง",
+      "autor": "BamBam",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001052",
+    "titulo": "Don't Be Too Emotional",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Rule No.1: Don't Be Too Emotional",
+      "tituloOriginal": "อย่าขอพี่เจน",
+      "autor": "Hwang Seol",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001054",
+    "titulo": "Mr. Kill",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Mr.Kill",
+      "tituloOriginal": "MR.KILL มังงะสั่งตาย",
+      "autor": "wednesdaytus",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001056",
+    "titulo": "Love Destiny",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Bupphesanniwat",
+      "tituloOriginal": "บุพเพสันนิวาส",
+      "autor": "Rompaeng",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001057",
+    "titulo": "Be My Player Two",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Gamer Lae Nong Doe Khong Khao",
+      "tituloOriginal": "เกมเมอร์และน้องเด๋อของเขา #ซอโซ่ล่ามธีร์",
+      "autor": "Brave2Y",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001058",
+    "titulo": "Class Crush Crisis",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Class Crush Crisis",
+      "tituloOriginal": "เพื่อนสนิทระวังคิดไม่ซื่อ",
+      "autor": "JittiRain",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001060",
+    "titulo": "Love Destiny",
+    "anio": 2018,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Bupphesanniwat",
+      "tituloOriginal": "บุพเพสันนิวาส",
+      "autor": "Rompaeng",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001064",
+    "titulo": "LOVE×3: The Mandatory Love Course",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novelas",
+      "relacion": "Adaptación",
+      "titulo": "Rak Rai Khong Phu Chai Cool Cool; Khao Mun Rop Khwam Rak; Pha Rak Sueksa",
+      "tituloOriginal": "รักร้ายของผู้ชายคูลๆ; เขาหมุนรอบความรัก; พารักศึกษา",
+      "autor": "Chiffon_cake",
+      "pais": "TH"
+    }
+  },
+  {
+    "codigo": "DR001067",
+    "titulo": "Mr. Fanboy",
+    "anio": 2026,
+    "origen": {
+      "tipo": "Novela",
+      "relacion": "Adaptación",
+      "titulo": "Mr. Fanboy",
+      "tituloOriginal": "รักสุดใจนายแฟนบอย",
+      "autor": "littlebbear96",
+      "pais": "TH"
+    }
+  }
+]
