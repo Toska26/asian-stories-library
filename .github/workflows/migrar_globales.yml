@@ -19,7 +19,7 @@ jobs:
           node-version: '24'
 
       - name: Ejecutar script de migración
-        run: node migrar-globales.js
+        run: node scripts/migrar_globales.js
 
       - name: Subir los nuevos ficheros JSON a GitHub
         run: |
