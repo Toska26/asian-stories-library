@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # <-- Esto le da permiso al bot para guardar y hacer git push en tu repositorio
+  contents: write  # Permite al bot guardar y hacer git push en el repositorio
 
 jobs:
   generar:
@@ -24,5 +24,5 @@ jobs:
       - name: 💾 Guardar cambios en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🛠️ Generación manual de indices.json bajo demanda"
-          file_pattern: "datos/indices.json"
+          commit_message: "🛠️ Generación manual de indices.json en informacion/ bajo demanda"
+          file_pattern: "informacion/indices.json"
