@@ -19,7 +19,7 @@ jobs:
           node-version: '24'
 
       - name: Ejecutar script de auditoría
-        run: node auditar.js
+        run: node scripts/auditar.js
 
       - name: Guardar y subir el informe a la carpeta informacion
         run: |
