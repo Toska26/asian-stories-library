@@ -1,9 +1,17 @@
+/**
+ * @file scripts/indice_dramas_alfabetico.js
+ * @description Lee el catálogo compilado en datos/biblioteca.js y genera un listado ordenado alfabéticamente
+ *              en formato de texto plano dentro de informacion/indice_dramas_alfabetico.txt para control interno.
+ * @execution Se ejecuta automáticamente mediante GitHub Actions (.github/workflows/build-biblioteca.yml)
+ *            o manualmente desde consola con: node scripts/indice_dramas_alfabetico.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-// Ruta de tu archivo biblioteca.js (ajusta el nombre si se llama diferente)
-const rutaBiblioteca = path.join(__dirname, 'datos','biblioteca.js');
-const archivoSalida = path.join(__dirname, 'informacion','indice_dramas_alfabetico.txt');
+// Rutas ajustadas para la nueva ubicación en scripts/ (subiendo un nivel con '..')
+const rutaBiblioteca = path.join(__dirname, '..', 'datos', 'biblioteca.js');
+const archivoSalida = path.join(__dirname, '..', 'informacion', 'indice_dramas_alfabetico.txt');
 
 if (!fs.existsSync(rutaBiblioteca)) {
     console.error('No se encuentra el archivo biblioteca.js');
