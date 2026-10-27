@@ -1,7 +1,16 @@
+/**
+ * @file scripts/formatear_dramas.js
+ * @description Aplica un formato compacto y personalizado a los archivos JSON individuales de dramas 
+ *              ubicados en la carpeta datos/dramas/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/formatear-dramas.yml)
+ *            o manualmente desde consola con: node scripts/formatear_dramas.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'datos','dramas');
+// Ruta ajustada a la nueva ubicación dentro de la carpeta scripts/
+const carpetaDramas = path.join(__dirname, '..', 'datos', 'dramas');
 
 function formatearCompacto(obj, nivel = 0) {
     const indent = '  '.repeat(nivel);
