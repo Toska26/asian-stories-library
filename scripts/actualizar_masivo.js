@@ -1,15 +1,26 @@
+/**
+ * @file scripts/actualizar_masivo.js
+ * @description Realiza una actualización masiva y fusionada de los dramas a partir de un fichero 
+ *              de lotes ubicado en informacion/actualizacion_masiva.json y regenera la biblioteca automáticamente.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/actualizar_masivo.yml)
+ *            o manualmente desde consola con: node scripts/actualizar_masivo.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'datos', 'dramas');
-const rutaActualizaciones = path.join(__dirname, 'informacion', 'actualizacion_masiva.json');
+// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+const carpetaDramas = path.join(__dirname, '..', 'datos', 'dramas');
+const rutaActualizaciones = path.join(__dirname, '..', 'informacion', 'actualizacion_masiva.json');
 
 if (!fs.existsSync(carpetaDramas) || !fs.existsSync(rutaActualizaciones)) {
     console.error('❌ No se encuentra la carpeta dramas o el archivo de actualizaciones en informacion/actualizacion_masiva.json');
     process.exit(1);
 }
 
-// Función auxiliar recursiva para fusionar objetos y arrays de forma inteligente
+/**
+ * Función auxiliar recursiva para fusionar objetos y arrays de forma inteligente
+ */
 function fusionarDatos(destino, fuente) {
     for (const clave of Object.keys(fuente)) {
         if (fuente[clave] && typeof fuente[clave] === 'object' && !Array.isArray(fuente[clave])) {
@@ -18,10 +29,6 @@ function fusionarDatos(destino, fuente) {
             }
             fusionarDatos(destino[clave], fuente[clave]);
         } else if (Array.isArray(fuente[clave])) {
-            // Si es un array (como generos, especiales, portada...), 
-            // podemos decidir si lo reemplazamos o lo combinamos. 
-            // Por defecto para listas de datos o nuevos elementos, lo asignamos directamente o lo concatenamos.
-            // Aquí lo asignamos directamente si viene informado, o puedes usar concatenación si lo prefieres.
             destino[clave] = fuente[clave];
         } else {
             destino[clave] = fuente[clave];
@@ -51,7 +58,6 @@ try {
         }
 
         // Buscamos el archivo JSON del drama correspondiente al código
-        // Como los archivos se llaman por ejemplo DR001018.json, buscamos el fichero que coincida
         const archivos = fs.readdirSync(carpetaDramas);
         const archivoEncontrado = archivos.find(arch => {
             if (path.extname(arch).toLowerCase() === '.json') {
@@ -75,7 +81,7 @@ try {
                 // Aplicamos las modificaciones del lote sobre el objeto actual del drama
                 fusionarDatos(dramaObj, item);
 
-                // Guardamos el drama actualizado con formato bonito de 4 espacios
+                // Guardamos el drama actualizado con formato de 4 espacios
                 fs.writeFileSync(rutaDrama, JSON.stringify(dramaObj, null, 4), 'utf8');
                 console.log(`✅ [Actualizado] ${codigoBuscado} (${archivoEncontrado})`);
                 actualizados++;
@@ -88,8 +94,6 @@ try {
         }
     });
 
-    // ... (todo tu código anterior de actualización masiva sigue exactamente igual hasta el resumen) ...
-
     console.log(`\n--------------------------------------------------`);
     console.log(`📊 Resumen: ${actualizados} actualizados, ${noEncontrados} no encontrados.`);
 
@@ -97,7 +101,7 @@ try {
     if (actualizados > 0) {
         console.log(`\n⚙️ Regenerando 'biblioteca.js' e índices automáticamente...`);
         try {
-            // Reutilizamos el script de construcción de la biblioteca
+            // Reutilizamos el script de construcción de la biblioteca ubicado en la misma carpeta scripts/
             require('./build-biblioteca.js');
             console.log(`✅ ¡Biblioteca e índices regenerados con éxito!`);
         } catch (errorBulid) {
@@ -108,4 +112,3 @@ try {
 } catch (e) {
     console.error('❌ Error al leer el fichero de actualizaciones masivas:', e.message);
 }
-
