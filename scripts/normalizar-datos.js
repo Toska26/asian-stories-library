@@ -1,3 +1,11 @@
+/**
+ * @file scripts/normalizar-datos.js
+ * @description Realiza una actualización y normalización masiva de los campos 'estado' y 'tipo'
+ *              en los archivos JSON individuales de los dramas ubicados en datos/dramas/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/actualizar-datos.yml)
+ *            o manualmente desde consola con: node scripts/normalizar-datos.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
