@@ -19,7 +19,7 @@ jobs:
           node-version: '24'
 
       - name: Ejecutar script de actualización masiva
-        run: node actualizar_masivo.js
+        run: node scripts/actualizar_masivo.js
 
       - name: Guardar y subir los cambios en los dramas a GitHub
         run: |
