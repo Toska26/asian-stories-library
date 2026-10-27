@@ -19,7 +19,7 @@ jobs:
           node-version: '18'
 
       - name: Ejecutar script de formateo
-        run: node formatear_dramas.js
+        run: node scripts/formatear_dramas.js
 
       - name: Guardar y subir cambios a GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
