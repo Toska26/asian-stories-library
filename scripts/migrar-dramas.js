@@ -1,17 +1,25 @@
+/**
+ * @file scripts/migrar-dramas.js
+ * @description Migra el archivo antiguo de dramas (datos/DRAMAS_old.js) a archivos JSON 
+ *              individuales optimizados bajo la carpeta datos/dramas/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/migrar.yml)
+ *            o manualmente desde consola con: node scripts/migrar-dramas.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-// 1. Directorio de salida dentro de /datos/dramas
-const dirSalida = path.join(__dirname, 'datos', 'dramas');
+// 1. Directorio de salida dentro de /datos/dramas (ajustado con '..')
+const dirSalida = path.join(__dirname, '..', 'datos', 'dramas');
 if (!fs.existsSync(dirSalida)) {
     fs.mkdirSync(dirSalida, { recursive: true });
 }
 
-// 2. Ruta al archivo original dentro de /datos/
-const rutaArchivoOld = path.join(__dirname, 'datos', 'DRAMAS_old.js');
+// 2. Ruta al archivo original dentro de /datos/ (ajustado con '..')
+const rutaArchivoOld = path.join(__dirname, '..', 'datos', 'DRAMAS_old.js');
 
 if (!fs.existsSync(rutaArchivoOld)) {
-    console.error('❌ Error: No se encontró el archivo datos/dramas_old.js');
+    console.error('❌ Error: No se encontró el archivo datos/DRAMAS_old.js');
     process.exit(1);
 }
 
@@ -75,4 +83,4 @@ if (Array.isArray(dramasExtraidos)) {
 }
 
 console.log(`\n✅ ¡Migración completada con éxito!`);
-console.log(`📦 Total de dramas procesados desde datos/dramas_old.js a datos/dramas/: ${contador}`);
+console.log(`📦 Total de dramas procesados desde datos/DRAMAS_old.js a datos/dramas/: ${contador}`);
