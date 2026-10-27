@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'build-indices.js'
+      - 'scripts/build-indices.js'
 
 concurrency:
   group: indices-build-${{ github.ref }}
@@ -26,7 +26,7 @@ jobs:
           node-version: '24'
 
       - name: Ejecutar generación de índices
-        run: node build-indices.js
+        run: node scripts/build-indices.js
 
       - name: Guardar y subir cambios
         run: |
