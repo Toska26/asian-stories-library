@@ -1,10 +1,19 @@
+/**
+ * @file scripts/build-indices.js
+ * @description Procesa los archivos de la carpeta datos/dramas para generar los índices cruzados
+ *              independientes (personas_dramas.js, ships_dramas.js, entidades_dramas.js) en la carpeta datos/.
+ * @execution Se ejecuta automáticamente mediante GitHub Actions (.github/workflows/build-biblioteca.yml)
+ *            o manualmente desde consola con: node scripts/build-indices.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
-const RUTA_INDEX_PERSONAS = path.join(__dirname, 'datos', 'personas_dramas.js');
-const RUTA_INDEX_SHIPS = path.join(__dirname, 'datos', 'ships_dramas.js');
-const RUTA_INDEX_ENTIDADES = path.join(__dirname, 'datos', 'entidades_dramas.js');
+// Configuración de rutas ajustada a la nueva ubicación en scripts/
+const RUTA_DRAMAS = path.join(__dirname, '..', 'datos', 'dramas');
+const RUTA_INDEX_PERSONAS = path.join(__dirname, '..', 'datos', 'personas_dramas.js');
+const RUTA_INDEX_SHIPS = path.join(__dirname, '..', 'datos', 'ships_dramas.js');
+const RUTA_INDEX_ENTIDADES = path.join(__dirname, '..', 'datos', 'entidades_dramas.js');
 
 function construirIndicesCruzados() {
     console.log('🔄 Generando índices cruzados independientes...');
