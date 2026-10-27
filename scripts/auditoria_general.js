@@ -1,9 +1,18 @@
+/**
+ * @file scripts/auditoria_general.js
+ * @description Realiza una auditoría general de todos los campos de los dramas basándose en informacion/plantilla.json
+ *              y genera un informe completo de campos faltantes en informacion/informe_auditoria_general.txt.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/auditoria_general.yml)
+ *            o manualmente desde consola con: node scripts/auditoria_general.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-const carpetaDramas = path.join(__dirname, 'datos', 'dramas');
-const rutaPlantilla = path.join(__dirname, 'informacion', 'plantilla.json');
-const carpetaInformacion = path.join(__dirname, 'informacion');
+// Rutas ajustadas a la nueva ubicación dentro de la carpeta scripts/
+const carpetaDramas = path.join(__dirname, '..', 'datos', 'dramas');
+const rutaPlantilla = path.join(__dirname, '..', 'informacion', 'plantilla.json');
+const carpetaInformacion = path.join(__dirname, '..', 'informacion');
 
 if (!fs.existsSync(carpetaDramas) || !fs.existsSync(rutaPlantilla)) {
     console.error('No se encuentra la carpeta dramas o el archivo plantilla.json');
@@ -64,7 +73,7 @@ try {
                         const titulo = drama.titulo || archivo;
 
                         lineasResultado.push(`[${codigo}] (${pais} - ${anio})${titulo}`);
-                        lineasResultado.push(`   ❌ Falta / Vacío: ${camposFaltantes.join(', ')}`);
+                        lineasResultado.push(`    ❌ Falta / Vacío: ${camposFaltantes.join(', ')}`);
                         lineasResultado.push(``);
                     }
                 } catch (e) {
