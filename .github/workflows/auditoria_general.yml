@@ -19,7 +19,7 @@ jobs:
           node-version: '24'
 
       - name: Ejecutar script de auditoría general
-        run: node auditoria_general.js
+        run: node scripts/auditoria_general.js
 
       - name: Guardar y subir el informe general a la carpeta informacion
         run: |
