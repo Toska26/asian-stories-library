@@ -1,11 +1,19 @@
+/**
+ * @file scripts/build-biblioteca.js
+ * @description Compila y unifica todos los archivos JSON individuales de la carpeta datos/dramas
+ *              para generar el archivo estático global datos/biblioteca.js que consume el blog.
+ * @execution Se ejecuta automáticamente mediante GitHub Actions (.github/workflows/build-biblioteca.yml)
+ *            o manualmente desde consola con: node scripts/build-biblioteca.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 
-// Configuración de rutas a los nuevos ficheros JSON
-const RUTA_DRAMAS = path.join(__dirname, 'datos', 'dramas');
-const RUTA_SHIPS = path.join(__dirname, 'datos', 'SHIPS.json');
-const RUTA_PERSONAS = path.join(__dirname, 'datos', 'PERSONAS.json');
-const RUTA_OUTPUT = path.join(__dirname, 'datos', 'biblioteca.js');
+// Configuración de rutas a los nuevos ficheros JSON (ajustado a la carpeta scripts/)
+const RUTA_DRAMAS = path.join(__dirname, '..', 'datos', 'dramas');
+const RUTA_SHIPS = path.join(__dirname, '..', 'datos', 'SHIPS.json');
+const RUTA_PERSONAS = path.join(__dirname, '..', 'datos', 'PERSONAS.json');
+const RUTA_OUTPUT = path.join(__dirname, '..', 'datos', 'biblioteca.js');
 
 /**
  * Carga directa y rápida de archivos JSON globales
@@ -225,7 +233,6 @@ function construirBiblioteca() {
 
     // Formateamos cada drama en una sola línea tabulada
     const lineasDramas = listaCompilada.map(drama => `\t${JSON.stringify(drama)}`).join(',\n');
-   // const contenidoOutput = `const biblioteca = [\n${lineasDramas}\n];\n`;
     const contenidoOutput = `window.biblioteca = window.biblioteca || [\n${lineasDramas}\n];\n`;
     fs.writeFileSync(RUTA_OUTPUT, contenidoOutput, 'utf8');
 
