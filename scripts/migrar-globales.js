@@ -1,3 +1,11 @@
+/**
+ * @file scripts/migrar_globales.js
+ * @description Migra archivos globales antiguos de JavaScript ubicados en datos/ a archivos JSON 
+ *              compactos (una línea por elemento) dentro de la misma carpeta datos/.
+ * @execution Se ejecuta mediante GitHub Actions (.github/workflows/migrar_globales.yml)
+ *            o manualmente desde consola con: node scripts/migrar_globales.js
+ */
+
 const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
@@ -11,7 +19,8 @@ const ARCHIVOS_A_MIGRAR = [
     { js: 'PAISES.js', json: 'PAISES.json', varName: 'PAISES' }
 ];
 
-const RUTA_DATOS = path.join(__dirname, 'datos');
+// Ruta ajustada con '..', ya que ahora el script vive en scripts/
+const RUTA_DATOS = path.join(__dirname, '..', 'datos');
 
 function migrarArchivoGlobal(item) {
     const rutaJs = path.join(RUTA_DATOS, item.js);
