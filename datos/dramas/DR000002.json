@@ -46,7 +46,7 @@
       "https://static.wikia.nocookie.net/drama/images/d/d8/2Gether_The_Series-12.jpg/revision/latest?cb=20200221151145&path-prefix=es",
       "https://static.wikia.nocookie.net/drama/images/e/ec/2Gether_The_Series-14.jpg/revision/latest?cb=20200221151232&path-prefix=es",
       "https://static.wikia.nocookie.net/drama/images/d/da/2Gether_The_Series-13.jpg/revision/latest?cb=20200221151223&path-prefix=es",
-     "https://static.wikia.nocookie.net/drama/images/9/9a/2Gether_The_Series-19.jpg/revision/latest?cb=20200221151323&path-prefix=es",
+      "https://static.wikia.nocookie.net/drama/images/9/9a/2Gether_The_Series-19.jpg/revision/latest?cb=20200221151323&path-prefix=es",
       "https://static.wikia.nocookie.net/drama/images/a/a4/2Gether_The_Series-17.jpg/revision/latest?cb=20200221151303&path-prefix=es",
       "https://static.wikia.nocookie.net/drama/images/c/c9/2Gether_The_Series-15.jpg/revision/latest?cb=20200221151243&path-prefix=es",
       "https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es",
@@ -95,15 +95,11 @@
     },
     {
       "persona": "PR000014",
-      "funcion": [
-        "Director"
-      ]
+      "funcion": ["Director"]
     },
     {
       "persona": "PR000015",
-      "funcion": [
-        "Guionista"
-      ]
+      "funcion": ["Guionista"]
     },
     {
       "nombre": "Fong",
@@ -114,17 +110,13 @@
     {
       "nombre": "Longtae",
       "persona": "PR000017",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
       "principal": false
     },
     {
       "nombre": "Ohm",
       "persona": "PR000018",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
       "principal": false
     },
     {
@@ -142,28 +134,24 @@
     {
       "nombre": "Pear",
       "persona": "PR000021",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
       "principal": false
     },
     {
       "nombre": "Pam",
       "persona": "PR000022",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
       "principal": false
     }
   ],
   "ships": [
     {
       "ship": "SH000002",
-      "personajes": ["Sarawat","Tine"],
+      "personajes": ["Sarawat","Tine"]
     },
     {
       "ship": "SH000003",
-      "personajes": ["Man","Type"],
+      "personajes": ["Man","Type"]
     },
     {
       "ship": "SH000004",
