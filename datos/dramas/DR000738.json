@@ -27,28 +27,24 @@
       "nombre": "Kishida Sui",
       "persona": "PR000791",
       "funcion": ["Actor"],
-      "multimedia": ["https://i.mydramalist.com/wJjvbp_5c.jpg"],
       "principal": true
     },
     {
       "nombre": "Kurobe Harutora",
       "persona": "PR000792",
       "funcion": ["Actor"],
-      "multimedia": ["https://i.mydramalist.com/d0Rkd5_5c.jpg"],
       "principal": true
     },
     {
       "nombre": "Shimizu Daiki",
       "persona": "PR000793",
       "funcion": ["Actor"],
-      "multimedia": ["https://i.mydramalist.com/XYeJn_5c.jpg"],
       "principal": false
     },
     {
       "nombre": "Shibusawa Yuma",
       "persona": "PR000794",
       "funcion": ["Actor"],
-      "multimedia": ["https://i.mydramalist.com/zBABwe_5c.jpg"],
       "principal": false
     },
     {
