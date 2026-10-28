@@ -26,33 +26,29 @@
     {
       "nombre": "Kishida Sui",
       "persona": "PR000791",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://i.mydramalist.com/wJjvbp_5c.jpg"],
       "principal": true
     },
     {
       "nombre": "Kurobe Harutora",
       "persona": "PR000792",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://i.mydramalist.com/d0Rkd5_5c.jpg"],
       "principal": true
     },
     {
       "nombre": "Shimizu Daiki",
       "persona": "PR000793",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://i.mydramalist.com/XYeJn_5c.jpg"],
       "principal": false
     },
     {
       "nombre": "Shibusawa Yuma",
       "persona": "PR000794",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://i.mydramalist.com/zBABwe_5c.jpg"],
       "principal": false
     },
     {
@@ -82,10 +78,8 @@
   ],
   "ships": [
     {
-      "personajes": [
-        "Kishida Sui",
-        "Kurobe Harutora"
-      ]
+      "personajes": ["Kishida Sui","Kurobe Harutora"],
+      "multimedia": ["https://i.mydramalist.com/b3W0EV_3f.jpg"],
     }
   ],
   "sinopsis": "Kishida Sui utiliza una máscara emocional para protegerse de los demás. Su rutina cambia cuando el nuevo estudiante Kurobe Harutora se convierte en su compañero de habitación. Mientras Harutora se concentra en el baloncesto, Sui lo ayuda a entrenar y ambos comienzan a acercarse hasta que sus sentimientos salen a la luz.",
@@ -98,7 +92,12 @@
       {
         "titulo": "Japanese BL Series \"Hold on, Harutora-kun\" Official Trailer | GagaOOLala",
         "url": "http://www.youtube.com/watch?v=ciDSRrnzmpc"
+      },
+      {
+        "titulo": "Hold on, Harutora-kun Official Trailer",
+        "url": "https://v.mydramalist.com/023/023e1de20a1a68aab1eeb0562b018ed4.mp4"
       }
+      
     ],
     "teaser": [
       {
