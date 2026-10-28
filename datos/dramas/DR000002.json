@@ -168,7 +168,7 @@
     {
       "ship": "SH000002",
       "personajes": ["Sarawat","Tine"],
-      "multimedia": [¨https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es"]
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es"]
     },
     {
       "ship": "SH000003",
