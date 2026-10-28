@@ -39,10 +39,11 @@
       "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
       "https://i.pinimg.com/736x/d8/92/4b/d8924b666e81f28e38869c17fc0f67ba.jpg",
       "https://i.pinimg.com/1200x/c1/63/df/c163dfe30967bdf61544e7569fe3df40.jpg",
-      "https://i.pinimg.com/736x/72/f3/38/72f33854b892c03a0ba5a3c6a8436a0e.jpg"
+      "https://i.pinimg.com/736x/72/f3/38/72f33854b892c03a0ba5a3c6a8436a0e.jpg",
+      ¨https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es"
     ],
     "trailer": [
-      "https://www.youtube.com/watch?v=6OQl08Weel4"
+      "https://www.youtube.com/watch?v=6OQl08Weel4","https://www.viki.com/videos/1237042v"
     ]
   },
   "personas": [
@@ -166,10 +167,8 @@
   "ships": [
     {
       "ship": "SH000002",
-      "personajes": [
-        "Sarawat",
-        "Tine"
-      ]
+      "personajes": ["Sarawat","Tine"],
+      "multimedia":[¨https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es"]
     },
     {
       "ship": "SH000003",
