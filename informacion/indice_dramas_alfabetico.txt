@@ -328,6 +328,7 @@ DR000221	TW	2019	HIStory3: Trapped T3
 DR000223	TW	2021	HIStory4: Close to You T4
 DR000224	TW	2022	HIStory5: Love in the Future T5
 DR000907	TH	2023	Hit Bite Love
+DR000738	JP	2026	Hold on, Harutora-kun
 DR000514	CN	2017	Holy Fox Son 1: Advent
 DR000515	CN	2017	Holy Fox Son 2: Fairy Mountain Battle
 DR000840	TH	2021	Hometown's Embrace
