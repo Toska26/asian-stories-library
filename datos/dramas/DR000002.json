@@ -39,8 +39,8 @@
       "https://upload.wikimedia.org/wikipedia/en/6/68/2gether_The_Series_2020_poster.jpg",
       "https://i.pinimg.com/736x/d8/92/4b/d8924b666e81f28e38869c17fc0f67ba.jpg",
       "https://i.pinimg.com/1200x/c1/63/df/c163dfe30967bdf61544e7569fe3df40.jpg",
-      "https://i.pinimg.com/736x/72/f3/38/72f33854b892c03a0ba5a3c6a8436a0e.jpg",
-      "https://static.wikia.nocookie.net/drama/images/8/8f/2Gether_The_Series-7.jpg/revision/latest?cb=20200221151030&path-prefix=es"
+      "https://i.pinimg.com/736x/72/f3/38/72f33854b892c03a0ba5a3c6a8436a0e.jpg"
+     
     ],
     "trailer": [
       "https://www.youtube.com/watch?v=6OQl08Weel4","https://www.viki.com/videos/1237042v"
@@ -50,49 +50,43 @@
     {
       "nombre": "Sarawat",
       "persona": "PR000008",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/c/ce/2Gether_The_Series-8.jpg/revision/latest?cb=20200221151040&path-prefix=es"],
       "principal": true
     },
     {
       "nombre": "Tine",
       "persona": "PR000009",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/5/5f/2Gether_The_Series-9.jpg/revision/latest?cb=20200221151055&path-prefix=es"],
       "principal": true
     },
     {
       "nombre": "Man",
       "persona": "PR000010",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+       "multimedia": ["https://static.wikia.nocookie.net/drama/images/9/9a/2Gether_The_Series-11.jpg/revision/latest?cb=20200221151120&path-prefix=es"],
       "principal": false
     },
     {
       "nombre": "Type",
       "persona": "PR000011",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/d/d8/2Gether_The_Series-12.jpg/revision/latest?cb=20200221151145&path-prefix=es"],
       "principal": false
     },
     {
       "nombre": "Phukong",
       "persona": "PR000012",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+       "multimedia": ["https://static.wikia.nocookie.net/drama/images/e/ec/2Gether_The_Series-14.jpg/revision/latest?cb=20200221151232&path-prefix=es"],
       "principal": false
     },
     {
       "nombre": "Mil",
       "persona": "PR000013",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/d/da/2Gether_The_Series-13.jpg/revision/latest?cb=20200221151223&path-prefix=es"],
       "principal": false
     },
     {
@@ -134,17 +128,15 @@
     {
       "nombre": "Green",
       "persona": "PR000019",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/a/a4/2Gether_The_Series-17.jpg/revision/latest?cb=20200221151303&path-prefix=es"],
       "principal": false
     },
     {
       "nombre": "Dim",
       "persona": "PR000020",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/c/c9/2Gether_The_Series-15.jpg/revision/latest?cb=20200221151243&path-prefix=es"],    
       "principal": false
     },
     {
@@ -172,10 +164,8 @@
     },
     {
       "ship": "SH000003",
-      "personajes": [
-        "Man",
-        "Type"
-      ]
+      "personajes": ["Man","Type"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/e/e4/2Gether_The_Series-10.jpg/revision/latest?cb=20200221151105&path-prefix=es"]
     },
     {
       "ship": "SH000004",
