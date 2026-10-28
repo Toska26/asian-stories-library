@@ -104,9 +104,8 @@
     {
       "nombre": "Fong",
       "persona": "PR000016",
-      "funcion": [
-        "Actor"
-      ],
+      "funcion": ["Actor"],
+      "multimedia": ["https://static.wikia.nocookie.net/drama/images/9/9a/2Gether_The_Series-19.jpg/revision/latest?cb=20200221151323&path-prefix=es"],
       "principal": false
     },
     {
