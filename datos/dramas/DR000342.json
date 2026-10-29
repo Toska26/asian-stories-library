@@ -1,36 +1,41 @@
 {
-  "codigo": "DR000342",
-  "titulo": "How To Heal My Broken Heart",
-  "alias": [
-    "Simply Don't Season 2",
-    "Simply Don't Season 2: How To Heal My Broken Heart"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2021,
-  "tipo": "DR",
-  "serie": "SR000341",
-  "temporadas": 2,
-  "temporada": 2,
-  "episodios": 9,
-  "duracion": 20,
-  "estado": "finalizado",
-  "estreno": "2021-09-18",
-  "finalizacion": "2022-01-25",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Amor",
-    "Desamor",
-    "Relaciones",
-    "Segunda temporada"
-  ],
-  "sinopsis": "La historia continúa después de los acontecimientos de Simply Don’t, profundizando en los sentimientos y conflictos que quedaron pendientes entre Liam, su pareja y su mejor amigo mientras intentan afrontar las consecuencias de sus decisiones.",
-  "activo": true
+    "codigo": "DR000342",
+    "titulo": "How To Heal My Broken Heart",
+    "alias": [
+        "Simply Don't Season 2",
+        "Simply Don't Season 2: How To Heal My Broken Heart"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2021,
+    "tipo": "DR",
+    "serie": "SR000341",
+    "temporadas": 2,
+    "temporada": 2,
+    "episodios": 9,
+    "duracion": 20,
+    "estado": "finalizado",
+    "estreno": "2021-09-18",
+    "finalizacion": "2022-01-25",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL",
+        "Romance",
+        "Amor",
+        "Desamor",
+        "Relaciones",
+        "Segunda temporada"
+    ],
+    "sinopsis": "La historia continúa después de los acontecimientos de Simply Don’t, profundizando en los sentimientos y conflictos que quedaron pendientes entre Liam, su pareja y su mejor amigo mientras intentan afrontar las consecuencias de sus decisiones.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/jDWNO_4f.jpg"
+        ]
+    }
 }

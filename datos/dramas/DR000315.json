@@ -1,41 +1,46 @@
 {
-  "codigo": "DR000315",
-  "titulo": "Kamisetang Papel",
-  "alias": [
-    "Paper Shirt"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2021,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 6,
-  "duracion": 21,
-  "estado": "finalizado",
-  "estreno": "2021-02-01",
-  "finalizacion": "2021-03-17",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Amistad",
-    "Amor secreto",
-    "Amigos de infancia"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Efren",
-        "Carlo"
-      ]
+    "codigo": "DR000315",
+    "titulo": "Kamisetang Papel",
+    "alias": [
+        "Paper Shirt"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2021,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 6,
+    "duracion": 21,
+    "estado": "finalizado",
+    "estreno": "2021-02-01",
+    "finalizacion": "2021-03-17",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL",
+        "Romance",
+        "Amistad",
+        "Amor secreto",
+        "Amigos de infancia"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Efren",
+                "Carlo"
+            ]
+        }
+    ],
+    "sinopsis": "Efren y Carlo son dos amigos cercanos cuyos sentimientos van mucho más allá de la amistad. Mientras ambos intentan ocultar lo que sienten, la historia revela progresivamente el amor que mantienen en secreto y las dificultades que aparecen cuando una amistad profundamente arraigada comienza a transformarse en una relación romántica.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/2/2d/Kamisetang_Papel.jpg/revision/latest?cb=20210222181802&path-prefix=es"
+        ]
     }
-  ],
-  "sinopsis": "Efren y Carlo son dos amigos cercanos cuyos sentimientos van mucho más allá de la amistad. Mientras ambos intentan ocultar lo que sienten, la historia revela progresivamente el amor que mantienen en secreto y las dificultades que aparecen cuando una amistad profundamente arraigada comienza a transformarse en una relación romántica.",
-  "activo": true
 }

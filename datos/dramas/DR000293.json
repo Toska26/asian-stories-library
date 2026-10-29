@@ -1,27 +1,32 @@
 {
-  "codigo": "DR000293",
-  "titulo": "Strange Heart",
-  "alias": [
-    "When Two Hearts Beat As One"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2020,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 4,
-  "estado": "cancelado",
-  "estreno": "2020-10-26",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL"
-  ],
-  "sinopsis": "",
-  "activo": true
+    "codigo": "DR000293",
+    "titulo": "Strange Heart",
+    "alias": [
+        "When Two Hearts Beat As One"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2020,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 4,
+    "estado": "cancelado",
+    "estreno": "2020-10-26",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL"
+    ],
+    "sinopsis": "",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/252DR_4f.jpg"
+        ]
+    }
 }

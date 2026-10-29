@@ -1,41 +1,46 @@
 {
-  "codigo": "DR000303",
-  "titulo": "Unguarded",
-  "alias": [
-    "Unguarded: A Mini Series"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2020,
-  "tipo": "DR",
-  "franquicia": {
-    "codigo": "FR000025",
-    "orden": 3
-  },
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 4,
-  "duracion": 19,
-  "estado": "finalizado",
-  "estreno": "2020-11-21",
-  "finalizacion": "2020-12-12",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Mark Lee",
-        "Lukas"
-      ]
+    "codigo": "DR000303",
+    "titulo": "Unguarded",
+    "alias": [
+        "Unguarded: A Mini Series"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2020,
+    "tipo": "DR",
+    "franquicia": {
+        "codigo": "FR000025",
+        "orden": 3
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 4,
+    "duracion": 19,
+    "estado": "finalizado",
+    "estreno": "2020-11-21",
+    "finalizacion": "2020-12-12",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Mark Lee",
+                "Lukas"
+            ]
+        }
+    ],
+    "sinopsis": "Después de los acontecimientos de Hook Up, Mark Lee acaba en casa de Lukas, lo que da comienzo a una nueva etapa de su historia. Mientras ambos se conocen mejor, un beso provoca confusión y posteriormente una revelación sobre sus sentimientos. La historia continúa explorando la relación entre Mark Lee y Lukas y las circunstancias que rodearon la ausencia de Lukas junto a Henry.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/6/6d/Unguarded.jpg/revision/latest?cb=20210226202745&path-prefix=es"
+        ]
     }
-  ],
-  "sinopsis": "Después de los acontecimientos de Hook Up, Mark Lee acaba en casa de Lukas, lo que da comienzo a una nueva etapa de su historia. Mientras ambos se conocen mejor, un beso provoca confusión y posteriormente una revelación sobre sus sentimientos. La historia continúa explorando la relación entre Mark Lee y Lukas y las circunstancias que rodearon la ausencia de Lukas junto a Henry.",
-  "activo": true
 }

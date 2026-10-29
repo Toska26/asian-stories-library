@@ -1,27 +1,33 @@
 {
-  "codigo": "DR000290",
-  "titulo": "Island",
-  "alias": [
-    "Island The Series"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2020,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 5,
-  "estado": "cancelado",
-  "estreno": "2020",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL"
-  ],
-  "sinopsis": "",
-  "activo": true
+    "codigo": "DR000290",
+    "titulo": "Island",
+    "alias": [
+        "Island The Series"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2020,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 5,
+    "estado": "cancelado",
+    "estreno": "2020",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL"
+    ],
+    "sinopsis": "",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/ENOzb_4f.jpg",
+            "https://static.wikia.nocookie.net/drama/images/0/0b/Island_The_Series.jpg/revision/latest/scale-to-width-down/1000?cb=20210311190329&path-prefix=es"
+        ]
+    }
 }

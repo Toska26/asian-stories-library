@@ -1,36 +1,41 @@
 {
-  "codigo": "DR000298",
-  "titulo": "Third and Josh",
-  "alias": [
-    "Third And Josh"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2020,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 2,
-  "duracion": 6,
-  "estado": "finalizado",
-  "estreno": "2020-11-29",
-  "finalizacion": "2020-12-13",
-  "generos": [
-    "BL",
-    "Romance"
-  ],
-  "tags": [
-    "BL"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Third",
-        "Josh"
-      ]
+    "codigo": "DR000298",
+    "titulo": "Third and Josh",
+    "alias": [
+        "Third And Josh"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2020,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 2,
+    "duracion": 6,
+    "estado": "finalizado",
+    "estreno": "2020-11-29",
+    "finalizacion": "2020-12-13",
+    "generos": [
+        "BL",
+        "Romance"
+    ],
+    "tags": [
+        "BL"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Third",
+                "Josh"
+            ]
+        }
+    ],
+    "sinopsis": "",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/wEbwk_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "",
-  "activo": true
 }
