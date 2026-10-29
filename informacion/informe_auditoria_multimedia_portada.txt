@@ -1,56 +1,7 @@
 🔎 Auditoría de campo: [ multimedia.portada ]
 --------------------------------------------------
-DR000026	TH	2016	Kiss: The Series
-DR000028	TH	2019	Dark Blue Kiss
 DR000177	KR	2026	Opposites Attract
-DR000208	KR	2026	Just Friend
 DR000210	KR	2026	Backdoor Part 2
-DR000274	PH	2020	Quaranthings: The Series
-DR000275	PH	2021	Quaranthings 2
-DR000276	PH	2020	Why Love Why
-DR000278	PH	2020	My Day: The Series
-DR000280	PH	2023	Our Story: The Series
-DR000281	PH	2020	Sakristan
-DR000285	PH	2020	Unexpected
-DR000286	PH	2020	Oh My Sexual
-DR000287	PH	2020	Safe Haven
-DR000288	PH	2020	My Extraordinary
-DR000290	PH	2020	Island
-DR000291	PH	2020	Swap Test
-DR000293	PH	2020	Strange Heart
-DR000298	PH	2020	Third and Josh
-DR000301	PH	2020	Truly Very Yours
-DR000303	PH	2020	Unguarded
-DR000304	PH	2020	Kumusta Bro?
-DR000306	PH	2020	Influencers
-DR000308	PH	2021	Padayon
-DR000309	PH	2021	Paano Kaya Kung Tayo?
-DR000312	PH	2021	Jack & Jill
-DR000313	PH	2021	HeartBreak Mountain
-DR000314	PH	2021	Stranger's Kiss
-DR000315	PH	2021	Kamisetang Papel
-DR000316	PH	2021	The Alter
-DR000319	PH	2021	Love at the End of the World
-DR000320	PH	2021	Jojowain o Totropahin
-DR000321	PH	2021	He's Mine
-DR000322	PH	2021	Pisces
-DR000323	PH	2021	The Guitar Man
-DR000324	PH	2021	Him Will Be His
-DR000325	PH	2021	Love By Fehler
-DR000327	PH	2021	Serpiente
-DR000328	PH	2021	Pay-Ibig
-DR000329	PH	2021	Saan, Sana Tayo sa Himig ng Musika
-DR000330	PH	2021	Limited Edition
-DR000331	PH	2021	Love Is
-DR000332	PH	2021	Wheel of Love: Weekend to Remember
-DR000335	PH	2021	One Day Pag-ibig
-DR000336	PH	2021	Till Death Do Us Part
-DR000337	PH	2021	Lust Never Lasts
-DR000338	PH	2021	Love or Lie
-DR000339	PH	2021	My Toxic Lover
-DR000340	PH	2021	Worth The Wait
-DR000341	PH	2021	Simply Don't
-DR000342	PH	2021	How To Heal My Broken Heart
 DR000343	PH	2021	Meet My Angel
 DR000344	PH	2022	Meet My Angel 2
 DR000345	PH	2021	Stuck On You
@@ -374,4 +325,4 @@ DR001046	TH	2026	My Grandpa Is a BL Writer
 DR001059	TH	2026	Match Point
 DR001061	TH	2026	New Boyfriend
 --------------------------------------------------
-📊 Total dramas sin el campo "multimedia.portada": 373
+📊 Total dramas sin el campo "multimedia.portada": 324
