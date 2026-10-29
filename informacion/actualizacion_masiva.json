@@ -1,22 +1,190 @@
-
 [
-
   {
-    "codigo": "DR000026",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/16149f.jpg"
-      ]
-    }
+  "codigo": "DR000208",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/8Q0Y3A_4f.jpg"   ] }
   },
   {
-    "codigo": "DR000028",
-    "multimedia": {
-      "portada": [
-        "https://i.mydramalist.com/32763f.jpg"
-      ]
-    }
+  "codigo": "DR000274",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/wg1z8_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000275",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/dm0N0_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000276",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/6NELX_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000278",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/2DRqOf.jpg"   ] }
+  },
+  {
+  "codigo": "DR000280",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/Z87QQW_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000281",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/XbABOf.jpg"   ] }
+  },
+  {
+  "codigo": "DR000285",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/qg60z_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000286",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/8/89/Oh_My_Sexual.jpg/revision/latest?cb=20200926002944&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000287",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/4/43/SafeHaven.jpg/revision/latest/scale-to-width-down/1000?cb=20200813213815&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000288",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/W707p_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000290",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/ENOzb_4f.jpg","https://static.wikia.nocookie.net/drama/images/0/0b/Island_The_Series.jpg/revision/latest/scale-to-width-down/1000?cb=20210311190329&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000291",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/w3zWJ_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000293",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/252DR_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000298",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/wEbwk_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000301",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/WAjwlf.jpg"   ] }
+  },
+  {
+  "codigo": "DR000303",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/6/6d/Unguarded.jpg/revision/latest?cb=20210226202745&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000304",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/9/90/Kumusta_Bro.jpg/revision/latest?cb=20200722205739&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000306",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/r3BWN_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000308",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/BZNQl_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000309",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/BEwvq_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000312",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/qvlkQ_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000313",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/By3Pq_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000314",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/Qx4mQ_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000315",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/2/2d/Kamisetang_Papel.jpg/revision/latest?cb=20210222181802&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000316",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/ByyP6_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000319",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/BVYYA_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000320",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/jwJKO_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000321",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/woJnb_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000322",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/WoWB5_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000323",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/rjypj_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000324",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/ZwAXL_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000325",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/6PPX2_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000327",
+  "multimedia": {  "portada": [  "https://static.wikia.nocookie.net/drama/images/5/58/Serpiente.jpg/revision/latest?cb=20210405123853&path-prefix=es"   ] }
+  },
+  {
+  "codigo": "DR000328",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/ZxObW_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000329",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/pNlDe_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000330",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/R4drg_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000331",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/xz1Q0_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000332",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/2BKvW_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000335",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/6dyPP_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000336",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/WwmBX_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000337",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/BE6yz_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000338",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/ZjQmq_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000339",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/kPeKr_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000340",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/BE2X6_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000341",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/e2Ezp_4f.jpg"   ] }
+  },
+  {
+  "codigo": "DR000342",
+  "multimedia": {  "portada": [  "https://i.mydramalist.com/jDWNO_4f.jpg"   ] }
   }
-
-
 ]
