@@ -126,5 +126,117 @@
         "funcion": ["Guionista"]
       }
     ]
+  },
+  {
+    "codigo": "DR001062",
+    "personas": [
+      {
+        "nombre": "Bae",
+        "persona": "PR000559",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Lucky",
+        "persona": "PR000562",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Jet",
+        "persona": "PR000293",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Mint",
+        "persona": "PR000543",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000822",
+        "funcion": ["Director"]
+      },
+      {
+        "persona": "PR000823",
+        "funcion": ["Guionista"]
+      }
+    ]
+  },
+  {
+    "codigo": "DR001063",
+    "personas": [
+      {
+        "nombre": "Fix",
+        "persona": "PR000314",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Love",
+        "persona": "PR000820",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Ohm",
+        "persona": "PR000451",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Earn",
+        "persona": "PR000439",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000075",
+        "funcion": ["Director"]
+      },
+      {
+        "persona": "PR000135",
+        "funcion": ["Guionista"]
+      }
+    ]
+  },
+  {
+    "codigo": "DR001064",
+    "personas": [
+      {
+        "nombre": "Alpha",
+        "persona": "PR000529",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Beta",
+        "persona": "PR000530",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Gamma",
+        "persona": "PR000114",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Delta",
+        "persona": "PR000534",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000158",
+        "funcion": ["Director"]
+      },
+      {
+        "persona": "PR000821",
+        "funcion": ["Guionista"]
+      }
+    ]
   }
+
 ]
