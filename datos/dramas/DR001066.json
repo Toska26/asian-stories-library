@@ -1,58 +1,100 @@
 {
-  "codigo": "DR001066",
-  "titulo": "You Maniac",
-  "tituloOriginal": "เดี๋ยวจะรักซะให้บ้า",
-  "alias": [
-    "Hold On, I’ll Love You Like Crazy",
-    "Diao Ja Rak Sa Hai Ba",
-    "Diao Cha Rak Sa Hai Ba"
-  ],
-  "pais": [
-    "TH"
-  ],
-  "anio": 2026,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 10,
-  "estado": "en_emision",
-  "estreno": "2026-08-29",
-  "generos": [
-    "BL",
-    "Romance",
-    "Comedia",
-    "Drama"
-  ],
-  "tags": [
-    "Relación fingida",
-    "Mujeriego",
-    "Opuestos se atraen",
-    "Triángulo amoroso",
-    "Enamoramiento no correspondido",
-    "Señales contradictorias",
-    "Artistas",
-    "Celos",
-    "GMMTV"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Dean",
-        "Moth"
-      ]
+    "codigo": "DR001066",
+    "titulo": "You Maniac",
+    "tituloOriginal": "เดี๋ยวจะรักซะให้บ้า",
+    "alias": [
+        "Hold On, I’ll Love You Like Crazy",
+        "Diao Ja Rak Sa Hai Ba",
+        "Diao Cha Rak Sa Hai Ba"
+    ],
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 10,
+    "estado": "en_emision",
+    "estreno": "2026-08-29",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia",
+        "Drama"
+    ],
+    "tags": [
+        "Relación fingida",
+        "Mujeriego",
+        "Opuestos se atraen",
+        "Triángulo amoroso",
+        "Enamoramiento no correspondido",
+        "Señales contradictorias",
+        "Artistas",
+        "Celos",
+        "GMMTV"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Dean",
+                "Moth"
+            ]
+        },
+        {
+            "personajes": [
+                "Ten",
+                "Pun"
+            ]
+        }
+    ],
+    "sinopsis": "Dean es un joven atractivo, sociable y acostumbrado a coquetear sin comprometerse sentimentalmente. Su amigo Ten quiere conquistar a Pun, pero Pun ya siente algo por Moth, un artista excéntrico y de personalidad directa. Para ayudar a Ten, Dean acepta acercarse a Moth y distraerlo, convencido de que podrá controlar la situación sin enamorarse. Sin embargo, Moth no responde a sus habituales técnicas de seducción y convierte el reto en una competición que despierta sentimientos genuinos en Dean. Mientras la relación entre Dean y Moth evoluciona de manera inesperada, Ten y Pun también empiezan a aclarar lo que sienten el uno por el otro.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://pic4.iqiyipic.com/image/20260831/24/61/a_101367999_m_600_en_m3_440_608.webp"
+        ]
     },
-    {
-      "personajes": [
-        "Ten",
-        "Pun"
-      ]
-    }
-  ],
-  "sinopsis": "Dean es un joven atractivo, sociable y acostumbrado a coquetear sin comprometerse sentimentalmente. Su amigo Ten quiere conquistar a Pun, pero Pun ya siente algo por Moth, un artista excéntrico y de personalidad directa. Para ayudar a Ten, Dean acepta acercarse a Moth y distraerlo, convencido de que podrá controlar la situación sin enamorarse. Sin embargo, Moth no responde a sus habituales técnicas de seducción y convierte el reto en una competición que despierta sentimientos genuinos en Dean. Mientras la relación entre Dean y Moth evoluciona de manera inesperada, Ten y Pun también empiezan a aclarar lo que sienten el uno por el otro.",
-  "activo": true,
-  "multimedia": {
-    "portada": [
-      "https://pic4.iqiyipic.com/image/20260831/24/61/a_101367999_m_600_en_m3_440_608.webp"
+    "personas": [
+        {
+            "persona": "PR000528",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000211",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000735",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000815",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000814",
+            "funcion": [
+                "Director"
+            ]
+        },
+        {
+            "persona": "PR000818",
+            "funcion": [
+                "Guionista"
+            ]
+        }
     ]
-  }
 }
