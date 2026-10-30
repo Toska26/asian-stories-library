@@ -1097,4 +1097,53 @@
         "activo": true
     }
 
+    {
+        "codigo": "PR000824",
+        "nombre": "Phawat Panangkasiri",
+        "nombreOriginal": "",
+        "nombreArtistico": "Mai",
+        "alias": ["Mai", "Phawat Panangkasiri"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Director"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+    {
+        "codigo": "PR000825",
+        "nombre": "Paisarn Sungkhapreecha",
+        "nombreOriginal": "",
+        "nombreArtistico": "Paisarn",
+        "alias": ["Paisarn"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Guionista"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+    {
+        "codigo": "PR000826",
+        "nombre": "Thanawat Wattanaputi",
+        "nombreOriginal": "",
+        "nombreArtistico": "Pope",
+        "alias": ["Pope", "Thanawat Wattanaputi"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Actor"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+    {
+        "codigo": "PR000827",
+        "nombre": "Ranee Campen",
+        "nombreOriginal": "",
+        "nombreArtistico": "Bella",
+        "alias": ["Bella", "Ranee Campen"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Actor"],
+        "multimedia": {"foto": []},
+        "activo": true
+    }
+
 ]
