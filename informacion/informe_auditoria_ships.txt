@@ -1,0 +1,129 @@
+🔎 Auditoría de campo: [ ships ]
+--------------------------------------------------
+DR000196	KR	2026	Fix the Error!
+DR000208	KR	2026	Just Friend
+DR000209	KR	2026	Love Penalty
+DR000211	KR	2026	Boy, with Caution
+DR000212	KR	2026	Rule 101
+DR000244	TW	2026	Double Shuffle
+DR000245	TW	2024	Let's Talk About Chu
+DR000250	TW	2024	The Nipple Talk
+DR000286	PH	2020	Oh My Sexual
+DR000290	PH	2020	Island
+DR000291	PH	2020	Swap Test
+DR000293	PH	2020	Strange Heart
+DR000295	PH	2020	Oh, Mando!
+DR000297	PH	2020	Got'chu Fam!
+DR000300	PH	2020	Ang Pokpok ng Pandemya
+DR000318	PH	2021	In This Kaleidoscope World
+DR000320	PH	2021	Jojowain o Totropahin
+DR000322	PH	2021	Pisces
+DR000323	PH	2021	The Guitar Man
+DR000324	PH	2021	Him Will Be His
+DR000325	PH	2021	Love By Fehler
+DR000326	PH	2021	Game Over
+DR000336	PH	2021	Till Death Do Us Part
+DR000337	PH	2021	Lust Never Lasts
+DR000338	PH	2021	Love or Lie
+DR000341	PH	2021	Simply Don't
+DR000342	PH	2021	How To Heal My Broken Heart
+DR000347	PH	2021	Rewrite the Stars
+DR000353	PH	2024	PRESO End
+DR000358	PH	2022	The Watchers
+DR000360	PH	2022	Indigo
+DR000365	PH	2022	Inseparable
+DR000367	PH	2022	Stranger's Love
+DR000368	PH	2022	Twinkle, Twinkle Little Star
+DR000374	PH	2023	Lonely Connections
+DR000379	PH	2023	A Story to Remember
+DR000380	PH	2023	Ever After
+DR000383	PH	2024	Baka Pwede Pa?
+DR000384	PH	2024	The Perfect Heartbreak
+DR000394	PH	2026	That Summer: Reunion
+DR000401	PH	2026	The Red Leash
+DR000404	VN	2017	Adam's Story
+DR000409	VN	2017	Forever Love
+DR000415	VN	2019	Bà 5 Bống
+DR000416	VN	2019	Bà 5 Bống Phần 2
+DR000417	VN	2019	Bao Lô
+DR000418	VN	2019	Thập Tứ Cô Nương
+DR000420	VN	2019	Bệnh Viện Thần Ái
+DR000421	VN	2019	Sạc Pin Trái Tim
+DR000422	VN	2019	Ai Là Người Thứ Ba
+DR000423	VN	2019	Trật Tự Mới
+DR000425	VN	2019	Hey! First Love
+DR000426	VN	2019	Thư Viện Ký Ức
+DR000428	VN	2019	Nhà Trọ Có Quá Trời Phòng
+DR000431	VN	2020	Nhà Trọ Có Quá Trời Phòng Phần 2
+DR000432	VN	2023	Nhà Trọ Có Quá Trời Phòng Phần 3
+DR000435	VN	2020	The Time Adventure of Tô An
+DR000436	VN	2020	Stage of Love
+DR000437	VN	2020	My Little Sister
+DR000438	VN	2020	Happiness Flies Far Away
+DR000439	VN	2020	Follow My Sunshine
+DR000440	VN	2020	Nation's Brother
+DR000453	VN	2021	FOOLs – Những Kẻ Khờ
+DR000454	VN	2021	School's Out! Let's Date Now!
+DR000465	VN	2023	For You A Thousand Times
+DR000478	VN	2025	I Have a Little Story
+DR000479	VN	2025	Life Gives Us Sadness
+DR000485	VN	2026	The Night Before Blossom
+DR000486	VN	2026	Hạ Cuối, Biển Xanh Và Em
+DR000487	VN	2026	Sending My Pain to the Wind
+DR000495	HK	2023	My Colleague at BL Shop Might Be The Meant-To-Be
+DR000498	HK	2022	BOYS
+DR000520	CN	2019	The Living Dead
+DR000521	CN	2020	Fatal Journey
+DR000536	CN	2024	Gym Affairs
+DR000585	CN	2026	Archives: The Nanyang Mystery
+DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
+DR000634	JP	2021	A Man Who Defies the World of BL
+DR000635	JP	2022	A Man Who Defies the World of BL 2
+DR000636	JP	2024	A Man Who Defies the World of BL 2024
+DR000637	JP	2025	A Man Who Defies the World of BL Final
+DR000649	JP	2022	Fudanshi Bartender
+DR000679	JP	2024	My Strawberry Film
+DR000722	JP	2026	I'm Kishi Knight: Your Private Tutor
+DR000773	TH	2023	Our Skyy 2
+DR000774	TH	2018	Our Skyy
+DR000782	TH	2019	With Love
+DR000800	TH	2020	The Shipper
+DR000804	TH	2020	Puppy Love
+DR000831	TH	2021	Hidden Love
+DR000875	TH	2022	180 Degree Longitude Passes Through Us
+DR000879	TH	2022	Self
+DR000927	TH	????	Playboyy Season 2
+DR000928	TH	2023	Shadow
+DR000933	TH	2022	My Tempo
+DR000938	TH	2024	Close Friend 3: Soju Bomb!
+DR000964	TH	2024	Peaceful Property
+DR000970	TH	2024	High School Frenemy
+DR000980	TH	2025	MU-TE-LUV: Diva Deva Mata
+DR001023	TH	2025	The Love Never Sets
+DR001024	TH	2025	Me and Thee
+DR001025	TH	2025	Goddess Bless You from Death
+DR001026	TH	2025	Reloved
+DR001027	TH	2026	Hard Nights
+DR001028	TH	2026	Peach Lover
+DR001029	TH	2026	Too Close Friend
+DR001030	TH	2026	Peach and Me
+DR001031	TH	2026	Too Close Friend 2
+DR001032	TH	2025	Love Alert
+DR001033	TH	2026	Yesterday
+DR001034	TH	2026	A Good Yesterday
+DR001035	TH	2026	The Masked Hearts
+DR001036	TH	2026	Love Like a Bike
+DR001037	TH	2026	Bling Bling The Series
+DR001038	TH	2026	Love Upon a Time
+DR001039	TH	2026	Magic Move
+DR001040	TH	2026	Love of Silom
+DR001041	TH	2026	Flower Boy: Enchanted by the Scent of Pollen
+DR001042	TH	2026	One Year
+DR001043	TH	2026	Wu
+DR001044	TH	2026	Your Dear Daddy
+DR001045	TH	2026	When Oranges Fall
+DR001046	TH	2026	My Grandpa Is a BL Writer
+DR001047	TH	2026	PayBack The Series
+DR001058	TH	2026	Class Crush Crisis
+--------------------------------------------------
+📊 Total dramas sin el campo "ships": 125
