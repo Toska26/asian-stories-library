@@ -1,40 +1,45 @@
 {
-  "codigo": "DR000424",
-  "titulo": "My Best Boyfriend",
-  "pais": [
-    "VN"
-  ],
-  "anio": 2019,
-  "tipo": "WEB",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 17,
-  "estado": "finalizado",
-  "estreno": "2019-09-24",
-  "finalizacion": "2020-06-09",
-  "generos": [
-    "Drama",
-    "Romance",
-    "Escolar"
-  ],
-  "tags": [
-    "BL",
-    "Instituto",
-    "Primer amor",
-    "Amistad",
-    "Celos",
-    "Duelo",
-    "Bullying",
-    "LGBT"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Tue",
-        "Tri"
-      ]
+    "codigo": "DR000424",
+    "titulo": "My Best Boyfriend",
+    "pais": [
+        "VN"
+    ],
+    "anio": 2019,
+    "tipo": "WEB",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 17,
+    "estado": "finalizado",
+    "estreno": "2019-09-24",
+    "finalizacion": "2020-06-09",
+    "generos": [
+        "Drama",
+        "Romance",
+        "Escolar"
+    ],
+    "tags": [
+        "BL",
+        "Instituto",
+        "Primer amor",
+        "Amistad",
+        "Celos",
+        "Duelo",
+        "Bullying",
+        "LGBT"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Tue",
+                "Tri"
+            ]
+        }
+    ],
+    "sinopsis": "Dos jóvenes se enfrentan a los sentimientos y conflictos que surgen a partir de una relación marcada por el primer amor, la amistad, los celos y las dificultades de la vida escolar.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/9/94/My_Best_Boyfriend.jpg/revision/latest?cb=20200616173423&path-prefix=es"
+        ]
     }
-  ],
-  "sinopsis": "Dos jóvenes se enfrentan a los sentimientos y conflictos que surgen a partir de una relación marcada por el primer amor, la amistad, los celos y las dificultades de la vida escolar.",
-  "activo": true
 }

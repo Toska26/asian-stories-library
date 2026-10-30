@@ -1,49 +1,54 @@
 {
-  "codigo": "DR000619",
-  "titulo": "His: I Didn't Think I Would Fall in Love",
-  "tituloOriginal": "his〜恋するつもりなんてなかった〜",
-  "alias": [
-    "His: I Didn’t Think I Would Fall in Love"
-  ],
-  "pais": [
-    "JP"
-  ],
-  "anio": 2019,
-  "tipo": "DR",
-  "franquicia": {
-    "codigo": "FR000036",
-    "orden": 1
-  },
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 5,
-  "duracion": 23,
-  "estado": "finalizado",
-  "estreno": "2019-04-09",
-  "finalizacion": "2019-05-07",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Romance",
-    "Primer amor",
-    "Escolar",
-    "Juventud",
-    "Surf",
-    "Descubrimiento personal",
-    "Reencuentro"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Igawa Shun",
-        "Hibino Nagisa"
-      ]
+    "codigo": "DR000619",
+    "titulo": "His: I Didn't Think I Would Fall in Love",
+    "tituloOriginal": "his〜恋するつもりなんてなかった〜",
+    "alias": [
+        "His: I Didn’t Think I Would Fall in Love"
+    ],
+    "pais": [
+        "JP"
+    ],
+    "anio": 2019,
+    "tipo": "DR",
+    "franquicia": {
+        "codigo": "FR000036",
+        "orden": 1
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 5,
+    "duracion": 23,
+    "estado": "finalizado",
+    "estreno": "2019-04-09",
+    "finalizacion": "2019-05-07",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "BL",
+        "Romance",
+        "Primer amor",
+        "Escolar",
+        "Juventud",
+        "Surf",
+        "Descubrimiento personal",
+        "Reencuentro"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Igawa Shun",
+                "Hibino Nagisa"
+            ]
+        }
+    ],
+    "sinopsis": "Durante las vacaciones de primavera, el estudiante de secundaria Shun Igawa llega a Fujisawa y conoce a Nagisa Hibino, un joven de su misma edad que vive solo junto al mar. Lo que comienza como una amistad se transforma poco a poco en su primer amor.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/1/17/His_-_I_Didn%27t_Think_I_Would_Fall_In_Love.jpg/revision/latest?cb=20200213212716&path-prefix=es"
+        ]
     }
-  ],
-  "sinopsis": "Durante las vacaciones de primavera, el estudiante de secundaria Shun Igawa llega a Fujisawa y conoce a Nagisa Hibino, un joven de su misma edad que vive solo junto al mar. Lo que comienza como una amistad se transforma poco a poco en su primer amor.",
-  "activo": true
 }

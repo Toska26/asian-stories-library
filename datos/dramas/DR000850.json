@@ -1,57 +1,62 @@
 {
-  "codigo": "DR000850",
-  "titulo": "LOVE STAGE!!",
-  "tituloOriginal": "LOVE STAGE!!",
-  "alias": [
-    "Love Stage!!",
-    "Love Stage"
-  ],
-  "pais": [
-    "JP"
-  ],
-  "anio": 2020,
-  "tipo": "PEL",
-  "remake": {
-    "codigo": "RM000850",
-    "orden": 1
-  },
-  "origen": {
-    "tipo": "Manga",
-    "relacion": "Adaptación",
-    "titulo": "Love Stage!!",
-    "tituloOriginal": "ラブ ステージ!!",
-    "autor": "Eiki Eiki",
-    "ilustrador": "Taishi Zaou",
-    "pais": "JP"
-  },
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 1,
-  "duracion": 84,
-  "estado": "finalizado",
-  "estreno": "2020-10-02",
-  "finalizacion": "2020-10-02",
-  "generos": [
-    "BL",
-    "Romance",
-    "Comedia",
-    "Drama"
-  ],
-  "tags": [
-    "Adaptación de manga",
-    "Celebridades",
-    "Primer amor",
-    "Mundo del espectáculo",
-    "Universidad",
-    "Otaku"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Izumi Sena",
-        "Ryoma Ichijo"
-      ]
+    "codigo": "DR000850",
+    "titulo": "LOVE STAGE!!",
+    "tituloOriginal": "LOVE STAGE!!",
+    "alias": [
+        "Love Stage!!",
+        "Love Stage"
+    ],
+    "pais": [
+        "JP"
+    ],
+    "anio": 2020,
+    "tipo": "PEL",
+    "remake": {
+        "codigo": "RM000850",
+        "orden": 1
+    },
+    "origen": {
+        "tipo": "Manga",
+        "relacion": "Adaptación",
+        "titulo": "Love Stage!!",
+        "tituloOriginal": "ラブ ステージ!!",
+        "autor": "Eiki Eiki",
+        "ilustrador": "Taishi Zaou",
+        "pais": "JP"
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 1,
+    "duracion": 84,
+    "estado": "finalizado",
+    "estreno": "2020-10-02",
+    "finalizacion": "2020-10-02",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia",
+        "Drama"
+    ],
+    "tags": [
+        "Adaptación de manga",
+        "Celebridades",
+        "Primer amor",
+        "Mundo del espectáculo",
+        "Universidad",
+        "Otaku"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Izumi Sena",
+                "Ryoma Ichijo"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/ZkgPWf.jpg"
+        ]
     }
-  ],
-  "activo": true
 }

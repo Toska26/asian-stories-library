@@ -1,39 +1,44 @@
 {
-  "codigo": "DR000404",
-  "titulo": "Adam's Story",
-  "alias": [
-    "Bí Mật Của Adam",
-    "Adam's Secret"
-  ],
-  "pais": [
-    "VN"
-  ],
-  "anio": 2017,
-  "tipo": "Websitcom",
-  "franquicia": {
-    "codigo": "FR000027",
-    "orden": 1
-  },
-  "universo": "UN000011",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 10,
-  "duracion": 15,
-  "estado": "finalizado",
-  "estreno": "2017-03-18",
-  "finalizacion": "",
-  "generos": [
-    "Comedia",
-    "Drama",
-    "Romance"
-  ],
-  "tags": [
-    "Amistad",
-    "Convivencia",
-    "Amor",
-    "Familia",
-    "LGBT"
-  ],
-  "sinopsis": "A Huy, Thái Dương y Bảo Nam son tres jóvenes que, debido a las circunstancias, terminan viviendo juntos. La convivencia da comienzo a una serie de situaciones inesperadas mientras los tres afrontan sus relaciones, amistades y sentimientos.",
-  "activo": true
+    "codigo": "DR000404",
+    "titulo": "Adam's Story",
+    "alias": [
+        "Bí Mật Của Adam",
+        "Adam's Secret"
+    ],
+    "pais": [
+        "VN"
+    ],
+    "anio": 2017,
+    "tipo": "Websitcom",
+    "franquicia": {
+        "codigo": "FR000027",
+        "orden": 1
+    },
+    "universo": "UN000011",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 10,
+    "duracion": 15,
+    "estado": "finalizado",
+    "estreno": "2017-03-18",
+    "finalizacion": "",
+    "generos": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "tags": [
+        "Amistad",
+        "Convivencia",
+        "Amor",
+        "Familia",
+        "LGBT"
+    ],
+    "sinopsis": "A Huy, Thái Dương y Bảo Nam son tres jóvenes que, debido a las circunstancias, terminan viviendo juntos. La convivencia da comienzo a una serie de situaciones inesperadas mientras los tres afrontan sus relaciones, amistades y sentimientos.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/9/90/Adam%27s_Secret.jpg/revision/latest/scale-to-width-down/1000?cb=20210228162607&path-prefix=es"
+        ]
+    }
 }

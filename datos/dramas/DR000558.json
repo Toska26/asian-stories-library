@@ -1,41 +1,46 @@
 {
-  "codigo": "DR000558",
-  "titulo": "Never Date a Capricorn",
-  "tituloOriginal": "别碰摩羯啊",
-  "alias": [
-    "Bie Peng Mo Jie A"
-  ],
-  "pais": [
-    "CN"
-  ],
-  "anio": 2025,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 4,
-  "estado": "finalizado",
-  "estreno": "2025-10-02",
-  "finalizacion": "2025-10-23",
-  "generos": [
-    "BL",
-    "Romance",
-    "Comedia",
-    "Drama"
-  ],
-  "tags": [
-    "BL",
-    "Vertical",
-    "Secret Of Us",
-    "Personalidades opuestas"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Cheng Hai",
-        "Ye Chengyun"
-      ]
+    "codigo": "DR000558",
+    "titulo": "Never Date a Capricorn",
+    "tituloOriginal": "别碰摩羯啊",
+    "alias": [
+        "Bie Peng Mo Jie A"
+    ],
+    "pais": [
+        "CN"
+    ],
+    "anio": 2025,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 4,
+    "estado": "finalizado",
+    "estreno": "2025-10-02",
+    "finalizacion": "2025-10-23",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia",
+        "Drama"
+    ],
+    "tags": [
+        "BL",
+        "Vertical",
+        "Secret Of Us",
+        "Personalidades opuestas"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Cheng Hai",
+                "Ye Chengyun"
+            ]
+        }
+    ],
+    "sinopsis": "Cheng Hai y Ye Chengyun se encuentran en circunstancias que ponen a prueba su relación y sus sentimientos. Lo que comienza como una interacción complicada evoluciona progresivamente hacia una relación romántica.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/YYr7ze_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Cheng Hai y Ye Chengyun se encuentran en circunstancias que ponen a prueba su relación y sus sentimientos. Lo que comienza como una interacción complicada evoluciona progresivamente hacia una relación romántica.",
-  "activo": true
 }

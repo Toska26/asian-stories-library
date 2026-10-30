@@ -1,55 +1,60 @@
 {
-  "codigo": "DR000914",
-  "titulo": "Make a Wish",
-  "tituloOriginal": "ภารกิจนายเทวดา",
-  "alias": [
-    "Make a Wish The Series"
-  ],
-  "pais": [
-    "TH"
-  ],
-  "anio": 2023,
-  "tipo": "DR",
-  "origen": {
-    "tipo": "Novela",
-    "relacion": "Adaptación",
+    "codigo": "DR000914",
     "titulo": "Make a Wish",
     "tituloOriginal": "ภารกิจนายเทวดา",
-    "autor": "Sammon",
-    "pais": "TH"
-  },
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 6,
-  "estado": "finalizado",
-  "estreno": "2023-03-22",
-  "finalizacion": "2023-04-26",
-  "generos": [
-    "BL",
-    "Romance",
-    "Comedia",
-    "Fantasia",
-    "Sobrenatural"
-  ],
-  "tags": [
-    "BL",
-    "Ángeles",
-    "Deseos",
-    "Fantasmas",
-    "Médico",
-    "Sobrenatural",
-    "Misterio",
-    "Concesión de deseos",
-    "Comedia romántica"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Phakphum",
-        "Krit"
-      ]
+    "alias": [
+        "Make a Wish The Series"
+    ],
+    "pais": [
+        "TH"
+    ],
+    "anio": 2023,
+    "tipo": "DR",
+    "origen": {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "titulo": "Make a Wish",
+        "tituloOriginal": "ภารกิจนายเทวดา",
+        "autor": "Sammon",
+        "pais": "TH"
+    },
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 6,
+    "estado": "finalizado",
+    "estreno": "2023-03-22",
+    "finalizacion": "2023-04-26",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia",
+        "Fantasia",
+        "Sobrenatural"
+    ],
+    "tags": [
+        "BL",
+        "Ángeles",
+        "Deseos",
+        "Fantasmas",
+        "Médico",
+        "Sobrenatural",
+        "Misterio",
+        "Concesión de deseos",
+        "Comedia romántica"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Phakphum",
+                "Krit"
+            ]
+        }
+    ],
+    "sinopsis": "Phakphum es un médico que puede ver espíritus desde niño y desea librarse de esa capacidad. Su vida cambia cuando conoce a Krit, un ángel encargado de conceder deseos. Mientras ambos trabajan juntos para resolver distintos problemas sobrenaturales, su relación se transforma en algo más profundo.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/6000d0_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Phakphum es un médico que puede ver espíritus desde niño y desea librarse de esa capacidad. Su vida cambia cuando conoce a Krit, un ángel encargado de conceder deseos. Mientras ambos trabajan juntos para resolver distintos problemas sobrenaturales, su relación se transforma en algo más profundo.",
-  "activo": true
 }

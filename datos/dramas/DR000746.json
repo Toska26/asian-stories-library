@@ -1,38 +1,43 @@
 {
-  "codigo": "DR000746",
-  "titulo": "Make It Live: On The Beach",
-  "tituloOriginal": "Make It Live: On The Beach",
-  "alias": [
-    "Make It Live on the Beach",
-    "Make It Right Season 3"
-  ],
-  "pais": [
-    "TH"
-  ],
-  "anio": 2019,
-  "tipo": "DR",
-  "serie": "SR000744",
-  "temporadas": 3,
-  "temporada": 3,
-  "episodios": 6,
-  "duracion": "20 min",
-  "estado": "finalizado",
-  "estreno": "2019-08-20",
-  "finalizacion": "2019-09-24",
-  "generos": [
-    "BL",
-    "Romance",
-    "Drama",
-    "Juventud"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Fuse",
-        "Tee"
-      ]
+    "codigo": "DR000746",
+    "titulo": "Make It Live: On The Beach",
+    "tituloOriginal": "Make It Live: On The Beach",
+    "alias": [
+        "Make It Live on the Beach",
+        "Make It Right Season 3"
+    ],
+    "pais": [
+        "TH"
+    ],
+    "anio": 2019,
+    "tipo": "DR",
+    "serie": "SR000744",
+    "temporadas": 3,
+    "temporada": 3,
+    "episodios": 6,
+    "duracion": "20 min",
+    "estado": "finalizado",
+    "estreno": "2019-08-20",
+    "finalizacion": "2019-09-24",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama",
+        "Juventud"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Fuse",
+                "Tee"
+            ]
+        }
+    ],
+    "sinopsis": "Tres años después del comienzo de su relación, Fuse y Tee se reúnen en un complejo turístico junto al mar para celebrar su aniversario. Ya como estudiantes universitarios, deben afrontar la distancia, las diferencias familiares y las dificultades que surgen al intentar mantener su relación.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/j8E3df.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Tres años después del comienzo de su relación, Fuse y Tee se reúnen en un complejo turístico junto al mar para celebrar su aniversario. Ya como estudiantes universitarios, deben afrontar la distancia, las diferencias familiares y las dificultades que surgen al intentar mantener su relación.",
-  "activo": true
 }

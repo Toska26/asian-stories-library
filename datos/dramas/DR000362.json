@@ -1,47 +1,52 @@
 {
-  "codigo": "DR000362",
-  "titulo": "Papa, What Is Love? Season 2",
-  "alias": [
-    "Papa What Is Love 2",
-    "Papa, What is Love? Season 2"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2023,
-  "tipo": "DR",
-  "serie": "SR000361",
-  "temporadas": 2,
-  "temporada": 2,
-  "episodios": 6,
-  "duracion": 15,
-  "estado": "finalizado",
-  "estreno": "2023-09-03",
-  "finalizacion": "2023-09-10",
-  "generos": [
-    "Drama",
-    "Comedia",
-    "Romance",
-    "Familia"
-  ],
-  "tags": [
-    "Segundas oportunidades",
-    "Pareja",
-    "Expareja",
-    "Familia",
-    "Amor",
-    "Celos",
-    "Relaciones",
-    "Adultos"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Tupe",
-        "Greg"
-      ]
+    "codigo": "DR000362",
+    "titulo": "Papa, What Is Love? Season 2",
+    "alias": [
+        "Papa What Is Love 2",
+        "Papa, What is Love? Season 2"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2023,
+    "tipo": "DR",
+    "serie": "SR000361",
+    "temporadas": 2,
+    "temporada": 2,
+    "episodios": 6,
+    "duracion": 15,
+    "estado": "finalizado",
+    "estreno": "2023-09-03",
+    "finalizacion": "2023-09-10",
+    "generos": [
+        "Drama",
+        "Comedia",
+        "Romance",
+        "Familia"
+    ],
+    "tags": [
+        "Segundas oportunidades",
+        "Pareja",
+        "Expareja",
+        "Familia",
+        "Amor",
+        "Celos",
+        "Relaciones",
+        "Adultos"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Tupe",
+                "Greg"
+            ]
+        }
+    ],
+    "sinopsis": "Tupe y Greg intentan mantener una vida estable como pareja cuando la aparición de Alex, la antigua novia de Greg, altera su situación. Mientras tanto, Rich, que continúa recuperándose de su anterior relación, busca una conexión sentimental duradera. La temporada explora nuevas relaciones, conflictos entre parejas y segundas oportunidades.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/1w4jOK_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Tupe y Greg intentan mantener una vida estable como pareja cuando la aparición de Alex, la antigua novia de Greg, altera su situación. Mientras tanto, Rich, que continúa recuperándose de su anterior relación, busca una conexión sentimental duradera. La temporada explora nuevas relaciones, conflictos entre parejas y segundas oportunidades.",
-  "activo": true
 }

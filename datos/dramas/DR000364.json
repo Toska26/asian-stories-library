@@ -1,45 +1,50 @@
 {
-  "codigo": "DR000364",
-  "titulo": "Mystery of Love",
-  "alias": [
-    "Mystery of Love: The Series"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2022,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 6,
-  "duracion": 54,
-  "estado": "finalizado",
-  "estreno": "2022-08-12",
-  "finalizacion": "2022-08-26",
-  "generos": [
-    "Drama",
-    "Romance",
-    "Acción",
-    "Suspense"
-  ],
-  "tags": [
-    "Amor inesperado",
-    "Misterio",
-    "Suspense",
-    "Acción",
-    "Secretos",
-    "Atracción",
-    "Relaciones",
-    "Peligro"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Railey",
-        "Aivan"
-      ]
+    "codigo": "DR000364",
+    "titulo": "Mystery of Love",
+    "alias": [
+        "Mystery of Love: The Series"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2022,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 6,
+    "duracion": 54,
+    "estado": "finalizado",
+    "estreno": "2022-08-12",
+    "finalizacion": "2022-08-26",
+    "generos": [
+        "Drama",
+        "Romance",
+        "Acción",
+        "Suspense"
+    ],
+    "tags": [
+        "Amor inesperado",
+        "Misterio",
+        "Suspense",
+        "Acción",
+        "Secretos",
+        "Atracción",
+        "Relaciones",
+        "Peligro"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Railey",
+                "Aivan"
+            ]
+        }
+    ],
+    "sinopsis": "Una historia de amor que surge cuando menos se espera. Railey y Aivan se encuentran en circunstancias inesperadas y descubren que los sentimientos pueden aparecer hacia la persona que nunca habían imaginado. La relación se desarrolla dentro de una trama de acción, suspense, secretos y situaciones peligrosas.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/r4Y0j_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Una historia de amor que surge cuando menos se espera. Railey y Aivan se encuentran en circunstancias inesperadas y descubren que los sentimientos pueden aparecer hacia la persona que nunca habían imaginado. La relación se desarrolla dentro de una trama de acción, suspense, secretos y situaciones peligrosas.",
-  "activo": true
 }

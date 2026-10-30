@@ -1,45 +1,50 @@
 {
-  "codigo": "DR000863",
-  "titulo": "In a Relationship",
-  "tituloOriginal": "สถานะรักเธอ",
-  "pais": [
-    "TH"
-  ],
-  "anio": 2022,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 20,
-  "duracion": "5 min",
-  "estado": "finalizado",
-  "estreno": "2022-06-10",
-  "finalizacion": "2022-07-23",
-  "generos": [
-    "BL",
-    "Romance",
-    "Juvenil",
-    "Comedia",
-    "Videojuegos",
-    "Redes sociales"
-  ],
-  "tags": [
-    "Influencer",
-    "Gamer",
-    "Videojuegos",
-    "Redes sociales",
-    "Enemigos a amantes",
-    "Amor a distancia",
-    "Crush",
-    "Mini-serie"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Boss",
-        "Tono"
-      ]
+    "codigo": "DR000863",
+    "titulo": "In a Relationship",
+    "tituloOriginal": "สถานะรักเธอ",
+    "pais": [
+        "TH"
+    ],
+    "anio": 2022,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 20,
+    "duracion": "5 min",
+    "estado": "finalizado",
+    "estreno": "2022-06-10",
+    "finalizacion": "2022-07-23",
+    "generos": [
+        "BL",
+        "Romance",
+        "Juvenil",
+        "Comedia",
+        "Videojuegos",
+        "Redes sociales"
+    ],
+    "tags": [
+        "Influencer",
+        "Gamer",
+        "Videojuegos",
+        "Redes sociales",
+        "Enemigos a amantes",
+        "Amor a distancia",
+        "Crush",
+        "Mini-serie"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Boss",
+                "Tono"
+            ]
+        }
+    ],
+    "sinopsis": "Boss, un influencer conocido en el mundo online, reta a Tono, un gamer, a vencerlo en un duelo virtual. El perdedor deberá cumplir tres deseos del ganador. Boss utiliza el desafío como una oportunidad para acercarse a su crush, mientras Tono descubre que el último deseo puede cambiar por completo la relación entre ambos.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/46rLw_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Boss, un influencer conocido en el mundo online, reta a Tono, un gamer, a vencerlo en un duelo virtual. El perdedor deberá cumplir tres deseos del ganador. Boss utiliza el desafío como una oportunidad para acercarse a su crush, mientras Tono descubre que el último deseo puede cambiar por completo la relación entre ambos.",
-  "activo": true
 }

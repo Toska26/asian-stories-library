@@ -1,45 +1,50 @@
 {
-  "codigo": "DR000395",
-  "titulo": "Riffs and Runs",
-  "alias": [
-    "Riffs & Runs"
-  ],
-  "pais": [
-    "PH"
-  ],
-  "anio": 2026,
-  "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 5,
-  "duracion": 12,
-  "estado": "finalizado",
-  "estreno": "2026-03-01",
-  "finalizacion": "2026-03-29",
-  "generos": [
-    "Drama",
-    "Romance",
-    "Comedia"
-  ],
-  "tags": [
-    "Exnovios",
-    "Reencuentro",
-    "Amor perdido",
-    "Boda",
-    "Infidelidad emocional",
-    "Secretos",
-    "Celos",
-    "Segundas oportunidades",
-    "BL"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Jeggs",
-        "Gabby"
-      ]
+    "codigo": "DR000395",
+    "titulo": "Riffs and Runs",
+    "alias": [
+        "Riffs & Runs"
+    ],
+    "pais": [
+        "PH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 5,
+    "duracion": 12,
+    "estado": "finalizado",
+    "estreno": "2026-03-01",
+    "finalizacion": "2026-03-29",
+    "generos": [
+        "Drama",
+        "Romance",
+        "Comedia"
+    ],
+    "tags": [
+        "Exnovios",
+        "Reencuentro",
+        "Amor perdido",
+        "Boda",
+        "Infidelidad emocional",
+        "Secretos",
+        "Celos",
+        "Segundas oportunidades",
+        "BL"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Jeggs",
+                "Gabby"
+            ]
+        }
+    ],
+    "sinopsis": "Jeggs recibe la noticia de que su antiguo novio Gabby está a punto de casarse con otra persona. Antes de la boda, Gabby busca pasar una última etapa junto a Jeggs, reabriendo sentimientos que ambos creían superados. Mientras la relación entre los antiguos amantes vuelve a complicarse, la presencia de la prometida de Gabby y los secretos de su pasado obligan a ambos a decidir qué quieren realmente.",
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/l0pzbe_4f.jpg"
+        ]
     }
-  ],
-  "sinopsis": "Jeggs recibe la noticia de que su antiguo novio Gabby está a punto de casarse con otra persona. Antes de la boda, Gabby busca pasar una última etapa junto a Jeggs, reabriendo sentimientos que ambos creían superados. Mientras la relación entre los antiguos amantes vuelve a complicarse, la presencia de la prometida de Gabby y los secretos de su pasado obligan a ambos a decidir qué quieren realmente.",
-  "activo": true
 }
