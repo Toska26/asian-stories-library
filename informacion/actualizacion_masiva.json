@@ -1,89 +1,130 @@
 [
   {
-  "codigo": "DR000771",
-"personas": [
-    {
-      "nombre": "Mork",
-      "persona": "PR000013",
-      "funcion": ["Actor"],
-      "principal": true
-    },
-    {
-      "nombre": "Tee",
-      "persona": "PR000012",
-      "funcion": ["Actor"],
-      "principal": true
-    },
-    {
-      "nombre": "Morn",
-      "persona": "PR000284",
-      "funcion": ["Actor"],
-      "principal": true
-    },
-    {
-      "nombre": "Gord",
-      "persona": "PR000294",
-      "funcion": ["Actor"],
-      "principal": true
-    },
-    {
-      "nombre": "Au",
-      "persona": "PR000017",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Ton",
-      "persona": "PR000266",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Ching",
-      "persona": "PR000262",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Bambie",
-      "persona": "PR000800",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Lek",
-      "persona": "PR000283",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Dr. Mui",
-      "persona": "PR000801",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Moo",
-      "persona": "PR000802",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Tul",
-      "persona": "PR000803",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "nombre": "Som",
-      "persona": "PR000804",
-      "funcion": ["Actor"],
-      "principal": false
-    },
-    {
-      "persona": "PR000799",
-      "funcion": ["Director"]
-    }
-  ]
+    "codigo": "DR001065",
+    "personas": [
+      {
+        "nombre": "James",
+        "persona": "PR000806",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Ken",
+        "persona": "PR000807",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "nombre": "Jirat",
+        "persona": "PR000808",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Chita",
+        "persona": "PR000809",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Rain",
+        "persona": "PR000810",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Panin",
+        "persona": "PR000811",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Peter",
+        "persona": "PR000812",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "nombre": "Pear",
+        "persona": "PR000813",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000805",
+        "funcion": ["Director", "Guionista"]
+      }
+    ]
+  },
+  {
+    "codigo": "DR001066",
+    "personas": [
+      {
+        "persona": "PR000528",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "persona": "PR000211",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "persona": "PR000735",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000815",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000814",
+        "funcion": ["Director"]
+      },
+      {
+        "persona": "PR000818",
+        "funcion": ["Guionista"]
+      }
+    ]
+  },
+  {
+    "codigo": "DR001067",
+    "personas": [
+      {
+        "persona": "PR000508",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "persona": "PR000509",
+        "funcion": ["Actor"],
+        "principal": true
+      },
+      {
+        "persona": "PR000495",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000817",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000408",
+        "funcion": ["Actor"],
+        "principal": false
+      },
+      {
+        "persona": "PR000816",
+        "funcion": ["Director"]
+      },
+      {
+        "persona": "PR000819",
+        "funcion": ["Guionista"]
+      }
+    ]
   }
 ]
