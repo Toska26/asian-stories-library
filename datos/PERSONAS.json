@@ -796,7 +796,6 @@
 	{"codigo": "PR000796", "nombre": "Masayoshi Kishida", "nombreOriginal": "岸田雅喜", "nombreArtistico": "", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Director"], "multimedia": {"foto": []}, "activo": true},
 	{"codigo": "PR000797", "nombre": "Motoko Takahashi", "nombreOriginal": "高橋モトコ", "nombreArtistico": "", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Guionista"], "multimedia": {"foto": []}, "activo": true},
 	{"codigo": "PR000798", "nombre": "Riuji Yoshizaki", "nombreOriginal": "吉崎竜司", "nombreArtistico": "", "alias": [], "pais": "JP", "idioma": "ja", "profesiones": ["Guionista"], "multimedia": {"foto": []}, "activo": true},
-[
     {
         "codigo": "PR000799",
         "nombre": "Rachyd Kusolkulsiri",
@@ -869,6 +868,4 @@
         "multimedia": {"foto": []},
         "activo": true
     }
-]
-
 ]
