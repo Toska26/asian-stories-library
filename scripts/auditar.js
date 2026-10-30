@@ -15,7 +15,7 @@ const carpetaInformacion = path.join(__dirname, '..', 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES AUDITAR CUANDO LO NECESITES
 //const campoABuscar = "multimedia.portada"; 
-const campoABuscar = "ships"; 
+const campoABuscar = "personas"; 
 
 function obtenerValorAnidado(obj, ruta) {
     return ruta.split('.').reduce((acc, parte) => (acc && acc[parte] !== undefined) ? acc[parte] : undefined, obj);
