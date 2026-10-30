@@ -1047,6 +1047,54 @@
         "profesiones": ["Guionista"],
         "multimedia": {"foto": []},
         "activo": true
+    },
+	{
+        "codigo": "PR000820",
+        "nombre": "Thanachit Pongwanaporn",
+        "nombreOriginal": "",
+        "nombreArtistico": "Bank",
+        "alias": ["Bank"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Actor"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+    {
+        "codigo": "PR000821",
+        "nombre": "Ninpira Bunyaratphan",
+        "nombreOriginal": "",
+        "nombreArtistico": "Ninpira",
+        "alias": ["Ninpira"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Guionista"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+	{
+        "codigo": "PR000822",
+        "nombre": "Tanwarin Sukkhapisit",
+        "nombreOriginal": "",
+        "nombreArtistico": "Golf",
+        "alias": ["Golf", "Tanwarin Sukkhapisit"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Director"],
+        "multimedia": {"foto": []},
+        "activo": true
+    },
+    {
+        "codigo": "PR000823",
+        "nombre": "Pongsakorn Chualai",
+        "nombreOriginal": "",
+        "nombreArtistico": "Bee",
+        "alias": ["Bee", "Pongsakorn Chualai"],
+        "pais": "TH",
+        "idioma": "th",
+        "profesiones": ["Guionista"],
+        "multimedia": {"foto": []},
+        "activo": true
     }
 
 ]
