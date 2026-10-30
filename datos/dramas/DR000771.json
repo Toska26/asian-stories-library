@@ -1,71 +1,183 @@
 {
-  "codigo": "DR000771",
-  "titulo": "'Cause You're My Boy",
-  "tituloOriginal": "อาตี๋ของผม",
-  "alias": [
-    "My Tee",
-    "My Tee: The Series",
-    "Cause You're My Boy"
-  ],
-  "pais": [
-    "TH"
-  ],
-  "anio": 2018,
-  "tipo": "DR",
-  "origen": {
-    "tipo": "Novela gráfica",
-    "relacion": "Adaptación",
+    "codigo": "DR000771",
     "titulo": "'Cause You're My Boy",
     "tituloOriginal": "อาตี๋ของผม",
-    "autor": "CaffeineDekD",
-    "pais": "TH"
-  },
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 12,
-  "duracion": 45,
-  "estado": "finalizado",
-  "estreno": "2018-06-23",
-  "finalizacion": "2018-09-22",
-  "generos": [
-    "BL",
-    "Romance",
-    "Comedia",
-    "Drama",
-    "Escolar"
-  ],
-  "ships": [
-    {
-      "personajes": [
-        "Mork",
-        "Tee"
-      ]
+    "alias": [
+        "My Tee",
+        "My Tee: The Series",
+        "Cause You're My Boy"
+    ],
+    "pais": [
+        "TH"
+    ],
+    "anio": 2018,
+    "tipo": "DR",
+    "origen": {
+        "tipo": "Novela gráfica",
+        "relacion": "Adaptación",
+        "titulo": "'Cause You're My Boy",
+        "tituloOriginal": "อาตี๋ของผม",
+        "autor": "CaffeineDekD",
+        "pais": "TH"
     },
-    {
-      "personajes": [
-        "Gord",
-        "Morn"
-      ]
-    }
-  ],
-  "sinopsis": "Mork es un estudiante de secundaria travieso que ayuda a su padre en una barbería. Después de arruinar accidentalmente el corte de pelo de Tee, ambos comienzan una serie de bromas y enfrentamientos. Cuando Tee pierde a su novia Bambie a causa de un malentendido, le pide a Mork que finja ser su novio para ponerla celosa. Lo que comienza como una relación falsa acaba convirtiéndose en sentimientos reales entre ambos. Mientras tanto, Gord, el mejor amigo de Morn, comienza a revelar sus propios sentimientos hacia él.",
-  "especiales": [
-    {
-      "titulo": "'Cause You're My Boy — Our Skyy",
-      "tituloOriginal": "Our Skyy",
-      "alias": [
-        "Our Skyy: Mork & Tee"
-      ],
-      "tipo": "Especial",
-      "anio": 2018,
-      "episodios": 1,
-      "estreno": "2018-12-07"
-    }
-  ],
-  "activo": true,
-  "multimedia": {
-    "portada": [
-      "https://image.tmdb.org/t/p/original/wAhhbX2l0lgDnUqZBPF8RMvZWBB.jpg"
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 12,
+    "duracion": 45,
+    "estado": "finalizado",
+    "estreno": "2018-06-23",
+    "finalizacion": "2018-09-22",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia",
+        "Drama",
+        "Escolar"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Mork",
+                "Tee"
+            ]
+        },
+        {
+            "personajes": [
+                "Gord",
+                "Morn"
+            ]
+        }
+    ],
+    "sinopsis": "Mork es un estudiante de secundaria travieso que ayuda a su padre en una barbería. Después de arruinar accidentalmente el corte de pelo de Tee, ambos comienzan una serie de bromas y enfrentamientos. Cuando Tee pierde a su novia Bambie a causa de un malentendido, le pide a Mork que finja ser su novio para ponerla celosa. Lo que comienza como una relación falsa acaba convirtiéndose en sentimientos reales entre ambos. Mientras tanto, Gord, el mejor amigo de Morn, comienza a revelar sus propios sentimientos hacia él.",
+    "especiales": [
+        {
+            "titulo": "'Cause You're My Boy — Our Skyy",
+            "tituloOriginal": "Our Skyy",
+            "alias": [
+                "Our Skyy: Mork & Tee"
+            ],
+            "tipo": "Especial",
+            "anio": 2018,
+            "episodios": 1,
+            "estreno": "2018-12-07"
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://image.tmdb.org/t/p/original/wAhhbX2l0lgDnUqZBPF8RMvZWBB.jpg"
+        ]
+    },
+    "personas": [
+        {
+            "nombre": "Mork",
+            "persona": "PR000013",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Tee",
+            "persona": "PR000012",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Morn",
+            "persona": "PR000284",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Gord",
+            "persona": "PR000294",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Au",
+            "persona": "PR000017",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Ton",
+            "persona": "PR000266",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Ching",
+            "persona": "PR000262",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Bambie",
+            "persona": "PR000800",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Lek",
+            "persona": "PR000283",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Dr. Mui",
+            "persona": "PR000801",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Moo",
+            "persona": "PR000802",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Tul",
+            "persona": "PR000803",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Som",
+            "persona": "PR000804",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000799",
+            "funcion": [
+                "Director"
+            ]
+        }
     ]
-  }
 }
