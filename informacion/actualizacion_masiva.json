@@ -1,46 +1,30 @@
 [
   {
-    "codigo": "DR000118",
-    "estado": "proximo"
+    "codigo": "DR000039",
+    "estado": "en_emision"
   },
   {
-    "codigo": "DR000208",
+    "codigo": "DR000078",
+    "estado": "en_emision"
+  },
+  {
+    "codigo": "DR000211",
     "estado": "finalizado"
   },
   {
-    "codigo": "DR000210",
-    "estado": "en_emision"
-  },
-  {
-    "codigo": "DR000244",
-    "estado": "proximo"
+    "codigo": "DR000212",
+    "estado": "finalizado"
   },
   {
     "codigo": "DR000102",
-    "estado": "proximo"
+    "estado": "anunciado"
   },
   {
-    "codigo": "DR000919",
-    "estado": "en_emision"
+    "codigo": "DR000118",
+    "estado": "anunciado"
   },
   {
     "codigo": "DR000927",
-    "estado": "proximo"
-  },
-  {
-    "codigo": "DR000710",
-    "estado": "proximo"
-  },
-  {
-    "codigo": "DR000711",
-    "estado": "en_emision"
-  },
-  {
-    "codigo": "DR000712",
-    "estado": "en_emision"
-  },
-  {
-    "codigo": "DR000713",
-    "estado": "en_emision"
+    "estado": "anunciado"
   }
 ]
