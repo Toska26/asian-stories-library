@@ -110,7 +110,51 @@
         }
       ]
     },
-    "Próximo estreno": {},
+    "Próximo estreno": {
+      "KR": [
+        {
+          "codigo": "DR000118",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "TW": [
+        {
+          "codigo": "DR000244",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "TH": [
+        {
+          "codigo": "DR000102",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000927",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "JP": [
+        {
+          "codigo": "DR000710",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ]
+    },
     "Anunciado": {
       "TH": [
         {
@@ -7544,51 +7588,6 @@
         },
         {
           "codigo": "DR000293",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ]
-    },
-    "proximo": {
-      "KR": [
-        {
-          "codigo": "DR000118",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
-      "TW": [
-        {
-          "codigo": "DR000244",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
-      "TH": [
-        {
-          "codigo": "DR000102",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000927",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
-      "JP": [
-        {
-          "codigo": "DR000710",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
