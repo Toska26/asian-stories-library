@@ -1,242 +1,38 @@
 [
   {
+    "codigo": "DR000681",
+    "estado": "finalizado"
+  },
+  {
+    "codigo": "DR000209",
+    "estado": "finalizado"
+  },
+  {
     "codigo": "DR001065",
-    "personas": [
-      {
-        "nombre": "James",
-        "persona": "PR000806",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Ken",
-        "persona": "PR000807",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Jirat",
-        "persona": "PR000808",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Chita",
-        "persona": "PR000809",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Rain",
-        "persona": "PR000810",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Panin",
-        "persona": "PR000811",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Peter",
-        "persona": "PR000812",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Pear",
-        "persona": "PR000813",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000805",
-        "funcion": ["Director", "Guionista"]
-      }
-    ]
+    "estado": "finalizado"
   },
   {
-    "codigo": "DR001066",
-    "personas": [
-      {
-        "persona": "PR000528",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "persona": "PR000211",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "persona": "PR000735",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000815",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000814",
-        "funcion": ["Director"]
-      },
-      {
-        "persona": "PR000818",
-        "funcion": ["Guionista"]
-      }
-    ]
+    "codigo": "DR000608",
+    "estado": "finalizado"
   },
   {
-    "codigo": "DR001067",
-    "personas": [
-      {
-        "persona": "PR000508",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "persona": "PR000509",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "persona": "PR000495",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000817",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000408",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000816",
-        "funcion": ["Director"]
-      },
-      {
-        "persona": "PR000819",
-        "funcion": ["Guionista"]
-      }
-    ]
+    "codigo": "DR000605",
+    "estado": "finalizado"
   },
   {
-    "codigo": "DR001062",
-    "personas": [
-      {
-        "nombre": "Bae",
-        "persona": "PR000559",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Lucky",
-        "persona": "PR000562",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Jet",
-        "persona": "PR000293",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Mint",
-        "persona": "PR000543",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000822",
-        "funcion": ["Director"]
-      },
-      {
-        "persona": "PR000823",
-        "funcion": ["Guionista"]
-      }
-    ]
+    "codigo": "DR000606",
+    "estado": "finalizado"
   },
   {
-    "codigo": "DR001063",
-    "personas": [
-      {
-        "nombre": "Fix",
-        "persona": "PR000314",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Love",
-        "persona": "PR000820",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Ohm",
-        "persona": "PR000451",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Earn",
-        "persona": "PR000439",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000075",
-        "funcion": ["Director"]
-      },
-      {
-        "persona": "PR000135",
-        "funcion": ["Guionista"]
-      }
-    ]
+    "codigo": "DR000401",
+    "estado": "finalizado"
   },
   {
-    "codigo": "DR001064",
-    "personas": [
-      {
-        "nombre": "Alpha",
-        "persona": "PR000529",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Beta",
-        "persona": "PR000530",
-        "funcion": ["Actor"],
-        "principal": true
-      },
-      {
-        "nombre": "Gamma",
-        "persona": "PR000114",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "nombre": "Delta",
-        "persona": "PR000534",
-        "funcion": ["Actor"],
-        "principal": false
-      },
-      {
-        "persona": "PR000158",
-        "funcion": ["Director"]
-      },
-      {
-        "persona": "PR000821",
-        "funcion": ["Guionista"]
-      }
-    ]
+    "codigo": "DR000065",
+    "estado": "finalizado"
+  },
+  {
+    "codigo": "DR000045",
+    "estado": "finalizado"
   }
-
 ]
