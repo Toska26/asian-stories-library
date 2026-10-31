@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "descripcion": "Seguimiento de revisiones de dramas de Asian Stories Library",
+  "ordenEstados": [
+    "En emisión",
+    "Próximo estreno",
+    "Anunciado",
+    "Finalizado"
+  ],
+  "estados": {
+    "En emisión": {},
+    "Próximo estreno": {},
+    "Anunciado": {},
+    "Finalizado": {}
+  }
+}
