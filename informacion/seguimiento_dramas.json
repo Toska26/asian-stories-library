@@ -10,24 +10,6 @@
   ],
   "estados": {
     "En emisión": {
-      "JP": [
-        {
-          "codigo": "DR000681",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
-      "KR": [
-        {
-          "codigo": "DR000209",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
       "TH": [
         {
           "codigo": "DR000033",
@@ -38,20 +20,6 @@
         },
         {
           "codigo": "DR000036",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000045",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000065",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -72,13 +40,6 @@
           "notas": ""
         },
         {
-          "codigo": "DR001065",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
           "codigo": "DR001066",
           "revision": "pendiente",
           "ultimaRevision": null,
@@ -91,32 +52,18 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR000919",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "CN": [
         {
-          "codigo": "DR000605",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000606",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
           "codigo": "DR000607",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000608",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -130,32 +77,7 @@
           "notas": ""
         }
       ],
-      "PH": [
-        {
-          "codigo": "DR000401",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ]
-    },
-    "Próximo estreno": {
       "KR": [
-        {
-          "codigo": "DR000118",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000208",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
         {
           "codigo": "DR000210",
           "revision": "pendiente",
@@ -164,46 +86,7 @@
           "notas": ""
         }
       ],
-      "TW": [
-        {
-          "codigo": "DR000244",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
-      "TH": [
-        {
-          "codigo": "DR000102",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000919",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
-        {
-          "codigo": "DR000927",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        }
-      ],
       "JP": [
-        {
-          "codigo": "DR000710",
-          "revision": "pendiente",
-          "ultimaRevision": null,
-          "pendientes": [],
-          "notas": ""
-        },
         {
           "codigo": "DR000711",
           "revision": "pendiente",
@@ -227,6 +110,7 @@
         }
       ]
     },
+    "Próximo estreno": {},
     "Anunciado": {
       "TH": [
         {
@@ -3139,6 +3023,27 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR001065",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000045",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000065",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "JP": [
@@ -4040,6 +3945,13 @@
         },
         {
           "codigo": "DR001008",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000681",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -5196,6 +5108,20 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR000209",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000208",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "CN": [
@@ -5831,6 +5757,27 @@
         },
         {
           "codigo": "DR000604",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000608",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000605",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000606",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -7365,6 +7312,13 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR000401",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "HK": [
@@ -7590,6 +7544,51 @@
         },
         {
           "codigo": "DR000293",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ]
+    },
+    "proximo": {
+      "KR": [
+        {
+          "codigo": "DR000118",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "TW": [
+        {
+          "codigo": "DR000244",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "TH": [
+        {
+          "codigo": "DR000102",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR000927",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "JP": [
+        {
+          "codigo": "DR000710",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
