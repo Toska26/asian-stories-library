@@ -18,12 +18,6 @@
     "clase": "estado-proximo"
   },
   {
-    "id": "proximamente",
-    "nombre": "Próximamente",
-    "abrev": "PR",
-    "clase": "estado-proximamente"
-  },
-  {
     "id": "anunciado",
     "nombre": "Anunciado",
     "abrev": "AN",
