@@ -1,0 +1,126 @@
+{
+    "codigo": "DR001068",
+    "titulo": "Decoding You",
+    "tituloOriginal": "โคตรรัก",
+    "alias": [
+        "Kot Rak"
+    ],
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "episodios": 8,
+    "estreno": "2026-10-04",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "tags": [
+        "Matrimonio por conveniencia",
+        "Amor entre hermanos adoptivos",
+        "Amor secreto",
+        "Diferencia de edad",
+        "Relaciones familiares"
+    ],
+    "ships": [
+        {
+            "ship": "SH000119",
+            "personajes": [
+                "Kit",
+                "Non"
+            ]
+        }
+    ],
+    "personas": [
+        {
+            "persona": "PR000828",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000829",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000830",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000831",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000832",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000833",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000834",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000835",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000836",
+            "funcion": [
+                "Director"
+            ]
+        }
+    ],
+    "entidades": [
+        {
+            "codigo": "EN000163",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000034",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000037",
+            "funcion": [
+                "Emisora"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/NRkqPn_4f.jpg"
+        ]
+    }
+}
