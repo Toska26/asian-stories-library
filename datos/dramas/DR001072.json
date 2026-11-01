@@ -1,0 +1,67 @@
+{
+    "codigo": "DR001072",
+    "titulo": "Badminton Boys",
+    "tituloOriginal": "กัปตันครับ ผมจะจีบพี่",
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "estreno": "2026-10-15",
+    "generos": [
+        "BL",
+        "Romance",
+        "Deporte"
+    ],
+    "tags": [
+        "Bádminton",
+        "Deporte",
+        "Romance juvenil",
+        "Enamoramiento",
+        "Vida escolar"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Sumo",
+                "Kao"
+            ]
+        }
+    ],
+    "personas": [
+        {
+            "persona": "PR000864",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000865",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        }
+    ],
+    "entidades": [
+        {
+            "codigo": "EN000166",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000024",
+            "funcion": [
+                "Plataforma"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/m0OA4k_4f.jpg"
+        ]
+    }
+}
