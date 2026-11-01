@@ -1,0 +1,135 @@
+{
+    "codigo": "DR001070",
+    "titulo": "Good Boy Series",
+    "tituloOriginal": "จิรภัทรจะเป็นเด็กดี",
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "episodios": 10,
+    "estreno": "2026-10-11",
+    "generos": [
+        "BL",
+        "Romance",
+        "Comedia"
+    ],
+    "origen": {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "tituloOriginal": "จิรภัทรจะเป็นเด็กดี",
+        "autor": "cyn.d.r",
+        "pais": "TH"
+    },
+    "tags": [
+        "Adaptación literaria",
+        "Romance juvenil",
+        "Relaciones universitarias",
+        "Enamoramiento",
+        "Pareja secundaria"
+    ],
+    "ships": [
+        {
+            "ship": "SH000121",
+            "personajes": [
+                "Ruth",
+                "Jirapat"
+            ]
+        }
+    ],
+    "personas": [
+        {
+            "persona": "PR000886",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000887",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000164",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000292",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000060",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000271",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000018",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "persona": "PR000075",
+            "funcion": [
+                "Director"
+            ]
+        }
+    ],
+    "entidades": [
+        {
+            "codigo": "EN000004",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000010",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000006",
+            "funcion": [
+                "Emisora"
+            ]
+        },
+        {
+            "codigo": "EN000031",
+            "funcion": [
+                "Plataforma"
+            ]
+        },
+        {
+            "codigo": "EN000023",
+            "funcion": [
+                "Plataforma"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/VB0pb0_4f.jpg"
+        ]
+    }
+}
