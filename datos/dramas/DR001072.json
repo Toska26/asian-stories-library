@@ -34,6 +34,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Sumo",
             "principal": true
         },
         {
@@ -41,7 +42,64 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Kao",
             "principal": true
+        },
+        {
+            "persona": "PR000866",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Saint",
+            "principal": false
+        },
+        {
+            "persona": "PR000867",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Pete",
+            "principal": false
+        },
+        {
+            "persona": "PR000868",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Coach",
+            "principal": false
+        },
+        {
+            "persona": "PR000869",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Win",
+            "principal": false
+        },
+        {
+            "persona": "PR000870",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "New",
+            "principal": false
+        },
+        {
+            "persona": "PR000871",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Cherry",
+            "principal": false
+        },
+        {
+            "persona": "PR000872",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Ploy",
+            "principal": false
         }
     ],
     "entidades": [
@@ -63,5 +121,6 @@
         "portada": [
             "https://i.mydramalist.com/m0OA4k_4f.jpg"
         ]
-    }
+    },
+    "estado": "Finalizado"
 }
