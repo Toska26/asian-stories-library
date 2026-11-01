@@ -43,6 +43,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Ing",
             "principal": true
         },
         {
@@ -50,7 +51,56 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Yok",
             "principal": true
+        },
+        {
+            "persona": "PR000843",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Itt",
+            "principal": false
+        },
+        {
+            "persona": "PR000844",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Force",
+            "principal": false
+        },
+        {
+            "persona": "PR000845",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Singha",
+            "principal": false
+        },
+        {
+            "persona": "PR000846",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Leo",
+            "principal": false
+        },
+        {
+            "persona": "PR000847",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Phet",
+            "principal": false
+        },
+        {
+            "persona": "PR000848",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Pite",
+            "principal": false
         }
     ],
     "entidades": [
@@ -72,5 +122,6 @@
         "portada": [
             "https://i.mydramalist.com/DkwBLy_4f.jpg"
         ]
-    }
+    },
+    "estado": "En emisión"
 }
