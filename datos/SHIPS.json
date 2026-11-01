@@ -1206,5 +1206,15 @@
     ],
     "activo": true,
     "oficial": true
+  },
+  {
+    "codigo": "SH000121",
+    "nombre": "LukeMick",
+    "personas": [
+      "PR000886",
+      "PR000887"
+    ],
+    "activo": true,
+    "oficial": true
   }
 ]
