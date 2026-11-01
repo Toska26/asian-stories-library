@@ -1,0 +1,76 @@
+{
+    "codigo": "DR001069",
+    "titulo": "Fool in Love",
+    "tituloOriginal": "คนโง่รักเข(ล)า",
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "episodios": 20,
+    "estreno": "2026-10-08",
+    "generos": [
+        "BL",
+        "Romance",
+        "Drama"
+    ],
+    "origen": {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "tituloOriginal": "你却爱着简隋英",
+        "autor": "Shui Qiancheng",
+        "pais": "CN"
+    },
+    "tags": [
+        "Adaptación literaria",
+        "Amor complicado",
+        "Relaciones tóxicas",
+        "Diferencias sociales",
+        "Conflictos familiares"
+    ],
+    "ships": [
+        {
+            "ship": "SH000120",
+            "personajes": [
+                "Ing",
+                "Yok"
+            ]
+        }
+    ],
+    "personas": [
+        {
+            "persona": "PR000841",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000842",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        }
+    ],
+    "entidades": [
+        {
+            "codigo": "EN000164",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000024",
+            "funcion": [
+                "Plataforma"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/DkwBLy_4f.jpg"
+        ]
+    }
+}
