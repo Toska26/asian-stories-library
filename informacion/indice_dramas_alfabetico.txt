@@ -70,6 +70,7 @@ DR000772	TH	2021	Bad Buddy
 DR000969	TH	2024	Bad Guy My Boss
 DR000006	TH	2016	Bad Romance: The Series
 DR000252	TW	2024	Bad to Bed
+DR001072	TH	2026	Badminton Boys
 DR000383	PH	2024	Baka Pwede Pa?
 DR000896	TH	2023	Bake Me Please
 DR000169	KR	2025	Ball Boy Tactics
@@ -248,6 +249,7 @@ DR000986	TH	2025	Flirt Milk
 DR000603	CN	2026	Flirting with My Archrival on Earth
 DR001041	TH	2026	Flower Boy: Enchanted by the Scent of Pollen
 DR000439	VN	2020	Follow My Sunshine
+DR001069	TH	2026	Fool in Love
 DR000453	VN	2021	FOOLs – Những Kẻ Khờ
 DR000413	VN	2018	Football Guys
 DR000905	TH	2023	For Him
@@ -275,6 +277,7 @@ DR000808	TH	2020	Ghost Runner
 DR000638	JP	2021	Given
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
+DR001070	TH	2026	Good Boy Series
 DR000392	PH	2025	Got My Eyes on You
 DR000297	PH	2020	Got'chu Fam!
 DR000156	KR	2024	Gray Shelter
@@ -825,6 +828,7 @@ DR000718	JP	2011	Takumi-kun Series 5: Ano, Hareta Aozora
 DR000714	JP	2007	Takumi-kun Series: Soshite Harukaze ni Sasayaite
 DR000719	JP	2023	Takumi-kun Series: The Dawn of the Long Tales
 DR000375	PH	2023	Teach Me How
+DR001071	TH	2026	Teach Me, Touch Me
 DR000473	VN	2024	Teenager Judge
 DR000570	CN	2025	Ten Years of Silence
 DR000974	TH	2024	ThamePo: Heart That Skips a Beat
