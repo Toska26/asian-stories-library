@@ -43,6 +43,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Ruth",
             "principal": true
         },
         {
@@ -50,6 +51,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Jiraphat",
             "principal": true
         },
         {
@@ -57,6 +59,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Jiraphat (adulto)",
             "principal": false
         },
         {
@@ -64,6 +67,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Ruth (adulta)",
             "principal": false
         },
         {
@@ -71,6 +75,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Mai",
             "principal": false
         },
         {
@@ -78,6 +83,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Jean",
             "principal": false
         },
         {
@@ -85,6 +91,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Kan",
             "principal": false
         },
         {
@@ -131,5 +138,6 @@
         "portada": [
             "https://i.mydramalist.com/VB0pb0_4f.jpg"
         ]
-    }
+    },
+    "estado": "En emisión"
 }
