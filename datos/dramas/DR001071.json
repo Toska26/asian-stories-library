@@ -39,6 +39,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Kanthee",
             "principal": true
         },
         {
@@ -46,7 +47,72 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Gear",
             "principal": true
+        },
+        {
+            "persona": "PR000853",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Nu",
+            "principal": false
+        },
+        {
+            "persona": "PR000854",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Big Boss",
+            "principal": false
+        },
+        {
+            "persona": "PR000855",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Chin",
+            "principal": false
+        },
+        {
+            "persona": "PR000856",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Kim",
+            "principal": false
+        },
+        {
+            "persona": "PR000857",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Bank",
+            "principal": false
+        },
+        {
+            "persona": "PR000858",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Zee",
+            "principal": false
+        },
+        {
+            "persona": "PR000860",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Sand",
+            "principal": false
+        },
+        {
+            "persona": "PR000861",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Pond",
+            "principal": false
         },
         {
             "persona": "PR000822",
@@ -74,5 +140,6 @@
         "portada": [
             "https://static.wikia.nocookie.net/drama/images/a/a8/Teach_Me%2C_Touch_Me-2026-01.jpg/revision/latest/scale-to-width-down/1000?cb=20261014153850&path-prefix=es"
         ]
-    }
+    },
+    "estado": "En emisión"
 }
