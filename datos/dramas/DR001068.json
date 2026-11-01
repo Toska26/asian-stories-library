@@ -39,6 +39,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Kit",
             "principal": true
         },
         {
@@ -46,6 +47,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Non",
             "principal": true
         },
         {
@@ -53,6 +55,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Rot",
             "principal": false
         },
         {
@@ -60,6 +63,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Wan",
             "principal": false
         },
         {
@@ -67,6 +71,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Phanu",
             "principal": false
         },
         {
@@ -74,6 +79,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Sharp",
             "principal": false
         },
         {
@@ -81,6 +87,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Phat",
             "principal": false
         },
         {
@@ -88,6 +95,7 @@
             "funcion": [
                 "Actor"
             ],
+            "nombre": "Cha",
             "principal": false
         },
         {
@@ -122,5 +130,6 @@
         "portada": [
             "https://i.mydramalist.com/NRkqPn_4f.jpg"
         ]
-    }
+    },
+    "estado": "En emisión"
 }
