@@ -157,4 +157,10 @@
 	{"codigo":"EN000160","nombre":"EYE TV Drama","pais":"TW","tipos":["Emisora"],"activo":true},
 	{"codigo": "EN000161","nombre": "MBS (Mainichi Broadcasting System)","pais": "JP","tipos": ["Emisora", "Productora"],"activo": true},
   	{"codigo": "EN000162","nombre": "TVer","pais": "JP","tipos": ["Plataforma"],"activo": true}
+	{"codigo":"EN000163","nombre":"Thong Studios","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000164","nombre":"Tailai Entertainment","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000165","nombre":"AB Group Entertainment","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000166","nombre":"Above All Studios","pais":"TH","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000167","nombre":"Creator Media","pais":"ID","tipos":["Productora"],"activo":true},
+	{"codigo":"EN000168","nombre":"3Plus","pais":"TH","tipos":["Plataforma"],"activo":true}
 ]
