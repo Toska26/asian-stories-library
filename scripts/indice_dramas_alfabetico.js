@@ -1,7 +1,8 @@
 /**
  * @file scripts/indice_dramas_alfabetico.js
- * @description Lee el catálogo compilado en datos/biblioteca.js y genera un listado ordenado alfabéticamente
- *              en formato de texto plano dentro de informacion/indice_dramas_alfabetico.txt para control interno.
+ * @description Genera dos índices de control:
+ *              - indice_dramas_alfabetico.txt: dramas activos compilados en biblioteca.js.
+ *              - indice_dramas_activo_false.txt: fichas inactivas leídas directamente de datos/dramas/.
  * @execution Se ejecuta automáticamente mediante GitHub Actions (.github/workflows/build-biblioteca.yml)
  *            o manualmente desde consola con: node scripts/indice_dramas_alfabetico.js
  */
@@ -9,61 +10,86 @@
 const fs = require('fs');
 const path = require('path');
 
-// Rutas ajustadas para la nueva ubicación en scripts/ (subiendo un nivel con '..')
 const rutaBiblioteca = path.join(__dirname, '..', 'datos', 'biblioteca.js');
-const archivoSalida = path.join(__dirname, '..', 'informacion', 'indice_dramas_alfabetico.txt');
+const rutaDramas = path.join(__dirname, '..', 'datos', 'dramas');
+const carpetaInformacion = path.join(__dirname, '..', 'informacion');
+const archivoActivos = path.join(carpetaInformacion, 'indice_dramas_alfabetico.txt');
+const archivoInactivos = path.join(carpetaInformacion, 'indice_dramas_activo_false.txt');
 
-if (!fs.existsSync(rutaBiblioteca)) {
-    console.error('No se encuentra el archivo biblioteca.js');
-    process.exit(1);
+function prepararRegistro(drama) {
+    const codigo = drama.codigo || 'DR000000';
+    const pais = (Array.isArray(drama.pais) && drama.pais.length > 0) ? drama.pais[0] : '??';
+    const anio = drama.anio || '????';
+    const titulo = drama.titulo || 'Sin título';
+    const temporada = (drama.temporada && drama.temporada > 1) ? ` T${drama.temporada}` : '';
+
+    return {
+        codigo,
+        pais,
+        anio,
+        tituloCompleto: `${titulo}${temporada}`,
+        tituloOrden: titulo
+    };
 }
 
-try {
-    // Leemos el contenido de biblioteca.js
-    const contenido = fs.readFileSync(rutaBiblioteca, 'utf8');
+function ordenarYGuardar(dramas, archivoSalida, etiqueta) {
+    const lista = dramas
+        .map(prepararRegistro)
+        .sort((a, b) => a.tituloOrden.localeCompare(b.tituloOrden, 'es', { sensitivity: 'base' }));
 
-    // Extraemos la parte del array JSON usando expresiones regulares
-    // (Busca desde el primer corchete '[' hasta el último ']')
+    const lineas = lista.map(d => `${d.codigo}\t${d.pais}\t${d.anio}\t${d.tituloCompleto}`);
+    fs.writeFileSync(archivoSalida, lineas.join('\n'), 'utf8');
+    console.log(`✅ ${etiqueta}: ${lista.length} ficha(s) en ${archivoSalida}`);
+}
+
+function leerBiblioteca() {
+    if (!fs.existsSync(rutaBiblioteca)) {
+        throw new Error('No se encuentra el archivo datos/biblioteca.js');
+    }
+
+    const contenido = fs.readFileSync(rutaBiblioteca, 'utf8');
     const inicioArray = contenido.indexOf('[');
     const finArray = contenido.lastIndexOf(']');
 
     if (inicioArray === -1 || finArray === -1) {
-        throw new Error('No se pudo encontrar un array JSON válido en biblioteca.js');
+        throw new Error('No se pudo encontrar un array válido en biblioteca.js');
     }
 
-    const jsonString = contenido.substring(inicioArray, finArray + 1);
-    const dramas = JSON.parse(jsonString);
+    return JSON.parse(contenido.substring(inicioArray, finArray + 1));
+}
 
-    let listaDramas = [];
+function leerDramasInactivos() {
+    if (!fs.existsSync(rutaDramas)) {
+        throw new Error('No existe la carpeta datos/dramas');
+    }
 
-    dramas.forEach(drama => {
-        const codigo = drama.codigo || 'DR000000';
-        const pais = (Array.isArray(drama.pais) && drama.pais.length > 0) ? drama.pais[0] : '??';
-        const anio = drama.anio || '????';
-        const titulo = drama.titulo || 'Sin título';
-        
-        // Si tiene temporada mayor a 1, la añadimos al título (ej. "T2")
-        const temporada = (drama.temporada && drama.temporada > 1) ? ` T${drama.temporada}` : '';
+    const archivos = fs.readdirSync(rutaDramas).filter(f => f.endsWith('.json'));
+    const inactivos = [];
 
-        listaDramas.push({
-            codigo,
-            pais,
-            anio,
-            tituloCompleto: `${titulo}${temporada}`,
-            tituloOrden: titulo.toLowerCase() // Para ordenar alfabéticamente sin distinguir mayúsculas
-        });
+    archivos.forEach(archivo => {
+        const ruta = path.join(rutaDramas, archivo);
+        try {
+            const drama = JSON.parse(fs.readFileSync(ruta, 'utf8'));
+            if (drama && drama.codigo && drama.activo === false) {
+                inactivos.push(drama);
+            }
+        } catch (error) {
+            throw new Error(`Error al procesar ${archivo}: ${error.message}`);
+        }
     });
 
-    // 🔤 Ordenar alfabéticamente por título (idioma español)
-    listaDramas.sort((a, b) => a.tituloOrden.localeCompare(b.tituloOrden, 'es', { sensitivity: 'base' }));
+    return inactivos;
+}
 
-    // Construir las líneas de texto plano con tabulador
-    const lineasIndice = listaDramas.map(d => `${d.codigo}\t${d.pais}\t${d.anio}\t${d.tituloCompleto}`);
+try {
+    fs.mkdirSync(carpetaInformacion, { recursive: true });
 
-    // Guardar el archivo de texto plano
-    fs.writeFileSync(archivoSalida, lineasIndice.join('\n'), 'utf8');
-    console.log(`¡Índice alfabético generado con éxito desde biblioteca.js! Se han procesado ${listaDramas.length} dramas en ${archivoSalida}`);
+    const dramasActivos = leerBiblioteca();
+    const dramasInactivos = leerDramasInactivos();
 
-} catch (e) {
-    console.error('Error al procesar el archivo biblioteca.js:', e.message);
+    ordenarYGuardar(dramasActivos, archivoActivos, 'Índice alfabético de activos generado');
+    ordenarYGuardar(dramasInactivos, archivoInactivos, 'Índice de activo: false generado');
+} catch (error) {
+    console.error('❌ Error al generar los índices:', error.message);
+    process.exit(1);
 }
