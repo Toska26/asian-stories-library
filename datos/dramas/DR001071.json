@@ -1,0 +1,78 @@
+{
+    "codigo": "DR001071",
+    "titulo": "Teach Me, Touch Me",
+    "tituloOriginal": "สัมผัสกันต์ธีร์",
+    "pais": [
+        "TH"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "episodios": 10,
+    "estreno": "2026-10-14",
+    "generos": [
+        "BL",
+        "Romance"
+    ],
+    "origen": {
+        "tipo": "Novela",
+        "relacion": "Adaptación",
+        "autor": "Wara",
+        "pais": "TH"
+    },
+    "tags": [
+        "Adaptación literaria",
+        "Romance",
+        "Relación entre opuestos",
+        "Acercamiento emocional"
+    ],
+    "ships": [
+        {
+            "personajes": [
+                "Kanthee",
+                "Gear"
+            ]
+        }
+    ],
+    "personas": [
+        {
+            "persona": "PR000852",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000299",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "persona": "PR000822",
+            "funcion": [
+                "Director"
+            ]
+        }
+    ],
+    "entidades": [
+        {
+            "codigo": "EN000165",
+            "funcion": [
+                "Productora"
+            ]
+        },
+        {
+            "codigo": "EN000024",
+            "funcion": [
+                "Plataforma"
+            ]
+        }
+    ],
+    "activo": true,
+    "multimedia": {
+        "portada": [
+            "https://static.wikia.nocookie.net/drama/images/a/a8/Teach_Me%2C_Touch_Me-2026-01.jpg/revision/latest/scale-to-width-down/1000?cb=20261014153850&path-prefix=es"
+        ]
+    }
+}
