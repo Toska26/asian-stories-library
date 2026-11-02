@@ -1,13 +1,11 @@
 {
     "codigo": "DR000000",
-    "bl": false,
     "titulo": null,
     "tituloOriginal": null,
     "alias": [],
-    "tipo": null,
-    "anio": null,
     "pais": [],
-    "idioma": null,
+    "anio": null,
+    "tipo": null,
     "franquicia": null,
     "universo": null,
     "serie": null,
@@ -22,6 +20,16 @@
     "finalizacion": null,
     "generos": [],
     "tags": [],
+    "personas": [],
+    "ships": [
+        {
+            "personajes": [],
+            "multimedia": []
+        }
+    ],
+    "entidades": [],
+    "especiales": [],
+    "sinopsis": null,
     "multimedia": {
         "portada": [],
         "trailer": [],
@@ -30,11 +38,5 @@
         "ost": [],
         "videos": []
     },
-    "personas": [],
-    "ships": [],
-    "sinopsis": null,
-    "especiales": [],
-    "entidades": [],
-    "relaciones": [],
     "activo": true
 }
