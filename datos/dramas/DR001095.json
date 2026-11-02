@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001095",
+  "bl": false,
+  "titulo": "Doctor-X T6",
+  "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+  "alias": [
+    "Doctor-X: Surgeon Michiko Daimon",
+    "Doctor-X Season 6"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2019,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001090",
+  "remake": null,
+  "origen": null,
+  "temporadas": 7,
+  "temporada": 6,
+  "episodios": 10,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2019-10-17",
+  "finalizacion": "2019-12-19",
+  "generos": [
+    "Drama",
+    "Médico",
+    "Comedia"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Cirujana",
+    "Ética médica",
+    "Corrupción hospitalaria",
+    "Tecnología médica",
+    "Casos médicos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000974",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Daimon Michiko",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Daimon Michiko vuelve a ejercer como cirujana independiente en un sistema sanitario sometido a cambios y presiones institucionales. Frente a los intereses de la dirección hospitalaria y a las nuevas exigencias del sector médico, continúa defendiendo que las decisiones clínicas deben tener como prioridad la vida y el bienestar de los pacientes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/kEjVrf.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
