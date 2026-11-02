@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001101",
+  "bl": false,
+  "titulo": "Gift",
+  "tituloOriginal": "기프트",
+  "alias": [],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "Gift",
+    "tituloOriginal": "기프트",
+    "autor": "Jungiriiri",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-12-05",
+  "finalizacion": null,
+  "generos": ["Drama", "Deportes"],
+  "tags": ["Adaptación de webtoon", "Béisbol", "Deporte", "Entrenador", "Exjugador", "Equipo escolar", "Instituto", "Talento deportivo", "Superación personal", "Trabajo en equipo", "Competición", "Segundas oportunidades"],
+  "personas": [
+    {"persona": "PR000991", "funcion": ["Actor"], "nombre": "Jung Min-yong", "principal": true},
+    {"persona": "PR000992", "funcion": ["Actor"], "nombre": "Yoon Seo-jin", "principal": true}
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Jung Min-yong fue entrenador de lanzadores de un equipo profesional de béisbol hasta que un accidente inesperado cambia su vida y le concede una habilidad extraordinaria: puede reconocer el talento de un jugador con solo mirarlo. Decidido a aprovechar ese don, acepta dirigir un equipo de béisbol de instituto que atraviesa una mala racha. Allí tendrá que enfrentarse a las dificultades del equipo, a las expectativas de sus jugadores y a la perspectiva de Yoon Seo-jin, que quiere ayudarlos a crecer como deportistas y como personas. Juntos emprenderán el desafío de transformar al equipo y encontrar una nueva oportunidad para todos.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/DykYyy_4f.jpg"],
+    "trailer": ["https://www.youtube.com/watch?v=pEFjLryfqRk"],
+    "teaser": ["https://www.youtube.com/watch?v=SiB1LXkdDhk"],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
