@@ -823,6 +823,7 @@ DR000994	TH	2025	Sweet Tooth, Good Dentist
 DR000170	KR	2025	Sweetheart Service
 DR000652	JP	2022	Takara-kun & Amagi-kun
 DR000688	JP	2024	Takara's Treasure
+DR001079	KR	2026	Take Charge of My Heart
 DR000720	JP	2025	Takumi-kun Series -Drama-
 DR000715	JP	2009	Takumi-kun Series 2: Niji-iro no Garasu
 DR000716	JP	2010	Takumi-kun Series 3: Bibō no Detail
