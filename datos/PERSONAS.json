@@ -17318,5 +17318,245 @@
             "foto": []
         },
         "activo": true
+    },
+    {
+        "codigo": "PR000963",
+        "nombre": "Yoo Yeon-seok",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000964",
+        "nombre": "Seo Hyun-jin",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000965",
+        "nombre": "Ok Ja-yeon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000966",
+        "nombre": "Im Sung-jae",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000967",
+        "nombre": "Kim Ji-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000968",
+        "nombre": "Lee Chun-hee",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000969",
+        "nombre": "Oh Dong-min",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000970",
+        "nombre": "Kim Ji-won",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000971",
+        "nombre": "Lee Jung-eun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000972",
+        "nombre": "Son Hyun-joo",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000973",
+        "nombre": "Kim Woo-seok",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000974",
+        "nombre": "Yonekura Ryoko",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000975",
+        "nombre": "Uchida Yuki",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000976",
+        "nombre": "Kishibe Ittoku",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000977",
+        "nombre": "Nishida Toshiyuki",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
     }
 ]
