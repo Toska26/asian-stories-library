@@ -1,0 +1,51 @@
+{
+  "codigo": "DR001097",
+  "bl": false,
+  "titulo": "The Remarried Empress",
+  "tituloOriginal": "재혼 황후",
+  "alias": ["Jaehon Hwanghu", "The Remarried Princess"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "The Remarried Empress",
+    "autor": "Alphatart",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-11-04",
+  "finalizacion": "2026-11-25",
+  "generos": ["Drama", "Romance", "Fantasía", "Histórico"],
+  "tags": ["Emperatriz", "Realeza", "Imperio", "Matrimonio", "Divorcio", "Nuevo matrimonio", "Infidelidad", "Amante", "Intrigas palaciegas", "Intriga política", "Nobleza", "Reinos", "Amor y traición", "Adaptación de webtoon"],
+  "personas": [
+    {"persona": "PR000978", "funcion": ["Actor"], "nombre": "Navier Ellie Trovi", "principal": true},
+    {"persona": "PR000979", "funcion": ["Actor"], "nombre": "Heinrey Alles Lazlo", "principal": true},
+    {"persona": "PR000980", "funcion": ["Actor"], "nombre": "Sovieshu Vict", "principal": true},
+    {"persona": "PR000981", "funcion": ["Actor"], "nombre": "Rashta Isqua", "principal": true}
+  ],
+  "ships": [{"personajes": ["Navier Ellie Trovi", "Heinrey Alles Lazlo"]}],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Navier Ellie Trovi es una emperatriz respetada que gobierna junto a su esposo, el emperador Sovieshu. Su vida cambia cuando él lleva al palacio a Rashta, una esclava fugitiva de la que se ha enamorado y a quien pretende convertir en su amante. Mientras su matrimonio se desmorona y Sovieshu solicita el divorcio, Navier conoce al príncipe Heinrey, heredero del Reino Occidental. Decidida a no perder su posición ni su dignidad, Navier plantea una condición inesperada: aceptará el divorcio si se le permite volver a casarse con Heinrey.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/VB056Q_4f.jpg"],
+    "trailer": ["https://v.mydramalist.com/f59/f593b9ead8801922f74f0a5329e31486.mp4"],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
