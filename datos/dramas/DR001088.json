@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001088",
+  "bl": false,
+  "titulo": "Dead-End Job",
+  "tituloOriginal": "꿀알바",
+  "alias": [
+    "Perfect Job",
+    "Honey Jar Part-Time Project",
+    "Kkul Alba",
+    "Kkuralba",
+    "Sweet Job"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": "Operating Principles of a Convenience Store, de Kyung Min-sun",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "2026-10-30",
+  "finalizacion": "2026-10-30",
+  "generos": [
+    "Fantasía",
+    "Terror",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "Trabajo temporal",
+    "Agencia de empleo",
+    "Trabajo a tiempo parcial",
+    "Empleo bien remunerado",
+    "Deudas",
+    "Misterio sobrenatural",
+    "Horror",
+    "Investigación",
+    "Fenómenos paranormales",
+    "Pesadillas",
+    "Conveniencia",
+    "Reglas extrañas",
+    "Supervivencia",
+    "Hermanos",
+    "Familia",
+    "Secretos",
+    "Maldición",
+    "Lugares inquietantes"
+  ],
+  "personas": [
+    {
+      "persona": "PR000959",
+      "funcion": ["Actor"],
+      "nombre": "Byeon Hyeok-jun",
+      "principal": true
+    },
+    {
+      "persona": "PR000960",
+      "funcion": ["Actor"],
+      "nombre": "Eum Yeon-joo",
+      "principal": true
+    },
+    {
+      "persona": "PR000961",
+      "funcion": ["Actor"],
+      "nombre": "Byeon Ji-yoon",
+      "principal": true
+    },
+    {
+      "persona": "PR000962",
+      "funcion": ["Actor"],
+      "nombre": "Kang Jun / Mr. S",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Atrapado por las deudas y desesperado por conseguir dinero, Byeon Hyeok-jun descubre una misteriosa agencia de empleo llamada Spyder Human Resource Center, que ofrece trabajos temporales con salarios hasta cincuenta veces superiores a los habituales. Convencido de que es la oportunidad perfecta para cambiar su situación económica, acepta una de sus ofertas. Sin embargo, cada nuevo trabajo lo introduce en un entorno más aterrador, donde debe enfrentarse a reglas inexplicables, fenómenos sobrenaturales y situaciones que ponen en peligro su vida. Mientras intenta descubrir quién está detrás de la agencia y cuál es su verdadero propósito, su hermana Byeon Ji-yoon y la investigadora Eum Yeon-joo también se ven involucradas en los inquietantes acontecimientos. En el centro de todo se encuentra Mr. S, el enigmático responsable de la agencia, que parece conocer mucho más de lo que revela.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dyk7or_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/bac/bac41b1c7076448403ae19b730a6da78.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
