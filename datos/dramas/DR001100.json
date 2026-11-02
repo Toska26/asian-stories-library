@@ -1,0 +1,51 @@
+{
+  "codigo": "DR001100",
+  "bl": false,
+  "titulo": "The Blue Road",
+  "tituloOriginal": "푸른길",
+  "alias": ["Blue Road", "Peureungil", "Road"],
+  "pais": ["KR", "JP"],
+  "idioma": "ko, ja",
+  "anio": 2026,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Cómic",
+    "relacion": "Adaptación",
+    "titulo": "Peureungil",
+    "tituloOriginal": "푸른길",
+    "autor": "Keishi Edogawa",
+    "ilustrador": "Kwon Ka-ya",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-11-20",
+  "finalizacion": null,
+  "generos": ["Drama", "Thriller", "Misterio", "Crimen"],
+  "tags": ["Coproducción Corea del Sur-Japón", "Adaptación de cómic", "Detectives", "Investigación criminal", "Asesino en serie", "Asesinatos", "Crímenes internacionales", "Cooperación policial", "Corea del Sur", "Japón", "Investigación transfronteriza"],
+  "personas": [
+    {"persona": "PR000989", "funcion": ["Actor"], "nombre": "Kim Seok", "principal": true},
+    {"persona": "PR000990", "funcion": ["Actor"], "nombre": "Inose", "principal": true}
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Una serie de asesinatos inquietantes sacude Corea del Sur y Japón. En Tokio aparece un cadáver mutilado junto al que se encuentran caracteres coreanos escritos con sangre. Poco después, otro cuerpo es descubierto en Corea del Sur, esta vez rodeado de caracteres japoneses. Los investigadores de ambos países comprenden que los crímenes están relacionados y que se enfrentan a un asesino en serie que actúa a ambos lados de la frontera. El detective surcoreano Kim Seok y el detective japonés Inose unen sus fuerzas para descubrir la identidad del responsable y detener los asesinatos.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/8Q0yLW_4f.jpg"],
+    "trailer": ["https://v.mydramalist.com/d23/d2339e22f9372b89e9fa6794042ad0ec.mp4"],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
