@@ -197,6 +197,7 @@ DR000028	TH	2019	Dark Blue Kiss
 DR000584	CN	2024	Dashing Youth
 DR001008	TH	2025	Dating Game
 DR000902	TH	2023	Dead Friend Forever
+DR001088	KR	2026	Dead-End Job
 DR000829	TH	2021	Deal Lover
 DR000859	TH	2022	Dear Doctor, I'm Coming for Soul
 DR001068	TH	2026	Decoding You
