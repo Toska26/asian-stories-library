@@ -10567,7 +10567,9 @@
             "Actor"
         ],
         "multimedia": {
-            "foto": []
+            "foto": [
+                "https://www.dramabl.com/wp-content/uploads/2026/03/Jeon-Yu-Bin-768x973.jpg.webp"
+            ]
         },
         "activo": true
     },
@@ -16402,6 +16404,918 @@
             "foto": [
                 "https://i.mydramalist.com/VX8D3Q_5c.jpg"
             ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000907",
+        "nombre": "Han Sang-hyo",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://i.mydramalist.com/g0AWOd_5c.jpg"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000908",
+        "nombre": "Jeon Il-hyeong",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://www.dramabl.com/wp-content/uploads/2026/10/Jeon-Il-hyeong.jpg.webp"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000909",
+        "nombre": "Ko Jeong-mo",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://www.dramabl.com/wp-content/uploads/2026/09/Ko-Jeong-mo.jpg.webp"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000910",
+        "nombre": "Ji Yoon-jae",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://www.dramabl.com/wp-content/uploads/2026/09/Ji-Yun-jae.jpg.webp"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000911",
+        "nombre": "Kim Young-kuk",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://www.dramabl.com/wp-content/uploads/2026/09/Kim-Yeong-guk.jpg.webp"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000912",
+        "nombre": "Ji Chang-wook",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000913",
+        "nombre": "Imada Mio",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000914",
+        "nombre": "Kumada Rinka",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "JP",
+        "idioma": "ja",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000915",
+        "nombre": "Ko Tae-woon",
+        "nombreOriginal": "",
+        "nombreArtistico": "Taehwan",
+        "alias": [
+            "Taehwan"
+        ],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000916",
+        "nombre": "Kim Do-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "Doha",
+        "alias": [
+            "Doha"
+        ],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000917",
+        "nombre": "Lee Kyung-won",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000918",
+        "nombre": "Kim Young-kwang",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000919",
+        "nombre": "Chae Soo-bin",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000920",
+        "nombre": "Jeong Jae-kwang",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000921",
+        "nombre": "Shin Do-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000922",
+        "nombre": "Kim You-jung",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000923",
+        "nombre": "Park Jin-young",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000924",
+        "nombre": "Kim Hyun-joo",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000925",
+        "nombre": "Lee Mu-saeng",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000926",
+        "nombre": "Jin Sun-kyu",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000927",
+        "nombre": "Seo Jeong-yeon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000928",
+        "nombre": "Nam Ji-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000929",
+        "nombre": "Kim Jae-young",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000930",
+        "nombre": "Park So-jin",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000931",
+        "nombre": "Kim Shin-bi",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000932",
+        "nombre": "So Ah-rin",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000933",
+        "nombre": "Kang Tae-ju",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000934",
+        "nombre": "Yim Si-wan",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000935",
+        "nombre": "Seol In-ah",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000936",
+        "nombre": "Kim Jung-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000937",
+        "nombre": "Lee Da-bin",
+        "nombreOriginal": "",
+        "nombreArtistico": "Yeonwoo",
+        "alias": [
+            "Yeonwoo"
+        ],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000938",
+        "nombre": "Ryu Seung-soo",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000939",
+        "nombre": "Park Jun-myun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000940",
+        "nombre": "Yoo Do-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000941",
+        "nombre": "Ko Gyeol",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000942",
+        "nombre": "Min Sung-wook",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000943",
+        "nombre": "Ahn Hyo-seop",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000944",
+        "nombre": "Hong Hwa-yeon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000945",
+        "nombre": "Chang Ryul",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000946",
+        "nombre": "Jung Yoo-jin",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000947",
+        "nombre": "Jang Young-nam",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000948",
+        "nombre": "Cha Ji-yeon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000949",
+        "nombre": "Jung Yong-hwa",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000950",
+        "nombre": "Hong Seung-hee",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000951",
+        "nombre": "Lee Yi-kyung",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000952",
+        "nombre": "Park Yoo-na",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000953",
+        "nombre": "Han Chae-ah",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000954",
+        "nombre": "Jo Jae-yoon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000955",
+        "nombre": "Cho Yi-hyun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000956",
+        "nombre": "Jung Jin-young",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000957",
+        "nombre": "Ryu Hae-jun",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000958",
+        "nombre": "Hong Ye-ji",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000959",
+        "nombre": "Lee Jae-wook",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000960",
+        "nombre": "Go Min-si",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000961",
+        "nombre": "Kim Min-ha",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000962",
+        "nombre": "Lee Hee-joon",
+        "nombreOriginal": "",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": []
         },
         "activo": true
     }
