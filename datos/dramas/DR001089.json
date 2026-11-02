@@ -1,0 +1,132 @@
+{
+  "codigo": "DR001089",
+  "bl": false,
+  "titulo": "The Perfect Lie",
+  "tituloOriginal": "라이어",
+  "alias": [
+    "Liar",
+    "Raieo"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "titulo": "Liar",
+    "tituloOriginal": "Liar",
+    "anio": 2017,
+    "pais": [
+      "GB"
+    ],
+    "tipo": "Serie de televisión",
+    "creadores": [
+      "Harry Williams",
+      "Jack Williams"
+    ]
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-10-30",
+  "finalizacion": null,
+  "generos": [
+    "Thriller",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Thriller psicológico",
+    "Misterio",
+    "Mentiras",
+    "Secretos",
+    "Investigación",
+    "Crimen",
+    "Versiones contradictorias",
+    "Relaciones personales",
+    "Verdad y engaño"
+  ],
+  "personas": [
+    {
+      "persona": "PR000963",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Min Jun-ho",
+      "principal": true
+    },
+    {
+      "persona": "PR000964",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kang Ji-seon",
+      "principal": true
+    },
+    {
+      "persona": "PR000965",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Hwa-young",
+      "principal": false
+    },
+    {
+      "persona": "PR000966",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Seok-gu",
+      "principal": false
+    },
+    {
+      "persona": "PR000967",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kang Ji-eun",
+      "principal": false
+    },
+    {
+      "persona": "PR000968",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kim Hyung-soo",
+      "principal": false
+    },
+    {
+      "persona": "PR000969",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Jung-hyeon",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kang Ji-seon, profesora de arte, tiene una primera cita con Min Jun-ho, un cirujano cardíaco. Al día siguiente, ambos ofrecen versiones completamente opuestas sobre lo sucedido aquella noche. Mientras sus relatos chocan y la búsqueda de la verdad se vuelve cada vez más peligrosa, las personas de su entorno también quedan atrapadas en el conflicto. La historia explora la memoria, la manipulación y la dificultad de distinguir la verdad de la mentira.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Pex0z8_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/d22/d229abbb7795bca04ff7fbfe2a61497d.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
