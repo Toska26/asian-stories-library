@@ -1,0 +1,72 @@
+{
+  "codigo": "DR001078",
+  "bl": true,
+  "titulo": "Twisted Tie",
+  "tituloOriginal": "비틀린 넥타이",
+  "alias": ["Biteullin Nektai"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 23,
+  "estado": "en_emision",
+  "estreno": "2026-10-08",
+  "finalizacion": null,
+  "generos": ["Romance", "Drama"],
+  "tags": [
+    "BL",
+    "Romance de oficina",
+    "Compañeros de trabajo",
+    "Jefe y empleado",
+    "Diferencia de personalidad"
+  ],
+  "personas": [
+    {
+      "persona": "PR000915",
+      "funcion": ["Actor"],
+      "nombre": "Ko Tae-woon",
+      "principal": true
+    },
+    {
+      "persona": "PR000916",
+      "funcion": ["Actor"],
+      "nombre": "Kim Do-hyun",
+      "principal": true
+    },
+    {
+      "persona": "PR000917",
+      "funcion": ["Actor"],
+      "nombre": "Lee Kyung-won",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Kang Do-jin", "Lee Sun-woo"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Lee Sun-woo comienza a trabajar en una empresa especializada en diseñar espacios para clientes de alto nivel. Su carácter sincero y espontáneo contrasta con el de Kang Do-jin, un jefe de equipo perfeccionista que intenta mantener bajo control tanto el trabajo como las relaciones personales. La llegada de Sun-woo pondrá a prueba las normas y distancias que Do-jin siempre ha intentado imponer.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/bveWQx_4f.jpg"],
+    "trailer": [
+      "https://v.mydramalist.com/d57/d57b5430f8c6a9fa9d91cb60bd237336.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
