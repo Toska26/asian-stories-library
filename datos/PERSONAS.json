@@ -17830,5 +17830,151 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR000995",
+    "nombre": "Lee Min-ki",
+    "nombreOriginal": "이민기",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR000996",
+    "nombre": "Kwak Sun-young",
+    "nombreOriginal": "곽선영",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR000997",
+    "nombre": "Heo Sung-tae",
+    "nombreOriginal": "허성태",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR000998",
+    "nombre": "Lee Ho-cheol",
+    "nombreOriginal": "이호철",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR000999",
+    "nombre": "Moon Hee",
+    "nombreOriginal": "문희",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001000",
+    "nombre": "Park Ji-sung",
+    "nombreOriginal": "박지성",
+    "nombreArtistico": "Jisung",
+    "alias": [
+      "Jisung"
+    ],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001001",
+    "nombre": "Lee Je-hoon",
+    "nombreOriginal": "이제훈",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001002",
+    "nombre": "Kim Hye-soo",
+    "nombreOriginal": "김혜수",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001003",
+    "nombre": "Cho Jin-woong",
+    "nombreOriginal": "조진웅",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
