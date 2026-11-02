@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001075",
+  "bl": true,
+  "titulo": "Training the Intern",
+  "tituloOriginal": "신입사원 길들이기",
+  "alias": ["Sinipsawon Gildeurigi", "Breaking in the Newbie"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 10,
+  "estado": "en_emision",
+  "estreno": "2026-10-04",
+  "finalizacion": null,
+  "generos": ["Romance", "Drama"],
+  "tags": [
+    "Romance de oficina",
+    "Entorno laboral",
+    "Compañeros de trabajo",
+    "Jefe y empleado",
+    "Superior y subordinado",
+    "Diferencia jerárquica",
+    "Relación entre compañeros",
+    "Encuentro de una noche",
+    "Límites profesionales",
+    "Romance adulto"
+  ],
+  "personas": [
+    {
+      "persona": "PR000907",
+      "funcion": ["Actor"],
+      "nombre": "Lee Hyeong-chan",
+      "principal": true
+    },
+    {
+      "persona": "PR000908",
+      "funcion": ["Actor"],
+      "nombre": "Seon-u",
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Lee Hyeong-chan", "Seon-u"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Hyeong-chan comienza su primer día como nuevo empleado de una empresa con la intención de causar una buena impresión y demostrar su capacidad. Para adaptarse al trabajo tendrá que responder a las exigencias de Seon-u, su superior, un asistente de dirección que le asigna tareas y supervisa su desempeño. Aunque al principio mantienen una relación estrictamente profesional, Hyeong-chan expresa abiertamente su deseo de acercarse a él. Un encuentro fuera de la oficina y una noche de intimidad hacen que la relación entre ambos cambie. Al regresar al trabajo, la incomodidad y los intentos de evitarse ponen de manifiesto que ninguno puede ignorar lo sucedido. Mientras Seon-u intenta mantener la distancia que exige su posición, Hyeong-chan busca aclarar sus sentimientos y comprender qué significa lo que ha surgido entre ellos. Ambos tendrán que afrontar la atracción y las dificultades de una relación marcada por la jerarquía laboral.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/y6WgqB_4f.jpg"],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
