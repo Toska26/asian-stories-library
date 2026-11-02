@@ -1,0 +1,100 @@
+{
+  "codigo": "DR001084",
+  "bl": true,
+  "titulo": "The Sound of Sugar Cubes",
+  "tituloOriginal": "각설탕 소리",
+  "alias": [
+    "Gakseoltang Sori",
+    "Gakseoltangsori",
+    "Sound of Sugar Cubes"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": "Webtoon 각설탕 소리, de Kim Tak",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "en_emision",
+  "estreno": "2026-10-22",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Drama",
+    "Música",
+    "Misterio"
+  ],
+  "tags": [
+    "BL",
+    "Adaptación de webtoon",
+    "Música",
+    "Industria musical",
+    "Canto",
+    "Cantante",
+    "Compositor",
+    "Ídolos",
+    "Trauma",
+    "Pasado oscuro",
+    "Amistad",
+    "Venganza",
+    "Asesinato",
+    "Triángulo amoroso",
+    "Amor y obsesión"
+  ],
+  "personas": [
+    {
+      "persona": "PR000658",
+      "funcion": ["Actor"],
+      "nombre": "Lee Won",
+      "principal": true
+    },
+    {
+      "persona": "PR000940",
+      "funcion": ["Actor"],
+      "nombre": "Lee Han-yul",
+      "principal": true
+    },
+    {
+      "persona": "PR000941",
+      "funcion": ["Actor"],
+      "nombre": "Herod",
+      "principal": true
+    },
+    {
+      "persona": "PR000942",
+      "funcion": ["Actor"],
+      "nombre": "Pan",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lee Han-yul",
+        "Lee Won"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Lee Han-yul creció siendo huérfano y soñaba con convertirse en cantante, hasta que presenció el asesinato de su mejor amigo a manos de alguien a quien admiraba. Traumado por lo ocurrido, abandona sus sueños, deja atrás su antigua identidad y comienza a cambiar de nombre mientras intenta pasar desapercibido. Su vida da un giro cuando Lee Won, un compositor que descubre el poder de su voz, le ofrece la oportunidad de volver a cantar y recuperar las canciones que le fueron arrebatadas a su amigo. Aunque Han-yul desconfía de las intenciones de Won, poco a poco comienza a acercarse a él. Sin embargo, el regreso de Herod, un cantante famoso vinculado a su traumático pasado, amenaza con sacar a la luz los secretos que Han-yul lleva tanto tiempo intentando ocultar.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3vo3lv_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
