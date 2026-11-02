@@ -1,0 +1,213 @@
+{
+    "codigo": "DR001073",
+    "bl": false,
+    "titulo": "Your Personal Taxi",
+    "tituloOriginal": "개인적인 택시",
+    "alias": [
+        "Private Taxi",
+        "個人的なタクシー"
+    ],
+    "pais": [
+        "KR",
+        "JP"
+    ],
+    "anio": 2026,
+    "tipo": "DR",
+    "franquicia": null,
+    "universo": null,
+    "serie": null,
+    "remake": null,
+    "origen": null,
+    "temporadas": 1,
+    "temporada": 1,
+    "episodios": 8,
+    "duracion": null,
+    "estado": "finalizado",
+    "estreno": "2026-10-01",
+    "finalizacion": "2026-10-01",
+    "generos": [
+        "Drama",
+        "Música"
+    ],
+    "tags": [
+        "Taxi",
+        "Música",
+        "Historias cotidianas",
+        "Sanación emocional",
+        "Encuentros",
+        "Drama humano"
+    ],
+    "personas": [
+        {
+            "persona": "PR000888",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Go Gi-sa",
+            "principal": true
+        },
+        {
+            "persona": "PR000889",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Yeon-woo",
+            "principal": true
+        },
+        {
+            "persona": "PR000890",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000891",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000892",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Gye-hyang",
+            "principal": true
+        },
+        {
+            "persona": "PR000893",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Dae-il",
+            "principal": false
+        },
+        {
+            "persona": "PR000894",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000895",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000896",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000897",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Chang-sik",
+            "principal": true
+        },
+        {
+            "persona": "PR000898",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000899",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Young-ran",
+            "principal": false
+        },
+        {
+            "persona": "PR000900",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Hong-rae",
+            "principal": false
+        },
+        {
+            "persona": "PR000901",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000902",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000903",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        },
+        {
+            "persona": "PR000904",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Mr. Lim",
+            "principal": false
+        },
+        {
+            "persona": "PR000905",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": "Poong-geum",
+            "principal": false
+        },
+        {
+            "persona": "PR000686",
+            "funcion": [
+                "Actor"
+            ],
+            "nombre": null,
+            "principal": false
+        }
+    ],
+    "ships": [],
+    "entidades": [],
+    "especiales": [],
+    "sinopsis": "En un taxi misterioso que solo acepta reservas, el conductor recoge a pasajeros con historias personales que encuentran en el trayecto un espacio para compartir sus recuerdos, preocupaciones y emociones. Cada viaje se acompaña de canciones elegidas por los propios pasajeros, que sirven de hilo conductor para relatos cotidianos sobre encuentros, relaciones y segundas oportunidades. A través de esas historias, el conductor y quienes suben al taxi descubren pequeñas formas de consuelo y conexión.",
+    "multimedia": {
+        "portada": [
+            "https://i.mydramalist.com/zBZqwy_4f.jpg",
+            "https://i.mydramalist.com/oQjKQP_3f.jpg",
+            "https://i.mydramalist.com/Lw4Kw7_3f.jpg",
+            "https://i.mydramalist.com/Nd0zdE_3f.jpg",
+            "https://i.mydramalist.com/O8Zw8L_3f.jpg"
+        ],
+        "trailer": null,
+        "teaser": null,
+        "pilot": null,
+        "ost": [],
+        "videos": []
+    },
+    "activo": true
+}
