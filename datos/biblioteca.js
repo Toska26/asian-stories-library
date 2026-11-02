@@ -978,6 +978,7 @@ window.biblioteca = window.biblioteca || [
 	{"codigo":"DR000992","titulo":"Top Form","pais":["TH"],"anio":2025,"tipo":"SER","estado":"finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://i.mydramalist.com/mOZkoP_4f.jpg"},
 	{"codigo":"DR000834","titulo":"Top Secret Together","pais":["TH"],"anio":2021,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.mydramalist.com/BnbdR_4f.jpg"},
 	{"codigo":"DR000381","titulo":"Toreros","pais":["PH"],"anio":2023,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.mydramalist.com/RBYqlY_4f.jpg"},
+	{"codigo":"DR001075","titulo":"Training the Intern","pais":["KR"],"anio":2026,"tipo":"DR","estado":"en_emision","activo":true,"tieneSinopsis":true,"tienePersonas":true,"portada":"https://i.mydramalist.com/y6WgqB_4f.jpg","ship":"Han Sang-hyo & Jeon Il-hyeong","numShips":1},
 	{"codigo":"DR000554","titulo":"Trapped in Osaka","pais":["CN"],"anio":2025,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.mydramalist.com/73EAPD_4f.jpg"},
 	{"codigo":"DR000423","titulo":"Trật Tự Mới","pais":["VN"],"anio":2019,"tipo":"WEB","estado":"finalizado","activo":true,"tieneSinopsis":true,"universo":{"codigo":"UN000013"}},
 	{"codigo":"DR000862","titulo":"Triage","pais":["TH"],"anio":2022,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"tieneOrigen":true,"portada":"https://i.mydramalist.com/EBnZm_4f.jpg"},
