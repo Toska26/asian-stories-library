@@ -1,0 +1,117 @@
+{
+  "codigo": "DR001092",
+  "bl": false,
+  "titulo": "Doctor-X T3",
+  "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+  "alias": [
+    "Doctor-X: Surgeon Michiko Daimon",
+    "Doctor-X Season 3"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2014,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001090",
+  "remake": null,
+  "origen": null,
+  "temporadas": 7,
+  "temporada": 3,
+  "episodios": 11,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2014-10-09",
+  "finalizacion": "2014-12-18",
+  "generos": [
+    "Drama",
+    "Médico",
+    "Comedia"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Cirujana",
+    "Ética médica",
+    "Corrupción hospitalaria",
+    "Luchas de poder",
+    "Casos médicos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000974",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Daimon Michiko",
+      "principal": true
+    },
+    {
+      "persona": "PR000975",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Jonouchi Hiromi",
+      "principal": false
+    },
+    {
+      "persona": "PR000976",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kanbara Akira",
+      "principal": false
+    },
+    {
+      "persona": "PR000977",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Hiruma Shigekatsu",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [
+    {
+      "titulo": "Doctor-X Special",
+      "tituloOriginal": "ドクターX〜外科医・大門未知子〜スペシャル",
+      "alias": [
+        "Doctor-X: Surgeon Michiko Daimon Special",
+        "Doctor-X 2016 Special"
+      ],
+      "tipo": "ESP",
+      "anio": 2016,
+      "episodios": 1,
+      "duracion": 130,
+      "estreno": "2016-07-03",
+      "multimedia": {
+        "portada": [
+          "https://i.mydramalist.com/47yA6_4f.jpg"
+        ],
+        "trailer": [],
+        "teaser": [],
+        "pilot": [],
+        "ost": [],
+        "videos": []
+      }
+    }
+  ],
+  "relaciones": [],
+  "sinopsis": "Daimon Michiko vuelve a enfrentarse a un entorno hospitalario dominado por las jerarquías y las ambiciones profesionales. Su condición de cirujana independiente la lleva a desafiar las decisiones de quienes anteponen el prestigio y el poder a la salud de los pacientes. Una vez más, su habilidad quirúrgica y su determinación ponen en cuestión las prácticas establecidas en el sistema médico.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ZNE5q_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
