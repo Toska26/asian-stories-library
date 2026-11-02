@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001079",
+  "bl": false,
+  "titulo": "Take Charge of My Heart",
+  "tituloOriginal": "나를 충전해줘",
+  "alias": ["Recharge Me", "Charge Me Up"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": "Novela web Charge Me Up (나를 충전해줘), de Haebeon",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "2026-10-09",
+  "finalizacion": "2026-10-09",
+  "generos": ["Romance", "Comedia", "Fantasía"],
+  "tags": [
+    "Novela web",
+    "Corazón artificial",
+    "Electricidad",
+    "Poderes especiales",
+    "Romance sobrenatural"
+  ],
+  "personas": [
+    {
+      "persona": "PR000918",
+      "funcion": ["Actor"],
+      "nombre": "Kim Young-kwang",
+      "principal": true
+    },
+    {
+      "persona": "PR000919",
+      "funcion": ["Actor"],
+      "nombre": "Chae Soo-bin",
+      "principal": true
+    },
+    {
+      "persona": "PR000920",
+      "funcion": ["Actor"],
+      "nombre": "Jeong Jae-kwang",
+      "principal": false
+    },
+    {
+      "persona": "PR000921",
+      "funcion": ["Actor"],
+      "nombre": "Shin Do-hyun",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Baek Ho-rang", "Na Bo-bae"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Baek Ho-rang lleva una vida aparentemente normal, aunque depende de un corazón artificial cuya batería está llegando al límite. Na Bo-bae, por su parte, posee una extraña capacidad eléctrica desde que fue alcanzada por un rayo durante su infancia. Cuando sus caminos se cruzan, el poder de Bo-bae podría convertirse en la única forma de mantener a Ho-rang con vida. Lo que comienza como una necesidad inesperada pronto dará paso a una relación mucho más profunda.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/JjP40w_4f.jpg"],
+    "trailer": [
+      "https://v.mydramalist.com/69e/69ed689cb7316b5ca9e88c33cfc65b78.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
