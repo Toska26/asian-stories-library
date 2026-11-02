@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001098",
+  "bl": false,
+  "titulo": "One of a Kind Romance",
+  "tituloOriginal": "유일무이 로맨스",
+  "alias": ["Yuilmui Romaenseu", "One-of-a-Kind Romance"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "One of a Kind Romance",
+    "pais": "KR"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-11-09",
+  "finalizacion": null,
+  "generos": ["Romance", "Comedia", "Drama"],
+  "tags": ["Adaptación de webtoon", "Búsqueda de empleo", "Representante de artista", "Actor", "Estrella del espectáculo", "Chef", "Actriz", "Amor inesperado", "Romance contemporáneo", "Relaciones sentimentales", "Triángulo amoroso", "Industria del entretenimiento"],
+  "personas": [
+    {"persona": "PR000982", "funcion": ["Actor"], "nombre": "Gong Yu-il", "principal": true},
+    {"persona": "PR000983", "funcion": ["Actor"], "nombre": "Tak Mu-i", "principal": true},
+    {"persona": "PR000984", "funcion": ["Actor"], "nombre": "Kang Hee-soo", "principal": true},
+    {"persona": "PR000985", "funcion": ["Actor"], "nombre": "Joo Da-hong", "principal": true}
+  ],
+  "ships": [{"personajes": ["Gong Yu-il", "Tak Mu-i"]}],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Gong Yu-il es una joven que busca trabajo y sueña con llevar una vida tranquila. De manera inesperada, consigue convertirse en representante de Tak Mu-i, un popular actor que arrastra las secuelas emocionales de una experiencia de acoso. Mientras ambos comienzan a conocerse, Yu-il descubre que Mu-i siente una conexión especial con una novela que ella escribió años atrás. Al mismo tiempo, Kang Hee-soo, un reconocido chef que ofrece trabajo a Yu-il, y Joo Da-hong, una actriz que lleva años enamorada de Mu-i, se incorporan a sus vidas y complican sus relaciones.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/ArBAPE_4f.jpg"],
+    "trailer": [],
+    "teaser": ["https://www.youtube.com/watch?v=F_Pa3STQCPU"],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
