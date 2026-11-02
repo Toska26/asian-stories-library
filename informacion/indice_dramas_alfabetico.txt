@@ -1,5 +1,6 @@
 DR000771	TH	2018	'Cause You're My Boy
 DR000001	JP	2025	10 Things I Want To Do Before I Turn 40
+DR001081	KR	2026	100 Days of Deception
 DR000945	TH	2024	1000 Years Old
 DR000709	JP	2025	10DANCE
 DR000875	TH	2022	180 Degree Longitude Passes Through Us
