@@ -1,0 +1,97 @@
+{
+  "codigo": "DR001090",
+  "bl": false,
+  "titulo": "Doctor-X T1",
+  "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+  "alias": [
+    "Doctor-X: Surgeon Michiko Daimon",
+    "Doctor-X: Gekai Daimon Michiko",
+    "Doctor-X Season 1"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2012,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001090",
+  "remake": {
+    "codigo": "RM001090",
+    "orden": 1
+  },
+  "origen": null,
+  "temporadas": 7,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2012-10-18",
+  "finalizacion": "2012-12-13",
+  "generos": [
+    "Drama",
+    "Médico",
+    "Comedia"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Cirujana",
+    "Corrupción hospitalaria",
+    "Ética médica",
+    "Protagonista independiente",
+    "Casos médicos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000974",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Daimon Michiko",
+      "principal": true
+    },
+    {
+      "persona": "PR000975",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Jonouchi Hiromi",
+      "principal": false
+    },
+    {
+      "persona": "PR000976",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kanbara Akira",
+      "principal": false
+    },
+    {
+      "persona": "PR000977",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Hiruma Shigekatsu",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Daimon Michiko es una cirujana independiente de extraordinaria habilidad que trabaja como médica externa en hospitales donde las jerarquías, el dinero y las luchas de poder suelen imponerse a la ética médica. Con una personalidad directa y una absoluta confianza en sus capacidades, se enfrenta a las irregularidades del sistema hospitalario y defiende su manera de ejercer la medicina. Su talento quirúrgico y su negativa a someterse a las normas injustas la convierten en una figura incómoda para quienes controlan el hospital.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BLOqq_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
