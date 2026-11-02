@@ -975,5 +975,20 @@
   {"codigo":"PR000974","nombre":"Yonekura Ryoko","nombreOriginal":"米倉涼子","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
   {"codigo":"PR000975","nombre":"Uchida Yuki","nombreOriginal":"内田有紀","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
   {"codigo":"PR000976","nombre":"Kishibe Ittoku","nombreOriginal":"岸部一徳","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
-  {"codigo":"PR000977","nombre":"Nishida Toshiyuki","nombreOriginal":"西田敏行","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true}
+  {"codigo":"PR000977","nombre":"Nishida Toshiyuki","nombreOriginal":"西田敏行","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000978","nombre":"Shin Min-a","nombreOriginal":"신민아","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000979","nombre":"Lee Jong-suk","nombreOriginal":"이종석","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000980","nombre":"Ju Ji-hoon","nombreOriginal":"주지훈","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000981","nombre":"Lee Se-young","nombreOriginal":"이세영","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000982","nombre":"Park Soo-young","nombreOriginal":"박수영","nombreArtistico":"Joy","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000983","nombre":"Kim Hyun-jin","nombreOriginal":"김현진","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000984","nombre":"Shin Hyun-soo","nombreOriginal":"신현수","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000985","nombre":"Kang Na-eon","nombreOriginal":"강나언","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000986","nombre":"Bang Sung-hoon","nombreOriginal":"방성훈","nombreArtistico":"Sung Hoon","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000987","nombre":"Oh Se-young","nombreOriginal":"오세영","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000988","nombre":"Lee Jung-shin","nombreOriginal":"이정신","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000989","nombre":"Son Suk-ku","nombreOriginal":"손석구","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000990","nombre":"Nagayama Eita","nombreOriginal":"永山瑛太","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000991","nombre":"Kim Woo-bin","nombreOriginal":"김우빈","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR000992","nombre":"Seo Eun-soo","nombreOriginal":"서은수","nombreArtistico":"","alias":[],"pais":"KR","idioma":"ko","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true}
 ]
