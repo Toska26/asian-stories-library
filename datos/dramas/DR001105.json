@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001105",
+  "bl": false,
+  "titulo": "The Second Signal",
+  "tituloOriginal": "시그널2",
+  "alias": [
+    "Signal 2"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001104",
+  "remake": null,
+  "origen": null,
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": null,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": null,
+  "finalizacion": null,
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Policía",
+    "Perfilador criminal",
+    "Casos sin resolver",
+    "Comunicación a través del tiempo",
+    "Línea temporal",
+    "Investigación",
+    "Secuela",
+    "Pasado y presente"
+  ],
+  "personas": [
+    {
+      "persona": "PR001001",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Je-hoon",
+      "principal": true
+    },
+    {
+      "persona": "PR001002",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kim Hye-soo",
+      "principal": true
+    },
+    {
+      "persona": "PR001003",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Cho Jin-woong",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "La historia continúa el universo de Signal y reúne de nuevo a los protagonistas en una nueva investigación vinculada a casos sin resolver y a la conexión entre el pasado y el presente. Los detalles de la trama y de su emisión todavía no se han confirmado oficialmente.",
+  "multimedia": {
+    "portada": [],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
