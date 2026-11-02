@@ -750,6 +750,7 @@ DR000454	VN	2021	School's Out! Let's Date Now!
 DR000442	VN	2020	Sea Him
 DR000954	TH	2025	Season of Love in Shimane
 DR000832	TH	2021	Second Chance
+DR001076	KR	2026	Second Plate
 DR000854	TH	2022	Secret Crush on You
 DR000997	TH	2025	Secret Ghost
 DR000259	TW	2025	Secret Lover
