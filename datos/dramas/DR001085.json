@@ -1,0 +1,104 @@
+{
+  "codigo": "DR001085",
+  "bl": false,
+  "titulo": "Final Table",
+  "tituloOriginal": "파이널 테이블",
+  "alias": [
+    "The Final Table",
+    "Deo Paineol Teibeul",
+    "Paienal Tebeul"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 70,
+  "estado": "en_emision",
+  "estreno": "2026-10-24",
+  "finalizacion": null,
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Gastronomía",
+    "Cocina",
+    "Competición",
+    "Competición culinaria",
+    "Restaurante",
+    "Chefs",
+    "Chef profesional",
+    "Talento culinario",
+    "Ambición",
+    "Rivalidad",
+    "Superación personal",
+    "Negocio familiar",
+    "Herencia",
+    "Duelo",
+    "Trabajo en equipo",
+    "Alta cocina"
+  ],
+  "personas": [
+    {
+      "persona": "PR000943",
+      "funcion": ["Actor"],
+      "nombre": "Kang Han / Chris K",
+      "principal": true
+    },
+    {
+      "persona": "PR000944",
+      "funcion": ["Actor"],
+      "nombre": "Choi Song-i",
+      "principal": true
+    },
+    {
+      "persona": "PR000945",
+      "funcion": ["Actor"],
+      "nombre": "Cha Woo-jin",
+      "principal": true
+    },
+    {
+      "persona": "PR000946",
+      "funcion": ["Actor"],
+      "nombre": "Seon Jeong-won",
+      "principal": true
+    },
+    {
+      "persona": "PR000947",
+      "funcion": ["Actor"],
+      "nombre": "Moon Hae-seon",
+      "principal": false
+    },
+    {
+      "persona": "PR000948",
+      "funcion": ["Actor"],
+      "nombre": "Baek Hyeon-ju",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Tras la muerte de su padre, Choi Song-i lucha por mantener a flote el restaurante familiar Famiglia, construido por él. Su camino se cruza con el de Kang Han, un chef de prestigio internacional conocido también como Chris K, que termina representando al restaurante en The Table: K-Chef 2026, una competición destinada a encontrar al mejor chef de Corea. Allí tendrá que enfrentarse a Cha Woo-jin, un cocinero perfeccionista y prodigio de la gastronomía con una fuerte ambición por ganar. Mientras los participantes compiten y muestran su talento culinario, sus rivalidades, historias personales y aspiraciones se entrelazan dentro y fuera de la cocina.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NRk6xv_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/7f0/7f06e90b62b8a276308c2756f5afd601.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
