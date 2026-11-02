@@ -1,0 +1,93 @@
+{
+  "codigo": "DR001082",
+  "bl": false,
+  "titulo": "Make Me Tremble",
+  "tituloOriginal": "내가 떨릴 수 있게",
+  "alias": ["Make Me Tingle", "Naega Tteollil Su Itge"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": null,
+  "estado": "en_emision",
+  "estreno": "2026-10-15",
+  "finalizacion": null,
+  "generos": ["Romance", "Comedia"],
+  "tags": [
+    "Romance de oficina",
+    "Cita a ciegas",
+    "Familia tradicional",
+    "Empresa",
+    "Marketing",
+    "Productos para adultos",
+    "Diferencias de personalidad",
+    "Atracción inesperada"
+  ],
+  "personas": [
+    {
+      "persona": "PR000928",
+      "funcion": ["Actor"],
+      "nombre": "Gong Yeon-su",
+      "principal": true
+    },
+    {
+      "persona": "PR000929",
+      "funcion": ["Actor"],
+      "nombre": "Dokgo Dal",
+      "principal": true
+    },
+    {
+      "persona": "PR000930",
+      "funcion": ["Actor"],
+      "nombre": "Jin Se-ra",
+      "principal": false
+    },
+    {
+      "persona": "PR000931",
+      "funcion": ["Actor"],
+      "nombre": "Gong Nam-su",
+      "principal": false
+    },
+    {
+      "persona": "PR000932",
+      "funcion": ["Actor"],
+      "nombre": "Kang Si-eun",
+      "principal": false
+    },
+    {
+      "persona": "PR000933",
+      "funcion": ["Actor"],
+      "nombre": "Yoon Ji-oh",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Gong Yeon-su", "Dokgo Dal"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Gong Yeon-su ha crecido en una familia tradicional y conservadora, y siempre ha procurado mantener sus sentimientos bajo control. Tras una cita a ciegas desastrosa, descubre que Dokgo Dal, el despreocupado director ejecutivo de una empresa de productos para adultos, vuelve a cruzarse en su camino cuando ella debe encargarse de la campaña de marketing de su compañía. Sus personalidades y formas opuestas de entender el amor provocarán constantes enfrentamientos, pero también una atracción inesperada.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/Knb6Dn_4f.jpg"],
+    "trailer": [
+      "https://v.mydramalist.com/a28/a2816f807f2001d46e4d06248790f850.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
