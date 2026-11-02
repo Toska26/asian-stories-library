@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001077",
+  "bl": false,
+  "titulo": "Merry Berry Love",
+  "tituloOriginal": null,
+  "alias": [],
+  "pais": ["JP", "KR"],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "en_emision",
+  "estreno": "2026-10-07",
+  "finalizacion": null,
+  "generos": ["Romance", "Comedia", "Drama"],
+  "tags": [
+    "Coproducción Japón-Corea del Sur",
+    "Romance",
+    "Historias paralelas",
+    "Isla",
+    "Agricultura",
+    "Fresas"
+  ],
+  "personas": [
+    {
+      "persona": "PR000912",
+      "funcion": ["Actor"],
+      "nombre": "Lee Yu-bin",
+      "principal": true
+    },
+    {
+      "persona": "PR000913",
+      "funcion": ["Actor"],
+      "nombre": "Karin Shirahama",
+      "principal": true
+    },
+    {
+      "persona": "PR000673",
+      "funcion": ["Actor"],
+      "nombre": "Park Gu-nam",
+      "principal": true
+    },
+    {
+      "persona": "PR000914",
+      "funcion": ["Actor"],
+      "nombre": "Mizuno Mari",
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Lee Yu-bin", "Karin Shirahama"],
+      "multimedia": []
+    },
+    {
+      "personajes": ["Park Gu-nam", "Mizuno Mari"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Una historia romántica que conecta personajes de Corea del Sur y Japón a través de sus encuentros y experiencias en una pequeña isla. Dos historias sentimentales paralelas exploran las diferencias culturales, las relaciones personales y las nuevas oportunidades que aparecen cuando sus protagonistas se atreven a cambiar de vida.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/zvOOKP_4f.jpg"],
+    "trailer": [
+      "https://v.mydramalist.com/eee/eee76daa77ca90b16bece599650c7ce0.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
