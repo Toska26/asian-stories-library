@@ -1,0 +1,104 @@
+{
+  "codigo": "DR001102",
+  "bl": false,
+  "titulo": "Crash",
+  "tituloOriginal": "크래시",
+  "alias": [],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2024,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001102",
+  "remake": null,
+  "origen": null,
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 62,
+  "estado": "finalizado",
+  "estreno": "2024-05-13",
+  "finalizacion": "2024-06-18",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Comedia",
+    "Suspense"
+  ],
+  "tags": [
+    "Policía",
+    "Investigación criminal",
+    "Delitos de tráfico",
+    "Accidentes de tráfico",
+    "Unidad policial",
+    "Trabajo en equipo",
+    "Justicia",
+    "Persecuciones",
+    "Corrupción",
+    "Casos semanales"
+  ],
+  "personas": [
+    {
+      "persona": "PR000995",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Min-ki",
+      "principal": true
+    },
+    {
+      "persona": "PR000996",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kwak Sun-young",
+      "principal": true
+    },
+    {
+      "persona": "PR000997",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Heo Sung-tae",
+      "principal": true
+    },
+    {
+      "persona": "PR000998",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Ho-cheol",
+      "principal": true
+    },
+    {
+      "persona": "PR000999",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Moon Hee",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "El equipo de investigación de delitos de tráfico (TCI) se enfrenta a una sucesión de accidentes y crímenes relacionados con la carretera. Bajo el liderazgo de Jung Chae-man, el equipo reúne a la brillante analítica de Cha Yeon-ho, la decidida Min So-hee y otros agentes con habilidades muy distintas para descubrir la verdad detrás de cada caso y llevar a los responsables ante la justicia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/2w7L8R_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/730/73061056a3b9c0ed212a6e6ed0b24813.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
