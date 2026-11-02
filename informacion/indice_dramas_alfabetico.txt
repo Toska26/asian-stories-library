@@ -929,6 +929,7 @@ DR000800	TH	2020	The Shipper
 DR000929	TH	2023	The Sign
 DR000527	CN	2020	The Sleuth of the Ming Dynasty
 DR000484	VN	2025	The Sound of Nostalgia
+DR001084	KR	2026	The Sound of Sugar Cubes
 DR000552	SG	2025	The Sparkle in Your Eye
 DR000539	CN	2024	The Spirealm
 DR000464	VN	2022	The Star Always Follows You
