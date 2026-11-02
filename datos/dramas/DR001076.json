@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001076",
+  "bl": true,
+  "titulo": "Second Plate",
+  "tituloOriginal": "세컨드 플레이트",
+  "alias": ["Sekeondeu Peulleiteu"],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 10,
+  "estado": "en_emision",
+  "estreno": "2026-10-06",
+  "finalizacion": null,
+  "generos": ["Romance", "Drama"],
+  "tags": [
+    "BL",
+    "Cocina",
+    "Gastronomía",
+    "Estudiantes",
+    "Competencia",
+    "Superación personal"
+  ],
+  "personas": [
+    {
+      "persona": "PR000909",
+      "funcion": ["Actor"],
+      "nombre": "Ko Jeong-mo",
+      "principal": true
+    },
+    {
+      "persona": "PR000910",
+      "funcion": ["Actor"],
+      "nombre": "Ji Yoon-jae",
+      "principal": true
+    },
+    {
+      "persona": "PR000911",
+      "funcion": ["Actor"],
+      "nombre": "Kim Young-kuk",
+      "principal": false
+    },
+    {
+      "persona": "PR000595",
+      "funcion": ["Actor"],
+      "nombre": "Jeon Yu-bin",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Oh Min-gyeom", "Kang Yu-hyun"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kang Yu-hyeon siempre ha confiado en su talento para la cocina y cree tener claro su futuro profesional. Sin embargo, su seguridad comienza a tambalearse cuando conoce a Oh Min-gyeom, un estudiante cuyas habilidades parecen estar muy por encima de las suyas. La rivalidad y la admiración entre ambos harán que Yu-hyeon cuestione sus propias capacidades y su manera de entender la cocina.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q0orW_4f.jpg",
+      "https://i.mydramalist.com/VB0xnQ_3f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/9cc/9cc38fba0b52be891d8c90da8431be17.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
