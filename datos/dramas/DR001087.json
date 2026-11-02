@@ -1,0 +1,114 @@
+{
+  "codigo": "DR001087",
+  "bl": false,
+  "titulo": "Summer Vacation",
+  "tituloOriginal": "여름방학",
+  "alias": [
+    "Summer Break",
+    "Yeoreumbanghak"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-10-26",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Misterio"
+  ],
+  "tags": [
+    "Juventud",
+    "Adolescencia",
+    "Instituto",
+    "Vacaciones",
+    "Pueblo rural",
+    "Verano",
+    "Encuentro inesperado",
+    "Primer amor",
+    "Romance juvenil",
+    "Elemento sobrenatural",
+    "Experiencia misteriosa",
+    "Familia tradicional",
+    "Herencia familiar",
+    "Natación",
+    "Noviazgo",
+    "Triángulo amoroso",
+    "Celos",
+    "Rivalidad",
+    "Acoso",
+    "Secretos",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "persona": "PR000955",
+      "funcion": ["Actor"],
+      "nombre": "Kim Ha-yeon",
+      "principal": true
+    },
+    {
+      "persona": "PR000956",
+      "funcion": ["Actor"],
+      "nombre": "Jo Yu-gyeom",
+      "principal": true
+    },
+    {
+      "persona": "PR000957",
+      "funcion": ["Actor"],
+      "nombre": "Kim Jeong-yeon",
+      "principal": false
+    },
+    {
+      "persona": "PR000958",
+      "funcion": ["Actor"],
+      "nombre": "Seong Sae-ryeong",
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kim Ha-yeon",
+        "Jo Yu-gyeom"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Jo Yu-gyeom",
+        "Seong Sae-ryeong"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kim Ha-yeon es una estudiante de dieciocho años que sueña con vivir una vida tan emocionante como las historias que ve en la pantalla. Durante las vacaciones de verano acompaña a su familia al pueblo rural de Upo-ri, donde conoce a Jo Yu-gyeom, un joven heredero de una familia tradicional que destaca por su atractivo y su extraordinario talento para la natación, pero cuya vida está condicionada por las estrictas normas familiares y una rutina monótona. El encuentro entre ambos despierta sentimientos inesperados y los conduce a vivir experiencias misteriosas que transformarán aquel verano. Sin embargo, Yu-gyeom ya tiene novia: Seong Sae-ryeong, una joven influyente en el pueblo que percibe rápidamente la cercanía entre ambos. Los celos y los conflictos que surgen entre las dos chicas desencadenan acontecimientos cada vez más inquietantes y convierten el romance juvenil en una historia llena de misterio y tensión.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onxAxY_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/ad3/ad3a14270fa2d83b1fec766852384865.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
