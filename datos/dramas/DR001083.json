@@ -1,0 +1,110 @@
+{
+  "codigo": "DR001083",
+  "bl": false,
+  "titulo": "Love in Disguise",
+  "tituloOriginal": "나의 유죄인간",
+  "alias": [
+    "My Guilty One",
+    "My Guilty Human",
+    "Why Don't You Know She's a Woman?",
+    "Naui Yujoeingan"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": "Novela web y webtoon Why Don't You Know She's a Woman?",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "en_emision",
+  "estreno": "2026-10-19",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Thriller"
+  ],
+  "tags": [
+    "Adaptación de novela web",
+    "Adaptación de webtoon",
+    "Identidad oculta",
+    "Disfraz masculino",
+    "Detective encubierta",
+    "Fuerzas especiales",
+    "Heredero chaebol",
+    "Secretario personal",
+    "Romance laboral",
+    "Sospechoso de asesinato",
+    "Investigación criminal"
+  ],
+  "personas": [
+    {
+      "persona": "PR000934",
+      "funcion": ["Actor"],
+      "nombre": "Yoon Yi-jun",
+      "principal": true
+    },
+    {
+      "persona": "PR000935",
+      "funcion": ["Actor"],
+      "nombre": "Kang Jae-hee",
+      "principal": true
+    },
+    {
+      "persona": "PR000936",
+      "funcion": ["Actor"],
+      "nombre": "Kim Si-hyeon",
+      "principal": false
+    },
+    {
+      "persona": "PR000937",
+      "funcion": ["Actor"],
+      "nombre": "Lee Hye-jung",
+      "principal": false
+    },
+    {
+      "persona": "PR000938",
+      "funcion": ["Actor"],
+      "nombre": "Kang Seok-goo",
+      "principal": false
+    },
+    {
+      "persona": "PR000939",
+      "funcion": ["Actor"],
+      "nombre": "Jo Sook-ja",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yoon Yi-jun",
+        "Kang Jae-hee"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Yoon Yi-jun, heredero de tercera generación del poderoso grupo empresarial Taegang, se convierte en el principal sospechoso de un asesinato. Para investigar el caso, Kang Jae-hee, una detective con experiencia en las fuerzas especiales, se infiltra en su entorno disfrazada de hombre y consigue trabajo como su secretario personal. Mientras permanece a su lado, Yi-jun desconoce su verdadera identidad y Jae-hee intenta descubrir qué secretos se esconden tras el asesinato. La cercanía entre ambos, sus sospechas mutuas y los sentimientos inesperados complicarán cada vez más la investigación.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/gOyrqq_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/b4a/b4a2d301ddc8a3e8c500551900bdffd4.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
