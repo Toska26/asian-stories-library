@@ -286,6 +286,7 @@ DR000434	VN	2023	Ghe Bẹo Ghẹo Ai 2
 DR000880	TH	2022	Ghost Host, Ghost House
 DR000553	CN	2025	Ghost Marriage: A Straight Man Forced to Marry the King of the Underworld
 DR000808	TH	2020	Ghost Runner
+DR001101	KR	2026	Gift
 DR000638	JP	2021	Given
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
@@ -657,6 +658,7 @@ DR000977	TH	2024	OMG! Vampire
 DR000866	TH	2022	On Cloud Nine
 DR000129	KR	2022	Once Again
 DR000335	PH	2021	One Day Pag-ibig
+DR001098	KR	2026	One of a Kind Romance
 DR000672	JP	2023	One Room Angel
 DR001042	TH	2026	One Year
 DR000063	TH	2024	Only Boo!
@@ -866,6 +868,7 @@ DR000835	TH	2021	The Best Story
 DR000780	TH	2019	The Best Twins
 DR000583	CN	2022	The Blood of Youth
 DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
+DR001100	KR	2026	The Blue Road
 DR000730	JP	2026	The Boy and I Who Will Break Up in 100 Days
 DR000268	PH	2020	The Boy Foretold by the Stars
 DR000034	TH	2025	The Boy Next World
@@ -937,6 +940,7 @@ DR000633	JP	2021	The Reason Why He Fell in Love with Me Season 2 T2
 DR000632	JP	2020	The Reason Why He Fell in Love with Me: Drama Special
 DR000957	TH	2024	The Rebound
 DR000401	PH	2026	The Red Leash
+DR001097	KR	2026	The Remarried Empress
 DR000732	JP	2026	The Servant Prince
 DR000800	TH	2020	The Shipper
 DR000929	TH	2023	The Sign
@@ -1037,6 +1041,7 @@ DR000231	TW	2021	We Best Love: No. 1 For You
 DR000647	JP	2022	We're Both Grooms
 DR000016	TH	2023	Wedding Plan
 DR000065	TH	2026	WEIRDO-101
+DR001099	KR	2026	What a Boss Wants
 DR000620	JP	2019	What Did You Eat Yesterday?
 DR000626	JP	2020	What Did You Eat Yesterday? New Year Special 2020
 DR000630	JP	2023	What Did You Eat Yesterday? Season 2 T2
