@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001081",
+  "bl": false,
+  "titulo": "100 Days of Deception",
+  "tituloOriginal": null,
+  "alias": [],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": null,
+  "estado": "en_emision",
+  "estreno": "2026-10-10",
+  "finalizacion": null,
+  "generos": ["Romance", "Drama", "Histórico", "Espionaje"],
+  "tags": [
+    "Años 30",
+    "Gyeongseong",
+    "Ocupación japonesa",
+    "Identidad falsa",
+    "Espionaje",
+    "Movimiento independentista",
+    "Romance histórico"
+  ],
+  "personas": [
+    {
+      "persona": "PR000922",
+      "funcion": ["Actor"],
+      "nombre": "Lee Ga-gyeong",
+      "principal": true
+    },
+    {
+      "persona": "PR000923",
+      "funcion": ["Actor"],
+      "nombre": "Kim Tae-woong / Sato Hideo",
+      "principal": true
+    },
+    {
+      "persona": "PR000924",
+      "funcion": ["Actor"],
+      "nombre": "Yoo So-ran",
+      "principal": false
+    },
+    {
+      "persona": "PR000925",
+      "funcion": ["Actor"],
+      "nombre": "Yoo Philip",
+      "principal": false
+    },
+    {
+      "persona": "PR000926",
+      "funcion": ["Actor"],
+      "nombre": "Sato Shinichi",
+      "principal": false
+    },
+    {
+      "persona": "PR000927",
+      "funcion": ["Actor"],
+      "nombre": "Ryu Gwan-sil / Yanaki",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": ["Lee Ga-gyeong", "Kim Tae-woong"],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "En el Gyeongseong de los años treinta, una joven acepta colaborar con los independentistas coreanos para infiltrarse bajo una identidad falsa en la administración japonesa. Allí conoce a un intérprete que también guarda sus propios secretos. Mientras ambos ocultan sus verdaderas intenciones, una peligrosa red de espionaje comienza a cambiar sus destinos.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/YAY1qB_4f.jpg"],
+    "trailer": [
+      "https://v.mydramalist.com/586/586e57a7ef16035bd85e2dcf44248130.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
