@@ -1,0 +1,88 @@
+{
+  "codigo": "DR001104",
+  "bl": false,
+  "titulo": "Signal",
+  "tituloOriginal": "시그널",
+  "alias": [],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001104",
+  "remake": null,
+  "origen": null,
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 70,
+  "estado": "finalizado",
+  "estreno": "2016-01-22",
+  "finalizacion": "2016-03-12",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Misterio",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "tags": [
+    "Policía",
+    "Perfilador criminal",
+    "Casos sin resolver",
+    "Frío",
+    "Comunicación a través del tiempo",
+    "Línea temporal",
+    "Investigación",
+    "Asesinatos",
+    "Justicia",
+    "Pasado y presente"
+  ],
+  "personas": [
+    {
+      "persona": "PR001001",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Je-hoon",
+      "principal": true
+    },
+    {
+      "persona": "PR001002",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kim Hye-soo",
+      "principal": true
+    },
+    {
+      "persona": "PR001003",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Cho Jin-woong",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Park Hae-young, un joven perfilador criminal, encuentra un viejo walkie-talkie que le permite comunicarse con el detective Lee Jae-han, que vive en el pasado. Junto a la detective Cha Soo-hyun, ambos investigan casos sin resolver y tratan de cambiar acontecimientos que conectan distintas épocas, aunque cada intervención puede alterar el presente y traer consecuencias inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/6wYZO_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/0c9/0c90b01d41de84d8eb1c49bb69e18d09.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
