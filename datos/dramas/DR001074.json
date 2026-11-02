@@ -1,81 +1,91 @@
 {
-    "codigo": "DR001074",
-    "bl": false,
-    "titulo": "Between Steps",
-    "tituloOriginal": "연애박사",
-    "alias": [
-        "Love Doctor",
-        "Romance Expert",
-        "Yeonae Baksa"
-    ],
-    "pais": [
-        "KR"
-    ],
-    "anio": 2026,
-    "tipo": "DR",
-    "franquicia": null,
-    "universo": null,
-    "serie": null,
-    "remake": null,
-    "origen": null,
-    "temporadas": 1,
-    "temporada": 1,
-    "episodios": 12,
-    "duracion": 70,
-    "estado": "en_emision",
-    "estreno": "2026-10-05",
-    "finalizacion": null,
-    "generos": [
-        "Romance",
-        "Juventud",
-        "Drama"
-    ],
-    "tags": [
-        "Romance universitario",
-        "Universidad",
-        "Robótica",
-        "Ingeniería",
-        "Laboratorio",
-        "Crecimiento personal",
-        "Discapacidad",
-        "Segundas oportunidades",
-        "Romance juvenil",
-        "De desconocidos a amantes",
-        "Estudiantes universitarios"
-    ],
-    "personas": [
-        {
-            "persona": "PR000577",
-            "funcion": ["Actor"],
-            "nombre": "Park Min-jae",
-            "principal": true
-        },
-        {
-            "persona": "PR000906",
-            "funcion": ["Actor"],
-            "nombre": "Im Yu-jin",
-            "principal": true
-        }
-    ],
-    "ships": [
-        {
-            "personajes": [
-                "Park Min-jae",
-                "Im Yu-jin"
-            ]
-        }
-    ],
-    "entidades": [],
-    "especiales": [],
-    "sinopsis": "Park Min-jae fue un prometedor nadador, pero una enfermedad le hizo perder una pierna y abandonar su carrera deportiva. Después de encontrar una nueva dirección para su vida, se convierte en estudiante de doctorado en ingeniería mecánica y centra sus esfuerzos en la robótica. Por otro lado, Im Yu-jin estudiaba diseño y textiles, pero un incidente frustró sus planes académicos y la llevó a descubrir un nuevo interés por la ingeniería robótica. Sus caminos se cruzan en un laboratorio universitario, donde ambos comienzan a trabajar juntos y desarrollan una relación que les ayudará a afrontar sus inseguridades, recuperar la confianza y encontrar nuevas oportunidades.",
-    "multimedia": {
-        "portada": [
-            "https://i.mydramalist.com/L2DyQ7_4f.jpg"
-        ],
-        "trailer": ["https://www.youtube.com/watch?v=9rYSMI9azZg",
-            "https://v.mydramalist.com/c1e/c1e598764329cc9c377ef1d029be8ceb.mp4"
-        ],
-        "teaser": ["https://www.youtube.com/watch?v=QcP_awvLnoo"]
+  "codigo": "DR001074",
+  "bl": false,
+  "titulo": "Between Steps",
+  "tituloOriginal": "연애박사",
+  "alias": [
+    "Love Doctor",
+    "Romance Expert",
+    "Yeonae Baksa"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 70,
+  "estado": "en_emision",
+  "estreno": "2026-10-05",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Juventud",
+    "Drama"
+  ],
+  "tags": [
+    "Romance universitario",
+    "Universidad",
+    "Robótica",
+    "Ingeniería",
+    "Laboratorio",
+    "Crecimiento personal",
+    "Discapacidad",
+    "Segundas oportunidades",
+    "Romance juvenil",
+    "De desconocidos a amantes",
+    "Estudiantes universitarios"
+  ],
+  "personas": [
+    {
+      "persona": "PR000577",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Min-jae",
+      "principal": true
     },
-    "activo": true
+    {
+      "persona": "PR000906",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Im Yu-jin",
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Park Min-jae",
+        "Im Yu-jin"
+      ],
+      "multimedia": [
+        "https://i.mydramalist.com/YAYLxP_3f.jpg"
+      ]
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "sinopsis": "Park Min-jae fue un prometedor nadador, pero una enfermedad le hizo perder una pierna y abandonar su carrera deportiva. Después de encontrar una nueva dirección para su vida, se convierte en estudiante de doctorado en ingeniería mecánica y centra sus esfuerzos en la robótica. Por otro lado, Im Yu-jin estudiaba diseño y textiles, pero un incidente frustró sus planes académicos y la llevó a descubrir un nuevo interés por la ingeniería robótica. Sus caminos se cruzan en un laboratorio universitario, donde ambos comienzan a trabajar juntos y desarrollan una relación que les ayudará a afrontar sus inseguridades, recuperar la confianza y encontrar nuevas oportunidades.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2DyQ7_4f.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=9rYSMI9azZg",
+      "https://v.mydramalist.com/c1e/c1e598764329cc9c377ef1d029be8ceb.mp4"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=QcP_awvLnoo"
+    ]
+  },
+  "activo": true
 }
