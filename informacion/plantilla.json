@@ -1,9 +1,11 @@
 {
     "codigo": "DR000000",
+    "bl": false,
     "titulo": null,
     "tituloOriginal": null,
     "alias": [],
     "pais": [],
+    "idioma": null,
     "anio": null,
     "tipo": null,
     "franquicia": null,
@@ -29,6 +31,7 @@
     ],
     "entidades": [],
     "especiales": [],
+    "relaciones": [],
     "sinopsis": null,
     "multimedia": {
         "portada": [],
