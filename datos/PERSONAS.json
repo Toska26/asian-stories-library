@@ -10218,7 +10218,9 @@
             "Actor"
         ],
         "multimedia": {
-            "foto": []
+            "foto": [
+                "https://i.mydramalist.com/l0Qm8J_5c.jpg"
+            ]
         },
         "activo": true
     },
@@ -16381,6 +16383,24 @@
         "multimedia": {
             "foto": [
                 "https://i.mydramalist.com/eEPQec.jpg"
+            ]
+        },
+        "activo": true
+    },
+    {
+        "codigo": "PR000906",
+        "nombre": "Kim So-hyun",
+        "nombreOriginal": "김소현",
+        "nombreArtistico": "",
+        "alias": [],
+        "pais": "KR",
+        "idioma": "ko",
+        "profesiones": [
+            "Actor"
+        ],
+        "multimedia": {
+            "foto": [
+                "https://i.mydramalist.com/VX8D3Q_5c.jpg"
             ]
         },
         "activo": true
