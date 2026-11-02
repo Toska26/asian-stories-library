@@ -1,0 +1,114 @@
+{
+  "codigo": "DR001086",
+  "bl": false,
+  "titulo": "It's You, Regardless",
+  "tituloOriginal": "밑도 끝도 없이, 너다",
+  "alias": [
+    "Oh! My Guard",
+    "Out of Nowhere, It's You",
+    "It's You, Out of the Blue",
+    "Mitdo Kkeutdo Eopsi, Neoda"
+  ],
+  "pais": ["KR"],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 75,
+  "estado": "en_emision",
+  "estreno": "2026-10-24",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Romance",
+    "Comedia romántica",
+    "Encuentro inesperado",
+    "Actores",
+    "Industria del entretenimiento",
+    "Estrella de televisión",
+    "Identidad",
+    "Doble identidad",
+    "Amnesia",
+    "Accidente",
+    "Guardaespaldas",
+    "Protección",
+    "Malentendidos",
+    "Relaciones personales",
+    "Protagonista de drama",
+    "Escenas de besos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000949",
+      "funcion": ["Actor"],
+      "nombre": "Eom Tae-bong",
+      "principal": true
+    },
+    {
+      "persona": "PR000950",
+      "funcion": ["Actor"],
+      "nombre": "Oh Hae-ra / Cha Hong-doo",
+      "principal": true
+    },
+    {
+      "persona": "PR000951",
+      "funcion": ["Actor"],
+      "nombre": "Han Jeong-woo",
+      "principal": false
+    },
+    {
+      "persona": "PR000952",
+      "funcion": ["Actor"],
+      "nombre": "Song Na-ri",
+      "principal": false
+    },
+    {
+      "persona": "PR000953",
+      "funcion": ["Actor"],
+      "nombre": "So Hyeon-ju",
+      "principal": false
+    },
+    {
+      "persona": "PR000954",
+      "funcion": ["Actor"],
+      "nombre": "Nam-goong",
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Eom Tae-bong",
+        "Oh Hae-ra"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Eom Tae-bong es un actor famoso, conocido por sus interpretaciones en melodramas románticos. Sin embargo, tiene un problema que resulta especialmente desconcertante para alguien de su profesión: es incapaz de rodar escenas de besos. Su vida cambia cuando conoce a Oh Hae-ra, una mujer peculiar que, después de sufrir un accidente, está convencida de ser Cha Hong-doo, la protagonista de un drama y una especie de guardaespaldas decidida a proteger al actor. Mientras Tae-bong intenta comprender su comportamiento y las circunstancias que la rodean, ambos terminan envueltos en una relación imprevisible que mezcla situaciones cómicas, secretos y sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5Qe7JV_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/ab3/ab34df627e1577ad7d6fa37335e1d101.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
