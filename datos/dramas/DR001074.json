@@ -72,10 +72,10 @@
         "portada": [
             "https://i.mydramalist.com/L2DyQ7_4f.jpg"
         ],
-        "trailer": [
+        "trailer": ["https://www.youtube.com/watch?v=9rYSMI9azZg",
             "https://v.mydramalist.com/c1e/c1e598764329cc9c377ef1d029be8ceb.mp4"
         ],
-        "videos": []
+        "teaser": ["https://www.youtube.com/watch?v=QcP_awvLnoo"]
     },
     "activo": true
 }
