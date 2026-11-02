@@ -1,0 +1,93 @@
+{
+  "codigo": "DR001091",
+  "bl": false,
+  "titulo": "Doctor-X T2",
+  "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+  "alias": [
+    "Doctor-X: Surgeon Michiko Daimon",
+    "Doctor-X Season 2"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2013,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001090",
+  "remake": null,
+  "origen": null,
+  "temporadas": 7,
+  "temporada": 2,
+  "episodios": 9,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2013-10-17",
+  "finalizacion": "2013-12-19",
+  "generos": [
+    "Drama",
+    "Médico",
+    "Comedia"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Cirujana",
+    "Ética médica",
+    "Corrupción hospitalaria",
+    "Luchas de poder",
+    "Casos médicos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000974",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Daimon Michiko",
+      "principal": true
+    },
+    {
+      "persona": "PR000975",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Jonouchi Hiromi",
+      "principal": false
+    },
+    {
+      "persona": "PR000976",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kanbara Akira",
+      "principal": false
+    },
+    {
+      "persona": "PR000977",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Hiruma Shigekatsu",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Daimon Michiko continúa ejerciendo como cirujana independiente y aceptando trabajos temporales en hospitales donde los intereses económicos y las rivalidades profesionales amenazan con desplazar las necesidades de los pacientes. Su capacidad para resolver operaciones extremadamente difíciles vuelve a ponerla en conflicto con las autoridades médicas, mientras mantiene su independencia y su particular código profesional.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Xd5qqf.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
