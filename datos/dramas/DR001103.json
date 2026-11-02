@@ -1,0 +1,115 @@
+{
+  "codigo": "DR001103",
+  "bl": false,
+  "titulo": "Crash 2: Road of Rage",
+  "tituloOriginal": "크래시2 : 분노의 도로",
+  "alias": [
+    "Crash 2",
+    "Crash 2: Road of Fury"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001102",
+  "remake": null,
+  "origen": null,
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "proximo",
+  "estreno": "2026-11-16",
+  "finalizacion": null,
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Comedia",
+    "Suspense"
+  ],
+  "tags": [
+    "Policía",
+    "Investigación criminal",
+    "Delitos de tráfico",
+    "Unidad policial",
+    "Investigación nacional",
+    "Crimen organizado",
+    "Persecuciones",
+    "Acción automovilística",
+    "Trabajo en equipo",
+    "Secuela"
+  ],
+  "personas": [
+    {
+      "persona": "PR000995",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Min-ki",
+      "principal": true
+    },
+    {
+      "persona": "PR000996",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kwak Sun-young",
+      "principal": true
+    },
+    {
+      "persona": "PR000997",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Heo Sung-tae",
+      "principal": true
+    },
+    {
+      "persona": "PR000998",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Ho-cheol",
+      "principal": true
+    },
+    {
+      "persona": "PR000999",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Moon Hee",
+      "principal": true
+    },
+    {
+      "persona": "PR001000",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Ji-sung",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "El equipo de investigación de delitos de tráfico TCI regresa convertido en una unidad regional de investigación bajo la jefatura de investigación nacional. Con un ámbito de actuación que ahora abarca todo el país, sus integrantes deberán enfrentarse a redes criminales y delitos de tráfico cada vez más complejos, mientras se incorpora al equipo el novato Ji Dae-se.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5Qvk00_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/921/921fc9c7fd3ec362c7276f81fa81baf9.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
