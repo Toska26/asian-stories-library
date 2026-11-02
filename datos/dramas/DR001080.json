@@ -1,0 +1,109 @@
+{
+  "codigo": "DR001080",
+  "bl": false,
+  "titulo": "Doctor X: Age of the White Mafia",
+  "tituloOriginal": "닥터X: 하얀 마피아의 시대",
+  "alias": [
+    "Doctor X: Mafia in White",
+    "Doctor X: The Era of the White Mafia",
+    "Doctor X"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001090",
+    "orden": 2
+  },
+  "origen": {
+    "titulo": "Doctor-X: Surgeon Michiko Daimon",
+    "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+    "anio": 2012,
+    "pais": [
+      "JP"
+    ],
+    "tipo": "Serie de televisión"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 70,
+  "estado": "en_emision",
+  "estreno": "2026-10-09",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Médico",
+    "Thriller"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Corrupción hospitalaria",
+    "Mafia blanca",
+    "Cirujana prodigio",
+    "Ética médica",
+    "Luchas de poder",
+    "Sistema sanitario",
+    "Drama médico"
+  ],
+  "personas": [
+    {
+      "persona": "PR000970",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Gye Su-jeong",
+      "principal": true
+    },
+    {
+      "persona": "PR000971",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Jang Hee-sook",
+      "principal": true
+    },
+    {
+      "persona": "PR000972",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Boo Seung-kwon",
+      "principal": true
+    },
+    {
+      "persona": "PR000973",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Tae-kyung",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Gye Su-jeong es una cirujana de talento extraordinario que llega al Centro Médico Universitario Guseo a través de la agencia de colocación médica dirigida por Jang Hee-sook. En un hospital dominado por la corrupción, las ambiciones personales y las luchas de poder, Su-jeong demuestra su capacidad para resolver intervenciones complejas y desafía las prácticas injustas del sistema. Su camino se cruza con el del director del centro, Boo Seung-kwon, y el joven médico Park Tae-kyung.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PeXop0_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/aa8/aa839cfb74f9e5ae2a89572a0093dd58.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
