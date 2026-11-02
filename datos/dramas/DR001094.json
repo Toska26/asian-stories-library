@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001094",
+  "bl": false,
+  "titulo": "Doctor-X T5",
+  "tituloOriginal": "ドクターX〜外科医・大門未知子〜",
+  "alias": [
+    "Doctor-X: Surgeon Michiko Daimon",
+    "Doctor-X Season 5"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2017,
+  "tipo": "SER",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001090",
+  "remake": null,
+  "origen": null,
+  "temporadas": 7,
+  "temporada": 5,
+  "episodios": 10,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2017-10-12",
+  "finalizacion": "2017-12-14",
+  "generos": [
+    "Drama",
+    "Médico",
+    "Comedia"
+  ],
+  "tags": [
+    "Medicina",
+    "Cirugía",
+    "Hospital",
+    "Cirujana",
+    "Ética médica",
+    "Corrupción hospitalaria",
+    "Luchas de poder",
+    "Casos médicos"
+  ],
+  "personas": [
+    {
+      "persona": "PR000974",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Daimon Michiko",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "La cirujana independiente Daimon Michiko continúa trabajando en hospitales donde las disputas por el control de las instituciones y los intereses económicos condicionan las decisiones médicas. Su compromiso con los pacientes y su extraordinaria capacidad quirúrgica vuelven a desafiar a quienes pretenden imponer su autoridad sobre el trabajo de los médicos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NvDjvf.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
