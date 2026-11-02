@@ -529,6 +529,7 @@ DR000976	TH	2024	Memory in the Letter
 DR000433	VN	2022	Mến Gái Miền Tây
 DR000857	TH	2022	Meow Ears Up
 DR000227	TW	2018	Mermaid Sauna
+DR001077	JP	2026	Merry Berry Love
 DR000643	JP	2022	Minato's Laundromat
 DR000644	JP	2023	Minato's Laundromat 2 T2
 DR001022	TH	2025	Mission to the Moon
