@@ -70,19 +70,19 @@
         {
             "persona": "PR000894",
             "funcion": ["Actor"],
-            "nombre": "Yoo-jin",
+            "nombre": "Yoo-Jin",
             "principal": false
         },
         {
             "persona": "PR000895",
             "funcion": ["Actor"],
-            "nombre": "Jeong-pyeong",
+            "nombre": "Jeong-Pyeong",
             "principal": false
         },
         {
             "persona": "PR000896",
             "funcion": ["Actor"],
-            "nombre": "Mi-na",
+            "nombre": "Mi-Na",
             "principal": false
         },
         {
@@ -94,7 +94,7 @@
         {
             "persona": "PR000898",
             "funcion": ["Actor"],
-            "nombre": "Gyeong-mi",
+            "nombre": "Gyeong-Mi",
             "principal": false
         },
         {
@@ -112,19 +112,19 @@
         {
             "persona": "PR000901",
             "funcion": ["Actor"],
-            "nombre": "Seok-joo",
+            "nombre": "Seok-Joo",
             "principal": false
         },
         {
             "persona": "PR000902",
             "funcion": ["Actor"],
-            "nombre": "Ho-jin",
+            "nombre": "Ho-Jin",
             "principal": false
         },
         {
             "persona": "PR000903",
             "funcion": ["Actor"],
-            "nombre": "Ho-jin (joven)",
+            "nombre": "Ho-Jin (joven)",
             "principal": false
         },
         {
@@ -142,7 +142,7 @@
         {
             "persona": "PR000686",
             "funcion": ["Actor"],
-            "nombre": "Seok-joo (joven)",
+            "nombre": "Seok-Joo (joven)",
             "principal": false
         }
     ],
