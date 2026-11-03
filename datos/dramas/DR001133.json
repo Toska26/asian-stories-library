@@ -1,0 +1,192 @@
+{
+  "codigo": "DR001133",
+  "titulo": "Hide & Seek: The Girlfriend One Second Before Zero",
+  "tituloOriginal": "ハイド＆シーク 0秒前の彼女",
+  "alias": [
+    "Hide & Seek: Zero Byōmae no Kanojo"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-04",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Suspense",
+    "Misterio",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Desaparición",
+    "Amor",
+    "Identidad",
+    "Doble identidad",
+    "Secretos",
+    "Conspiración",
+    "Huida",
+    "Traición",
+    "Investigación",
+    "Thriller"
+  ],
+  "personas": [
+    {
+      "nombre": "Tsukura Yuichi",
+      "persona": "PR001104",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Takagi Sana",
+      "persona": "PR001105",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hyodo Makoto",
+      "persona": "PR001106",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dojima Yoshikatsu",
+      "persona": "PR001182",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sawai Shota",
+      "persona": "PR001183",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arakawa Yuki",
+      "persona": "PR001184",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shirasagi Rika",
+      "persona": "PR001185",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsukura Katsuhiro",
+      "persona": "PR001186",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Haba Keiichiro",
+      "persona": "PR001187",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kaneko Shinji",
+      "persona": "PR001188",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Clover",
+      "persona": "PR001189",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arakawa Tamaki",
+      "persona": "PR001190",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Eda Tetsuo",
+      "persona": "PR001191",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arakawa Yoshihito",
+      "persona": "PR001079",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hiiragi Koichi",
+      "persona": "PR000001",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tsukura Yuichi",
+        "Takagi Sana"
+      ]
+    }
+  ],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkjOjq_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/80a/80a19b2bee623d67010812c64f360300.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Yuichi recibe una llamada de su novia, que debería estar muerta. Ese contacto inesperado lo arrastra a una huida que amenaza con sacudir al país. Entre engaños, identidades ocultas y traiciones, deberá descubrir qué ocurrió realmente y quién es la mujer que intenta comunicarse con él."
+}
