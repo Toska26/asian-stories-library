@@ -1,0 +1,126 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001126",
+  "remake": null,
+  "temporadas": 2,
+  "duracion": 30,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "alias": [],
+  "origen": null,
+  "codigo": "DR001127",
+  "titulo": "Watashi ga Anata to Iru Riyū 2",
+  "tituloOriginal": "私があなたといる理由2〜グアムを訪れた8人の男女の10日間〜",
+  "anio": 2026,
+  "temporada": 2,
+  "episodios": 5,
+  "estreno": "2026-10-07",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "tags": [
+    "Relaciones de pareja",
+    "Citas",
+    "Aplicaciones de citas",
+    "Viajes",
+    "Guam",
+    "Segundas oportunidades",
+    "Secretos",
+    "Confianza",
+    "Amor",
+    "Perdón",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Natsume Haruma",
+      "persona": "PR001083",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shirai Yukari",
+      "persona": "PR001084",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ono Ai",
+      "persona": "PR001085",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sakurai Mariko",
+      "persona": "PR001086",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ikematsu Mikio",
+      "persona": "PR001087",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tada Kosei",
+      "persona": "PR001088",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hirakawa Satoshi",
+      "persona": "PR001089",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miyaji Fumie",
+      "persona": "PR001090",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "especiales": [],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q05yb_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/35b/35b272dbe0af151087c1e1121fd67ecb.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Ocho hombres y mujeres de entre treinta y cincuenta años ganan una campaña de una aplicación de citas y viajan a Guam durante diez días con personas a las que no conocen. A través de citas, conversaciones y cambios de pareja, cada participante deberá afrontar sus circunstancias personales, revelar secretos y preguntarse si puede encontrar el amor verdadero y aprender a perdonar."
+}
