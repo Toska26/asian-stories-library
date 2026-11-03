@@ -22474,5 +22474,155 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001285",
+    "nombre": "UTA",
+    "nombreOriginal": "",
+    "nombreArtistico": "UTA",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001286",
+    "nombre": "Mari Hamada",
+    "nombreOriginal": "濱田マリ",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001287",
+    "nombre": "Sarina Suzuki",
+    "nombreOriginal": "鈴木紗理奈",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001288",
+    "nombre": "Yuichi Kimura",
+    "nombreOriginal": "木村祐一",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001289",
+    "nombre": "Yoshinori Miyata",
+    "nombreOriginal": "宮田佳典",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001290",
+    "nombre": "Chino",
+    "nombreOriginal": "チノ",
+    "nombreArtistico": "チノ",
+    "alias": [
+      "たむらまろ"
+    ],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001291",
+    "nombre": "Ai Inamitsu",
+    "nombreOriginal": "稲光亜依",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001292",
+    "nombre": "Kawasaki",
+    "nombreOriginal": "川﨑",
+    "nombreArtistico": "生姜猫",
+    "alias": [
+      "Shōgane-ko"
+    ],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001293",
+    "nombre": "Jaromaru Sato",
+    "nombreOriginal": "佐藤じゃろ丸",
+    "nombreArtistico": "",
+    "alias": [
+      "キス話"
+    ],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
