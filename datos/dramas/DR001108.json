@@ -77,7 +77,26 @@
       "principal": true
     }
   ],
-  "ships": [],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Ruoxin",
+        "Qi Xiao"
+      ]
+    },
+    {
+      "personajes": [
+        "Song Ziyan",
+        "Zou Cheng"
+      ]
+    },
+    {
+      "personajes": [
+        "Su Yang",
+        "You Sijia"
+      ]
+    }
+  ],
   "entidades": [],
   "especiales": [],
   "relaciones": [],
