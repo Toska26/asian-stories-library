@@ -1,9 +1,9 @@
 {
   "codigo": "DR001134",
-  "titulo": "I Quit Being a Wife",
+  "titulo": "Tsuma o Intai Shimasu",
   "tituloOriginal": "妻を引退します",
   "alias": [
-    "Tsuma o Intai Shimasu"
+    "I Quit Being a Wife"
   ],
   "pais": [
     "JP"
@@ -47,7 +47,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Subaru Wakui",
@@ -130,5 +130,5 @@
     "ost": [],
     "videos": []
   },
-  "sinopsis": "Honami Ayukawa, antigua niña prodigio que abandonó la interpretación, lleva una vida familiar aparentemente tranquila junto a su marido, Renya, y su hija. Cuando una serie de acontecimientos relacionados con su pasado en la industria del entretenimiento sacude su matrimonio, Honami decide enfrentarse a quienes la dañaron y recuperar el control de su propia vida. La popular actriz Maika Izumi y Subaru Wakui, que siente algo por Honami, complican aún más la situación."
+  "sinopsis": "Honami Ayukawa, antigua niña prodigio, dejó la interpretación para formar una familia y vive feliz junto a su marido Renya y su hija Miyu. Cuando su hija sufre un grave accidente durante un rodaje publicitario, Honami descubre por su amigo de la infancia Subaru que la infidelidad de Renya podría estar relacionada con lo ocurrido. Decidida a descubrir la verdad y enfrentarse a quienes la han dañado, Honami regresa al mundo del espectáculo para iniciar su propia venganza."
 }
