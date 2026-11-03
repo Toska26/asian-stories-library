@@ -1,10 +1,10 @@
 {
   "codigo": "DR001139",
-  "titulo": "How to Get a Boyfriend Who Deeply Adores You",
+  "titulo": "Dekiai Kareshi no Tsukurikata",
   "tituloOriginal": "溺愛カレシの作り方",
   "alias": [
-    "Dekiai Kareshi no Tsukurikata",
-    "Se kara Honmei ni Naru Onnanoko no Hanashi"
+    "Dekiai Kareshi no Tsukurikata: Se kara Honmei ni Naru Onnanoko no Hanashi",
+    "How to Make a Boyfriend Who Adores You"
   ],
   "pais": [
     "JP"
@@ -52,7 +52,7 @@
       "principal": false
     },
     {
-      "nombre": "Sho Okuma",
+      "nombre": "Okuma Sho",
       "persona": "PR001237",
       "funcion": [
         "Actor"
@@ -60,10 +60,10 @@
       "principal": false
     },
     {
-      "nombre": "Zaku-chan",
+      "nombre": "Zaku",
       "persona": "PR001238",
       "funcion": [
-        "Actor"
+        "Actor de voz"
       ],
       "principal": false
     }
@@ -94,5 +94,5 @@
     "ost": [],
     "videos": []
   },
-  "sinopsis": "Sakura Shirai trabaja en el ayuntamiento y lleva tiempo enamorada de su compañero Keisuke Watanuki. Después de pasar juntos una noche, él comienza a ignorarla y propone mantener las distancias, dejándola atrapada en una relación indefinida. Cuando Sakura toca fondo, aparece Zaku-chan, un hada del amor que la somete a un entrenamiento sin filtros para que deje de conformarse con ser una opción y luche por convertirse en la pareja oficial de Keisuke."
+  "sinopsis": "Sakura Shirai, empleada del ayuntamiento, lleva tiempo enamorada de su compañero Keisuke Watanuki. Después de que ambos pasan una noche juntos, Keisuke vuelve a tratarla con ambigüedad y evita comprometerse. Cuando Sakura intenta dejar de conformarse con ser una opción, aparece Zaku, una peculiar hada del amor que le ofrece consejos y un entrenamiento sentimental sin filtros. La llegada de Shō Okuma, un compañero más joven y de actitud muy distinta a Keisuke, también altera el equilibrio entre los personajes."
 }
