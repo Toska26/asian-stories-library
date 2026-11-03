@@ -1,0 +1,187 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001110",
+  "remake": null,
+  "temporadas": 3,
+  "duracion": 30,
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Gastronomía",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001111",
+  "titulo": "Tengu no Daidokoro Season 2",
+  "tituloOriginal": "天狗の台所 Season2",
+  "alias": [
+    "Tengu's Kitchen Season 2"
+  ],
+  "anio": 2024,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Tengu no Daidokoro",
+    "tituloOriginal": "天狗の台所",
+    "autor": "Ai Tanaka",
+    "pais": "JP"
+  },
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2024-10-22",
+  "finalizacion": "2024-12-24",
+  "tags": [
+    "Cocina",
+    "Gastronomía japonesa",
+    "Vida rural",
+    "Slow Life",
+    "Mitología japonesa",
+    "Tengu",
+    "Familia",
+    "Hermanos",
+    "Amistad",
+    "Reencuentros",
+    "Naturaleza"
+  ],
+  "personas": [
+    {
+      "nombre": "Iizuna Motoi",
+      "persona": "PR001022",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Atago Yui",
+      "persona": "PR001023",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Iizuna On",
+      "persona": "PR001024",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Motoi (niño)",
+      "persona": "PR001025",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yui (niño)",
+      "persona": "PR001026",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hirasan Tamao",
+      "persona": "PR001027",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Iizuna Shikiko",
+      "persona": "PR001028",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Atago Rentaro",
+      "persona": "PR001029",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mugi (voz)",
+      "persona": "PR001030",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Iizuna Ichino",
+      "persona": "PR001031",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ellis Wilson",
+      "persona": "PR001032",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Atago Jiu",
+      "persona": "PR001033",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Soma",
+      "persona": "PR001034",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Tengu no Daidokoro Season2 Hōsō Chokuzen SP",
+      "tituloOriginal": "天狗の台所 Season2 放送直前SP",
+      "alias": [
+        "Tengu no Daidokoro Season 2 Pre-Broadcast Special"
+      ],
+      "tipo": "Especial",
+      "anio": 2024,
+      "estreno": "2024-10-15",
+      "episodios": 1
+    }
+  ],
+  "sinopsis": "Después de regresar a Nueva York al finalizar su año de retiro, On descubre que echa de menos la tranquilidad de la aldea y la vida que compartió con su hermano Motoi. Cansado del ritmo de la ciudad y tras discutir con su madre, decide regresar inesperadamente a Japón. Motoi lo recibe y ambos vuelven a cocinar juntos, mientras intentan reunir el dinero necesario para que On pueda regresar a casa. Con las visitas de Yui y la llegada de nuevos personajes a la aldea, los hermanos afrontan otra etapa de convivencia, amistad y descubrimientos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g0mRXd_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
