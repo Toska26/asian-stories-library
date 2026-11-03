@@ -1058,6 +1058,8 @@ DR000013	TW	2023	VIP Only
 DR000951	TH	2024	Wandee Goodday
 DR000461	VN	2022	Want to See You
 DR000892	TH	2022	War of Y
+DR001126	JP	2025	Watashi ga Anata to Iru Riyū
+DR001127	JP	2026	Watashi ga Anata to Iru Riyū 2 T2
 DR000762	TH	2017	Water Boyy: The Series
 DR000091	TH	2024	We Are
 DR000232	TW	2021	We Best Love: Fighting Mr. 2nd T2
