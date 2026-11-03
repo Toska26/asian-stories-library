@@ -1,0 +1,135 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001121",
+  "remake": null,
+  "temporadas": 5,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Gastronomía",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "alias": [],
+  "origen": null,
+  "especiales": [],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/XdE87X_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "codigo": "DR001123",
+  "titulo": "Banshaku no Ryūgi 3",
+  "tituloOriginal": "晩酌の流儀３",
+  "anio": 2024,
+  "temporada": 3,
+  "episodios": 12,
+  "estreno": "2024-06-28",
+  "finalizacion": "2024-09-20",
+  "estado": "finalizado",
+  "tags": [
+    "晩酌",
+    "Gastronomía",
+    "Comida japonesa",
+    "Cocina casera",
+    "Recetas",
+    "Mudanza",
+    "Barrio",
+    "Comercio local",
+    "Vida cotidiana",
+    "Trabajo",
+    "Supermercado",
+    "Carnicería",
+    "Verdulería"
+  ],
+  "personas": [
+    {
+      "nombre": "Izawa Miyuki",
+      "persona": "PR001063",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shimamura Naoto",
+      "persona": "PR001064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tomikawa Aoi",
+      "persona": "PR001065",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Umino Jiro",
+      "persona": "PR001066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ushiba",
+      "persona": "PR001067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chinyama",
+      "persona": "PR001068",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uoko",
+      "persona": "PR001069",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nikuyama",
+      "persona": "PR001070",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nakakubo Yaoko",
+      "persona": "PR001071",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En su búsqueda constante de nuevas ideas para disfrutar del final del día, Miyuki se muda una vez más y se instala en una vivienda de empresa situada junto a un animado barrio comercial. La variedad de tiendas y sus nuevos vecinos le ofrecen ingredientes, consejos y desafíos gastronómicos que alimentan su ritual diario. Entre el trabajo y los descubrimientos del vecindario, sigue dedicándose por completo a conseguir la cena y la bebida perfectas."
+}
