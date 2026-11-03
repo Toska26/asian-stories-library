@@ -1,0 +1,131 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 1
+  },
+  "universo": null,
+  "serie": "SR001113",
+  "remake": null,
+  "temporadas": 4,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001113",
+  "titulo": "Oishii Kyūshoku",
+  "tituloOriginal": "おいしい給食",
+  "alias": [],
+  "anio": 2019,
+  "origen": null,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2019-10-16",
+  "finalizacion": "2019-12-18",
+  "tags": [
+    "Instituto",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Años 80",
+    "1984",
+    "Competencia gastronómica",
+    "Profesor",
+    "Estudiantes",
+    "Nostalgia",
+    "Comedia escolar"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinno Go",
+      "persona": "PR001040",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Misono Hitomi",
+      "persona": "PR001041",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fujii Mako",
+      "persona": "PR001042",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Washizu Seitaro",
+      "persona": "PR001043",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wataru Kanji",
+      "persona": "PR001044",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kaburagi",
+      "persona": "PR001048",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "En 1984, Yukio Amarida es un profesor de secundaria que oculta a sus compañeros su pasión desmedida por el almuerzo escolar. Su rutina cambia cuando Jinno Go, un alumno que disfruta experimentando con la comida, se convierte en su inesperado rival. Ambos comienzan una divertida competición silenciosa para descubrir quién puede disfrutar más del menú del comedor, mientras la llegada de la profesora Hitomi Misono y la vida cotidiana del centro dan lugar a nuevas situaciones.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/0bek6f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/60a/60ad0ddf6788af6c96d80d44f0f0ccf5.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
