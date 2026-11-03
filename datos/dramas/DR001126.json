@@ -89,6 +89,22 @@
         "Actor"
       ],
       "principal": true
+    },
+    {
+      "nombre": "Urano Kairi",
+      "persona": "PR001081",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Uemura Hana",
+      "persona": "PR001082",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     }
   ],
   "especiales": [
