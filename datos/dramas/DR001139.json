@@ -1,0 +1,98 @@
+{
+  "codigo": "DR001139",
+  "titulo": "How to Get a Boyfriend Who Deeply Adores You",
+  "tituloOriginal": "溺愛カレシの作り方",
+  "alias": [
+    "Dekiai Kareshi no Tsukurikata",
+    "Se kara Honmei ni Naru Onnanoko no Hanashi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "estreno": "2026-10-07",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Amor no correspondido",
+    "Amigos con derechos",
+    "Relación ambigua",
+    "Autoestima",
+    "Crecimiento personal",
+    "Citas",
+    "Exnovia",
+    "Amor propio",
+    "Relaciones modernas"
+  ],
+  "personas": [
+    {
+      "nombre": "Sakura Shirai",
+      "persona": "PR001125",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Keisuke Watanuki",
+      "persona": "PR001126",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shuri",
+      "persona": "PR001236",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sho Okuma",
+      "persona": "PR001237",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zaku-chan",
+      "persona": "PR001238",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sakura Shirai",
+        "Keisuke Watanuki"
+      ]
+    },
+    {
+      "personajes": [
+        "Shuri",
+        "Keisuke Watanuki"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2DmZg_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/151/151a8f24e6f9888bcb8745330c3dd7d9.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Sakura Shirai trabaja en el ayuntamiento y lleva tiempo enamorada de su compañero Keisuke Watanuki. Después de pasar juntos una noche, él comienza a ignorarla y propone mantener las distancias, dejándola atrapada en una relación indefinida. Cuando Sakura toca fondo, aparece Zaku-chan, un hada del amor que la somete a un entrenamiento sin filtros para que deje de conformarse con ser una opción y luche por convertirse en la pareja oficial de Keisuke."
+}
