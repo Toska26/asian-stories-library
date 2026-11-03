@@ -1,0 +1,187 @@
+{
+  "codigo": "DR001141",
+  "bl": false,
+  "titulo": "Red Light Elegy",
+  "tituloOriginal": "赤灯えれじい",
+  "alias": [
+    "Akatō Erejī"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "赤灯えれじい",
+    "tituloOriginal": "赤灯えれじい",
+    "autor": "Takashi Kira (きらたかし)",
+    "pais": "JP"
+  },
+  "temporadas": null,
+  "temporada": null,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-08",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Osaka",
+    "Japón",
+    "Romance juvenil",
+    "Comedia romántica",
+    "Amor puro",
+    "Relación de pareja",
+    "Personalidades opuestas",
+    "Delincuencia juvenil",
+    "Vida cotidiana",
+    "Familia",
+    "Superación personal",
+    "Amor imperfecto",
+    "Reencuentros",
+    "Relaciones pasadas"
+  ],
+  "personas": [
+    {
+      "nombre": "Yanagawa Satoshi",
+      "persona": "PR001130",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Akiyama Tomoko (Chiko)",
+      "persona": "PR001131",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yama Yusaku",
+      "persona": "PR001285",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yanagawa Hitomi",
+      "persona": "PR001286",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akiyama Yasue",
+      "persona": "PR001287",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Inaba Masayuki",
+      "persona": "PR001288",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oda Hiroyuki",
+      "persona": "PR001289",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yanagawa Yasushi",
+      "persona": "PR001290",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akiyama Madoka",
+      "persona": "PR001291",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ogata Shigeru (Shige)",
+      "persona": "PR001292",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Higashiguchi Eiji (Eiji)",
+      "persona": "PR001293",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akiyama Harumi",
+      "persona": "PR001236",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yanagawa Satoshi",
+        "Akiyama Tomoko (Chiko)"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Akiyama Tomoko (Chiko)",
+        "Yama Yusaku"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Satoshi Yanagawa es un joven desempleado, tímido y bastante irresponsable que vive con su familia y lleva una vida sin rumbo. Mientras trabaja como auxiliar de control de tráfico, conoce a Chiko Akiyama, una chica de carácter fuerte y aspecto de delincuente juvenil que no duda en enfrentarse a cualquiera. Aunque al principio sus personalidades tan opuestas provocan numerosos desencuentros, Satoshi descubre poco a poco el lado amable de Chiko y comienza a enamorarse de ella. Ambientada en Osaka, la historia sigue la relación de esta pareja tan diferente, sus dificultades cotidianas, sus inseguridades y los esfuerzos de Satoshi por convertirse en alguien capaz de proteger a la persona que quiere.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/gOy2bO_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/a49/a4965216e237306510bc0e0f2dc67a79.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
