@@ -140,10 +140,20 @@ function compilarDramaParaBiblioteca(drama) {
     }
 
     // 5. Relaciones directas (se omiten por completo si no existen)
-    if (drama.serie) {
-        objetoBiblioteca.serie = drama.serie;
-        if (drama.temporada) objetoBiblioteca.temporada = Number(drama.temporada);
-        if (drama.temporadas) objetoBiblioteca.temporadas = Number(drama.temporadas);
+    // Serie se normaliza siempre a un código de texto (SRxxxxxx),
+    // tanto si el JSON de origen contiene una cadena como un objeto { codigo }.
+    const codSerie = (drama.serie && typeof drama.serie === 'object')
+        ? drama.serie.codigo
+        : drama.serie;
+
+    if (typeof codSerie === 'string' && codSerie.trim() !== '') {
+        objetoBiblioteca.serie = codSerie.trim();
+        if (drama.temporada !== undefined && drama.temporada !== null) {
+            objetoBiblioteca.temporada = Number(drama.temporada);
+        }
+        if (drama.temporadas !== undefined && drama.temporadas !== null) {
+            objetoBiblioteca.temporadas = Number(drama.temporadas);
+        }
     }
 
     const codFranquicia = (drama.franquicia && typeof drama.franquicia === 'object')
