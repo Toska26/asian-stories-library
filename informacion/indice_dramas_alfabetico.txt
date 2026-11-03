@@ -764,6 +764,7 @@ DR000569	CN	2025	Reach for the Stars
 DR000577	CN	2025	Realm's Night Rain Dreamlike
 DR001009	TH	2025	Rearrange
 DR000225	TW	2017	Red Balloon
+DR001141	JP	2026	Red Light Elegy
 DR001026	TH	2025	Reloved
 DR000031	TH	2022	Remember Me
 DR000742	TH	2019	Reminders
