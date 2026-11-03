@@ -367,6 +367,7 @@ DR000576	CN	2025	Honey on the Edge of the Knife
 DR000523	CN	2020	Honey Sir
 DR000302	PH	2020	Hook Up
 DR000908	TH	2023	House of Stars
+DR001139	JP	????	How to Get a Boyfriend Who Deeply Adores You
 DR000342	PH	2021	How To Heal My Broken Heart T2
 DR000084	TH	2026	How to Survive My CEO
 DR000757	TH	2017	I Am Your King
@@ -383,6 +384,7 @@ DR000691	JP	2024	I Hear the Sunspot
 DR000645	JP	2022	I Just Want to See You
 DR000999	TH	2025	I Promise I Will Come Back
 DR000790	TH	2021	I Promised You the Moon T2
+DR001134	JP	????	I Quit Being a Wife
 DR000960	TH	2024	I Saw You in My Dream
 DR000789	TH	2020	I Told Sunset About You
 DR000055	TH	2026	I Will Always Save You
@@ -427,6 +429,7 @@ DR000646	JP	2022	Kei × Yaku: Dangerous Partners
 DR000038	TH	2025	Khemjira
 DR000039	TH	2026	Khemjira Forever
 DR000966	TH	2024	Kidnap
+DR001135	JP	????	kiDnap GAME
 DR000506	SG	2025	Kill to Love
 DR000525	CN	2021	Killer and Healer
 DR000860	TH	2022	KinnPorsche
@@ -546,6 +549,7 @@ DR001082	KR	2026	Make Me Tremble
 DR001010	TH	2025	MANDATE The Series
 DR000796	TH	2020	Manner of Death
 DR000385	PH	2024	Marahuyo Project
+DR001138	JP	????	Masked Teacher: From the Day He Lost His Wife
 DR001059	TH	2026	Match Point
 DR001024	TH	2025	Me and Thee
 DR000674	JP	2023	Me, My Husband & My Husband's Boyfriend
@@ -734,6 +738,7 @@ DR000927	TH	????	Playboyy Season 2 T2
 DR000240	TW	2022	Plus & Minus
 DR000559	CN	2025	PlutoCharon
 DR000033	TH	2026	Police in Love
+DR001136	JP	????	Political Pan
 DR000675	JP	2023	Polyethylene Terephthalate
 DR000614	JP	2018	Pornographer
 DR000618	JP	2021	Pornographer: Continued Spring Life
@@ -1082,6 +1087,7 @@ DR000867	TH	2022	What If
 DR000756	TH	2019	What the Duck: Final Call T2
 DR000755	TH	2018	What the Duck: The Series
 DR000855	TH	2022	What Zabb Man!
+DR001137	JP	????	Wheat, Butter, and Revenge
 DR000332	PH	2021	Wheel of Love: Weekend to Remember
 DR000700	JP	2025	When It Rains, It Pours
 DR000710	JP	2026	When It Rains, It Pours: Mellow Rain T2
