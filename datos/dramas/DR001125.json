@@ -43,7 +43,6 @@
   "finalizacion": null,
   "estado": "en_emision",
   "tags": [
-    "晩酌",
     "Gastronomía",
     "Comida japonesa",
     "Cocina casera",
@@ -107,14 +106,6 @@
       "principal": false
     },
     {
-      "nombre": "Nikuyama",
-      "persona": "PR001070",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Yasu",
       "persona": "PR001072",
       "funcion": [
@@ -139,5 +130,5 @@
       "principal": false
     }
   ],
-  "sinopsis": "Miyuki afronta una nueva etapa de su búsqueda del brindis perfecto y comienza la temporada con un viaje de trabajo a Hokkaidō, donde descubre nuevos paisajes e ingredientes locales. De regreso a su rutina, sigue contando con los comerciantes que la ayudan a encontrar los mejores productos para sus cenas. La llegada de Umatarō, un peculiar maestro del yoga y dueño de una frutería, añade una nueva personalidad a la comunidad que rodea a Miyuki."
+  "sinopsis": "Miyuki continúa dedicando su vida cotidiana a conseguir el mejor brindis al final de cada jornada. En la quinta temporada, la historia comienza con un viaje de trabajo a Hokkaidō, donde descubre nuevos productos y sabores que inspiran sus cenas. De vuelta a su rutina, sigue perfeccionando sus preparaciones y compartiendo sus descubrimientos gastronómicos con las personas que encuentra en el camino. La llegada de Umatarō, interpretado por Tsurutaro Kataoka, añade un nuevo personaje a esta etapa de la serie."
 }
