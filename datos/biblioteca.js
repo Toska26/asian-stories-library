@@ -1120,4 +1120,7 @@ window.biblioteca = window.biblioteca || [
 	{"codigo":"DR000793","titulo":"YYY","pais":["TH"],"anio":2020,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"tieneEspeciales":true,"portada":"https://static.wikia.nocookie.net/drama/images/4/43/YYY-13.jpg/revision/latest?cb=20200429085149&path-prefix=es","serie":{"codigo":"SR000793"},"temporada":1,"temporadas":2},
 	{"codigo":"DR000794","titulo":"YYY 2","pais":["TH"],"anio":2020,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"portada":"https://i.mydramalist.com/2k5Bw_4f.jpg","serie":{"codigo":"SR000793"},"temporada":2,"temporadas":2},
 	{"codigo":"DR001048","titulo":"Zantiis: Miss You","pais":["TH"],"anio":2026,"tipo":"SER","estado":"finalizado","activo":true,"tieneSinopsis":true,"portada":"https://image.tmdb.org/t/p/original/7kRygWbR7pXVzEOzmVrkBrTQMYV.jpg"}
+,
+	{"codigo":"DR001126","titulo":"Watashi ga Anata to Iru Riyū","pais":["JP"],"anio":2025,"tipo":"DR","estado":"finalizado","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneEspeciales":true,"tieneMultimedia":true,"portada":"https://i.mydramalist.com/zBkPXy_4f.jpg","serie":{"codigo":"SR001126"},"temporada":1,"temporadas":2},
+	{"codigo":"DR001127","titulo":"Watashi ga Anata to Iru Riyū 2","pais":["JP"],"anio":2026,"tipo":"DR","estado":"en_emision","activo":true,"tieneSinopsis":true,"tienePersonas":true,"tieneMultimedia":true,"portada":"https://i.mydramalist.com/8Q05yb_4f.jpg","serie":{"codigo":"SR001126"},"temporada":2,"temporadas":2}
 ];
