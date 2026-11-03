@@ -1,0 +1,106 @@
+{
+  "codigo": "DR001106",
+  "bl": false,
+  "titulo": "Life's Punchline",
+  "tituloOriginal": "コントが始まる",
+  "alias": [
+    "Konto ga Hajimaru"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2021,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001106",
+    "orden": 1
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2021-04-17",
+  "finalizacion": "2021-06-19",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Amistad",
+    "Comediantes",
+    "Trío cómico",
+    "Sueños",
+    "Fracaso",
+    "Superación personal",
+    "Crisis de los veinte",
+    "Vida cotidiana",
+    "Familia",
+    "Historias entrelazadas"
+  ],
+  "personas": [
+    {
+      "persona": "PR001004",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Masaki Suda",
+      "principal": true
+    },
+    {
+      "persona": "PR001005",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kasumi Arimura",
+      "principal": true
+    },
+    {
+      "persona": "PR001006",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Ryunosuke Kamiki",
+      "principal": true
+    },
+    {
+      "persona": "PR001007",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Taiga Nakano",
+      "principal": true
+    },
+    {
+      "persona": "PR001008",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kotone Furukawa",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Haruto Takaiwa, Shunta Asabuki y Junpei Minowa forman Macbeth, un trío de comediantes que lleva años intentando hacerse un nombre. Cuando deciden abandonar su sueño y separarse, sus vidas siguen cruzándose con las de Rihoko Nakahama, una antigua empleada corporativa que ha perdido el rumbo, y su hermana menor Tsumugi. A través de sus encuentros y de los pequeños espectáculos que abren cada episodio, cinco jóvenes afrontan sus fracasos, sus decisiones y la posibilidad de empezar de nuevo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/dNd70_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/100/10033cdf4e52735b87aa18c7948b2adc.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
