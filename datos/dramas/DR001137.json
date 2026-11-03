@@ -1,0 +1,144 @@
+{
+  "codigo": "DR001137",
+  "titulo": "Wheat, Butter, and Revenge",
+  "tituloOriginal": "小麦とバターと復讐と",
+  "alias": [
+    "Komugi to Butter to Fukushū to"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "estreno": "2026-10-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Venganza"
+  ],
+  "tags": [
+    "Panadería",
+    "Cocina",
+    "Infidelidad",
+    "Divorcio",
+    "Segunda oportunidad",
+    "Venganza",
+    "Triángulo amoroso",
+    "Superación personal",
+    "Amor",
+    "Sueños"
+  ],
+  "personas": [
+    {
+      "nombre": "Michiru Nozaki",
+      "persona": "PR001117",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yugo Ino",
+      "persona": "PR001118",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kento Nozaki",
+      "persona": "PR001119",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kanae Sugimoto",
+      "persona": "PR001120",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Natsuko Inagaki",
+      "persona": "PR001216",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Haruna",
+      "persona": "PR001217",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Manaka Ushiro",
+      "persona": "PR001218",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Satsuki Tokura",
+      "persona": "PR001219",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yae Kobayashi",
+      "persona": "PR001220",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ritsu Urabe",
+      "persona": "PR001221",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Michiru Nozaki",
+        "Kento Nozaki"
+      ]
+    },
+    {
+      "personajes": [
+        "Kento Nozaki",
+        "Kanae Sugimoto"
+      ]
+    },
+    {
+      "personajes": [
+        "Michiru Nozaki",
+        "Yugo Ino"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q0J52_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/99d/99d403e4b3d5513eb108bac456ad8b1b.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Tras descubrir la traición de su marido, Michiru Nozaki ve cómo su vida se desmorona. Decide empezar de nuevo y perseguir su sueño de hacer pan, mientras planea ajustar cuentas con quienes la llevaron a la desesperación. En ese camino conoce a Yugo Ino y vuelve a cruzarse con Kento, su exmarido, cuya relación con Kanae fue el origen de su dolor. La cocina, la venganza y un nuevo triángulo amoroso marcarán su segunda oportunidad."
+}
