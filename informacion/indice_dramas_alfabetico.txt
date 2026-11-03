@@ -312,6 +312,7 @@ DR000517	CN	2018	Guardian
 DR000102	TH	2026	Gunshot
 DR000536	CN	2024	Gym Affairs
 DR000486	VN	2026	Hạ Cuối, Biển Xanh Và Em
+DR001145	JP	2026	Hakone Ekiden: Our Story
 DR000482	VN	2025	Hanoi, I Love You
 DR000438	VN	2020	Happiness Flies Far Away
 DR001107	KR	2026	Happy Anding
