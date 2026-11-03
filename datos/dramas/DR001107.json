@@ -1,0 +1,114 @@
+{
+  "codigo": "DR001107",
+  "bl": false,
+  "titulo": "Happy Anding",
+  "tituloOriginal": "뜨거운 안녕",
+  "alias": [
+    "Hot Goodbye",
+    "Passionate Goodbye"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001106",
+    "orden": 2
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-11-11",
+  "finalizacion": null,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Remake",
+    "Adaptación japonesa",
+    "Comediantes",
+    "Trío cómico",
+    "Amistad",
+    "Sueños",
+    "Superación personal",
+    "Juventud",
+    "Romance",
+    "Historias entrelazadas"
+  ],
+  "personas": [
+    {
+      "persona": "PR001009",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kang Hoon",
+      "principal": true
+    },
+    {
+      "persona": "PR001010",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Cho Hyun-chul",
+      "principal": true
+    },
+    {
+      "persona": "PR001011",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Kim Jung-jin",
+      "principal": true
+    },
+    {
+      "persona": "PR001012",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Lee Yi-dam",
+      "principal": true
+    },
+    {
+      "persona": "PR000999",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Moon Hee",
+      "principal": true
+    },
+    {
+      "persona": "PR001013",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Yoon Ga-i",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kang Tae-gu, Kim Nam-il y Han Jun-seo son los integrantes de Asura, un trío de cómicos que lleva diez años persiguiendo el éxito sin conseguirlo. Cuando conocen a Go Eun-young, una fan cuya vida también ha sufrido un duro revés, los seis jóvenes que rodean al grupo comienzan a replantearse sus sueños, sus relaciones y el futuro que desean construir.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBRN3_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
