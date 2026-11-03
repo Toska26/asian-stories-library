@@ -1,0 +1,113 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001126",
+  "remake": null,
+  "temporadas": 2,
+  "duracion": 26,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "alias": [],
+  "origen": null,
+  "codigo": "DR001126",
+  "titulo": "Watashi ga Anata to Iru Riyū",
+  "tituloOriginal": "私があなたといる理由",
+  "anio": 2025,
+  "temporada": 1,
+  "episodios": 8,
+  "estreno": "2025-07-02",
+  "finalizacion": "2025-08-20",
+  "estado": "finalizado",
+  "tags": [
+    "Relaciones de pareja",
+    "Matrimonio",
+    "Viajes",
+    "Guam",
+    "Diferencias generacionales",
+    "Convivencia",
+    "Amor",
+    "Crecimiento personal",
+    "Decisiones de vida"
+  ],
+  "personas": [
+    {
+      "nombre": "Izumi Miyu",
+      "persona": "PR001075",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Izumi Yosuke",
+      "persona": "PR001076",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hoshino Akari",
+      "persona": "PR001077",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Misaki Riku",
+      "persona": "PR001078",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hanada Kenjiro",
+      "persona": "PR001079",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hanada Hiroko",
+      "persona": "PR001080",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Watashi ga Anata to Iru Riyū Special: Guam ga Kureta, Ano Hi no Tsuzuki",
+      "tituloOriginal": "私があなたといる理由 特別編〜グアムがくれた、あの日の続き〜",
+      "fecha": "2026-06-24",
+      "episodios": 1
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBkPXy_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Tres parejas de distintas generaciones viajan a Guam durante una semana. Lejos de su vida cotidiana, cada una deberá replantearse qué significa compartir la vida con otra persona. Miyu y Yosuke, casados desde hace tres años, intentan recuperar la conexión que han ido perdiendo por las exigencias del trabajo; Akari y Riku afrontan decisiones inesperadas sobre su futuro; y Kenjiro y Hiroko se enfrentan a los cambios de su matrimonio y de su familia."
+}
