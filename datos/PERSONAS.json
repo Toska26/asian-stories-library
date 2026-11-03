@@ -20986,5 +20986,21 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001192",
+    "nombre": "Jun Hashimoto",
+    "nombreOriginal": "橋本淳",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
