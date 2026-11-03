@@ -1,0 +1,418 @@
+{
+  "codigo": "DR001145",
+  "bl": false,
+  "titulo": "Hakone Ekiden: Our Story",
+  "tituloOriginal": "俺たちの箱根駅伝",
+  "alias": [
+    "Oretachi no Hakone Ekiden"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Oretachi no Hakone Ekiden",
+    "tituloOriginal": "俺たちの箱根駅伝",
+    "autor": "Jun Ikeido",
+    "pais": "JP"
+  },
+  "temporadas": null,
+  "temporada": null,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-10-10",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Deportes",
+    "Juventud"
+  ],
+  "tags": [
+    "Deportes",
+    "Atletismo",
+    "Ekiden",
+    "Carrera de relevos",
+    "Universidad",
+    "Equipos deportivos",
+    "Competición",
+    "Superación personal",
+    "Trabajo en equipo",
+    "Amistad",
+    "Perseverancia",
+    "Sueños",
+    "Esfuerzo",
+    "Periodismo deportivo",
+    "Retransmisiones televisivas"
+  ],
+  "personas": [
+    {
+      "nombre": "Hatakeyama Ippei",
+      "persona": "PR001247",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tamura Kenichiro",
+      "persona": "PR001248",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Takeshiba Hidehiko",
+      "persona": "PR001249",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kuroishi Takeru",
+      "persona": "PR001250",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kitamura Yoshio",
+      "persona": "PR001251",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tokushige Ryo",
+      "persona": "PR001140",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miyamoto Natsuki",
+      "persona": "PR001141",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Toyama Chika",
+      "persona": "PR001252",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nomura Goki",
+      "persona": "PR001121",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matsuzawa Togo",
+      "persona": "PR001253",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hashiguchi Ayumu",
+      "persona": "PR001254",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kuwana Tetsu",
+      "persona": "PR001255",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wakamiya Toru",
+      "persona": "PR001256",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Karashima Bunzo",
+      "persona": "PR001257",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Maruta Shinji",
+      "persona": "PR001258",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Maeda Hisashi",
+      "persona": "PR001259",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yokoo Seiji",
+      "persona": "PR001260",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yasuhara Kosuke",
+      "persona": "PR001261",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tanifuji Aki",
+      "persona": "PR001262",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kai Masato",
+      "persona": "PR001142",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Moroya Hisashige",
+      "persona": "PR001263",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kitano Koichi",
+      "persona": "PR001149",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Onuma Seijiro",
+      "persona": "PR001264",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hirakawa Shosuke",
+      "persona": "PR001265",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aoba Hayato",
+      "persona": "PR001266",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yano Keito",
+      "persona": "PR001267",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Maejima Yusuke",
+      "persona": "PR001122",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Keya Nobuto",
+      "persona": "PR001268",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matsuki Kota",
+      "persona": "PR001269",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Murai Daichi",
+      "persona": "PR001270",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Isayama Tenma",
+      "persona": "PR001271",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tomioka Shuto",
+      "persona": "PR001224",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Inomata Jo",
+      "persona": "PR000002",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kurashina Dan",
+      "persona": "PR001272",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Naito Seiya",
+      "persona": "PR001273",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sawada Haru",
+      "persona": "PR001274",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Momoyama Haruka",
+      "persona": "PR001275",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nogi Keisuke",
+      "persona": "PR001135",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Amagi Makoto",
+      "persona": "PR001276",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakiyama Takumi",
+      "persona": "PR001277",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minegishi Ren",
+      "persona": "PR001278",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Watase Taku",
+      "persona": "PR001279",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wada Futa",
+      "persona": "PR001280",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "La historia sigue dos grandes desafíos unidos por el Hakone Ekiden: por un lado, el equipo de retransmisión de la cadena Dai-Nichi TV, que trabaja contrarreloj para llevar a los espectadores la competición más importante del año; por otro, los atletas universitarios que luchan por alcanzar sus sueños deportivos. Tras dos años sin conseguir clasificarse para la carrera, la histórica Universidad Meisei intenta regresar a la competición bajo la dirección de su nuevo entrenador, Kai Masato. Entre entrenamientos, rivalidades, dificultades personales y decisiones decisivas, corredores, entrenadores y periodistas deberán unir fuerzas para superar sus límites y transmitir la emoción de una carrera que representa mucho más que una victoria.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAYxLB_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
