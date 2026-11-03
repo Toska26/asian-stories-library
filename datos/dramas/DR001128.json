@@ -1,0 +1,152 @@
+{
+  "codigo": "DR001128",
+  "titulo": "Doubt: Revenge After 15 Years",
+  "tituloOriginal": "ダウト -15年目の復讐-",
+  "alias": [
+    "Dout: 15-nenme no Fukushū"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-01",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Suspense",
+    "Drama",
+    "Misterio"
+  ],
+  "tags": [
+    "Venganza",
+    "Asesinato",
+    "Investigación",
+    "Secretos",
+    "Familia",
+    "Hermanos",
+    "Trauma",
+    "Justicia",
+    "Crimen",
+    "Identidad oculta"
+  ],
+  "personas": [
+    {
+      "nombre": "Ando Kaede",
+      "persona": "PR001091",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Okusawa Yukiji",
+      "persona": "PR001092",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Isogai Tetsuo",
+      "persona": "PR001143",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ushioda Asami",
+      "persona": "PR001144",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Momose Kotaro",
+      "persona": "PR001145",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Haibara Kazuki",
+      "persona": "PR001146",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Togi Osamu",
+      "persona": "PR001147",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koizumi Yutaka",
+      "persona": "PR001148",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Oba Koichi",
+      "persona": "PR001149",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Murota Yohei",
+      "persona": "PR001150",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ando Masako",
+      "persona": "PR001151",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Nd00YW_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/317/317eed7b9af1dd5cec93d719de4ce692.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Quince años después de que un asesino en serie conocido como «Murciélago» arrebatara a sus padres, los hermanos Kaede y Yukiji vuelven a enfrentarse al caso. Mientras intentan descubrir la identidad del culpable, sus caminos y sus respuestas ante el trauma toman direcciones opuestas."
+}
