@@ -1,0 +1,159 @@
+{
+  "codigo": "DR001129",
+  "titulo": "Beans and Wheat",
+  "tituloOriginal": "まめとむぎ",
+  "alias": [
+    "Mame to Mugi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-02",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Vida cotidiana"
+  ],
+  "tags": [
+    "Amistad",
+    "Gastronomía",
+    "Fermentación",
+    "Cocina",
+    "Restaurantes",
+    "Reinvención personal",
+    "Superación",
+    "Amor",
+    "Trabajo",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Shimizu Mugi",
+      "persona": "PR001093",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoneda Mame",
+      "persona": "PR001094",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shiina Tane",
+      "persona": "PR001152",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Amagai Ruri",
+      "persona": "PR001153",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Narumi Kamome",
+      "persona": "PR001154",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Inooka Suzuka",
+      "persona": "PR001155",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Minato Arina",
+      "persona": "PR001156",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Inooka Kotaro",
+      "persona": "PR001192",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nemoto",
+      "persona": "PR001157",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Abuelo de Mame",
+      "persona": "PR001158",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Abuela de Mame",
+      "persona": "PR001159",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shimizu Mugi",
+        "Shiina Tane"
+      ]
+    }
+  ],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onxPdk_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/cc0/cc046c8e140ad94ad4ba137720203ce5.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Tras perder su trabajo y su relación por un escándalo amoroso en la empresa, Mugi conoce a Mame, que lleva sola el restaurante familiar Daizudō. A través de la cocina y la fermentación, ambas reconstruyen sus vidas, encuentran nuevas conexiones y descubren un lugar al que pertenecer."
+}
