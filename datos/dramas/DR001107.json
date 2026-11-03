@@ -95,7 +95,26 @@
       "principal": true
     }
   ],
-  "ships": [],
+  "ships": [
+    {
+      "personajes": [
+        "Kang Tae-gu",
+        "Go Eun-young"
+      ]
+    },
+    {
+      "personajes": [
+        "Kim Nam-il",
+        "Lee Na-yeon"
+      ]
+    },
+    {
+      "personajes": [
+        "Han Jun-seo",
+        "Go Ji-young"
+      ]
+    }
+  ],
   "entidades": [],
   "especiales": [],
   "relaciones": [],
