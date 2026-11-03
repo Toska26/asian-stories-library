@@ -1,0 +1,151 @@
+{
+  "codigo": "DR001131",
+  "titulo": "Uzume's Rebirth",
+  "tituloOriginal": "再生のウズメ",
+  "alias": [
+    "Saisei no Uzume"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-03",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Vida cotidiana"
+  ],
+  "tags": [
+    "Reinvención personal",
+    "Salud mental",
+    "Aislamiento",
+    "Familia",
+    "Amistad",
+    "Trabajo",
+    "Duelo",
+    "Segundas oportunidades",
+    "Crecimiento personal",
+    "Ayuda comunitaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Tamura Uzume",
+      "persona": "PR001098",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Korogi Yusei",
+      "persona": "PR001099",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Odagiri Mai",
+      "persona": "PR001100",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Samejima Kanade",
+      "persona": "PR001167",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nico Smith",
+      "persona": "PR001168",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hatoyama Shigenori",
+      "persona": "PR001169",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tamura Kunihiko",
+      "persona": "PR001170",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tamura Sakiko",
+      "persona": "PR001171",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marika",
+      "persona": "PR001172",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wada",
+      "persona": "PR001173",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Korogi Yusei",
+        "Marika"
+      ]
+    }
+  ],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dydllo_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/5d6/5d64ea6bc3bf7929860190fe5159b5b3.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "A los 40 años, Uzume lleva doce años aislada en casa tras abandonar su sueño de convertirse en actriz. Su encuentro con Korogi, representante de una pequeña empresa de servicios, la lleva a empezar a trabajar y a recuperar poco a poco el contacto con el mundo, mientras ayuda a otras personas a resolver sus problemas."
+}
