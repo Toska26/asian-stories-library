@@ -89,6 +89,7 @@ DR000032	TH	2023	Be Mine, Superstar
 DR000897	TH	2023	Be My Favorite
 DR001057	TH	2026	Be My Player Two
 DR000470	VN	2024	Be Your Star
+DR001129	JP	2026	Beans and Wheat
 DR000373	PH	2023	Beautiful Scars
 DR000411	VN	2018	Because of Meeting, We Meet Each Other
 DR000228	TW	2020	Because of You
@@ -232,6 +233,7 @@ DR000029	TH	2021	Don't Say No
 DR000441	VN	2021	Double Daddy, Double Happy
 DR000508	SG	2026	Double Helix
 DR000244	TW	2026	Double Shuffle
+DR001128	JP	2026	Doubt: Revenge After 15 Years
 DR000262	TW	2026	Dual Stars
 DR000737	JP	2026	Duty First, Kiss Later
 DR000163	KR	2024	Eccentric Romance
@@ -343,6 +345,7 @@ DR000450	VN	2021	Hey Rival, I Love You!
 DR000425	VN	2019	Hey! First Love
 DR000081	TH	2023	Hidden Agenda
 DR000831	TH	2021	Hidden Love
+DR001133	JP	2026	Hide & Seek: The Girlfriend One Second Before Zero
 DR000970	TH	2024	High School Frenemy
 DR000324	PH	2021	Him Will Be His
 DR000619	JP	2019	His: I Didn't Think I Would Fall in Love
@@ -641,6 +644,7 @@ DR000534	CN	2023	Mysterious Lotus Casebook
 DR000364	PH	2022	Mystery of Love
 DR001017	TH	2025	Mystique in the Mirror
 DR000667	JP	2023	Naked Dining
+DR001130	JP	2026	Naked People
 DR000440	VN	2020	Nation's Brother
 DR000042	TH	2023	Naughty Babe
 DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
@@ -881,6 +885,7 @@ DR000024	TH	2019	TharnType
 DR000025	TH	2020	TharnType 2: 7 Years of Love T2
 DR000094	TH	2025	That Summer
 DR000394	PH	2026	That Summer: Reunion
+DR001132	JP	2026	That's Enough, Dad!
 DR000856	TH	2022	That's My Candy
 DR000657	JP	2022	The 8.2 Second Rule
 DR000545	CN	2025	The Agreement of Cherry Blossom Rainy Season
@@ -1051,6 +1056,7 @@ DR000246	TW	2024	Unknown
 DR001062	TH	2026	Unlucky Bae
 DR000560	CN	2025	Until We Drown
 DR000009	TH	2019	Until We Meet Again
+DR001131	JP	2026	Uzume's Rebirth
 DR000932	TH	2023	Venus in the Sky
 DR000468	VN	2023	ViAn
 DR000052	TH	2022	Vice Versa
