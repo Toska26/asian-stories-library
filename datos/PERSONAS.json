@@ -19370,5 +19370,837 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001091",
+    "nombre": "Sawa Nimura",
+    "nombreOriginal": "仁村紗和",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001092",
+    "nombre": "Taiki Sato",
+    "nombreOriginal": "佐藤大樹",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001093",
+    "nombre": "Asuka Saito",
+    "nombreOriginal": "齋藤飛鳥",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001094",
+    "nombre": "Mio Tomita",
+    "nombreOriginal": "富田望生",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001095",
+    "nombre": "Genta Matsuda",
+    "nombreOriginal": "松田元太",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001096",
+    "nombre": "Rosa Kato",
+    "nombreOriginal": "加藤ローサ",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001097",
+    "nombre": "Yuya Takaki",
+    "nombreOriginal": "髙木雄也",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001098",
+    "nombre": "Ayako Imoto",
+    "nombreOriginal": "イモトアヤコ",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001099",
+    "nombre": "Jin Shirasu",
+    "nombreOriginal": "白洲迅",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001100",
+    "nombre": "Azusa Ohara",
+    "nombreOriginal": "大原梓",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001101",
+    "nombre": "Nanoka Hara",
+    "nombreOriginal": "原菜乃華",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001102",
+    "nombre": "Shinichi Tsutsumi",
+    "nombreOriginal": "堤真一",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001103",
+    "nombre": "Meari Hayashi",
+    "nombreOriginal": "林芽亜里",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001104",
+    "nombre": "Sota Fukushi",
+    "nombreOriginal": "福士蒼汰",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001105",
+    "nombre": "Sara Shida",
+    "nombreOriginal": "志田彩良",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001106",
+    "nombre": "Juri Tanaka",
+    "nombreOriginal": "田中樹",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001107",
+    "nombre": "Nao Asahi",
+    "nombreOriginal": "朝日奈央",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001108",
+    "nombre": "Yua Shinkawa",
+    "nombreOriginal": "新川優愛",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001109",
+    "nombre": "Kentaro Sakaguchi",
+    "nombreOriginal": "坂口健太郎",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001110",
+    "nombre": "Alice Ko",
+    "nombreOriginal": "柯佳嬿",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "TW",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001111",
+    "nombre": "Stanley Yau",
+    "nombreOriginal": "邱士縉",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "HK",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001112",
+    "nombre": "Carrie Wong",
+    "nombreOriginal": "黄思恬",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "SG",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001113",
+    "nombre": "Satomi Ishihara",
+    "nombreOriginal": "石原さとみ",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001114",
+    "nombre": "Issey Takahashi",
+    "nombreOriginal": "高橋一生",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001115",
+    "nombre": "Yumi Kawai",
+    "nombreOriginal": "河合優実",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001116",
+    "nombre": "Takumi Kawanishi",
+    "nombreOriginal": "川西拓実",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001117",
+    "nombre": "Rikka Ihara",
+    "nombreOriginal": "伊原六花",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001118",
+    "nombre": "Ryuya Shimekake",
+    "nombreOriginal": "七五三掛龍也",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001119",
+    "nombre": "Ryosuke Mikata",
+    "nombreOriginal": "味方良介",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001120",
+    "nombre": "Rio Teramoto",
+    "nombreOriginal": "寺本莉緒",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001121",
+    "nombre": "Kodai Asaka",
+    "nombreOriginal": "浅香航大",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001122",
+    "nombre": "Kazuto Mokudai",
+    "nombreOriginal": "杢代和人",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001123",
+    "nombre": "Kii Kitano",
+    "nombreOriginal": "北乃きい",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001124",
+    "nombre": "Umika Kawashima",
+    "nombreOriginal": "川島海荷",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001125",
+    "nombre": "Yuki Yoda",
+    "nombreOriginal": "与田祐希",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001126",
+    "nombre": "Shuhei Nomura",
+    "nombreOriginal": "野村周平",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001127",
+    "nombre": "Aoi Nakamura",
+    "nombreOriginal": "中村蒼",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001128",
+    "nombre": "Nagisa Shibuya",
+    "nombreOriginal": "渋谷凪咲",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001129",
+    "nombre": "Ikuho Akiya",
+    "nombreOriginal": "秋谷郁甫",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001130",
+    "nombre": "Kodai Kurosaki",
+    "nombreOriginal": "黒崎煌代",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001131",
+    "nombre": "Yui Narumi",
+    "nombreOriginal": "鳴海唯",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001132",
+    "nombre": "Miho Watanabe",
+    "nombreOriginal": "渡邉美穂",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001133",
+    "nombre": "Masahiro Sunada",
+    "nombreOriginal": "砂田将宏",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001134",
+    "nombre": "Nana Asakawa",
+    "nombreOriginal": "浅川梨奈",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001135",
+    "nombre": "Masashi Ikeda",
+    "nombreOriginal": "池田匡志",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001136",
+    "nombre": "Fumika Baba",
+    "nombreOriginal": "馬場ふみか",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001137",
+    "nombre": "Yoko Maki",
+    "nombreOriginal": "真木よう子",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001138",
+    "nombre": "Kohei Higuchi",
+    "nombreOriginal": "樋口幸平",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001139",
+    "nombre": "Hayato Takao",
+    "nombreOriginal": "高尾颯斗",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001140",
+    "nombre": "Yo Oizumi",
+    "nombreOriginal": "大泉洋",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001141",
+    "nombre": "Sairi Ito",
+    "nombreOriginal": "伊藤沙莉",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001142",
+    "nombre": "Tomohisa Yamashita",
+    "nombreOriginal": "山下智久",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
