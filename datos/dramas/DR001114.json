@@ -1,0 +1,97 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 2
+  },
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "duracion": 102,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001114",
+  "titulo": "Gekijōban Oishii Kyūshoku: Final Battle",
+  "tituloOriginal": "劇場版 おいしい給食 Final Battle",
+  "alias": [],
+  "anio": 2020,
+  "origen": null,
+  "temporada": null,
+  "episodios": null,
+  "estado": "finalizado",
+  "estreno": "2020-03-06",
+  "finalizacion": "2020-03-06",
+  "tags": [
+    "Película",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Comedia gastronómica",
+    "Profesor",
+    "Estudiantes",
+    "Competencia",
+    "Nostalgia"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Misono Hitomi",
+      "persona": "PR001041",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinno Go",
+      "persona": "PR001040",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "Amarida Yukio continúa su peculiar batalla gastronómica con el alumno Jinno Go, mientras intenta mantener en secreto su devoción por los almuerzos escolares. La película lleva a su desenlace la historia iniciada en la primera temporada, con la profesora Misono Hitomi y la comunidad escolar envueltas en un conflicto que amenaza la cultura del comedor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/eVBOpf.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/582/582e7d8f9d55675fb2c98bf32f3208eb.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
