@@ -1,0 +1,134 @@
+{
+  "codigo": "DR001134",
+  "titulo": "I Quit Being a Wife",
+  "tituloOriginal": "妻を引退します",
+  "alias": [
+    "Tsuma o Intai Shimasu"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "estreno": "2026-10-05",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Venganza"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Infidelidad",
+    "Industria del entretenimiento",
+    "Actuación",
+    "Segundas oportunidades",
+    "Venganza",
+    "Secretos familiares",
+    "Amor no correspondido"
+  ],
+  "personas": [
+    {
+      "nombre": "Honami Ayukawa",
+      "persona": "PR001107",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Maika Izumi",
+      "persona": "PR001108",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Renya Ayukawa",
+      "persona": "PR001194",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Subaru Wakui",
+      "persona": "PR001193",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Suzuko Osawa",
+      "persona": "PR001195",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jun Kageyama",
+      "persona": "PR001196",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anna Asakura",
+      "persona": "PR001197",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Soichiro Ayukawa",
+      "persona": "PR001198",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tsutomu Nitta",
+      "persona": "PR001079",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Honami Ayukawa",
+        "Renya Ayukawa"
+      ]
+    },
+    {
+      "personajes": [
+        "Renya Ayukawa",
+        "Maika Izumi"
+      ]
+    },
+    {
+      "personajes": [
+        "Honami Ayukawa",
+        "Subaru Wakui"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5Qe8XL_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/40a/40a15ab98098e23765f5fe601366d8a9.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Honami Ayukawa, antigua niña prodigio que abandonó la interpretación, lleva una vida familiar aparentemente tranquila junto a su marido, Renya, y su hija. Cuando una serie de acontecimientos relacionados con su pasado en la industria del entretenimiento sacude su matrimonio, Honami decide enfrentarse a quienes la dañaron y recuperar el control de su propia vida. La popular actriz Maika Izumi y Subaru Wakui, que siente algo por Honami, complican aún más la situación."
+}
