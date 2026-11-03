@@ -181,6 +181,8 @@ DR000686	JP	2026	Cosmetic Playlover T2
 DR000724	JP	2026	Countdown to Yes
 DR000818	TH	2021	Country Boy T1
 DR000819	TH	2022	Country Boy T2 T2
+DR001102	KR	2024	Crash
+DR001103	KR	2026	Crash 2: Road of Rage T2
 DR000229	TW	2020	Craving You
 DR000901	TH	2023	Crazy Handsome Rich
 DR000035	TH	2026	Crazy Love, Moo-Moo!
@@ -790,6 +792,7 @@ DR000659	JP	2022	Shimbashi Koi Story 2 T2
 DR001006	TH	2025	Shine
 DR000372	PH	2022	Si Andy, Si Lauren, O Si Peng?
 DR000833	TH	2021	Siew Sum Noi
+DR001104	KR	2016	Signal
 DR000341	PH	2021	Simply Don't
 DR000199	KR	2026	Sin and Love
 DR000145	KR	2023	Sing My Crush
@@ -941,6 +944,7 @@ DR000632	JP	2020	The Reason Why He Fell in Love with Me: Drama Special
 DR000957	TH	2024	The Rebound
 DR000401	PH	2026	The Red Leash
 DR001097	KR	2026	The Remarried Empress
+DR001105	KR	2026	The Second Signal T2
 DR000732	JP	2026	The Servant Prince
 DR000800	TH	2020	The Shipper
 DR000929	TH	2023	The Sign
