@@ -77,6 +77,10 @@ DR000896	TH	2023	Bake Me Please
 DR000169	KR	2025	Ball Boy Tactics
 DR000766	TH	2017	Bangkok G Story
 DR001121	JP	2022	Banshaku no Ryūgi
+DR001122	JP	2023	Banshaku no Ryūgi 2 T2
+DR001123	JP	2024	Banshaku no Ryūgi 3 T3
+DR001124	JP	2025	Banshaku no Ryūgi 4 T4
+DR001125	JP	2026	Banshaku no Ryūgi 5 T5
 DR000417	VN	2019	Bao Lô
 DR000962	TH	2024	Battle of the Writers
 DR000625	JP	2020	BE LOVE
