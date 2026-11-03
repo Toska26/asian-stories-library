@@ -1,0 +1,95 @@
+{
+  "codigo": "DR001109",
+  "bl": false,
+  "titulo": "Nine to Six",
+  "tituloOriginal": "나인 투 식스",
+  "alias": [],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001108",
+    "orden": 2
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-11-25",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Remake",
+    "Adaptación china",
+    "Romance laboral",
+    "Oficina",
+    "Mujer profesional",
+    "Diferencia de edad",
+    "Amor en el trabajo",
+    "Crecimiento personal",
+    "Independencia",
+    "Conciliación laboral y personal"
+  ],
+  "personas": [
+    {
+      "persona": "PR001018",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Park Min-young",
+      "principal": true
+    },
+    {
+      "persona": "PR001019",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Yook Sung-jae",
+      "principal": true
+    },
+    {
+      "persona": "PR001020",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Go Soo",
+      "principal": true
+    },
+    {
+      "persona": "PR001021",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Joo Hyun-young",
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kang Yi-ji es una mujer pragmática y entregada por completo a su carrera, que ha dejado el amor en un segundo plano. Su rutina cambia al conocer a Han Seon-woo, un joven cálido y atento que trabaja como becario en su empresa. Mientras ambos aprenden a equilibrar sus aspiraciones profesionales y personales, también deberán desenvolverse en las tensiones y rivalidades de una gran compañía. Park Hyun-tae, un directivo recién llegado, completa el entorno laboral que pondrá a prueba sus decisiones.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VBXpEO_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
