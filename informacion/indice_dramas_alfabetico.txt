@@ -304,6 +304,7 @@ DR000536	CN	2024	Gym Affairs
 DR000486	VN	2026	Hạ Cuối, Biển Xanh Và Em
 DR000482	VN	2025	Hanoi, I Love You
 DR000438	VN	2020	Happiness Flies Far Away
+DR001107	KR	2026	Happy Anding
 DR000132	KR	2022	Happy Ending Romance
 DR000443	VN	2019	Happy Family
 DR000444	VN	2020	Happy Family T2
@@ -444,6 +445,7 @@ DR001020	TH	2025	Let Me Into Your Heart
 DR000245	TW	2024	Let's Talk About Chu
 DR000479	VN	2025	Life Gives Us Sadness
 DR000727	JP	2026	Life in Smokey Blue
+DR001106	JP	2021	Life's Punchline
 DR000623	JP	2020	Life~Love on the Line
 DR000111	KR	2021	Light on Me
 DR000118	KR	2026	Light on Me 2 T2
@@ -643,6 +645,7 @@ DR000428	VN	2019	Nhà Trọ Có Quá Trời Phòng
 DR000431	VN	2020	Nhà Trọ Có Quá Trời Phòng Phần 2 T2
 DR000432	VN	2023	Nhà Trọ Có Quá Trời Phòng Phần 3 T3
 DR000922	TH	2023	Night Dream
+DR001109	KR	2026	Nine to Six
 DR000825	TH	2021	Nitiman
 DR000110	KR	2021	Nobleman Ryu's Wedding
 DR000098	TH	2021	Not Me
@@ -938,6 +941,7 @@ DR000258	TW	2025	The Promise of the Soul
 DR000702	JP	2025	The Proper Way to Write Love
 DR000711	JP	2026	The Proper Way to Write Love Season 2 T2
 DR000198	KR	2026	The Prosecutor's Proposal
+DR001108	CN	2021	The Rational Life
 DR000624	JP	2020	The Reason Why He Fell in Love with Me
 DR000633	JP	2021	The Reason Why He Fell in Love with Me Season 2 T2
 DR000632	JP	2020	The Reason Why He Fell in Love with Me: Drama Special
