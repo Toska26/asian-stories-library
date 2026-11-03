@@ -1,0 +1,166 @@
+{
+  "codigo": "DR001132",
+  "titulo": "That's Enough, Dad!",
+  "tituloOriginal": "もうパパ！",
+  "alias": [
+    "Mō Papa!"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-04",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Familia"
+  ],
+  "tags": [
+    "Familia",
+    "Padre e hija",
+    "Primer amor",
+    "Triángulo amoroso",
+    "Redes sociales",
+    "Creadores de contenido",
+    "Universidad",
+    "Independencia",
+    "Amistad",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Tarayama Kiko",
+      "persona": "PR001101",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tarayama Ryota",
+      "persona": "PR001102",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sato Mana",
+      "persona": "PR001103",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kira Asahi",
+      "persona": "PR001174",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sasaki Shunya",
+      "persona": "PR001175",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ogi Futaba",
+      "persona": "PR001176",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Katsuji Ousuke",
+      "persona": "PR001177",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Oka Daiki",
+      "persona": "PR001178",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mitsuda Mitsue",
+      "persona": "PR001179",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saeki Fukuko",
+      "persona": "PR001180",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tarayama Kaori",
+      "persona": "PR001181",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tarayama Kiko",
+        "Kira Asahi"
+      ]
+    },
+    {
+      "personajes": [
+        "Tarayama Kiko",
+        "Sasaki Shunya"
+      ]
+    }
+  ],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Lw4mLL_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/b07/b071ffc86b5000f09d7278fbe7779961.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Kiko, la hija y estrella del canal familiar Tarachannel, quiere empezar a decidir su propio futuro. Mientras su padre, Ryota, intenta mantener el éxito de la cuenta a toda costa, Kiko vive su primer amor con Asahi y se enfrenta a los sentimientos de Shunya, su amigo de la infancia."
+}
