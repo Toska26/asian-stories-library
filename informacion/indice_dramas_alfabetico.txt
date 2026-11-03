@@ -211,7 +211,7 @@ DR000859	TH	2022	Dear Doctor, I'm Coming for Soul
 DR001068	TH	2026	Decoding You
 DR000598	CN	2026	Deep In
 DR000949	TH	2024	Deep Night
-DR001139	JP	????	Dekiai Kareshi no Tsukurikata
+DR001139	JP	2026	Dekiai Kareshi no Tsukurikata
 DR000701	JP	2025	Depth of Field
 DR000903	TH	2023	Destiny Seeker
 DR000904	TH	2023	Dinosaur Love
@@ -423,13 +423,13 @@ DR000593	CN	2026	Journey With You
 DR000146	KR	2023	Jun & Jun
 DR000208	KR	2026	Just Friend
 DR000653	JP	2022	Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized
-DR001138	JP	????	Kamen Kyōshi
+DR001138	JP	2026	Kamen Kyōshi
 DR000315	PH	2021	Kamisetang Papel
 DR000646	JP	2022	Kei × Yaku: Dangerous Partners
 DR000038	TH	2025	Khemjira
 DR000039	TH	2026	Khemjira Forever
 DR000966	TH	2024	Kidnap
-DR001135	JP	????	kiDnap GAME
+DR001135	JP	2026	kiDnap GAME
 DR000506	SG	2025	Kill to Love
 DR000525	CN	2021	Killer and Healer
 DR000860	TH	2022	KinnPorsche
@@ -442,7 +442,7 @@ DR000119	KR	2022	Kissable Lips
 DR000955	TH	2024	Knock Knock, Boys!
 DR001001	TH	2025	Knock Out
 DR001053	TH	2026	KNOT
-DR001137	JP	????	Komugi to Butter to Fukushū to
+DR001137	JP	2026	Komugi to Butter to Fukushū to
 DR000304	PH	2020	Kumusta Bro?
 DR000305	PH	2022	Kumusta Bro? The Series T2
 DR000226	TW	2017	La Boum
@@ -738,7 +738,7 @@ DR000927	TH	????	Playboyy Season 2 T2
 DR000240	TW	2022	Plus & Minus
 DR000559	CN	2025	PlutoCharon
 DR000033	TH	2026	Police in Love
-DR001136	JP	????	Political Lupin
+DR001136	JP	2026	Political Lupin
 DR000675	JP	2023	Polyethylene Terephthalate
 DR000614	JP	2018	Pornographer
 DR000618	JP	2021	Pornographer: Continued Spring Life
@@ -1040,7 +1040,7 @@ DR000554	CN	2025	Trapped in Osaka
 DR000423	VN	2019	Trật Tự Mới
 DR000862	TH	2022	Triage
 DR000301	PH	2020	Truly Very Yours
-DR001134	JP	????	Tsuma o Intai Shimasu
+DR001134	JP	2026	Tsuma o Intai Shimasu
 DR000070	TH	2026	Twenty One
 DR000368	PH	2022	Twinkle, Twinkle Little Star
 DR000931	TH	2023	Twins
