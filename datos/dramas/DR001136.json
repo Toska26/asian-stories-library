@@ -1,9 +1,9 @@
 {
   "codigo": "DR001136",
-  "titulo": "Political Pan",
+  "titulo": "Political Lupin",
   "tituloOriginal": "ポリティカルパン",
   "alias": [
-    "Political Lupin",
+    "Political Pan",
     "PoliticaLupin"
   ],
   "pais": [
@@ -86,7 +86,7 @@
       "principal": false
     },
     {
-      "nombre": "Shō Shinbō",
+      "nombre": "Sho Shinbo",
       "persona": "PR001213",
       "funcion": [
         "Actor"
@@ -94,7 +94,7 @@
       "principal": false
     },
     {
-      "nombre": "Iwakura Kennosuke",
+      "nombre": "Kennosuke Iwakura",
       "persona": "PR001044",
       "funcion": [
         "Actor"
@@ -102,8 +102,16 @@
       "principal": false
     },
     {
-      "nombre": "乾",
+      "nombre": "Inui",
       "persona": "PR001215",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Misaki Utsunomiya",
+      "persona": "PR001214",
       "funcion": [
         "Actor"
       ],
@@ -123,5 +131,5 @@
     "ost": [],
     "videos": []
   },
-  "sinopsis": "Yayoi Kisaragi es una ladrona brillante que se infiltra en el mundo de la política para apropiarse del dinero oculto y corrupto que circula en sus estructuras de poder. En un país ficticio, sus planes la enfrentan a un tesorero del partido gobernante y a una red de intereses que hará difícil distinguir entre justicia y delito. Mientras ambos bandos intentan engañarse, Yayoi se acerca al verdadero origen del dinero."
+  "sinopsis": "Yayoi Kisaragi, una ladrona excepcional, pone sus habilidades al servicio de un objetivo insólito: robar el dinero oscuro de la política. En el país ficticio de Nipponia se infiltra en el entorno del partido gobernante y se enfrenta en un juego de engaños a Masakado Natsume, el influyente responsable de las finanzas del partido. Con la ayuda de su amigo Inui y de un grupo de aliados, Yayoi se acerca a la familia Kobayakawa y a los secretos que sostienen el poder político."
 }
