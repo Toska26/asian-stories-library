@@ -278,6 +278,9 @@ DR000270	PH	2020	Gameboys
 DR000271	PH	2022	Gameboys 2 T2
 DR000752	TH	2016	Gay OK Bangkok
 DR000753	TH	2017	Gay OK Bangkok 2 T2
+DR001114	JP	2020	Gekijōban Oishii Kyūshoku: Final Battle
+DR001118	JP	2024	Gekijōban Oishii Kyūshoku: Road to Ikameshi
+DR001116	JP	2022	Gekijōban Oishii Kyūshoku: Sotsugyō
 DR000987	TH	2025	Gelboys
 DR000988	TH	2026	Gelboys 2 T2
 DR000787	TH	2020	Gen Y
@@ -658,6 +661,11 @@ DR000295	PH	2020	Oh, Mando!
 DR000121	KR	2022	Oh! Boarding House
 DR000133	KR	2022	Oh! My Assistant
 DR000876	TH	2022	Oh! My Sunshine Night
+DR001113	JP	2019	Oishii Kyūshoku
+DR001115	JP	2021	Oishii Kyūshoku Season 2 T2
+DR001117	JP	2023	Oishii Kyūshoku Season 3 T3
+DR001120	JP	2026	Oishii Kyūshoku Season 4 T4
+DR001119	JP	2025	Oishii Kyūshoku: Honō no Shūgakuryokō
 DR000650	JP	2022	Old Fashion Cupcake
 DR000977	TH	2024	OMG! Vampire
 DR000866	TH	2022	On Cloud Nine
