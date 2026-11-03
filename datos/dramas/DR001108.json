@@ -1,0 +1,98 @@
+{
+  "codigo": "DR001108",
+  "bl": false,
+  "titulo": "The Rational Life",
+  "tituloOriginal": "理智派生活",
+  "alias": [
+    "Li Zhi Pai Sheng Huo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2021,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001108",
+    "orden": 1
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2021-03-31",
+  "finalizacion": "2021-05-18",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Oficina",
+    "Mujer profesional",
+    "Discriminación laboral",
+    "Diferencia de edad",
+    "Amor en el trabajo",
+    "Crecimiento personal",
+    "Independencia",
+    "Familia",
+    "Triángulo amoroso"
+  ],
+  "personas": [
+    {
+      "persona": "PR001014",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Qin Lan",
+      "principal": true
+    },
+    {
+      "persona": "PR001015",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Dylan Wang",
+      "principal": true
+    },
+    {
+      "persona": "PR001016",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Li Zonghan",
+      "principal": true
+    },
+    {
+      "persona": "PR001017",
+      "funcion": [
+        "Actor"
+      ],
+      "nombre": "Bao Wenjing",
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Shen Ruoxin es una profesional de más de treinta años que trabaja en el departamento jurídico de una gran empresa dominada por hombres. Mientras lucha por avanzar en su carrera y hacer frente a las injusticias y presiones del entorno laboral, su relación con Qi Xiao, un compañero más joven y afectuoso, la lleva a cuestionar las expectativas sociales y a decidir qué quiere realmente para su vida. En paralelo, deberá afrontar las tensiones familiares y las complejidades de sus vínculos personales.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/r1Nbm_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/d21/d2123a5b7e099ace2aa5d230edd9e1fd.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
