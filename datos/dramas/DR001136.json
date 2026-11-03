@@ -92,6 +92,22 @@
       "principal": false
     },
     {
+      "nombre": "Tetsu Yamakki",
+      "persona": "PR001239",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rui",
+      "persona": "PR001240",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
       "nombre": "Kaoru Sera",
       "persona": "PR001212",
       "funcion": [
@@ -102,6 +118,62 @@
     {
       "nombre": "Sho Shinbo",
       "persona": "PR001213",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Misaki Utsunomiya",
+      "persona": "PR001214",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sadaharu Ienaga",
+      "persona": "PR001241",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kyoko Kabashima",
+      "persona": "PR001242",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hideto Homma",
+      "persona": "PR001243",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daiji Kazamatsuri",
+      "persona": "PR001244",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kenmei Kiuchi",
+      "persona": "PR001245",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shiro Kobayakawa",
+      "persona": "PR001246",
       "funcion": [
         "Actor"
       ],
