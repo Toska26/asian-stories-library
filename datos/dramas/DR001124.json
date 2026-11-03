@@ -1,0 +1,143 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001121",
+  "remake": null,
+  "temporadas": 5,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Gastronomía",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "alias": [],
+  "origen": null,
+  "especiales": [],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NdnRLA_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "codigo": "DR001124",
+  "titulo": "Banshaku no Ryūgi 4",
+  "tituloOriginal": "晩酌の流儀４",
+  "anio": 2025,
+  "temporada": 4,
+  "episodios": 20,
+  "estreno": "2025-06-27",
+  "finalizacion": "2025-12-05",
+  "estado": "finalizado",
+  "tags": [
+    "晩酌",
+    "Gastronomía",
+    "Comida japonesa",
+    "Cocina casera",
+    "Recetas",
+    "Barrio",
+    "Comercio local",
+    "Carnicería",
+    "Verdulería",
+    "Pescadería",
+    "Trabajo",
+    "Vida cotidiana",
+    "Comedia"
+  ],
+  "personas": [
+    {
+      "nombre": "Izawa Miyuki",
+      "persona": "PR001063",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shimamura Naoto",
+      "persona": "PR001064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tomikawa Aoi",
+      "persona": "PR001065",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Umino Jiro",
+      "persona": "PR001066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ushiba",
+      "persona": "PR001067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chinyama",
+      "persona": "PR001068",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nikuyama",
+      "persona": "PR001070",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nakakubo Yaoko",
+      "persona": "PR001071",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yasu",
+      "persona": "PR001072",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akira",
+      "persona": "PR001073",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Miyuki sigue trabajando en la inmobiliaria Hop Housing y mantiene intacta su dedicación a conseguir el mejor momento de la noche. Su vida cotidiana se enriquece con la relación que establece con los comerciantes del barrio: la carnicería, la verdulería y la pescadería se convierten en paradas esenciales para encontrar ingredientes y consejos. Mientras afronta nuevos cambios en el entorno laboral y comercial, continúa perfeccionando sus preparaciones para el brindis diario."
+}
