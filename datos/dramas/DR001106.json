@@ -85,7 +85,26 @@
       "principal": true
     }
   ],
-  "ships": [],
+  "ships": [
+    {
+      "personajes": [
+        "Haruto Takaiwa",
+        "Rihoko Nakahama"
+      ]
+    },
+    {
+      "personajes": [
+        "Shunta Asabuki",
+        "Tsumugi Nakahama"
+      ]
+    },
+    {
+      "personajes": [
+        "Junpei Minowa",
+        "Natsumi Kishi"
+      ]
+    }
+  ],
   "entidades": [],
   "especiales": [],
   "relaciones": [],
