@@ -1,0 +1,130 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 8
+  },
+  "universo": null,
+  "serie": "SR001113",
+  "remake": null,
+  "temporadas": 4,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001120",
+  "titulo": "Oishii Kyūshoku Season 4",
+  "tituloOriginal": "おいしい給食 season4",
+  "alias": [],
+  "anio": 2026,
+  "origen": null,
+  "temporada": 4,
+  "episodios": 10,
+  "estado": "en_emision",
+  "estreno": "2026-10-10",
+  "finalizacion": null,
+  "tags": [
+    "Okinawa",
+    "Años 90",
+    "1992",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Gastronomía de Okinawa",
+    "Profesor",
+    "Estudiantes",
+    "Competencia gastronómica",
+    "Comedia escolar",
+    "Nostalgia"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Taira Miharu",
+      "persona": "PR001057",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Toma Ren",
+      "persona": "PR001058",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Takara Gakuto",
+      "persona": "PR001059",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shimabukuro Amane",
+      "persona": "PR001060",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Miyazato Kaname",
+      "persona": "PR001061",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Taira Kinji",
+      "persona": "PR001062",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "En 1992, Amarida Yukio comienza una nueva etapa en Okinawa, donde continúa entregado a su pasión por los almuerzos escolares. En su nuevo centro conoce a la profesora Taira Miharu y a un grupo de alumnos con personalidades muy distintas, entre ellos Toma Ren, cuya manera de disfrutar la comida anuncia una nueva rivalidad. La llegada de Makino Fumie vuelve a poner en peligro el secreto mejor guardado de Amarida.",
+  "multimedia": {
+    "portada": [
+      "https://drama-otaku.com/wp-content/uploads/2026/09/oishiis4poster-940x1329.jpeg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
