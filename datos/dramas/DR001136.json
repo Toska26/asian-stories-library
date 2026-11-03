@@ -9,7 +9,21 @@
   "pais": [
     "JP"
   ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
   "estreno": "2026-10-07",
+  "finalizacion": null,
+  "estado": "en_emision",
   "generos": [
     "Drama",
     "Crimen",
@@ -111,6 +125,11 @@
     }
   ],
   "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/KnbY3J_4f.jpg"
