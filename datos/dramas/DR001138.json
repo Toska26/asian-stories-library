@@ -1,0 +1,215 @@
+{
+  "codigo": "DR001138",
+  "titulo": "Masked Teacher: From the Day He Lost His Wife",
+  "tituloOriginal": "仮面教師～妻を亡くしたその日から",
+  "alias": [
+    "Kamen Kyōshi: Tsuma o Nakushita Sono Hi Kara",
+    "Kamen Kyōshi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "estreno": "2026-10-07",
+  "generos": [
+    "Suspense",
+    "Misterio",
+    "Drama",
+    "Venganza",
+    "Thriller"
+  ],
+  "tags": [
+    "Venganza",
+    "Muerte sospechosa",
+    "Escuela",
+    "Instituto",
+    "Identidad oculta",
+    "Corrupción",
+    "Poder",
+    "Teatro",
+    "Investigación",
+    "Secretos"
+  ],
+  "personas": [
+    {
+      "nombre": "Yusuke Mito",
+      "persona": "PR001121",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Takumi Toyama",
+      "persona": "PR001122",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hanako Seki",
+      "persona": "PR001123",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akane Sudo",
+      "persona": "PR001124",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Moichi Mankai",
+      "persona": "PR001222",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tsuyoshi Togawa",
+      "persona": "PR001187",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eri Toyama",
+      "persona": "PR001223",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eiichi Mankai",
+      "persona": "PR001224",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ken Shimura",
+      "persona": "PR001225",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hayato Kotera",
+      "persona": "PR001226",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Koshi Nakabayashi",
+      "persona": "PR001227",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Makoto Takiguchi",
+      "persona": "PR001228",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoko Shibano",
+      "persona": "PR001229",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akira Mitsui",
+      "persona": "PR001230",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akio Momozaki",
+      "persona": "PR001231",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kohei Kyogoku",
+      "persona": "PR001232",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Michio Koshino",
+      "persona": "PR001233",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Saku Arita",
+      "persona": "PR001234",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mamiko Mankai",
+      "persona": "PR001235",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wataru Sakamoto",
+      "persona": "PR001025",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yusuke Mito",
+        "Akane Sudo"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjPoKw_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/f1a/f1a84b794dcaf73675acbceef4b3f0a0.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Desde la muerte de su esposa Akane, el antiguo actor Yusuke Mito busca descubrir qué ocurrió realmente. Para investigar, se infiltra bajo una identidad falsa como profesor en la prestigiosa academia donde ella trabajaba. Allí conoce a Takumi Toyama, un estudiante recién trasladado que también guarda sus propios motivos para desconfiar del centro. Juntos se acercan a los secretos de la escuela y a una poderosa red que alcanza las esferas políticas y policiales."
+}
