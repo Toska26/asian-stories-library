@@ -1,0 +1,175 @@
+{
+  "codigo": "DR001135",
+  "titulo": "kiDnap GAME",
+  "tituloOriginal": "kiDnap GAME",
+  "alias": [],
+  "pais": [
+    "JP",
+    "HK",
+    "KR"
+  ],
+  "idioma": "ja",
+  "estreno": "2026-10-06",
+  "generos": [
+    "Suspense",
+    "Thriller",
+    "Acción",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Secuestro",
+    "Juego mortal",
+    "Supervivencia",
+    "Rescate",
+    "Familia",
+    "Investigación",
+    "Conspiración",
+    "Crimen",
+    "Competición",
+    "Cooperación"
+  ],
+  "personas": [
+    {
+      "nombre": "Toshio Shinde",
+      "persona": "PR001109",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Kiju",
+      "persona": "PR001199",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Christina Lin",
+      "persona": "PR001110",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Andy",
+      "persona": "PR001111",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Janice Lau",
+      "persona": "PR001112",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miguel Garcia",
+      "persona": "PR001205",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Am Thanawat",
+      "persona": "PR001206",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuronosuke Higa",
+      "persona": "PR001200",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Saori Shinde",
+      "persona": "PR001201",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Akina Isobe",
+      "persona": "PR001202",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Haruki Urushibara",
+      "persona": "PR001203",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sonomi Uemura",
+      "persona": "PR001204",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Park Dong-guk",
+      "persona": "PR001207",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nam Ayun",
+      "persona": "PR001208",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Rian",
+      "persona": "PR001209",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Toshio Shinde",
+        "Saori Shinde"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lBvQOx_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/e52/e52ffcd4db3508737ab74289962af746.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Una oleada de secuestros simultáneos sacude siete ciudades asiáticas. Las familias de las víctimas reciben un mensaje que las obliga a participar en un juego mortal: solo una persona podrá salvar a su ser querido. El detective Toshio Shinde investiga el caso mientras los participantes, procedentes de distintos países y con vidas muy diferentes, deben cumplir misiones cada vez más peligrosas para rescatar a quienes aman y descubrir quién está detrás del juego."
+}
