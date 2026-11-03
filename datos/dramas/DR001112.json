@@ -1,0 +1,155 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001110",
+  "remake": null,
+  "temporadas": 3,
+  "duracion": 30,
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Gastronomía",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001112",
+  "titulo": "Tengu no Daidokoro Season 3",
+  "tituloOriginal": "天狗の台所 Season3",
+  "alias": [
+    "Tengu's Kitchen Season 3"
+  ],
+  "anio": 2026,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Continuación original supervisada por la autora",
+    "titulo": "Tengu no Daidokoro",
+    "tituloOriginal": "天狗の台所",
+    "autor": "Ai Tanaka",
+    "pais": "JP"
+  },
+  "temporada": 3,
+  "episodios": 10,
+  "estado": "en_emision",
+  "estreno": "2026-10-01",
+  "finalizacion": null,
+  "tags": [
+    "Cocina",
+    "Gastronomía japonesa",
+    "Vida rural",
+    "Slow Life",
+    "Mitología japonesa",
+    "Tengu",
+    "Familia",
+    "Hermanos",
+    "Amistad",
+    "Primavera",
+    "Agricultura",
+    "Arrozales",
+    "Naturaleza"
+  ],
+  "personas": [
+    {
+      "nombre": "Iizuna Motoi",
+      "persona": "PR001022",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Atago Yui",
+      "persona": "PR001023",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Iizuna On",
+      "persona": "PR001024",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Atago Jiu",
+      "persona": "PR001033",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shiramine Nagi",
+      "persona": "PR001035",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kunihiro Jōji",
+      "persona": "PR001036",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hina",
+      "persona": "PR001037",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mugi (voz)",
+      "persona": "PR001030",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Iizuna Ichino",
+      "persona": "PR001031",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ellis Wilson",
+      "persona": "PR001032",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "Con la llegada de la primavera, Motoi, On y Yui vuelven a reunirse en la aldea. La muerte de una persona muy querida por On y la posibilidad de que algunos habitantes abandonen el lugar hacen que el joven empiece a reflexionar sobre el futuro de la comunidad. Al descubrir que los arrozales de la zona corren el riesgo de quedar abandonados, On busca una manera de ayudar y dar nueva vida al pueblo. Entre nuevos visitantes, cambios personales y platos preparados con ingredientes de temporada, los protagonistas comienzan una nueva etapa.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkjKwD_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/3cc/3cccf2bb4d830f9b542ac946694c3933.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
