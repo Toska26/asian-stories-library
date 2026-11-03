@@ -1,0 +1,127 @@
+{
+  "codigo": "DR001136",
+  "titulo": "Political Pan",
+  "tituloOriginal": "ポリティカルパン",
+  "alias": [
+    "Political Lupin",
+    "PoliticaLupin"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "estreno": "2026-10-07",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense",
+    "Misterio"
+  ],
+  "tags": [
+    "Robo",
+    "Política",
+    "Corrupción",
+    "Dinero ilícito",
+    "Justicia",
+    "Identidad secreta",
+    "Engaño",
+    "Poder",
+    "Investigación",
+    "Ladrona"
+  ],
+  "personas": [
+    {
+      "nombre": "Yayoi Kisaragi",
+      "persona": "PR001113",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Masakado Natsume",
+      "persona": "PR001114",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miyabi Kobayakawa",
+      "persona": "PR001115",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hayate Kobayakawa",
+      "persona": "PR001210",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Momoko Tsunoda",
+      "persona": "PR001211",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ginji Hanazono",
+      "persona": "PR001116",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kaoru Sera",
+      "persona": "PR001212",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shō Shinbō",
+      "persona": "PR001213",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Iwakura Kennosuke",
+      "persona": "PR001044",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "乾",
+      "persona": "PR001215",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/KnbY3J_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/b94/b94fba7670eeb44dce2a0d8eb790e9f5.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Yayoi Kisaragi es una ladrona brillante que se infiltra en el mundo de la política para apropiarse del dinero oculto y corrupto que circula en sus estructuras de poder. En un país ficticio, sus planes la enfrentan a un tesorero del partido gobernante y a una red de intereses que hará difícil distinguir entre justicia y delito. Mientras ambos bandos intentan engañarse, Yayoi se acerca al verdadero origen del dinero."
+}
