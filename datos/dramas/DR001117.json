@@ -1,0 +1,130 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 5
+  },
+  "universo": null,
+  "serie": "SR001113",
+  "remake": null,
+  "temporadas": 4,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001117",
+  "titulo": "Oishii Kyūshoku Season 3",
+  "tituloOriginal": "おいしい給食 season3",
+  "alias": [],
+  "anio": 2023,
+  "origen": null,
+  "temporada": 3,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2023-10-09",
+  "finalizacion": "2023-12-11",
+  "tags": [
+    "Hakodate",
+    "Hokkaidō",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Años 80",
+    "1989",
+    "Competencia gastronómica",
+    "Profesor",
+    "Estudiantes",
+    "Comedia escolar",
+    "Nuevos comienzos"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hirukawa Ai",
+      "persona": "PR001051",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsuburai Ken",
+      "persona": "PR001052",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kido Shiro",
+      "persona": "PR001053",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shiranezawa Hitoshi",
+      "persona": "PR001054",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Saki",
+      "persona": "PR001055",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakazume Isao",
+      "persona": "PR001056",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "Tras su traslado a Hakodate, Amarida Yukio descubre una nueva cultura gastronómica escolar y un nuevo rival en Tsuburai Ken. Mientras la joven profesora Hirukawa Ai se incorpora al centro, los almuerzos del norte de Japón despiertan nuevas rivalidades y aventuras. La temporada sigue las peripecias del profesor en una ciudad y un entorno escolar diferentes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BdqNZR_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
