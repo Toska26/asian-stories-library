@@ -21866,8 +21866,7 @@
       "foto": []
     },
     "activo": true
-  }
-,
+  },
   {
     "codigo": "PR001247",
     "nombre": "Katsuhisa Namase",
@@ -22400,6 +22399,70 @@
     "codigo": "PR001280",
     "nombre": "Yuki Ohara",
     "nombreOriginal": "大原由暉",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001281",
+    "nombre": "Nobuyuki Suzuki",
+    "nombreOriginal": "鈴木伸之",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001282",
+    "nombre": "Riki Honda",
+    "nombreOriginal": "本多力",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001283",
+    "nombre": "Riku Tsuji",
+    "nombreOriginal": "辻陸",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001284",
+    "nombre": "Ui Mihara",
+    "nombreOriginal": "三原羽衣",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
