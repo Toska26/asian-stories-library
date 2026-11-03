@@ -384,7 +384,6 @@ DR000691	JP	2024	I Hear the Sunspot
 DR000645	JP	2022	I Just Want to See You
 DR000999	TH	2025	I Promise I Will Come Back
 DR000790	TH	2021	I Promised You the Moon T2
-DR001134	JP	????	I Quit Being a Wife
 DR000960	TH	2024	I Saw You in My Dream
 DR000789	TH	2020	I Told Sunset About You
 DR000055	TH	2026	I Will Always Save You
@@ -1040,6 +1039,7 @@ DR000554	CN	2025	Trapped in Osaka
 DR000423	VN	2019	Trật Tự Mới
 DR000862	TH	2022	Triage
 DR000301	PH	2020	Truly Very Yours
+DR001134	JP	????	Tsuma o Intai Shimasu
 DR000070	TH	2026	Twenty One
 DR000368	PH	2022	Twinkle, Twinkle Little Star
 DR000931	TH	2023	Twins
