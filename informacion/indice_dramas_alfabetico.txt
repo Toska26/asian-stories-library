@@ -931,6 +931,7 @@ DR000967	TH	2024	The Hidden Moon
 DR000037	TH	2026	The Invisible Dragon
 DR000704	JP	2025	The Journey to Killing You
 DR000712	JP	2026	The Journey to Killing You Season 2 T2
+DR001140	JP	2026	The Kitchen of 16 Nights
 DR000605	CN	2026	The Last Oath
 DR000602	CN	2026	The Last Secret
 DR000989	TH	2025	The Last Time
