@@ -1,0 +1,89 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 7
+  },
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "duracion": 114,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001119",
+  "titulo": "Oishii Kyūshoku: Honō no Shūgakuryokō",
+  "tituloOriginal": "おいしい給食 炎の修学旅行",
+  "alias": [],
+  "anio": 2025,
+  "origen": null,
+  "temporada": null,
+  "episodios": null,
+  "estado": "finalizado",
+  "estreno": "2025-10-24",
+  "finalizacion": "2025-10-24",
+  "tags": [
+    "Película",
+    "Excursión escolar",
+    "Viaje",
+    "Aomori",
+    "Iwate",
+    "Hakodate",
+    "Almuerzo escolar",
+    "Gastronomía",
+    "Comedia",
+    "Años 90"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Misono Hitomi",
+      "persona": "PR001041",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsuburai Ken",
+      "persona": "PR001052",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "Durante una excursión escolar que lleva a Amarida Yukio y a sus alumnos desde Hakodate hacia Aomori e Iwate, la pasión del profesor por la comida vuelve a provocar situaciones inesperadas. Entre descubrimientos gastronómicos, desafíos y encuentros, el viaje se convierte en otra aventura alrededor del almuerzo escolar y de los vínculos que unen a docentes y estudiantes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NdJLrY_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
