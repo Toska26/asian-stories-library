@@ -11,9 +11,7 @@
   ],
   "anio": 2021,
   "tipo": "DR",
-  "serie": {
-    "codigo": "SR000789"
-  },
+  "serie": "SR000789",
   "temporadas": 2,
   "temporada": 2,
   "episodios": 5,
