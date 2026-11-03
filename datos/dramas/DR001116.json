@@ -1,0 +1,137 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 4
+  },
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "duracion": 104,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001116",
+  "titulo": "Gekijōban Oishii Kyūshoku: Sotsugyō",
+  "tituloOriginal": "劇場版 おいしい給食 卒業",
+  "alias": [],
+  "anio": 2022,
+  "origen": null,
+  "temporada": null,
+  "episodios": null,
+  "estado": "finalizado",
+  "estreno": "2022-05-13",
+  "finalizacion": "2022-05-13",
+  "tags": [
+    "Película",
+    "Graduación",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Comedia gastronómica",
+    "Instituto",
+    "Profesor",
+    "Estudiantes",
+    "Amistad",
+    "Nostalgia"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Munakata Sanae",
+      "persona": "PR001045",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinno Go",
+      "persona": "PR001040",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mano Kota",
+      "persona": "PR001046",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minagawa Sawako",
+      "persona": "PR001047",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kaburagi",
+      "persona": "PR001048",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oharu",
+      "persona": "PR001049",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minowa Kozo",
+      "persona": "PR001050",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "En 1986, Amarida Yukio está a cargo de una clase de tercer curso y, aunque se acercan los exámenes y la graduación, su mayor preocupación sigue siendo el menú escolar. Cuando se anuncia una reforma que amenaza el almuerzo que tanto ama, Amarida decide luchar para protegerlo. La película cierra la etapa iniciada en la segunda temporada y la relación entre el profesor y su rival, Jinno Go.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BPW8z_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
