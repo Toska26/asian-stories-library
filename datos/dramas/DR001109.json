@@ -76,7 +76,20 @@
       "principal": false
     }
   ],
-  "ships": [],
+  "ships": [
+    {
+      "personajes": [
+        "Kang Yi-ji",
+        "Han Seon-woo"
+      ]
+    },
+    {
+      "personajes": [
+        "Kang Yi-ji",
+        "Park Hyun-tae"
+      ]
+    }
+  ],
   "entidades": [],
   "especiales": [],
   "relaciones": [],
