@@ -114,7 +114,7 @@
       "principal": true
     },
     {
-      "nombre": "Wada",
+      "nombre": "Obata Kenichi",
       "persona": "PR001173",
       "funcion": [
         "Actor"
@@ -126,7 +126,13 @@
     {
       "personajes": [
         "Korogi Yusei",
-        "Marika"
+        "Odagiri Mai"
+      ]
+    },
+    {
+      "personajes": [
+        "Korogi Yusei",
+        "Uesugi Marika"
       ]
     }
   ],
