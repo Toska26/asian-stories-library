@@ -1,0 +1,166 @@
+{
+  "codigo": "DR001130",
+  "titulo": "Naked People",
+  "tituloOriginal": "はだかんぼうたち",
+  "alias": [
+    "Hadakabōtachi"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "anio": 2026,
+  "estreno": "2026-10-03",
+  "finalizacion": null,
+  "estado": "en_emision",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Relaciones complicadas",
+    "Triángulo amoroso",
+    "Infidelidad",
+    "Deseo",
+    "Matrimonio",
+    "Compromiso",
+    "Amistad",
+    "Soledad",
+    "Adulterio",
+    "Amor adulto"
+  ],
+  "personas": [
+    {
+      "nombre": "Sabazaki Ryo",
+      "persona": "PR001095",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsutsui Momo",
+      "persona": "PR001096",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ishiba Hiraku",
+      "persona": "PR001097",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hotta Kyoko",
+      "persona": "PR001160",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Narahashi Takumi",
+      "persona": "PR001163",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mizusaki Hazuki",
+      "persona": "PR001165",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ishiba Minako",
+      "persona": "PR001166",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hotta Hayato",
+      "persona": "PR001164",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsutsui Yo",
+      "persona": "PR001162",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsutsui Yuki",
+      "persona": "PR001161",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sabazaki Ryo",
+        "Tsutsui Momo"
+      ]
+    },
+    {
+      "personajes": [
+        "Tsutsui Momo",
+        "Ishiba Hiraku"
+      ]
+    },
+    {
+      "personajes": [
+        "Sabazaki Ryo",
+        "Hotta Kyoko"
+      ]
+    },
+    {
+      "personajes": [
+        "Hotta Kyoko",
+        "Hotta Hayato"
+      ]
+    }
+  ],
+  "entidades": [],
+  "relaciones": [],
+  "especiales": [],
+  "origen": null,
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAYnOA_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "sinopsis": "Ryo, un joven zapatero que se acerca sin reparos a las mujeres que despiertan su interés, conoce a Momo, una dentista comprometida con Hiraku. La relación entre ellos altera la vida cuidadosamente ordenada de Momo y acaba afectando también a Kyoko, la mejor amiga de esta, y a su matrimonio."
+}
