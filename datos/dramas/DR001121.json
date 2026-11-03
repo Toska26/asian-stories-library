@@ -1,0 +1,104 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001121",
+  "remake": null,
+  "temporadas": 5,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Gastronomía",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "alias": [],
+  "origen": null,
+  "especiales": [],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ro5P7_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/4aa/4aa6cce872668388d1a3187f047a7572.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "codigo": "DR001121",
+  "titulo": "Banshaku no Ryūgi",
+  "tituloOriginal": "晩酌の流儀",
+  "anio": 2022,
+  "temporada": 1,
+  "episodios": 8,
+  "estreno": "2022-07-01",
+  "finalizacion": "2022-08-19",
+  "estado": "finalizado",
+  "tags": [
+    "晩酌",
+    "Gastronomía",
+    "Comida japonesa",
+    "Cocina casera",
+    "Recetas",
+    "Vida cotidiana",
+    "Trabajo",
+    "Bienestar",
+    "Sauna",
+    "Ejercicio",
+    "Rituales",
+    "Amor por la comida"
+  ],
+  "personas": [
+    {
+      "nombre": "Izawa Miyuki",
+      "persona": "PR001063",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shimamura Naoto",
+      "persona": "PR001064",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tomikawa Aoi",
+      "persona": "PR001065",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Umino Jiro",
+      "persona": "PR001066",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ushiba",
+      "persona": "PR001067",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Miyuki Izawa trabaja como agente inmobiliaria y es una empleada muy valorada, pero su verdadera pasión comienza al terminar la jornada: conseguir que la bebida de su cena sea la más deliciosa posible. Para lograrlo, dedica su tiempo libre a preparar cuerpo y mente mediante actividades como la sauna, el ejercicio y las caminatas, antes de elegir y cocinar los mejores acompañamientos para su momento de relax."
+}
