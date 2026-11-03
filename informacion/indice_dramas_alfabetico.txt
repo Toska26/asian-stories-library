@@ -858,6 +858,9 @@ DR000375	PH	2023	Teach Me How
 DR001071	TH	2026	Teach Me, Touch Me
 DR000473	VN	2024	Teenager Judge
 DR000570	CN	2025	Ten Years of Silence
+DR001110	JP	2023	Tengu no Daidokoro
+DR001111	JP	2024	Tengu no Daidokoro Season 2 T2
+DR001112	JP	2026	Tengu no Daidokoro Season 3 T3
 DR000974	TH	2024	ThamePo: Heart That Skips a Beat
 DR000776	TH	2019	Thank God It's Friday
 DR000418	VN	2019	Thập Tứ Cô Nương
