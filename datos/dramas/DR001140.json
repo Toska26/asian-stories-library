@@ -1,0 +1,132 @@
+{
+  "codigo": "DR001140",
+  "bl": false,
+  "titulo": "The Kitchen of 16 Nights",
+  "tituloOriginal": "十六夜膳房",
+  "alias": [
+    "Izayoi Zenbō"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "十六夜膳房",
+    "tituloOriginal": "十六夜膳房",
+    "autor": "Mao Wu (毛無)",
+    "pais": "CN"
+  },
+  "temporadas": null,
+  "temporada": null,
+  "episodios": 11,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-12",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Gastronomía"
+  ],
+  "tags": [
+    "Sobrenatural",
+    "Vida después de la muerte",
+    "Inframundo",
+    "Mitología china",
+    "Cocina",
+    "Gastronomía",
+    "Restaurante",
+    "Almas",
+    "Reencarnación",
+    "Recuerdos",
+    "Arrepentimiento",
+    "Redención",
+    "Segundas oportunidades",
+    "Sanación emocional",
+    "Historias episódicas"
+  ],
+  "personas": [
+    {
+      "nombre": "Meng Po",
+      "persona": "PR001127",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuki",
+      "persona": "PR001128",
+      "funcion": [
+        "Actor de voz"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rey Yama",
+      "persona": "PR001129",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuro Wuchang n.º 1",
+      "persona": "PR001281",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuro Wuchang n.º 23",
+      "persona": "PR001282",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuro Wuchang n.º 3",
+      "persona": "PR001283",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuro Wuchang n.º 77",
+      "persona": "PR001284",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "En el límite entre el mundo de los vivos y el de los muertos se encuentra la Posada del Inframundo, un restaurante al que llegan las almas antes de partir hacia su siguiente vida. Allí, Meng Po, un misterioso cocinero, prepara para cada visitante el último plato que desea volver a probar: aquella comida que guarda los recuerdos más importantes de su existencia. A través de los sabores, los difuntos reviven sus alegrías, pérdidas, arrepentimientos y asuntos pendientes, mientras encuentran la oportunidad de reconciliarse con su pasado y marcharse en paz. Junto a Meng Po trabajan Yuki, una gata blanca que organiza el establecimiento, el peculiar Rey Yama y los Kuro Wuchang, antiguos difuntos encargados de guiar a las almas hasta el restaurante. Entre historias conmovedoras, secretos y vínculos que aún esperan resolverse, cada plato se convierte en una última oportunidad para completar una vida imperfecta.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zvB8dJ_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/6b9/6b9ff2319b3a1f076a994924fb764ee3.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
