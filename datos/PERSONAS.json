@@ -18924,7 +18924,7 @@
   {
     "codigo": "PR001063",
     "nombre": "Chiaki Kuriyama",
-    "nombreOriginal": "",
+    "nombreOriginal": "栗山千明",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -18940,7 +18940,7 @@
   {
     "codigo": "PR001064",
     "nombre": "Kohei Takeda",
-    "nombreOriginal": "",
+    "nombreOriginal": "武田航平",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -18956,7 +18956,7 @@
   {
     "codigo": "PR001065",
     "nombre": "Nagiko Tsuji",
-    "nombreOriginal": "",
+    "nombreOriginal": "辻凪子",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -18972,7 +18972,7 @@
   {
     "codigo": "PR001066",
     "nombre": "Hajime Okayama",
-    "nombreOriginal": "",
+    "nombreOriginal": "おかやまはじめ",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -18988,7 +18988,7 @@
   {
     "codigo": "PR001067",
     "nombre": "Hiroyuki Baba",
-    "nombreOriginal": "",
+    "nombreOriginal": "馬場裕之",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -19004,8 +19004,8 @@
   {
     "codigo": "PR001068",
     "nombre": "Mr. Chin",
-    "nombreOriginal": "",
-    "nombreArtistico": "",
+    "nombreOriginal": "ミスターちん",
+    "nombreArtistico": "ミスターちん",
     "alias": [],
     "pais": "JP",
     "idioma": "ja",
@@ -19020,7 +19020,7 @@
   {
     "codigo": "PR001069",
     "nombre": "Tomochika",
-    "nombreOriginal": "",
+    "nombreOriginal": "友近",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -19036,7 +19036,7 @@
   {
     "codigo": "PR001070",
     "nombre": "Nobuyuki Tsuchiya",
-    "nombreOriginal": "",
+    "nombreOriginal": "土屋伸之",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -19052,7 +19052,7 @@
   {
     "codigo": "PR001071",
     "nombre": "Kayoko Okubo",
-    "nombreOriginal": "",
+    "nombreOriginal": "大久保佳代子",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -19068,7 +19068,7 @@
   {
     "codigo": "PR001072",
     "nombre": "Yasufumi Motomiya",
-    "nombreOriginal": "",
+    "nombreOriginal": "本宮泰風",
     "nombreArtistico": "",
     "alias": [],
     "pais": "JP",
@@ -19084,9 +19084,11 @@
   {
     "codigo": "PR001073",
     "nombre": "Akira 100%",
-    "nombreOriginal": "",
-    "nombreArtistico": "",
-    "alias": [],
+    "nombreOriginal": "大橋彰",
+    "nombreArtistico": "アキラ100％",
+    "alias": [
+      "Akira Ohashi"
+    ],
     "pais": "JP",
     "idioma": "ja",
     "profesiones": [
@@ -19100,8 +19102,8 @@
   {
     "codigo": "PR001074",
     "nombre": "Tsurutaro Kataoka",
-    "nombreOriginal": "",
-    "nombreArtistico": "",
+    "nombreOriginal": "片岡鶴太郎",
+    "nombreArtistico": "片岡鶴太郎",
     "alias": [],
     "pais": "JP",
     "idioma": "ja",
