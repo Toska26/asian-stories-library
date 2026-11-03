@@ -1,0 +1,137 @@
+{
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "bl": false,
+  "franquicia": {
+    "codigo": "FR000051",
+    "orden": 3
+  },
+  "universo": null,
+  "serie": "SR001113",
+  "remake": null,
+  "temporadas": 4,
+  "duracion": 24,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Gastronomía",
+    "Escolar",
+    "Slice of Life"
+  ],
+  "ships": [],
+  "entidades": [],
+  "relaciones": [],
+  "activo": true,
+  "codigo": "DR001115",
+  "titulo": "Oishii Kyūshoku Season 2",
+  "tituloOriginal": "おいしい給食 season2",
+  "alias": [],
+  "anio": 2021,
+  "origen": null,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2021-10-13",
+  "finalizacion": "2021-12-15",
+  "tags": [
+    "Instituto",
+    "Almuerzo escolar",
+    "Comida japonesa",
+    "Años 80",
+    "1986",
+    "Competencia gastronómica",
+    "Profesor",
+    "Estudiantes",
+    "Nostalgia",
+    "Comedia escolar"
+  ],
+  "personas": [
+    {
+      "nombre": "Amarida Yukio",
+      "persona": "PR001038",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Munakata Sanae",
+      "persona": "PR001045",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jinno Go",
+      "persona": "PR001040",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mano Kota",
+      "persona": "PR001046",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Minagawa Sawako",
+      "persona": "PR001047",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Makino Fumie",
+      "persona": "PR001039",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kaburagi",
+      "persona": "PR001048",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oharu",
+      "persona": "PR001049",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minowa Kozo",
+      "persona": "PR001050",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [],
+  "sinopsis": "Tras los acontecimientos de la primera temporada, Amarida Yukio comienza una nueva etapa en otro centro educativo. Allí conoce a la profesora Munakata Sanae y a un nuevo grupo de alumnos, entre ellos Mano Kota, que comparte su entusiasmo por el almuerzo escolar. La rivalidad culinaria vuelve a llenar de humor cada jornada, mientras Amarida intenta proteger su secreto y defender su manera ideal de disfrutar la comida.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/xdJLz_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  }
+}
