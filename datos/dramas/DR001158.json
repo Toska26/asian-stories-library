@@ -1,0 +1,169 @@
+{
+  "codigo": "DR001158",
+  "bl": false,
+  "titulo": "Borders",
+  "tituloOriginal": "ボーダーズ",
+  "alias": [
+    "Borders: Keishicho Tokushu Jiken Taisakuhan",
+    "Tokyo Metropolitan Police Department Special Cases Unit"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Borders",
+    "tituloOriginal": "ボーダーズ",
+    "autor": "Shunichi Doba (堂場瞬一)",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 54,
+  "estado": "en_emision",
+  "estreno": "2026-10-16",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Policial",
+    "Crimen",
+    "Suspense"
+  ],
+  "tags": [
+    "Policía",
+    "Investigación policial",
+    "Unidad especial",
+    "Crimen organizado",
+    "Casos criminales",
+    "Investigaciones",
+    "Trabajo en equipo",
+    "Cooperación",
+    "Justicia",
+    "Resolución de casos",
+    "Habilidades especiales",
+    "Jerarquía policial",
+    "Conflictos institucionales",
+    "Suspense"
+  ],
+  "personas": [
+    {
+      "nombre": "Yuki Shinjiro",
+      "persona": "PR001312",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yagami Tasuku",
+      "persona": "PR001476",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Asahina Yu",
+      "persona": "PR001477",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mogami Kota",
+      "persona": "PR001269",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wataya Ryosuke",
+      "persona": "PR001478",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wataya Ryosuke",
+      "persona": "PR001479",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ogata Takumi",
+      "persona": "PR001480",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "persona": "PR001525",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001526",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001527",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001528",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001529",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001530",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Ante la creciente complejidad de los delitos y las limitaciones de una estructura policial dividida por departamentos, se crea la Unidad de Casos Especiales, conocida como SCU. Su equipo reúne a cinco profesionales con capacidades muy diferentes, que deberán superar las barreras internas de la organización para investigar crímenes que afectan a varias jurisdicciones. Bajo el liderazgo de Yuki Shinjiro, el grupo afrontará casos difíciles mientras sus integrantes aprenden a confiar unos en otros.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nKxDkW_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/ba1/ba1022548d8bc253f6dda3144cd11ede.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
