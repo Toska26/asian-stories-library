@@ -1410,4 +1410,17 @@
   {"codigo":"PR001409","nombre":"Ryosuke Yanagisawa","nombreOriginal":"柳沢凌介","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Director"],"multimedia":{"foto":[]},"activo":true},
   {"codigo":"PR001410","nombre":"Kazunari Hoshino","nombreOriginal":"星野和成","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Director"],"multimedia":{"foto":[]},"activo":true},
   {"codigo":"PR001411","nombre":"Takashi Hidaka","nombreOriginal":"日髙貴士","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Director"],"multimedia":{"foto":[]},"activo":true}
+,
+  {"codigo":"PR001412","nombre":"Kyoko Yoshine","nombreOriginal":"芳根京子","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001413","nombre":"Kyoya Honda","nombreOriginal":"本田響矢","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001414","nombre":"Maika Yamamoto","nombreOriginal":"山本舞香","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001415","nombre":"Yuta Koseki","nombreOriginal":"小関裕太","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001416","nombre":"Rio Komiya","nombreOriginal":"小宮璃央","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001417","nombre":"Miyu Sakihi","nombreOriginal":"咲妃みゆ","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001418","nombre":"Aya Ogawa","nombreOriginal":"小川彩","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001419","nombre":"Kanna Mori","nombreOriginal":"森カンナ","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001420","nombre":"Tsutomu Takahashi","nombreOriginal":"高橋努","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001421","nombre":"Mahiru Konno","nombreOriginal":"紺野まひる","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001422","nombre":"Emi Wakui","nombreOriginal":"和久井映見","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true},
+  {"codigo":"PR001423","nombre":"Erika Ikuta","nombreOriginal":"生田絵梨花","nombreArtistico":"","alias":[],"pais":"JP","idioma":"ja","profesiones":["Actor"],"multimedia":{"foto":[]},"activo":true}
 ]
