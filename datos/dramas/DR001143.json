@@ -1,0 +1,137 @@
+{
+  "codigo": "DR001143",
+  "bl": false,
+  "titulo": "Life Trade",
+  "tituloOriginal": "ライフトレード",
+  "alias": [],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "ライフトレード～主婦とキャバ嬢の交換人生～",
+    "tituloOriginal": "ライフトレード～主婦とキャバ嬢の交換人生～",
+    "autor": "Ikoma Sakura (生駒さくら) / Bohemian K (ボヘミアンK)",
+    "pais": "JP"
+  },
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": 24,
+  "estado": "en_emision",
+  "estreno": "2026-10-08",
+  "finalizacion": null,
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Intercambio de cuerpos",
+    "Intercambio de vidas",
+    "Cambio de identidad",
+    "Camarera de club nocturno",
+    "Ama de casa",
+    "Matrimonio",
+    "Abuso psicológico",
+    "Violencia doméstica",
+    "Madre e hija",
+    "Relaciones familiares",
+    "Familia disfuncional",
+    "Secretos",
+    "Diferencias sociales",
+    "Drama humano",
+    "Superación personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Kurose Anko",
+      "persona": "PR001136",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yashiro Rei",
+      "persona": "PR001137",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Niimi Kazuya",
+      "persona": "PR001299",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yashiro Soichi",
+      "persona": "PR001300",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kurose Maria",
+      "persona": "PR001301",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osada",
+      "persona": "PR001282",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Megumi",
+      "persona": "PR001302",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yashiro Kiko",
+      "persona": "PR001303",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Anko, una camarera de un club nocturno de carácter impulsivo que suele meterse en problemas, y Rei, una ama de casa que vive sometida a las exigencias de su marido y de su familia, llevan vidas completamente opuestas. Una noche, un rayo provoca que sus conciencias intercambien cuerpos. Obligadas a ocupar la vida de la otra, ambas tendrán que adaptarse a entornos desconocidos, enfrentarse a los conflictos familiares y laborales que antes no comprendían y descubrir los secretos que se esconden tras las apariencias. Este inesperado intercambio cambiará su forma de ver el mundo y les dará la oportunidad de replantearse sus propias vidas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/m0Bg13_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/277/27750161b72331d1b1cad81cf19f315b.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
