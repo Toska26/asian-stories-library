@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001171",
+  "bl": false,
+  "titulo": "You Alone Know Me",
+  "tituloOriginal": "舟寒知婳意",
+  "alias": [
+    "Zhou Han Zhi Hua Yi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 8,
+  "estado": "en_emision",
+  "estreno": "2026-10-28",
+  "finalizacion": "2026-11-07",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Xie Zhouhan",
+      "persona": "PR001590",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Hua",
+      "persona": "PR001591",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xie Zhouhan",
+        "Lin Hua"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Lin Hua, una joven adoptada que siempre ha confiado en su amor de la infancia, ve cómo este la abandona por dinero. Desesperada, acepta una propuesta poco habitual de su mejor amiga Xie Bao'er: casarse mediante un acuerdo con el padre de esta, Xie Zhouhan. Aunque al principio el matrimonio es solo un contrato, Xie Zhouhan comienza a protegerla y cuidarla de manera silenciosa. Poco a poco, Lin Hua descubre que los sentimientos de él tienen raíces mucho más profundas de lo que imaginaba.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0p54_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/1c3/1c3a4a56a38ea48299c2643a38de39c8.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
