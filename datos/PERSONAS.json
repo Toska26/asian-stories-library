@@ -27042,5 +27042,213 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001570",
+    "nombre": "Han Xiao Tao",
+    "nombreOriginal": "韩潇珧",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001571",
+    "nombre": "Jiang Chen",
+    "nombreOriginal": "姜晨",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001572",
+    "nombre": "Cheng Yao Ran",
+    "nombreOriginal": "程曜然",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001573",
+    "nombre": "Zhang Hao Chen",
+    "nombreOriginal": "张昊宸",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001574",
+    "nombre": "Fang Yu Song",
+    "nombreOriginal": "方屿崧",
+    "nombreArtistico": "Finn",
+    "alias": [
+      "Finn"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001575",
+    "nombre": "Liu Han Lin",
+    "nombreOriginal": "刘翰霖",
+    "nombreArtistico": "Henry",
+    "alias": [
+      "Henry"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001576",
+    "nombre": "Liu Shuo Lin",
+    "nombreOriginal": "刘烁临",
+    "nombreArtistico": "Silin",
+    "alias": [
+      "Silin"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001577",
+    "nombre": "Yang Han Zhi",
+    "nombreOriginal": "杨涵之",
+    "nombreArtistico": "Leon",
+    "alias": [
+      "Leon"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001578",
+    "nombre": "Lu Sen",
+    "nombreOriginal": "鹿森",
+    "nombreArtistico": "Lucian",
+    "alias": [
+      "Lucian"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001579",
+    "nombre": "Hu Shuo Ran",
+    "nombreOriginal": "胡烁然",
+    "nombreArtistico": "Blaze",
+    "alias": [
+      "Blaze"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001580",
+    "nombre": "Wu You Yu",
+    "nombreOriginal": "吴宥宇",
+    "nombreArtistico": "Terrell",
+    "alias": [
+      "Terrell"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001581",
+    "nombre": "Li Qing Yuan",
+    "nombreOriginal": "李清源",
+    "nombreArtistico": "Maris",
+    "alias": [
+      "Maris"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
