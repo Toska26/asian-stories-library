@@ -1,0 +1,153 @@
+{
+  "codigo": "DR001163",
+  "bl": false,
+  "titulo": "Devoted Love: Actually, the Strongest Hero",
+  "tituloOriginal": "溺愛 ～実は、最強ヒーロー～",
+  "alias": [
+    "Dekiai: Jitsu wa, Saikyō Hero"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-30",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Romance",
+    "Comedia romántica",
+    "Romance de oficina",
+    "Amor no correspondido",
+    "Amor secreto",
+    "Amor incondicional",
+    "Hombre más joven",
+    "Compañeros de trabajo",
+    "Relaciones laborales",
+    "Infidelidad",
+    "Acoso psicológico",
+    "Maltrato emocional",
+    "Triángulo amoroso",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Fujisaki Mashiro",
+      "persona": "PR001552",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Takahara Satsuki",
+      "persona": "PR001553",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aikawa Itsuki",
+      "persona": "PR001554",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoshizawa Kana",
+      "persona": "PR001555",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kawashima Yurika",
+      "persona": "PR001556",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Inoue Asami",
+      "persona": "PR001341",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001565",
+      "funcion": [
+        "Escritor"
+      ]
+    },
+    {
+      "persona": "PR001566",
+      "funcion": [
+        "Escritor"
+      ]
+    },
+    {
+      "persona": "PR001567",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001568",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001569",
+      "funcion": [
+        "Director"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fujisaki Mashiro",
+        "Takahara Satsuki"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Takahara Satsuki trabaja en el departamento de administración de una empresa y vive con Aikawa Itsuki, su novio y compañero de trabajo, con quien lleva una relación cada vez más difícil. Itsuki la trata con desprecio y, además, Satsuki descubre que mantiene una relación con una compañera más joven, Yoshizawa Kana. Cuando parece que todo se derrumba a su alrededor, Fujisaki Mashiro, un compañero más joven de su mismo departamento, acude en su ayuda. Mashiro le confiesa que lleva mucho tiempo enamorado de ella y que sus sentimientos son mucho más profundos de lo que Satsuki imaginaba. Mientras ella intenta superar la traición y recuperar la confianza en sí misma, Mashiro hará todo lo posible por protegerla y demostrarle un amor sincero e incondicional.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VBX0Ky_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
