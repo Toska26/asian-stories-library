@@ -39,15 +39,15 @@
   },
   "activo": true,
   "codigo": "DR001154",
-  "titulo": "Nami Uraraka ni, Meoto Biyori — Temporada 2",
+  "titulo": "Nami Uraraka ni, Meoto Biyori T2",
   "tituloOriginal": "波うららかに、めおと日和",
   "alias": [
     "Nami Uraraka ni, Meoto Biyori Season 2",
-    "Meoto Biyori 2"
+    "A Calm Sea and Beautiful Days with You Season 2"
   ],
   "anio": 2026,
   "temporada": 2,
-  "episodios": 10,
+  "episodios": null,
   "estado": "en_emision",
   "estreno": "2026-10-15",
   "finalizacion": null,
@@ -129,14 +129,6 @@
       "principal": false
     },
     {
-      "nombre": "Sakai Yoshiharu",
-      "persona": "PR001258",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Sekiya Harue",
       "persona": "PR001419",
       "funcion": [
@@ -161,7 +153,15 @@
       "principal": false
     },
     {
-      "nombre": "Katsudo Benshi",
+      "nombre": "Shibahara Ikuko",
+      "persona": "PR001422",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Benshi Katsudo",
       "persona": "PR001247",
       "funcion": [
         "Actor"
@@ -169,8 +169,8 @@
       "principal": false
     },
     {
-      "nombre": "Shibahara Ikuko",
-      "persona": "PR001422",
+      "nombre": "Sakai Yoshiharu",
+      "persona": "PR001258",
       "funcion": [
         "Actor"
       ],
