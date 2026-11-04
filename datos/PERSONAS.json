@@ -24706,5 +24706,357 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001424",
+    "nombre": "Park Eun-bin",
+    "nombreOriginal": "박은빈",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001425",
+    "nombre": "Kang Tae-oh",
+    "nombreOriginal": "강태오",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001426",
+    "nombre": "Kang Ki-young",
+    "nombreOriginal": "강기영",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001427",
+    "nombre": "Ha Yoon-kyung",
+    "nombreOriginal": "하윤경",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001428",
+    "nombre": "Jeon Bae-soo",
+    "nombreOriginal": "전배수",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001429",
+    "nombre": "Baek Ji-won",
+    "nombreOriginal": "백지원",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001430",
+    "nombre": "Jin Kyung",
+    "nombreOriginal": "진경",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001431",
+    "nombre": "Mana Ashida",
+    "nombreOriginal": "芦田愛菜",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001432",
+    "nombre": "Fumiya Takahashi",
+    "nombreOriginal": "高橋文哉",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001433",
+    "nombre": "Kanata Hosoda",
+    "nombreOriginal": "細田佳央太",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001434",
+    "nombre": "Shiori Kubo",
+    "nombreOriginal": "久保史緒里",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001435",
+    "nombre": "Rinka Kakihara",
+    "nombreOriginal": "柿原りんか",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001436",
+    "nombre": "Makiya Yamaguchi",
+    "nombreOriginal": "山口馬木也",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001437",
+    "nombre": "Kami Hiraiwa",
+    "nombreOriginal": "平岩紙",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001438",
+    "nombre": "Yoo In-sik",
+    "nombreOriginal": "유인식",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Director"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001439",
+    "nombre": "Moon Ji-won",
+    "nombreOriginal": "문지원",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Guionista"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001440",
+    "nombre": "Yoshishige Miyake",
+    "nombreOriginal": "三宅喜重",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Director"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001441",
+    "nombre": "Yūka Yasukawa",
+    "nombreOriginal": "安川有果",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Director"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001442",
+    "nombre": "Kōji Hora",
+    "nombreOriginal": "洞功二",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Director"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001443",
+    "nombre": "Hiroyuki Nakata",
+    "nombreOriginal": "中田博之",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Director"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001444",
+    "nombre": "Shigenori Tanabe",
+    "nombreOriginal": "田辺茂範",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Guionista"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001445",
+    "nombre": "Moral",
+    "nombreOriginal": "モラル",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Guionista"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
