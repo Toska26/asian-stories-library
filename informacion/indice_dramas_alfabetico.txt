@@ -20,6 +20,8 @@ DR000894	TH	2023	7 Days Before Valentine
 DR000839	TH	2021	7 Project
 DR000076	TH	2023	A Boss and a Babe
 DR000150	KR	2023	A Breeze of Love
+DR001152	JP	2025	A Calm Sea and Beautiful Days with You
+DR001154	JP	2026	A Calm Sea and Beautiful Days with You T2 T2
 DR000067	TH	2026	A Dog and a Plane
 DR001034	TH	2026	A Good Yesterday
 DR000533	CN	2023	A League of Nobleman
@@ -656,8 +658,6 @@ DR000364	PH	2022	Mystery of Love
 DR001017	TH	2025	Mystique in the Mirror
 DR000667	JP	2023	Naked Dining
 DR001130	JP	2026	Naked People
-DR001152	JP	2025	Nami Uraraka ni, Meoto Biyori
-DR001154	JP	2026	Nami Uraraka ni, Meoto Biyori T2 T2
 DR000440	VN	2020	Nation's Brother
 DR000042	TH	2023	Naughty Babe
 DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
