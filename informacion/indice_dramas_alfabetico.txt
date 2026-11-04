@@ -633,6 +633,7 @@ DR001046	TH	2026	My Grandpa Is a BL Writer
 DR000456	VN	2021	My Lascivious Boss
 DR000483	VN	2025	My Little Ghost
 DR000437	VN	2020	My Little Sister
+DR001170	CN	2026	My Loong
 DR000061	TH	2024	My Love Mix-Up!
 DR000639	JP	2021	My Love Mix-Up!
 DR000054	TH	2025	My Magic Prophecy
@@ -776,6 +777,7 @@ DR000705	JP	2025	Punks Triangle
 DR000804	TH	2020	Puppy Love
 DR000275	PH	2021	Quaranthings 2 T2
 DR000274	PH	2020	Quaranthings: The Series
+DR001168	CN	2026	Quite the Girl
 DR000861	TH	2022	Rainbow Lagoon
 DR000359	PH	2022	Rainbow Prince
 DR000852	TH	2022	Rak Diao
@@ -1038,6 +1040,7 @@ DR000377	PH	2023	Tie the Not
 DR000427	VN	2019	Tiến Bromance
 DR000429	VN	2020	Tiến Bromance: My Small Family T2
 DR000430	VN	2021	Tiến Bromance: My Small Family 2 T3
+DR001172	CN	2026	Tigers Sniff the Rose
 DR000336	PH	2021	Till Death Do Us Part
 DR000512	CN	2017	Till Death Tear Us Apart
 DR000607	CN	2026	Till I See You
@@ -1122,6 +1125,7 @@ DR000710	JP	2026	When It Rains, It Pours: Mellow Rain T2
 DR001051	TH	2026	When Light Fades
 DR001045	TH	2026	When Oranges Fall
 DR000387	PH	2024	Where I Found You
+DR001169	CN	2026	Where the Mask Ends
 DR000103	KR	2020	Where Your Eyes Linger
 DR000276	PH	2020	Why Love Why
 DR000277	PH	2021	Why Love Why Season 2 T2
@@ -1144,6 +1148,7 @@ DR000503	MY	2022	Wu Di in Love
 DR000191	KR	2026	Wuju Bakery
 DR000812	TH	2021	Y-Destiny
 DR001033	TH	2026	Yesterday
+DR001171	CN	2026	You Alone Know Me
 DR000452	VN	2021	You Are Ma Boy
 DR000012	TW	2023	You Are Mine
 DR000449	VN	2022	You Are My Stupid Boy T3
