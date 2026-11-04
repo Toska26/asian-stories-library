@@ -1,0 +1,156 @@
+{
+  "codigo": "DR001144",
+  "bl": false,
+  "titulo": "Welcome Back, First Love",
+  "tituloOriginal": "おかえり、初恋。",
+  "alias": [
+    "Okaeri, Hatsukoi."
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "おかえり、初恋。",
+    "tituloOriginal": "おかえり、初恋。",
+    "autor": "Kame Mizutora (かめみずとら)",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-08",
+  "finalizacion": null,
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Romance",
+    "Primer amor",
+    "Reencuentro",
+    "Reencuentro después de diez años",
+    "Amor de instituto",
+    "Antiguos compañeros de clase",
+    "Amor no correspondido",
+    "Amor secreto",
+    "Romance de oficina",
+    "Compañeros de trabajo",
+    "Relaciones laborales",
+    "Vida adulta",
+    "Diferencias entre pasado y presente",
+    "Recuerdos",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Taguchi Ryosuke",
+      "persona": "PR001138",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yamane Shiori",
+      "persona": "PR001103",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kashiwagi Kei",
+      "persona": "PR001139",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ohata Jun",
+      "persona": "PR001304",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yamane Nagisa",
+      "persona": "PR001234",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Inooka Taiki",
+      "persona": "PR001305",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Komori Tomo",
+      "persona": "PR001306",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nakahara Yoshikazu",
+      "persona": "PR001307",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nomoto Hironobu",
+      "persona": "PR001308",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Taguchi Ryosuke",
+        "Yamane Shiori"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Yamane Shiori lleva una vida tranquila como oficinista hasta que recibe una invitación a la reunión de antiguos alumnos de su instituto. Allí se reencuentra con Taguchi Ryosuke, el chico que fue su compañero solitario y un antiguo delincuente juvenil, al que no veía desde hacía diez años. Taguchi ha cambiado por completo: ahora es un hombre elegante, sereno y atractivo. El inesperado encuentro despierta recuerdos y sentimientos que ambos creían olvidados. Mientras vuelven a acercarse y descubren cuánto han cambiado sus vidas, un primer amor que parecía haber quedado atrás comienza a florecer de nuevo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dydbdq_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/014/014fc365a3197e74d7cd35e0cd7925d6.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
