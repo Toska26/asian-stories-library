@@ -1,0 +1,177 @@
+{
+  "codigo": "DR001155",
+  "bl": false,
+  "titulo": "Extraordinary Attorney Woo",
+  "tituloOriginal": "이상한 변호사 우영우",
+  "alias": [
+    "Iisanghan Byeonhosa Uyeongu",
+    "Extraordinary Lawyer Woo Young-woo"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2022,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001155",
+    "orden": 1
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 70,
+  "estado": "finalizado",
+  "estreno": "2022-06-29",
+  "finalizacion": "2022-08-18",
+  "generos": [
+    "Drama",
+    "Legal",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Abogados",
+    "Derecho",
+    "Bufete de abogados",
+    "Casos judiciales",
+    "Justicia",
+    "Autismo",
+    "Neurodivergencia",
+    "Inclusión",
+    "Discriminación",
+    "Prejuicios sociales",
+    "Superación personal",
+    "Crecimiento profesional",
+    "Amistad",
+    "Familia",
+    "Romance",
+    "Primer amor",
+    "Compañerismo",
+    "Ética profesional"
+  ],
+  "personas": [
+    {
+      "nombre": "Woo Young-woo",
+      "persona": "PR001424",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Joon-ho",
+      "persona": "PR001425",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jung Myung-seok",
+      "persona": "PR001426",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Choi Soo-yeon",
+      "persona": "PR001427",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Woo Gwang-ho",
+      "persona": "PR001428",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kwon Min-woo",
+      "persona": "PR000897",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dong Geu-ra-mi",
+      "persona": "PR001021",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Seon-young",
+      "persona": "PR001429",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tae Soo-mi",
+      "persona": "PR001430",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Min-sik",
+      "persona": "PR000966",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001438",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001439",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Woo Young-woo",
+        "Lee Joon-ho"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Woo Young-woo es una joven abogada con una memoria extraordinaria y una capacidad excepcional para encontrar soluciones originales. Al incorporarse al prestigioso bufete Hanbada, debe enfrentarse a casos complejos y a los prejuicios que encuentra por ser una persona autista. Con el apoyo de sus compañeros y de su familia, irá creciendo profesionalmente mientras descubre nuevas formas de relacionarse con quienes la rodean.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/dgJJz_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/29c/29c3fda370b6ebfff6005c6ed2a35ce2.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
