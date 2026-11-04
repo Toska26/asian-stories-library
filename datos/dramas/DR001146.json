@@ -28,16 +28,16 @@
     "Ética médica", "Superación personal", "Vida y muerte"
   ],
   "personas": [
-    {"nombre": "進藤一生", "persona": "PR001309", "funcion": ["Actor"], "principal": true},
-    {"nombre": "小島楓", "persona": "PR001310", "funcion": ["Actor"], "principal": true},
-    {"nombre": "桜井ゆき", "persona": "PR001311", "funcion": ["Actor"], "principal": true},
-    {"nombre": "落合雅人", "persona": "PR001312", "funcion": ["Actor"], "principal": true},
-    {"nombre": "堺慎一", "persona": "PR001186", "funcion": ["Actor"], "principal": true},
-    {"nombre": "菊池保", "persona": "PR001264", "funcion": ["Actor"], "principal": false},
-    {"nombre": "多田和彦", "persona": "PR001313", "funcion": ["Actor"], "principal": false},
-    {"nombre": "田尾ルリ子", "persona": "PR001314", "funcion": ["Actor"], "principal": false},
-    {"nombre": "五十嵐響子", "persona": "PR001315", "funcion": ["Actor"], "principal": false},
-    {"nombre": "神崎愛子", "persona": "PR001316", "funcion": ["Actor"], "principal": false},
+    {"nombre": "Shindo Issei", "persona": "PR001309", "funcion": ["Actor"], "principal": true},
+    {"nombre": "Kojima Kaede", "persona": "PR001310", "funcion": ["Actor"], "principal": true},
+    {"nombre": "Sakurai Yuki", "persona": "PR001311", "funcion": ["Actor"], "principal": true},
+    {"nombre": "Ochiai Masato", "persona": "PR001312", "funcion": ["Actor"], "principal": true},
+    {"nombre": "Sakai Shinichi", "persona": "PR001186", "funcion": ["Actor"], "principal": true},
+    {"nombre": "Kikuchi Tamotsu", "persona": "PR001264", "funcion": ["Actor"], "principal": false},
+    {"nombre": "Tada Kazuhiko", "persona": "PR001313", "funcion": ["Actor"], "principal": false},
+    {"nombre": "Tao Ruriko", "persona": "PR001314", "funcion": ["Actor"], "principal": false},
+    {"nombre": "Igarashi Kyoko", "persona": "PR001315", "funcion": ["Actor"], "principal": false},
+    {"nombre": "Kanzaki Aiko", "persona": "PR001316", "funcion": ["Actor"], "principal": false},
     {"persona": "PR001383", "funcion": ["Guionista"]}
   ],
   "ships": [
@@ -45,7 +45,7 @@
       "personajes": ["Ochiai Masato", "Igarashi Kyoko"],
       "multimedia": []
     }
-  ]
+  ],
   "entidades": [],
   "especiales": [
     {
