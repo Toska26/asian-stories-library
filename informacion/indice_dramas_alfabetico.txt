@@ -390,10 +390,10 @@ DR000789	TH	2020	I Told Sunset About You
 DR000055	TH	2026	I Will Always Save You
 DR000889	TH	2022	I Will Knock You
 DR000540	CN	2025	I’ll Turn Back This Time
-DR000493	HK	2024	I'm a Fool for You T4
-DR000497	HK	2022	I'm a Fool for You T3
 DR000499	HK	2021	I'm a Fool for You
 DR000500	HK	2021	I'm a Fool for You T2
+DR000497	HK	2022	I'm a Fool for You T3
+DR000493	HK	2024	I'm a Fool for You T4
 DR000722	JP	2026	I'm Kishi Knight: Your Private Tutor
 DR000049	TH	2020	I'm Tee, Me Too
 DR001012	TH	2025	I'm the Most Beautiful Count
@@ -656,6 +656,8 @@ DR000364	PH	2022	Mystery of Love
 DR001017	TH	2025	Mystique in the Mirror
 DR000667	JP	2023	Naked Dining
 DR001130	JP	2026	Naked People
+DR001152	JP	2025	Nami Uraraka ni, Meoto Biyori
+DR001154	JP	2026	Nami Uraraka ni, Meoto Biyori T2
 DR000440	VN	2020	Nation's Brother
 DR000042	TH	2023	Naughty Babe
 DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
@@ -1020,8 +1022,8 @@ DR000182	KR	2025	Tide of Love
 DR000183	KR	2026	Tide of Love 2 T2
 DR000377	PH	2023	Tie the Not
 DR000427	VN	2019	Tiến Bromance
-DR000429	VN	2020	Tiến Bromance: My Small Family T2
 DR000430	VN	2021	Tiến Bromance: My Small Family 2 T3
+DR000429	VN	2020	Tiến Bromance: My Small Family T2
 DR000336	PH	2021	Till Death Do Us Part
 DR000512	CN	2017	Till Death Tear Us Apart
 DR000607	CN	2026	Till I See You
