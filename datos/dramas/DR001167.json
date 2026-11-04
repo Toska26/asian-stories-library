@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001167",
+  "bl": false,
+  "titulo": "The Lament of Autumn",
+  "tituloOriginal": "玉簟秋",
+  "alias": [
+    "Yu Dian Qiu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Yu Dian Qiu",
+    "tituloOriginal": "玉簟秋",
+    "autor": "Ling Xi (灵希)"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-10-12",
+  "finalizacion": "2026-11-01",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Guerra"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Yu Changxuan",
+      "persona": "PR001582",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Pingjun",
+      "persona": "PR001583",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Changxuan",
+        "Ye Pingjun"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "En los turbulentos años de la República de China, Ye Pingjun, una joven estudiante que necesita dinero para pagar el tratamiento médico de su madre, comienza a trabajar en un local de reuniones en el oeste de Hunan. Allí se ve envuelta inesperadamente en un intento de asesinato contra Yu Changxuan, el quinto hijo de una poderosa familia, y termina acusada injustamente. Para demostrar su inocencia, acuerda con él un plazo de diez días para encontrar al verdadero culpable. Lo que comienza como una investigación acaba convirtiéndose en un complicado acercamiento entre ambos, mientras los secretos familiares y la guerra amenazan con separarlos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/AB8px3_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/a3c/a3cc79744b9531687efac69c127a109c.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
