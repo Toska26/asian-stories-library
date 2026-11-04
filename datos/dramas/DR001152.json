@@ -25,12 +25,22 @@
     "Comedia",
     "Histórico"
   ],
-  "ships": [],
+  "ships": [
+    {
+      "personajes": [
+        "Ochiai Masato",
+        "Igarashi Kyoko"
+      ],
+      "multimedia": []
+    }
+  ],
   "entidades": [],
   "especiales": [],
   "relaciones": [],
   "multimedia": {
-    "portada": ["https://i.mydramalist.com/3oA8b4_4f.jpg"],
+    "portada": [
+      "https://i.mydramalist.com/3oA8b4_4f.jpg"
+    ],
     "trailer": [],
     "teaser": [],
     "pilot": [],
