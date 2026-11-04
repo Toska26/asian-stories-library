@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001164",
+  "bl": true,
+  "titulo": "My Rival & Me",
+  "tituloOriginal": "对家和我",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "en_emision",
+  "estreno": "2026-10-30",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "I Ship My Rival X Me",
+    "tituloOriginal": "我嗑了对家X我的CP",
+    "autor": "PEPA"
+  },
+  "personas": [
+    {
+      "nombre": "Gu Yiliang",
+      "persona": "PR001570",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Yanzi",
+      "persona": "PR001571",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng Yan",
+      "persona": "PR001572",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhu Mingming",
+      "persona": "PR001573",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gu Yiliang",
+        "Wei Yanzi"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Cheng Yan",
+        "Zhu Mingming"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Gu Yiliang y Wei Yanzi son dos jóvenes actores que comenzaron sus carreras al mismo tiempo, pero que pronto fueron considerados rivales por sus seguidores. Mientras Gu Yiliang disfruta de una imagen de talento y reconocimiento, Wei Yanzi siente que siempre queda a su sombra. Todo cambia cuando Wei descubre una comunidad de fans dedicada a emparejarlos y empieza a interesarse por esa relación imaginaria. Lo que desconoce es que Gu Yiliang ya está enamorado de él, aunque, convencido de que Wei lo detesta, solo se atreve a observarlo desde la distancia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/m0O6j2_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/a72/a72fbdc03fde56aced63b34a97e6df0c.mp4"
+    ]
+  },
+  "activo": true
+}
