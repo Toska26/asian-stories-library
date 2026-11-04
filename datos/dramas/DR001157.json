@@ -1,0 +1,216 @@
+{
+  "codigo": "DR001157",
+  "bl": false,
+  "titulo": "Company Employee",
+  "tituloOriginal": "会社員",
+  "alias": [
+    "Kaishain"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-10-13",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "Vida laboral",
+    "Empresa",
+    "Oficina",
+    "Jerarquía corporativa",
+    "Política empresarial",
+    "Acoso laboral",
+    "Abuso de poder",
+    "Desigualdad de género",
+    "Ambición profesional",
+    "Ascenso laboral",
+    "Liderazgo femenino",
+    "Amenazas",
+    "Chantaje",
+    "Ética profesional",
+    "Dilemas morales",
+    "Corrupción",
+    "Justicia"
+  ],
+  "personas": [
+    {
+      "nombre": "Miyaki Eriko",
+      "persona": "PR001447",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saito Ruri",
+      "persona": "PR001448",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Terada Kazuki",
+      "persona": "PR001449",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yamagishi Hikaru",
+      "persona": "PR001450",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sakurai Kosuke",
+      "persona": "PR001451",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Igarashi Haruo",
+      "persona": "PR001452",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sasaki Yoshitaka",
+      "persona": "PR001453",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hayashi Kenji",
+      "persona": "PR001454",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Takahashi Yuki",
+      "persona": "PR001455",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoshioka Rin",
+      "persona": "PR001456",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Natsume",
+      "persona": "PR001457",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shojima Masanori",
+      "persona": "PR001458",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anzai Yoshiyuki",
+      "persona": "PR001459",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001514",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001515",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001516",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001517",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001518",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001519",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001520",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Miyaki Eriko es una empleada de 50 años que ha conseguido abrirse camino en una gran empresa dominada por hombres. Su próximo proyecto podría convertirla en una de las primeras mujeres en alcanzar un puesto en el consejo de administración. Sin embargo, cuando un subordinado le comunica que está sufriendo acoso laboral por parte de otro empleado, Eriko toma una decisión que compromete sus principios. Poco después recibe una amenaza anónima que pone en peligro su carrera y la estabilidad de la organización. Mientras intenta descubrir quién está detrás de ella, deberá enfrentarse a las injusticias y contradicciones del mundo corporativo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/gOy3Ld_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/d1c/d1cd0a8c9b28f58703a097d5a25534e3.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
