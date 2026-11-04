@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001165",
+  "bl": true,
+  "titulo": "Echo of a Letter",
+  "tituloOriginal": "等一封迴信",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-16",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "奇洛李维斯回信",
+    "tituloOriginal": "奇洛李维斯回信",
+    "autor": "Qingming Guyu"
+  },
+  "personas": [
+    {
+      "nombre": "Chen Wan",
+      "persona": "PR001574",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Shengge",
+      "persona": "PR001575",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tan Youming",
+      "persona": "PR001576",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Zhongnian",
+      "persona": "PR001577",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chen Wan",
+        "Zhao Shengge"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Chen Wan es un joven hábil para desenvolverse en los círculos sociales más influyentes, pero lleva mucho tiempo ocultando sus sentimientos por Zhao Shengge, el poderoso heredero de una familia acomodada. Cuando una oportunidad de negocio los reúne como socios, Zhao comienza a acercarse a Chen de manera inesperada. Entre sentimientos guardados, secretos familiares y nuevos desafíos, la distancia que Chen había mantenido cuidadosamente empieza a desaparecer.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q1Dr2_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/e2e/e2e34797871968f72f9588a3499daf1b.mp4"
+    ]
+  },
+  "activo": true
+}
