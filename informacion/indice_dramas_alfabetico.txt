@@ -444,6 +444,12 @@ DR001001	TH	2025	Knock Out
 DR001053	TH	2026	KNOT
 DR000304	PH	2020	Kumusta Bro?
 DR000305	PH	2022	Kumusta Bro? The Series T2
+DR001146	JP	1999	Kyūmei Byōtō 24-ji — Temporada 1
+DR001147	JP	2001	Kyūmei Byōtō 24-ji — Temporada 2 T2
+DR001148	JP	2005	Kyūmei Byōtō 24-ji — Temporada 3 T3
+DR001149	JP	2009	Kyūmei Byōtō 24-ji — Temporada 4 T4
+DR001150	JP	2013	Kyūmei Byōtō 24-ji — Temporada 5 T5
+DR001151	JP	2026	Kyūmei Byōtō 24-ji — Temporada 6 T6
 DR000226	TW	2017	La Boum
 DR000858	TH	2022	La Cuisine
 DR000910	TH	2023	La Pluie
