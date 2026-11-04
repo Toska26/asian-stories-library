@@ -1,0 +1,186 @@
+{
+  "codigo": "DR001156",
+  "bl": false,
+  "titulo": "Extraordinary Attorney Minami",
+  "tituloOriginal": "南田南弁護士は天才肌",
+  "alias": [
+    "Minamida Minami Bengoshi wa Tensaihada"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "RM001155",
+    "orden": 2
+  },
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 54,
+  "estado": "en_emision",
+  "estreno": "2026-10-19",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Legal",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Abogados",
+    "Derecho",
+    "Bufete de abogados",
+    "Casos judiciales",
+    "Justicia",
+    "Autismo",
+    "Neurodivergencia",
+    "Inclusión",
+    "Discriminación",
+    "Prejuicios sociales",
+    "Superación personal",
+    "Crecimiento profesional",
+    "Amistad",
+    "Familia",
+    "Romance",
+    "Primer amor",
+    "Compañerismo",
+    "Ética profesional",
+    "Adaptación japonesa",
+    "Remake"
+  ],
+  "personas": [
+    {
+      "nombre": "Minamida Minami",
+      "persona": "PR001431",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Funai Minato",
+      "persona": "PR001432",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Himi Takuma",
+      "persona": "PR001433",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Asahi Koharu",
+      "persona": "PR001434",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Enrii Ririi",
+      "persona": "PR001435",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miyaji Kengo",
+      "persona": "PR001436",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hirokawa Nagisa",
+      "persona": "PR001437",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Minamida Makoto",
+      "persona": "PR001030",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "persona": "PR001440",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001441",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001442",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001443",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001444",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001445",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Minamida Minami",
+        "Funai Minato"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Minamida Minami es una joven abogada con autismo que se graduó en Derecho en la Universidad de Tokio y superó el examen judicial con resultados sobresalientes. A pesar de su talento, los prejuicios dificultan que encuentre trabajo hasta que consigue entrar en el bufete Hirokawa & Howard. Allí deberá afrontar casos legales complejos, aprender a trabajar con sus compañeros y abrirse camino en una sociedad que no siempre comprende su manera de ver el mundo. En ese proceso, comienza a descubrir sentimientos nuevos hacia su compañero Funai Minato.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73oVQy_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/e9d/e9db2508797f0fd542868299c00e8091.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
