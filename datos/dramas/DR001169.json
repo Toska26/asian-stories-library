@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001169",
+  "bl": false,
+  "titulo": "Where the Mask Ends",
+  "tituloOriginal": "嫁金钗",
+  "alias": [
+    "Jia Jin Chai",
+    "Transfer Gold Hairpin"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Jia Jin Chai",
+    "tituloOriginal": "嫁金钗",
+    "autor": "Xiao Jia Ren (笑佳人)"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-10-16",
+  "finalizacion": "2026-11-03",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Ah Chou / Wei Rao",
+      "persona": "PR001586",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Zhuo",
+      "persona": "PR001587",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wei Rao",
+        "Lu Zhuo"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Ah Chou es una joven de origen humilde que trabaja recogiendo desechos durante la noche y está acostumbrada a sufrir desprecios. Su vida cambia cuando descubre que se parece extraordinariamente a Wei Rao, una joven noble. La familia de esta última aprovecha el parecido para conseguir que Ah Chou ocupe su lugar y se case con Lu Zhuo, heredero de una poderosa casa ducal que permanece en coma. Sin embargo, Lu Zhuo despierta inesperadamente la noche de bodas y desconfía de la mujer que cree que es su esposa. A partir de entonces, Ah Chou tendrá que desenvolverse entre intrigas familiares, identidades ocultas y rivalidades que amenazan con destruir su nueva vida.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjBNPp_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/f30/f30e13dda67413e38d9dec087e89d3ed.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
