@@ -3,17 +3,27 @@
   "bl": true,
   "titulo": "Tamed",
   "tituloOriginal": "驯养守则",
+  "alias": [],
   "pais": [
     "CN"
   ],
   "idioma": "zh",
   "anio": 2026,
   "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
   "temporadas": 1,
   "temporada": 1,
   "episodios": 12,
+  "duracion": null,
   "estado": "en_emision",
   "estreno": "2026-10-25",
+  "finalizacion": null,
+  "generos": [],
+  "tags": [],
   "personas": [
     {
       "nombre": "Cheng Yu'an",
@@ -64,6 +74,9 @@
       "multimedia": []
     }
   ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
   "sinopsis": "Cheng Yu'an es un abogado de éxito, reservado y acostumbrado a mantener sus emociones bajo control. Su vida cambia cuando Lin Qi, un joven artista optimista que atraviesa dificultades económicas, termina viviendo con él bajo un peculiar acuerdo de convivencia. Las reglas que deberían mantenerlos distanciados empiezan a romperse a medida que ambos se conocen y se acercan. Mientras Lin Qi intenta descubrir la verdad sobre la muerte de su padre, los secretos del pasado de Cheng Yu'an también comienzan a salir a la luz.",
   "multimedia": {
     "portada": [
