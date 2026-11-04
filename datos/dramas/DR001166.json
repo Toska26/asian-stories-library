@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001166",
+  "bl": true,
+  "titulo": "Tamed",
+  "tituloOriginal": "驯养守则",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "en_emision",
+  "estreno": "2026-10-25",
+  "personas": [
+    {
+      "nombre": "Cheng Yu'an",
+      "persona": "PR001578",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Qi",
+      "persona": "PR001579",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng Yuze",
+      "persona": "PR001580",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Mo",
+      "persona": "PR001581",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cheng Yu'an",
+        "Lin Qi"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Cheng Yuze",
+        "Shen Mo"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Cheng Yu'an es un abogado de éxito, reservado y acostumbrado a mantener sus emociones bajo control. Su vida cambia cuando Lin Qi, un joven artista optimista que atraviesa dificultades económicas, termina viviendo con él bajo un peculiar acuerdo de convivencia. Las reglas que deberían mantenerlos distanciados empiezan a romperse a medida que ambos se conocen y se acercan. Mientras Lin Qi intenta descubrir la verdad sobre la muerte de su padre, los secretos del pasado de Cheng Yu'an también comienzan a salir a la luz.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0ZB6_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/db7/db7c26161301a4e7bf1de14fe953edad.mp4"
+    ]
+  },
+  "activo": true
+}
