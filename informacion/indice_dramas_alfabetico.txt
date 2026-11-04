@@ -1083,6 +1083,7 @@ DR001142	JP	2026	We Who Told Lies
 DR000647	JP	2022	We're Both Grooms
 DR000016	TH	2023	Wedding Plan
 DR000065	TH	2026	WEIRDO-101
+DR001144	JP	2026	Welcome Back, First Love
 DR001099	KR	2026	What a Boss Wants
 DR000620	JP	2019	What Did You Eat Yesterday?
 DR000626	JP	2020	What Did You Eat Yesterday? New Year Special 2020
