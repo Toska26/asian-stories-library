@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001172",
+  "bl": false,
+  "titulo": "Tigers Sniff the Rose",
+  "tituloOriginal": "尚公主",
+  "alias": [
+    "Shang Gong Zhu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Shang Gong Zhu",
+    "tituloOriginal": "尚公主",
+    "autor": "Yi Ren Kui Kui (伊人睽睽)"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-10-23",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Mu Wanyao",
+      "persona": "PR001592",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yan Shang",
+      "persona": "PR001593",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mu Wanyao",
+        "Yan Shang"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Mu Wanyao, una princesa de carácter fuerte que no está dispuesta a aceptar el destino que otros han elegido para ella, conoce a Yan Shang, un joven de origen humilde con una inteligencia y unas ambiciones extraordinarias. A pesar de proceder de mundos muy diferentes, ambos comienzan a acercarse y a construir una relación que desafía las convenciones de su época. En medio de las intrigas políticas y los conflictos de una era turbulenta, lucharán juntos por sus ideales y por crear un futuro más justo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5QvNZ0_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/91e/91edf9918caf23ade612be8a563a676b.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
