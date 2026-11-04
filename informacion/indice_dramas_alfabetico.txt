@@ -251,6 +251,8 @@ DR000056	TH	2022	Even Sun
 DR000380	PH	2023	Ever After
 DR000936	TH	2024	Every You, Every Me
 DR000256	TW	2025	Exclusive Love
+DR001156	JP	2026	Extraordinary Attorney Minami
+DR001155	KR	2022	Extraordinary Attorney Woo
 DR000995	TH	2025	Eye Contact
 DR000883	TH	2022	Fahlanruk
 DR000728	JP	2026	Fake Fact Lips
