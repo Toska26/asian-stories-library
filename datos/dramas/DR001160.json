@@ -1,0 +1,208 @@
+{
+  "codigo": "DR001160",
+  "bl": false,
+  "titulo": "Brother, Sister",
+  "tituloOriginal": "あにいもうと",
+  "alias": [
+    "Ani Imōto"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 54,
+  "estado": "en_emision",
+  "estreno": "2026-10-17",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "tags": [
+    "Hospital",
+    "Medicina",
+    "Médicos",
+    "Enfermedad grave",
+    "Familia",
+    "Hermanos",
+    "Relaciones familiares",
+    "Amor prohibido",
+    "Amor imposible",
+    "Romance",
+    "Secretos familiares",
+    "Culpabilidad",
+    "Conflictos familiares",
+    "Drama médico",
+    "Suspense",
+    "Misterio",
+    "Sacrificio",
+    "Lealtad"
+  ],
+  "personas": [
+    {
+      "nombre": "Haruki Nao",
+      "persona": "PR001499",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sonoda Shuji",
+      "persona": "PR001500",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sonoda Eri",
+      "persona": "PR001501",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Haruki Ryosuke",
+      "persona": "PR001502",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saito Makoto",
+      "persona": "PR001258",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakaki Kaito",
+      "persona": "PR001503",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tanaka Rika",
+      "persona": "PR001051",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fujino Yoshiko",
+      "persona": "PR001302",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yamamoto Oshiro",
+      "persona": "PR001504",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kimura Yuko",
+      "persona": "PR001505",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sonoda Satoe",
+      "persona": "PR001506",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Haruki Reiko",
+      "persona": "PR001507",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sawabe Yuuji",
+      "persona": "PR001335",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001533",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001410",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001534",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001535",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Haruki Nao",
+        "Sonoda Shuji"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Haruki Nao es una médica que ha conseguido convertirse en doctora pese a las dificultades que le ha causado su hermano mayor. En el hospital conoce a Sonoda Shuji, un joven que trabaja sin descanso para mantener a su hermana Eri, ingresada con una enfermedad grave. Nao se convierte en la médica responsable de Eri y, aunque su primer encuentro con Shuji está marcado por un malentendido, poco a poco ambos desarrollan sentimientos. Su relación, nacida entre una doctora y el familiar de una paciente, se convierte en un amor difícil de aceptar y amenaza con sacar a la luz secretos y heridas del pasado. Mientras tanto, los conflictos de sus respectivas familias comienzan a entrelazarse.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAL4mK_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/899/8992d6a5100562f5e62a979f9ae772e0.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
