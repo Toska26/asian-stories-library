@@ -218,6 +218,7 @@ DR000598	CN	2026	Deep In
 DR000949	TH	2024	Deep Night
 DR000701	JP	2025	Depth of Field
 DR000903	TH	2023	Destiny Seeker
+DR001163	JP	2026	Devoted Love: Actually, the Strongest Hero
 DR000904	TH	2023	Dinosaur Love
 DR000582	CN	2025	Disguise Game
 DR000317	PH	2021	Diving Into Love
@@ -918,6 +919,7 @@ DR000835	TH	2021	The Best Story
 DR000780	TH	2019	The Best Twins
 DR000583	CN	2022	The Blood of Youth
 DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
+DR001162	JP	2026	The Blue Flowers and the Ceramic Forest
 DR001100	KR	2026	The Blue Road
 DR000730	JP	2026	The Boy and I Who Will Break Up in 100 Days
 DR000268	PH	2020	The Boy Foretold by the Stars
