@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001168",
+  "bl": false,
+  "titulo": "Quite the Girl",
+  "tituloOriginal": "好一个乖乖女",
+  "alias": [
+    "Hao Yi Ge Guai Guai Nü"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Hao Yi Ge Guai Guai Nü",
+    "tituloOriginal": "好一个乖乖女",
+    "autor": "Wo Sha Fei Ku Xin (我煞费苦心)"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 15,
+  "estado": "finalizado",
+  "estreno": "2026-10-12",
+  "finalizacion": "2026-10-30",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Lu Mingyu",
+      "persona": "PR001584",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Duan Xiuming",
+      "persona": "PR001585",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Mingyu",
+        "Duan Xiuming"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Lu Mingyu aparenta ser una joven obediente y delicada, pero en realidad ha desarrollado una personalidad astuta y decidida después de años de maltrato por parte de su tío. Cuando conoce a Duan Xiuming, heredero de una poderosa familia, decide utilizar su influencia para escapar de la situación en la que vive. Aunque al principio él solo es una herramienta para conseguir su libertad, Duan Xiuming termina convirtiéndose en su protector y aliado. Juntos se enfrentan a quienes han intentado controlar la vida de Lu Mingyu y la ayudan a recuperar el futuro que le arrebataron.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2wJR7_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/0b2/0b24b170565b7135fe2969a3034a4d80.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
