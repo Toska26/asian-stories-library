@@ -1,0 +1,238 @@
+{
+  "codigo": "DR001153",
+  "bl": false,
+  "titulo": "Iroha's Love Crosses Time",
+  "tituloOriginal": "いろはの恋は時代をかける",
+  "alias": [
+    "Iroha no Koi wa Toki o Kakeru"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 57,
+  "estado": "en_emision",
+  "estreno": "2026-10-13",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Viajes en el tiempo",
+    "Periodo Edo",
+    "Época moderna",
+    "Cambio de época",
+    "Posesión",
+    "Cambio de identidad",
+    "Profesores",
+    "Escuela",
+    "Educación",
+    "Comedia romántica",
+    "Amor",
+    "Amor entre épocas",
+    "Choque cultural",
+    "Vida cotidiana",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Iroha / Nashiki Ayaha",
+      "persona": "PR001460",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ichinose Ikuru",
+      "persona": "PR001461",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Majima Reiji",
+      "persona": "PR001462",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seki Takakazu / Sano Renji",
+      "persona": "PR001463",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saeki Rinka",
+      "persona": "PR001464",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Akutsu Miho",
+      "persona": "PR001465",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ichinose Saya",
+      "persona": "PR001466",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nose Yuko",
+      "persona": "PR001467",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matsuda Koichiro",
+      "persona": "PR001468",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nakamura Ryoko",
+      "persona": "PR001098",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tsukamoto Sayaka",
+      "persona": "PR001469",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Konishi Yuto",
+      "persona": "PR001470",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Suzuki Takuma",
+      "persona": "PR001471",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakurai Manami",
+      "persona": "PR001472",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Takayama Yui",
+      "persona": "PR001473",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kamiya Hiroki",
+      "persona": "PR001474",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yano Azusa",
+      "persona": "PR001475",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001521",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001522",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001523",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001524",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Iroha",
+        "Ichinose Ikuru"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Iroha es una joven que vivió durante el periodo Edo y que, de forma inexplicable, llega al presente al ocupar el cuerpo de Nashiki Ayaha, una profesora de primaria de la época actual. En esta nueva vida debe adaptarse a una sociedad completamente distinta, a las costumbres modernas y al trabajo en una escuela. Allí conoce a Ichinose Ikuru, un profesor que atraviesa sus propias dificultades y cuya vida cambia con la llegada de esta mujer de otra época. Entre situaciones cómicas, diferencias culturales y sentimientos inesperados, ambos comienzan a construir un vínculo que desafía las barreras del tiempo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DydKEo_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/f19/f19346a09e58f197a731f3c062aeef4b.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
