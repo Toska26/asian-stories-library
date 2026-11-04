@@ -3,17 +3,17 @@
   "bl": true,
   "titulo": "My Rival & Me",
   "tituloOriginal": "对家和我",
+  "alias": [],
   "pais": [
     "CN"
   ],
   "idioma": "zh",
   "anio": 2026,
   "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 12,
-  "estado": "en_emision",
-  "estreno": "2026-10-30",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
   "origen": {
     "tipo": "Novela",
     "relacion": "Adaptación",
@@ -21,6 +21,15 @@
     "tituloOriginal": "我嗑了对家X我的CP",
     "autor": "PEPA"
   },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "en_emision",
+  "estreno": "2026-10-30",
+  "finalizacion": null,
+  "generos": [],
+  "tags": [],
   "personas": [
     {
       "nombre": "Gu Yiliang",
@@ -71,6 +80,9 @@
       "multimedia": []
     }
   ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
   "sinopsis": "Gu Yiliang y Wei Yanzi son dos jóvenes actores que comenzaron sus carreras al mismo tiempo, pero que pronto fueron considerados rivales por sus seguidores. Mientras Gu Yiliang disfruta de una imagen de talento y reconocimiento, Wei Yanzi siente que siempre queda a su sombra. Todo cambia cuando Wei descubre una comunidad de fans dedicada a emparejarlos y empieza a interesarse por esa relación imaginaria. Lo que desconoce es que Gu Yiliang ya está enamorado de él, aunque, convencido de que Wei lo detesta, solo se atreve a observarlo desde la distancia.",
   "multimedia": {
     "portada": [
