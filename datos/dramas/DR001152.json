@@ -1,0 +1,178 @@
+{
+  "bl": false,
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001152",
+  "remake": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Nami Uraraka ni, Meoto Biyori",
+    "tituloOriginal": "波うららかに、めおと日和",
+    "autor": "Nishiga Hachi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "duracion": 54,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Histórico"
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "multimedia": {
+    "portada": [],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true,
+  "codigo": "DR001152",
+  "titulo": "Nami Uraraka ni, Meoto Biyori — Temporada 1",
+  "tituloOriginal": "波うららかに、めおと日和",
+  "alias": [
+    "Nami Uraraka ni, Meoto Biyori",
+    "A Calm Sea and Beautiful Days with You"
+  ],
+  "anio": 2025,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2025-04-24",
+  "finalizacion": "2025-06-26",
+  "tags": [
+    "Matrimonio concertado",
+    "Matrimonio de conveniencia",
+    "Recién casados",
+    "Romance histórico",
+    "Comedia romántica",
+    "Vida cotidiana",
+    "Familia",
+    "Amor gradual",
+    "Primer amor",
+    "Comunicación",
+    "Malentendidos",
+    "Era Shōwa",
+    "Década de 1930",
+    "Japón de preguerra",
+    "Armada Imperial Japonesa"
+  ],
+  "personas": [
+    {
+      "nombre": "Ebata Natsumi",
+      "persona": "PR001412",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ebata Takimasa",
+      "persona": "PR001413",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoshimori Fumiko",
+      "persona": "PR001414",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fukami Ryunosuke",
+      "persona": "PR001415",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seta Juntaro",
+      "persona": "PR001416",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Akina",
+      "persona": "PR001417",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Fuyuko",
+      "persona": "PR001418",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakai Yoshiharu",
+      "persona": "PR001258",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Harue",
+      "persona": "PR001419",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Tokuzo",
+      "persona": "PR001420",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Satsuki",
+      "persona": "PR001421",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katsudo Benshi",
+      "persona": "PR001247",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shibahara Ikuko",
+      "persona": "PR001422",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En la primavera de 1936, Natsumi Sekiya recibe de improviso la noticia de que su familia ha concertado su matrimonio con Takimasa Ebata, un joven oficial de la Armada Imperial Japonesa al que apenas conoce. El día de la boda, Takimasa no puede asistir debido a sus obligaciones militares y Natsumi debe comenzar su nueva vida esperando a su marido en casa de sus superiores. Cuando por fin se reúnen, ambos descubren lo difícil que resulta convivir con alguien prácticamente desconocido. A través de pequeños gestos, conversaciones torpes y experiencias cotidianas, la pareja irá construyendo una relación afectuosa y aprendiendo a compartir su vida como recién casados."
+}
