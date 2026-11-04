@@ -30,8 +30,12 @@
   "especiales": [],
   "relaciones": [],
   "multimedia": {
-    "portada": ["https://i.mydramalist.com/nKxJ7E_4f.jpg"],
-    "trailer": ["https://v.mydramalist.com/75e/75e889ffb4c956022354ba317a6626ed.mp4"],
+    "portada": [
+      "https://i.mydramalist.com/nKxJ7E_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/75e/75e889ffb4c956022354ba317a6626ed.mp4"
+    ],
     "teaser": [],
     "pilot": [],
     "ost": [],
@@ -39,11 +43,11 @@
   },
   "activo": true,
   "codigo": "DR001154",
-  "titulo": "Nami Uraraka ni, Meoto Biyori T2",
+  "titulo": "A Calm Sea and Beautiful Days with You T2",
   "tituloOriginal": "波うららかに、めおと日和",
   "alias": [
-    "Nami Uraraka ni, Meoto Biyori Season 2",
-    "A Calm Sea and Beautiful Days with You Season 2"
+    "Nami Uraraka ni, Meoto Biyori",
+    "Nami Uraraka ni, Meoto Biyori Season 2"
   ],
   "anio": 2026,
   "temporada": 2,
