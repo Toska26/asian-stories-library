@@ -1,0 +1,160 @@
+{
+  "codigo": "DR001161",
+  "bl": false,
+  "titulo": "SQUALL",
+  "tituloOriginal": "スコール",
+  "alias": [],
+  "pais": [
+    "JP",
+    "SG"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-18",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio"
+  ],
+  "tags": [
+    "Amnesia",
+    "Pérdida de memoria",
+    "Recuerdos",
+    "Secretos del pasado",
+    "Segundas oportunidades",
+    "Triángulo amoroso",
+    "Amor",
+    "Prometidos",
+    "Reencuentros",
+    "Artistas",
+    "Pintura",
+    "Arte",
+    "Singapur",
+    "Relaciones internacionales",
+    "Viajes",
+    "Accidentes",
+    "Llaves",
+    "Misterio",
+    "Parque de animales",
+    "Cafetería"
+  ],
+  "personas": [
+    {
+      "nombre": "Kashiwagi Sakura",
+      "persona": "PR001508",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nishikido Eita",
+      "persona": "PR001509",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Teh Wei Lun",
+      "persona": "PR001510",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sasahara Natsume",
+      "persona": "PR001511",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tan Rei",
+      "persona": "PR001512",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiufan",
+      "persona": "PR001513",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001536",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001537",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001538",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001539",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kashiwagi Sakura",
+        "Nishikido Eita"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Kashiwagi Sakura",
+        "Teh Wei Lun"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Kashiwagi Sakura ha perdido los recuerdos de los últimos cuatro años de su vida. Tras mudarse a Singapur junto a su prometido, Nishikido Eita, comienza una nueva etapa trabajando como guía en un parque de animales. Sin embargo, una antigua llave marcada con el número 203 despierta preguntas sobre su pasado. Un día, durante un fuerte chaparrón en el barrio de Katong, conoce a Teh Wei Lun, un artista singapurense que también parece tener recuerdos perdidos. Aunque se supone que nunca se habían encontrado, ambos sienten una conexión inexplicable. Mientras Sakura intenta reconstruir su memoria, las relaciones entre ella, Eita y Lun se vuelven cada vez más complejas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Ar3rq4_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/3b5/3b5d6aa33dd9aa950e99e851fc930d35.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
