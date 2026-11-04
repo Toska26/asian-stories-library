@@ -1,0 +1,181 @@
+{
+  "bl": false,
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001152",
+  "remake": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Nami Uraraka ni, Meoto Biyori",
+    "tituloOriginal": "波うららかに、めおと日和",
+    "autor": "Nishiga Hachi",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "duracion": 54,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Histórico"
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "multimedia": {
+    "portada": [],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true,
+  "codigo": "DR001154",
+  "titulo": "Nami Uraraka ni, Meoto Biyori — Temporada 2",
+  "tituloOriginal": "波うららかに、めおと日和",
+  "alias": [
+    "Nami Uraraka ni, Meoto Biyori Season 2",
+    "Meoto Biyori 2"
+  ],
+  "anio": 2026,
+  "temporada": 2,
+  "episodios": 10,
+  "estado": "en_emision",
+  "estreno": "2026-10-15",
+  "finalizacion": null,
+  "tags": [
+    "Matrimonio concertado",
+    "Matrimonio de conveniencia",
+    "Recién casados",
+    "Romance histórico",
+    "Comedia romántica",
+    "Vida cotidiana",
+    "Familia",
+    "Amor gradual",
+    "Primer amor",
+    "Comunicación",
+    "Malentendidos",
+    "Era Shōwa",
+    "Década de 1930",
+    "Japón de preguerra",
+    "Armada Imperial Japonesa",
+    "Segundo año de matrimonio",
+    "Cambios sociales",
+    "Tensión bélica"
+  ],
+  "personas": [
+    {
+      "nombre": "Ebata Natsumi",
+      "persona": "PR001412",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ebata Takimasa",
+      "persona": "PR001413",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fukami Fumiko",
+      "persona": "PR001423",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fukami Ryunosuke",
+      "persona": "PR001415",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seta Juntaro",
+      "persona": "PR001416",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Akina",
+      "persona": "PR001417",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Fuyuko",
+      "persona": "PR001418",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sakai Yoshiharu",
+      "persona": "PR001258",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Harue",
+      "persona": "PR001419",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Tokuzo",
+      "persona": "PR001420",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiya Satsuki",
+      "persona": "PR001421",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katsudo Benshi",
+      "persona": "PR001247",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shibahara Ikuko",
+      "persona": "PR001422",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En 1937, Natsumi y Takimasa afrontan su segundo año de matrimonio y continúan descubriendo nuevas formas de expresar el cariño que sienten el uno por el otro. Mientras su vida doméstica se llena de pequeños momentos felices, las relaciones con sus familiares y amigos también evolucionan: Fumiko y Ryunosuke comienzan una nueva etapa juntos y la familia Sekiya vive sus propios cambios. Sin embargo, la creciente tensión de la época y las obligaciones de Takimasa en la Armada empiezan a proyectar una sombra sobre la tranquilidad de su hogar."
+}
