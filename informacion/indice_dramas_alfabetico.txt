@@ -459,6 +459,7 @@ DR001020	TH	2025	Let Me Into Your Heart
 DR000245	TW	2024	Let's Talk About Chu
 DR000479	VN	2025	Life Gives Us Sadness
 DR000727	JP	2026	Life in Smokey Blue
+DR001143	JP	2026	Life Trade
 DR001106	JP	2021	Life's Punchline
 DR000623	JP	2020	Life~Love on the Line
 DR000111	KR	2021	Light on Me
