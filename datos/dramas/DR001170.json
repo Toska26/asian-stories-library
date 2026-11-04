@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001170",
+  "bl": false,
+  "titulo": "My Loong",
+  "tituloOriginal": "予苍龙",
+  "alias": [
+    "Yu Cang Long"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 17,
+  "estado": "finalizado",
+  "estreno": "2026-10-22",
+  "finalizacion": "2026-10-29",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "tags": [],
+  "personas": [
+    {
+      "nombre": "Yue Wangshu",
+      "persona": "PR001588",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Zhi",
+      "persona": "PR001589",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yue Wangshu",
+        "Li Zhi"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Yue Wangshu, hija de una familia militar, es ofrecida como sacrificio al Abismo del Dragón. Allí libera accidentalmente a Li Zhi, el Señor Dragón, y ambos comienzan una relación marcada por la desconfianza y los intereses enfrentados. Para contener el Fuego Li, acuerdan colaborar: ella utilizará el poder del dragón para enfrentarse a las conspiraciones de su familia y del príncipe Qi, mientras él empieza a comprender los sentimientos humanos. Lo que comienza como una alianza termina convirtiéndose en una historia de amor que cambiará el destino de ambos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/7r3bQB_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/bd3/bd3cd01c42224fff838a74ccf727e1c7.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
