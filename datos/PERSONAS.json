@@ -27250,5 +27250,197 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001582",
+    "nombre": "Cheng Lei",
+    "nombreOriginal": "丞磊",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001583",
+    "nombre": "Xu Ruohan",
+    "nombreOriginal": "徐若晗",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001584",
+    "nombre": "Xu Mengjie",
+    "nombreOriginal": "徐梦洁",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001585",
+    "nombre": "Ren Shihao",
+    "nombreOriginal": "任世豪",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001586",
+    "nombre": "Tian Xiwei",
+    "nombreOriginal": "田曦薇",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001587",
+    "nombre": "Yan An",
+    "nombreOriginal": "闫桉",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001588",
+    "nombre": "Hu Lianxin",
+    "nombreOriginal": "胡连馨",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001589",
+    "nombre": "Li Wenhan",
+    "nombreOriginal": "李汶翰",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001590",
+    "nombre": "Zhao Tingyi",
+    "nombreOriginal": "赵廷义",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001591",
+    "nombre": "Liang Wenjing",
+    "nombreOriginal": "梁雯晶",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001592",
+    "nombre": "Meng Ziyi",
+    "nombreOriginal": "孟子义",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001593",
+    "nombre": "Li Yunrui",
+    "nombreOriginal": "李昀锐",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
