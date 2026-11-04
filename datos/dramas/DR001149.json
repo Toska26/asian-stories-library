@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001149",
+  "bl": false,
+  "titulo": "Kyūmei Byōtō 24-ji — Temporada 4",
+  "tituloOriginal": "救命病棟24時 第4シリーズ",
+  "alias": ["Emergency Room 24 Hours 4"],
+  "pais": ["JP"],
+  "idioma": "ja",
+  "anio": 2009,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001146",
+  "remake": null,
+  "origen": null,
+  "temporadas": 6,
+  "temporada": 4,
+  "episodios": 7,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "2009-08-11",
+  "finalizacion": "2009-09-22",
+  "generos": ["Drama", "Médico"],
+  "tags": [
+    "Medicina", "Hospital", "Urgencias", "Emergencias médicas",
+    "Crisis sanitaria", "Escasez de personal", "Falta de recursos",
+    "Médicos", "Enfermería", "Residentes", "Errores médicos",
+    "Responsabilidad profesional", "Ética médica",
+    "Trabajo en equipo", "Presión laboral", "Vida y muerte"
+  ],
+  "personas": [
+    {"nombre": "進藤一生", "persona": "PR001309", "funcion": ["Actor"], "principal": true},
+    {"nombre": "小島楓", "persona": "PR001310", "funcion": ["Actor"], "principal": true},
+    {"nombre": "山城紗江子", "persona": "PR001336", "funcion": ["Actor"], "principal": true},
+    {"nombre": "鴨井千夏", "persona": "PR001187", "funcion": ["Actor"], "principal": true},
+    {"nombre": "花輪勝司", "persona": "PR001337", "funcion": ["Actor"], "principal": false},
+    {"nombre": "横溝静香", "persona": "PR001338", "funcion": ["Actor"], "principal": false},
+    {"nombre": "工藤亮介", "persona": "PR001339", "funcion": ["Actor"], "principal": false},
+    {"nombre": "丹原博嗣", "persona": "PR001340", "funcion": ["Actor"], "principal": false},
+    {"nombre": "坂口理絵", "persona": "PR001341", "funcion": ["Actor"], "principal": false},
+    {"nombre": "野口昭光", "persona": "PR001342", "funcion": ["Actor"], "principal": false},
+    {"nombre": "堀田明子", "persona": "PR001343", "funcion": ["Actor"], "principal": false},
+    {"nombre": "佐伯透", "persona": "PR001344", "funcion": ["Actor"], "principal": false},
+    {"nombre": "澤井悦司", "persona": "PR001345", "funcion": ["Actor"], "principal": true},
+    {"persona": "PR001389", "funcion": ["Guionista"]},
+    {"persona": "PR001391", "funcion": ["Guionista"]},
+    {"persona": "PR001404", "funcion": ["Director"]},
+    {"persona": "PR001405", "funcion": ["Director"]}
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [
+    {
+      "titulo": "Kyūmei Byōtō 24-ji: Emergency Special – Kyūmei-i Kojima Kaede",
+      "tituloOriginal": "緊急スペシャル 救命病棟24時〜救命医・小島楓〜",
+      "fecha": "2009-07-14",
+      "tipo": "Especial",
+      "partes": [
+        {"titulo": "Shinsaku! Unmei no Saikai – Yomigaeru Kenshūi Jidai", "fecha": "2009-07-14"},
+        {"titulo": "Shinrai no Tomo to Tsunagu Inochi – Dai 1 Series Kōhen", "fecha": "2009-07-21"},
+        {"titulo": "Kyōfu no Gairai Kanja!? – Dai 2 Series Sōshūhen", "fecha": "2009-07-28"},
+        {"titulo": "Semaru! Saidai no Kiki – Dai 3 Series Tokubetsuhen", "fecha": "2009-08-04"}
+      ]
+    },
+    {
+      "titulo": "Kyūmei Byōtō 24-ji – 2010 Special",
+      "tituloOriginal": "救命病棟24時 2010スペシャル",
+      "fecha": "2010-01-03",
+      "tipo": "Especial"
+    }
+  ],
+  "relaciones": [],
+  "sinopsis": "Issei Shindo y Kaede Kojima vuelven a encontrarse en un sistema sanitario cada vez más debilitado. La falta de médicos, la escasez de camas, la saturación de las urgencias y los conflictos derivados de los errores médicos amenazan el funcionamiento del centro. En medio de una plantilla agotada y desmotivada, ambos deberán recuperar la confianza en su trabajo y demostrar que todavía es posible ofrecer una atención digna a quienes necesitan ayuda.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/wPORJ_4f.jpg"],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
