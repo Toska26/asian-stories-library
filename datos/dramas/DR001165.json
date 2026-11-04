@@ -3,18 +3,17 @@
   "bl": true,
   "titulo": "Echo of a Letter",
   "tituloOriginal": "等一封迴信",
+  "alias": [],
   "pais": [
     "CN"
   ],
   "idioma": "zh",
   "anio": 2026,
   "tipo": "DR",
-  "temporadas": 1,
-  "temporada": 1,
-  "episodios": 14,
-  "duracion": 30,
-  "estado": "en_emision",
-  "estreno": "2026-10-16",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
   "origen": {
     "tipo": "Novela",
     "relacion": "Adaptación",
@@ -22,6 +21,15 @@
     "tituloOriginal": "奇洛李维斯回信",
     "autor": "Qingming Guyu"
   },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-16",
+  "finalizacion": null,
+  "generos": [],
+  "tags": [],
   "personas": [
     {
       "nombre": "Chen Wan",
@@ -65,6 +73,9 @@
       "multimedia": []
     }
   ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
   "sinopsis": "Chen Wan es un joven hábil para desenvolverse en los círculos sociales más influyentes, pero lleva mucho tiempo ocultando sus sentimientos por Zhao Shengge, el poderoso heredero de una familia acomodada. Cuando una oportunidad de negocio los reúne como socios, Zhao comienza a acercarse a Chen de manera inesperada. Entre sentimientos guardados, secretos familiares y nuevos desafíos, la distancia que Chen había mantenido cuidadosamente empieza a desaparecer.",
   "multimedia": {
     "portada": [
