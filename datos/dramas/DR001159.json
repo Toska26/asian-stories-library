@@ -1,0 +1,235 @@
+{
+  "codigo": "DR001159",
+  "bl": false,
+  "titulo": "LOST10",
+  "tituloOriginal": "LOST10",
+  "alias": [],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": null,
+  "duracion": 54,
+  "estado": "en_emision",
+  "estreno": "2026-10-16",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Misterio"
+  ],
+  "tags": [
+    "Accidente de montaña",
+    "Desapariciones",
+    "Supervivencia",
+    "Rescate",
+    "Hokkaido",
+    "Investigación policial",
+    "Investigación de seguros",
+    "Detectives",
+    "Misterio",
+    "Testimonios contradictorios",
+    "Secretos",
+    "Mentiras",
+    "Traición",
+    "Corrupción",
+    "Poder",
+    "Justicia",
+    "Trabajo en equipo",
+    "Amistad",
+    "Verdad"
+  ],
+  "personas": [
+    {
+      "nombre": "Ogoma",
+      "persona": "PR001481",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nao",
+      "persona": "PR001325",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aya",
+      "persona": "PR001482",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tabata",
+      "persona": "PR001483",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yoshino",
+      "persona": "PR001484",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Awashima",
+      "persona": "PR001485",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nobori",
+      "persona": "PR001486",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Akane",
+      "persona": "PR001487",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chika",
+      "persona": "PR001488",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Harune",
+      "persona": "PR001489",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Masutomo",
+      "persona": "PR001490",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Endo",
+      "persona": "PR001491",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Inoue",
+      "persona": "PR001492",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kasukabe",
+      "persona": "PR001493",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nishida",
+      "persona": "PR001494",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Monden",
+      "persona": "PR001495",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nikaido",
+      "persona": "PR001496",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uematsu",
+      "persona": "PR001497",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Misaki",
+      "persona": "PR001498",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001531",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001532",
+      "funcion": [
+        "Guionista"
+      ]
+    }
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "En Hokkaido se produce un grave accidente durante una excursión de montaña en el monte Shikaradake. El detective Ogoma participa en las labores de investigación y descubre que entre las personas implicadas hay alguien de su pasado. Para esclarecer lo ocurrido, termina colaborando con Nao, un investigador independiente de seguros cuya forma de trabajar choca con la suya. A medida que aparecen testimonios contradictorios, secretos y conexiones inesperadas, ambos se adentran en una trama que va mucho más allá del accidente inicial y que amenaza con sacar a la luz una red de poder y corrupción.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VB0EYv_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/391/391853e94b81478f1678ad15543ce20a.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
