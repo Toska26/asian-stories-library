@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001148",
+  "bl": false,
+  "titulo": "Kyūmei Byōtō 24-ji — Temporada 3",
+  "tituloOriginal": "救命病棟24時 第3シリーズ",
+  "alias": ["Emergency Room 24 Hours 3"],
+  "pais": ["JP"],
+  "idioma": "ja",
+  "anio": 2005,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001146",
+  "remake": null,
+  "origen": null,
+  "temporadas": 6,
+  "temporada": 3,
+  "episodios": 11,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "2005-01-11",
+  "finalizacion": "2005-03-22",
+  "generos": ["Drama", "Médico", "Desastres"],
+  "tags": [
+    "Medicina", "Hospital", "Urgencias", "Terremoto",
+    "Desastre natural", "Catástrofe", "Medicina de emergencia",
+    "Rescate", "Supervivencia", "Médicos", "Enfermería",
+    "Trabajo en equipo", "Solidaridad", "Sacrificio",
+    "Crisis sanitaria", "Vida y muerte"
+  ],
+  "personas": [
+    {"nombre": "進藤一生", "persona": "PR001309", "funcion": ["Actor"], "principal": true},
+    {"nombre": "小島楓", "persona": "PR001310", "funcion": ["Actor"], "principal": true},
+    {"nombre": "黒木春正", "persona": "PR001323", "funcion": ["Actor"], "principal": true},
+    {"nombre": "磯部望", "persona": "PR001324", "funcion": ["Actor"], "principal": true},
+    {"nombre": "河野和也", "persona": "PR001325", "funcion": ["Actor"], "principal": true},
+    {"nombre": "河野純介", "persona": "PR001326", "funcion": ["Actor"], "principal": false},
+    {"nombre": "大友葉月", "persona": "PR001327", "funcion": ["Actor"], "principal": false},
+    {"nombre": "日比谷学", "persona": "PR001328", "funcion": ["Actor"], "principal": false},
+    {"nombre": "河原崎美江子", "persona": "PR001329", "funcion": ["Actor"], "principal": false},
+    {"nombre": "須藤昌代", "persona": "PR001330", "funcion": ["Actor"], "principal": false},
+    {"nombre": "寺泉香織", "persona": "PR001331", "funcion": ["Actor"], "principal": false},
+    {"nombre": "河野敬子", "persona": "PR001332", "funcion": ["Actor"], "principal": false},
+    {"nombre": "加賀裕樹", "persona": "PR001333", "funcion": ["Actor"], "principal": false},
+    {"nombre": "河野定雄", "persona": "PR001334", "funcion": ["Actor"], "principal": false},
+    {"nombre": "寺泉隼人", "persona": "PR001335", "funcion": ["Actor"], "principal": false},
+    {"persona": "PR001384", "funcion": ["Guionista"]},
+    {"persona": "PR001401", "funcion": ["Director"]}
+  ],
+  "ships": [],
+  "entidades": [],
+  "especiales": [
+    {
+      "titulo": "Kyūmei Byōtō 24-ji: Another Story – Kangoshi-tachi no Kyūmei Kyūkyū Center",
+      "tituloOriginal": "アナザーストーリー 看護師たちの救命救急センター",
+      "fecha": "2005-03-29",
+      "tipo": "Historia especial"
+    }
+  ],
+  "relaciones": [],
+  "sinopsis": "Un gran terremoto sacude Tokio y convierte el hospital en uno de los principales escenarios de la catástrofe. Mientras los edificios se derrumban y los servicios de emergencia quedan desbordados, Issei Shindo y Kaede Kojima deben coordinarse con el resto del personal para atender a un número creciente de heridos. La falta de recursos, la incertidumbre sobre sus propias familias y la presión de tener que decidir a quién atender primero pondrán a prueba la resistencia y la humanidad de todo el equipo.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/aDkgDf.jpg"],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
