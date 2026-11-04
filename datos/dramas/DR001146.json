@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001146",
+  "bl": false,
+  "titulo": "Kyūmei Byōtō 24-ji — Temporada 1",
+  "tituloOriginal": "救命病棟24時",
+  "alias": ["Emergency Room 24 Hours", "救命病棟24時 第1シリーズ"],
+  "pais": ["JP"],
+  "idioma": "ja",
+  "anio": 1999,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": "SR001146",
+  "remake": null,
+  "origen": null,
+  "temporadas": 6,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "1999-01-05",
+  "finalizacion": "1999-03-23",
+  "generos": ["Drama", "Médico"],
+  "tags": [
+    "Medicina", "Hospital", "Urgencias", "Emergencias médicas",
+    "Médicos", "Enfermería", "Cirugía", "Residentes",
+    "Relaciones profesionales", "Trabajo en equipo",
+    "Ética médica", "Superación personal", "Vida y muerte"
+  ],
+  "personas": [
+    {"nombre": "進藤一生", "persona": "PR001309", "funcion": ["Actor"], "principal": true},
+    {"nombre": "小島楓", "persona": "PR001310", "funcion": ["Actor"], "principal": true},
+    {"nombre": "桜井ゆき", "persona": "PR001311", "funcion": ["Actor"], "principal": true},
+    {"nombre": "落合雅人", "persona": "PR001312", "funcion": ["Actor"], "principal": true},
+    {"nombre": "堺慎一", "persona": "PR001186", "funcion": ["Actor"], "principal": true},
+    {"nombre": "菊池保", "persona": "PR001264", "funcion": ["Actor"], "principal": false},
+    {"nombre": "多田和彦", "persona": "PR001313", "funcion": ["Actor"], "principal": false},
+    {"nombre": "田尾ルリ子", "persona": "PR001314", "funcion": ["Actor"], "principal": false},
+    {"nombre": "五十嵐響子", "persona": "PR001315", "funcion": ["Actor"], "principal": false},
+    {"nombre": "神崎愛子", "persona": "PR001316", "funcion": ["Actor"], "principal": false},
+    {"persona": "PR001383", "funcion": ["Guionista"]}
+  ],
+  "ships": [
+    {
+      "personajes": ["Ochiai Masato", "Igarashi Kyoko"],
+      "multimedia": []
+    }
+  ]
+  "entidades": [],
+  "especiales": [
+    {
+      "titulo": "Kyūmei Byōtō 24-ji: Shinsun Special – Kyūshutsu Time Limit",
+      "tituloOriginal": "救命病棟24時 新春スペシャル 救出タイムリミット",
+      "fecha": "2002-01-01",
+      "tipo": "Especial"
+    }
+  ],
+  "relaciones": [],
+  "sinopsis": "En el centro de emergencias de un gran hospital de Tokio, el brillante cirujano Issei Shindo y la joven residente Kaede Kojima comienzan una complicada relación profesional. Sus diferentes formas de entender la medicina provocan continuos enfrentamientos, pero el trabajo diario, las urgencias y las vidas que dependen de ellos les obligan a aprender a confiar el uno en el otro. Junto al resto del equipo médico y de enfermería, deberán enfrentarse a las exigencias físicas y emocionales de un servicio donde cada decisión puede marcar la diferencia entre la vida y la muerte.",
+  "multimedia": {
+    "portada": ["https://i.mydramalist.com/G1wlyf.jpg"],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
