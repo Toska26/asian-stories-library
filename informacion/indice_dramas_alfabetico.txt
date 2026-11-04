@@ -243,6 +243,7 @@ DR001128	JP	2026	Doubt: Revenge After 15 Years
 DR000262	TW	2026	Dual Stars
 DR000737	JP	2026	Duty First, Kiss Later
 DR000163	KR	2024	Eccentric Romance
+DR001165	CN	2026	Echo of a Letter
 DR000581	CN	2025	Echoes of a Distant Chord
 DR000018	TH	2020	En of Love: Love Mechanics
 DR000019	TH	2020	En of Love: This Is Love Story
@@ -642,6 +643,7 @@ DR000877	TH	2022	My Only 12%
 DR000669	JP	2023	My Personal Weatherman
 DR000382	PH	2023	My Plantito
 DR000845	TH	2022	My Ride
+DR001164	CN	2026	My Rival & Me
 DR000069	TH	2026	My Romance Scammer
 DR000874	TH	2022	My Roommate
 DR000059	TH	2022	My School President
@@ -895,6 +897,7 @@ DR000717	JP	2010	Takumi-kun Series 4: Pure
 DR000718	JP	2011	Takumi-kun Series 5: Ano, Hareta Aozora
 DR000714	JP	2007	Takumi-kun Series: Soshite Harukaze ni Sasayaite
 DR000719	JP	2023	Takumi-kun Series: The Dawn of the Long Tales
+DR001166	CN	2026	Tamed
 DR000375	PH	2023	Teach Me How
 DR001071	TH	2026	Teach Me, Touch Me
 DR000473	VN	2024	Teenager Judge
