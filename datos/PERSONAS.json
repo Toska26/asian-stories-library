@@ -25058,5 +25058,21 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001446",
+    "nombre": "Sakura Takeuchi",
+    "nombreOriginal": "竹内櫻",
+    "nombreArtistico": "",
+    "alias": [],
+    "pais": "JP",
+    "idioma": "ja",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
