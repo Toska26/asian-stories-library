@@ -1,0 +1,234 @@
+{
+  "codigo": "DR001162",
+  "bl": false,
+  "titulo": "The Blue Flowers and the Ceramic Forest",
+  "tituloOriginal": "青の花 器の森",
+  "alias": [
+    "Ao no Hana, Utsuwa no Mori"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": null,
+  "universo": null,
+  "serie": null,
+  "remake": null,
+  "origen": null,
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 15,
+  "estado": "en_emision",
+  "estreno": "2026-10-26",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Adaptación de manga",
+    "Romance",
+    "Amor",
+    "Cerámica",
+    "Artesanía",
+    "Alfarería",
+    "Pintura",
+    "Diseño",
+    "Artistas",
+    "Artesanos",
+    "Compañeros de trabajo",
+    "Diferencias de personalidad",
+    "Desarrollo profesional",
+    "Hasami",
+    "Nagasaki"
+  ],
+  "personas": [
+    {
+      "nombre": "Baba Aoko",
+      "persona": "PR001540",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Manabe Tatsuki",
+      "persona": "PR001541",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koga Shinobu",
+      "persona": "PR001542",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kurihara Rumi",
+      "persona": "PR001543",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uno Fumiya",
+      "persona": "PR001544",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sekiguchi Kohei",
+      "persona": "PR001545",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ishihara Hitoshi",
+      "persona": "PR001546",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kumada Ryohei",
+      "persona": "PR001547",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoshizaki Ayaka",
+      "persona": "PR001508",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Narazaki Haruma",
+      "persona": "PR001548",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Iwasaki Kazumi",
+      "persona": "PR001549",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kusumoto Isao",
+      "persona": "PR001550",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Baba Midori",
+      "persona": "PR001551",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tomonaga Yoko",
+      "persona": "PR001090",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "persona": "PR001557",
+      "funcion": [
+        "Escritor"
+      ]
+    },
+    {
+      "persona": "PR001558",
+      "funcion": [
+        "Guionista"
+      ]
+    },
+    {
+      "persona": "PR001559",
+      "funcion": [
+        "Director"
+      ]
+    },
+    {
+      "persona": "PR001560",
+      "funcion": [
+        "Compositor"
+      ]
+    },
+    {
+      "persona": "PR001561",
+      "funcion": [
+        "Productor"
+      ]
+    },
+    {
+      "persona": "PR001562",
+      "funcion": [
+        "Productor"
+      ]
+    },
+    {
+      "persona": "PR001563",
+      "funcion": [
+        "Productor"
+      ]
+    },
+    {
+      "persona": "PR001564",
+      "funcion": [
+        "Productor"
+      ]
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Baba Aoko",
+        "Manabe Tatsuki"
+      ],
+      "multimedia": []
+    }
+  ],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": "Baba Aoko trabaja como artesana especializada en la decoración de cerámica en una localidad conocida por su tradición alfarera. Su vida cambia con la llegada de Manabe Tatsuki, un joven ceramista que regresa de Finlandia para perfeccionar su técnica en el taller donde ella trabaja. Tatsuki es reservado, exigente y está profundamente comprometido con la forma de sus creaciones, mientras que Aoko defiende el valor de la decoración y el trabajo artesanal. Sus diferencias provocan continuos enfrentamientos, pero la colaboración entre ambos les permite descubrir nuevas posibilidades creativas. Entre el trabajo compartido, los desafíos profesionales y el acercamiento personal, comienza a surgir un sentimiento que transformará la vida de los dos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjP6Yw_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
