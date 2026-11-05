@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001176",
+  "bl": false,
+  "titulo": "Affinity",
+  "tituloOriginal": "炽热吸引",
+  "alias": [
+    "Chi Re Xi Yin"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 20,
+  "estado": "finalizado",
+  "estreno": "2026-01-22",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Ciencia ficción"
+  ],
+  "personas": [
+    {
+      "nombre": "Fang Jin",
+      "persona": "PR001600",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cui Yuxin",
+      "persona": "PR001601",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Nongyu",
+        "Xie Xinxu"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Wu Nongyu y Xie Xinxu quedan unidos por una atracción intensa en medio de una trama de suspense en la que nada es exactamente lo que parece. A medida que salen a la luz secretos y acontecimientos inexplicables, su vínculo se vuelve cada vez más profundo y ambos deberán enfrentarse a la verdad que se esconde tras lo que les sucede.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXPrBx_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
