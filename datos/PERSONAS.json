@@ -27442,5 +27442,205 @@
       "foto": []
     },
     "activo": true
+  },
+  {
+    "codigo": "PR001594",
+    "nombre": "Wu Jiayi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001595",
+    "nombre": "Dong Zifan",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001596",
+    "nombre": "Lou Yixiao",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001597",
+    "nombre": "Zhang Chi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001598",
+    "nombre": "Tang Jiawen",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001599",
+    "nombre": "Yang Yeming",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001600",
+    "nombre": "Fang Jin",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001601",
+    "nombre": "Cui Yuxin",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001602",
+    "nombre": "Shi Qi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001603",
+    "nombre": "Ren Yunjie",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001604",
+    "nombre": "Ji Shuyi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001605",
+    "nombre": "Liu Lanbo",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001606",
+    "nombre": "Fu Yaning",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001607",
+    "nombre": "Lu Dongxu",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001608",
+    "nombre": "Chen Xinhui",
+    "alias": [
+      "Vivi Chen"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001609",
+    "nombre": "Yao Jingyuan",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001610",
+    "nombre": "Wen Moyan",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001611",
+    "nombre": "Wei Tianhao",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
   }
 ]
