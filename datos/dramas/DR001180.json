@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001180",
+  "bl": false,
+  "titulo": "Predestined Love",
+  "tituloOriginal": "其实不是初恋",
+  "alias": [
+    "Qi Shi Bu Shi Chu Lian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 20,
+  "estado": "finalizado",
+  "estreno": "2026-01-22",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Chen Xinhui",
+      "persona": "PR001608",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yao Jingyuan",
+      "persona": "PR001609",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ren Xizhou",
+        "Xiang Nanfeng"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Ren Xizhou y Xiang Nanfeng se reencuentran en una etapa distinta de sus vidas y descubren que lo que parecía una historia nueva está ligado a sentimientos y recuerdos del pasado. Entre malentendidos, momentos compartidos y nuevas oportunidades, tendrán que averiguar si su relación estaba destinada a comenzar mucho antes de lo que imaginaban.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB542d_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
