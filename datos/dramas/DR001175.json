@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001175",
+  "bl": false,
+  "titulo": "Disguised Family",
+  "tituloOriginal": "伪装家族",
+  "alias": [
+    "Wei Zhuang Jia Zu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 13,
+  "estado": "finalizado",
+  "estreno": "2026-01-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Comedia",
+    "Acción"
+  ],
+  "personas": [
+    {
+      "nombre": "Tang Jiawen",
+      "persona": "PR001598",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yang Yeming",
+      "persona": "PR001599",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nan Caiyun",
+        "Yan Yingjun"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Nan Caiyun y Yan Yingjun forman parte de una familia construida sobre apariencias, secretos y engaños. A medida que se ven envueltos en situaciones peligrosas y giros inesperados, las máscaras que ambos han levantado comienzan a caer. Entre conflictos y emociones inesperadas, tendrán que descubrir qué significa realmente ser una familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOl0KN_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
