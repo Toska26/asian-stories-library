@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001181",
+  "bl": false,
+  "titulo": "Love Cannot Be Hidden",
+  "tituloOriginal": "爱意藏不住",
+  "alias": [
+    "Ai Yi Cang Bu Zhu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-01-03",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Wen Moyan",
+      "persona": "PR001610",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Tianhao",
+      "persona": "PR001611",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xu Xiyan",
+        "Cheng Yufan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Xu Xiyan y Cheng Yufan ven cómo su relación cambia cuando deben afrontar una enfermedad que afecta a la memoria y transforma su manera de vivir el presente. A través de los recuerdos, los cuidados y las dificultades cotidianas, ambos intentan proteger el amor que los une frente a un futuro incierto.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOeg4N_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
