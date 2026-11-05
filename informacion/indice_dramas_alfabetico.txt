@@ -47,6 +47,7 @@ DR000404	VN	2017	Adam's Story
 DR000509	CN	2016	Addicted
 DR000937	TH	2024	Addicted Heroin
 DR000510	CN	2017	Advance Bravely
+DR001176	CN	2026	Affinity
 DR000736	JP	2026	After Moving Seats, the Boy Behind Me Has a Crush on Me
 DR000422	VN	2019	Ai Là Người Thứ Ba
 DR000886	TH	2022	Ai Long Nhai
@@ -221,6 +222,7 @@ DR000903	TH	2023	Destiny Seeker
 DR001163	JP	2026	Devoted Love: Actually, the Strongest Hero
 DR000904	TH	2023	Dinosaur Love
 DR000582	CN	2025	Disguise Game
+DR001175	CN	2026	Disguised Family
 DR000317	PH	2021	Diving Into Love
 DR000238	TW	2022	DNA Says I Love You
 DR001080	KR	2026	Doctor X: Age of the White Mafia
@@ -568,6 +570,7 @@ DR001082	KR	2026	Make Me Tremble
 DR001010	TH	2025	MANDATE The Series
 DR000796	TH	2020	Manner of Death
 DR000385	PH	2024	Marahuyo Project
+DR001177	CN	2026	Marrying a Soft-Hearted God
 DR001138	JP	2026	Masked Teacher: From the Day He Lost His Wife
 DR001059	TH	2026	Match Point
 DR001024	TH	2025	Me and Thee
@@ -1148,6 +1151,7 @@ DR000051	TH	2026	Write You Again
 DR001043	TH	2026	Wu
 DR000503	MY	2022	Wu Di in Love
 DR000191	KR	2026	Wuju Bakery
+DR001178	CN	2026	Xiang Si Qi
 DR000812	TH	2021	Y-Destiny
 DR001033	TH	2026	Yesterday
 DR001171	CN	2026	You Alone Know Me
