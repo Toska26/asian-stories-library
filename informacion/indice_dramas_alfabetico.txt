@@ -247,6 +247,7 @@ DR000737	JP	2026	Duty First, Kiss Later
 DR000163	KR	2024	Eccentric Romance
 DR001165	CN	2026	Echo of a Letter
 DR000581	CN	2025	Echoes of a Distant Chord
+DR001179	CN	2026	Elegy of Zhaoli
 DR000018	TH	2020	En of Love: Love Mechanics
 DR000019	TH	2020	En of Love: This Is Love Story
 DR000017	TH	2020	En of Love: Tossara
@@ -505,6 +506,7 @@ DR000463	VN	2022	Love Bill
 DR000022	TH	2018	Love by Chance
 DR000023	TH	2020	Love by Chance 2: A Chance to Love T2
 DR000325	PH	2021	Love By Fehler
+DR001181	CN	2026	Love Cannot Be Hidden
 DR000128	KR	2022	Love Class
 DR000136	KR	2023	Love Class 2 T2
 DR000137	KR	2026	Love Class 3 T3
@@ -770,6 +772,7 @@ DR000615	JP	2019	Pornographer: Mood Indigo
 DR000617	JP	2021	Pornographer: Playback
 DR000616	JP	2021	Pornographer: Spring Life
 DR000356	PH	2022	PRE-BO: The Beginning
+DR001180	CN	2026	Predestined Love
 DR001174	CN	2026	Predict You in 3s
 DR000349	PH	2021	PRESO
 DR000353	PH	2024	PRESO End
