@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001179",
+  "bl": false,
+  "titulo": "Elegy of Zhaoli",
+  "tituloOriginal": "昭离赋",
+  "alias": [
+    "Zhao Li Fu",
+    "The Chronicles of Zhao Li"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 14,
+  "estado": "finalizado",
+  "estreno": "2026-01-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Fu Yaning",
+      "persona": "PR001606",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Dongxu",
+      "persona": "PR001607",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Li",
+        "Xie Jiuzhao"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Jiang Li se ve arrastrada a un mundo de intrigas históricas en el que cada decisión puede alterar su destino. Su camino se cruza con el de Xie Jiuzhao y, entre conspiraciones, secretos y sentimientos difíciles de admitir, ambos deberán decidir hasta dónde están dispuestos a llegar para proteger aquello que consideran importante.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkAn7n_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
