@@ -309,6 +309,7 @@ DR000553	CN	2025	Ghost Marriage: A Straight Man Forced to Marry the King of the 
 DR000808	TH	2020	Ghost Runner
 DR001101	KR	2026	Gift
 DR000638	JP	2021	Given
+DR001173	CN	2026	Glory in Shadows
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
 DR001070	TH	2026	Good Boy Series
@@ -766,6 +767,7 @@ DR000615	JP	2019	Pornographer: Mood Indigo
 DR000617	JP	2021	Pornographer: Playback
 DR000616	JP	2021	Pornographer: Spring Life
 DR000356	PH	2022	PRE-BO: The Beginning
+DR001174	CN	2026	Predict You in 3s
 DR000349	PH	2021	PRESO
 DR000353	PH	2024	PRESO End
 DR000351	PH	2023	PRESO Season 3 T3
