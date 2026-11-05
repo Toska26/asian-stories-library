@@ -1,0 +1,64 @@
+{
+  "codigo": "DR001173",
+  "bl": false,
+  "titulo": "Glory in Shadows",
+  "tituloOriginal": "荣华令",
+  "alias": [
+    "Rong Hua Ling"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-01-05",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Wu Jiayi",
+      "persona": "PR001594",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dong Zifan",
+      "persona": "PR001595",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Yaochu",
+        "Li Jingchuan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "En un mundo marcado por las intrigas y las luchas de poder, Shen Yaochu y Li Jingchuan se ven envueltos en una relación que pondrá a prueba sus lealtades y sentimientos. Mientras afrontan los conflictos que amenazan con separarlos, ambos deberán descubrir si pueden confiar el uno en el otro y construir un futuro juntos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YY1OVe_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
