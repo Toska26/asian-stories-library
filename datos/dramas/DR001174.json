@@ -1,0 +1,64 @@
+{
+  "codigo": "DR001174",
+  "bl": false,
+  "titulo": "Predict You in 3s",
+  "tituloOriginal": "三秒预见你",
+  "alias": [
+    "San Miao Yu Jian Ni"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 59,
+  "duracion": 2,
+  "estado": "finalizado",
+  "estreno": "2026-01-15",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Lou Yixiao",
+      "persona": "PR001596",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Chi",
+      "persona": "PR001597",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Zhiyu",
+        "Shen Youchuan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Lin Zhiyu descubre que puede anticipar acontecimientos con apenas tres segundos de ventaja. Esta habilidad inesperada altera su vida cotidiana y la lleva a cruzarse con Shen Youchuan. Entre situaciones imprevisibles y sentimientos que van creciendo, ambos tendrán que averiguar qué les depara el futuro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0kNAE_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
