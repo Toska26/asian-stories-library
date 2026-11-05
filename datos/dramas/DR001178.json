@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001178",
+  "bl": false,
+  "titulo": "Xiang Si Qi",
+  "tituloOriginal": "相思契",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 74,
+  "estado": "finalizado",
+  "estreno": "2026-01-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Shuyi",
+      "persona": "PR001604",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Lanbo",
+      "persona": "PR001605",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Qingyue",
+        "Xie Jin"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Su Qingyue y Xie Jin quedan unidos por un pacto que los arrastra a una relación marcada por los secretos, las obligaciones y los conflictos de su época. Mientras intentan descubrir las verdaderas intenciones que se esconden tras ese vínculo, sus sentimientos comienzan a cambiar y el destino de ambos queda entrelazado.",
+  "multimedia": {
+    "portada": [],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
