@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001177",
+  "bl": false,
+  "titulo": "Marrying a Soft-Hearted God",
+  "tituloOriginal": "嫁给心软的神",
+  "alias": [
+    "Jia Gei Xin Ruan De Shen"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 59,
+  "estado": "finalizado",
+  "estreno": "2026-01-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "personas": [
+    {
+      "nombre": "Shi Qi",
+      "persona": "PR001602",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ren Yunjie",
+      "persona": "PR001603",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Mingyue",
+        "Ye Yangyanxi"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Su Mingyue ve cómo su destino cambia al quedar vinculada a Ye Yangyanxi, una figura misteriosa conocida como el dios de corazón compasivo. Entre fuerzas sobrenaturales, decisiones difíciles y sentimientos inesperados, ambos descubrirán que su unión puede transformar el rumbo de sus vidas.",
+  "multimedia": {
+    "portada": [],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}
