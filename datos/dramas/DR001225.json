@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001225",
+  "bl": false,
+  "titulo": "My Rival in Love Is Me",
+  "tituloOriginal": "我的情敌竟是我",
+  "alias": [
+    "Wo De Qing Di Jing Shi Wo",
+    "我的情敵竟是我"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 10,
+  "estado": "finalizado",
+  "estreno": "2026-03-30",
+  "generos": [
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Ye Bingbing",
+      "persona": "PR001702",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yang Can",
+      "persona": "PR001703",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ye Bingbing",
+        "Yang Can"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Yang Can, un programador brillante pero poco expresivo, desarrolla junto a su equipo un sistema de experiencias narrativas inmersivas mediante tecnología de interfaz cerebro-computadora. Su objetivo es preparar una sorpresa para su novia, Ye Bingbing, que desea vivir una historia romántica como las de los dramas. Para conseguirlo, la invita a participar en el sistema sin revelar que él está detrás del proyecto. La experiencia pondrá a prueba su relación y su forma de entender el amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73Rpon_4f.jpg"
+    ]
+  },
+  "activo": true
+}
