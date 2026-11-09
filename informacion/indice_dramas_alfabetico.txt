@@ -68,6 +68,7 @@ DR000587	CN	2026	Awakening the Steppe
 DR000273	PH	2021	B X J Forever T2
 DR000415	VN	2019	Bà 5 Bống
 DR000416	VN	2019	Bà 5 Bống Phần 2 T2
+DR001192	CN	2026	Back to the Summer
 DR000194	KR	2026	Backdoor
 DR000210	KR	2026	Backdoor Part 2
 DR000772	TH	2021	Bad Buddy
@@ -128,6 +129,7 @@ DR000123	KR	2022	Blue of Winter
 DR000665	JP	2023	Blue Sky Complex
 DR000124	KR	2022	Blueming
 DR000556	CN	2025	Blurred Desire
+DR001195	CN	2026	Bo Qing Hou Ye Chi Qing Qie
 DR000354	PH	2021	BO:SO
 DR000355	PH	2022	BO:SO Season 2 T2
 DR000148	KR	2023	Bon Appétit
@@ -174,6 +176,7 @@ DR000627	JP	2020	Cherry Magic! Valentine's Day & Rokkaku Arc
 DR000131	KR	2022	Choco Milk Shake
 DR000768	TH	2017	Choose
 DR000707	JP	2025	Chosen Home
+DR001193	CN	2026	Ci Sheng Ruo De Xiao Yu Bai
 DR000947	TH	2024	City of Stars
 DR001058	TH	2026	Class Crush Crisis
 DR000369	PH	2022	Clik Clak Clok
@@ -203,6 +206,7 @@ DR000088	TH	2026	Cupid's Ghost
 DR000086	TH	2022	Cupid's Last Wish
 DR000040	TH	2022	Cutie Pie
 DR000041	TH	2023	Cutie Pie 2 You T2
+DR001189	CN	2026	Da Shu Luo Man Shi
 DR000310	PH	2021	Daddy Love
 DR000333	PH	2021	DanDanSoy
 DR000072	TH	2023	Dangerous Romance
@@ -265,6 +269,7 @@ DR000995	TH	2025	Eye Contact
 DR000883	TH	2022	Fahlanruk
 DR000728	JP	2026	Fake Fact Lips
 DR000547	CN	2015	Falling in Love with a Rival
+DR001196	CN	2026	Falling Under the Stars
 DR000176	KR	2026	Fan Service
 DR000402	VN	2016	Farewell My Ghost Boyfriend
 DR000521	CN	2020	Fatal Journey
@@ -290,6 +295,7 @@ DR000465	VN	2023	For You A Thousand Times
 DR000409	VN	2017	Forever Love
 DR000939	TH	2024	Fourever You
 DR000795	TH	2020	Friend Forever
+DR001190	CN	2026	Fu Ren Zou De Di San Nian
 DR000649	JP	2022	Fudanshi Bartender
 DR000906	TH	2023	Future
 DR000326	PH	2021	Game Over
@@ -315,6 +321,7 @@ DR000638	JP	2021	Given
 DR001173	CN	2026	Glory in Shadows
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
+DR001191	CN	2026	Gong Lue Miao Jiang Shao Zhu
 DR001070	TH	2026	Good Boy Series
 DR000392	PH	2025	Got My Eyes on You
 DR000297	PH	2020	Got'chu Fam!
@@ -384,6 +391,7 @@ DR000908	TH	2023	House of Stars
 DR001139	JP	2026	How to Get a Boyfriend Who Deeply Adores You
 DR000342	PH	2021	How To Heal My Broken Heart T2
 DR000084	TH	2026	How to Survive My CEO
+DR001184	CN	2026	Huan Chong: Wo De Ming Ling Fu Ren Shi Shao Shuai
 DR000757	TH	2017	I Am Your King
 DR000758	TH	2019	I Am Your King 2 T2
 DR000661	JP	2023	I Became the Main Role of a BL Drama
@@ -477,6 +485,7 @@ DR000162	KR	2024	Let Free the Curse of Taekwondo
 DR000403	VN	2016	Let Love Heal
 DR001020	TH	2025	Let Me Into Your Heart
 DR000245	TW	2024	Let's Talk About Chu
+DR001197	CN	2021	Lie to Love
 DR000479	VN	2025	Life Gives Us Sadness
 DR000727	JP	2026	Life in Smokey Blue
 DR001143	JP	2026	Life Trade
@@ -485,6 +494,7 @@ DR000623	JP	2020	Life~Love on the Line
 DR000111	KR	2021	Light on Me
 DR000118	KR	2026	Light on Me 2 T2
 DR000330	PH	2021	Limited Edition
+DR001182	CN	2026	Little Tail, Keep Up
 DR000965	TH	2024	Live in Love
 DR000682	JP	2024	Living With Him
 DR000374	PH	2023	Lonely Connections
@@ -741,6 +751,7 @@ DR000235	TW	2021	Papa & Daddy
 DR000239	TW	2022	Papa & Daddy T2
 DR000361	PH	2022	Papa, What Is Love?
 DR000362	PH	2023	Papa, What Is Love? Season 2 T2
+DR001198	CN	2026	Paris Breeze in Waiting
 DR000923	TH	2023	Past-Senger
 DR000328	PH	2021	Pay-Ibig
 DR001047	TH	2026	PayBack The Series
@@ -753,6 +764,7 @@ DR000474	VN	2024	People Come Later
 DR000068	TH	2024	Perfect 10 Liners
 DR000676	JP	2024	Perfect Propose
 DR000846	TH	2022	Physical Therapy
+DR001185	CN	2026	Pink Prince
 DR000564	CN	2024	Pink Summer
 DR000322	PH	2021	Pisces
 DR000924	TH	2023	Pit Babe
@@ -783,6 +795,7 @@ DR000590	CN	2026	Private Galaxy
 DR000192	KR	2026	Private Lesson
 DR000705	JP	2025	Punks Triangle
 DR000804	TH	2020	Puppy Love
+DR001194	CN	2026	Qian Fu Ri Ri Qiu Fu He
 DR000275	PH	2021	Quaranthings 2 T2
 DR000274	PH	2020	Quaranthings: The Series
 DR001168	CN	2026	Quite the Girl
@@ -1011,6 +1024,7 @@ DR000401	PH	2026	The Red Leash
 DR001097	KR	2026	The Remarried Empress
 DR001105	KR	2026	The Second Signal T2
 DR000732	JP	2026	The Servant Prince
+DR001188	CN	2026	The Seven-Day Healing Bond
 DR000800	TH	2020	The Shipper
 DR000929	TH	2023	The Sign
 DR000527	CN	2020	The Sleuth of the Ming Dynasty
@@ -1038,6 +1052,7 @@ DR000836	TH	2021	The Yearbook
 DR000097	TH	2019	Theory of Love
 DR000721	JP	2025	Therapy Game
 DR000298	PH	2020	Third and Josh
+DR001183	CN	2026	This Is the Feeling of Love
 DR000958	TH	2024	This Love Doesn't Have Long Beans
 DR000426	VN	2019	Thư Viện Ký Ức
 DR000175	KR	2025	Thundercloud Rainstorm
@@ -1132,6 +1147,7 @@ DR000700	JP	2025	When It Rains, It Pours
 DR000710	JP	2026	When It Rains, It Pours: Mellow Rain T2
 DR001051	TH	2026	When Light Fades
 DR001045	TH	2026	When Oranges Fall
+DR001186	CN	2026	When the Snow Falls
 DR000387	PH	2024	Where I Found You
 DR001169	CN	2026	Where the Mask Ends
 DR000103	KR	2020	Where Your Eyes Linger
@@ -1156,6 +1172,7 @@ DR000503	MY	2022	Wu Di in Love
 DR000191	KR	2026	Wuju Bakery
 DR001178	CN	2026	Xiang Si Qi
 DR000812	TH	2021	Y-Destiny
+DR001187	CN	2026	Ye Se Liao Ren
 DR001033	TH	2026	Yesterday
 DR001171	CN	2026	You Alone Know Me
 DR000452	VN	2021	You Are Ma Boy
