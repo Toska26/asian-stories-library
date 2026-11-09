@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001209",
+  "bl": false,
+  "titulo": "Too Young to Love",
+  "tituloOriginal": "校服的裙摆",
+  "alias": [
+    "Xiao Fu De Qun Bai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-02-25",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Tong Xiaole",
+      "persona": "PR001676",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yi Lan",
+      "persona": "PR001677",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tong Xiaole",
+        "Yi Lan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tong Xiaole e Yi Lan son amigos de la infancia que crecen juntos. Desde sus años de instituto hasta la universidad y la vida adulta, ambos atraviesan experiencias relacionadas con la amistad, la familia y sus aspiraciones personales. Mientras persiguen sus sueños, también comienzan a comprender los sentimientos que los unen.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Lw55Eb_4f.jpg"
+    ]
+  },
+  "activo": true
+}
