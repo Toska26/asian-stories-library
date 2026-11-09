@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001190",
+  "bl": false,
+  "titulo": "Fu Ren Zou De Di San Nian",
+  "tituloOriginal": "夫人走的第三年",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 156,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Shen Yiyao",
+      "persona": "PR001618",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pei Jizhi",
+      "persona": "PR001597",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Yiyao",
+        "Pei Jizhi"
+      ]
+    }
+  ],
+  "sinopsis": "Tres años después de la muerte de Shen Yiyao, su espíritu regresa a la residencia de la familia Liang y descubre que su marido, Pei Jizhi, continúa fingiendo indiferencia en público mientras honra su memoria en privado. Tras un encuentro con un objeto mágico, él consigue escuchar su voz. Aunque ella desea marcharse, los malentendidos, el resentimiento y los sentimientos que ambos aún conservan los acercan de nuevo.",
+  "activo": true
+}

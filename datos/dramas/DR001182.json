@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001182",
+  "bl": false,
+  "titulo": "Little Tail, Keep Up",
+  "tituloOriginal": "小尾巴，快跟上！",
+  "alias": [
+    "Little Tail, Keep Up!",
+    "Xiao Wei Ba, Kuai Gen Shang!",
+    "小尾巴快跟上",
+    "When the Star and Universe Aline"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 24,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "He Tongxing",
+      "persona": "PR001613",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Yuzhou",
+      "persona": "PR001612",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Tongxing",
+        "Wei Yuzhou"
+      ]
+    }
+  ],
+  "sinopsis": "La actriz He Tongxing se ve envuelta en un escándalo y debe refugiarse en la antigua casa de su representante y amiga Lin Zi. Para ayudarla, Lin Zi pide a su primo universitario Wei Yuzhou, que también vive allí, que cuide de ella. La convivencia empieza con continuos roces, pero poco a poco ambos pasan de desconfiar el uno del otro a protegerse y acercarse sentimentalmente.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g07AOO_4f.jpg"
+    ]
+  },
+  "activo": true
+}

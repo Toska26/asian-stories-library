@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001194",
+  "bl": false,
+  "titulo": "Qian Fu Ri Ri Qiu Fu He",
+  "tituloOriginal": "前夫日日求复合",
+  "alias": [
+    "Qian Fu Ta You Zheng You Qiang",
+    "前夫他又争又抢"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 57,
+  "estado": "finalizado",
+  "estreno": "2026-01-22",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "personas": [
+    {
+      "nombre": "Qin Ziyu",
+      "persona": "PR001631",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Yichen",
+      "persona": "PR001632",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qin Ziyu",
+        "Wei Yichen"
+      ]
+    }
+  ],
+  "sinopsis": "Tras cinco años de matrimonio, Qin Ziyu decide divorciarse de Wei Yichen, agotada por su frialdad. Sin embargo, después de obtener el divorcio, ambos terminan dentro de una novela romántica trágica y descubren que no podrán regresar a la realidad hasta completar su argumento. Qin Ziyu decide cambiar los papeles y hacer que su exmarido experimente las situaciones dolorosas que ella sufrió. Pero Wei Yichen empieza a buscar desesperadamente la reconciliación.",
+  "activo": true
+}

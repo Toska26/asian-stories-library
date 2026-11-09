@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001191",
+  "bl": false,
+  "titulo": "Gong Lue Miao Jiang Shao Zhu",
+  "tituloOriginal": "攻略苗疆少主",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 78,
+  "estado": "finalizado",
+  "estreno": "2026-01-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu He",
+      "persona": "PR001627",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chi Yan",
+      "persona": "PR001628",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chu He",
+        "Chi Yan"
+      ]
+    }
+  ],
+  "activo": true
+}

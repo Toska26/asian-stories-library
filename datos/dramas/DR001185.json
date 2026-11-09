@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001185",
+  "bl": false,
+  "titulo": "Pink Prince",
+  "tituloOriginal": "粉红王爷",
+  "alias": [
+    "Fen Hong Wang Ye"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 70,
+  "duracion": 2,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Shi Qianxia",
+      "persona": "PR001619",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Qingyun",
+      "persona": "PR001620",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shi Qianxia",
+        "Gu Qingyun"
+      ]
+    }
+  ],
+  "sinopsis": "Shi Qianxia está leyendo una novela sobre una mujer que ocupa el lugar de otra cuando, de repente, viaja al mundo de la historia. Tras pasar unos días como mendiga, el príncipe Gu Qingyun la lleva a su residencia como concubina porque su aspecto recuerda al de otra persona. Ella cree que por fin podrá enriquecerse, pero pronto descubre que es la sustituta de una antagonista. Aunque intenta abandonar aquel papel, las inesperadas reacciones de Gu Qingyun complican sus planes y dan comienzo a una relación llena de discusiones y atracción.",
+  "multimedia": {
+    "portada": [
+      "https://gbaike-image.cdn.bcebos.com/9358d109b3de9c82d1588e0c20dd970a19d8bd3ee5a6/9358d109b3de9c82d1588e0c20dd970a19d8bd3ee5a6_url?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXJtYXJrL3dhdGVybWFyaw,t_60,g_7,xp_5,yp_2,P_20"
+    ]
+  },
+  "activo": true
+}

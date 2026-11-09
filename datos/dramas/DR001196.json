@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001196",
+  "bl": false,
+  "titulo": "Falling Under the Stars",
+  "tituloOriginal": "星夜沉沦",
+  "alias": [
+    "Xing Ye Chen Lun"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 64,
+  "estado": "finalizado",
+  "estreno": "2026-01-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "personas": [
+    {
+      "nombre": "Lin Qingzhu",
+      "persona": "PR001636",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chu Nanhe",
+      "persona": "PR001635",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Qingzhu",
+        "Chu Nanhe"
+      ]
+    }
+  ],
+  "sinopsis": "Para conseguir el tratamiento de su madre enferma, Lin Qingzhu llega a un acuerdo con Chu Nanhe. Lo que desconoce es que él es en realidad Chu Guanxing, que ha renacido con otra identidad. En su vida anterior, sus acciones provocaron que Lin Qingzhu intentara quitarse la vida. Ahora regresa arrepentido y trata de protegerla. Mientras se revelan una conspiración familiar y la verdad sobre un accidente, ambos deberán afrontar las consecuencias del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0k8Kv_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}

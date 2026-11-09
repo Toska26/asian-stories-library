@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001184",
+  "bl": false,
+  "titulo": "Huan Chong: Wo De Ming Ling Fu Ren Shi Shao Shuai",
+  "tituloOriginal": "豢宠：我的名伶甜夫是少帅",
+  "alias": [
+    "Huan Chong"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 68,
+  "estado": "finalizado",
+  "estreno": "2026-01-09",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu Lingzhou",
+      "persona": "PR001618",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lou Yancheng",
+      "persona": "PR001597",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chu Lingzhou",
+        "Lou Yancheng"
+      ]
+    }
+  ],
+  "sinopsis": "En la época republicana, Lou Yancheng, un célebre intérprete que carga con un pasado doloroso, es sometido por Chu Lingzhou, una poderosa comerciante de armas. Pronto descubre que ella fue la persona a la que más amó y que su dureza nace de antiguas heridas y traiciones. Entre culpa, resentimiento y sentimientos que nunca desaparecieron, ambos vuelven a quedar unidos, mientras sale a la luz la verdadera identidad de Lou Yancheng como hijo de un mariscal.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/e/e2/Huan_Chong.jpg"
+    ]
+  },
+  "activo": true
+}

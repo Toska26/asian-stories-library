@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001186",
+  "bl": false,
+  "titulo": "When the Snow Falls",
+  "tituloOriginal": "雪落时分",
+  "alias": [
+    "Xue Luo Shi Fen"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 79,
+  "estado": "finalizado",
+  "estreno": "2026-01-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Misterio"
+  ],
+  "personas": [
+    {
+      "nombre": "Yue Liqing",
+      "persona": "PR001621",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Yinyin",
+      "persona": "PR001622",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yue Liqing",
+        "Yu Yinyin"
+      ]
+    }
+  ],
+  "sinopsis": "Yue Liqing y Yu Yinyin, un matrimonio unido por conveniencia, sufren un accidente durante una pedida de matrimonio en la montaña nevada. Al despertar, se encuentran en una realidad paralela en la que sus recuerdos y su relación parecen haber cambiado: él sospecha que ella le ha sido infiel, mientras ella no recuerda su matrimonio. Al investigar lo sucedido, ambos vuelven a conocerse y descubren una conspiración en la estación de esquí, conflictos familiares y secretos relacionados con su pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOpeK8_4f.jpg"
+    ]
+  },
+  "activo": true
+}

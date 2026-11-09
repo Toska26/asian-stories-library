@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001188",
+  "bl": false,
+  "titulo": "The Seven-Day Healing Bond",
+  "tituloOriginal": "第七日蝉鸣",
+  "alias": [
+    "Di Qi Ri Chan Ming"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 71,
+  "duracion": 2,
+  "estado": "finalizado",
+  "estreno": "2026-01-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Misterio"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhou Fan",
+      "persona": "PR001597",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Zhi",
+      "persona": "PR001625",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhou Fan",
+        "Jiang Zhi"
+      ]
+    }
+  ],
+  "sinopsis": "Herida por la traición de su marido, Jiang Zhi se encuentra inesperadamente con el cuerpo del hombre que había desaparecido. Cuando este despierta, afirma llamarse Zhou Fan y no recuerda su vida anterior: es un viajero sin memoria. Jiang Zhi descubre que puede ver a estos viajeros y queda unida a Zhou Fan por un vínculo de vida o muerte de siete días. Juntos ayudan a otros espíritus a resolver sus asuntos pendientes mientras intentan sanar sus propias heridas, descubrir la verdad y recuperar sus vidas.",
+  "activo": true
+}

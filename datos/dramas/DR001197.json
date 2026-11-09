@@ -1,0 +1,64 @@
+{
+  "codigo": "DR001197",
+  "bl": false,
+  "titulo": "Lie to Love",
+  "tituloOriginal": "良言写意",
+  "alias": [
+    "Liang Yan Xie Yi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2021,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Su Xieyi",
+      "persona": "PR001637",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Ze Liang",
+      "persona": "PR001638",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Xieyi",
+        "Li Ze Liang"
+      ]
+    }
+  ],
+  "sinopsis": "Después de que su familia quede destruida por una serie de acontecimientos, Su Xieyi finge haber perdido la memoria para investigar lo sucedido. Su plan la lleva de nuevo hasta Li Zeliang, el hombre al que amó y al que ahora considera relacionado con la desgracia de su familia. Entre engaños, secretos y sentimientos que no han desaparecido, ambos intentan descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BVypV_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/dd1/dd12bd299fda26a6e4bb066bb2d30d39.mp4"
+    ],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}

@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001183",
+  "bl": false,
+  "titulo": "This Is the Feeling of Love",
+  "tituloOriginal": "这是心动的感觉",
+  "alias": [
+    "Zhe Shi Xin Dong De Gan Jue",
+    "這是心動的感覺"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 15,
+  "estado": "finalizado",
+  "estreno": "2026-01-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhen Beixing",
+      "persona": "PR001614",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Chen",
+      "persona": "PR001615",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tian Yu",
+      "persona": "PR001616",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Mo",
+      "persona": "PR001617",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhen Beixing",
+        "Gu Chen"
+      ]
+    },
+    {
+      "personajes": [
+        "Tian Yu",
+        "Lin Mo"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la repentina muerte de su padre, Zhen Beixing queda atrapada en una peligrosa lucha empresarial. Su enigmático guardaespaldas, Gu Chen, se convierte en su principal apoyo mientras aumentan las amenazas y salen a la luz secretos enterrados. A medida que la realidad y la ilusión comienzan a confundirse, Beixing descubre que el verdadero papel de Gu Chen en su destino es mucho más complejo de lo que imaginaba.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JBr0Nd_4f.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": []
+  },
+  "activo": true
+}

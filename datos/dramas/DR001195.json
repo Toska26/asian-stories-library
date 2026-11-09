@@ -1,0 +1,49 @@
+{
+  "codigo": "DR001195",
+  "bl": false,
+  "titulo": "Bo Qing Hou Ye Chi Qing Qie",
+  "tituloOriginal": "薄情侯爷痴情妾",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 80,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Xu Ruyin",
+      "persona": "PR001633",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gongzi Fu",
+      "persona": "PR001634",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xu Ruyin",
+        "Gongzi Fu"
+      ]
+    }
+  ],
+  "sinopsis": "Xu Ruyin, una refugiada que lucha por sobrevivir, es llevada a la residencia del poderoso marqués Gongzi Fu. Para pagar su deuda, se convierte en su asesina personal y supera un duro entrenamiento. Aunque él la protege en secreto, acaba concertando un matrimonio por venganza y Xu Ruyin descubre que solo era la sustituta de otra mujer. Tras fingir su muerte, desaparece durante cinco años. Cuando vuelven a encontrarse en el campo de batalla, ella es ya la líder de los agentes secretos de Yue y ambos deberán colaborar para detener una guerra y esclarecer lo ocurrido.",
+  "activo": true
+}

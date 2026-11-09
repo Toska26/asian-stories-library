@@ -1,0 +1,42 @@
+{
+  "codigo": "DR001189",
+  "bl": false,
+  "titulo": "Da Shu Luo Man Shi",
+  "tituloOriginal": "大叔罗曼史",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 60,
+  "estado": "finalizado",
+  "estreno": "2026-01-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Yue",
+      "persona": "PR001626",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wen Shian",
+      "persona": "PR001590",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tres amigos de mediana edad atraviesan una crisis personal. Wen Shian, un abogado de éxito, es abandonado públicamente por su esposa. Han Yue, conocido por su vida amorosa despreocupada, demuestra su lealtad al llevar quince años protegiendo a Wen Xiao, la hermana de su amigo. Mientras tanto, Zhou Mu, un director ejecutivo de carácter frío, acaba conquistado por una joven becaria. Entre amistad, desencuentros y nuevas oportunidades, los tres deberán afrontar sus vidas sentimentales.",
+  "activo": true
+}
