@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001205",
+  "bl": false,
+  "titulo": "Our Dazzling Days",
+  "tituloOriginal": "岁月有情时",
+  "alias": [
+    "Sui Yue You Qing Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "estado": "finalizado",
+  "estreno": "2026-02-20",
+  "generos": [
+    "Drama",
+    "Youth",
+    "Workplace",
+    "Period"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Xiaoman",
+      "persona": "PR001666",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Chunchun",
+      "persona": "PR001667",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xia Lei",
+      "persona": "PR001668",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En una comunidad industrial del noreste de China, tres jóvenes crecen entre los cambios de una época marcada por la transformación de las fábricas y de la sociedad. Zhang Xiaoman, Ye Chunchun y Xia Lei comparten una historia de amistad, sueños, dificultades y decisiones que marcarán sus vidas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/oQpnNk_4f.jpg"
+    ]
+  },
+  "activo": true
+}
