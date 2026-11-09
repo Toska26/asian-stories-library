@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001215",
+  "bl": false,
+  "titulo": "Turbulent Love",
+  "tituloOriginal": "季雨倾城",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "finalizado",
+  "estreno": "2026-03-16",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Hao Yu",
+      "persona": "PR001690",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Zhijie",
+      "persona": "PR001689",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Hao Yu",
+        "Ji Zhijie"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Hao Yu, hija adoptiva de un alto cargo policial, se infiltra en el mundo criminal como informante para investigar a una organización. Allí se convierte en la novia de Ji Zhijie, el segundo al mando de una poderosa familia del hampa. Aunque él conoce su verdadera identidad, está dispuesto a arriesgar su vida para protegerla. La situación se complica cuando reaparece Zhou Ziheng, antiguo amor de Hao Yu.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JBrLoX_4f.jpg"
+    ]
+  },
+  "activo": true
+}
