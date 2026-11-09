@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001200",
+  "bl": false,
+  "titulo": "Young Again",
+  "tituloOriginal": "重返青春",
+  "alias": [
+    "Chong Fan Qing Chun"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-02-09",
+  "generos": [
+    "Comedy",
+    "Life"
+  ],
+  "sinopsis": "En una comunidad residencial para personas mayores, un grupo de jubilados comparte nuevas experiencias, amistades y conflictos cotidianos. La llegada de jóvenes voluntarios universitarios crea vínculos entre generaciones y aporta nuevas perspectivas a la vida de sus residentes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/yWrVN6_4f.jpg"
+    ]
+  },
+  "activo": true
+}
