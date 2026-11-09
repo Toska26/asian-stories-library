@@ -1,0 +1,26 @@
+{
+  "codigo": "DR001224",
+  "bl": false,
+  "titulo": "Rose Hunter",
+  "tituloOriginal": "玫瑰猎手",
+  "alias": [
+    "Mei Gui Lie Shou",
+    "玫瑰獵手"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-03-23",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JBrQ2J_4f.jpg"
+    ]
+  },
+  "activo": true
+}
