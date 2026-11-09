@@ -176,7 +176,6 @@ DR000627	JP	2020	Cherry Magic! Valentine's Day & Rokkaku Arc
 DR000131	KR	2022	Choco Milk Shake
 DR000768	TH	2017	Choose
 DR000707	JP	2025	Chosen Home
-DR001193	CN	2026	Ci Sheng Ruo De Xiao Yu Bai
 DR000947	TH	2024	City of Stars
 DR001058	TH	2026	Class Crush Crisis
 DR000369	PH	2022	Clik Clak Clok
