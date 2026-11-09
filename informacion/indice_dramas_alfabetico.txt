@@ -40,6 +40,7 @@ DR000085	TH	2021	A Tale of Thousand Stars
 DR000596	CN	2026	A Winter Sun Wakes the Wind in Spring Hills' Dream
 DR001019	TH	2025	A(ir) Moment
 DR000550	CN	2025	ABO Desire
+DR001210	CN	2026	About Love
 DR000237	TW	2022	About Youth
 DR000895	TH	2023	Absolute Zero
 DR000412	VN	2018	Active Boys
@@ -195,6 +196,7 @@ DR000686	JP	2026	Cosmetic Playlover T2
 DR000724	JP	2026	Countdown to Yes
 DR000818	TH	2021	Country Boy T1
 DR000819	TH	2022	Country Boy T2 T2
+DR001201	CN	2026	Country Love 18
 DR001102	KR	2024	Crash
 DR001103	KR	2026	Crash 2: Road of Rage T2
 DR000229	TW	2020	Craving You
@@ -309,6 +311,7 @@ DR000987	TH	2025	Gelboys
 DR000988	TH	2026	Gelboys 2 T2
 DR000787	TH	2020	Gen Y
 DR000788	TH	2021	Gen Y 2 T2
+DR001207	CN	2026	Generation to Generation
 DR000507	SG	2022	Getaway
 DR000419	VN	2019	Ghe Bẹo Ghẹo Ai
 DR000434	VN	2023	Ghe Bẹo Ghẹo Ai 2
@@ -386,6 +389,7 @@ DR000576	CN	2025	Honey on the Edge of the Knife
 DR000523	CN	2020	Honey Sir
 DR000302	PH	2020	Hook Up
 DR000908	TH	2023	House of Stars
+DR001199	CN	2026	How Dare You!?
 DR001139	JP	2026	How to Get a Boyfriend Who Deeply Adores You
 DR000342	PH	2021	How To Heal My Broken Heart T2
 DR000084	TH	2026	How to Survive My CEO
@@ -555,6 +559,7 @@ DR000743	TH	2024	Love Sick 2024
 DR000740	TH	2014	Love Sick: The Series
 DR000850	JP	2020	LOVE STAGE!!
 DR000851	TH	2022	Love Stage!!
+DR001206	CN	2026	Love Story in the 1970s
 DR000872	TH	2023	Love Syndrome III
 DR000873	TH	2024	Love Syndrome: The Beginning
 DR000144	KR	2023	Love Tractor
@@ -734,6 +739,7 @@ DR000613	JP	2024	Ossan's Love -Returns- T3
 DR000087	TH	2025	Ossan's Love Thailand
 DR000621	JP	2019	Ossan's Love The Movie: Love or Dead
 DR000139	KR	2023	Our Dating Sim
+DR001205	CN	2026	Our Dazzling Days
 DR000666	JP	2023	Our Dining Table
 DR000494	HK	2024	Our Golden Times
 DR000774	TH	2018	Our Skyy
@@ -750,6 +756,7 @@ DR000239	TW	2022	Papa & Daddy T2
 DR000361	PH	2022	Papa, What Is Love?
 DR000362	PH	2023	Papa, What Is Love? Season 2 T2
 DR000923	TH	2023	Past-Senger
+DR001204	CN	2026	Pawnshop
 DR000328	PH	2021	Pay-Ibig
 DR001047	TH	2026	PayBack The Series
 DR000964	TH	2024	Peaceful Property
@@ -793,6 +800,7 @@ DR000192	KR	2026	Private Lesson
 DR000705	JP	2025	Punks Triangle
 DR000804	TH	2020	Puppy Love
 DR001194	CN	2026	Qian Fu Ri Ri Qiu Fu He
+DR001202	CN	2021	Qing Shan Zhe Bu Zhu
 DR000275	PH	2021	Quaranthings 2 T2
 DR000274	PH	2020	Quaranthings: The Series
 DR001168	CN	2026	Quite the Girl
@@ -842,6 +850,7 @@ DR000166	KR	2025	Secret Relationships
 DR000542	CN	2025	Secrets Happened on the Litchi Island
 DR000236	TW	2021	See You After Quarantine?
 DR000249	TW	2024	See Your Love
+DR001211	CN	2026	Seeds of Scarlet Longing
 DR000879	TH	2022	Self
 DR000120	KR	2022	Semantic Error
 DR000487	VN	2026	Sending My Pain to the Wind
@@ -1080,6 +1089,7 @@ DR000668	JP	2023	Tokyo in April Is...
 DR000801	TH	2020	Tonhon Chonlatee
 DR001029	TH	2026	Too Close Friend
 DR001031	TH	2026	Too Close Friend 2 T2
+DR001209	CN	2026	Too Young to Love
 DR000992	TH	2025	Top Form
 DR000834	TH	2021	Top Secret Together
 DR000381	PH	2023	Toreros
@@ -1160,6 +1170,7 @@ DR000190	KR	2026	Winter Fever
 DR000105	KR	2020	Wish You: Your Melody from My Heart
 DR000260	TW	2026	Wishing Upon the Shooting Stars
 DR000782	TH	2019	With Love
+DR001208	CN	2026	Wonderful Times
 DR000524	CN	2021	Word of Honor
 DR000869	TH	2022	Work From Heart
 DR000340	PH	2021	Worth The Wait T2
@@ -1179,6 +1190,7 @@ DR000109	KR	2021	You Make Me Dance
 DR001066	TH	2026	You Maniac
 DR000802	TH	2020	You Never Eat Alone
 DR000844	TH	2022	You're My Sky
+DR001200	CN	2026	Young Again
 DR001044	TH	2026	Your Dear Daddy
 DR001073	KR	2026	Your Personal Taxi
 DR000972	TH	2024	Your Sky
@@ -1188,3 +1200,4 @@ DR000567	CN	2025	Yu Jun Chang Ge
 DR000793	TH	2020	YYY
 DR000794	TH	2020	YYY 2 T2
 DR001048	TH	2026	Zantiis: Miss You
+DR001203	CN	2023	Zhui Meng Qing Chun
