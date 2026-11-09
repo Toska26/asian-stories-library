@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001206",
+  "bl": false,
+  "titulo": "Love Story in the 1970s",
+  "tituloOriginal": "纯真年代的爱情",
+  "alias": [
+    "Chun Zhen Nian Dai De Ai Qing",
+    "实用主义者的爱情",
+    "Shi Yong Zhu Yi Zhe De Ai Qing"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-21",
+  "generos": [
+    "Period",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Fei Ni",
+      "persona": "PR001670",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Muyang",
+      "persona": "PR001669",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fei Ni",
+        "Fang Muyang"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "A finales de los años setenta, Fei Ni, una trabajadora de una fábrica textil que sueña con ir a la universidad, propone un matrimonio de conveniencia a Fang Muyang, un antiguo compañero de clase, para conseguir una vivienda. Lo que comienza como un acuerdo práctico se transforma poco a poco en una relación de cariño y complicidad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/81jQed_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/042/042d5795f8a89756d19c4d5aff933e18.mp4"
+    ]
+  },
+  "activo": true
+}
