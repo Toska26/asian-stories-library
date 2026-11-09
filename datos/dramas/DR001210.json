@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001210",
+  "bl": false,
+  "titulo": "About Love",
+  "tituloOriginal": "玫瑰丛生",
+  "alias": [
+    "Mei Gui Cong Sheng",
+    "蝉女",
+    "Chan Nv",
+    "五光十色的我们",
+    "相遇恰逢其时",
+    "爱如蝉翼"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-26",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Metropolitan"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Xiaoxi",
+      "persona": "PR001680",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Bei",
+      "persona": "PR001681",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Xiaoxi",
+        "Xiao Bei"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Li Xiaoxi trabaja poniendo a prueba la fidelidad de hombres en relaciones sentimentales por encargo de otras mujeres. Después de conocer a Xiao Bei, un hombre que demuestra una lealtad inesperada, comienza a cuestionarse sus propias ideas sobre el amor. Ambos afrontan heridas emocionales y descubren una relación basada en la confianza.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOROKL_4f.jpg"
+    ]
+  },
+  "activo": true
+}
