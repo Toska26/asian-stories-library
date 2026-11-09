@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001202",
+  "bl": false,
+  "titulo": "Qing Shan Zhe Bu Zhu",
+  "tituloOriginal": "青山遮不住",
+  "alias": [
+    "Lush Mountains",
+    "Qing Shan Zhe Bu Zhu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2021,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 38,
+  "estado": "finalizado",
+  "estreno": "2021-07-11",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Hong Yuanshan",
+      "persona": "PR001655",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Xiaoqing",
+      "persona": "PR001656",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gong Tianliang",
+      "persona": "PR001657",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zuo Hongwei",
+      "persona": "PR001658",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "A partir de 1973, jóvenes trabajadores llegan a una fábrica de telecomunicaciones vinculada al programa de construcción de la Tercera Línea. A lo largo de varias décadas, sus vidas personales, aspiraciones y relaciones se entrelazan con los cambios de la fábrica y de la sociedad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/2wkbWE_4f.jpg"
+    ]
+  },
+  "activo": true
+}
