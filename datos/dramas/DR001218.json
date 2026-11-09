@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001218",
+  "bl": false,
+  "titulo": "You Are My Fateful Love",
+  "tituloOriginal": "你是迟来的欢喜",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "estado": "finalizado",
+  "estreno": "2026-03-26",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Ruan Yu",
+      "persona": "PR001696",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Huaisong",
+      "persona": "PR001695",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ruan Yu",
+        "Xu Huaisong"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Ruan Yu, una escritora que utiliza sus propias experiencias sentimentales como inspiración para una novela, se ve envuelta en una acusación de plagio. Para defenderse contrata a un abogado que resulta ser Xu Huaisong, su amor platónico del instituto. Diez años después de haberse separado por un malentendido, ambos vuelven a encontrarse y descubren que sus sentimientos nunca desaparecieron.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXY7Wv_4f.jpg"
+    ]
+  },
+  "activo": true
+}
