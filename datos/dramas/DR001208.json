@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001208",
+  "bl": false,
+  "titulo": "Wonderful Times",
+  "tituloOriginal": "好好的时光",
+  "alias": [
+    "Hao Hao De Shi Guang",
+    "好好的时代"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2026-02-23",
+  "generos": [
+    "Drama",
+    "Family",
+    "Period",
+    "Comedy"
+  ],
+  "personas": [
+    {
+      "nombre": "Su Xiaoman",
+      "persona": "PR001673",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhuang Xianjin",
+      "persona": "PR001674",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhuang Haohao",
+      "persona": "PR001675",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Xiaoman",
+        "Zhuang Xianjin"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "A finales de los años setenta, Zhuang Xianjin, un trabajador de una fábrica mecánica con tres hijos, se casa con Su Xiaoman, una artista de un grupo de danza que también tiene dos hijos. Los miembros de ambas familias deben aprender a convivir y construir juntos una nueva vida a través de varias décadas de cambios y desafíos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3pw1E_4f.jpg"
+    ]
+  },
+  "activo": true
+}
