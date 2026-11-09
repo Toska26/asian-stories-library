@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001207",
+  "bl": false,
+  "titulo": "Generation to Generation",
+  "tituloOriginal": "江湖夜雨十年灯",
+  "alias": [
+    "Jiang Hu Ye Yu Shi Nian Deng"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 37,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-22",
+  "generos": [
+    "Historical",
+    "Romance",
+    "Wuxia"
+  ],
+  "personas": [
+    {
+      "nombre": "Mu Qingyan",
+      "persona": "PR001671",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cai Zhao",
+      "persona": "PR001672",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mu Qingyan",
+        "Cai Zhao"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Mu Qingyan, un joven maestro inteligente y calculador, y Cai Zhao, una heroína despreocupada y perspicaz, se ven envueltos en los conflictos del mundo de las artes marciales. Entre secretos, enfrentamientos y alianzas, ambos desarrollan una relación marcada por sentimientos intensos y una lucha por descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5vWQ4V_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/67f/67f28743b185754c52095e930d61e36c.mp4"
+    ]
+  },
+  "activo": true
+}
