@@ -247,6 +247,7 @@ DR000441	VN	2021	Double Daddy, Double Happy
 DR000508	SG	2026	Double Helix
 DR000244	TW	2026	Double Shuffle
 DR001128	JP	2026	Doubt: Revenge After 15 Years
+DR001216	CN	2026	Dream of Golden Years
 DR000262	TW	2026	Dual Stars
 DR000737	JP	2026	Duty First, Kiss Later
 DR000163	KR	2024	Eccentric Romance
@@ -262,6 +263,7 @@ DR000654	JP	2022	Eternal Yesterday
 DR000283	PH	2020	Even After
 DR000056	TH	2022	Even Sun
 DR000380	PH	2023	Ever After
+DR001223	CN	2026	Everlasting Moonlight
 DR000936	TH	2024	Every You, Every Me
 DR000256	TW	2025	Exclusive Love
 DR001156	JP	2026	Extraordinary Attorney Minami
@@ -274,6 +276,7 @@ DR001196	CN	2026	Falling Under the Stars
 DR000176	KR	2026	Fan Service
 DR000402	VN	2016	Farewell My Ghost Boyfriend
 DR000521	CN	2020	Fatal Journey
+DR001222	CN	2026	Fate Beyond Script
 DR000164	KR	2025	FC Soldout
 DR000589	CN	2026	Feel What You Feel
 DR000476	VN	2025	Fight for Love
@@ -320,6 +323,7 @@ DR000553	CN	2025	Ghost Marriage: A Straight Man Forced to Marry the King of the 
 DR000808	TH	2020	Ghost Runner
 DR001101	KR	2026	Gift
 DR000638	JP	2021	Given
+DR001219	CN	2026	Glaze of Love
 DR001173	CN	2026	Glory in Shadows
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
@@ -496,11 +500,13 @@ DR000623	JP	2020	Life~Love on the Line
 DR000111	KR	2021	Light on Me
 DR000118	KR	2026	Light on Me 2 T2
 DR000330	PH	2021	Limited Edition
+DR001213	CN	2026	Lin'an Ruomeng
 DR001182	CN	2026	Little Tail, Keep Up
 DR000965	TH	2024	Live in Love
 DR000682	JP	2024	Living With Him
 DR000374	PH	2023	Lonely Connections
 DR000204	KR	2026	Long-Term Relationship
+DR001217	CN	2026	Lose My Heart to You
 DR000555	CN	2025	Lost in Kyoto
 DR000991	TH	2025	Lost in the Woods
 DR001049	TH	2026	Lost to Light
@@ -513,7 +519,9 @@ DR000820	TH	2021	Love Area T1
 DR000821	TH	2022	Love Area T2 T2
 DR000319	PH	2021	Love at the End of the World
 DR000708	JP	2025	Love Begins in the World of If
+DR001214	CN	2026	Love Behind the Years
 DR000269	PH	2021	Love Beneath the Stars
+DR001220	CN	2026	Love Beyond the Grave
 DR000463	VN	2022	Love Bill
 DR000022	TH	2018	Love by Chance
 DR000023	TH	2020	Love by Chance 2: A Chance to Love T2
@@ -664,6 +672,7 @@ DR000669	JP	2023	My Personal Weatherman
 DR000382	PH	2023	My Plantito
 DR000845	TH	2022	My Ride
 DR001164	CN	2026	My Rival & Me
+DR001225	CN	2026	My Rival in Love Is Me
 DR000069	TH	2026	My Romance Scammer
 DR000874	TH	2022	My Roommate
 DR000059	TH	2022	My School President
@@ -799,6 +808,7 @@ DR000590	CN	2026	Private Galaxy
 DR000192	KR	2026	Private Lesson
 DR000705	JP	2025	Punks Triangle
 DR000804	TH	2020	Puppy Love
+DR001212	CN	2026	Pursuit of Jade
 DR001194	CN	2026	Qian Fu Ri Ri Qiu Fu He
 DR001202	CN	2021	Qing Shan Zhe Bu Zhu
 DR000275	PH	2021	Quaranthings 2 T2
@@ -826,6 +836,7 @@ DR000806	TH	2020	Roommate
 DR000405	VN	2017	Roommates
 DR000130	KR	2022	Roommates of Poongduck 304
 DR000770	TH	2018	Roop Thong
+DR001224	CN	2026	Rose Hunter
 DR000212	KR	2026	Rule 101
 DR000400	PH	2026	Sa Dulo't Dulo: Isinulat Para Magwakas
 DR000329	PH	2021	Saan, Sana Tayo sa Himig ng Musika
@@ -963,6 +974,7 @@ DR000578	CN	2025	The Company
 DR000036	TH	2026	The Crow Club
 DR000828	TH	2021	The Cupid Coach
 DR001014	TH	2025	The Cursed Love
+DR001221	CN	2026	The Dark Romance
 DR000376	PH	2023	The Day I Loved You
 DR000398	PH	2026	The Day I Loved You, Two T2
 DR000134	KR	2022	The Director Who Buys Me Dinner
@@ -1099,6 +1111,7 @@ DR000423	VN	2019	Trật Tự Mới
 DR000862	TH	2022	Triage
 DR000301	PH	2020	Truly Very Yours
 DR001134	JP	2026	Tsuma o Intai Shimasu
+DR001215	CN	2026	Turbulent Love
 DR000070	TH	2026	Twenty One
 DR000368	PH	2022	Twinkle, Twinkle Little Star
 DR000931	TH	2023	Twins
@@ -1184,6 +1197,7 @@ DR001033	TH	2026	Yesterday
 DR001171	CN	2026	You Alone Know Me
 DR000452	VN	2021	You Are Ma Boy
 DR000012	TW	2023	You Are Mine
+DR001218	CN	2026	You Are My Fateful Love
 DR000449	VN	2022	You Are My Stupid Boy T3
 DR000448	VN	2021	You Are My Sunshine T2
 DR000109	KR	2021	You Make Me Dance
