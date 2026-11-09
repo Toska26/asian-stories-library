@@ -749,7 +749,6 @@ DR000235	TW	2021	Papa & Daddy
 DR000239	TW	2022	Papa & Daddy T2
 DR000361	PH	2022	Papa, What Is Love?
 DR000362	PH	2023	Papa, What Is Love? Season 2 T2
-DR001198	CN	2026	Paris Breeze in Waiting
 DR000923	TH	2023	Past-Senger
 DR000328	PH	2021	Pay-Ibig
 DR001047	TH	2026	PayBack The Series

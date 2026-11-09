@@ -1,5 +1,6 @@
 DR001193	CN	2026	Ci Sheng Ruo De Xiao Yu Bai
 DR001191	CN	2026	Gong Lue Miao Jiang Shao Zhu
 DR000950	TH	2024	Only Boo!
+DR001198	CN	2026	Paris Breeze in Waiting
 DR001030	TH	2026	Peach and Me
 DR001187	CN	2026	Ye Se Liao Ren
