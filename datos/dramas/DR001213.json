@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001213",
+  "bl": false,
+  "titulo": "Lin'an Ruomeng",
+  "tituloOriginal": "临安若梦",
+  "alias": [
+    "Reincarnated Love"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 15,
+  "estado": "finalizado",
+  "estreno": "2026-03-07",
+  "generos": [
+    "Historical",
+    "Romance",
+    "Fantasy"
+  ],
+  "personas": [
+    {
+      "nombre": "Jiang Ruoli",
+      "persona": "PR001686",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huo Linchuan",
+      "persona": "PR001685",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Ruoli",
+        "Huo Linchuan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Jiang Ruoli, hija de una familia de altos funcionarios y capaz de predecir el futuro mediante sus sueños, intenta evitar una tragedia que amenaza a sus padres. En su camino conoce a Huo Linchuan, un heredero atrapado en el misterio de diez vidas pasadas. Ambos comienzan como aliados y, mientras afrontan intrigas familiares y una antigua maldición, sus sentimientos se transforman en amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PxqrOR_4f.jpg"
+    ]
+  },
+  "activo": true
+}
