@@ -321,7 +321,6 @@ DR000638	JP	2021	Given
 DR001173	CN	2026	Glory in Shadows
 DR001025	TH	2025	Goddess Bless You from Death
 DR000813	TH	2021	Golden Blood
-DR001191	CN	2026	Gong Lue Miao Jiang Shao Zhu
 DR001070	TH	2026	Good Boy Series
 DR000392	PH	2025	Got My Eyes on You
 DR000297	PH	2020	Got'chu Fam!
