@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001203",
+  "bl": false,
+  "titulo": "Zhui Meng Qing Chun",
+  "tituloOriginal": "追梦青春",
+  "alias": [
+    "Zhui Hun Nan Nu",
+    "追婚男女"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2023,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2023-01-25",
+  "generos": [
+    "Drama",
+    "Comedy",
+    "Romance",
+    "Family"
+  ],
+  "personas": [
+    {
+      "nombre": "Liu Xiangnan",
+      "persona": "PR001659",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhu Yiming",
+      "persona": "PR001660",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Liu Xiangnan",
+        "Zhu Yiming"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Liu Xiangnan y Zhu Yiming se ven envueltos en una situación inesperada y fingen ser pareja para impedir que se celebre una boda. Lo que comienza como un plan improvisado acaba acercándolos y dando paso a sentimientos auténticos.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/3/37/Zhui_Meng_Qing_Chun.webp"
+    ]
+  },
+  "activo": true
+}
