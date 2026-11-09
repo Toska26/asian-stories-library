@@ -27642,5 +27642,333 @@
       "Actor"
     ],
     "activo": true
+  },
+  {
+    "codigo": "PR001612",
+    "nombre": "Niu Baoyi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001613",
+    "nombre": "Huang Wei",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001614",
+    "nombre": "Yu Wenshi",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001615",
+    "nombre": "Chen Borong",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001616",
+    "nombre": "Shao Xin",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001617",
+    "nombre": "Song Yifan",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001618",
+    "nombre": "Liu Nian",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001619",
+    "nombre": "Yu Yin",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001620",
+    "nombre": "Wang Peiyan",
+    "nombreOriginal": "王培延",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001621",
+    "nombre": "Jin Ze",
+    "nombreOriginal": "张家玮",
+    "nombreArtistico": "金泽",
+    "alias": [
+      "Garvey Jin"
+    ],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001622",
+    "nombre": "Yuan Yuhan",
+    "nombreOriginal": "袁雨涵",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001623",
+    "nombre": "Yue Yuting",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001624",
+    "nombre": "Wu Tianhao",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001625",
+    "nombre": "Hou Chengyue",
+    "nombreOriginal": "侯呈玥",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001626",
+    "nombre": "Bai Fangwen",
+    "nombreOriginal": "缴沛凯",
+    "nombreArtistico": "白方文",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001627",
+    "nombre": "Zhi Chunhe",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001628",
+    "nombre": "Chen Tianxiang",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001629",
+    "nombre": "An Qi Er",
+    "nombreOriginal": "安琪儿",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001630",
+    "nombre": "Wang Yaocheng",
+    "nombreOriginal": "王曜丞",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001631",
+    "nombre": "Chu Xia",
+    "nombreOriginal": "初夏",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001632",
+    "nombre": "Liu Te",
+    "nombreOriginal": "刘特",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001633",
+    "nombre": "Lin Qiuna",
+    "nombreOriginal": "林秋奈",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001634",
+    "nombre": "Yi Hang",
+    "nombreOriginal": "汪航",
+    "nombreArtistico": "一航",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001635",
+    "nombre": "Chen Si",
+    "nombreOriginal": "沉思",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001636",
+    "nombre": "Liu Xiyu",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001637",
+    "nombre": "Cheng Xiao",
+    "nombreOriginal": "程潇",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001638",
+    "nombre": "Luo Yun Xi",
+    "nombreOriginal": "罗云熙",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
+  },
+  {
+    "codigo": "PR001639",
+    "nombre": "Ji Xiao Bing",
+    "nombreOriginal": "季肖冰",
+    "alias": [],
+    "pais": "CN",
+    "idioma": "zh",
+    "profesiones": [
+      "Actor"
+    ],
+    "activo": true
   }
 ]
