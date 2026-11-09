@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001219",
+  "bl": false,
+  "titulo": "Glaze of Love",
+  "tituloOriginal": "我在大学修文物",
+  "alias": [
+    "Wo Zai Da Xue Xiu Wen Wu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-03-27",
+  "generos": [
+    "Youth",
+    "School",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhao Xiaocen",
+      "persona": "PR001698",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Xiao",
+      "persona": "PR001697",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhao Xiaocen",
+        "Xu Xiao"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Xu Xiao es un joven talentoso y arrogante especializado en la restauración de piezas antiguas. Zhao Xiaocen, por su parte, es una estudiante introvertida que sueña con convertirse en restauradora. Ambos se conocen en una clase de restauración de cerámica y comienzan a trabajar juntos. A medida que se apoyan mutuamente, Zhao Xiaocen gana confianza y Xu Xiao aprende a afrontar los conflictos de su familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYWY0d_4f.jpg"
+    ]
+  },
+  "activo": true
+}
