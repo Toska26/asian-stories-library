@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001222",
+  "bl": false,
+  "titulo": "Fate Beyond Script",
+  "tituloOriginal": "南相思",
+  "alias": [
+    "Nan Xiang Si"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "estado": "finalizado",
+  "estreno": "2026-03-12",
+  "generos": [
+    "Historical",
+    "Romance",
+    "Fantasy"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin Zhu",
+      "persona": "PR001700",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lou Siyi",
+      "persona": "PR001701",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin Zhu",
+        "Lou Siyi"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Jin Zhu, una joven noble que descubre que es un personaje secundario destinado a un final trágico dentro de una historia, utiliza la información que recibe para cambiar su destino. Para conseguirlo se alía con Lou Siyi, el antagonista de la trama. Lo que comienza como un pacto de conveniencia se transforma en una relación sentimental mientras ambos luchan contra el destino escrito para ellos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYpzYo_4f.jpg"
+    ]
+  },
+  "activo": true
+}
