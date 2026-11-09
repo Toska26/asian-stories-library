@@ -1,0 +1,81 @@
+{
+  "codigo": "DR001199",
+  "bl": false,
+  "titulo": "How Dare You!?",
+  "tituloOriginal": "成何体统",
+  "alias": [
+    "Cheng He Ti Tong",
+    "This Is Ridiculous"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-06",
+  "generos": [
+    "Historical",
+    "Romance",
+    "Comedy",
+    "Fantasy"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Wanyin",
+      "persona": "PR001640",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiahou Dan",
+      "persona": "PR001582",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiahou Bo",
+      "persona": "PR001641",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Yong'er",
+      "persona": "PR001642",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Wanyin",
+        "Xiahou Dan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Wang Cuihua despierta dentro de una novela histórica y descubre que se ha convertido en Yu Wanyin, una emperatriz destinada a un final trágico. Para sobrevivir, intenta cambiar la historia y se encuentra con Zhang San, otro viajero del tiempo que resulta ser Xiahou Dan, el emperador. Ambos unen fuerzas para alterar el destino que les espera.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Pxzg70_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/67c/67c34b9630469b3c13b7982316ffe7a1.mp4"
+    ]
+  },
+  "activo": true
+}
