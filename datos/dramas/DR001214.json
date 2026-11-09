@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001214",
+  "bl": false,
+  "titulo": "Love Behind the Years",
+  "tituloOriginal": "我深深地爱着你",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-03-08",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Fang Xinyan",
+      "persona": "PR001687",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Haiyang",
+      "persona": "PR001688",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fang Xinyan",
+        "Jiang Haiyang"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Fang Xinyan y Jiang Haiyang fueron dos jóvenes enamorados que compartían sus sueños y aspiraban a estudiar en la universidad. Una serie de malentendidos los separó y sus vidas tomaron caminos diferentes. Años después se reencuentran y deben afrontar las circunstancias familiares y laborales que han cambiado sus vidas. Jiang Haiyang descubre la verdad sobre su separación y vuelve a acercarse a ella.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOpJLL_4f.jpg"
+    ]
+  },
+  "activo": true
+}
