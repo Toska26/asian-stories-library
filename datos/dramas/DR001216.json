@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001216",
+  "bl": false,
+  "titulo": "Dream of Golden Years",
+  "tituloOriginal": "你好1983",
+  "alias": [
+    "Ni Hao 1983",
+    "1983我来了"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "estado": "finalizado",
+  "estreno": "2026-03-17",
+  "generos": [
+    "Period",
+    "Business",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Xia Xiaolan",
+      "persona": "PR001691",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Cheng",
+      "persona": "PR001692",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xia Xiaolan",
+        "Zhou Cheng"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "En 1983, Xia Xiaolan, una mujer que llega a esa época desde la vida moderna, se enfrenta a los prejuicios y a las dificultades de una sociedad en transformación. Decidida a cambiar su destino, comienza desde cero y utiliza su inteligencia y determinación para abrirse camino en el mundo de los negocios. Durante su recorrido también transforma la vida de quienes la rodean.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O8kQE3_4f.jpg"
+    ]
+  },
+  "activo": true
+}
