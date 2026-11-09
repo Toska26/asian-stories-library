@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001223",
+  "bl": false,
+  "titulo": "Everlasting Moonlight",
+  "tituloOriginal": "月光永不坠落",
+  "alias": [
+    "Yue Guang Yong Bu Zhui Luo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 51,
+  "duracion": 2,
+  "estado": "finalizado",
+  "estreno": "2026-03-12",
+  "generos": [
+    "Romance",
+    "Modern"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Ming",
+      "persona": "PR001625",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yang Jingzhi",
+      "persona": "PR001624",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Ming",
+        "Yang Jingzhi"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Yu Ming y Yang Jingzhi estuvieron enamorados, pero la ruina de la familia de ella y una serie de sacrificios ocultos provocaron su separación. Cinco años después, sus vidas han cambiado: Yang Jingzhi se ha convertido en un empresario de éxito, mientras Yu Ming lucha por salir adelante. El destino vuelve a reunirlos y ambos deberán superar los malentendidos del pasado para recuperar el amor que nunca desapareció.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/2/28/Yue_Guang_Yong_Bu_Zui_Luo.jpg"
+    ]
+  },
+  "activo": true
+}
