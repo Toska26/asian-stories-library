@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001201",
+  "bl": false,
+  "titulo": "Country Love 18",
+  "tituloOriginal": "乡村爱情18",
+  "alias": [
+    "Xiang Cun Ai Qing 18",
+    "Village Love Season 18"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-02-10",
+  "generos": [
+    "Comedy",
+    "Family"
+  ],
+  "personas": [
+    {
+      "nombre": "Xie Guangkun",
+      "persona": "PR001646",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Neng",
+      "persona": "PR001647",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Si",
+      "persona": "PR001648",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Xiaofeng",
+      "persona": "PR001650",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Xiaomeng",
+      "persona": "PR001651",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Yongqiang",
+      "persona": "PR001652",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En el pueblo de Ivory Mountain, la reelección del responsable de la cooperativa de abastecimiento y comercialización provoca una animada competencia entre los vecinos. Entre disputas familiares, rivalidades y situaciones cómicas, los habitantes deberán resolver sus diferencias y afrontar una nueva etapa en la comunidad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/731Zbb_4f.jpg"
+    ]
+  },
+  "activo": true
+}
