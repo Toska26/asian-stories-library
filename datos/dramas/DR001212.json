@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001212",
+  "bl": false,
+  "titulo": "Pursuit of Jade",
+  "tituloOriginal": "逐玉",
+  "alias": [
+    "Zhu Yu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-03-06",
+  "generos": [
+    "Historical",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Fan Changyu",
+      "persona": "PR001586",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Zheng",
+      "persona": "PR001684",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fan Changyu",
+        "Xie Zheng"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Fan Changyu, hija de un carnicero, encuentra durante una tormenta de nieve a Xie Zheng, un noble caído en desgracia que oculta su identidad mientras busca vengar una antigua tragedia. Ambos acuerdan un matrimonio de conveniencia que poco a poco se convierte en amor verdadero. Cuando la guerra los separa, Changyu se adentra en el campo de batalla para encontrar a su familia y a su marido, mientras Xie Zheng lucha por recuperar su posición y proteger su país.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXmvAx_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/aa8/aa8dc00b3a8fbf453c81333106766cb7.mp4"
+    ]
+  },
+  "activo": true
+}
