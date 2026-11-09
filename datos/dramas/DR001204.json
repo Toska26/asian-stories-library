@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001204",
+  "bl": false,
+  "titulo": "Pawnshop",
+  "tituloOriginal": "典当行",
+  "alias": [
+    "Dian Dang Xing"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "estado": "finalizado",
+  "estreno": "2026-02-14",
+  "generos": [
+    "Drama",
+    "Urban"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin Xin",
+      "persona": "PR001661",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yin Tongshan",
+      "persona": "PR001662",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huang Doudou",
+      "persona": "PR001663",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yin Guangming",
+      "persona": "PR001664",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Gege",
+      "persona": "PR001665",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yin Guangming",
+        "Jin Gege"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "En Pekín, dos casas de empeño rivales, Jinshunxiang y Yinhuitong, mantienen una larga disputa comercial. Jin Xin y Yin Tongshan, antiguos compañeros de formación, dirigen los negocios enfrentados. Yin Guangming, hijo de Yin Tongshan, trabaja en la casa de empeño de su rival y está enamorado de Jin Gege, hija de Jin Xin. La rivalidad comercial y familiar amenaza con separar a la pareja.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3o0boV_4f.jpg"
+    ]
+  },
+  "activo": true
+}
