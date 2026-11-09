@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001220",
+  "bl": false,
+  "titulo": "Love Beyond the Grave",
+  "tituloOriginal": "白日提灯",
+  "alias": [
+    "Bai Ri Ti Deng",
+    "Mu Xu Ci"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-03-28",
+  "generos": [
+    "Fantasy",
+    "Romance",
+    "Historical"
+  ],
+  "personas": [
+    {
+      "nombre": "He Simu",
+      "persona": "PR001699",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Duan Xu",
+      "persona": "PR001669",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "He Simu",
+        "Duan Xu"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "He Simu, una poderosa soberana del mundo de los espíritus, conoce inesperadamente a Duan Xu, un joven general humano que posee un objeto relacionado con alguien de su pasado. A medida que ambos investigan los secretos que rodean al general y sus verdaderas intenciones, establecen una alianza para proteger los mundos espiritual y humano. La cercanía entre ellos termina convirtiéndose en amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOzvQN_4f.jpg"
+    ]
+  },
+  "activo": true
+}
