@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001211",
+  "bl": false,
+  "titulo": "Seeds of Scarlet Longing",
+  "tituloOriginal": "在你眉梢种红豆",
+  "alias": [
+    "Zai Ni Mei Xiao Zhong Hong Dou"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-02-26",
+  "generos": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Historical"
+  ],
+  "personas": [
+    {
+      "nombre": "Liang Jiangzhu",
+      "persona": "PR001683",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Miu",
+      "persona": "PR001682",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Liang Jiangzhu",
+        "Shen Miu"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Liang Jiangzhu pertenece a una misteriosa raza maldita y necesita encontrar una pareja para sobrevivir a una enfermedad que amenaza su vida. Cuando conoce a Shen Miu, un poderoso funcionario que persigue a los miembros de su pueblo, consigue vincularlo a ella mediante un hechizo de amor. Lo que comienza como un enfrentamiento evoluciona hacia una relación sentimental.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nO8NKW_4f.jpg"
+    ]
+  },
+  "activo": true
+}
