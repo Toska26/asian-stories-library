@@ -67,7 +67,7 @@ Orden de investigación:
 6. Origen: novela, manga, webtoon, adaptación, historia original, etc.
 7. Especiales y episodios adicionales.
 8. Temporadas, serie, remake, franquicia y universo.
-9. Multimedia: portada, tráiler y otros materiales disponibles.
+9. Multimedia: portada y búsqueda de vídeos relacionados con el drama (tráilers, teasers, OST, clips, making of, entrevistas, vídeos promocionales y otros materiales).
 10. Sinopsis.
 11. Personajes identificados, tanto principales como secundarios.
 12. Parejas románticas confirmadas.
@@ -102,8 +102,10 @@ Este trabajo se realizará globalmente al terminar la incorporación anual, para
 4. Omitir los campos desconocidos en lugar de rellenarlos con `null` o arrays vacíos innecesarios.
 5. No inventar información para completar la ficha.
 6. Los títulos deben seguir el criterio del catálogo: título internacional/inglés en `titulo`, título en escritura original en `tituloOriginal` y romanizaciones/títulos alternativos en `alias`, según corresponda.
-7. Incluir los enlaces directos de portada y tráiler cuando estén disponibles. Las portadas deben ser URLs directas a la imagen, no enlaces a páginas que la contienen.
-8. Entregar las fichas como borradores para revisión. No incorporarlas todavía al repositorio.
+7. Incluir la portada y todos los enlaces de vídeos relacionados que se encuentren durante la investigación. Buscar, entre otras fuentes, en YouTube, Viki, MyDramaList y plataformas oficiales de emisión o distribución.
+8. Añadir los enlaces multimedia encontrados al borrador sin comprobar previamente si se reproducen, si están disponibles en la región o si siguen activos. Esa comprobación se hará durante la revisión de la ficha.
+9. Para las portadas, utilizar URLs directas a la imagen, no enlaces a páginas que la contienen.
+10. Entregar las fichas como borradores para revisión. No incorporarlas todavía al repositorio.
 
 **Importante:** antes de generar fichas nuevas, consultar la versión actual de `informacion/plantilla.json`. Si la plantilla ha cambiado, prevalece la plantilla vigente sobre cualquier ejemplo antiguo de este documento.
 
@@ -117,7 +119,8 @@ Antes de incorporar cada lote, revisar:
 - Códigos DR y relaciones FR, UN, SR y RM.
 - Personajes y distinción entre principales y secundarios.
 - Parejas románticas: solo las confirmadas.
-- Funcionamiento de las URLs de portadas y tráileres.
+- URLs de portadas y vídeos multimedia: comprobar durante la revisión si las imágenes y los vídeos se pueden abrir y visualizar.
+- Enlaces de vídeos retirados, rotos, bloqueados o que no se puedan reproducir: eliminarlos de la ficha.
 - Ausencia de duplicados, incluidos los registros inactivos.
 
 Después:
@@ -157,7 +160,8 @@ Orden de mantenimiento acordado: **PERSONAS → SHIPS → ENTIDADES**.
 - Añadir una pareja solo cuando la relación romántica sea clara y esté respaldada; si no, dejarla fuera.
 - No investigar actores durante el trabajo mensual: esa revisión se hará de forma global al cierre del año.
 - Los personajes sí se investigan y registran ahora, incluidos los secundarios identificables.
-- Origen, especiales y relaciones de temporadas/remakes/franquicias/universos se investigan ahora; no se posponen.
+- Origen, especiales, relaciones de temporadas/remakes/franquicias/universos y vídeos multimedia se investigan ahora; no se posponen.
+- En la fase de investigación se recopilan los enlaces de vídeos sin verificarlos. La comprobación de reproducción se reserva para la revisión de los dramas, momento en que se eliminan los enlaces que no funcionen o no sean visibles.
 - No crear CSV mensuales de seguimiento. La ficha JSON de cada drama será el registro central de su información.
 - Los CSV de índices existentes se mantienen como herramienta para buscar duplicados.
 - No subir borradores ni reservar códigos antes de completar las comprobaciones y recibir aprobación.
