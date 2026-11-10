@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001233",
+  "bl": false,
+  "titulo": "Blood Wedding",
+  "tituloOriginal": "法医秦明之血色婚礼",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Xue Se Hun Li",
+    "Blood Red Wedding"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2019,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "estado": "finalizado",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ding Lingdang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Da Bao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/r0pOyf.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional — People.cn",
+        "url": "https://media.people.com.cn/n1/2019/1230/c200167-31528548.html"
+      }
+    ]
+  }
+}
