@@ -1,8 +1,8 @@
 /**
  * @file scripts/indice_dramas_alfabetico.js
- * @description Genera dos índices de control a partir de las fichas JSON:
- *              - indice_dramas_alfabetico.txt: dramas activos.
- *              - indice_dramas_activo_false.txt: dramas con activo === false.
+ * @description Genera dos índices CSV a partir de las fichas JSON:
+ *              - indice_dramas_alfabetico.csv: dramas activos.
+ *              - indice_dramas_activo_false.csv: dramas con activo === false.
  *              Ambos índices incluyen títulos alternativos y relaciones entre dramas.
  * @execution Se ejecuta automáticamente mediante GitHub Actions (.github/workflows/build-biblioteca.yml)
  *            o manualmente desde consola con: node scripts/indice_dramas_alfabetico.js
@@ -13,8 +13,8 @@ const path = require('path');
 
 const rutaDramas = path.join(__dirname, '..', 'datos', 'dramas');
 const carpetaInformacion = path.join(__dirname, '..', 'informacion');
-const archivoActivos = path.join(carpetaInformacion, 'indice_dramas_alfabetico.txt');
-const archivoInactivos = path.join(carpetaInformacion, 'indice_dramas_activo_false.txt');
+const archivoActivos = path.join(carpetaInformacion, 'indice_dramas_alfabetico.csv');
+const archivoInactivos = path.join(carpetaInformacion, 'indice_dramas_activo_false.csv');
 
 const COLUMNAS = [
     'Código',
@@ -31,9 +31,17 @@ const COLUMNAS = [
     'Franquicia'
 ];
 
+// Excel en configuraciones regionales españolas suele reconocer mejor el punto y coma.
+const DELIMITADOR = ';';
+
 function limpiarCampo(valor) {
     if (valor === undefined || valor === null) return '';
-    return String(valor).replace(/[\\t\\r\\n]+/g, ' ').trim();
+    return String(valor).replace(/[\t\r\n]+/g, ' ').trim();
+}
+
+function escaparCSV(valor) {
+    const texto = limpiarCampo(valor);
+    return '"' + texto.replace(/"/g, '""') + '"';
 }
 
 function obtenerCodigo(relacion) {
@@ -51,7 +59,8 @@ function formatearRelacion(relacion, incluirOrden = false) {
     const codigo = obtenerCodigo(relacion);
     if (!codigo) return '';
 
-    if (incluirOrden && relacion && typeof relacion === 'object' && relacion.orden !== undefined && relacion.orden !== null && relacion.orden !== '') {
+    if (incluirOrden && relacion && typeof relacion === 'object' &&
+        relacion.orden !== undefined && relacion.orden !== null && relacion.orden !== '') {
         return `${codigo} (orden ${limpiarCampo(relacion.orden)})`;
     }
 
@@ -69,47 +78,36 @@ function prepararRegistro(drama) {
 
     const titulo = limpiarCampo(drama.titulo);
 
-    return {
-        codigo: limpiarCampo(drama.codigo),
+    return [
+        limpiarCampo(drama.codigo),
         pais,
-        anio: limpiarCampo(drama.anio),
+        limpiarCampo(drama.anio),
         titulo,
-        tituloOriginal: limpiarCampo(drama.tituloOriginal),
+        limpiarCampo(drama.tituloOriginal),
         alias,
-        temporada: limpiarCampo(drama.temporada),
-        temporadas: limpiarCampo(drama.temporadas),
-        serie: formatearRelacion(drama.serie),
-        universo: formatearRelacion(drama.universo),
-        remake: formatearRelacion(drama.remake, true),
-        franquicia: formatearRelacion(drama.franquicia, true),
-        tituloOrden: titulo
-    };
+        limpiarCampo(drama.temporada),
+        limpiarCampo(drama.temporadas),
+        formatearRelacion(drama.serie),
+        formatearRelacion(drama.universo),
+        formatearRelacion(drama.remake, true),
+        formatearRelacion(drama.franquicia, true)
+    ];
 }
 
 function ordenarYGuardar(dramas, archivoSalida, etiqueta) {
     const lista = dramas
-        .map(prepararRegistro)
-        .sort((a, b) => a.tituloOrden.localeCompare(b.tituloOrden, 'es', { sensitivity: 'base' }));
+        .slice()
+        .sort((a, b) => limpiarCampo(a.titulo).localeCompare(
+            limpiarCampo(b.titulo), 'es', { sensitivity: 'base' }
+        ));
 
     const lineas = [
-        COLUMNAS.join('\t'),
-        ...lista.map(drama => [
-            drama.codigo,
-            drama.pais,
-            drama.anio,
-            drama.titulo,
-            drama.tituloOriginal,
-            drama.alias,
-            drama.temporada,
-            drama.temporadas,
-            drama.serie,
-            drama.universo,
-            drama.remake,
-            drama.franquicia
-        ].map(limpiarCampo).join('\t'))
-    ];
+        COLUMNAS,
+        ...lista.map(prepararRegistro)
+    ].map(fila => fila.map(escaparCSV).join(DELIMITADOR));
 
-    fs.writeFileSync(archivoSalida, lineas.join('\n') + '\n', 'utf8');
+    // BOM UTF-8 para que Excel interprete correctamente acentos y caracteres asiáticos.
+    fs.writeFileSync(archivoSalida, '\uFEFF' + lineas.join('\r\n') + '\r\n', 'utf8');
     console.log(`✅ ${etiqueta}: ${lista.length} ficha(s) en ${archivoSalida}`);
 }
 
@@ -146,8 +144,8 @@ try {
     const dramasActivos = dramas.filter(drama => drama.activo !== false);
     const dramasInactivos = dramas.filter(drama => drama.activo === false);
 
-    ordenarYGuardar(dramasActivos, archivoActivos, 'Índice alfabético de activos generado');
-    ordenarYGuardar(dramasInactivos, archivoInactivos, 'Índice de activo: false generado');
+    ordenarYGuardar(dramasActivos, archivoActivos, 'Índice CSV de activos generado');
+    ordenarYGuardar(dramasInactivos, archivoInactivos, 'Índice CSV de activo: false generado');
 } catch (error) {
     console.error('❌ Error al generar los índices:', error.message);
     process.exit(1);
