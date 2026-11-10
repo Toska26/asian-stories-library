@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001228",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin: The Survivor",
+  "tituloOriginal": "法医秦明之幸存者",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Xing Cun Zhe",
+    "Medical Examiner Dr. Qin 3",
+    "Dr. Qin Medical Examiner"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2018,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2018-08-09",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Shiyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Ke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Lingli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ling Yue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Yuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Yong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En Longfan se suceden asesinatos de mujeres cuyos cuerpos presentan mutilaciones. Qin Ming y el equipo de investigación siguen las pistas para descubrir al responsable y esclarecer un caso relacionado con el pasado del forense.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/dwqwgf.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Avance promocional — People.cn",
+        "url": "https://ent.people.com.cn/n1/2018/0118/c1012-29773621.html"
+      },
+      {
+        "titulo": "Tráiler final — Dazhong",
+        "url": "https://www.dzwww.com/yule/ds/201808/t20180808_17702701.htm"
+      }
+    ]
+  }
+}
