@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001239",
+  "bl": false,
+  "titulo": "Longfan Stories",
+  "tituloOriginal": "法医秦明之龙番往事",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Long Fan Wang Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 24,
+  "estado": "finalizado",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhai Xiaoxiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Mingmei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ni Daqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lei Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tan Liqiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Una fotografía de un grupo de trabajadores de un yacimiento petrolífero, tomada veinte años atrás, se convierte en una inquietante advertencia de muerte. Los hijos de aquellos trabajadores quedan unidos por una cadena de sucesos y asesinatos que Qin Ming deberá investigar.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nKxL1x_4f.jpg"
+    ],
+    "teaser": [
+      {
+        "titulo": "Teaser — MangoTV",
+        "url": "https://www.mgtv.com/b/756118/24661509.html"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Making of — MangoTV",
+        "url": "https://w.mgtv.com/b/756118/24669739.html?lang=es"
+      }
+    ]
+  }
+}
