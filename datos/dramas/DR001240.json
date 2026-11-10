@@ -1,0 +1,115 @@
+{
+  "codigo": "DR001240",
+  "bl": false,
+  "titulo": "The Cursed One",
+  "tituloOriginal": "法医秦明之天谴者",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Tian Qian Zhe",
+    "Executer"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 27,
+  "estado": "finalizado",
+  "estreno": "2026-09-23",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Keke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Yalan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Shiyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dong Jian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Ziyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Xiaodong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Su Tang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xueyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Grandma Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qiao's wife",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En las afueras de Longfan aparece el cadáver de una mujer dentro de una jaula de hierro. Qin Ming descubre indicios de sustancias alucinógenas, polvo fluorescente y una carta firmada por el misterioso «Castigador». La investigación conecta varios asesinatos con desapariciones y una trama de venganza que se ha prolongado durante años.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2DPvg_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Serie oficial — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/xzxypja58mvymm0-%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E%E4%B9%8B%E5%A4%A9%E8%B0%B4%E8%80%85"
+      },
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/9ab/9ab8da6ebb84a25f23233a3a2e8cfc11.mp4"
+      }
+    ]
+  }
+}
