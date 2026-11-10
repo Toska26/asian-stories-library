@@ -1,0 +1,118 @@
+{
+  "codigo": "DR001227",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin 2: The Scavenger",
+  "tituloOriginal": "法医秦明2：清道夫",
+  "alias": [
+    "Fa Yi Qin Ming 2: Qing Dao Fu",
+    "Medical Examiner Dr. Qin 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2018,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 20,
+  "estado": "finalizado",
+  "estreno": "2018-06-15",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Shiyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bu Bing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Tianfeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tang Sisi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Jieming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bu Xinyao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Haoyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Director Tan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Qin Ming, Lin Tao y Chen Shiyu investigan una serie de asesinatos relacionados con un criminal conocido como el Carroñero, mientras intentan descubrir el patrón que conecta a las víctimas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/4wN2Jf.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/5bb/5bbc7cc2da7217ccaf66f733b3fef728.mp4"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Avance promocional — People.cn",
+        "url": "https://ent.people.com.cn/n1/2018/0419/c1012-29937422.html"
+      },
+      {
+        "titulo": "Teaser — Bilibili",
+        "url": "https://www.bilibili.com/video/BV1rp411o7Dq/"
+      },
+      {
+        "titulo": "Tráiler final — Bilibili",
+        "url": "https://www.bilibili.com/video/BV1TW411A7T9/"
+      }
+    ]
+  }
+}
