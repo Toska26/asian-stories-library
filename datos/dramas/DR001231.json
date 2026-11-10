@@ -1,0 +1,68 @@
+{
+  "codigo": "DR001231",
+  "bl": false,
+  "titulo": "Death Redemption",
+  "tituloOriginal": "法医秦明之亡命救赎",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Wang Ming Jiu Shu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2019,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "duracion": 67,
+  "estado": "finalizado",
+  "estreno": "2019-12-20",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Fuguo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Jingya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Xiaopeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Zhiyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Captain Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BwgLzf.jpg"
+    ]
+  }
+}
