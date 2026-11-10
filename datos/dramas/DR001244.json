@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001244",
+  "bl": false,
+  "titulo": "The Guardian Liu Hengshun",
+  "tituloOriginal": "真火神探刘横顺",
+  "alias": [
+    "Zhen Huo Shen Tan Liu Heng Shun",
+    "Zhen Tan",
+    "Huo Shen"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000030",
+  "episodios": 28,
+  "duracion": 45,
+  "estado": "anunciado",
+  "personas": [
+    {
+      "nombre": "Liu Hengshun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Zilong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Meiren",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En la Tianjin de finales de la dinastía Qing y comienzos de la República, Liu Hengshun, marcado por la muerte de sus padres en un incendio, desarrolla una habilidad especial para rastrear pistas ocultas. Junto a sus compañeros investiga una serie de casos mientras descubre los secretos de una misteriosa organización y de su propio pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O8Jybd_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler promocional — Youku",
+        "url": "https://www.youtube.com/watch?v=Ln1XNzRaLQw"
+      }
+    ]
+  }
+}
