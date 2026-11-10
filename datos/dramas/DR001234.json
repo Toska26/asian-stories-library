@@ -1,0 +1,109 @@
+{
+  "codigo": "DR001234",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin: Silent Evidence",
+  "tituloOriginal": "法医秦明之无声的证词",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Wu Sheng De Zheng Ci",
+    "Silent Testimony"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2021,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 30,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2021-07-18",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Dang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Captain Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Da Bao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Biao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huanhuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Shuiliang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Chao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhu Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qian Jiajia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Qin Ming comienza a trabajar en Longfan y, junto a Lin Dang y sus compañeros, investiga una serie de crímenes que parecen guardar relación con un caso ocurrido quince años atrás. La investigación le obliga a enfrentarse a recuerdos dolorosos y a descubrir conexiones ocultas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BzB05_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Vídeo promocional — MangoTV",
+        "url": "https://www.youtube.com/watch?v=pBZhq9FxhAs"
+      },
+      {
+        "titulo": "Vídeo promocional — MangoTV",
+        "url": "https://www.youtube.com/watch?v=LLAVXMyAwJI"
+      }
+    ]
+  }
+}
