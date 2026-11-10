@@ -70,18 +70,6 @@
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/nKxL1x_4f.jpg"
-    ],
-    "teaser": [
-      {
-        "titulo": "Teaser — MangoTV",
-        "url": "https://www.mgtv.com/b/756118/24661509.html"
-      }
-    ],
-    "videos": [
-      {
-        "titulo": "Making of — MangoTV",
-        "url": "https://w.mgtv.com/b/756118/24669739.html?lang=es"
-      }
     ]
   }
 }
