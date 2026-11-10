@@ -1,0 +1,28 @@
+{
+  "codigo": "DR001236",
+  "bl": false,
+  "titulo": "The Doll",
+  "tituloOriginal": "法医秦明之玩偶",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Wan Ou",
+    "Three Night Tales",
+    "三更夜话"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2022,
+  "tipo": "ANT",
+  "universo": "UN000029",
+  "episodios": 12,
+  "duracion": 3,
+  "estado": "finalizado",
+  "estreno": "2022-12-29",
+  "sinopsis": "Antología animada de cuatro relatos de misterio y terror vinculados al universo de Qin Ming: La muñeca mortal, El coche fúnebre a plena luz del día, La cuerda roja de la muerte y La grabación de la muerte.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/817goW_4f.jpg"
+    ]
+  }
+}
