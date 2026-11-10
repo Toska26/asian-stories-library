@@ -1,0 +1,103 @@
+{
+  "codigo": "DR001226",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin",
+  "tituloOriginal": "法医秦明",
+  "alias": [
+    "Fa Yi Qin Ming",
+    "Dr. Qin Medical Examiner"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 20,
+  "estado": "finalizado",
+  "estreno": "2016-10-13",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Dabao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chi Zi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Lixue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Biao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Hei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Dagou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Director Zheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El médico forense Qin Ming trabaja junto a su asistente Li Dabao y el detective Lin Tao para resolver una serie de crímenes. Los tres forman un equipo que reconstruye los casos a partir de las pruebas y los indicios encontrados en las víctimas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/REgPx_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/042/0428be7495f8f382d0943cdd4738ffbb.mp4"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Avance promocional — Bilibili",
+        "url": "https://www.bilibili.com/video/BV1Xs41167HJ/"
+      }
+    ]
+  }
+}
