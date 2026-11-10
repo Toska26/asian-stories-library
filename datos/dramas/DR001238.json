@@ -1,0 +1,104 @@
+{
+  "codigo": "DR001238",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin: Bones of the Past",
+  "tituloOriginal": "法医秦明之蚀骨时差",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Shi Gu Shi Cha"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 24,
+  "duracion": 22,
+  "estado": "finalizado",
+  "estreno": "2026-08-21",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qin Tian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Luoxia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhuang Haitao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Shiyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liang Chao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Xinyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Tingxiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Juan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la limpieza del cauce de un río aparecen restos humanos relacionados con un antiguo caso. En el cumpleaños de Qin Ming, un walkie-talkie de juguete conecta inesperadamente con su padre Qin Tian treinta años atrás. Al advertirle de una explosión, Qin Ming altera los acontecimientos y desencadena una serie de crímenes que dos generaciones de policías deberán resolver.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73oP6j_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Primer episodio — Tencent Video / WeTV",
+        "url": "https://www.youtube.com/watch?v=xa1Vjw2QG40"
+      }
+    ]
+  }
+}
