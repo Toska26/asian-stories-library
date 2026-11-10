@@ -1,0 +1,42 @@
+{
+  "codigo": "DR001243",
+  "bl": false,
+  "titulo": "Tientsin Mystic",
+  "tituloOriginal": "河神之渡阴",
+  "alias": [
+    "He Shen Zhi Du Yin"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "PEL",
+  "franquicia": "FR000052",
+  "universo": "UN000030",
+  "estado": "finalizado",
+  "estreno": "2026-09-10",
+  "finalizacion": "2026-09-10",
+  "personas": [
+    {
+      "nombre": "Guo Deyou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xia Lian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Antes de convertirse en el Dios del Río, el joven Guo Deyou se une a la médica occidental Xia Lian para investigar una serie de extraños sucesos y crímenes en Tianjin. Entre leyendas populares, supersticiones y métodos de investigación, ambos descubren la verdad que se esconde tras varios casos inquietantes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Pexpzw_4f.jpg"
+    ]
+  }
+}
