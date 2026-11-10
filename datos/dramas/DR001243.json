@@ -12,7 +12,10 @@
   "idioma": "zh",
   "anio": 2026,
   "tipo": "PEL",
-  "franquicia": "FR000052",
+  "franquicia": {
+    "codigo": "FR000052",
+    "orden": 3
+  },
   "universo": "UN000030",
   "estado": "finalizado",
   "estreno": "2026-09-10",
