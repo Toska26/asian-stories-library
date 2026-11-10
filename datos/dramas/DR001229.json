@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001229",
+  "bl": false,
+  "titulo": "Ghost in the Tail",
+  "tituloOriginal": "法医秦明之车尾游魂",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Che Wei You Hun",
+    "Ghost in the Car"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2018,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "duracion": 68,
+  "estado": "finalizado",
+  "estreno": "2018-11-09",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pan Weiting",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mi Ji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dao Shou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Ju Zhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante un viaje a Haidong para impartir una conferencia, Qin Ming se ve envuelto en un misterioso caso: Mi Ji queda relacionada con un cadáver encontrado bajo un coche. La investigación amenaza con provocar un enfrentamiento entre dos grandes organizaciones criminales, y Qin Ming colabora con la policía local para descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Bz5q6_4f.jpg"
+    ]
+  }
+}
