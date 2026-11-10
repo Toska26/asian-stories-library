@@ -1,6 +1,7 @@
-DR001193	CN	2026	Ci Sheng Ruo De Xiao Yu Bai
-DR001191	CN	2026	Gong Lue Miao Jiang Shao Zhu
-DR000950	TH	2024	Only Boo!
-DR001198	CN	2026	Paris Breeze in Waiting
-DR001030	TH	2026	Peach and Me
-DR001187	CN	2026	Ye Se Liao Ren
+Código	País	Año	Título	Título original	Alias	Temporada	Temporadas	Serie	Universo	Remake	Franquicia
+DR001193	CN	2026	Ci She g Ruo De Xiao Yu Bai	此生若得小鱼白		1	1				
+DR001191	CN	2026	Go g Lue Miao Jia g Shao Zhu	攻略苗疆少主		1	1				
+DR000950	TH	2024	O ly Boo!	แค่ที่แกง	O ly Boo! | Khae Thi Kae g	1	1				
+DR001198	CN	2026	Pa is B eeze i  Wai i g			1	1				
+DR001030	TH	2026	Peach a d Me	มีสติแล้วลูกพีช		1	1				FR000050 (o de  2)
+DR001187	CN	2026	Ye Se Liao Re	夜色撩人		1	1				

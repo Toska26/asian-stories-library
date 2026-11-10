@@ -1,1217 +1,1218 @@
-DR000771	TH	2018	'Cause You're My Boy
-DR000001	JP	2025	10 Things I Want To Do Before I Turn 40
-DR001081	KR	2026	100 Days of Deception
-DR000945	TH	2024	1000 Years Old
-DR000709	JP	2025	10DANCE
-DR000875	TH	2022	180 Degree Longitude Passes Through Us
-DR000759	TH	2017	2 Moons
-DR000760	TH	2019	2 Moons 2 T2
-DR000761	TH	2022	2 Moons: The Ambassador T3
-DR000865	TH	2022	21 Days Theory
-DR000002	TH	2020	2gether
-DR000004	TH	2021	2gether: The Movie
-DR000775	TH	2019	2Wish
-DR000783	TH	2019	3 Will Be Free
-DR000985	TH	2025	4 Destiny
-DR000242	TW	2022	49 Days With a Merman
-DR000961	TH	2024	4Minutes
-DR000891	TH	2022	609 Bedtime Story
-DR000894	TH	2023	7 Days Before Valentine
-DR000839	TH	2021	7 Project
-DR000076	TH	2023	A Boss and a Babe
-DR000150	KR	2023	A Breeze of Love
-DR001152	JP	2025	A Calm Sea and Beautiful Days with You
-DR001154	JP	2026	A Calm Sea and Beautiful Days with You T2 T2
-DR000067	TH	2026	A Dog and a Plane
-DR001034	TH	2026	A Good Yesterday
-DR000533	CN	2023	A League of Nobleman
-DR000459	VN	2022	A Love Song For My Beloved
-DR000634	JP	2021	A Man Who Defies the World of BL
-DR000635	JP	2022	A Man Who Defies the World of BL 2 T2
-DR000636	JP	2024	A Man Who Defies the World of BL 2024 T3
-DR000637	JP	2025	A Man Who Defies the World of BL Final T4
-DR000591	CN	2026	A Mountain Can Hold Two Tigers
-DR000255	TW	2025	A Perfect Match
-DR000944	TH	2024	A Secretly Love
-DR000138	KR	2023	A Shoulder to Cry On
-DR000549	CN	2025	A Sketchy Job!
-DR000379	PH	2023	A Story to Remember
-DR000085	TH	2021	A Tale of Thousand Stars
-DR000596	CN	2026	A Winter Sun Wakes the Wind in Spring Hills' Dream
-DR001019	TH	2025	A(ir) Moment
-DR000550	CN	2025	ABO Desire
-DR001210	CN	2026	About Love
-DR000237	TW	2022	About Youth
-DR000895	TH	2023	Absolute Zero
-DR000412	VN	2018	Active Boys
-DR000404	VN	2017	Adam's Story
-DR000509	CN	2016	Addicted
-DR000937	TH	2024	Addicted Heroin
-DR000510	CN	2017	Advance Bravely
-DR001176	CN	2026	Affinity
-DR000736	JP	2026	After Moving Seats, the Boy Behind Me Has a Crush on Me
-DR000422	VN	2019	Ai Là Người Thứ Ba
-DR000886	TH	2022	Ai Long Nhai
-DR000152	KR	2023	All the Liquors
-DR000397	PH	2026	All the Things I Leave You (Patawid)
-DR000677	JP	2024	Although I Love You, and You?
-DR000153	KR	2026	Always Meet Again
-DR000284	PH	2020	Amore
-DR000300	PH	2020	Ang Pokpok ng Pandemya
-DR000014	TW	2024	AntiReset
-DR000585	CN	2026	Archives: The Nanyang Mystery
-DR000733	JP	2026	Are the Sexy Buttocks Not Good?
-DR000492	HK	2026	Ash
-DR000683	JP	2024	At 25:00 in Akasaka
-DR000684	JP	2025	At 25:00 in Akasaka T2
-DR000480	VN	2025	Awaiting Dawn
-DR000587	CN	2026	Awakening the Steppe
-DR000273	PH	2021	B X J Forever T2
-DR000415	VN	2019	Bà 5 Bống
-DR000416	VN	2019	Bà 5 Bống Phần 2 T2
-DR001192	CN	2026	Back to the Summer
-DR000194	KR	2026	Backdoor
-DR000210	KR	2026	Backdoor Part 2
-DR000772	TH	2021	Bad Buddy
-DR000969	TH	2024	Bad Guy My Boss
-DR000006	TH	2016	Bad Romance: The Series
-DR000252	TW	2024	Bad to Bed
-DR001072	TH	2026	Badminton Boys
-DR000383	PH	2024	Baka Pwede Pa?
-DR000896	TH	2023	Bake Me Please
-DR000169	KR	2025	Ball Boy Tactics
-DR000766	TH	2017	Bangkok G Story
-DR001121	JP	2022	Banshaku no Ryūgi
-DR001122	JP	2023	Banshaku no Ryūgi 2 T2
-DR001123	JP	2024	Banshaku no Ryūgi 3 T3
-DR001124	JP	2025	Banshaku no Ryūgi 4 T4
-DR001125	JP	2026	Banshaku no Ryūgi 5 T5
-DR000417	VN	2019	Bao Lô
-DR000962	TH	2024	Battle of the Writers
-DR000625	JP	2020	BE LOVE
-DR000233	TW	2021	Be Loved in House: I Do
-DR000032	TH	2023	Be Mine, Superstar
-DR000897	TH	2023	Be My Favorite
-DR001057	TH	2026	Be My Player Two
-DR000470	VN	2024	Be Your Star
-DR001129	JP	2026	Beans and Wheat
-DR000373	PH	2023	Beautiful Scars
-DR000411	VN	2018	Because of Meeting, We Meet Each Other
-DR000228	TW	2020	Because of You
-DR000048	TH	2023	Bed Friend
-DR000451	VN	2021	Beef, Cupcakes And Him
-DR000116	KR	2021	Behind Cut
-DR000516	CN	2017	Beloved Enemy
-DR000272	PH	2020	Ben X Jim
-DR000420	VN	2019	Bệnh Viện Thần Ái
-DR000940	TH	2025	Beside The Sky
-DR000294	PH	2020	Better Days
-DR000187	KR	2026	Between Doors
-DR001074	KR	2026	Between Steps
-DR000010	TH	2022	Between Us
-DR000334	PH	2021	Between Us
-DR000898	TH	2023	Beyond the Star
-DR000881	TH	2022	Big Dragon
-DR000414	VN	2018	Bikini Wars
-DR000093	TH	2026	Billionaire Biker
-DR000814	TH	2021	Bite Me
-DR000600	CN	2026	Bittersweet Love
-DR000265	TW	2025	Black and White Is Real
-DR000785	TH	2019	Blacklist
-DR000594	CN	2026	Blackout
-DR000573	CN	2025	Blades Amid Blossoms
-DR000597	CN	2026	Blazing Him
-DR001037	TH	2026	Bling Bling The Series
-DR000575	CN	2025	Blood River
-DR000158	KR	2024	Blossom Campus
-DR000538	CN	2024	Blue Canvas of Youthful Days
-DR000601	CN	2026	Blue Lips
-DR000123	KR	2022	Blue of Winter
-DR000665	JP	2023	Blue Sky Complex
-DR000124	KR	2022	Blueming
-DR000556	CN	2025	Blurred Desire
-DR001195	CN	2026	Bo Qing Hou Ye Chi Qing Qie
-DR000354	PH	2021	BO:SO
-DR000355	PH	2022	BO:SO Season 2 T2
-DR000148	KR	2023	Bon Appétit
-DR001158	JP	2026	Borders
-DR000842	TH	2022	Boy Scouts
-DR000211	KR	2026	Boy, with Caution
-DR000899	TH	2023	Boyband
-DR000498	HK	2022	BOYS
-DR000159	KR	2024	Boys Be Brave!
-DR000998	TH	2025	Boys in Love
-DR000289	PH	2020	Boys' Lockdown
-DR001160	JP	2026	Brother, Sister
-DR000830	TH	2021	Brothers
-DR000202	KR	2024	Buddy Boy
-DR000203	KR	2026	Buddy Boy: After T2
-DR000149	KR	2023	Bump Up Business
-DR000101	TH	2025	Burnout Syndrome
-DR000168	KR	2025	Business as Usual
-DR000971	TH	2024	Caged Again
-DR000543	CN	2025	Caged Bird
-DR000805	TH	2020	Calculating Love
-DR000822	TH	2021	Call It What You Want T1
-DR000823	TH	2021	Call It What You Want T2 T2
-DR000371	PH	2022	Can This Be Love?
-DR000655	JP	2022	Candy Color Paradox
-DR000522	CN	2020	Capture Lover
-DR000090	TH	2026	Cat for Cash
-DR000959	TH	2024	Century of Love
-DR000900	TH	2023	Chains of Heart
-DR000307	PH	2020	Chasing Sunsets
-DR000687	JP	2024	Chastity High
-DR000296	PH	2020	Cheat
-DR000193	KR	2026	Check in to You
-DR000864	TH	2022	Check Out
-DR000213	KR	2025	Checkered Shirt
-DR000214	KR	2025	Checkered Shirt 2 T2
-DR000047	TH	2026	ChermChey
-DR000125	KR	2022	Cherry Blossoms After Winter
-DR000066	TH	2023	Cherry Magic 30 ยังซิง
-DR000622	JP	2020	Cherry Magic! 30 of Virginity Can Make You a Wizard?!
-DR000629	JP	2022	Cherry Magic! The Movie
-DR000628	JP	2020	Cherry Magic! Tsuge & Minato Arc
-DR000627	JP	2020	Cherry Magic! Valentine's Day & Rokkaku Arc
-DR000131	KR	2022	Choco Milk Shake
-DR000768	TH	2017	Choose
-DR000707	JP	2025	Chosen Home
-DR000947	TH	2024	City of Stars
-DR001058	TH	2026	Class Crush Crisis
-DR000369	PH	2022	Clik Clak Clok
-DR000938	TH	2024	Close Friend 3: Soju Bomb!
-DR000030	TH	2021	Close Friend T1
-DR000824	TH	2022	Close Friend T2 T2
-DR000868	TH	2022	Coffee Melody
-DR000106	KR	2020	Color Rush
-DR000107	KR	2022	Color Rush 2 T2
-DR001157	JP	2026	Company Employee
-DR000179	KR	2025	Connect
-DR000263	TW	2026	Connecting to You
-DR000723	JP	2026	Contrast
-DR000099	TH	2023	Cooking Crush
-DR000685	JP	2024	Cosmetic Playlover
-DR000686	JP	2026	Cosmetic Playlover T2
-DR000724	JP	2026	Countdown to Yes
-DR000818	TH	2021	Country Boy T1
-DR000819	TH	2022	Country Boy T2 T2
-DR001201	CN	2026	Country Love 18
-DR001102	KR	2024	Crash
-DR001103	KR	2026	Crash 2: Road of Rage T2
-DR000229	TW	2020	Craving You
-DR000901	TH	2023	Crazy Handsome Rich
-DR000035	TH	2026	Crazy Love, Moo-Moo!
-DR000180	KR	2026	Cross Link T2
-DR000088	TH	2026	Cupid's Ghost
-DR000086	TH	2022	Cupid's Last Wish
-DR000040	TH	2022	Cutie Pie
-DR000041	TH	2023	Cutie Pie 2 You T2
-DR001189	CN	2026	Da Shu Luo Man Shi
-DR000310	PH	2021	Daddy Love
-DR000333	PH	2021	DanDanSoy
-DR000072	TH	2023	Dangerous Romance
-DR000083	TH	2026	Dare You to Death
-DR000028	TH	2019	Dark Blue Kiss
-DR000584	CN	2024	Dashing Youth
-DR001008	TH	2025	Dating Game
-DR000902	TH	2023	Dead Friend Forever
-DR001088	KR	2026	Dead-End Job
-DR000829	TH	2021	Deal Lover
-DR000859	TH	2022	Dear Doctor, I'm Coming for Soul
-DR001068	TH	2026	Decoding You
-DR000598	CN	2026	Deep In
-DR000949	TH	2024	Deep Night
-DR000701	JP	2025	Depth of Field
-DR000903	TH	2023	Destiny Seeker
-DR001163	JP	2026	Devoted Love: Actually, the Strongest Hero
-DR000904	TH	2023	Dinosaur Love
-DR000582	CN	2025	Disguise Game
-DR001175	CN	2026	Disguised Family
-DR000317	PH	2021	Diving Into Love
-DR000238	TW	2022	DNA Says I Love You
-DR001080	KR	2026	Doctor X: Age of the White Mafia
-DR001090	JP	2012	Doctor-X T1
-DR001091	JP	2013	Doctor-X T2 T2
-DR001092	JP	2014	Doctor-X T3 T3
-DR001093	JP	2016	Doctor-X T4 T4
-DR001094	JP	2017	Doctor-X T5 T5
-DR001095	JP	2019	Doctor-X T6 T6
-DR001096	JP	2021	Doctor-X T7 T7
-DR001007	TH	2025	Doctor's Mine
-DR001005	TH	2025	DogBro
-DR001052	TH	2026	Don't Be Too Emotional
-DR000678	JP	2024	Don't Care for an Old Man's Underwear
-DR000029	TH	2021	Don't Say No
-DR000441	VN	2021	Double Daddy, Double Happy
-DR000508	SG	2026	Double Helix
-DR000244	TW	2026	Double Shuffle
-DR001128	JP	2026	Doubt: Revenge After 15 Years
-DR001216	CN	2026	Dream of Golden Years
-DR000262	TW	2026	Dual Stars
-DR000737	JP	2026	Duty First, Kiss Later
-DR000163	KR	2024	Eccentric Romance
-DR001165	CN	2026	Echo of a Letter
-DR000581	CN	2025	Echoes of a Distant Chord
-DR001179	CN	2026	Elegy of Zhaoli
-DR000018	TH	2020	En of Love: Love Mechanics
-DR000019	TH	2020	En of Love: This Is Love Story
-DR000017	TH	2020	En of Love: Tossara
-DR000075	TH	2022	Enchanté
-DR000251	TW	2024	Eternal Butler
-DR000654	JP	2022	Eternal Yesterday
-DR000283	PH	2020	Even After
-DR000056	TH	2022	Even Sun
-DR000380	PH	2023	Ever After
-DR001223	CN	2026	Everlasting Moonlight
-DR000936	TH	2024	Every You, Every Me
-DR000256	TW	2025	Exclusive Love
-DR001156	JP	2026	Extraordinary Attorney Minami
-DR001155	KR	2022	Extraordinary Attorney Woo
-DR000995	TH	2025	Eye Contact
-DR000883	TH	2022	Fahlanruk
-DR000728	JP	2026	Fake Fact Lips
-DR000547	CN	2015	Falling in Love with a Rival
-DR001196	CN	2026	Falling Under the Stars
-DR000176	KR	2026	Fan Service
-DR000402	VN	2016	Farewell My Ghost Boyfriend
-DR000521	CN	2020	Fatal Journey
-DR001222	CN	2026	Fate Beyond Script
-DR000164	KR	2025	FC Soldout
-DR000589	CN	2026	Feel What You Feel
-DR000476	VN	2025	Fight for Love
-DR000257	TW	2025	Fight For You
-DR001085	KR	2026	Final Table
-DR000122	KR	2022	First Love Again
-DR000248	TW	2024	First Note of Love
-DR000185	KR	2025	First Page
-DR000810	TH	2021	Fish Upon the Sky
-DR000196	KR	2026	Fix the Error!
-DR000986	TH	2025	Flirt Milk
-DR000603	CN	2026	Flirting with My Archrival on Earth
-DR001041	TH	2026	Flower Boy: Enchanted by the Scent of Pollen
-DR000439	VN	2020	Follow My Sunshine
-DR001069	TH	2026	Fool in Love
-DR000453	VN	2021	FOOLs – Những Kẻ Khờ
-DR000413	VN	2018	Football Guys
-DR000905	TH	2023	For Him
-DR000465	VN	2023	For You A Thousand Times
-DR000409	VN	2017	Forever Love
-DR000939	TH	2024	Fourever You
-DR000795	TH	2020	Friend Forever
-DR001190	CN	2026	Fu Ren Zou De Di San Nian
-DR000649	JP	2022	Fudanshi Bartender
-DR000906	TH	2023	Future
-DR000326	PH	2021	Game Over
-DR000270	PH	2020	Gameboys
-DR000271	PH	2022	Gameboys 2 T2
-DR000752	TH	2016	Gay OK Bangkok
-DR000753	TH	2017	Gay OK Bangkok 2 T2
-DR001114	JP	2020	Gekijōban Oishii Kyūshoku: Final Battle
-DR001118	JP	2024	Gekijōban Oishii Kyūshoku: Road to Ikameshi
-DR001116	JP	2022	Gekijōban Oishii Kyūshoku: Sotsugyō
-DR000987	TH	2025	Gelboys
-DR000988	TH	2026	Gelboys 2 T2
-DR000787	TH	2020	Gen Y
-DR000788	TH	2021	Gen Y 2 T2
-DR001207	CN	2026	Generation to Generation
-DR000507	SG	2022	Getaway
-DR000419	VN	2019	Ghe Bẹo Ghẹo Ai
-DR000434	VN	2023	Ghe Bẹo Ghẹo Ai 2
-DR000880	TH	2022	Ghost Host, Ghost House
-DR000553	CN	2025	Ghost Marriage: A Straight Man Forced to Marry the King of the Underworld
-DR000808	TH	2020	Ghost Runner
-DR001101	KR	2026	Gift
-DR000638	JP	2021	Given
-DR001219	CN	2026	Glaze of Love
-DR001173	CN	2026	Glory in Shadows
-DR001025	TH	2025	Goddess Bless You from Death
-DR000813	TH	2021	Golden Blood
-DR001070	TH	2026	Good Boy Series
-DR000392	PH	2025	Got My Eyes on You
-DR000297	PH	2020	Got'chu Fam!
-DR000156	KR	2024	Gray Shelter
-DR000754	TH	2016	Grey Rainbow
-DR000561	CN	2025	Gu Jin Nan Qiu
-DR000517	CN	2018	Guardian
-DR000102	TH	2026	Gunshot
-DR000536	CN	2024	Gym Affairs
-DR000486	VN	2026	Hạ Cuối, Biển Xanh Và Em
-DR001145	JP	2026	Hakone Ekiden: Our Story
-DR000482	VN	2025	Hanoi, I Love You
-DR000438	VN	2020	Happiness Flies Far Away
-DR001107	KR	2026	Happy Anding
-DR000132	KR	2022	Happy Ending Romance
-DR000443	VN	2019	Happy Family
-DR000444	VN	2020	Happy Family T2
-DR000141	KR	2023	Happy Merry Ending
-DR000692	JP	2024	Happy of the End
-DR000565	CN	2025	Happy, Happy T2
-DR000882	TH	2022	Hard Love Mission
-DR001027	TH	2026	Hard Nights
-DR000388	PH	2024	Haunted Hearts
-DR000784	TH	2019	He She It
-DR000579	CN	2025	He Should Have Shone Brightly
-DR000777	TH	2019	He's Coming to Me
-DR000321	PH	2021	He's Mine
-DR000064	TH	2025	Head 2 Head
-DR000165	KR	2025	Heart Stain
-DR000074	TH	2026	Heartbound
-DR000313	PH	2021	HeartBreak Mountain
-DR000167	KR	2025	Heesu in Class 2
-DR000488	HK	2018	Hehe & He
-DR000489	HK	2020	Hehe & He T2
-DR000490	HK	2021	Hehe & He T3
-DR000266	PH	2020	Hello Stranger
-DR000267	PH	2021	Hello Stranger: The Movie
-DR000346	PH	2021	Herma
-DR000390	PH	2025	Hermoso
-DR000391	PH	2026	Hermoso — Season 2 T2
-DR000450	VN	2021	Hey Rival, I Love You!
-DR000425	VN	2019	Hey! First Love
-DR000081	TH	2023	Hidden Agenda
-DR000831	TH	2021	Hidden Love
-DR001133	JP	2026	Hide & Seek: The Girlfriend One Second Before Zero
-DR000970	TH	2024	High School Frenemy
-DR000324	PH	2021	Him Will Be His
-DR000619	JP	2019	His: I Didn't Think I Would Fall in Love
-DR000216	TW	2017	HIStory: My Hero
-DR000218	TW	2017	HIStory: Obsessed
-DR000217	TW	2017	HIStory: Stay Away From Me
-DR000220	TW	2018	HIStory2: Crossing the Line T2
-DR000219	TW	2018	HIStory2: Right or Wrong T2
-DR000222	TW	2019	HIStory3: Make Our Days Count T3
-DR000221	TW	2019	HIStory3: Trapped T3
-DR000223	TW	2021	HIStory4: Close to You T4
-DR000224	TW	2022	HIStory5: Love in the Future T5
-DR000907	TH	2023	Hit Bite Love
-DR000738	JP	2026	Hold on, Harutora-kun
-DR000514	CN	2017	Holy Fox Son 1: Advent
-DR000515	CN	2017	Holy Fox Son 2: Fairy Mountain Battle
-DR000840	TH	2021	Hometown's Embrace
-DR000576	CN	2025	Honey on the Edge of the Knife
-DR000523	CN	2020	Honey Sir
-DR000302	PH	2020	Hook Up
-DR000908	TH	2023	House of Stars
-DR001199	CN	2026	How Dare You!?
-DR001139	JP	2026	How to Get a Boyfriend Who Deeply Adores You
-DR000342	PH	2021	How To Heal My Broken Heart T2
-DR000084	TH	2026	How to Survive My CEO
-DR001184	CN	2026	Huan Chong: Wo De Ming Ling Fu Ren Shi Shao Shuai
-DR000757	TH	2017	I Am Your King
-DR000758	TH	2019	I Am Your King 2 T2
-DR000661	JP	2023	I Became the Main Role of a BL Drama
-DR000662	JP	2025	I Became the Main Role of a BL Drama 2 T2
-DR000670	JP	2023	I Cannot Reach You
-DR000530	CN	2022	I Don’t Want to Be Brothers with You
-DR000528	CN	2020	I Don’t Want to Be Friends with You
-DR000909	TH	2023	I Feel You Linger in the Air
-DR000478	VN	2025	I Have a Little Story
-DR000690	JP	2017	I Hear the Sunspot
-DR000691	JP	2024	I Hear the Sunspot
-DR000645	JP	2022	I Just Want to See You
-DR000999	TH	2025	I Promise I Will Come Back
-DR000790	TH	2021	I Promised You the Moon T2
-DR000960	TH	2024	I Saw You in My Dream
-DR000789	TH	2020	I Told Sunset About You
-DR000055	TH	2026	I Will Always Save You
-DR000889	TH	2022	I Will Knock You
-DR000540	CN	2025	I’ll Turn Back This Time
-DR000493	HK	2024	I'm a Fool for You T4
-DR000497	HK	2022	I'm a Fool for You T3
-DR000499	HK	2021	I'm a Fool for You
-DR000500	HK	2021	I'm a Fool for You T2
-DR000722	JP	2026	I'm Kishi Knight: Your Private Tutor
-DR000049	TH	2020	I'm Tee, Me Too
-DR001012	TH	2025	I'm the Most Beautiful Count
-DR000671	JP	2023	If It's With You
-DR000254	TW	2025	Impression of Youth
-DR000863	TH	2022	In a Relationship
-DR000282	PH	2020	In Between
-DR000318	PH	2021	In This Kaleidoscope World
-DR000529	CN	2022	In Your Heart
-DR000360	PH	2022	Indigo
-DR000151	KR	2023	Individual Circumstances
-DR000544	CN	2025	Infidelity, It’s a Disease
-DR000306	PH	2020	Influencers
-DR000803	TH	2020	Ingredients
-DR000311	PH	2021	INN Love
-DR000234	TW	2021	Innocent
-DR000365	PH	2022	Inseparable
-DR001018	TH	2025	Interminable
-DR001153	JP	2026	Iroha's Love Crosses Time
-DR000290	PH	2020	Island
-DR001086	KR	2026	It's You, Regardless
-DR000312	PH	2021	Jack & Jill
-DR000968	TH	2024	Jack & Joker: U Steal My Heart!
-DR000664	JP	2023	Jack o' Frost
-DR000155	KR	2024	Jazz for Two
-DR000571	CN	2025	Jian Hun
-DR000320	PH	2021	Jojowain o Totropahin
-DR000593	CN	2026	Journey With You
-DR000146	KR	2023	Jun & Jun
-DR000208	KR	2026	Just Friend
-DR000653	JP	2022	Kabe-Koji-Nekoyashiki-kun Desires to Be Recognized
-DR000315	PH	2021	Kamisetang Papel
-DR000646	JP	2022	Kei × Yaku: Dangerous Partners
-DR000038	TH	2025	Khemjira
-DR000039	TH	2026	Khemjira Forever
-DR000966	TH	2024	Kidnap
-DR001135	JP	2026	kiDnap GAME
-DR000506	SG	2025	Kill to Love
-DR000525	CN	2021	Killer and Healer
-DR000860	TH	2022	KinnPorsche
-DR000953	TH	2024	Kiseki in Tokyo Chapter 2
-DR000243	TW	2023	Kiseki: Dear to Me
-DR000027	TH	2018	Kiss Me Again
-DR000604	CN	2026	Kiss or Kill
-DR000026	TH	2016	Kiss: The Series
-DR000119	KR	2022	Kissable Lips
-DR000955	TH	2024	Knock Knock, Boys!
-DR001001	TH	2025	Knock Out
-DR001053	TH	2026	KNOT
-DR000304	PH	2020	Kumusta Bro?
-DR000305	PH	2022	Kumusta Bro? The Series T2
-DR001146	JP	1999	Kyūmei Byōtō 24-ji — Temporada 1
-DR001147	JP	2001	Kyūmei Byōtō 24-ji — Temporada 2 T2
-DR001148	JP	2005	Kyūmei Byōtō 24-ji — Temporada 3 T3
-DR001149	JP	2009	Kyūmei Byōtō 24-ji — Temporada 4 T4
-DR001150	JP	2013	Kyūmei Byōtō 24-ji — Temporada 5 T5
-DR001151	JP	2026	Kyūmei Byōtō 24-ji — Temporada 6 T6
-DR000226	TW	2017	La Boum
-DR000858	TH	2022	La Cuisine
-DR000910	TH	2023	La Pluie
-DR000292	PH	2020	Lakan
-DR000990	TH	2025	Last Meal Universe
-DR000053	TH	2023	Last Twilight
-DR000942	TH	2026	Lately, It’s Winter Season
-DR000184	KR	2026	Laundry Romance
-DR000911	TH	2023	Laws of Attraction
-DR000162	KR	2024	Let Free the Curse of Taekwondo
-DR000403	VN	2016	Let Love Heal
-DR001020	TH	2025	Let Me Into Your Heart
-DR000245	TW	2024	Let's Talk About Chu
-DR001197	CN	2021	Lie to Love
-DR000479	VN	2025	Life Gives Us Sadness
-DR000727	JP	2026	Life in Smokey Blue
-DR001143	JP	2026	Life Trade
-DR001106	JP	2021	Life's Punchline
-DR000623	JP	2020	Life~Love on the Line
-DR000111	KR	2021	Light on Me
-DR000118	KR	2026	Light on Me 2 T2
-DR000330	PH	2021	Limited Edition
-DR001213	CN	2026	Lin'an Ruomeng
-DR001182	CN	2026	Little Tail, Keep Up
-DR000965	TH	2024	Live in Love
-DR000682	JP	2024	Living With Him
-DR000374	PH	2023	Lonely Connections
-DR000204	KR	2026	Long-Term Relationship
-DR001217	CN	2026	Lose My Heart to You
-DR000555	CN	2025	Lost in Kyoto
-DR000991	TH	2025	Lost in the Woods
-DR001049	TH	2026	Lost to Light
-DR000505	SG	2026	Lost to You
-DR001159	JP	2026	LOST10
-DR000588	CN	2026	Love After Addiction
-DR001032	TH	2025	Love Alert
-DR000504	MY	2026	Love Algorithm
-DR000820	TH	2021	Love Area T1
-DR000821	TH	2022	Love Area T2 T2
-DR000319	PH	2021	Love at the End of the World
-DR000708	JP	2025	Love Begins in the World of If
-DR001214	CN	2026	Love Behind the Years
-DR000269	PH	2021	Love Beneath the Stars
-DR001220	CN	2026	Love Beyond the Grave
-DR000463	VN	2022	Love Bill
-DR000022	TH	2018	Love by Chance
-DR000023	TH	2020	Love by Chance 2: A Chance to Love T2
-DR000325	PH	2021	Love By Fehler
-DR001181	CN	2026	Love Cannot Be Hidden
-DR000128	KR	2022	Love Class
-DR000136	KR	2023	Love Class 2 T2
-DR000137	KR	2026	Love Class 3 T3
-DR001056	TH	2026	Love Destiny
-DR001060	TH	2018	Love Destiny
-DR000154	KR	2024	Love for Love's Sake
-DR000200	KR	2026	Love Hurts
-DR001083	KR	2026	Love in Disguise
-DR000178	KR	2026	Love in Protocol
-DR000127	KR	2022	Love in Spring
-DR000015	TH	2022	Love in the Air
-DR000696	JP	2024	Love in the Air: Premonition of Love
-DR000161	KR	2024	Love in the Big City
-DR001011	TH	2025	Love in the Moonlight
-DR000912	TH	2023	Love in Translation
-DR000331	PH	2021	Love Is
-DR000695	JP	2024	Love Is a Poison
-DR000680	JP	2024	Love Is Better the Second Time Around
-DR000681	JP	2026	Love Is Better the Second Time Around T2
-DR000157	KR	2024	Love Is Like a Cat
-DR000511	CN	2016	Love Is More Than a Word
-DR000264	TW	2026	Love Is Real
-DR001036	TH	2026	Love Like a Bike
-DR000142	KR	2023	Love Mate
-DR000870	TH	2022	Love Mechanics
-DR001063	TH	2026	Love Must Be Fixed
-DR001040	TH	2026	Love of Silom
-DR000338	PH	2021	Love or Lie
-DR000209	KR	2026	Love Penalty
-DR000778	TH	2019	Love Poison
-DR000779	TH	2021	Love Poison 2 T2
-DR000739	JP	2026	Love Punch!
-DR000186	KR	2025	Love Reset
-DR000698	TH	2024	Love Sea
-DR000699	JP	2025	Love Sea: The Home for Lovers
-DR000741	TH	2015	Love Sick 2 T2
-DR000743	TH	2024	Love Sick 2024
-DR000740	TH	2014	Love Sick: The Series
-DR000850	JP	2020	LOVE STAGE!!
-DR000851	TH	2022	Love Stage!!
-DR001206	CN	2026	Love Story in the 1970s
-DR000872	TH	2023	Love Syndrome III
-DR000873	TH	2024	Love Syndrome: The Beginning
-DR000144	KR	2023	Love Tractor
-DR001038	TH	2026	Love Upon a Time
-DR000837	TH	2021	Love With Benefits
-DR000073	TH	2026	Love You Teacher
-DR001064	TH	2026	LOVE×3: The Mandatory Love Course
-DR000838	TH	2021	Loveless Society
-DR000811	TH	2021	Lovely Writer
-DR001013	TH	2025	Lover Merman
-DR000078	TH	2026	Lovers & Gangsters
-DR000913	TH	2023	Low Frequency
-DR000996	TH	2025	Loy Kaew First Love
-DR000337	PH	2021	Lust Never Lasts
-DR001039	TH	2026	Magic Move
-DR000370	PH	2022	Make a Wish
-DR000914	TH	2023	Make a Wish
-DR000746	TH	2019	Make It Live: On The Beach T3
-DR000744	TH	2016	Make It Right
-DR000745	TH	2017	Make It Right 2 T2
-DR000747	TH	2026	Make It Right 2026
-DR001082	KR	2026	Make Me Tremble
-DR001010	TH	2025	MANDATE The Series
-DR000796	TH	2020	Manner of Death
-DR000385	PH	2024	Marahuyo Project
-DR001177	CN	2026	Marrying a Soft-Hearted God
-DR001138	JP	2026	Masked Teacher: From the Day He Lost His Wife
-DR001059	TH	2026	Match Point
-DR001024	TH	2025	Me and Thee
-DR000674	JP	2023	Me, My Husband & My Husband's Boyfriend
-DR000343	PH	2021	Meet My Angel
-DR000344	PH	2022	Meet My Angel 2 T2
-DR000537	CN	2024	Meet You at the Blossom
-DR000077	TH	2025	Melody of Secrets
-DR000092	TH	2025	Memoir of Rati
-DR000462	VN	2022	Memory
-DR000976	TH	2024	Memory in the Letter
-DR000433	VN	2022	Mến Gái Miền Tây
-DR000857	TH	2022	Meow Ears Up
-DR000227	TW	2018	Mermaid Sauna
-DR001077	JP	2026	Merry Berry Love
-DR000643	JP	2022	Minato's Laundromat
-DR000644	JP	2023	Minato's Laundromat 2 T2
-DR001022	TH	2025	Mission to the Moon
-DR000963	TH	2024	Monster Next Door
-DR000546	CN	2025	Moon and Dust
-DR000060	TH	2023	Moonlight Chicken
-DR000656	JP	2022	More Than Words
-DR000457	VN	2021	Mr Cinderella
-DR000458	VN	2023	Mr Cinderella 2 T2
-DR001067	TH	2026	Mr. Fanboy
-DR000104	KR	2020	Mr. Heart
-DR001054	TH	2026	Mr. Kill
-DR000689	JP	2024	Mr. Mitsuya's Planned Feeding
-DR000673	JP	2023	Mr. Sahara & Toki-kun
-DR000648	JP	2022	Mr. Unlucky Has No Choice But to Kiss!
-DR000978	TH	2025	MU-TE-LUV: "Hi" by My Luck
-DR000980	TH	2025	MU-TE-LUV: Diva Deva Mata
-DR000981	TH	2025	MU-TE-LUV: Fist Foot Fusion
-DR000982	TH	2025	MU-TE-LUV: Hello, Is This Luck?
-DR000983	TH	2026	MU-TE-LUV: Love Lock
-DR000984	TH	2026	MU-TE-LUV: Love Me if You Swear
-DR000979	TH	2025	MU-TE-LUV: Not My Father
-DR000640	JP	2021	My Beautiful Man
-DR000641	JP	2023	My Beautiful Man Season 2 T2
-DR000642	JP	2023	My Beautiful Man: Eternal
-DR000424	VN	2019	My Best Boyfriend
-DR000171	KR	2025	My Bias Is Showing?!
-DR000826	TH	2021	My Boy
-DR000748	TH	2014	My Bromance
-DR000751	TH	2020	My Bromance 2: 5 Years Later
-DR000749	TH	2015	My Bromance: Reunion
-DR000750	TH	2016	My Bromance: The Series
-DR000407	VN	2017	My Brother
-DR000495	HK	2023	My Colleague at BL Shop Might Be The Meant-To-Be
-DR000278	PH	2020	My Day: The Series
-DR000915	TH	2023	My Dear Gangster Oppa
-DR000763	TH	2017	My Dear Loser: Edge of 17
-DR000765	TH	2017	My Dear Loser: Happy Ever After T3
-DR000764	TH	2017	My Dear Loser: Monster Romance T2
-DR000769	TH	2018	My Dream
-DR000541	CN	2025	My Enemy Has a Crush on Me
-DR000797	TH	2020	My Engineer
-DR000288	PH	2020	My Extraordinary
-DR000363	PH	2022	My Freaky Love Story
-DR000798	TH	2020	My Gear and Your Gown
-DR000993	TH	2025	My Golden Blood
-DR000469	VN	2023	My Goofy Deskmate
-DR001046	TH	2026	My Grandpa Is a BL Writer
-DR000456	VN	2021	My Lascivious Boss
-DR000483	VN	2025	My Little Ghost
-DR000437	VN	2020	My Little Sister
-DR001170	CN	2026	My Loong
-DR000061	TH	2024	My Love Mix-Up!
-DR000639	JP	2021	My Love Mix-Up!
-DR000054	TH	2025	My Magic Prophecy
-DR000827	TH	2021	My Mate Match
-DR000445	VN	2017	My Monster In Law
-DR000446	VN	2021	My Monster In Law T2
-DR000877	TH	2022	My Only 12%
-DR000669	JP	2023	My Personal Weatherman
-DR000382	PH	2023	My Plantito
-DR000845	TH	2022	My Ride
-DR001164	CN	2026	My Rival & Me
-DR001225	CN	2026	My Rival in Love Is Me
-DR000069	TH	2026	My Romance Scammer
-DR000874	TH	2022	My Roommate
-DR000059	TH	2022	My School President
-DR001016	TH	2025	My Secret of Seer
-DR000172	KR	2025	My Secret Vampire
-DR000408	VN	2017	My Sky
-DR000952	TH	2024	My Stand-In
-DR000279	PH	2023	My Story: The Series T2
-DR000679	JP	2024	My Strawberry Film
-DR001021	TH	2025	My Stubborn
-DR000734	JP	2026	My Summer of You
-DR000477	VN	2025	My Sweet Brother in Law
-DR000114	KR	2021	My Sweet Dear
-DR001003	TH	2025	My Sweetheart Jom
-DR000933	TH	2022	My Tempo
-DR000934	TH	2023	My Tempo
-DR000241	TW	2022	My Tooth Your Love
-DR000339	PH	2021	My Toxic Lover
-DR000893	TH	2023	My Universe
-DR000534	CN	2023	Mysterious Lotus Casebook
-DR000364	PH	2022	Mystery of Love
-DR001017	TH	2025	Mystique in the Mirror
-DR000667	JP	2023	Naked Dining
-DR001130	JP	2026	Naked People
-DR000440	VN	2020	Nation's Brother
-DR000042	TH	2023	Naughty Babe
-DR000566	CN	2025	Nearly-Royal Highness / Nine Thousand Years Old
-DR000406	VN	2017	Neighbor Guy
-DR000558	CN	2025	Never Date a Capricorn
-DR000189	KR	2026	Never Forget Your Enemy
-DR000071	TH	2022	Never Let Me Go
-DR001061	TH	2026	New Boyfriend
-DR000428	VN	2019	Nhà Trọ Có Quá Trời Phòng
-DR000431	VN	2020	Nhà Trọ Có Quá Trời Phòng Phần 2 T2
-DR000432	VN	2023	Nhà Trọ Có Quá Trời Phòng Phần 3 T3
-DR000922	TH	2023	Night Dream
-DR001109	KR	2026	Nine to Six
-DR000825	TH	2021	Nitiman
-DR000110	KR	2021	Nobleman Ryu's Wedding
-DR000098	TH	2021	Not Me
-DR000609	CN	2026	Not Yours
-DR001065	TH	2026	Nour
-DR000126	KR	2022	Ocean Likes Me
-DR000466	VN	2023	Oh My God
-DR000286	PH	2020	Oh My Sexual
-DR000295	PH	2020	Oh, Mando!
-DR000121	KR	2022	Oh! Boarding House
-DR000133	KR	2022	Oh! My Assistant
-DR000876	TH	2022	Oh! My Sunshine Night
-DR001113	JP	2019	Oishii Kyūshoku
-DR001115	JP	2021	Oishii Kyūshoku Season 2 T2
-DR001117	JP	2023	Oishii Kyūshoku Season 3 T3
-DR001120	JP	2026	Oishii Kyūshoku Season 4 T4
-DR001119	JP	2025	Oishii Kyūshoku: Honō no Shūgakuryokō
-DR000650	JP	2022	Old Fashion Cupcake
-DR000977	TH	2024	OMG! Vampire
-DR000866	TH	2022	On Cloud Nine
-DR000129	KR	2022	Once Again
-DR000335	PH	2021	One Day Pag-ibig
-DR001098	KR	2026	One of a Kind Romance
-DR000672	JP	2023	One Room Angel
-DR001042	TH	2026	One Year
-DR000063	TH	2024	Only Boo!
-DR000916	TH	2023	Only Friends
-DR000917	TH	2026	Only Friends: Dream On
-DR000177	KR	2026	Opposites Attract
-DR000731	JP	2026	Ordinary Love
-DR000501	HK	2021	Ossan's Love
-DR000610	JP	2016	Ossan's Love
-DR000611	JP	2018	Ossan's Love
-DR000612	JP	2019	Ossan's Love -in the sky- T2
-DR000613	JP	2024	Ossan's Love -Returns- T3
-DR000087	TH	2025	Ossan's Love Thailand
-DR000621	JP	2019	Ossan's Love The Movie: Love or Dead
-DR000139	KR	2023	Our Dating Sim
-DR001205	CN	2026	Our Dazzling Days
-DR000666	JP	2023	Our Dining Table
-DR000494	HK	2024	Our Golden Times
-DR000774	TH	2018	Our Skyy
-DR000773	TH	2023	Our Skyy 2
-DR000280	PH	2023	Our Story: The Series T3
-DR000697	JP	2024	Our Youth
-DR000568	CN	2025	Out of Control Starlight
-DR000799	TH	2020	Oxygen
-DR000309	PH	2021	Paano Kaya Kung Tayo?
-DR000308	PH	2021	Padayon
-DR000815	TH	2021	Paint with Love
-DR000235	TW	2021	Papa & Daddy
-DR000239	TW	2022	Papa & Daddy T2
-DR000361	PH	2022	Papa, What Is Love?
-DR000362	PH	2023	Papa, What Is Love? Season 2 T2
-DR000923	TH	2023	Past-Senger
-DR001204	CN	2026	Pawnshop
-DR000328	PH	2021	Pay-Ibig
-DR001047	TH	2026	PayBack The Series
-DR000964	TH	2024	Peaceful Property
-DR001055	TH	2026	Peach and Me
-DR001028	TH	2026	Peach Lover
-DR000112	KR	2021	Peach of Time
-DR000174	KR	2025	Peach Trap
-DR000474	VN	2024	People Come Later
-DR000068	TH	2024	Perfect 10 Liners
-DR000676	JP	2024	Perfect Propose
-DR000846	TH	2022	Physical Therapy
-DR001185	CN	2026	Pink Prince
-DR000564	CN	2024	Pink Summer
-DR000322	PH	2021	Pisces
-DR000924	TH	2023	Pit Babe
-DR000925	TH	2025	Pit Babe 2 T2
-DR000058	TH	2026	Plan B to U
-DR000201	KR	2026	Play Me
-DR000926	TH	2023	Playboyy
-DR000927	TH	????	Playboyy Season 2 T2
-DR000240	TW	2022	Plus & Minus
-DR000559	CN	2025	PlutoCharon
-DR000033	TH	2026	Police in Love
-DR001136	JP	2026	Political Lupin
-DR000675	JP	2023	Polyethylene Terephthalate
-DR000614	JP	2018	Pornographer
-DR000618	JP	2021	Pornographer: Continued Spring Life
-DR000615	JP	2019	Pornographer: Mood Indigo
-DR000617	JP	2021	Pornographer: Playback
-DR000616	JP	2021	Pornographer: Spring Life
-DR000356	PH	2022	PRE-BO: The Beginning
-DR001180	CN	2026	Predestined Love
-DR001174	CN	2026	Predict You in 3s
-DR000349	PH	2021	PRESO
-DR000353	PH	2024	PRESO End
-DR000351	PH	2023	PRESO Season 3 T3
-DR000352	PH	2024	PRESO Season 4 T4
-DR000350	PH	2021	PRESO2 T2
-DR000590	CN	2026	Private Galaxy
-DR000192	KR	2026	Private Lesson
-DR000705	JP	2025	Punks Triangle
-DR000804	TH	2020	Puppy Love
-DR001212	CN	2026	Pursuit of Jade
-DR001194	CN	2026	Qian Fu Ri Ri Qiu Fu He
-DR001202	CN	2021	Qing Shan Zhe Bu Zhu
-DR000275	PH	2021	Quaranthings 2 T2
-DR000274	PH	2020	Quaranthings: The Series
-DR001168	CN	2026	Quite the Girl
-DR000861	TH	2022	Rainbow Lagoon
-DR000359	PH	2022	Rainbow Prince
-DR000852	TH	2022	Rak Diao
-DR000569	CN	2025	Reach for the Stars
-DR000577	CN	2025	Realm's Night Rain Dreamlike
-DR001009	TH	2025	Rearrange
-DR000225	TW	2017	Red Balloon
-DR001141	JP	2026	Red Light Elegy
-DR001026	TH	2025	Reloved
-DR000031	TH	2022	Remember Me
-DR000742	TH	2019	Reminders
-DR001004	TH	2025	Reset
-DR000847	TH	2022	Restart(ed)
-DR000572	CN	2025	Returned Master
-DR000057	TH	2025	Revamp The Undead Story
-DR000548	CN	2025	Revenged Love
-DR000347	PH	2021	Rewrite the Stars
-DR000395	PH	2026	Riffs and Runs
-DR000806	TH	2020	Roommate
-DR000405	VN	2017	Roommates
-DR000130	KR	2022	Roommates of Poongduck 304
-DR000770	TH	2018	Roop Thong
-DR001224	CN	2026	Rose Hunter
-DR000212	KR	2026	Rule 101
-DR000400	PH	2026	Sa Dulo't Dulo: Isinulat Para Magwakas
-DR000329	PH	2021	Saan, Sana Tayo sa Himig ng Musika
-DR000421	VN	2019	Sạc Pin Trái Tim
-DR000287	PH	2020	Safe Haven
-DR000181	KR	2026	Saint Laurence Academy
-DR000281	PH	2020	Sakristan
-DR000491	HK	2026	Sammy's Children's Day
-DR000975	TH	2024	Sangmin Dinneaw
-DR000389	PH	2025	Sashes and Hearts
-DR000706	JP	2025	School Trip: Joined a Group I'm Not Close To
-DR000713	JP	2026	School Trip: Joined a Group I'm Not Close To Season 2 T2
-DR000454	VN	2021	School's Out! Let's Date Now!
-DR000442	VN	2020	Sea Him
-DR000954	TH	2025	Season of Love in Shimane
-DR000832	TH	2021	Second Chance
-DR001076	KR	2026	Second Plate
-DR000854	TH	2022	Secret Crush on You
-DR000997	TH	2025	Secret Ghost
-DR000259	TW	2025	Secret Lover
-DR000166	KR	2025	Secret Relationships
-DR000542	CN	2025	Secrets Happened on the Litchi Island
-DR000236	TW	2021	See You After Quarantine?
-DR000249	TW	2024	See Your Love
-DR001211	CN	2026	Seeds of Scarlet Longing
-DR000879	TH	2022	Self
-DR000120	KR	2022	Semantic Error
-DR000487	VN	2026	Sending My Pain to the Wind
-DR000095	TH	2016	Senior Secret Love: Puppy Honey
-DR000096	TH	2017	Senior Secret Love: Puppy Honey 2 T2
-DR000651	JP	2022	Senpai, This Can't Be Love!
-DR000393	PH	2025	Sereno
-DR000327	PH	2021	Serpiente
-DR000928	TH	2023	Shadow
-DR000658	JP	2022	Shimbashi Koi Story
-DR000660	JP	2023	Shimbashi Koi Story – Final Chapter T3
-DR000659	JP	2022	Shimbashi Koi Story 2 T2
-DR001006	TH	2025	Shine
-DR000372	PH	2022	Si Andy, Si Lauren, O Si Peng?
-DR000833	TH	2021	Siew Sum Noi
-DR001104	KR	2016	Signal
-DR000341	PH	2021	Simply Don't
-DR000199	KR	2026	Sin and Love
-DR000145	KR	2023	Sing My Crush
-DR000481	VN	2025	Situationship in the City
-DR000816	TH	2020	Skinship T1
-DR000817	TH	2021	Skinship T2 T2
-DR000080	TH	2022	Sky in Your Heart
-DR000386	PH	2024	Sky Valley
-DR000767	TH	2017	Slam Dance
-DR000608	CN	2026	Sleep Therapist
-DR000694	JP	2024	Smells Like Green Spirit
-DR000261	TW	2026	Smile After Tears
-DR000809	TH	2020	So Much in Love
-DR000357	PH	2022	SO/PRE
-DR000843	TH	2022	Something in My Room
-DR000020	TH	2016	SOTUS
-DR000021	TH	2017	SOTUS S T2
-DR000726	JP	2026	Soul Mate
-DR000807	TH	2020	Soulmate T2
-DR000973	TH	2024	Spare Me Your Mercy
-DR001161	JP	2026	SQUALL
-DR000436	VN	2020	Stage of Love
-DR000475	VN	2024	Stand By Me
-DR000079	TH	2022	Star in My Mind
-DR000143	KR	2023	Star Struck
-DR000378	PH	2023	Stay
-DR000011	TW	2023	Stay by My Side
-DR000703	JP	2025	Stay By My Side After the Rain
-DR000496	HK	2023	Stay Still
-DR000532	CN	2023	Stay With Me
-DR000918	TH	2023	Step by Step
-DR000003	TH	2020	Still 2gether T2
-DR000293	PH	2020	Strange Heart
-DR000314	PH	2021	Stranger's Kiss
-DR000367	PH	2022	Stranger's Love
-DR000345	PH	2021	Stuck On You
-DR000447	VN	2021	Stupid Boys Stupid Love
-DR000467	VN	2023	Stupid Genius
-DR000693	JP	2024	Sugar Dog Life
-DR000399	PH	2026	Sugar Games
-DR000205	KR	2026	Summer Fever
-DR001087	KR	2026	Summer Vacation
-DR000207	KR	2026	Summertime
-DR000956	TH	2024	Sunset x Vibes
-DR001002	TH	2025	SUNTINY
-DR000291	PH	2020	Swap Test
-DR000188	KR	2026	Sweet Blood
-DR000994	TH	2025	Sweet Tooth, Good Dentist
-DR000170	KR	2025	Sweetheart Service
-DR000652	JP	2022	Takara-kun & Amagi-kun
-DR000688	JP	2024	Takara's Treasure
-DR001079	KR	2026	Take Charge of My Heart
-DR000720	JP	2025	Takumi-kun Series -Drama-
-DR000715	JP	2009	Takumi-kun Series 2: Niji-iro no Garasu
-DR000716	JP	2010	Takumi-kun Series 3: Bibō no Detail
-DR000717	JP	2010	Takumi-kun Series 4: Pure
-DR000718	JP	2011	Takumi-kun Series 5: Ano, Hareta Aozora
-DR000714	JP	2007	Takumi-kun Series: Soshite Harukaze ni Sasayaite
-DR000719	JP	2023	Takumi-kun Series: The Dawn of the Long Tales
-DR001166	CN	2026	Tamed
-DR000375	PH	2023	Teach Me How
-DR001071	TH	2026	Teach Me, Touch Me
-DR000473	VN	2024	Teenager Judge
-DR000570	CN	2025	Ten Years of Silence
-DR001110	JP	2023	Tengu no Daidokoro
-DR001111	JP	2024	Tengu no Daidokoro Season 2 T2
-DR001112	JP	2026	Tengu no Daidokoro Season 3 T3
-DR000974	TH	2024	ThamePo: Heart That Skips a Beat
-DR000776	TH	2019	Thank God It's Friday
-DR000418	VN	2019	Thập Tứ Cô Nương
-DR000024	TH	2019	TharnType
-DR000025	TH	2020	TharnType 2: 7 Years of Love T2
-DR000094	TH	2025	That Summer
-DR000394	PH	2026	That Summer: Reunion
-DR001132	JP	2026	That's Enough, Dad!
-DR000856	TH	2022	That's My Candy
-DR000657	JP	2022	The 8.2 Second Rule
-DR000545	CN	2025	The Agreement of Cherry Blossom Rainy Season
-DR000316	PH	2021	The Alter
-DR001000	TH	2025	The Bangkok Boy
-DR000835	TH	2021	The Best Story
-DR000780	TH	2019	The Best Twins
-DR000583	CN	2022	The Blood of Youth
-DR000586	CN	2026	The Blood of Youth: Quest of Heroic Hearts
-DR001162	JP	2026	The Blue Flowers and the Ceramic Forest
-DR001100	KR	2026	The Blue Road
-DR000730	JP	2026	The Boy and I Who Will Break Up in 100 Days
-DR000268	PH	2020	The Boy Foretold by the Stars
-DR000034	TH	2025	The Boy Next World
-DR000725	JP	2026	The Boy Next World: My Destiny
-DR000396	PH	2026	The Boyfriend Express
-DR000919	TH	2027	The Chemistry
-DR000578	CN	2025	The Company
-DR000036	TH	2026	The Crow Club
-DR000828	TH	2021	The Cupid Coach
-DR001014	TH	2025	The Cursed Love
-DR001221	CN	2026	The Dark Romance
-DR000376	PH	2023	The Day I Loved You
-DR000398	PH	2026	The Day I Loved You, Two T2
-DR000134	KR	2022	The Director Who Buys Me Dinner
-DR000089	TH	2022	The Eclipse
-DR001050	TH	2026	The Edge of Horizon
-DR000781	TH	2019	The Effect
-DR000005	KR	2023	The Eighth Sense
-DR000663	JP	2023	The End of the World With You
-DR000050	TH	2025	The Ex-Morning
-DR000513	CN	2017	The Fairy Fox
-DR000472	VN	2024	The Fate Trap
-DR000592	HK	2026	The Gaze
-DR000323	PH	2021	The Guitar Man
-DR000082	TH	2024	The Heart Killers
-DR000557	CN	2025	The Heart of Tsukuyomi
-DR000366	PH	2022	The Heirs
-DR000967	TH	2024	The Hidden Moon
-DR000037	TH	2026	The Invisible Dragon
-DR000704	JP	2025	The Journey to Killing You
-DR000712	JP	2026	The Journey to Killing You Season 2 T2
-DR001140	JP	2026	The Kitchen of 16 Nights
-DR001167	CN	2026	The Lament of Autumn
-DR000605	CN	2026	The Last Oath
-DR000602	CN	2026	The Last Secret
-DR000989	TH	2025	The Last Time
-DR000562	CN	2025	The Leopard Cat Scholar
-DR000563	CN	2025	The Leopard Cat Scholar 2 T2
-DR000195	KR	2026	The Lie We Lived In
-DR000520	CN	2019	The Living Dead
-DR000410	VN	2018	The Lost Ring
-DR001023	TH	2025	The Love Never Sets
-DR000841	TH	2022	The Love of Winter
-DR000502	HK	2021	The Love That Dare Not Speak Its Name
-DR000921	TH	2025	The Luminous Begins T2
-DR000920	TH	2023	The Luminous Solution
-DR001035	TH	2026	The Masked Hearts
-DR000046	TH	2023	The Middleman's Love
-DR000849	TH	2022	The Miracle of Teddy Bear
-DR000606	CN	2026	The Missing Piece
-DR000791	TH	2020	The Moment I Need You
-DR000792	TH	2020	The Moment Since T2
-DR000455	VN	2021	The Most Peaceful Place Is My Place
-DR000348	PH	2021	The Navor
-DR000135	KR	2022	The New Employee
-DR000043	TH	2025	The Next Prince
-DR000485	VN	2026	The Night Before Blossom
-DR000250	TW	2024	The Nipple Talk
-DR000247	TW	2024	The On1y One
-DR000943	TH	2024	The Outing
-DR000384	PH	2024	The Perfect Heartbreak
-DR001089	KR	2026	The Perfect Lie
-DR000460	VN	2022	The Promise
-DR000878	TH	2022	The Promise
-DR000884	TH	2023	The Promise
-DR000258	TW	2025	The Promise of the Soul
-DR000702	JP	2025	The Proper Way to Write Love
-DR000711	JP	2026	The Proper Way to Write Love Season 2 T2
-DR000198	KR	2026	The Prosecutor's Proposal
-DR001108	CN	2021	The Rational Life
-DR000624	JP	2020	The Reason Why He Fell in Love with Me
-DR000633	JP	2021	The Reason Why He Fell in Love with Me Season 2 T2
-DR000632	JP	2020	The Reason Why He Fell in Love with Me: Drama Special
-DR000957	TH	2024	The Rebound
-DR000401	PH	2026	The Red Leash
-DR001097	KR	2026	The Remarried Empress
-DR001105	KR	2026	The Second Signal T2
-DR000732	JP	2026	The Servant Prince
-DR001188	CN	2026	The Seven-Day Healing Bond
-DR000800	TH	2020	The Shipper
-DR000929	TH	2023	The Sign
-DR000527	CN	2020	The Sleuth of the Ming Dynasty
-DR000484	VN	2025	The Sound of Nostalgia
-DR001084	KR	2026	The Sound of Sugar Cubes
-DR000552	SG	2025	The Sparkle in Your Eye
-DR000539	CN	2024	The Spirealm
-DR000464	VN	2022	The Star Always Follows You
-DR000173	KR	2025	The Story of Bihyung: Enchanted Master of the Goblin
-DR000595	CN	2026	The Summer You Kissed Me
-DR000941	TH	2026	The Sun From Another Star
-DR000197	KR	2026	The Table
-DR000113	KR	2021	The Tasty Florida
-DR000435	VN	2020	The Time Adventure of Tô An
-DR000160	KR	2024	The Time of Fever
-DR000100	TH	2024	The Trainee
-DR000848	TH	2022	The Tuxedo
-DR000518	CN	2019	The Untamed
-DR000519	CN	2019	The Untamed: Special Edition
-DR000890	TH	2022	The Warp Effect
-DR000358	PH	2022	The Watchers
-DR000935	TH	2023	The Whisperer
-DR001015	TH	2025	The Wicked Game
-DR000836	TH	2021	The Yearbook
-DR000097	TH	2019	Theory of Love
-DR000721	JP	2025	Therapy Game
-DR000298	PH	2020	Third and Josh
-DR001183	CN	2026	This Is the Feeling of Love
-DR000958	TH	2024	This Love Doesn't Have Long Beans
-DR000426	VN	2019	Thư Viện Ký Ức
-DR000175	KR	2025	Thundercloud Rainstorm
-DR000062	TH	2026	Ticket to Heaven
-DR000182	KR	2025	Tide of Love
-DR000183	KR	2026	Tide of Love 2 T2
-DR000377	PH	2023	Tie the Not
-DR000427	VN	2019	Tiến Bromance
-DR000429	VN	2020	Tiến Bromance: My Small Family T2
-DR000430	VN	2021	Tiến Bromance: My Small Family 2 T3
-DR001172	CN	2026	Tigers Sniff the Rose
-DR000336	PH	2021	Till Death Do Us Part
-DR000512	CN	2017	Till Death Tear Us Apart
-DR000607	CN	2026	Till I See You
-DR000888	TH	2022	Till the World Ends
-DR000946	TH	2024	Time
-DR000580	CN	2025	Time Raiders
-DR000930	TH	2023	Tin Tem Jai
-DR000115	KR	2021	Tinted With You
-DR000948	TH	2024	To Be Continued
-DR000551	CN	2025	To My Shore
-DR000108	KR	2021	To My Star
-DR000117	KR	2022	To My Star 2 T2
-DR000885	TH	2022	To Sir, With Love
-DR000007	TH	2017	Together with Me
-DR000008	TH	2018	Together with Me: The Next Chapter T2
-DR000668	JP	2023	Tokyo in April Is...
-DR000801	TH	2020	Tonhon Chonlatee
-DR001029	TH	2026	Too Close Friend
-DR001031	TH	2026	Too Close Friend 2 T2
-DR001209	CN	2026	Too Young to Love
-DR000992	TH	2025	Top Form
-DR000834	TH	2021	Top Secret Together
-DR000381	PH	2023	Toreros
-DR001075	KR	2026	Training the Intern
-DR000554	CN	2025	Trapped in Osaka
-DR000423	VN	2019	Trật Tự Mới
-DR000862	TH	2022	Triage
-DR000301	PH	2020	Truly Very Yours
-DR001134	JP	2026	Tsuma o Intai Shimasu
-DR001215	CN	2026	Turbulent Love
-DR000070	TH	2026	Twenty One
-DR000368	PH	2022	Twinkle, Twinkle Little Star
-DR000931	TH	2023	Twins
-DR001078	KR	2026	Twisted Tie
-DR000044	TH	2024	Two Worlds
-DR000253	TW	2024	Uncle Unknown
-DR000206	KR	2026	Uncovered
-DR000471	VN	2024	Under the Oak Tree
-DR000531	CN	2022	Under the Skin
-DR000535	CN	2024	Under the Skin II T2
-DR000285	PH	2020	Unexpected
-DR000729	JP	2026	Unexpectedly Naughty Fukami
-DR000599	HK	2026	Unfold
-DR000215	KR	2026	Unfollow
-DR000871	TH	2022	Unforgotten Night
-DR000303	PH	2020	Unguarded
-DR000140	KR	2023	Unintentional Love Story
-DR000246	TW	2024	Unknown
-DR001062	TH	2026	Unlucky Bae
-DR000560	CN	2025	Until We Drown
-DR000009	TH	2019	Until We Meet Again
-DR001131	JP	2026	Uzume's Rebirth
-DR000932	TH	2023	Venus in the Sky
-DR000468	VN	2023	ViAn
-DR000052	TH	2022	Vice Versa
-DR000013	TW	2023	VIP Only
-DR000951	TH	2024	Wandee Goodday
-DR000461	VN	2022	Want to See You
-DR000892	TH	2022	War of Y
-DR001126	JP	2025	Watashi ga Anata to Iru Riyū
-DR001127	JP	2026	Watashi ga Anata to Iru Riyū 2 T2
-DR000762	TH	2017	Water Boyy: The Series
-DR000091	TH	2024	We Are
-DR000232	TW	2021	We Best Love: Fighting Mr. 2nd T2
-DR000231	TW	2021	We Best Love: No. 1 For You
-DR001142	JP	2026	We Who Told Lies
-DR000647	JP	2022	We're Both Grooms
-DR000016	TH	2023	Wedding Plan
-DR000065	TH	2026	WEIRDO-101
-DR001144	JP	2026	Welcome Back, First Love
-DR001099	KR	2026	What a Boss Wants
-DR000620	JP	2019	What Did You Eat Yesterday?
-DR000626	JP	2020	What Did You Eat Yesterday? New Year Special 2020
-DR000630	JP	2023	What Did You Eat Yesterday? Season 2 T2
-DR000631	JP	2021	What Did You Eat Yesterday? The Movie
-DR000867	TH	2022	What If
-DR000756	TH	2019	What the Duck: Final Call T2
-DR000755	TH	2018	What the Duck: The Series
-DR000855	TH	2022	What Zabb Man!
-DR001137	JP	2026	Wheat, Butter, and Revenge
-DR000332	PH	2021	Wheel of Love: Weekend to Remember
-DR000700	JP	2025	When It Rains, It Pours
-DR000710	JP	2026	When It Rains, It Pours: Mellow Rain T2
-DR001051	TH	2026	When Light Fades
-DR001045	TH	2026	When Oranges Fall
-DR001186	CN	2026	When the Snow Falls
-DR000387	PH	2024	Where I Found You
-DR001169	CN	2026	Where the Mask Ends
-DR000103	KR	2020	Where Your Eyes Linger
-DR000276	PH	2020	Why Love Why
-DR000277	PH	2021	Why Love Why Season 2 T2
-DR000147	KR	2023	Why R U?
-DR000786	TH	2020	Why R U?
-DR000887	TH	2022	Why You… Y Me?
-DR000574	CN	2025	Wildfire by Daylight
-DR000299	PH	2020	Win Jaime's Heart
-DR000526	CN	2020	Winter Begonia
-DR000190	KR	2026	Winter Fever
-DR000105	KR	2020	Wish You: Your Melody from My Heart
-DR000260	TW	2026	Wishing Upon the Shooting Stars
-DR000782	TH	2019	With Love
-DR001208	CN	2026	Wonderful Times
-DR000524	CN	2021	Word of Honor
-DR000869	TH	2022	Work From Heart
-DR000340	PH	2021	Worth The Wait T2
-DR000051	TH	2026	Write You Again
-DR001043	TH	2026	Wu
-DR000503	MY	2022	Wu Di in Love
-DR000191	KR	2026	Wuju Bakery
-DR001178	CN	2026	Xiang Si Qi
-DR000812	TH	2021	Y-Destiny
-DR001033	TH	2026	Yesterday
-DR001171	CN	2026	You Alone Know Me
-DR000452	VN	2021	You Are Ma Boy
-DR000012	TW	2023	You Are Mine
-DR001218	CN	2026	You Are My Fateful Love
-DR000449	VN	2022	You Are My Stupid Boy T3
-DR000448	VN	2021	You Are My Sunshine T2
-DR000109	KR	2021	You Make Me Dance
-DR001066	TH	2026	You Maniac
-DR000802	TH	2020	You Never Eat Alone
-DR000844	TH	2022	You're My Sky
-DR001200	CN	2026	Young Again
-DR001044	TH	2026	Your Dear Daddy
-DR001073	KR	2026	Your Personal Taxi
-DR000972	TH	2024	Your Sky
-DR000735	JP	2026	Your Summer, My Storm
-DR000045	TH	2026	Your Third
-DR000567	CN	2025	Yu Jun Chang Ge
-DR000793	TH	2020	YYY
-DR000794	TH	2020	YYY 2 T2
-DR001048	TH	2026	Zantiis: Miss You
-DR001203	CN	2023	Zhui Meng Qing Chun
+Código	País	Año	Título	Título original	Alias	Temporada	Temporadas	Serie	Universo	Remake	Franquicia
+DR000771	TH	2018	'Cause You' e My Boy	อาตี๋ของผม	My Tee | My Tee: The Se ies | Cause You' e My Boy	1	1				
+DR000001	JP	2025	10 Thi gs I Wa  To Do Befo e I Tu  40	40までにしたい10のこと		1	1				
+DR001081	KR	2026	100 Days of Decep io			1	1				
+DR000945	TH	2024	1000 Yea s Old	อายุมั่นขวัญยืน	1000 Yea s Old | 1000YO | 1000 Yea s Old The Se ies	1	1				
+DR000709	JP	2025	10DANCE	10DANCE	10 Da ce	1	1				
+DR000875	TH	2022	180 Deg ee Lo gi ude Passes Th ough Us	เส้นลองจิจูดที่ 180 องศาลากผ่านเรา	180 Deg ees Lo gi ude Be wee  Us | 180 Deg ee Lo gi ude Be wee  Us	1	1				
+DR000759	TH	2017	2 Moo s	เดือนเกี้ยวเดือน	2 Moo s: The Se ies | 2Moo s | 2 Moo s The Se ies	1	3	SR000759			
+DR000760	TH	2019	2 Moo s 2	เดือนเกี้ยวเดือน 2	2 Moo s 2: The Se ies | 2Moo s2 | 2 Moo s 2	2	3	SR000759			
+DR000761	TH	2022	2 Moo s: The Ambassado	เดือนเกี้ยวเดือน	2 Moo s 3 | 2Moo s 3: The Ambassado | 2 Moo s: The Ambassado  The Se ies | 2Moo s: The Ambassado	3	3	SR000759			
+DR000865	TH	2022	21 Days Theo y	21 วัน มีฉันมีเธอ		1	1				
+DR000002	TH	2020	2ge he	เพราะเราคู่กัน	2ge he  The Se ies	1	2	SR000002			FR000001 (o de  1)
+DR000004	TH	2021	2ge he : The Movie	เพราะเราคู่กัน The Movie		1	1				FR000001 (o de  3)
+DR000775	TH	2019	2Wish	2Wish The Se ies	2Wish The Se ies | 2 Wish | Two Wish | 2Wish Eve las i g Love	1	1				FR000042 (o de  4)
+DR000783	TH	2019	3 Will Be F ee	สามเราต้องรอด	3 Will Be F ee: The Se ies | Th ee Will Be F ee | สามเราต้องรอด	1	1				
+DR000985	TH	2025	4 Des i y	4 Des i y	4 Des i y P ojec | 4 Des i y: The Las  Nigh | The Las  Nigh | Red Moo  a d Wi e | U -i  Hea | Blood Figh e 's	1	1				
+DR000242	TW	2022	49 Days Wi h a Me ma	我家浴缸的二三事		1	1				
+DR000961	TH	2024	4Mi u es	สี่นาที	4MINUTES | 4 Mi u es | Si Na Tee	1	1				
+DR000891	TH	2022	609 Bed ime S o y	เบดไทม์สตอรี่	609 Bed ime S o y The Se ies | 609 Bed ime S o y	1	1				
+DR000894	TH	2023	7 Days Befo e Vale i e	7 วันก่อนวาเลนไทน์	7 Days Befo e Vale i e | 7 Wa  Ko  Vale i e	1	1				
+DR000839	TH	2021	7 P ojec	7 P ojec	Seve  P ojec | 7 P ojec  The Se ies	1	1				
+DR000683	JP	2024	A  25:00 i  Akasaka	25時、赤坂で		1	2	SR000683			
+DR000684	JP	2025	A  25:00 i  Akasaka	25時、赤坂で		2	2	SR000683			
+DR000150	KR	2023	A B eeze of Love	일기예보적 연애	A B eeze of Love | Wea he  Fo ecas  Love | Ilgiyebojeok Yeo ae	1	1				FR000014 (o de  1)
+DR000076	TH	2023	A Boss a d a Babe	ชอกะเชร์คู่กันต์	Cho Ka Che  Khu Gu | Toge he , Che  a d Gu	1	1	SR000076	UN000028		
+DR001152	JP	2025	A Calm Sea a d Beau iful Days wi h You	波うららかに、めおと日和	Nami U a aka  i, Meo o Biyo i	1	2	SR001152			
+DR001154	JP	2026	A Calm Sea a d Beau iful Days wi h You T2	波うららかに、めおと日和	Nami U a aka  i, Meo o Biyo i | Nami U a aka  i, Meo o Biyo i Seaso  2	2	2	SR001152			
+DR000585	CN	2026	A chives: The Na ya g Mys e y	南部档案	The Sou he  A chives | The Sou he  A ecdo e | The Sou h Bu eau | Na  Bu Da g A	1	1		UN000022		
+DR000067	TH	2026	A Dog a d a Pla e	หมาเห่าเครื่องบิน	Maa Hao Kh uea gbi	1	1	SR000067			
+DR000733	JP	2026	A e  he Sexy Bu ocks No  Good?	えっちなお尻じゃダメですか？	Ecchi  a Oshi i ja Dame desu ka?	1	1				
+DR000300	PH	2020	A g Pokpok  g Pa demya			1	1				
+DR001034	TH	2026	A Good Yes e day	รักไม่เคยลืม		1	1				
+DR000014	TW	2024	A iRese	恆久定律		1	1		UN000002		
+DR000533	CN	2023	A League of Noblema	君子盟	Ju  Zi Me g | The Mys e y of Zha g Guo | Zha g Go g A | 张公案	1	1				
+DR000459	VN	2022	A Love So g Fo  My Beloved		Bài Tì h Ca Cho Em	1	1				
+DR000634	JP	2021	A Ma  Who Defies  he Wo ld of BL	絶対BLになる世界vs絶対BLになりたくない男	Ze ai BL  i Na u Sekai vs Ze ai BL  i Na i aku ai O oko | A Ma  Who Defies  he Wo ld of BL	1	4	SR000634			
+DR000635	JP	2022	A Ma  Who Defies  he Wo ld of BL 2	絶対BLになる世界VS絶対BLになりたくない男2	Ze ai BL  i Na u Sekai vs Ze ai BL  i Na i aku ai O oko 2 | A Ma  Who Defies  he Wo ld of BL 2	2	4	SR000634			
+DR000636	JP	2024	A Ma  Who Defies  he Wo ld of BL 2024	絶対BLになる世界VS絶対BLになりたくない男 2024	Ze ai BL  i Na u Sekai vs Ze ai BL  i Na i aku ai O oko 2024 | A Ma  Who Defies  he Wo ld of BL 2024	3	4	SR000634			
+DR000637	JP	2025	A Ma  Who Defies  he Wo ld of BL Fi al	絶対BLになる世界VS絶対BLになりたくない男 ファイナル	Ze ai BL  i Na u Sekai vs Ze ai BL  i Na i aku ai O oko Fi al | A Ma  Who Defies  he Wo ld of BL Fi al	4	4	SR000634			
+DR000591	CN	2026	A Mou ai  Ca  Hold Two Tige s	一山能容二虎	Yi Sha  Ne g Ro g E  Hu	1	1				
+DR000255	TW	2025	A Pe fec  Ma ch	一拍即合	Yi Pai Ji He	1	1				
+DR000379	PH	2023	A S o y  o Remembe			1	1				
+DR000944	TH	2024	A Sec e ly Love	ปลื้มคนโปรด	A Sec e ly Love | Pluem Kho  P o | Pluem Pho p o	1	1				
+DR000138	KR	2023	A Shoulde   o C y O	소년을 위로해줘!	A Shoulde   o C y O | Comfo   he Boy | Le  Me Comfo  The Boy | So yeo eul Wi ohaejwo	1	1				
+DR000549	CN	2025	A Ske chy Job!	这见鬼的工作!	Zhe Jia  Gui De Go g Zuo	1	1				
+DR000085	TH	2021	A Tale of Thousa d S a s	นิทานพันดาว	1000 S a s	1	1	SR000085			
+DR000596	CN	2026	A Wi e  Su  Wakes  he Wi d i  Sp i g Hills' D eam	寒阳风起春山境	Ha  Ya g Fe g Qi Chu  Sha  Ji g	1	1				
+DR001019	TH	2025	A(i ) Mome	โอกาส อากาศ	A(i ) Mome  The Se ies | Ai  Mome | Oka  Aka | A(i ) Mome : Oppo u i y	1	1				
+DR000550	CN	2025	ABO Desi e	垂涎	Chui Xia | Desi e	1	1				
+DR001210	CN	2026	Abou  Love	玫瑰丛生	Mei Gui Co g She g | 蝉女 | Cha  Nv | 五光十色的我们 | 相遇恰逢其时 | 爱如蝉翼	1	1				
+DR000237	TW	2022	Abou  You h	默默的我，不默默的我們		1	1				
+DR000895	TH	2023	Absolu e Ze o	องศาสูญ	Absolu e Ze o The Se ies | Absolu e Ze o O gsa Su	1	1				
+DR000412	VN	2018	Ac ive Boys		Nhữ g Chà g T ai Nă g Độ g | Ac ive Boys The Se ies | Ac iveboys	1	1				
+DR000404	VN	2017	Adam's S o y		Bí Mậ  Của Adam | Adam's Sec e	1	1		UN000011		FR000027 (o de  1)
+DR000509	CN	2016	Addic ed	上瘾	He oi | Addic ed He oi | Sha g Yi | Shà gyǐ | 你丫上瘾了	1	1			RM000509 (o de  1)	
+DR000937	TH	2024	Addic ed He oi	รักร้าย นายเสพติด	Rak Rai Nai Sep Ti | He oi  The Se ies | Addic ed He oi	1	1			RM000509 (o de  2)	
+DR000510	CN	2017	Adva ce B avely	盛势	Adva ce B avely | Adva ci g B avely | She g Shi	1	1				
+DR000736	JP	2026	Af e  Movi g Sea s,  he Boy Behi d Me Has a C ush o  Me	席替えしたら、どうやら後ろの男が俺のこと好きらしい		1	1				
+DR001176	CN	2026	Affi i y	炽热吸引	Chi Re Xi Yi	1	1				
+DR000422	VN	2019	Ai Là Người Thứ Ba			1	1				
+DR000886	TH	2022	Ai Lo g Nhai	อัยย์หลงไน๋	Ai Lo g Nhai The Se ies | Ai Lo g Nai | Ai Lo g Nhai: The Se ies	1	1				
+DR000677	JP	2024	Al hough I Love You, a d You?	好きやねんけどどうやろか		1	1				
+DR000152	KR	2023	All  he Liquo s	주류일절	All  he Liquo s | Liquo | Ju yuiljeol	1	1				
+DR000397	PH	2026	All  he Thi gs I Leave You (Pa awid)		Pa awid | All  he Thi gs I Leave You	1	1				
+DR000153	KR	2026	Always Mee  Agai	언제나 다시 만나	Always Mee  Agai | We’ll Always Mee  Agai | Eo je a Dashi Ma a	1	1				FR000014 (o de  2)
+DR000284	PH	2020	Amo e		Amo e: A T ue  o Life S o y	1	1				
+DR000492	HK	2026	Ash		煙灰 | 烟灰 | Smoke & Ash | Smoke Ash | Ciga e e Ash | Ya  Hui	1	1				
+DR000480	VN	2025	Awai i g Daw		Chờ Ngày Nắ g Lê	1	1				
+DR000587	CN	2026	Awake i g  he S eppe	爱在草原醒来	Chema ea Ta | Awake i g of  he S eppe	1	1				
+DR001160	JP	2026	B o he , Sis e	あにいもうと	A i Imō o	1	1				
+DR000830	TH	2021	B o he s	รักนะน้องชาย รักนายครับผม	B o he s The Se ies | Rak Na No g Chai Rak Nai Kh ap Phom	1	1				
+DR000273	PH	2021	B X J Fo eve	B X J Fo eve	Be  X Jim Seaso  2 | Be  x Jim Fo eve	2	2	SR000272			
+DR000415	VN	2019	Bà 5 Bố g			1	2	SR000415			
+DR000416	VN	2019	Bà 5 Bố g Phầ  2			2	2	SR000415			
+DR000766	TH	2017	Ba gkok G S o y	Ba gkok G S o y	Ba gkok G S o y ซีรี่ส์	1	1				
+DR000962	TH	2024	Ba le of  he W i e s	รัก...ใต้บรรทัด	Ba le of  he W i e s | Rak Tai Ba ha | Game Rak Tai Ba ha | You Xi Da Zuo Zha | เกมรัก...ใต้บรรทัด	1	1				
+DR001121	JP	2022	Ba shaku  o Ryūgi	晩酌の流儀		1	5	SR001121			
+DR001122	JP	2023	Ba shaku  o Ryūgi 2	晩酌の流儀２		2	5	SR001121			
+DR001123	JP	2024	Ba shaku  o Ryūgi 3	晩酌の流儀３		3	5	SR001121			
+DR001124	JP	2025	Ba shaku  o Ryūgi 4	晩酌の流儀４		4	5	SR001121			
+DR001125	JP	2026	Ba shaku  o Ryūgi 5	晩酌の流儀５		5	5	SR001121			
+DR001192	CN	2026	Back  o  he Summe	不再遗憾的夏天	Bu Zai Yi Ha  De Xia Tia	1	1				
+DR000194	KR	2026	Backdoo	백도어	Backdoo | Back Doo | Baekdo-eo | Baekdoeo	1	1				FR000018 (o de  1)
+DR000210	KR	2026	Backdoo  Pa  2	백도어 파트2	Backdoo  Pa  2 | Baekdoeo Pa  2	1	1				FR000018 (o de  2)
+DR000252	TW	2024	Bad  o Bed	睡睡你的愛，睡睡我的愛		1	1				
+DR000772	TH	2021	Bad Buddy	แค่เพื่อนครับเพื่อน	Bad Buddy: The Se ies | Khae Phuea  Kh ap Phuea	1	1				
+DR000969	TH	2024	Bad Guy My Boss	เจ้านายร้ายรัก	Bad Guy My Boss | Bad Guy (My Boss) | My Bad Boss	1	1				
+DR000006	TH	2016	Bad Roma ce: The Se ies	ตกหลุมหัวใจยัยปีศาจ		1	1				FR000002 (o de  1)
+DR001072	TH	2026	Badmi o  Boys	กัปตันครับ ผมจะจีบพี่							
+DR000383	PH	2024	Baka Pwede Pa?		Baka Pwede Pa? The Se ies | Maybe S ill | Maybe I ’s S ill Possible? | Maybe S ill Possible	1	1				
+DR000896	TH	2023	Bake Me Please	พิชิตใจ นายสายหวาน	Bake Me Please The Se ies | Phichi  Chai Nai Sai Wa	1	1				
+DR000169	KR	2025	Ball Boy Tac ics	볼보이 택틱스	Ball Boy Tac ics | Bolboi Taek ikseu	1	1				
+DR000417	VN	2019	Bao Lô			1	1				
+DR000272	PH	2020	Be  X Jim	Be  X Jim	Be  x Jim	1	2	SR000272			
+DR000294	PH	2020	Be e  Days			1	1				
+DR000420	VN	2019	Bệ h Việ  Thầ  Ái			1	1				
+DR000625	JP	2020	BE LOVE	BE LOVE		1	1				
+DR000233	TW	2021	Be Loved i  House: I Do	約・定～I do		1	1				
+DR000032	TH	2023	Be Mi e, Supe s a	พี่พระเอกกับเด็กหมาในกอง	Be Mi e Supe S a	1	1				
+DR000897	TH	2023	Be My Favo i e	บทกวีของปีแสง	Be My Favo i e The Se ies | You A e My Favo i e	1	1				
+DR001057	TH	2026	Be My Playe  Two	ซอโซ่ล่ามธีร์	Be My Playe  2 | So So Lam Thi		1		UN000028		
+DR000187	KR	2026	Be wee  Doo s	몰아보기 통합본	Be wee  Doo s	1	1				
+DR001074	KR	2026	Be wee  S eps	연애박사	Love Doc o | Roma ce Expe | Yeo ae Baksa	1	1				
+DR000010	TH	2022	Be wee  Us	เชือกป่าน		1	1				FR000003 (o de  2)
+DR000334	PH	2021	Be wee  Us		Be wee  Us The Se ies | BTwee  Us	1	1				
+DR000470	VN	2024	Be You  S a		Mùa Sao Đầu Tiê	1	1				
+DR001129	JP	2026	Bea s a d Whea	まめとむぎ	Mame  o Mugi						
+DR000373	PH	2023	Beau iful Sca s			1	1				
+DR000411	VN	2018	Because of Mee i g, We Mee  Each O he		Vì Gặp Nê  Mới Tươ g Phù g | Because of Mee i g You, We Ca  Be He e Toge he | Because Of Mee i g, We Mee  Toge he	1	1		UN000012		
+DR000228	TW	2020	Because of You	因為愛你	2020 Because of You	1	1				
+DR000048	TH	2023	Bed F ie d	อย่าเล่นกับอนล	Bed F ie d Se ies | Do ’  Play wi h A o	1	1	SR000048			FR000012 (o de  1)
+DR000451	VN	2021	Beef, Cupcakes A d Him		Bữa Tối, Bá h Ngọ  Và A h	1	1				
+DR000116	KR	2021	Behi d Cu	비하인드 컷	Behi d Cu | Bihi deu Keo	1	1	SR000116			
+DR000516	CN	2017	Beloved E emy	决对争锋	Jue Dui Zhe g Fe g | Beloved E emy - 对决针锋	1	1				
+DR000940	TH	2025	Beside The Sky	ต้นฟ้าไต้ฝุ่น	Sou h: Beside  he Sky | Fou eve  You Pa  2: Beside  he Sky | Fou eve  You 2: Beside  he Sky	1	1				FR000047 (o de  2)
+DR000898	TH	2023	Beyo d  he S a	เส้นทางรักพิชิตดวงดาว	Beyo d  he S a : เส้นทางรักพิชิตดวงดาว	1	1				
+DR000814	TH	2021	Bi e Me	ส่งร้อน เสิร์ฟรัก	Bi e Me The Se ies | G ab a Bi e | G ab Me a Bi e  o Ea | Se d Ho  Se ved Love	1	1				
+DR000600	CN	2026	Bi e swee  Love	嫁入高门	The Ma  Who Ma ied i o a Weal hy Family | Jia Ru Gao Me	1	1				
+DR000881	TH	2022	Big D ago	มังกรกินใหญ่	Big D ago  The Se ies | Ma gko  Ki  Yai | Ma gko  Yai	1	1				
+DR000414	VN	2018	Biki i Wa s		Biki i Báo Thù | Biki i Wa	1	1				FR000028 (o de  2)
+DR000093	TH	2026	Billio ai e Bike	Billio ai e Bike		1	1	SR000093			
+DR000265	TW	2025	Black a d Whi e Is Real	黑白原來是真的	Hei Bai Yua  Lai Shi Zhe  De	1	1		UN000007		FR000022 (o de  1)
+DR000785	TH	2019	Blacklis	นักเรียนลับ บัญชีดำ	Blacklis : The Se ies | Sec e  S ude  Blacklis	1	1				
+DR000594	CN	2026	Blackou	断片	Black Ou	1	1				
+DR000573	CN	2025	Blades Amid Blossoms	提剑映桃花	Ti Jia  Yi g Tao Hua | Blades Amid Blossoms	1	1				
+DR000597	CN	2026	Blazi g Him	炽热的他	Chi Re De Ta	1	1				
+DR001037	TH	2026	Bli g Bli g The Se ies	เพชรประกาย	Pe chp akai	1	1				
+DR000575	CN	2025	Blood Rive	暗河传	A  He Zhua | Tales of Da k Rive	1	1		UN000021		
+DR000158	KR	2024	Blossom Campus	블러썸 캠퍼스	Blossom Campus | Beulleosseom Kaempeoseu	1	1				
+DR000556	CN	2025	Blu ed Desi e	懵動	Me g Do g	1	1				
+DR000538	CN	2024	Blue Ca vas of You hful Days	路过我年少时光的蓝色	Lu Guo Wo Nia  Shao Shi Gua g De La  Se | Blue Time | Passi g by Me  he Blue of You h	1	1				
+DR000601	CN	2026	Blue Lips	蓝嘴唇	藍嘴唇 | La  Zui Chu | Blue Lips The Se ies	1	1				
+DR000123	KR	2022	Blue of Wi e	유도소년	Blue of Wi e | Judo Boy | Yudo So yeo	1	1	SR000123			
+DR000665	JP	2023	Blue Sky Complex	ブルースカイコンプレックス	Blue Sky Complex	1	1				
+DR000124	KR	2022	Bluemi g	블루밍	Bluemi g | Blumi g	1	1	SR000124			
+DR000148	KR	2023	Bo  Appé i	본아페티	Bo  Appé i | Bo  Appe i	1	1				
+DR001158	JP	2026	Bo de s	ボーダーズ	Bo de s: Keishicho Tokushu Jike  Taisakuha | Tokyo Me opoli a  Police Depa me  Special Cases U i	1	1				
+DR001195	CN	2026	Bo Qi g Hou Ye Chi Qi g Qie	薄情侯爷痴情妾		1	1				
+DR000354	PH	2021	BO:SO		BO:SO: The Fi s  Awake i g | BOSO | BO:SO The Se ies	1	2	SR000350	UN000010		
+DR000355	PH	2022	BO:SO Seaso  2		BO:SO 2 | BO:SO Seaso  2	2	2	SR000350	UN000010		
+DR000842	TH	2022	Boy Scou s	ลูกเสือ	Boy Scou s The Se ies	1	1				
+DR000211	KR	2026	Boy, wi h Cau io	소년, 주의	Boy, wi h Cau io | Mi d  he Boy | So yeo , Juui	1	1				
+DR000899	TH	2023	Boyba d	เบื้องหน้าบอยแบนด์เบื้องหลังบอยเฟรนด์	Boyba d The Se ies | Boyba d The Se ies: Behi d  he Boyba d	1	1				
+DR000498	HK	2022	BOYS	BOYS		1	1				
+DR000159	KR	2024	Boys Be B ave!	고백을 못하고	Boys Be B ave! | Go Baek Eul Mo  Hago	1	1				
+DR000998	TH	2025	Boys i  Love	เปิดเทอมใหม่ หัวใจหัดรัก	Boys i  Love The Se ies | Poe  Lae	1	1				
+DR000289	PH	2020	Boys' Lockdow		Boys' Lockdow : The Se ies	1	1				
+DR000101	TH	2025	Bu ou  Sy d ome	ภาวะรักคนหมดไฟ	Phawa Rak Kho  Mo  Fai	1	1	SR000101			
+DR000202	KR	2024	Buddy Boy	버디보이	Buddy Boy | Beodi Boi	1	2	SR000202			
+DR000203	KR	2026	Buddy Boy: Af e	버디보이 애프터	Buddy Boy: Af e | Buddy Boy Seaso  2 | Buddy Boy 2 | Beodi Boi Ae eo	2	2	SR000202			
+DR000149	KR	2023	Bump Up Busi ess	범프 업 비즈니스	Bump Up Busi ess | Bump Up Busi ess: The Se ies	1	1				
+DR000168	KR	2025	Busi ess as Usual	을의 연애	Busi ess as Usual | Eul-ui Yeo ae	1	1				
+DR001102	KR	2024	C ash	크래시		1	2	SR001102			
+DR001103	KR	2026	C ash 2: Road of Rage	크래시2 : 분노의 도로	C ash 2 | C ash 2: Road of Fu y	2	2	SR001102			
+DR000229	TW	2020	C avi g You	饞上你	Hu g y Fo  You | S ick To You	1	1				
+DR000901	TH	2023	C azy Ha dsome Rich	บ้านชายมอง	C azy Ha dsome Rich The Se ies	1	1				
+DR000035	TH	2026	C azy Love, Moo-Moo!	พี่ฟากชอบเธอมู่	C azyLove-MooMoo | Phi Fak Chop Thoe Mu	1	1				
+DR000180	KR	2026	C oss Li k	크로스 링크	C oss Li k | Keu oseu Ri gkeu	2	2	SR000179			
+DR000090	TH	2026	Ca  fo  Cash	เปย์รักด้วยแมวเลี้ยง	Pay Rak Duai Maeo Lia g	1	1	SR000090			
+DR000371	PH	2022	Ca  This Be Love?		Ca  This Be Love Se ies | CTBL	1	1				
+DR000655	JP	2022	Ca dy Colo  Pa adox	飴色パラドックス	Amei o Pa adox	1	1				
+DR000971	TH	2024	Caged Agai	บอกกรงๆ...ว่ารักเธอ	Caged Agai | Bok K o g K o g... Wa Rak Thoe	1	1				
+DR000543	CN	2025	Caged Bi d	笼中雀	Lo g Zho g Que | The Fo bidde  Flame	1	1				
+DR000805	TH	2020	Calcula i g Love	Si eข้ามฉาก Ta ข้ามชิด	Calcula e Love	1	1				
+DR000822	TH | TW	2021	Call I  Wha  You Wa  T1	จะรักก็รักเหอะ	Call I  Wha  You Wa | Call I  Wha  You Wa  Seaso  1 | Call I  Wha  You Wa : Seaso  1	1	2	SR000822			
+DR000823	TH | TW	2021	Call I  Wha  You Wa  T2	จะรักก็รักเหอะ	Call I  Wha  You Wa  Seaso  2 | Call I  Wha  You Wa  2 | Call I  Wha  You Wa : Seaso  2	2	2	SR000822			
+DR000522	CN	2020	Cap u e Love	冰糖陷阱	Bi g Ta g Xia  Ji g | Love T ap	1	1				
+DR000959	TH	2024	Ce u y of Love	ปาฏิหาริย์รักร้อยปี	Ce u y of Love | Ce u y Of Love Se ies | Pa iha  Rak Roi Pi	1	1				
+DR000900	TH	2023	Chai s of Hea	Chai s of Hea	Chai s of Hea : The Se ies	1	1				
+DR000687	JP	2024	Chas i y High	恋愛バトルロワイヤル		1	1				
+DR000307	PH	2020	Chasi g Su se s		Chasi g Su se s The Se ies | Chasi g Su se s: A Quee  Se ies	1	1		UN000008		
+DR000047	TH	2026	Che mChey	เฉิ่มเชย	Che m Chey | Che mChey  he Se ies | Choem Choei	1	1	SR000047			
+DR000125	KR	2022	Che y Blossoms Af e  Wi e	겨울 지나 벚꽃	Che y Blossoms Af e  Wi e | Gyeoul Ji a Beo kko	1	1	SR000125			
+DR000066	TH	2023	Che y Magic 30 ยังซิง	30 ยังซิง	Che y Magic Thaila d	1	1	SR000066		RM000066 (o de  2)	
+DR000622	JP	2020	Che y Magic! 30 of Vi gi i y Ca  Make You a Wiza d?!	30歳まで童貞だと魔法使いになれるらしい	Che y Magic! | 30-sai Made Dou ei da  o Mahou Tsukai  i Na e u Rashii	1	1			RM000066 (o de  1)	FR000038 (o de  1)
+DR000629	JP	2022	Che y Magic! The Movie	チェリまほ THE MOVIE ～30歳まで童貞だと魔法使いになれるらしい～	Che y Magic! Thi y Yea s of Vi gi i y Ca  Make You a Wiza d?!: The Movie | Che y Maho THE MOVIE	1	1				FR000038 (o de  4)
+DR000628	JP	2020	Che y Magic! Tsuge & Mi a o A c	30歳まで童貞だと魔法使いになれるらしい スピンオフ 柘植・湊編	Che y Magic! Spi -off: Tsuge & Mi a o A c	1	1				FR000038 (o de  3)
+DR000627	JP	2020	Che y Magic! Vale i e's Day & Rokkaku A c	30歳まで童貞だと魔法使いになれるらしい スピンオフ バレンタイン編＆六角編	Che y Magic! Spi -off: Vale i e's Day & Rokkaku A c | Che y Magic! Vale i e A c & Rokkaku A c	1	1				FR000038 (o de  2)
+DR000296	PH	2020	Chea		Chea  The Se ies	1	1				
+DR000193	KR	2026	Check i   o You	너에게 체크인	Check I   o You | Check I o You | Checki g i  o  You | Neoege Chekeui	1	1				
+DR000864	TH	2022	Check Ou	คืนนั้นกับนายดาวเหนือ	Check Ou  The Se ies | Khue  Na  Kap Nai Dao uea	1	1				
+DR000213	KR	2025	Checke ed Shi	체크 남방을 입은 사내	Checke ed Shi | The Ma  i   he Checke ed Shi | Chekeu Namba geul Ibeu  Sa ae	1	2	SR000213			
+DR000214	KR	2025	Checke ed Shi  2	체크남방을 입은 사나이 시즌2	Checke ed Shi  2 | The Ma  i   he Checke ed Shi  2 | Checke ed Shi  Seaso  2 | Chekeu amba geul Ibeu  Sa ae Seaso  2	2	2	SR000213			
+DR000131	KR	2022	Choco Milk Shake	사랑은 댕냥댕냥	Choco Milk Shake | Love is Like a Dog a d Ca | Sa a geu  Dae g ya gdae g ya g	1	1	SR000131			
+DR000768	TH	2017	Choose	Choose	Choose The Se ies	1	1				
+DR000707	JP	2025	Chose  Home	ぼくたちん家	Boku achi chi	1	1				
+DR000947	TH	2024	Ci y of S a s	เฟื่องนคร	Ci y of S a s | Fuea g akho | Fuea g Nakho | Ci y of S a s The Se ies	1	1				
+DR001058	TH	2026	Class C ush C isis	เพื่อนสนิทระวังคิดไม่ซื่อ	CCC | Phuea  Sa i  Rawa g Khi  Mai Sue		1				
+DR000369	PH	2022	Clik Clak Clok		Clik Clak Clok The Se ies	1	1				
+DR000938	TH	2024	Close F ie d 3: Soju Bomb!	Close F ie d โคตรแฟน 3 โซจูบอมบ์	Close F ie d Seaso  3: Soju Bomb! | Close F ie d 3 | Close F ie d 3: Soju Bomb	1	1		UN000026		
+DR000030	TH	2021	Close F ie d T1	โคตรแฟน	Close F ie d The Se ies	1	2	SR000030	UN000026		
+DR000824	TH	2022	Close F ie d T2	โคตรแฟน Seaso  2	Close F ie d Seaso  2 | Close F ie d 2 | Kho  Fae  2	2	2	SR000030	UN000026		
+DR000723	JP	2026	Co as	コントラスト		1	1				
+DR000179	KR	2025	Co ec	커넥트	Co ec | Keo ek eu	1	2	SR000179			
+DR000263	TW	2026	Co ec i g  o You	整個世界，只有你連上了我	Co ec   o You | Sekai de Kimi Dake	1	1				
+DR000868	TH	2022	Coffee Melody	เพลงที่รัก	Coffee Melody The Se ies | Phle g Thee Rak	1	1				
+DR000106	KR	2020	Colo  Rush	컬러 러쉬	Colo  Rush | Keoleo Reoswi	1	2	SR000106			
+DR000107	KR	2022	Colo  Rush 2	컬러 러쉬 2	Colo  Rush 2 | Colou  Rush 2	2	2	SR000106			
+DR001157	JP	2026	Compa y Employee	会社員	Kaishai	1	1				
+DR000099	TH	2023	Cooki g C ush	อาหารเป็นยังไงครับหมอ	Cooki g C ush: Wha ’s Zabb? | Aha  Pe  Ya g Ngai Kh ap Mo	1	1	SR000099			
+DR000685	JP	2024	Cosme ic Playlove	コスメティック・プレイラバー		1	2	SR000685			
+DR000686	JP	2026	Cosme ic Playlove	コスメティック・プレイラバー		2	2	SR000685			
+DR000724	JP	2026	Cou dow   o Yes	親友の「同棲して」に「うん」て言うまで	Shi yuu  o "Dousei Shi e"  i "U "  e Iu Made | U il I Say Yes  o My Bes  F ie d’s "Live Wi h Me"	1	1				
+DR000818	TH	2021	Cou y Boy T1	บ้านพักหลังป่วนกับก๊วนเด็กเมือง	Cou y Boy | Cou y Boy The Se ies | Cou y Boy - The Movie	1	2	SR000818			
+DR000819	TH	2022	Cou y Boy T2	บ้านพักหลังป่วนกับก๊วนเด็กเมือง 2	Cou y Boy 2 | Cou y Boy Seaso  2	2	2	SR000818			
+DR001201	CN	2026	Cou y Love 18	乡村爱情18	Xia g Cu  Ai Qi g 18 | Village Love Seaso  18	1	1				
+DR000040	TH	2022	Cu ie Pie	นิ่งเฮียก็หาว่าซื่อ	Cu ie Pie The Se ies	1	2	SR000040			FR000011 (o de  1)
+DR000041	TH	2023	Cu ie Pie 2 You	นิ่งเฮีย 2 You		2	2	SR000040			FR000011 (o de  2)
+DR000088	TH	2026	Cupid's Ghos	ผีผลักให้รักคุณ	Phi Phlak Hai Rak Khu	1	1	SR000088			
+DR000086	TH	2022	Cupid's Las  Wish	พินัยกรรมกามเทพ		1	1	SR000086			
+DR001216	CN	2026	D eam of Golde  Yea s	你好1983	Ni Hao 1983 | 1983我来了	1	1				
+DR000333	PH	2021	Da Da Soy			1	1				
+DR000083	TH	2026	Da e You  o Dea h	ไขคดีเป็น เห็นคดีตาย		1	1	SR000083			
+DR000072	TH	2023	Da ge ous Roma ce	หัวใจในสายลม	Hua Jai Nai Lom	1	1	SR000072			
+DR001008	TH | JP	2025	Da i g Game	เดทเกมนี้ ต้องได้ใจนาย	Da i g Game | Da e Game Ni To g Dai Jai Nai | เดทติ้งเกม | Da i g Game〜口説いてもいいですか	1	1				
+DR000028	TH	2019	Da k Blue Kiss	จูบสุดท้ายเพื่อนายคนเดียว	Da k Blue Kiss The Se ies	1	1				FR000009 (o de  3)
+DR001189	CN	2026	Da Shu Luo Ma  Shi	大叔罗曼史		1	1				
+DR000310	PH	2021	Daddy Love		Daddy Love Se ies	1	1				
+DR000584	CN	2024	Dashi g You h	少年白马醉春风	Shao Nia  Bai Ma Zui Chu  Fe g | Dashi g You h | The You g B ewmas e ’s Adve u e	1	1		UN000021		
+DR000859	TH	2022	Dea  Doc o , I'm Comi g fo  Soul	คุณหมอครับ ผมมารับวิญญาณคนไข้	Dea  Doc o | Khu  Mo Kh ap, Phom Ma Rap Wi ya  Kho  Khai | Dea  Doc o , I'm Comi g fo  You  Soul	1	1				
+DR000902	TH	2023	Dead F ie d Fo eve	เพื่อนนายแค่หนึ่งเดียว	Dead F ie d Fo eve  - DFF | DFF	1	1				
+DR001088	KR	2026	Dead-E d Job	꿀알바	Pe fec  Job | Ho ey Ja  Pa -Time P ojec | Kkul Alba | Kku alba | Swee  Job	1	1				
+DR000829	TH	2021	Deal Love	ซื้อง่ายขายรัก	Deal Love  The Se ies | Buy Easy, Sell Love	1	1				
+DR001068	TH	2026	Decodi g You	โคตรรัก	Ko  Rak						
+DR000598	CN | SG	2026	Deep I	入戏	Deep i   he Ac | I o  he Play | Ru Xi | Imme sed i   he Role	1	1		UN000015		
+DR000949	TH	2024	Deep Nigh	คืนนี้มีแค่เรา	Deep Nigh | Deep Nigh  The Se ies	1	1				
+DR000701	JP	2025	Dep h of Field	被写界深度	Hishakai Shi do	1	1				
+DR000903	TH	2023	Des i y Seeke	ราชาวิหค	Des i y Seeke  The Se ies | Racha Wihok	1	1				
+DR001163	JP	2026	Devo ed Love: Ac ually,  he S o ges  He o	溺愛 ～実は、最強ヒーロー～	Dekiai: Ji su wa, Saikyō He o	1	1				
+DR000904	TH	2023	Di osau  Love	ไดโนซอร์รัก	Di osau  Love The Se ies | Di osau  Love	1	1				
+DR000582	CN	2025	Disguise Game	伪装游戏	Wei Zhua g You Xi	1	1				
+DR001175	CN	2026	Disguised Family	伪装家族	Wei Zhua g Jia Zu	1	1				
+DR000317	PH	2021	Divi g I o Love		Divi g I o Love The Se ies	1	1				
+DR000238	TW	2022	DNA Says I Love You	基因決定我愛你	DNA Says Love You | My DNA Says I Love You	1	1				
+DR001052	TH	2026	Do '  Be Too Emo io al	อย่าขอพี่เจน	Rule No.1: Do ’  Be Too Emo io al | Do ’  Ask P’Ja e | Ya Kho Phi Ja e	1	1				
+DR000678	JP	2024	Do '  Ca e fo  a  Old Ma 's U de wea	おっさんのパンツがなんだっていいじゃないか！	Do '  Ca e fo  a  Old Ma 's U de wea !	1	1				
+DR000029	TH	2021	Do '  Say No	เมื่อหัวใจใกล้กัน	Do '  Say No The Se ies | Whe  Hea s A e Close Toge he	1	1				FR000008 (o de  5)
+DR001080	KR	2026	Doc o  X: Age of  he Whi e Mafia	닥터X: 하얀 마피아의 시대	Doc o  X: Mafia i  Whi e | Doc o  X: The E a of  he Whi e Mafia | Doc o  X	1	1			RM001090 (o de  2)	
+DR001090	JP	2012	Doc o -X T1	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X: Gekai Daimo  Michiko | Doc o -X Seaso  1	1	7	SR001090		RM001090 (o de  1)	
+DR001091	JP	2013	Doc o -X T2	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  2	2	7	SR001090			
+DR001092	JP	2014	Doc o -X T3	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  3	3	7	SR001090			
+DR001093	JP	2016	Doc o -X T4	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  4	4	7	SR001090			
+DR001094	JP	2017	Doc o -X T5	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  5	5	7	SR001090			
+DR001095	JP	2019	Doc o -X T6	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  6	6	7	SR001090			
+DR001096	JP	2021	Doc o -X T7	ドクターX〜外科医・大門未知子〜	Doc o -X: Su geo  Michiko Daimo | Doc o -X Seaso  7	7	7	SR001090			
+DR001007	TH	2025	Doc o 's Mi e	หมอน่ารักคนนี้เป็นของผม	Doc o 's Mi e | หมอน่ารักคนนี้เป็นของผม	1	1				
+DR001005	TH	2025	DogB o	หมาน้อง	Ma No g | DogB o The Se ies | Wha 's  he No g? | No  My B o	1	1				
+DR001128	JP	2026	Doub : Reve ge Af e  15 Yea s	ダウト -15年目の復讐-	Dou : 15- e me  o Fukushū						
+DR000441	VN	2021	Double Daddy, Double Happy		Tiế  B oma ce 2 | Tiế  B oma ce: Double Daddy, Double Happy	1	1		UN000014		
+DR000508	SG	2026	Double Helix	双程	Shua g Che g | Shuā gché g | A Rou d T ip  o Love | Rou d T ip  o Love	1	1		UN000015		
+DR000244	TW	2026	Double Shuffle	心機		1	1				FR000021 (o de  2)
+DR000737	JP	2026	Du y Fi s , Kiss La e	キスは捜査のあとで	Kisu wa Sousa  o A o de | Kiss Af e   he I ves iga io	1	1				
+DR000262	TW	2026	Dual S a s	頂峰	Di g Fe g	1	1				
+DR000018	TH	2020	E  of Love: Love Mecha ics	กลรักรุ่นพี่		1	1			RM000018 (o de  1)	FR000006 (o de  2)
+DR000019	TH	2020	E  of Love: This Is Love S o y	เหนือนพระราม	This Is Love S o y	1	1				FR000006 (o de  3)
+DR000017	TH	2020	E  of Love: Tossa a	รักวุ่นๆ ของหนุ่มวิศวะ - วิศวะมีเกียร์น่ะเมียหมอ	Tossa a	1	1				FR000006 (o de  1)
+DR000075	TH	2022	E cha é	ใครคืออองชองเต	Who Is E cha é?	1	1	SR000075			
+DR000251	TW	2024	E e al Bu le	化外之醫		1	1				
+DR000654	JP	2022	E e al Yes e day	永遠の昨日	Eie   o Ki ō | Eie   o Ki ou	1	1				
+DR000163	KR	2024	Ecce ic Roma ce	기이한 로맨스	Ecce ic Roma ce | Giyi-ha  Romae seu	1	1		UN000004		
+DR001165	CN	2026	Echo of a Le e	等一封迴信		1	1				
+DR000581	CN	2025	Echoes of a Dis a  Cho d	弦上光年	Xia  Sha g Gua g Nia | Ligh -yea s o   he S i g | S i gs of Ligh	1	1				
+DR001179	CN	2026	Elegy of Zhaoli	昭离赋	Zhao Li Fu | The Ch o icles of Zhao Li	1	1				
+DR000283	PH	2020	Eve  Af e		Eve  Af e  The Se ies	1	1				
+DR000380	PH	2023	Eve  Af e		Eve  Af e  The Se ies	1	1				
+DR000056	TH	2022	Eve  Su	ฉันนี่แหละนายอาทิตย์	Eve  Su  Se ies | I'm M . A hid	1	1	SR000056			
+DR001223	CN	2026	Eve las i g Moo ligh	月光永不坠落	Yue Gua g Yo g Bu Zhui Luo	1	1				
+DR000936	TH	2024	Eve y You, Eve y Me	ทุกๆ เธอที่รัก	Eve y U The Se ies	1	1				
+DR001156	JP	2026	Ex ao di a y A o ey Mi ami	南田南弁護士は天才肌	Mi amida Mi ami Be goshi wa Te saihada	1	1			RM001155 (o de  2)	
+DR001155	KR	2022	Ex ao di a y A o ey Woo	이상한 변호사 우영우	Iisa gha  Byeo hosa Uyeo gu | Ex ao di a y Lawye  Woo You g-woo	1	1			RM001155 (o de  1)	
+DR000256	TW	2025	Exclusive Love	獨佔接班人	Exclusive Successo | Du Zha  Jie Ba  Re	1	1				
+DR000995	TH	2025	Eye Co ac	เพียงสบตา	Eye Co ac  The Se ies | Pia g Sob Ta | Phia g Sob Ta | เพียงสบตา The Se ies	1	1				
+DR000795	TH	2020	F ie d Fo eve	บทเพื่อน บทเพลง	F ie d Fo eve  The Se ies | Ou  Love Is Sick The Se ies	1	1				
+DR000176	KR	2026	Fa  Se vice	팬서비스	Fa  Se vice | Fa se vice | Pae  Seobiseu | Pae seobiseu	1	1				
+DR000521	CN	2020	Fa al Jou ey	陈情令之乱魄	Lua  Po | The U amed: Fa al Jou ey | The U amed: Chaos	1	1		UN000016		FR000033 (o de  3)
+DR001222	CN	2026	Fa e Beyo d Sc ip	南相思	Na  Xia g Si	1	1				
+DR000402	VN	2016	Fa ewell My Ghos  Boyf ie d		Hứa sẽ hạ h phúc  hé	1	1				
+DR000883	TH	2022	Fahla uk	ฟ้าลั่นรัก	Fahla uk The Se ies | FahLa Rak | F ie ds wi h Be efi s	1	1				
+DR000728	JP	2026	Fake Fac  Lips	フェイクファクトリップス		1	1				
+DR000547	CN	2015	Falli g i  Love wi h a Rival	逆袭之爱上情敌	Ni Xi Zhi Ai Sha g Qi g Di | Cou e  A ack	1	1			RM000547 (o de  1)	
+DR001196	CN	2026	Falli g U de   he S a s	星夜沉沦	Xi g Ye Che  Lu	1	1				
+DR000164	KR	2025	FC Soldou	FC 솔드아웃	FC Soldou | FC Soldou	1	1				
+DR000589	CN | HK	2026	Feel Wha  You Feel	你的心事映在我的眉间		1	1		UN000023		
+DR001085	KR	2026	Fi al Table	파이널 테이블	The Fi al Table | Deo Pai eol Teibeul | Paie al Tebeul	1	1				
+DR000122	KR	2022	Fi s  Love Agai	첫사랑만 세번째	Fi s  Love, Agai | Fi s  Love fo   he Thi d Time | Cheo sa a gma  Sebeo jjae	1	1	SR000122			
+DR000248	TW	2024	Fi s  No e of Love	彈一場完美戀愛		1	1				
+DR000185	KR	2025	Fi s  Page	퍼스트 페이지	Fi s  Page | Peoseu eu Peiji	1	1				FR000016 (o de  1)
+DR000476	VN	2025	Figh  fo  Love		Vì Yêu Mà Chiế	1	1				
+DR000257	TW	2025	Figh  Fo  You	對立而已	Dui Li E  Yi	1	1		UN000007		
+DR000810	TH	2021	Fish Upo   he Sky	ปลาบนฟ้า	Fish Upo   he Sky The Se ies | Pla Bo  Fah | Fish f om  he Sky | Fish Upo   he Sky	1	1				
+DR000196	KR	2026	Fix  he E o !	오류를 고쳐줘!	Fix  he E o ! | O yu eul Gochyeojwo!	1	1				
+DR000986	TH	2025	Fli  Milk	รักรสนม(จืด)	The Tas e of F esh Milk | Fli  Milk The Se ies	1	1				
+DR000603	CN	2026	Fli i g wi h My A ch ival o  Ea h	在地球与宿敌互撩的日子	在地球與宿敵互撩的日子 | Zai Diqiu Yu Sudi Huliao de Rizi | The Days I Spe  Fli i g wi h My A ch ival o  Ea h	1	1				
+DR001041	TH	2026	Flowe  Boy: E cha ed by  he Sce  of Polle	รักวุ่นๆ นายดอกไม้		1	1				
+DR000905	TH	2023	Fo  Him	ยอมเป็นของฮิม	Yom Pe  Kho g Him | Fo  Him The Se ies	1	1				
+DR000465	VN	2023	Fo  You A Thousa d Times		Vì Cậu Cả Ngà  Lầ  Rồi	1	1				
+DR000409	VN	2017	Fo eve  Love		Tì h Khiê  Nhấ  Si h | A h Cò  Nợ Em | I Owe You	1	1				
+DR000439	VN	2020	Follow My Su shi e		Follow My Su shi e The Se ies	1	1				
+DR000413	VN	2018	Foo ball Guys		Nhữ g Chà g T ai Sâ  Cỏ	1	1				FR000028 (o de  1)
+DR001069	TH	2026	Fool i  Love	คนโง่รักเข(ล)า							
+DR000453	VN	2021	FOOLs – Nhữ g Kẻ Khờ		FOOLs | Nhữ g Kẻ Khờ	1	1				
+DR000939	TH	2024	Fou eve  You	เพราะรักนำทาง	Fou eve  You P ojec | Fou eve  You 1 | Ph o Rak Nam Tha g	1	1				FR000047 (o de  1)
+DR001190	CN	2026	Fu Re  Zou De Di Sa  Nia	夫人走的第三年		1	1				
+DR000906	TH	2023	Fu u e	วิศวะสุดหล่อขอหมอเป็นเมีย	Fu u e The Se ies	1	1				
+DR000649	JP	2022	Fuda shi Ba e de	腐男子バーテンダーの嗜み	Fuda shi Ba e de   o Tashi ami	1	1				
+DR000156	KR	2024	G ay Shel e	회색기류	G ay Shel e | G ey Shel e | Hoesaekgi yu	1	1				
+DR000754	TH	2016	G ey Rai bow	รุ้งสีเทา	Views of Love: G ey Rai bow | Ru g See Thao | G ay Rai bow	1	1				
+DR000326	PH	2021	Game Ove		Game Ove  The Se ies	1	1				
+DR000270	PH	2020	Gameboys	Gameboys	Gameboys: Seaso  1	1	2	SR000270			
+DR000271	PH	2022	Gameboys 2	Gameboys 2	Gameboys Seaso  2	2	2	SR000270			
+DR000752	TH	2016	Gay OK Ba gkok	เกย์โอเค แบงค็อก	Gay OK Ba gkok 1 | GayOK Ba gkok	1	2	SR000752			
+DR000753	TH	2017	Gay OK Ba gkok 2	เกย์โอเค แบงค็อก 2	Gay OK Ba gkok Seaso  2 | GayOK Ba gkok 2	2	2	SR000752			
+DR000787	TH	2020	Ge  Y	วัยรุ่นวุ่นYรัก	Ge  Y: The Se ies | Ge  Y The Se ies	1	2	SR000787			
+DR000788	TH	2021	Ge  Y 2	วัยรุ่นวุ่นYรัก 2	Ge  Y 2: The Se ies | Ge  Y The Se ies 2	2	2	SR000787			
+DR000507	SG	2022	Ge away	Ge away	Ge away The Se ies	1	1				
+DR001207	CN	2026	Ge e a io   o Ge e a io	江湖夜雨十年灯	Jia g Hu Ye Yu Shi Nia  De g	1	1				
+DR001114	JP	2020	Gekijōba  Oishii Kyūshoku: Fi al Ba le	劇場版 おいしい給食 Fi al Ba le							FR000051 (o de  2)
+DR001118	JP	2024	Gekijōba  Oishii Kyūshoku: Road  o Ikameshi	劇場版 おいしい給食 Road  o イカメシ							FR000051 (o de  6)
+DR001116	JP	2022	Gekijōba  Oishii Kyūshoku: So sugyō	劇場版 おいしい給食 卒業							FR000051 (o de  4)
+DR000987	TH	2025	Gelboys	GELBOYS สถานะกั๊กใจ	GELBOYS | Gel Boys | GELBOYS: S uck i  Love | สถานะกั๊กใจ	1	2	SR000987			
+DR000988	TH	2026	Gelboys 2	GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน	GELBOYS 2 | Gelboys Seaso  2 | Gelboys 2: Fa dom S a us | ตกอยู่ในสถานะติ่งแฟน	2	2	SR000987			
+DR000419	VN	2019	Ghe Bẹo Ghẹo Ai			1	1				FR000029 (o de  1)
+DR000434	VN	2023	Ghe Bẹo Ghẹo Ai 2		Mế  2	1	1				FR000029 (o de  3)
+DR000880	TH	2022	Ghos  Hos , Ghos  House	รัก เล่า เรื่องผี	Ghos  Hos  Ghos  House | Ghos  House Ghos  House	1	1				
+DR000553	CN	2025	Ghos  Ma iage: A S aigh  Ma  Fo ced  o Ma y  he Ki g of  he U de wo ld	阴婚霸宠：直男被迫嫁冥王	Yi  Hu  Ba Cho g: Zhi Na  Bei Po Jia Mi g Wa g	1	1				
+DR000808	TH	2020	Ghos  Ru e	ค่ายเฮี้ยนเรียนรัก	Ghos  Ru e  The Se ies	1	1				
+DR001101	KR	2026	Gif	기프트		1	1				
+DR000638	JP	2021	Give	ギヴン	Give | GIVEN	1	1				
+DR001219	CN	2026	Glaze of Love	我在大学修文物	Wo Zai Da Xue Xiu We  Wu	1	1				
+DR001173	CN	2026	Glo y i  Shadows	荣华令	Ro g Hua Li g	1	1				
+DR000392	PH	2025	Go  My Eyes o  You			1	1				
+DR000297	PH	2020	Go 'chu Fam!		Go 'chu Fam! The Se ies | Go 'chu Fam! BL Se ies	1	1				
+DR001025	TH	2025	Goddess Bless You f om Dea h	สิงสาลาตาย		1	1				
+DR000813	TH	2021	Golde  Blood	รักมันมหาศาล	Golde  Blood: Love E o mously | Golde  Blood: The G ea es  Love | Golde  Blood Love E o mously	1	1				
+DR001070	TH	2026	Good Boy Se ies	จิรภัทรจะเป็นเด็กดี							
+DR000561	CN	2025	Gu Ji  Na  Qiu	顾禁南囚	Gu Ji a  P iso | Fo bidde  & Cap ivi y | Fo bidde  a d Cap ivi y	1	1				
+DR000102	TH	2026	Gu sho	ผมหลงรักฆาตกร	Phom Lo g Rak Kha ako	1	1	SR000102			
+DR000517	CN	2018	Gua dia	镇魂	Zhe  Hu | Zhe hu	1	1				
+DR000536	CN	2024	Gym Affai s	教练求放过	Jiao Lia  Qiu Fa g Guo | Coach Please Le  Me Go	1	1				
+DR000486	VN	2026	Hạ Cuối, Biể  Xa h Và Em		Ha Cuoi, Bie  Xa h Va Em	1	1				
+DR000882	TH	2022	Ha d Love Missio	ภารกิจโหดเปลี่ยนเป็นโหมดรัก		1	1				
+DR001027	TH	2026	Ha d Nigh s	คืนนี้ผมนอนไม่หลับ	Muea Khue  Ni Phom No  Mai Lap | I Ca ’  Sleep To igh	1	1				
+DR000482	VN	2025	Ha oi, I Love You		Hà Nội, A h yêu "A h" | Ho  B o he  Nex  Doo	1	1				
+DR001145	JP	2026	Hako e Ekide : Ou  S o y	俺たちの箱根駅伝	O e achi  o Hako e Ekide						
+DR000438	VN	2020	Happi ess Flies Fa  Away		Hạ h Phúc Xa Bay	1	1				
+DR001107	KR	2026	Happy A di g	뜨거운 안녕	Ho  Goodbye | Passio a e Goodbye	1	1			RM001106 (o de  2)	
+DR000132	KR	2022	Happy E di g Roma ce	펜스 밖은 해피엔딩	Happy E di g Roma ce | Beyo d  he Fe ce Is Happy E di g | Pe seu Bak-eu  Haepi E di g	1	1	SR000132			
+DR000443	VN	2019	Happy Family		Gia Đì h Vui Vẻ	1	2	SR000443			
+DR000444	VN	2020	Happy Family		Gia Đì h Vui Vẻ | Happy Family Seaso  2	2	2	SR000443			
+DR000141	KR	2023	Happy Me y E di g	해피메리엔딩	Happy Me y E di g | Happy Me y E di g?	1	1				
+DR000692	JP	2024	Happy of  he E d	ハッピー・オブ・ジ・エンド		1	1				
+DR000565	CN	2025	Happy, Happy	开心开心	Happy Happy | Pi k Summe  2 | Pi k Summe  Seaso  2 | Befo e  he E d of  he Summe  2 | 这个夏天结束前2 | 这个夏天结束前第二季	2	2	SR000564			
+DR000388	PH	2024	Hau ed Hea s			1	1				
+DR000346	PH	2021	He ma		HERMA | He ma The BL Se ies	1	1				
+DR000390	PH	2025	He moso		You  Though s i  My Eyes	1	2	SR000390			
+DR000391	PH	2026	He moso — Seaso  2		He moso Seaso  2 | You  Though s i  My Eyes Seaso  2	2	2	SR000390			
+DR000784	TH	2019	He She I	ตาย ไม่ ตาย	He, She, I | He She I : Chap e  I, II, III	1	1				
+DR000579	CN	2025	He Should Have Sho e B igh ly	他本该光芒万丈	Ta Be  Gai Gua g Ma g Wa  Zha g	1	1				
+DR000777	TH	2019	He's Comi g  o Me	เขามาเชงเม้งข้างๆหลุมผมครับ	Come  o Me	1	1				
+DR000321	PH	2021	He's Mi e		He's Mi e The Se ies	1	1				
+DR000165	KR	2025	Hea  S ai	하트 스테인	Hea  S ai | Ha eu Seu ei	1	1				
+DR000313	PH	2021	Hea B eak Mou ai		Hea B eak Mou ai  The Se ies	1	1				
+DR000074	TH	2026	Hea bou d	สุดทางหัวใจ		1	1	SR000074			
+DR000064	TH	2025	Head 2 Head	ไหนใครว่าพวกมันไม่ถูกกัน	Nai Kh ai Wa Phuak Ma  Mai Thuk Ka | Who Says They Do ’  Ge  Alo g?	1	1	SR000064			
+DR000167	KR	2025	Heesu i  Class 2	2반 이희수	Heesu i  Class 2 | Lee Hee-soo i  Class 2 | Iba  Ihisu	1	1				
+DR000488	HK	2018	Hehe & He		我的HeHe室友 第一季 | Hehe & He Seaso  1	1	3	SR000488			
+DR000489	HK	2020	Hehe & He		我的HeHe室友 第二季 | Hehe & He Seaso  2	2	3	SR000488			
+DR000490	HK	2021	Hehe & He		HeHe室友 第三季 | Hehe & He Seaso  3	3	3	SR000488			
+DR000266	PH	2020	Hello S a ge	Hello S a ge	Hello, S a ge	1	1				FR000023 (o de  1)
+DR000267	PH	2021	Hello S a ge : The Movie	Hello S a ge : The Movie	Hello, S a ge : The Movie	1	1				FR000023 (o de  2)
+DR000450	VN	2021	Hey Rival, I Love You!		Tì h Địch, I Love You! | E emy, I Love You!	1	1				FR000030 (o de  1)
+DR000425	VN	2019	Hey! Fi s  Love			1	1				
+DR000907	TH	2023	Hi  Bi e Love	รักชอบเจ็บ	Hi  Bi e Love The Se ies	1	1				
+DR000081	TH	2023	Hidde  Age da	วาระซ่อนเร้น		1	1	SR000081			
+DR000831	TH	2021	Hidde  Love		Hidde  Love The Se ies	1	1				
+DR001133	JP	2026	Hide & Seek: The Gi lf ie d O e Seco d Befo e Ze o	ハイド＆シーク 0秒前の彼女	Hide & Seek: Ze o Byōmae  o Ka ojo						
+DR000970	TH	2024	High School F e emy	มิตรภาพคราบศัตรู	High School F e emy | Mi aphap Kh ap Sa u	1	1				
+DR000324	PH	2021	Him Will Be His			1	1				
+DR000216	TW	2017	HIS o y: My He o	HIS o y: My He o	My He o	1	5	SR000216			FR000019 (o de  1)
+DR000218	TW	2017	HIS o y: Obsessed	HIS o y - 著魔	Obsessed | Zhe Mo	1	5	SR000216			FR000019 (o de  3)
+DR000217	TW	2017	HIS o y: S ay Away F om Me	HIS o y - 離我遠一點	S ay Away F om Me | Li Wo Yua  Yi Dia	1	5	SR000216			FR000019 (o de  2)
+DR000220	TW	2018	HIS o y2: C ossi g  he Li e	HIS o y2 - 越界	C ossi g  he Li e | Bou da y C ossi g | Love Ove   he Li e | Yue Jie	2	5	SR000216			FR000019 (o de  5)
+DR000219	TW	2018	HIS o y2: Righ  o  W o g	HIS o y2 - 是非	Righ  o  W o g | Shi Fei	2	5	SR000216			FR000019 (o de  4)
+DR000222	TW	2019	HIS o y3: Make Ou  Days Cou	HIS o y3 - 那一天	Make Ou  Days Cou | Tha  Day | Nà Yī iā	3	5	SR000216			FR000019 (o de  7)
+DR000221	TW	2019	HIS o y3: T apped	HIS o y3 - 圈套	T apped | HIS o y3: T ap | Quā  Tào	3	5	SR000216			FR000019 (o de  6)
+DR000223	TW	2021	HIS o y4: Close  o You	HIS o y4 - 近距離愛上你	Close  o You | Ji  Ju Li Ai Sha g Ni	4	5	SR000216			FR000019 (o de  8)
+DR000224	TW	2022	HIS o y5: Love i   he Fu u e	HIS o y5 - 遇見未來的你	Love i   he Fu u e | HIS o y5: Mee  You i   he Fu u e	5	5	SR000216			FR000019 (o de  9)
+DR000619	JP	2019	His: I Did '  Thi k I Would Fall i  Love	his〜恋するつもりなんてなかった〜	His: I Did ’  Thi k I Would Fall i  Love	1	1				FR000036 (o de  1)
+DR000576	CN	2025	Ho ey o   he Edge of  he K ife	刀口之蜜	Dao Kou Zhi Mi	1	1				
+DR000523	CN	2020	Ho ey Si	亲爱的先生	Qi  Ai Xia  She g | Dea  Si	1	1				
+DR000738	JP	2026	Hold o , Ha u o a-ku	ちょっと待とうよ、春虎くん	Cho o Ma ou yo, Ha u o a-ku	1	1				
+DR000514	CN	2017	Holy Fox So  1: Adve	灵狐圣子1：圣子出世	Holy Fox So  1 | Holy Fox So : Adve | Li g Hu She g Zi 1: She g Zi Chu Shi	1	1				FR000031 (o de  2)
+DR000515	CN	2017	Holy Fox So  2: Fai y Mou ai  Ba le	灵狐圣子2：仙山大战	Holy Fox So  2 | Holy Fox So : Fai y Mou ai  Ba le | Li g Hu She g Zi 2: Xia  Sha  Da Zha	1	1				FR000031 (o de  3)
+DR000840	TH	2021	Home ow 's Emb ace	อ้อมกอดบ้านเกิด	Home ow 's Emb ace The Se ies | อ้อมกอดบ้านเกิด Se ies	1	1				
+DR000302	PH	2020	Hook Up		Hook Up: A Homemade Se ies | Hook Up: A Home-made Se ies	1	1				FR000025 (o de  2)
+DR000908	TH	2023	House of S a s	สถาบันปั้นดาว	House of S a s The Se ies	1	1				
+DR001139	JP	2026	How  o Ge  a Boyf ie d Who Deeply Ado es You	溺愛カレシの作り方	Dekiai Ka eshi  o Tsuku ika a | Dekiai Ka eshi  o Tsuku ika a: Se ka a Ho mei  i Na u O a oko  o Ha ashi						
+DR000084	TH	2026	How  o Su vive My CEO	พัตลมอย่าแย่		1	1	SR000084			
+DR001199	CN	2026	How Da e You!?	成何体统	Che g He Ti To g | This Is Ridiculous	1	1				
+DR000342	PH	2021	How To Heal My B oke  Hea		Simply Do '  Seaso  2 | Simply Do '  Seaso  2: How To Heal My B oke  Hea	2	2	SR000341			
+DR001184	CN	2026	Hua  Cho g: Wo De Mi g Li g Fu Re  Shi Shao Shuai	豢宠：我的名伶甜夫是少帅	Hua  Cho g	1	1				
+DR000863	TH	2022	I  a Rela io ship	สถานะรักเธอ		1	1				
+DR000282	PH	2020	I  Be wee		Sa Pagi a   g Kamus a a  Paalam | Be wee  Hello a d Goodbye	1	1				
+DR000318	PH	2021	I  This Kaleidoscope Wo ld			1	1				
+DR000529	CN	2022	I  You  Hea	在你心之所向的地方	Zai Ni Xi  Zhi Suo Xia g De Di Fa g | I  You  Hea : The Place Whe e You  Hea  Belo gs	1	1				
+DR001086	KR	2026	I 's You, Rega dless	밑도 끝도 없이, 너다	Oh! My Gua d | Ou  of Nowhe e, I 's You | I 's You, Ou  of  he Blue | Mi do Kkeu do Eopsi, Neoda	1	1				
+DR000757	TH	2017	I Am You  Ki g	ผมขอสั่งให้คุณ	I Am You  Ki g: I O de  You | I Am You  Ki g The Se ies	1	2	SR000757			
+DR000758	TH	2019	I Am You  Ki g 2	I AM YOUR KING ผมขอสั่งให้คุณ ซีซั่น2	I Am You  Ki g The Se ies 2 | I Am You  Ki g: Seaso  2	2	2	SR000757			
+DR000661	JP	2023	I Became  he Mai  Role of a BL D ama	BLドラマの主演になりました	BL D ama  o Shue   i Na imashi a | BLドラマの主演になりました クランクアップ編 | BL D ama  o Shue   i Na imashi a: C a k Up He	1	2	SR000661			
+DR000662	JP	2025	I Became  he Mai  Role of a BL D ama 2	続・BLドラマの主演になりました	Zoku BL D ama  o Shue   i Na imashi a | Zoku: BL D ama  o Shue   i Na imashi a | I Became  he Mai  Role of a BL D ama: Seaso  2	2	2	SR000661			
+DR000670	JP	2023	I Ca o  Reach You	君には届かない。	Kimi  i wa Todoka ai | No puedo llega  a  i	1	1				
+DR000360	PH	2022	I digo		I digo The Se ies	1	1				
+DR000151	KR	2023	I dividual Ci cums a ces	각자의 사정	I dividual Ci cums a ces | Each O he ’s Ci cums a ces | Gakjaui Sajeo g	1	1				
+DR000530	CN	2022	I Do ’  Wa   o Be B o he s wi h You	我要和你做兄弟	Wo Yao He Ni Zuo Xio g Di | I Wa   o Be B o he s wi h You | I Do ’  Wa   o Be You  B o he	1	1		UN000017		
+DR000528	CN	2020	I Do ’  Wa   o Be F ie ds wi h You	我才不要和你做朋友呢	Wo Cai Bu Yao He Ni Zuo Pe g You Ne	1	1		UN000017		
+DR001018	TH	2025	I e mi able	อสงไขย	I e mi able | Aso gkhai	1	1				
+DR000909	TH	2023	I Feel You Li ge  i   he Ai	หอมกลิ่นความรัก	Hom Kli  Khwam Rak | The Sce  of Love | The F ag a ce of Love | Swee  Smell of Love	1	1				
+DR000544	CN	2025	I fideli y, I ’s a Disease	花心，是一种病	Hua Xi , Shi Yi Zho g Bi g	1	1				
+DR000306	PH	2020	I flue ce s		#I flue ce s | I flue ce s The Se ies	1	1		UN000008		
+DR000803	TH	2020	I g edie s	ส่วนผสมที่ลงตัว	I g edie s The Se ies | I g edie s: The Se ies	1	1				
+DR000478	VN	2025	I Have a Li le S o y		Tôi Có 1 Câu Chuyệ  Nhỏ	1	1				
+DR000690	JP	2017	I Hea   he Su spo	ひだまりが聴こえる	The Silhoue e of You  Voice	1	1		UN000024		
+DR000691	JP	2024	I Hea   he Su spo	ひだまりが聴こえる		1	1		UN000024		
+DR000645	JP	2022	I Jus  Wa   o See You	君のことだけ見ていたい	Kimi  o Ko o Dake Mi e I ai	1	1				
+DR000234	TW	2021	I oce	無邪		1	1				
+DR001153	JP	2026	I oha's Love C osses Time	いろはの恋は時代をかける	I oha  o Koi wa Toki o Kake u	1	1				
+DR000999	TH	2025	I P omise I Will Come Back	ฉันคอยเธอ	I P omise I Will Comeback | Cha  Khoi Thoe | I Wai ed fo  You	1	1				
+DR000790	TH	2021	I P omised You  he Moo	แปลรักฉันด้วยใจเธอ Pa  2	I Told Su se  Abou  You: Pa  2 | IPYTM	2	2	SR000789			
+DR000960	TH	2024	I Saw You i  My D eam	ฝันรักห้วงนิทรา	I Saw You i  My D eam | My Ma vellous D eam Is You | Fa  Rak Hua g Ni a	1	1				
+DR000365	PH	2022	I sepa able			1	1				
+DR000789	TH	2020	I Told Su se  Abou  You	แปลรักฉันด้วยใจเธอ	I Told Su se  Abou  You: Pa  1 | BKPP The Se ies | ITSAY	1	2	SR000789			
+DR000055	TH	2026	I Will Always Save You	โปรดอยู่ในความคุ้มครองของป้องปืน		1	1	SR000055			
+DR000889	TH	2022	I Will K ock You	พี่จะตีนะเนย	I Will Hi  You | I Will Hi  You Na, Noei | Phi Ja Tee Na Noei	1	1				
+DR000540	CN	2025	I’ll Tu  Back This Time	这次换我先回头	Zhe Ci Hua  Wo Xia  Hui Tou	1	1				
+DR001012	TH	2025	I'm  he Mos  Beau iful Cou	ฉันนี่แหละท่านขุนที่สวยที่สุด	I'm The Mos  Beau iful Cou | ฉันนี่แหละท่านขุนที่สวยที่สุด	1	1				
+DR000493	HK	2024	I'm a Fool fo  You	那個傻的 請一直傻下去	I’m a Fool fo  You Seaso  4 | 那個傻的 請一直傻下去 第四季	4	4	SR000499			
+DR000497	HK	2022	I'm a Fool fo  You	那個傻的 請一直傻下去	I’m a Fool fo  You Seaso  3 | 那個傻的 請一直傻下去 第三季	3	4	SR000499			
+DR000499	HK	2021	I'm a Fool fo  You	那個傻的 請一直傻下去	I’m a Fool fo  You Seaso  1 | 那個傻的 請一直傻下去 第一季	1	4	SR000499			
+DR000500	HK	2021	I'm a Fool fo  You	那個傻的 請一直傻下去	I’m a Fool fo  You Seaso  2 | 那個傻的 請一直傻下去 第二季	2	4	SR000499			
+DR000722	JP	2026	I'm Kishi K igh : You  P iva e Tu o	家庭教師の岸騎士です。	Ka eikyoshi  o Kishi K igh  desu. | I’m P iva e Tu o , Kishi K igh	1	1				
+DR000049	TH	2020	I'm Tee, Me Too	คนละทีเดียวกัน	Ko  La Tee Dieow Gu | Diffe e  People - I’m Tee, Me Too	1	1				
+DR000671	JP	2023	If I 's Wi h You	君となら恋をしてみても	Kimi  o Na a Koi o Shi e Mi e mo | If I 's You, I Migh  T y Falli g i  Love	1	1				
+DR000254	TW	2025	Imp essio  of You h	印象·青春	Imp essio  Of You h	1	1				
+DR000311	PH	2021	INN Love		INN Love The Se ies	1	1				
+DR000290	PH	2020	Isla d		Isla d The Se ies	1	1				
+DR000312	PH	2021	Jack & Jill		Jack a d Jill | Jack & Jill: A Mic o BL Se ies	1	1				
+DR000968	TH	2024	Jack & Joke : U S eal My Hea !	แจ็คกับโจ๊กเกอร์ ทำไมต้องเป็นเธอทุกที	Jack & Joke | Jack a d Joke | Jack & Joke : U S eal My Hea !	1	1				
+DR000664	JP	2023	Jack o' F os	ジャックフロスト	Jack F os	1	1				
+DR000155	KR	2024	Jazz fo  Two	재즈처럼	Jazz fo  Two | Jazz Like Tha | Jaejeu Cheo eom	1	1		UN000005		
+DR000571	CN	2025	Jia  Hu	剑魂	Jia  Hu | Swo d Soul	1	1				
+DR000320	PH	2021	Jojowai  o To opahi		Jojowai  o To opahi  The Se ies	1	1				
+DR000593	CN	2026	Jou ey Wi h You	与君同	Yu Ju  To g | 與君同	1	1				
+DR000146	KR	2023	Ju  & Ju	준과 준	Ju  & Ju | Ju  a d Ju | Ju 과 Ju	1	1				
+DR000208	KR	2026	Jus  F ie d	저스트 프렌드	Jus  F ie d | Jeoseu eu Peu e deu | 어쩌다 | Eojjeoda	1	1				
+DR000955	TH	2024	K ock K ock, Boys!	บ้านหนุ่มโสด โหมดพร้อมเลิฟ	K ock K ock, Boys! | K ock K ock House | Ba  Num So  Mode Ph om Love	1	1				
+DR001001	TH	2025	K ock Ou	หมัดน็อกล็อกหัวใจ	K ock Ou  The Se ies | Ma  K ock Lock Hua Jai	1	1				
+DR000653	JP	2022	Kabe-Koji-Nekoyashiki-ku  Desi es  o Be Recog ized	壁サー同人作家の猫屋敷くんは承認欲求をこじらせている	Kabe-Koji | Kabe Koji	1	1				
+DR000315	PH	2021	Kamise a g Papel		Pape  Shi	1	1				
+DR000646	JP	2022	Kei × Yaku: Da ge ous Pa e s	ケイ×ヤク −あぶない相棒−	Kei × Yaku: Abu ai Aibou	1	1				
+DR000038	TH	2025	Khemji a	เขมจิราต้องรอด	Khemji a Will Su vive	1	1				FR000010 (o de  1)
+DR000039	TH	2026	Khemji a Fo eve	เขมจิราต้องรอดตลอดกาล	Khemji a Fo eve  The Se ies | Khemji a Mus  Su vive Fo eve | Khemji a Special +1	1	1				FR000010 (o de  2)
+DR000860	TH	2022	Ki Po sche	คินน์พอร์ช เดอะซีรีส์	Ki Po sche The Se ies | Ki Po sche The Se ies: La Fo e | Rak Kho  Rai Su  Thai Kho  Rak	1	1				
+DR000966	TH	2024	Kid ap	ลับ-จ้าง-รัก	Kid ap | KIDNAP: Lap-Cha g-Rak | Lap-Cha g-Rak | Lab-Cha g-Rak	1	1				
+DR001135	JP | HK | KR	2026	kiD ap GAME	kiD ap GAME							
+DR000506	SG	2025	Kill  o Love	紫陌红尘	Zi Mo Ho g Che | Sha  He Yo g Ji | 山河永寂 | 紫陌紅塵	1	1		UN000015		
+DR000525	CN	2021	Kille  a d Heale	恨君不似江楼月	He  Ju  Bu Si Jia g Lou Yue | Ha e You No  Like Jia g Lou Moo	1	1				
+DR000953	TH	2024	Kiseki i  Tokyo Chap e  2	Kiseki 奇跡 ฤดูปาฏิหาริย์ Chap e  2	Kiseki Chap e  2 | Kiseki i  Tokyo: Chap e  2	1	1				FR000048 (o de  1)
+DR000243	TW	2023	Kiseki: Dea   o Me	奇蹟	The Mi acle | Mi acle	1	1				FR000021 (o de  1)
+DR000027	TH	2018	Kiss Me Agai	จูบให้ได้ถ้านายแน่จริง	Kiss Me Agai  The Se ies | Kiss Me Agai	1	1				FR000009 (o de  2)
+DR000604	CN	2026	Kiss o  Kill	赴海	Fu Hai | Fù Hǎi | Kiss o  Kill a  Sea	1	1				
+DR000026	TH	2016	Kiss: The Se ies	รักต้องจูบ	Kiss The Se ies | Rak To g Chup	1	1				FR000009 (o de  1)
+DR000119	KR	2022	Kissable Lips	깨물고 싶은	Kissable Lips | Kissable Lips: Bi e Me | Kkaemulgo Sipeu	1	1	SR000119	UN000003		
+DR001053	TH	2026	KNOT	KNOT	KNOT The Se ies | KNOT: Alpha Omega Se ies | KNOT: Real Omegave se	1	1				
+DR000304	PH	2020	Kumus a B o?		How A e You, B o? | Hello B o?	1	2	SR000304			
+DR000305	PH	2022	Kumus a B o? The Se ies		Kumus a B o? Seaso  2 | How A e You, B o? The Se ies | Kumas a B o? Se ies	2	2	SR000304			
+DR001146	JP	1999	Kyūmei Byō ō 24-ji — Tempo ada 1	救命病棟24時	Eme ge cy Room 24 Hou s | 救命病棟24時 第1シリーズ	1	6	SR001146			
+DR001147	JP	2001	Kyūmei Byō ō 24-ji — Tempo ada 2	救命病棟24時 第2シリーズ	Eme ge cy Room 24 Hou s 2	2	6	SR001146			
+DR001148	JP	2005	Kyūmei Byō ō 24-ji — Tempo ada 3	救命病棟24時 第3シリーズ	Eme ge cy Room 24 Hou s 3	3	6	SR001146			
+DR001149	JP	2009	Kyūmei Byō ō 24-ji — Tempo ada 4	救命病棟24時 第4シリーズ	Eme ge cy Room 24 Hou s 4	4	6	SR001146			
+DR001150	JP	2013	Kyūmei Byō ō 24-ji — Tempo ada 5	救命病棟24時 第5シリーズ	Eme ge cy Room 24 Hou s 5	5	6	SR001146			
+DR001151	JP	2026	Kyūmei Byō ō 24-ji — Tempo ada 6	救命病棟24時	Eme ge cy Room 24 Hou s 6 | 救命病棟24時 第6シリーズ	6	6	SR001146			
+DR000226	TW	2017	La Boum	第一次		1	1				FR000020 (o de  2)
+DR000858	TH	2022	La Cuisi e	เมนูลับฉบับแก้มยุ้ย	The Sec e  Me u of Kaem Yui | Me u Lap Chabap Kaem Yui	1	1				
+DR000942	TH	2026	La ely, I ’s Wi e  Seaso	ไทเกอร์เดือนหนาว	La ely, I ’s Wi e  Seaso | Tige  Duea  Nao | Tige  & Duea  Nao | Fou eve  You Pa  2: La ely, I ’s Wi e  Seaso | Fou eve  You 2: La ely, I ’s Wi e  Seaso	1	1				FR000047 (o de  4)
+DR000910	TH	2023	La Pluie	ฝนตกครั้งนั้นฉันรักเธอ	La Pluie The Se ies | Fo  Tok Kh a g Na  Cha  Rak Thoe | I Loved You, Tha  Time I  Rai ed	1	1				
+DR000292	PH	2020	Laka		Laka  The Se ies	1	1				
+DR000990	TH	2025	Las  Meal U ive se	อาหารมื้อสุดท้ายก่อนโลกกลายเป็นทางด่วนอวกาศ	Las  Meal U ive se The Se ies | The Las  Meal Befo e  he Wo ld Tu s i o Galaxy Exp essway | Aha  Mue Su hai Ko  Lok Klai Pe  Tha g Dua g Awaka	1	1				
+DR000053	TH	2023	Las  Twiligh	ภาพนายไม่เคยลืม		1	1	SR000053			
+DR000184	KR	2026	Lau d y Roma ce	런드리 로맨스	Lau d y Roma ce | Reo deu i Romae seu	1	1		UN000006		
+DR000911	TH	2023	Laws of A ac io	กฎแห่งรักดึงดูด	Ko  Hae g Rak Due g Du	1	1				
+DR000162	KR	2024	Le  F ee  he Cu se of Taekwo do	태권도의 저주를 풀어줘	Le  F ee  he Cu se of Taekwo do | The Cu se of Taekwo do | Taekwo do-ui Jeojoo	1	1				
+DR000403	VN	2016	Le  Love Heal		Hà  Gắ  Yêu Thươ g	1	1				
+DR001020	TH	2025	Le  Me I o You  Hea	ขอเป็นพระเอกในหัวใจพระเอก	Kho Pe  Ph a-ek Nai Huajai Ph a-ek | Likay He o  he Se ies | Likay  he Se ies | Ph a-ek Likay The Se ies | ขอเป็นพระเอกในหัวใจ...พระเอก? | พระเอกลิเก The Se ies | ลิเกเดอะซีรีส์	1	1				
+DR000245	TW	2024	Le 's Talk Abou  Chu	愛愛內含光	Le ’s Talk Abou  CHU	1	1				
+DR001213	CN	2026	Li 'a  Ruome g	临安若梦	Rei ca a ed Love	1	1				
+DR001182	CN	2026	Li le Tail, Keep Up	小尾巴，快跟上！	Li le Tail, Keep Up! | Xiao Wei Ba, Kuai Ge  Sha g! | 小尾巴快跟上 | Whe   he S a  a d U ive se Ali e	1	1				
+DR001197	CN	2021	Lie  o Love	良言写意	Lia g Ya  Xie Yi	1	1				
+DR000479	VN	2025	Life Gives Us Sad ess		Đời cho  a  hữ g  ỗi buồ	1	1				
+DR000727	JP	2026	Life i  Smokey Blue	スモークブルーの雨のち晴れ	Smoke Blue  o Ame Nochi Ha e	1	1				
+DR001143	JP	2026	Life T ade	ライフトレード							
+DR001106	JP	2021	Life's Pu chli e	コントが始まる	Ko o ga Hajima u	1	1			RM001106 (o de  1)	
+DR000623	JP	2020	Life~Love o   he Li e	Life 線上の僕ら	Life Se jou  o Boku a | Life: Love o   he Li e | Life o   he Li e	1	1				
+DR000111	KR	2021	Ligh  o  Me	새빛남고 학생회	Ligh  o  Me | Saebi  Boys High School Cou cil | Saebi amgo Haksae ghoe	1	2	SR000111			
+DR000118	KR	2026	Ligh  o  Me 2	새빛남고 학생회 2	Ligh  o  Me 2 | Ligh  o  Me Seaso  2	2	2	SR000111			
+DR000330	PH	2021	Limi ed Edi io		Limi ed Edi io  The Se ies	1	1				
+DR000965	TH	2024	Live i  Love	รักผ่านไลฟ์ เดอะซีรีส์	Live I  Love | Live i  Love  he Se ies | Rak Pha  Live	1	1				
+DR000682	JP	2024	Livi g Wi h Him	彼のいる生活		1	1				
+DR000374	PH	2023	Lo ely Co ec io s			1	1				
+DR000204	KR	2026	Lo g-Te m Rela io ship	장기연애	Lo g-Te m Rela io ship | The Lo g Rela io ship | Ja ggiyeo ae	1	1				
+DR001049	TH	2026	Los   o Ligh	Los   o Ligh	Los   o Ligh  UNCUT	1	1				
+DR000505	SG	2026	Los   o You	沦陷	Lu  Xia | Wishi g Fish Noodle House | 愿望鱼面馆 | Yua  Wa g Yu Mia  Gua	1	1		UN000015		
+DR000991	TH	2025	Los  i   he Woods	ฤดูหลงป่า	Los  i   he Woods	1	1				
+DR000555	CN	2025	Los  i  Kyo o	情迷京都	Qi g Mi Ji g Du	1	1				
+DR001217	CN	2026	Lose My Hea   o You	心不由己	Xi  Bu You Ji | 心爱的 | Xi  Ai De	1	1				
+DR001159	JP	2026	LOST10	LOST10		1	1				
+DR001013	TH	2025	Love  Me ma	เพียงนาวา	Love  Me ma | เพียงนาวา | Phia g Nawa	1	1				
+DR000319	PH	2021	Love a   he E d of  he Wo ld			1	1				
+DR000820	TH	2021	Love A ea T1	ครั้งหนึ่งเราเคยรักกัน	Love A ea | Love A ea The Se ies | Love A ea Pa  1	1	2	SR000820			
+DR000821	TH	2022	Love A ea T2	ครั้งหนึ่งเราเคยรักกัน	Love A ea Pa  2 | Love A ea Seaso  2	2	2	SR000820			
+DR000588	CN	2026	Love Af e  Addic io	许你十年	Xu Ni Shi Nia	1	1				
+DR001032	TH	2025	Love Ale	มีคำเตือน โปรดระมัดระวัง	Love Ale : Please Be Ca eful | Mi Kham Tuea  P o  Rama awa g	1	1				
+DR000504	MY	2026	Love Algo i hm	恋爱演算法	Love Algo i hm The Se ies	1	1				
+DR000269	PH	2021	Love Be ea h  he S a s	Love Be ea h  he S a s	The Boy Fo e old by  he S a s  he Se ies	1	1				FR000024 (o de  2)
+DR000708	JP	2025	Love Begi s i   he Wo ld of If	ifの世界で恋がはじまる	If  o Sekai de Koi ga Hajima u	1	1				
+DR001214	CN	2026	Love Behi d  he Yea s	我深深地爱着你		1	1				
+DR001220	CN	2026	Love Beyo d  he G ave	白日提灯	Bai Ri Ti De g | Mu Xu Ci	1	1				
+DR000463	VN	2022	Love Bill		Lời Hứa Mùa Hạ	1	1				
+DR000022	TH	2018	Love by Cha ce	บังเอิญรัก	My Accide al Love Is You	1	2	SR000022	UN000001		FR000008 (o de  1)
+DR000023	TH	2020	Love by Cha ce 2: A Cha ce  o Love	รักนี้บังเอิญคือคุณ 2: โอกาสที่จะได้รัก	Love by Cha ce 2 | A Cha ce  o Love	2	2	SR000022	UN000001		FR000008 (o de  2)
+DR000325	PH	2021	Love By Fehle		Love By Fehle  The Se ies	1	1				
+DR001181	CN	2026	Love Ca o  Be Hidde	爱意藏不住	Ai Yi Ca g Bu Zhu	1	1				
+DR000128	KR	2022	Love Class	수업중입니다	Love Class | Sueop Ju gim ida	1	3	SR000128			
+DR000136	KR	2023	Love Class 2	수업중입니다 2	Love Class 2 | Love Class Seaso  2 | Sueop Ju gim ida 2	2	3	SR000128			
+DR000137	KR	2026	Love Class 3	수업중입니다 3	Love Class 3 | Love Class Seaso  3 | Sueop Ju gim ida 3	3	3	SR000128			
+DR001056	TH	2026	Love Des i y	บุพเพสันนิวาส	Love Des i y (BL) | Love Des i y 2026 | Bupphesa iwa  2026 | Buppesa ivas 2026		1			RM001060 (o de  2)	
+DR001060	TH	2018	Love Des i y	บุพเพสันนิวาส	Bupphesa iwa | Buppesa ivas		1			RM001060 (o de  1)	
+DR000154	KR	2024	Love fo  Love's Sake	연애 지상주의 구역	Love fo  Love's Sake | Love Sup emacy Zo e | Yeo ae Jisa gjuui Guyeok	1	1				
+DR000200	KR	2026	Love Hu s	첫사랑니	Love Hu s | Fi s  Love Too h | Fi s  Wisdom Too h | Cheo sa a g i	1	1				
+DR000015	TH	2022	Love i   he Ai	บรรยากาศรัก เดอะซีรีส์		1	1		UN000001	RM000015 (o de  1)	
+DR000696	JP	2024	Love i   he Ai : P emo i io  of Love	Love i  The Ai  - 恋の予感	Love i  The Ai  -P emo i io  of Love-	1	1			RM000015 (o de  2)	
+DR000161	KR	2024	Love i   he Big Ci y	대도시의 사랑법	Love i   he Big Ci y | Daedosiui Sa a gbeop | How  o Love i   he Big Ci y	1	1				
+DR001011	TH	2025	Love i   he Moo ligh	สลักรักในแสงจันทร์	Love i   he Moo ligh | สลักรักในแสงจันทร์	1	1				
+DR001083	KR	2026	Love i  Disguise	나의 유죄인간	My Guil y O e | My Guil y Huma | Why Do '  You K ow She's a Woma ? | Naui Yujoei ga	1	1				
+DR000178	KR	2026	Love i  P o ocol	러브 인 프로토콜	Love i  P o ocol | Lovei  P o ocol | Reobeu i  Peu o okol	1	1				
+DR000127	KR	2022	Love i  Sp i g	춘정지란	Love i  Sp i g | Sp i g of C ush | Chu  Ju g Ji- a	1	1	SR000127			
+DR000912	TH	2023	Love i  T a sla io	รักไม่รู้ภาษา	Love i  T a sla io  The Se ies	1	1				
+DR000331	PH	2021	Love Is		Love Is The Se ies	1	1				
+DR000695	JP	2024	Love Is a Poiso	毒恋～毒もすぎれば恋となる～	Doku Koi	1	1				
+DR000680	JP	2024	Love Is Be e   he Seco d Time A ou d	恋をするなら二度目が上等		1	2	SR000680			
+DR000681	JP	2026	Love Is Be e   he Seco d Time A ou d	恋をするなら二度目が上等		2	2	SR000680			
+DR000157	KR	2024	Love Is Like a Ca	사랑은 고양이처럼	Love Is Like a Ca | Love Like a Ca | Sa a geu  Goya gicheo eom	1	1		UN000004		
+DR000511	CN	2016	Love Is Mo e Tha  a Wo d	识汝不识丁	Shi Ru Bu Shi Di g | Shi Nu Bu Shi Di g | I esis ible Love: Sec e  of  he Vale	1	1				FR000032 (o de  1)
+DR000264	TW	2026	Love Is Real	我說愛你是真的	Wo Shuo Ai Ni Shi Zhe  De	1	1				FR000022 (o de  2)
+DR001036	TH	2026	Love Like a Bike	ปั่นไปให้ถึงรัก		1	1				
+DR000142	KR	2023	Love Ma e	러브메이트	Love Ma e | Reobeu Mei eu	1	1				
+DR000870	TH	2022	Love Mecha ics	กลรักรุ่นพี่	Ko  Rak Ru  Phi | Love Mecha ics: The Se ies | E  of Love: Love Mecha ics	1	1			RM000018 (o de  2)	FR000006 (o de  4)
+DR001063	TH	2026	Love Mus  Be Fixed	รักต้องซ่อม	Rak To g Som	1	1				
+DR000338	PH	2021	Love o  Lie		Love of Lie | Love of Lie BL Se ies	1	1				
+DR001040	TH	2026	Love of Silom	รักแห่งสีลม		1	1				
+DR000209	KR	2026	Love Pe al y	반칙부터 시작할까요?	Love Pe al y | Shall We S a  Wi h a Foul? | Shall We Begi  Wi h a Foul? | Ba chikbu eo Sijak Halkkayo	1	1				
+DR000778	TH	2019	Love Poiso	ข่อยฮักเจ้า เรารักกัน	Khaawy Hak Jao Rao Rak Ga | Love Poiso : The Se ies	1	2	SR000778			
+DR000779	TH	2021	Love Poiso  2	ข่อยฮักเจ้า เรารักกัน 2	Love Poiso  Seaso  2 | Khaawy Hak Jao Rao Rak Ga  2	2	2	SR000778			
+DR000739	JP	2026	Love Pu ch!	純愛上等！	Ju ai Jo o! | Ju ai Jō ō!	1	1				
+DR000186	KR	2025	Love Rese	러브 리셋	Love Rese | Reobeu Rise	1	1		UN000006		FR000016 (o de  2)
+DR000078	TH	2026	Love s & Ga gs e s	หงเสนคลุกฝุ่น		1	1	SR000078			
+DR000851	TH	2022	Love S age!!	เลิฟสเตจ	Love S age | Love S age!! The Se ies	1	1			RM000850 (o de  2)	
+DR001206	CN	2026	Love S o y i   he 1970s	纯真年代的爱情	Chu  Zhe  Nia  Dai De Ai Qi g | 实用主义者的爱情 | Shi Yo g Zhu Yi Zhe De Ai Qi g	1	1				
+DR000698	TH	2024	Love Sea	ต้องรักมหาสมุทร	Love Sea The Se ies | Love Sea: Mus  Love Mahasamu	1	1		UN000001	RM000698 (o de  1)	
+DR000699	JP	2025	Love Sea: The Home fo  Love s	Love Sea ～愛の居場所～	Love Sea: Ai  o Ibasho	1	1			RM000698 (o de  2)	
+DR000741	TH	2015	Love Sick 2	รักวุ่น วัยรุ่นแสบ ฤดูกาลที่ 2	Love Sick: The Se ies 2 | Love Sick The Se ies Seaso  2	2	2	SR000740			FR000042 (o de  2)
+DR000743	TH	2024	Love Sick 2024	ชุลมุนกางเกงน้ำเงิน	Love Sick | Love Sick: The Se ies 2024 | Love Sick 2024	1	1			RM000740 (o de  2)	
+DR000740	TH	2014	Love Sick: The Se ies	รักวุ่น วัยรุ่นแสบ	Love Sick | Love Sick The Se ies | Love Sick: The Chao ic Lives of Blue Sho s Guys	1	2	SR000740		RM000740 (o de  1)	FR000042 (o de  1)
+DR000850	JP	2020	LOVE STAGE!!	LOVE STAGE!!	Love S age!! | Love S age	1	1			RM000850 (o de  1)	
+DR000872	TH	2023	Love Sy d ome III	รักโคตรๆ โหดอย่างมึง 3	Love Sy d ome 3 | Rak Kho  Kho  Ho  Ya g Mue g 3	1	1		UN000025		
+DR000873	TH	2024	Love Sy d ome: The Begi i g	รักโคตรๆโหดอย่างมึง 1	Love Sy d ome: The Begi i g | Rak Kho  Kho  Ho  Ya g Mue g 1 | Love Sy d ome I	1	1		UN000025		
+DR000144	KR	2023	Love T ac o	트랙터는 사랑을 싣고	Love T ac o | A T ac o  Loaded wi h Love | Teu aeg eo eu  Sa a geul Sidgo	1	1				
+DR001038	TH	2026	Love Upo  a Time	ภพเธอ	Love Upo  a Time Se ies | Phop Thoe	1	1				
+DR000837	TH	2021	Love Wi h Be efi s	10 วันให้ฉันรักเธอ	Love Wi h Be efi s The Se ies | Love Wi h Be efi s 10	1	1				
+DR000073	TH	2026	Love You Teache	รักครูเท่าโลกเลย	Rak Kh u Thao Lok Loei	1	1	SR000073			
+DR001064	TH	2026	LOVE×3: The Ma da o y Love Cou se	LOVEx3 หลักสูตร (รัก) ภาคบังคับ	LOVEx3 | Love³ | Love x 3 | Love Yok Kamla g 3 | Love Yok Kamla g 3 Lak Su  (Rak) Phak Ba gkhap	1	1				
+DR000838	TH	2021	Loveless Socie y	เพราะรัก.....ออกแบบไม่ได้	Loveless Socie y The Se ies | Loveless The Se ies	1	1				
+DR000811	TH	2021	Lovely W i e	นับสิบจะจูบ	Lovely W i e  The Se ies | Nubsib Will Kiss | Nubsib ja Jub	1	1				
+DR000913	TH	2023	Low F eque cy	คลื่นความถี่ต่ำ	Low F eque cy The Se ies	1	1				
+DR000996	TH	2025	Loy Kaew Fi s  Love	ลอยแก้ว	Loy Kaew | Loy Kaew Fi s  Love	1	1				
+DR000337	PH	2021	Lus  Neve  Las s			1	1				
+DR000457	VN	2021	M  Ci de ella		Chà g Lọ Lem | M . Ci de ella	1	2	SR000457			
+DR000458	VN	2023	M  Ci de ella 2		Chà g Lọ Lem 2 | M . Ci de ella 2	2	2	SR000457			
+DR001067	TH	2026	M . Fa boy	รักสุดใจนายแฟนบอย	Rak Su  Jai Nai Fa boy | M . Fa boy Se ies	1	1				
+DR000104	KR	2020	M . Hea	M . 하트	M . Hea | M .하트	1	1	SR000104			
+DR001054	TH	2026	M . Kill	มังงะสั่งตาย	M  Kill | M .Kill Ma g ga Sa g Tai		1				
+DR000689	JP	2024	M . Mi suya's Pla ed Feedi g	三ツ矢先生の計画的な餌付け。		1	1				
+DR000673	JP	2023	M . Saha a & Toki-ku	佐原先生と土岐くん	Saha a-se sei  o Toki-ku | Saha a-se sei a d Toki-ku	1	1				
+DR000648	JP	2022	M . U lucky Has No Choice Bu   o Kiss!	不幸くんはキスするしかない！	Fukou-ku  wa Kiss Su u Shika ai!	1	1				
+DR000385	PH	2024	Ma ahuyo P ojec			1	1				
+DR001059	TH	2026	Ma ch Poi	รักนี้ต้องเสิร์ฟ	Rak Nee To g Se ve		1				
+DR000796	TH	2020	Ma e  of Dea h	พฤติการณ์ที่ตาย	Ma e  of Dea h: The Se ies	1	1				
+DR001177	CN	2026	Ma yi g a Sof -Hea ed God	嫁给心软的神	Jia Gei Xi  Rua  De She	1	1				
+DR001039	TH	2026	Magic Move	เขมจิราต้องรอด		1	1				
+DR000370	PH	2022	Make a Wish		Make a Wish  he Se ies | Make a Wish: The Se ies	1	1				
+DR000914	TH	2023	Make a Wish	ภารกิจนายเทวดา	Make a Wish The Se ies	1	1				
+DR000746	TH	2019	Make I  Live: O  The Beach	Make I  Live: O  The Beach	Make I  Live o   he Beach | Make I  Righ  Seaso  3	3	3	SR000744			
+DR000744	TH	2016	Make I  Righ	รักออกเดิน	Make I  Righ : The Se ies | Make I  Righ  The Se ies | Rak Ok Doe	1	3	SR000744		RM000744 (o de  1)	
+DR000745	TH	2017	Make I  Righ  2	รักออกเดิน	Make I  Righ  2: The Se ies | Make I  Righ  Seaso  2 | Rak Ok Doe  2	2	3	SR000744			
+DR000747	TH	2026	Make I  Righ  2026	รักออกเดิน 2026	Make I  Righ : The Se ies 2026 | Rak Ok Doe  2026 | Rak Auk De  2026	1	1			RM000744 (o de  2)	
+DR001082	KR	2026	Make Me T emble	내가 떨릴 수 있게	Make Me Ti gle | Naega T eollil Su I ge	1	1				
+DR001010	TH	2025	MANDATE The Se ies	คมเดือน	Ma da e | MANDATE The Se ies | คมเดือน	1	1				
+DR001138	JP	2026	Masked Teache : F om  he Day He Los  His Wife	仮面教師～妻を亡くしたその日から	Kame  Kyōshi: Tsuma o Nakushi a So o Hi Ka a | Kame  Kyōshi						
+DR000433	VN	2022	Mế  Gái Miề  Tây		Mế  Gái Miề  Tây: Ghe Bẹo Ghẹo Ai	1	1				FR000029 (o de  2)
+DR001024	TH	2025	Me a d Thee	มีสติหน่อยคุณธีร์		1	1				FR000050 (o de  1)
+DR000227	TW	2018	Me maid Sau a	美男魚澡堂	Me maid Sau a: No Ge de  fo  Souls	1	1				FR000020 (o de  3)
+DR001077	JP | KR	2026	Me y Be y Love			1	1				
+DR000674	JP	2023	Me, My Husba d & My Husba d's Boyf ie d	私と夫と夫の彼氏	Wa ashi  o O o  o O o  o Ka eshi	1	1				
+DR000343	PH	2021	Mee  My A gel		Mee  My A gel The Se ies | Mee  My A gel Seaso  1	1	2	SR000343			
+DR000344	PH	2022	Mee  My A gel 2		Mee  My A gel Seaso  2 | Mee  My A gel 2 The Se ies	2	2	SR000343			
+DR000537	CN | TW | TH	2024	Mee  You a   he Blossom	花开有时颓靡无声	Hua Kai You Shi Tui Mi Wu She g | 花開有時頹靡無聲 | Befo e  he Flowe s Bloom | ก่อนดอกไม้...บาน	1	1		UN000018		
+DR000077	TH	2025	Melody of Sec e s	ความลับในบทเพลงที่บรรเลงไม่รู้จบ	Khwam Lap Nai Bo  Phle g Thi Ba le g Mai Ru Chop	1	1	SR000077			
+DR000462	VN	2022	Memo y		A h, Mì h Bì h Yê  Nhé! | Mì h Bì h Yê  Nhé	1	1				
+DR000976	TH	2024	Memo y i   he Le e	ทรงจำในอักษร	Memo y i   he Le e | Memo ies i  Le e s	1	1				
+DR000092	TH	2025	Memoi  of Ra i	จาฤกรติชา	Memoi  Of Ra i | Ja ak Ra i Cha	1	1	SR000092			
+DR000857	TH	2022	Meow Ea s Up	น้องเหมียวในห้องผม	No g Meow i  My Room | No g Meow Nai Ho g Phom	1	1				
+DR000643	JP	2022	Mi a o's Lau d oma	みなと商事コインランドリー	Mi a o Shouji Coi  Lau d y | Mi a o Shōji Coi  Lau d y	1	2	SR000643			
+DR000644	JP	2023	Mi a o's Lau d oma  2	みなと商事コインランドリー2	Mi a o Shouji Coi  Lau d y 2 | Mi a o Shōji Coi  Lau d y 2	2	2	SR000643			
+DR001022	TH	2025	Missio   o  he Moo	ภารกิจพิชิตจันทรา	ภารกิจพิชิตจันทรา | Missio  To The Moo	1	1				
+DR000656	JP	2022	Mo e Tha  Wo ds	モアザンワーズ		1	1				
+DR000963	TH	2024	Mo s e  Nex  Doo	พี่เขาบุกโลกของผม	Mo s e  Nex  Doo | Godzilla Nex  Doo | Phi Khao Buk Lok Kho g Phom	1	1				
+DR000546	CN	2025	Moo  a d Dus	坏狗	Huai Gou | Bad Dog	1	1				
+DR000060	TH	2023	Moo ligh  Chicke	พระจันทร์มันไก่	Mid igh  Se ies: Moo ligh  Chicke	1	1	SR000060			
+DR000978	TH	2025	MU-TE-LUV: "Hi" by My Luck	หมอดูทักครับ	"Hi" by My Luck | MuTeLuv: "Hi" by My Luck | Hi by My Luck	1	1		UN000027		
+DR000980	TH	2025	MU-TE-LUV: Diva Deva Ma a	เจ้าแม่ตัวแม่	Diva Deva Ma a | MuTeLuv: Diva Deva Ma a | Jao Mae Tua Mae	1	1		UN000027		
+DR000981	TH	2025	MU-TE-LUV: Fis  Foo  Fusio	แม่ไม้มวยรำ	Fis  Foo  Fusio | MuTeLuv: Fis  Foo  Fusio	1	1		UN000027		
+DR000982	TH	2025	MU-TE-LUV: Hello, Is This Luck?	เบอร์ว่ารักแถบ	Hello, Is This Luck? | MuTeLuv: Hello, Is This Luck? | Hello Is This Luck?	1	1		UN000027		
+DR000983	TH	2026	MU-TE-LUV: Love Lock	เลิฟ ล็อก	Love Lock | MuTeLuv: Love Lock	1	1		UN000027		
+DR000984	TH	2026	MU-TE-LUV: Love Me if You Swea	9 วัด ปะล่ะ	Love Me if You Swea | MuTeLuv: Love Me if You Swea	1	1		UN000027		
+DR000979	TH	2025	MU-TE-LUV: No  My Fa he	พระบิดาแกสิ	No  My Fa he | MuTeLuv: No  My Fa he | No  My Fa he !	1	1		UN000027		
+DR000407	VN	2017	My B o he		Bí Mậ  Của Adam 2 | Adam's Sec e  2: My B o he	1	1		UN000011		
+DR000748	TH	2014	My B oma ce	พี่ชาย	Phi Chai	1	1				FR000043 (o de  1)
+DR000751	TH	2020	My B oma ce 2: 5 Yea s La e	พี่ชาย My B oma ce 2 : 5 Yea s La e	My B oma ce 2: 5 Yea s La e  The Se ies	1	1				FR000043 (o de  3)
+DR000749	TH	2015	My B oma ce: Reu io	พี่ชาย	My B oma ce Special Episode: Reu io	1	1				FR000043 (o de  2)
+DR000750	TH	2016	My B oma ce: The Se ies	พี่ชาย เดอะซีรีส์	Phi Chai The Se ies	1	1				
+DR000640	JP	2021	My Beau iful Ma	美しい彼	U sukushii Ka e | My Beau iful Ma	1	2	SR000640			FR000040 (o de  1)
+DR000641	JP	2023	My Beau iful Ma  Seaso  2	美しい彼 シーズン2	U sukushii Ka e Seaso  2 | My Beau iful Ma  2 | My Beau iful Ma  Seaso  2	2	2	SR000640			FR000040 (o de  2)
+DR000642	JP	2023	My Beau iful Ma : E e al	劇場版 美しい彼〜e e al〜	My Beau iful Ma : E e al | Gekijoba  U sukushii Ka e: E e al | My Beau iful Ma  The Movie	1	1				FR000040 (o de  3)
+DR000424	VN	2019	My Bes  Boyf ie d			1	1				
+DR000171	KR	2025	My Bias Is Showi g?!	최애가 나타났다!	My Bias Is Showi g?! | My Bias Appea ed?! | Choeaega Na a a da	1	1				
+DR000826	TH	2021	My Boy	วุ่นนักรักซะเลย	My Boy The Se ies | Wu  Nak Rak Sa Loei	1	1				
+DR000495	HK	2023	My Colleague a  BL Shop Migh  Be The Mea -To-Be	BL店同事大概是我的命定之人	My Colleague a  BL Shop | BL店同事大概是我的命定之人	1	1				
+DR000769	TH	2018	My D eam	นายในฝัน The Se ies	My D eam The Se ies	1	1				
+DR000278	PH	2020	My Day: The Se ies	My Day The Se ies	My Day | My Day Seaso  1	1	3	SR000278			
+DR000915	TH	2023	My Dea  Ga gs e  Oppa	พี่นักเลงที่รัก	Phi Nakle g Thi Rak	1	1				
+DR000763	TH	2017	My Dea  Lose : Edge of 17	My Dea  Lose  รักไม่เอาถ่าน ตอน Edge of 17	Edge of 17 | My Dea  Lose : Edge of 17	1	3	SR000763			
+DR000765	TH	2017	My Dea  Lose : Happy Eve  Af e	My Dea  Lose  รักไม่เอาถ่าน ตอน Happy Eve  Af e	Happy Eve  Af e | My Dea  Lose : Happy Eve  Af e	3	3	SR000763			
+DR000764	TH	2017	My Dea  Lose : Mo s e  Roma ce	My Dea  Lose  รักไม่เอาถ่าน ตอน Mo s e  Roma ce	Mo s e  Roma ce | My Dea  Lose : Mo s e  Roma ce	2	3	SR000763			
+DR000541	CN	2025	My E emy Has a C ush o  Me	我的死对头暗恋我	Wo De Si Dui Tou A  Lia  Wo	1	1				
+DR000797	TH	2020	My E gi ee	มีช็อป มีเกียร์ มีเมียรึยังวะ	My E gi ee : The Se ies | My E gi ee  Has a Shop, Has a Gea , Has a Wife Ye ?	1	1				
+DR000288	PH	2020	My Ex ao di a y		My Ex a O di a y	1	1				
+DR000363	PH	2022	My F eaky Love S o y			1	1				
+DR001046	TH	2026	My G a dpa Is a BL W i e	คุณปู่เป็นนักเขียน BL		1	1				
+DR000798	TH	2020	My Gea  a d You  Gow	เกียร์สีขาวกับกาวน์สีฝุ่น	My Gea  a d You  Gow : The Se ies	1	1				
+DR000993	TH	2025	My Golde  Blood	เลือดนายลมหายใจฉัน	My Golde  Blood | Luea  Nai Lom Haijai Cha | Luea  Nai Lom Haichai Cha	1	1				
+DR000469	VN	2023	My Goofy Deskma e		Thằ g Ngốc Bà  Bê	1	1				
+DR000456	VN	2021	My Lascivious Boss		Ô g Chủ, Đừ g Đế  Đây! | Ô g chủ, đừ g đế  đây!	1	1				
+DR000483	VN	2025	My Li le Ghos		Chà g Kẹ | My Li le Ghos   he Se ies	1	1				
+DR000437	VN	2020	My Li le Sis e			1	1				
+DR001170	CN	2026	My Loo g	予苍龙	Yu Ca g Lo g	1	1				
+DR000061	TH	2024	My Love Mix-Up!	เขียนรักด้วยยางลบ	Khia  Rak Duai Ya glop | Kie a Ha sukoi	1	1	SR000061		RM000061 (o de  2)	
+DR000639	JP	2021	My Love Mix-Up!	消えた初恋	Kie a Ha sukoi | My Love Mix-Up!	1	1			RM000061 (o de  1)	
+DR000827	TH	2021	My Ma e Ma ch	โหวตให้หน่อยผมไม่ค่อยกล้าเลือก	Help Me Choose Roomma e | My Ma e Ma ch The Se ies	1	1				
+DR000054	TH	2025	My Magic P ophecy	ทำนายทายทัพ	Tham Nai Thai Thap	1	1	SR000054			
+DR000445	VN	2017	My Mo s e  I  Law		Mẹ Chồ g Chà g Dâu	1	2	SR000445			FR000030 (o de  2)
+DR000446	VN	2021	My Mo s e  I  Law		Mẹ Chồ g Chà g Dâu | My Mo s e  I  Law Seaso  2	2	2	SR000445			FR000030 (o de  3)
+DR000877	TH	2022	My O ly 12%	ลุ้นรัก 12%	Lu  Rak 12%	1	1				
+DR000669	JP	2023	My Pe so al Wea he ma	体感予報	Taika  Yohou	1	1				
+DR000382	PH	2023	My Pla i o			1	1				
+DR000845	TH	2022	My Ride	รักนาย	My Ride The Se ies | My Ride, I Love You | Rak Nai	1	1				
+DR001164	CN	2026	My Rival & Me	对家和我		1	1				
+DR001225	CN	2026	My Rival i  Love Is Me	我的情敌竟是我	Wo De Qi g Di Ji g Shi Wo | 我的情敵竟是我	1	1				
+DR000069	TH	2026	My Roma ce Scamme	รักจริง หลังแต่ง	Rak Chi g La g Tae g | Real Love Af e  Ma iage	1	1	SR000069			
+DR000874	TH	2022	My Roomma e	My Roomma e	My Roomma e The Se ies	1	1				
+DR000952	TH	2024	My S a d-I	ตัวนาย ตัวแทน	My S a d-I | My S a d I | Tua Nai Tua Thae | P ofessio al Body Double | 职业替身	1	1				
+DR000679	JP	2024	My S awbe y Film	マイストロベリーフィルム		1	1				
+DR000279	PH	2023	My S o y: The Se ies	My S o y The Se ies	My Day Seaso  2 | My S o y Seaso  2	2	3	SR000278			
+DR001021	TH	2025	My S ubbo	ไหนเฮียบอกไม่ชอบเด็ก	Nai Hia Bok Mai Chop Dek | ไหนเฮียบอกไม่ชอบเด็ก	1	1				
+DR000059	TH	2022	My School P eside	แฟนผมเป็นประธานนักเรียน	My Boyf ie d is  he School P eside | My Boyf ie d is  he S ude  Body P eside	1	1	SR000059			
+DR001016	TH	2025	My Sec e  of See	การโต้กลับของซินแส	The Cou e a ack of  he See | The See ’s Cou e a ack | Cou e a ack of  he Fo u e Telle | My Sec e  of See  The Se ies	1	1				
+DR000172	KR	2025	My Sec e  Vampi e	거짓말, 뱀파이어가 어디 있어?	My Sec e  Vampi e | No Way, Vampi es Do ’  Exis ! | Geoji mal, Baempaieoga Eodi Isseo?	1	1				
+DR000408	VN	2017	My Sky		Bầu T ời Của Khá h	1	1				
+DR000734	JP	2026	My Summe  of You	君は夏のなか	Kimi wa Na su  o Naka	1	1				
+DR000477	VN	2025	My Swee  B o he  i  Law		Vụ g T ộm Với A h Rể	1	1				
+DR000114	KR	2021	My Swee  Dea	마이 스윗 디어	My Swee  Dea | Mai Seuwi  Dieo	1	1	SR000114			
+DR001003	TH	2025	My Swee hea  Jom	หวานใจผู้ใหญ่จอม	Wa jai Phuyai Jom	1	1				
+DR000933	TH	2022	My Tempo	น้องพี่ ดนตรี+เพื่อน	My Tempo: The Movie	1	1			DR000933 (o de  1)	
+DR000934	TH	2023	My Tempo	น้อง พี่ ดนตรี+เพื่อน The Se ies	My Tempo The Se ies | My Tempo Se ies	1	1			DR000933 (o de  2)	
+DR000241	TW	2022	My Too h You  Love	我的牙想你	My Tee h Misses You	1	1				
+DR000339	PH	2021	My Toxic Love		My Toxic Love  The Se ies	1	2	SR000339			
+DR000893	TH	2023	My U ive se	มาย U ive se รักเราเท่าจักรวาล	My U ive se The Se ies	1	1				
+DR000534	CN	2023	Mys e ious Lo us Casebook	莲花楼	Lia  Hua Lou | Lo us Towe | The Lo us Casebook	1	1				
+DR000364	PH	2022	Mys e y of Love		Mys e y of Love: The Se ies	1	1				
+DR001017	TH	2025	Mys ique i   he Mi o	ใครในกระจก	Someo e i   he Mi o | Kh ai Nai K ajok	1	1				
+DR000440	VN	2020	Na io 's B o he		A h T ai Quốc Dâ	1	1				
+DR000667	JP	2023	Naked Di i g	全ラ飯	Ze a Meshi | Naked Di i g ~Love, Life a d Libe a io ~	1	1				
+DR001130	JP	2026	Naked People	はだかんぼうたち	Hadakabō achi						
+DR000042	TH	2023	Naugh y Babe	ดื้อเฮียก็หาว่าซน		1	1	SR000042			FR000011 (o de  3)
+DR000566	CN	2025	Nea ly-Royal High ess / Ni e Thousa d Yea s Old	九千岁	Ni e Thousa d Yea s Old | Jiu Qia  Sui | 九千岁-古风日常	1	1				
+DR000406	VN	2017	Neighbo  Guy		Phò g Kế Bê | Phò g Kế Bê . Adam Ngoại T uyệ  – PHÒNG KẾ BÊN	1	1		UN000011		
+DR000558	CN	2025	Neve  Da e a Cap ico	别碰摩羯啊	Bie Pe g Mo Jie A	1	1				
+DR000189	KR	2026	Neve  Fo ge  You  E emy	네 원수를 잊지 마라	Neve  Fo ge  You  E emy | Ne Wo su eul I ji Ma a | ยังไง..ก็ใช่นาย | Ya g Ngai.. Ko Chai Nai	1	1				
+DR000071	TH	2022	Neve  Le  Me Go	เพื่อนายแค่หนึ่งเดียว	Phuea Nai Khae Nue g Diao	1	1	SR000071			
+DR001061	TH	2026	New Boyf ie d	แฟนใหม่ใกล้ฉัน	Fae  Mai Klai Cha | Fa  Mai Klai Cha	1	1				
+DR000428	VN	2019	Nhà T ọ Có Quá T ời Phò g			1	3	SR000428			
+DR000431	VN	2020	Nhà T ọ Có Quá T ời Phò g Phầ  2		Nhà T ọ Có Quá T ời Phò g 2	2	3	SR000428			
+DR000432	VN	2023	Nhà T ọ Có Quá T ời Phò g Phầ  3		Nhà T ọ Có Quá T ời Phò g 3	3	3	SR000428			
+DR001109	KR	2026	Ni e  o Six	나인 투 식스		1	1			RM001108 (o de  2)	
+DR000825	TH	2021	Ni ima	นิติแมนแฟนวิศวะ	Ni ima  The Se ies | Ni ima  Fa  E gi ee i g | Ni iMa | Ni iMa : Socie y a d Love	1	1				
+DR000922	TH	2023	Nigh  D eam	คืนฝันของฉันและเธอ	Nigh  D eam: คืนฝันของฉันและเธอ | Khue  Fa  Kho g Cha  Lae Thoe	1	1				
+DR000098	TH	2021	No  Me	เขา...ไม่ใช่ผม	Khao... Mai Chai Phom | He... Is No  Me	1	1	SR000098			
+DR000609	CN | TH	2026	No  You s	非你之物	No  You s The Se ies | No  You s เมื่อผมไม่ใช่ | เมื่อผมไม่ใช่ | Fei Ni Zhi Wu	1	1				
+DR000110	KR	2021	Noblema  Ryu's Weddi g	류선비의 혼례식	Noblema  Ryu's Weddi g | Ryu Seo biui Ho yesik	1	1	SR000110			
+DR001065	TH	2026	Nou	นูร์	Nou  The Se ies | NOUR	1	1				
+DR000866	TH	2022	O  Cloud Ni e	O  Cloud Ni e		1	1				
+DR000129	KR	2022	O ce Agai	다시 나를 찾아와	O ce Agai | Dasi Na eul Chajawa	1	1	SR000129			
+DR000731	JP	2026	O di a y Love	普通の恋愛		1	1				
+DR000335	PH	2021	O e Day Pag-ibig		O e Day Love | O e Day Pag-ibig The Se ies | O e Day Love The Se ies	1	1				
+DR001098	KR	2026	O e of a Ki d Roma ce	유일무이 로맨스	Yuilmui Romae seu | O e-of-a-Ki d Roma ce	1	1				
+DR000672	JP	2023	O e Room A gel	ワンルームエンジェル	O e Room A gel	1	1				
+DR001042	TH	2026	O e Yea	เลือนรางและจางหาย		1	1				
+DR000063	TH	2024	O ly Boo!	แค่ที่แกง	Khae Thi Kae g | Kae Tee Kae g	1	1	SR000063			
+DR000916	TH	2023	O ly F ie ds	เพื่อนต้องห้าม	O ly F ie ds The Se ies | O ly F ie ds: The Se ies | Phuea  To g Ham | Fo bidde  F ie ds	1	1				FR000045 (o de  1)
+DR000917	TH	2026	O ly F ie ds: D eam O	โอนลีเฟรนด์ : ดรีมออน	O ly F ie ds D eam O | O ly F ie ds: D eam O  The Se ies	1	1				FR000045 (o de  2)
+DR000126	KR	2022	Ocea  Likes Me	나와 같은 바다	Ocea  Likes Me | Nawa Ga eu  Bada	1	1	SR000126			
+DR000466	VN	2023	Oh My God		Tổ Độ	1	1				
+DR000286	PH	2020	Oh My Sexual		Oh My Sexual: O li e Se ies  g mga Bae	1	1				
+DR000295	PH	2020	Oh, Ma do!			1	1				
+DR000121	KR	2022	Oh! Boa di g House	하숙집 오!번지	Oh! Boa di g House | Boa di g House No. 5 | Hasukjip O!beo ji	1	1	SR000121			
+DR000133	KR	2022	Oh! My Assis a	오! 나의 어시님	Oh! My Assis a | Oh! Naui Eosi eum	1	1	SR000133			
+DR000876	TH	2022	Oh! My Su shi e Nigh	เลิฟ@นาย	Love a  9 | Oh My Su shi e Nigh	1	1				
+DR001113	JP	2019	Oishii Kyūshoku	おいしい給食		1	4	SR001113			FR000051 (o de  1)
+DR001115	JP	2021	Oishii Kyūshoku Seaso  2	おいしい給食 seaso 2		2	4	SR001113			FR000051 (o de  3)
+DR001117	JP	2023	Oishii Kyūshoku Seaso  3	おいしい給食 seaso 3		3	4	SR001113			FR000051 (o de  5)
+DR001120	JP	2026	Oishii Kyūshoku Seaso  4	おいしい給食 seaso 4		4	4	SR001113			FR000051 (o de  8)
+DR001119	JP	2025	Oishii Kyūshoku: Ho ō  o Shūgaku yokō	おいしい給食 炎の修学旅行							FR000051 (o de  7)
+DR000650	JP	2022	Old Fashio  Cupcake	オールドファッションカップケーキ		1	1				
+DR000977	TH	2024	OMG! Vampi e	แวมไพร์ไวน์แดง	OMG! Vampi e | OMG Vampi e | Vampi e Wi e	1	1				
+DR000177	KR	2026	Opposi es A ac	반대에 끌리는 이유	Opposi es A ac | The Reaso  Opposi es A ac | Ba daee Kkeuli eu  Iyu	1	1				
+DR000501	HK	2021	Ossa 's Love	大叔的愛	Ossa 's Love HK | Ossa ’s Love (Ho g Ko g) | U cle’s Love	1	1			RM000087 (o de  2)	
+DR000610	JP	2016	Ossa 's Love	おっさんずラブ	Ossa 's Love (2016) | Ossa 's Love Special | Ossa 's Love - Special	1	1				FR000034 (o de  1)
+DR000611	JP	2018	Ossa 's Love	おっさんずラブ	Ossa 's Love Seaso  1 | Ossa 's Love (2018)	1	3	SR000611		RM000087 (o de  1)	FR000034 (o de  2)
+DR000612	JP	2019	Ossa 's Love -i   he sky-	おっさんずラブ-i   he sky-	Ossa 's Love i   he Sky | Ossa 's Love Seaso  2	2	3	SR000611			FR000034 (o de  4)
+DR000613	JP	2024	Ossa 's Love -Re u s-	おっさんずラブ-リターンズ-	Ossa 's Love Re u s | Ossa 's Love Seaso  3	3	3	SR000611			FR000034 (o de  5)
+DR000087	TH	2025	Ossa 's Love Thaila d	รักนี้ให้ “นาย”	Rak Ni Hai Nai	1	1	SR000087		RM000087 (o de  3)	
+DR000621	JP	2019	Ossa 's Love The Movie: Love o  Dead	劇場版おっさんずラブ ～LOVE o  DEAD～	Ossa 's Love: Love o  Dead | Gekijoba  Ossa 's Love: Love o  Dead	1	1				FR000034 (o de  3)
+DR000139	KR	2023	Ou  Da i g Sim	우리 연애 시뮬레이션	Ou  Da i g Simula io | Ou  Da i g Sim	1	1				
+DR001205	CN	2026	Ou  Dazzli g Days	岁月有情时	Sui Yue You Qi g Shi	1	1				
+DR000666	JP	2023	Ou  Di i g Table	僕らの食卓	Boku a  o Shoku aku	1	1				
+DR000494	HK	2024	Ou  Golde  Times	如果我願意	Ou  Golde  Times | 如果我願意	1	1				
+DR000568	CN	2025	Ou  of Co ol S a ligh	失控星光	Shi Ko g Xi g Gua g | Ou  of Co ol S a ligh	1	1			RM000568 (o de  1)	
+DR000280	PH	2023	Ou  S o y: The Se ies	Ou  S o y The Se ies	My Day Seaso  3 | Ou  S o y Seaso  3	3	3	SR000278			
+DR000774	TH	2018	Ou  Skyy	Ou  Skyy		1	1				
+DR000773	TH	2023	Ou  Skyy 2	Ou  Skyy 2	Ou  Skyy Seaso  2	1	1				
+DR000697	JP	2024	Ou  You h	未成年～未熟な俺たちは不器用に進行中～	Misei e | Mi o	1	1				
+DR000799	TH	2020	Oxyge	ออกซิเจน เดอะซีรีส์ - ดั่งลมหายใจ	Oxyge  The Se ies | Oxyge : The Se ies | Oxyge  The Se ies - Da g Lohm Haai Jai	1	1				
+DR001180	CN	2026	P edes i ed Love	其实不是初恋	Qi Shi Bu Shi Chu Lia	1	1				
+DR001174	CN	2026	P edic  You i  3s	三秒预见你	Sa  Miao Yu Jia  Ni	1	1				
+DR000590	CN	2026	P iva e Galaxy	星晨未来	Galaxy i  You  Ea | Xi g Che  Wei Lai | Xi g Che  Xua  Lv | 星晨旋律	1	1				
+DR000192	KR	2026	P iva e Lesso	프라이빗 레슨	P iva e Lesso | Peu aibae  Reseu	1	1				FR000017 (o de  2)
+DR000309	PH	2021	Paa o Kaya Ku g Tayo?		Wha  If I 's Us? | Paa o Kaya Ku g Tayo The Se ies	1	1				
+DR000308	PH	2021	Padayo		Padayo  The Se ies | Co i ue The Se ies	1	1				
+DR000815	TH	2021	Pai  wi h Love	ใส่รักป้ายสี	Pai  Wi h Love | Pai  wi h Love The Se ies | Sai Rak Phai Si | Sai Rak Phai Si The Se ies	1	1				
+DR000235	TW	2021	Papa & Daddy	酷蓋爸爸	Papa a d Daddy	1	2	SR000235			
+DR000239	TW	2022	Papa & Daddy	酷蓋爸爸	Papa & Daddy 2	2	2	SR000235			
+DR000361	PH	2022	Papa, Wha  Is Love?		Papa, Wha  is Love?	1	2	SR000361			
+DR000362	PH	2023	Papa, Wha  Is Love? Seaso  2		Papa Wha  Is Love 2 | Papa, Wha  is Love? Seaso  2	2	2	SR000361			
+DR000923	TH	2023	Pas -Se ge	เพื่อนพ่อ เดอะซีรีส์	Pas  Se ge | Pas -Se ge  The Se ies | Phuea  Pho The Se ies	1	1				
+DR001204	CN	2026	Paw shop	典当行	Dia  Da g Xi g	1	1				
+DR000328	PH	2021	Pay-Ibig			1	1				
+DR001047	TH	2026	PayBack The Se ies	페이백	Payback	1	1				
+DR000068	TH	2024	Pe fec  10 Li e s	สายรหัสเทวดา	Sai Rหัสเทวดา | Pe fec  10 Li e s	1	1	SR000068			
+DR000676	JP	2024	Pe fec  P opose	パーフェクトプロポーズ		1	1				
+DR000964	TH	2024	Peaceful P ope y	บ้านหลอน O  Sale	Peaceful P ope y | Peaceful P ope y O  Sale | Ba  Lo  O  Sale | Hau ed House O  Sale	1	1				
+DR001055	TH	2026	Peach a d Me	มีสติแล้วลูกพีช	Mi Sa i Laeo Luk Peach | Me a d Thee 2 | Me a d Thee Special Sequel		1				FR000050 (o de  2)
+DR001028	TH	2026	Peach Love	ลูกพีชทานสด	Peach Love  The Se ies	1	1				
+DR000112	KR	2021	Peach of Time	피치 오브 타임	Peach of Time | Peach of Time: Siga ui Bogeu	1	1	SR000112			
+DR000174	KR	2025	Peach T ap	복숭아 꽃이 피었습니다	Peach T ap | Peach Blossoms Bloomed | Boksu ga Kko i Pieo seum ida	1	1				
+DR000474	VN	2024	People Come La e		T ôi Dạ  Giữa Dò g Đời	1	1				
+DR000846	TH	2022	Physical The apy	ผมปวดกาย นายปวดใจ	Phom Puuad Kaai Naai Puuad Jai | Physical The apy The Se ies	1	1				
+DR000924	TH	2023	Pi  Babe	พิษเบ๊บ	Pi  Babe The Se ies | Pi  Babe  he Se ies	1	2	SR000924			
+DR000925	TH	2025	Pi  Babe 2	พิษเบ๊บ 2	Pi  Babe Seaso  2 | PIT BABE The Se ies 2 | พิษเบ๊บ เดอะ ซีรีส์ 2	2	2	SR000924			
+DR001185	CN	2026	Pi k P i ce	粉红王爷	Fe  Ho g Wa g Ye	1	1				
+DR000564	CN	2024	Pi k Summe	这个夏天结束前	Befo e  he E d of  he Summe | Zhe Ge Xia Tia  Jie Shu Qia | Pi k Summe  S1 | 这个夏天结束前 第一季	1	2	SR000564			
+DR000322	PH	2021	Pisces		Pisces The Se ies	1	1				
+DR000058	TH	2026	Pla  B  o U	จากศัตรูสู่ที่รัก	Jak Sa u Su Tee ak	1	1	SR000058			
+DR000201	KR	2026	Play Me	플레이 미	Play Me	1	1				
+DR000926	TH	2023	Playboyy	เล่นจนเป็นเรื่อง	Playboyy The Se ies | PLAYBOYY THE SERIES	1	2	SR000926			
+DR000927	TH		Playboyy Seaso  2		Playboyy T2 | Playboyy 2 | Playboyy The Se ies Seaso  2	2	2	SR000926			
+DR000559	CN	2025	Plu oCha o	星轨	Xi g Gui | Plu o Cha o	1	1				
+DR000240	TW	2022	Plus & Mi us	正負之間		1	1				
+DR000614	JP	2018	Po og aphe	ポルノグラファー	The Novelis | Po og aphe : The Novelis	1	1				FR000035 (o de  1)
+DR000618	JP	2021	Po og aphe : Co i ued Sp i g Life	ポルノグラファー～続・春的生活～	Co i ued Sp i g Life | Po og aphe : Zoku Ha u- eki Seika su	1	1				FR000035 (o de  5)
+DR000615	JP	2019	Po og aphe : Mood I digo	ポルノグラファー～インディゴの気分～	Mood I digo | Po og aphe : I digo Mood	1	1				FR000035 (o de  2)
+DR000617	JP	2021	Po og aphe : Playback	劇場版ポルノグラファー～プレイバック～	Po og aphe : Playback | Thea ical Edi io  Po og aphe : Playback	1	1				FR000035 (o de  4)
+DR000616	JP	2021	Po og aphe : Sp i g Life	ポルノグラファー～春的生活～	Sp i g Life | Po og aphe : Ha u- eki Seika su	1	1				FR000035 (o de  3)
+DR001136	JP	2026	Poli ical Lupi	ポリティカルパン	Poli ical Pa | Poli icaLupi						
+DR000033	TH	2026	Police i  Love	ที่รักสารวัตรเธียร์	I spec o  Thia ’s Da li g | The I spec o ’s Wife	1	1				
+DR000675	JP	2023	Polye hyle e Te eph hala e	ポリエチレンテレフタレート		1	1				
+DR000356	PH	2022	PRE-BO: The Begi i g		PRE-BO | PRE-BO The Begi i g	1	1		UN000010		
+DR000349	PH	2021	PRESO		PRESO | Cap ive Love | PRESO: Cap ive Love	1	4	SR000349	UN000010		FR000026 (o de  1)
+DR000353	PH	2024	PRESO E d		PRESO Fi ale | PRESO: E d	1	1		UN000010		FR000026 (o de  5)
+DR000351	PH	2023	PRESO Seaso  3		PRESO 3 | PRE*SO Seaso  3	3	4	SR000349	UN000010		FR000026 (o de  3)
+DR000352	PH	2024	PRESO Seaso  4		PRESO 4 | PRESO Seaso  4	4	4	SR000349	UN000010		FR000026 (o de  4)
+DR000350	PH	2021	PRESO2		PRESO Seaso  2 | PRESO 2	2	4	SR000349	UN000010		FR000026 (o de  2)
+DR000705	JP	2025	Pu ks T ia gle	PUNKS△TRIANGLE	Pu ks T ia gle	1	1				
+DR001212	CN	2026	Pu sui  of Jade	逐玉	Zhu Yu	1	1				
+DR000804	TH	2020	Puppy Love	วัยพันธุ์แสบ	Puppy Love The Se ies	1	1				
+DR001202	CN	2021	Qi g Sha  Zhe Bu Zhu	青山遮不住	Lush Mou ai s | Qi g Sha  Zhe Bu Zhu	1	1				
+DR001194	CN	2026	Qia  Fu Ri Ri Qiu Fu He	前夫日日求复合	Qia  Fu Ta You Zhe g You Qia g | 前夫他又争又抢	1	1				
+DR000275	PH	2021	Qua a hi gs 2	Qua a hi gs	Qua a hi gs Seaso  2 | Qua a hi gs: The Se ies 2	2	2	SR000274			
+DR000274	PH	2020	Qua a hi gs: The Se ies	Qua a hi gs	Qua a hi gs Seaso  1	1	2	SR000274			
+DR001168	CN	2026	Qui e  he Gi l	好一个乖乖女	Hao Yi Ge Guai Guai Nü	1	1				
+DR000861	TH	2022	Rai bow Lagoo	ห้วยตึงเฒ่า		1	1				
+DR000359	PH	2022	Rai bow P i ce		Rai bow P i ce The Se ies	1	1				
+DR000852	TH	2022	Rak Diao	รักเดียว	O e Love | The O e a d O ly	1	1				
+DR000572	CN	2025	Re u ed Mas e	将军家的小儿子	The Ge e al’s You ges  So | The Ge e al’s So | Jia g Ju  Jia De Xiao E  Zi	1	1				
+DR001009	TH	2025	Rea a ge	ขอฟังอีกครั้งเพลงรักของเธอ	Rea a ge | ขอฟังอีกครั้ง เพลงรักของเธอ	1	1				
+DR000569	CN	2025	Reach fo   he S a s	摘星	Zhai Xi g | Reach fo   he S a s	1	1			RM000568 (o de  2)	
+DR000577	CN	2025	Realm's Nigh  Rai  D eamlike	江湖夜雨终似梦	Jia g Hu Ye Yu Zho g Si Me g | Jia ghu O e K ife | 江湖一刀	1	1				
+DR000225	TW	2017	Red Balloo	紅色氣球		1	1				FR000020 (o de  1)
+DR001141	JP	2026	Red Ligh  Elegy	赤灯えれじい	Aka ō E ejī						
+DR001026	TH	2025	Reloved	เริ่มใหม่หัวใจเดิม	Reloved The Se ies | Roem Mai Huajai Doem	1	1				
+DR000031	TH	2022	Remembe  Me	ความรักเขียนด้วยความรัก	Remembe  Me The Se ies	1	1				
+DR000742	TH	2019	Remi de s	REMINDERS เพราะคิดถึง	Remi de s: Because I Miss You | Remi de S	1	1				FR000042 (o de  3)
+DR000847	TH	2022	Res a (ed)	ขอรักอีกครั้งได้ไหม	Re•s a (ed) | Res a ed | Res a | The Res a (ed)	1	1				
+DR001004	TH	2025	Rese	RESET การเกิดใหม่ของดวงดาว	RESET: The Rebi h of  he S a s | Rese  The Se ies | Ka  Koe  Mai Kho g Dua g Dao	1	1				
+DR000057	TH	2025	Revamp The U dead S o y	แวมไพร์โปรเจ็คต์	The Vampi e P ojec	1	1	SR000057			
+DR000548	CN	2025	Reve ged Love	逆爱	Ni Ai	1	1			RM000547 (o de  2)	
+DR000347	PH	2021	Rew i e  he S a s			1	1				
+DR000395	PH	2026	Riffs a d Ru s		Riffs & Ru s	1	1				
+DR000806	TH	2020	Roomma e	ห้องนี้พี่ให้นาย	Roomma e The Se ies | Roomma e  he Se ies	1	2	SR000806			
+DR000405	VN	2017	Roomma es		Bạ  Cù g Phò g | Adam Ngoại T uyệ  – Bạ  Cù g Phò g	1	1		UN000011		FR000027 (o de  2)
+DR000130	KR	2022	Roomma es of Poo gduck 304	풍덕빌라 304호의 사정	Roomma es of Poo gduck 304 | The Ci cums a ces of Pu gdeok Villa Room 304	1	1	SR000130	UN000003		
+DR000770	TH	2018	Roop Tho g	รูปทอง	Gold | Golde | Rup Tho g	1	1				
+DR001224	CN	2026	Rose Hu e	玫瑰猎手	Mei Gui Lie Shou | 玫瑰獵手	1	1				
+DR000212	KR	2026	Rule 101	룰101	Rule 101 | RULE101	1	1				
+DR000079	TH	2022	S a  i  My Mi d	แล้วแต่ดาว		1	1	SR000079			FR000013 (o de  1)
+DR000143	KR	2023	S a  S uck	스타스트럭	S a  S uck | S a s uck	1	1				
+DR000475	VN	2024	S a d By Me		Đảo Nhỏ Nuôi Mèo	1	1				
+DR000314	PH	2021	S a ge 's Kiss		S a ge 's Kiss The Se ies	1	1				
+DR000367	PH	2022	S a ge 's Love			1	1				
+DR000293	PH	2020	S a ge Hea		Whe  Two Hea s Bea  As O e	1	1				
+DR000436	VN	2020	S age of Love		S age of Love The Se ies	1	1				
+DR000378	PH	2023	S ay		S ay The Se ies	1	1				
+DR000011	TW	2023	S ay by My Side	免疫屏蔽		1	1		UN000002		
+DR000703	JP	2025	S ay By My Side Af e   he Rai	雨上がりの僕らについて	Ameaga i  o Boku a  i Tsui e	1	1				
+DR000496	HK	2023	S ay S ill	樓下來的人	S ay S ill | 樓下來的人	1	1				
+DR000532	CN	2023	S ay Wi h Me	哥哥你别跑	Ge Ge Ni Bie Pao | Sa  Xiao Wu Cai | 三小无猜 | I oce  Playma es	1	1			RM000509 (o de  2)	
+DR000918	TH	2023	S ep by S ep	ค่อย ๆ รัก	S ep By S ep | Khoi Khoi Rak | G adually Love	1	1				FR000046 (o de  1)
+DR000003	TH	2020	S ill 2ge he	เพราะเรา(ยัง)คู่กัน		2	2	SR000002			FR000001 (o de  2)
+DR000345	PH	2021	S uck O  You		S uck o  You The Se ies	1	1		UN000009		
+DR000447	VN	2021	S upid Boys S upid Love		Yêu Đi Sợ Gì	1	3	SR000447			
+DR000467	VN	2023	S upid Ge ius		Thiê  Tài Hạ g Bé	1	1				
+DR000400	PH	2026	Sa Dulo'  Dulo: Isi ula  Pa a Magwakas		Sa Dulo’  Dulo: Isi ula  Pa a Magwakas	1	1				
+DR000975	TH	2024	Sa gmi  Di eaw	ซังมิน ดินเหนียว	Sa gmi  Di eaw | Sa gmi  Di iew	1	1				
+DR000329	PH	2021	Saa , Sa a Tayo sa Himig  g Musika		Saa  Sa a Tayo | Whe e We Would Have Bee | Saa  Sa a Tayo BL Se ies	1	1				
+DR000421	VN	2019	Sạc Pi  T ái Tim			1	2	SR000421			
+DR000287	PH	2020	Safe Have		Safe Have  The Se ies	1	1				
+DR000181	KR	2026	Sai  Lau e ce Academy		Sai  Lau e ce Academy | CITYBOY_IF: SLA	1	1				
+DR000281	PH	2020	Sak is a		Al a  Boy	1	1				
+DR000491	HK	2026	Sammy's Child e 's Day		初三的六一兒童節 | 初三的六一儿童节 | Cho Sam Dik Luk Ya  Yi Tu g Chi	1	1				
+DR000389	PH	2025	Sashes a d Hea s		Sashes & Hea s	1	1				
+DR000706	JP	2025	School T ip: Joi ed a G oup I'm No  Close To	修学旅行で仲良くないグループに入りました	Shugaku Ryoko de Nakayoku Nai G oup  i Hai imashi a	1	2	SR000706			
+DR000713	JP	2026	School T ip: Joi ed a G oup I'm No  Close To Seaso  2	修学旅行で仲良くないグループに入りました2	School T ip: Joi ed a G oup I’m No  Close To 2 | Shugaku Ryoko de Nakayoku Nai G oup  i Hai imashi a 2	2	2	SR000706			
+DR000454	VN	2021	School's Ou ! Le 's Da e Now!		Ta  học  ồi, hẹ  hò khô g?	1	1				
+DR000487	VN	2026	Se di g My Pai   o  he Wi d		Gửi Tổ  Thươ g Vào Gió	1	1				
+DR000393	PH	2025	Se e o		U de   he Same Sky	1	1				
+DR000095	TH	2016	Se io  Sec e  Love: Puppy Ho ey	รุ่นพี่ Sec e  Love ตอน Puppy Ho ey	Puppy Ho ey	1	2	SR000095			
+DR000096	TH	2017	Se io  Sec e  Love: Puppy Ho ey 2	รุ่นพี่ Sec e  Love เรื่อง Puppy Ho ey 2	Puppy Ho ey 2 | Sca  Hea  Nai Mo  Ma	2	2	SR000095			
+DR000651	JP	2022	Se pai, This Ca '  Be Love!	先輩、断じて恋では！	Se pai, Da ji e Koi de wa!	1	1				
+DR000327	PH	2021	Se pie e		Se pie e: The BL Se ies	1	1				
+DR000442	VN	2020	Sea Him		Ước Hẹ  Là g Chài | Tiế  B oma ce: Sea Him The Se ies	1	1		UN000014		
+DR000954	TH	2025	Seaso  of Love i  Shima e	Ai  o Kise su ฤดูกาลแห่งรัก i  Shima e	Seaso  of Love | Ai  o Kise su | ฤดูกาลแห่งรัก i  Shima e | Kiseki Seaso  of Mi acles	1	1				FR000048 (o de  2)
+DR000854	TH	2022	Sec e  C ush o  You	แอบหลงรัก	S alke   he Se ies | Aep Lo g Rak | แอบหลงรักเดอะซีรีส์	1	1				
+DR000997	TH	2025	Sec e  Ghos	บันทึก(ลับ)รักฉบับผี	Sec e  Ghos  The Se ies | Ba huek (Lap) Rak Chabap Phi	1	1				
+DR000259	TW	2025	Sec e  Love	秘密關係	Sec e  Rela io ship	1	1				
+DR000166	KR	2025	Sec e  Rela io ships	비밀사이	Sec e  Rela io ships | Sec e  Rela io ship | Bimil Sai	1	1				
+DR000542	CN	2025	Sec e s Happe ed o   he Li chi Isla d	荔枝树下热烈岛	Li Zhi Shu Xia Re Lie Dao	1	1				
+DR000832	TH	2021	Seco d Cha ce	จังหวะจะรัก	Seco d Cha ce The Se ies | Ja g Wa Ja Rak	1	1				
+DR001076	KR	2026	Seco d Pla e	세컨드 플레이트	Sekeo deu Peullei eu	1	1				
+DR000249	TW	2024	See You  Love	看見愛		1	1				
+DR000236	TW	2021	See You Af e  Qua a i e?	隔離後見個面，好嗎？		1	1				
+DR001211	CN	2026	Seeds of Sca le  Lo gi g	在你眉梢种红豆	Zai Ni Mei Xiao Zho g Ho g Dou	1	1				
+DR000879	TH	2022	Self	เราเห็นนาย	Self, I See You | Self, We See You | Rao He  Nai	1	1				
+DR000120	KR	2022	Sema ic E o	시맨틱 에러	Sema ic E o | Simae ig E eo	1	1	SR000120			
+DR000928	TH	2023	Shadow	เงา/ล่า/ตาย	Shadow เงา ล่า ตาย	1	1				
+DR001006	TH	2025	Shi e	ชาย	Chai	1	1				
+DR000658	JP	2022	Shimbashi Koi S o y	シンバシコイ物語	Shimbashi Koi S o y: Chap e  1 | Shimbashi Koi S o y - Fi s  Chap e	1	3	SR000658			
+DR000660	JP	2023	Shimbashi Koi S o y – Fi al Chap e	シンバシコイ物語 最終章	Shimbashi Koi S o y 3 | Shimbashi Koi S o y: Fi al Chap e | Shimbashi Koi S o y – Las  Chap e	3	3	SR000658			
+DR000659	JP	2022	Shimbashi Koi S o y 2	シンバシコイ物語２	Shimbashi Koi S o y: Chap e  2 | Shimbashi Koi S o y 2	2	3	SR000658			
+DR000199	KR	2026	Si  a d Love	죄와 사랑	Si  a d Love | Si  & Love | Jwaewa Sa a g	1	1				
+DR000372	PH	2022	Si A dy, Si Lau e , O Si Pe g?		A dy, Lau e , o  Pe g? | Si A dy, Si Lau e , O Si Pe g? The Se ies	1	1				
+DR000145	KR	2023	Si g My C ush	따라바람	Si g My C ush | Follow  he Wi d | T a a Ba am | T alaba am	1	1				
+DR000481	VN	2025	Si ua io ship i   he Ci y		Mập Mờ T o g Thà h Phố	1	1				
+DR000833	TH	2021	Siew Sum Noi	เสี่ยวซำน้อย	Siew Sum Noi | Li le Xiao Sam | Xiao Sum Noi | You h F ie dship	1	1				
+DR001104	KR	2016	Sig al	시그널		1	2	SR001104			
+DR000341	PH	2021	Simply Do '		Simply Do '  The Se ies | Simply Do '  The BL Se ies	1	2	SR000341			
+DR000816	TH	2020	Ski ship T1	สัมผัสรักของเราและนาย	Ski ship | Ski ship The Se ies | Ski Ship The Se ies	1	2	SR000816			
+DR000817	TH	2021	Ski ship T2	สัมผัสรักของเราและนาย 2	Ski ship Seaso  2 | Ski Ship The Se ies Seaso  2 | Ski ship 2	2	2	SR000816			
+DR000080	TH	2022	Sky i  You  Hea	ขั้วฟ้าของผม		1	1	SR000080			FR000013 (o de  2)
+DR000386	PH	2024	Sky Valley		Sky Valley The Se ies	1	1				
+DR000767	TH	2017	Slam Da ce	ทุ่มฝันสนั่นฟลอร์	Slam Da ce: The Se ies	1	1				
+DR000608	CN	2026	Sleep The apis	睡眠治疗师	Shuimia  Zhiliao Shi	1	1				
+DR000694	JP	2024	Smells Like G ee  Spi i	スメルズ ライク グリーン スピリット		1	1				
+DR000261	TW	2026	Smile Af e  Tea s	轉過頭幫你擦眼淚	Zhua  Guo Tou Ba g Ni Ca Ya  Lei	1	1				
+DR000809	TH	2020	So Much i  Love	นิยามรัก	So Much i  Love The Se ies | So Much i  Love: The Se ies | Ni Yam Ruk | Niya uk: The Se ies	1	1				
+DR000357	PH	2022	SO/PRE		SO PRE | SO/PRE The P equel	1	1		UN000010		
+DR000843	TH	2022	Some hi g i  My Room	ผมกับผีในห้อง	Phom Kub Phee Nai Ho g | My Dea  Ghos  Roomma e	1	1				
+DR000020	TH	2016	SOTUS	พี่ว้ากตัวร้ายกับนายปีหนึ่ง	SOTUS: The Se ies	1	2	SR000020			
+DR000021	TH	2017	SOTUS S	โซตัส เอส	SOTUS S: The Se ies	2	2	SR000020			
+DR000726	JP | KR	2026	Soul Ma e	ソウルメイト	Soulma e | Sô umei o	1	1				
+DR000807	TH	2020	Soulma e	Roomma e  he Se ies ห้องนี้พี่ให้นาย Pa  II « พรหมลิขิต »	Roomma e 2: Soulma e | Soul Roomma e | Roomma e  he Se ies Pa  2	2	2	SR000806			
+DR000973	TH	2024	Spa e Me You  Me cy	เพียงเธอที่ปรารถนา	Spa e Me You  Me cy	1	1				
+DR001161	JP | SG	2026	SQUALL	スコール		1	1				
+DR000956	TH	2024	Su se  x Vibes	เพียงชลาลัย	Su se  x Vibes | Su se  Vibes | Su se xVibes | Phia g Chalalai	1	1				
+DR000693	JP	2024	Suga  Dog Life	シュガードッグライフ		1	1				
+DR000399	PH	2026	Suga  Games		Suga  Games: A Rival y Like No O he | Suga  Games The Se ies	1	1				
+DR000205	KR	2026	Summe  Feve	썸머 피버	Summe  Feve | Seommeo Pibeo | Wi e  Feve  Seaso  2	1	1				FR000017 (o de  3)
+DR001087	KR	2026	Summe  Vaca io	여름방학	Summe  B eak | Yeo eumba ghak	1	1				
+DR000207	KR	2026	Summe ime	하절기	Summe ime | Hajeolgi	1	1				
+DR001002	TH	2025	SUNTINY	หรือ…อลวนที่พรหมลิขิต	Su i y | SUNTINY: O … The Chaos of Des i y	1	1				FR000049 (o de  2)
+DR000291	PH	2020	Swap Tes		Swap Tes  The Se ies	1	1				
+DR000188	KR	2026	Swee  Blood	스윗 블러드	Swee  Blood | Seuwi  Beulleodeu	1	1				
+DR000994	TH	2025	Swee  Too h, Good De is	แฟนที่ทันตแพทย์ส่วนใหญ่แนะนำ	Swee  Too h, Good De is | Fa  Thi Tha a Phae  Sua  Yai Nae Nam	1	1				
+DR000170	KR	2025	Swee hea  Se vice	스윗하트서비스	Swee hea  Se vice | Swee  Hea  Se vice | Seuwisha eu Seobiseu	1	1				
+DR000423	VN	2019	T ậ  Tự Mới			1	1		UN000013		
+DR001075	KR	2026	T ai i g  he I e	신입사원 길들이기	Si ipsawo  Gildeu igi | B eaki g i   he Newbie	1	1				
+DR000554	CN	2025	T apped i  Osaka	被困在大阪的男孩	Bei Ku  Zai Da Ba  De Na  Hai	1	1				
+DR000862	TH	2022	T iage	ทริอาช		1	1				
+DR000301	PH	2020	T uly Ve y You s		T uly Ve y You s: A Homemade Se ies	1	1				FR000025 (o de  1)
+DR000652	JP	2022	Taka a-ku  & Amagi-ku	高良くんと天城くん	Taka a-ku   o Amagi-ku	1	1				
+DR000688	JP	2024	Taka a's T easu e	タカラのびいどろ	Taka a  o Bīdo o	1	1				
+DR001079	KR	2026	Take Cha ge of My Hea	나를 충전해줘	Recha ge Me | Cha ge Me Up	1	1				
+DR000720	JP	2025	Takumi-ku  Se ies -D ama-	タクミくんシリーズ －D ama－	Takumi-ku  Se ies D ama	1	1				FR000041 (o de  7)
+DR000715	JP	2009	Takumi-ku  Se ies 2: Niji-i o  o Ga asu	タクミくんシリーズ 虹色の硝子	Takumi-ku  Se ies 2 | Rai bow Colo ed Glass	1	1				FR000041 (o de  2)
+DR000716	JP	2010	Takumi-ku  Se ies 3: Bibō  o De ail	タクミくんシリーズ 美貌のディテイル	Takumi-ku  Se ies 3 | The Beau y of De ail	1	1				FR000041 (o de  3)
+DR000717	JP	2010	Takumi-ku  Se ies 4: Pu e	タクミくんシリーズ4 Pu e 〜ピュア〜	Takumi-ku  Se ies 4 | Pu e	1	1				FR000041 (o de  4)
+DR000718	JP	2011	Takumi-ku  Se ies 5: A o, Ha e a Aozo a	タクミくんシリーズ あの、晴れた青空	Takumi-ku  Se ies 5 | Tha , Su y Blue Sky	1	1				FR000041 (o de  5)
+DR000714	JP	2007	Takumi-ku  Se ies: Soshi e Ha ukaze  i Sasayai e	タクミくんシリーズ そして春風にささやいて	Takumi-ku  Se ies 1 | A d  he Sp i g B eeze Whispe s	1	1				FR000041 (o de  1)
+DR000719	JP	2023	Takumi-ku  Se ies: The Daw  of  he Lo g Tales	タクミくんシリーズ 長い長い物語の始まりの朝。	Takumi-ku  Se ies 6 | Nagai Nagai Mo oga a i  o Hajima i  o Asa	1	1				FR000041 (o de  6)
+DR001166	CN	2026	Tamed	驯养守则		1	1				
+DR000570	CN	2025	Te  Yea s of Sile ce	十年沉音	Shi Nia  Che  Yi | Te  Yea s of Sile ce	1	1				
+DR001110	JP	2023	Te gu  o Daidoko o	天狗の台所	Te gu's Ki che | Te gu  o Daidoko o Tempo ada 1	1	3	SR001110			
+DR001111	JP	2024	Te gu  o Daidoko o Seaso  2	天狗の台所 Seaso 2	Te gu's Ki che  Seaso  2	2	3	SR001110			
+DR001112	JP	2026	Te gu  o Daidoko o Seaso  3	天狗の台所 Seaso 3	Te gu's Ki che  Seaso  3	3	3	SR001110			
+DR000375	PH	2023	Teach Me How		Teach Me How The Se ies	1	1				
+DR001071	TH	2026	Teach Me, Touch Me	สัมผัสกันต์ธีร์							
+DR000473	VN	2024	Tee age  Judge		Thẩm Phá  Học Đườ g	1	1				
+DR000094	TH	2025	Tha  Summe	ผมเจอเจ้าชายบนชายหาด	Pom Choe Chaochai Bo  Chai Ha	1	1	SR000094			
+DR000394	PH	2026	Tha  Summe : Reu io		Tha  Summe  Reu io	1	1				
+DR001132	JP	2026	Tha 's E ough, Dad!	もうパパ！	Mō Papa!						
+DR000856	TH	2022	Tha 's My Ca dy	นายแคนดี้ของฉัน	Tha ’s My Ca dy | Nai Ca dy Kho g Cha	1	1				
+DR000776	TH	2019	Tha k God I 's F iday	ขอบคุณวันสุข	TGIF	1	1				FR000042 (o de  5)
+DR000024	TH	2019	Tha Type	เกลียดนักมาเป็นที่รักกันซะดีๆ	Tha Type: The Se ies | Tha Type The Se ies | Tha Type: If You Ha e Me Tha  Much, I Should Make You Become My Love	1	2	SR000024	UN000001		FR000008 (o de  3)
+DR000025	TH	2020	Tha Type 2: 7 Yea s of Love	เกลียดนักมาเป็นที่รักกันซะดีๆ 2	Tha Type 2 | Tha Type The Se ies Seaso  2 | 7 Yea s of Love	2	2	SR000024	UN000001		FR000008 (o de  4)
+DR000974	TH	2024	ThamePo: Hea  Tha  Skips a Bea	เธมโป้ Hea  Tha  Skips a Bea	ThamePo: Hea  Tha  Skips a Bea | Thame-Po Hea  Tha  Skips a Bea | ThamePo | Thame - Po	1	1				
+DR000418	VN	2019	Thập Tứ Cô Nươ g			1	1		UN000013		
+DR000657	JP	2022	The 8.2 Seco d Rule	8.2秒の法則	8.2 Byo  o Hosoku | Law of Seco ds	1	1				
+DR000545	CN	2025	The Ag eeme  of Che y Blossom Rai y Seaso	樱花雨季的约定	Yi g Hua Yu Ji De Yue Di g	1	1				
+DR000316	PH	2021	The Al e		Al e | Al e  The Se ies | The Al e  BL Se ies	1	1				
+DR000721	JP	2025	The apy Game	セラピーゲーム	Se apī Gēmu	1	1				
+DR001000	TH	2025	The Ba gkok Boy	บางกอกบอย	Ba gkok Boy | บางกอกบอย The Se ies	1	1				
+DR000835	TH	2021	The Bes  S o y	ครั้งหนึ่งที่รัก	The Bes  S o y | The Bes  S o y The Se ies	1	1				
+DR000780	TH	2019	The Bes  Twi s	รักจิ้น ฟินเฟร่อ		1	1				
+DR000583	CN	2022	The Blood of You h	少年歌行	Shao Nia  Ge Xi g | The Blood of You h | 少年歌行 第一季	1	1		UN000021		
+DR000586	CN	2026	The Blood of You h: Ques  of He oic Hea s	少年歌行之天下无双	Shao Nia  Ge Xi g Zhi Tia  Xia Wu Shua g	1	1		UN000021		
+DR001162	JP	2026	The Blue Flowe s a d  he Ce amic Fo es	青の花 器の森	Ao  o Ha a, U suwa  o Mo i	1	1				
+DR001100	KR | JP	2026	The Blue Road	푸른길	Blue Road | Peu eu gil | Road	1	1				
+DR000730	JP	2026	The Boy a d I Who Will B eak Up i  100 Days	100日後に別れる僕と彼	100-Nichi-go  i Waka e u Boku  o Ka e	1	1				
+DR000268	PH	2020	The Boy Fo e old by  he S a s	The Boy Fo e old by  he S a s	The Boy Fo e old by  he S a s	1	1				FR000024 (o de  1)
+DR000034	TH	2025	The Boy Nex  Wo ld	คนละกาลเวลา	The Boy Nex  Wo ld The Se ies | Kho  La Ka  Wela	1	1		UN000001	RM000034 (o de  1)	
+DR000725	JP	2026	The Boy Nex  Wo ld: My Des i y	The Boy Nex  Wo ld ～並行世界の恋人～		1	1			RM000034 (o de  2)	
+DR000396	PH	2026	The Boyf ie d Exp ess		The Boyf ie d Exp ess The Se ies	1	1				
+DR000036	TH	2026	The C ow Club	อีกาสมาคม		1	1				
+DR000919	TH	2027	The Chemis y	จ๊าบเจน	Jaab Ja e | The Chemis y #JaabJa e	1	1				FR000046 (o de  2)
+DR000578	CN	2025	The Compa y	哑舍	Ya She | Reliquias del fu u o	1	1				
+DR001014	TH	2025	The Cu sed Love	รัก สาป สูญ	The Cu sed Love | รัก สาป สูญ	1	1				
+DR000828	TH	2021	The Cupid Coach	โค้ชลับสลับรัก	The Cupid Coach | The Cupid Coach The Se ies | Coach Rak Salap Rak	1	1				
+DR001221	CN	2026	The Da k Roma ce	危险关系		1	1				
+DR000376	PH	2023	The Day I Loved You			1	2	SR000376			
+DR000398	PH	2026	The Day I Loved You, Two		The Day I Loved You 2 | The Day I Loved You Two	2	2	SR000376			
+DR000134	KR	2022	The Di ec o  Who Buys Me Di e	밥만 잘 사주는 이상한 이사님	The Di ec o  Who Buys Me Di e | The S a ge Di ec o  Who Buys Me Di e | Bapma  Jal Saju eu  Isa gha  Isa im	1	1	SR000134			
+DR000663	JP	2023	The E d of  he Wo ld Wi h You	僕らのミクロな終末	Boku a  o Miku o  a Shūma su | Boku a  o Mic o  a Shuuma su | The E d of  he Wo ld, Wi h You	1	1				
+DR000089	TH	2022	The Eclipse	คาธ	Kha	1	1	SR000089			
+DR001050	TH	2026	The Edge of Ho izo	อรุณรุ่ง	A u  Ru g: The Edge of Ho izo | A u  Ru g | Daw : The Edge of Ho izo	1	1				
+DR000781	TH	2019	The Effec	โลกออนร้าย	The Effec : โลกออนร้าย	1	1				
+DR000005	KR	2023	The Eigh h Se se	여덟 번째 감각		1	1				
+DR000050	TH	2025	The Ex-Mo i g	เพราะแฟนเก่าเปลี่ยนแปลงบ่อย	Ph o Fae  Kao Plia plae g Boi | Because Exes Cha ge F eque ly	1	1	SR000050			
+DR000472	VN	2024	The Fa e T ap		Hồ  Ai Nấy Giữ	1	1				
+DR000513	CN	2017	The Fai y Fox	我的室友是狐仙	My Roomma e is a Fox | My Roomma e is a Fai y Fox | My Roomma e is a  Immo al Fox	1	1				FR000031 (o de  1)
+DR000592	HK	2026	The Gaze	当我看向你		1	1				
+DR000323	PH	2021	The Gui a  Ma		The Gui a  Ma : The Se ies	1	1				
+DR000082	TH	2024	The Hea  Kille s	เขาจ้างให้ผมจีบนักฆ่า		1	1	SR000082			
+DR000557	CN | JP	2025	The Hea  of Tsukuyomi	月读神之心	Yue Du She  Zhi Xi	1	1		UN000020		
+DR000366	PH	2022	The Hei s			1	1				
+DR000967	TH	2024	The Hidde  Moo	เดือนพราง	The Hidde  Moo | Duea  P a g	1	1				
+DR000037	TH	2026	The I visible D ago	เคียงมังกร		1	1				
+DR000704	JP	2025	The Jou ey  o Killi g You	あなたを殺す旅	A a a o Ko osu Tabi	1	2	SR000704			
+DR000712	JP	2026	The Jou ey  o Killi g You Seaso  2	あなたを殺す旅 Seaso  2	The Jou ey  o Kill You Seaso  2 | A a a wo Ko osu Tabi Seaso  2	2	2	SR000704			
+DR001140	JP	2026	The Ki che  of 16 Nigh s	十六夜膳房	Izayoi Ze bō						
+DR001167	CN	2026	The Lame  of Au um	玉簟秋	Yu Dia  Qiu	1	1				
+DR000605	CN	2026	The Las  Oa h	末誓	Mo Shi	1	1				
+DR000602	CN	2026	The Las  Sec e	最后的秘密	Zui Hou De Mi Mi | Zuihou de Mimi | The Sec e s | Mi Mi	1	1				
+DR000989	TH	2025	The Las  Time	ความทรงจำครั้งสุดท้าย	The Las  Time | The Las  Time: Las  Memo y	1	1				
+DR000562	CN	2025	The Leopa d Ca  Schola	狸猫书生	Li Mao Shu She g | The Leopa d Ca  Schola  S1 | 狸猫书生第一季	1	2	SR000562			
+DR000563	CN	2025	The Leopa d Ca  Schola  2	狸猫书生2	The Leopa d Ca  Schola  Seaso  2 | Li Mao Shu She g 2 | 狸猫书生第二季 | 密室大逃脱衍生剧之狸猫书生2	2	2	SR000562			
+DR000195	KR	2026	The Lie We Lived I	거짓말이 사는 집	The Lie We Lived I | Killi g House | Geoji mal-i Sa eu  Jib	1	1				
+DR000520	CN	2019	The Livi g Dead	陈情令之生魂	Che  Qi g Li g Zhi She g Hu | The U amed: A Livi g Soul | The U amed: A Raw Soul	1	1		UN000016		FR000033 (o de  2)
+DR000410	VN	2018	The Los  Ri g		Chiếc Nhẫ  Đi Lạc	1	1				
+DR001023	TH	2025	The Love Neve  Se s	ฉากนั้น...ยังเป็นเธอ	The Love Neve  Se s: ฉากนั้น...ยังเป็นเธอ	1	1				
+DR000841	TH	2022	The Love of Wi e	ก่อนฤดูหนาวผ่าน	The Love Of Wi e | Befo e Wi e  Passes	1	1				
+DR000502	HK	2021	The Love Tha  Da e No  Speak I s Name	有愛錄：螢火蟲	The Love  ha  Da e No  Speak I s Name | Yau Ngoi Luk: Yi g Fo Chu g | 有愛錄：螢火蟲	1	1				
+DR000921	TH	2025	The Lumi ous Begi s	แสงแรกรัก	The Lumi ous Solu io  Seaso  2 | Lumi ous Begi s | Sae g Raek Rak	2	2	SR000920			
+DR000920	TH	2023	The Lumi ous Solu io	แสงส่องรัก	The Lumi ous Solu io  The Se ies | Lumi ous Se ies | Sae g So g Rak	1	2	SR000920			
+DR001035	TH	2026	The Masked Hea s	นายโขน	Nai Kho	1	1				
+DR000849	TH	2022	The Mi acle of Teddy Bea	คุณหมีปาฏิหาริย์	Teddy Bea  Mi acle | Khu  Mee Pa iha	1	1				
+DR000046	TH	2023	The Middlema 's Love	พี่เจตคนกลาง	Middlema ’s Love | Middle Love	1	1	SR000046			FR000012 (o de  2)
+DR000606	CN	2026	The Missi g Piece	请记住我的名字	Qi g Jizhu Wo de Mi gzi | M . Ji | 貌合神离 +1	1	1				
+DR000791	TH	2020	The Mome  I Need You	Mome  แห่งความสุข	The Mome | The Mome  I Need You: The Se ies	1	2	SR000791			
+DR000792	TH	2020	The Mome  Si ce	Mome  ที่ทำให้หัวใจเต้นแรง	The Mome : Si ce | The Mome  Seaso  2	2	2	SR000791			
+DR000455	VN	2021	The Mos  Peaceful Place Is My Place		Nơi Bì h Yê  Nhấ  Là Về Bê  Em | The Mos  Peaceful Place Is wi h You | The Mos  Peaceful Place	1	1				
+DR000348	PH	2021	The Navo			1	1				
+DR000135	KR	2022	The New Employee	신입사원	The New Employee | The New Rec ui | Si ipsawo	1	1	SR000135			
+DR000043	TH	2025	The Nex  P i ce	ข้ามฟ้าเคียงเธอ		1	1	SR000043			
+DR000485	VN	2026	The Nigh  Befo e Blossom		Đêm Qua Sâ  T ước Mộ  Nhà h Mai	1	1				
+DR000250	TW	2024	The Nipple Talk	妮波自由式		1	1				
+DR000247	TW	2024	The O 1y O e	某某	Mou Mou | A Ce ai  Someo e	1	1				
+DR000943	TH	2024	The Ou i g	ทริปซ่อนชู้	The Ou i g | Thip So  Chu	1	1				
+DR000460	VN	2022	The P omise		Biể  Lặ g	1	1				
+DR000878	TH	2022	The P omise	สัญญา I ไม่ลืม	The P omise: Phupha | The P omise: Na fah | Sa ya Mai Luem	1	1				FR000044 (o de  1)
+DR000884	TH	2023	The P omise	สัญญา I ไม่ลืม	The P omise The Se ies | Sa ya Mai Luem | The P omise: I Wo ’  Fo ge	1	1				FR000044 (o de  2)
+DR000258	TW	2025	The P omise of  he Soul	靈魂約定	Li g Hu  Yue Di g	1	1				
+DR000702	JP	2025	The P ope  Way  o W i e Love	恋愛ルビの正しいふりかた	Re ai Rubi  o Tadashii Fu ika a	1	2	SR000702			
+DR000711	JP	2026	The P ope  Way  o W i e Love Seaso  2	恋愛ルビの正しいふりかた シーズン2	The P ope  Way  o W i e Love 2 | Re ai Rubi  o Tadashii Fu ika a Seaso  2	2	2	SR000702			
+DR000198	KR	2026	The P osecu o 's P oposal	검사실의 제안	The P osecu o 's P oposal | The P osecu o ’s Office P oposal | Geomsasil-ui Jea | Geomsasilui Jea	1	1				
+DR000384	PH	2024	The Pe fec  Hea b eak		The Pe fec  Hea b eak The Se ies	1	1				
+DR001089	KR	2026	The Pe fec  Lie	라이어	Lia | Raieo	1	1				
+DR001108	CN	2021	The Ra io al Life	理智派生活	Li Zhi Pai She g Huo	1	1			RM001108 (o de  1)	
+DR000624	JP	2020	The Reaso  Why He Fell i  Love wi h Me	彼が僕に恋した理由	Why He Fell i  Love wi h Me | Ka e ga Boku  i Koishi a Wake | BokuKoi	1	2	SR000624			FR000039 (o de  1)
+DR000633	JP	2021	The Reaso  Why He Fell i  Love wi h Me Seaso  2	彼が僕に恋した理由 SEASON2	The Reaso  Why He Fell i  Love wi h Me 2 | Ka e ga Boku  i Koishi a Wake Seaso  2 | BokuKoi Seaso  2	2	2	SR000624			FR000039 (o de  3)
+DR000632	JP	2020	The Reaso  Why He Fell i  Love wi h Me: D ama Special	彼が僕に恋した理由 ドラマスペシャル	The Reaso  Why He Fell i  Love wi h Me Special | Ka e ga Boku  i Koishi a Wake: D ama Special | BokuKoi D ama Special	1	1				FR000039 (o de  2)
+DR000957	TH	2024	The Rebou d	เกมนี้เพื่อนาย	The Rebou d | The Rebou d Se ies | Game Ni Phuea Nai	1	1				
+DR000401	PH	2026	The Red Leash			1	1				
+DR001097	KR	2026	The Rema ied Emp ess	재혼 황후	Jaeho  Hwa ghu | The Rema ied P i cess	1	1				
+DR000464	VN	2022	The S a  Always Follows You		Lấp Lá h Tựa Á h Sao T ời	1	1				
+DR000173	KR	2025	The S o y of Bihyu g: E cha ed Mas e  of  he Gobli	비형전: 도깨비의 주인	The S o y of Bihyu g: E cha ed Mas e  of  he Gobli | The S o y of Bi Hyeo g | Bi Hyeo g Jeo : Dokkaebiui Jui	1	1				
+DR000732	JP	2026	The Se va  P i ce	しもべの王子様		1	1				
+DR001105	KR	2026	The Seco d Sig al	시그널2	Sig al 2	2	2	SR001104			
+DR001188	CN	2026	The Seve -Day Heali g Bo d	第七日蝉鸣	Di Qi Ri Cha  Mi g	1	1				
+DR000800	TH	2020	The Shippe	จิ้นนายกลายเป็นฉัน	The Shippe : The Se ies	1	1				
+DR000929	TH	2023	The Sig	ลางสังหรณ์	The Sig  Se ies | Laa g Sa gso	1	1				
+DR000527	CN	2020	The Sleu h of  he Mi g Dy as y	成化十四年	Che g Hua Shi Si Nia | The S o y of Mi g Dy as y | El de ec ive de la di as ía Mi g	1	1				
+DR000484	VN	2025	The Sou d of Nos algia		Nếu Nỗi Nhớ Có Âm Tha h | If Memo y Has Sou d	1	1				
+DR001084	KR	2026	The Sou d of Suga  Cubes	각설탕 소리	Gakseol a g So i | Gakseol a gso i | Sou d of Suga  Cubes	1	1				
+DR000552	SG	2025	The Spa kle i  You  Eye	你是我目光里的星	Ni Shi Wo Mu Gua g Li De Xi g	1	1				
+DR000539	CN	2024	The Spi ealm	致命游戏	Zhi Mi g You Xi | Kaleidoscope of Dea h | 死亡万花筒	1	1				
+DR000941	TH	2026	The Su  F om A o he  S a	อาทิตย์ดาวตก	Wes : The Su  F om A o he  S a | Fou eve  You Pa  2: The Su  F om A o he  S a | Fou eve  You 2: The Su  F om A o he  S a | A hi  Dao ok	1	1				FR000047 (o de  3)
+DR000595	CN	2026	The Summe  You Kissed Me	被你吻过的夏天	Bei Ni We  Guo De Xia Tia	1	1				
+DR000100	TH	2024	The T ai ee	ฝึกงานเทอมนี้ รักพี่ได้มั้ย	Fuek Nga  Te m Ni Rak Phi Dai Mai | This Semes e ’s I e ship, Ca  I Love You?	1	1	SR000100			
+DR000197	KR	2026	The Table	더 테이블	The Table | Deo Teibeul	1	1				
+DR000113	KR	2021	The Tas y Flo ida	플로리다반점	The Tas y Flo ida | Flo ida Ba jeom	1	1	SR000113			
+DR000435	VN	2020	The Time Adve u e of Tô A		Tô A  Ký	1	1				
+DR000160	KR	2024	The Time of Feve		The Time of Feve | High Feve	1	1				FR000015 (o de  2)
+DR000848	TH	2022	The Tuxedo	สูทรักนักออกแบบ	The Tuxedo The Se ies	1	1				
+DR000518	CN	2019	The U amed	陈情令	Che  Qi g Li g | The U amed 陈情令	1	1		UN000016		FR000033 (o de  1)
+DR000519	CN	2019	The U amed: Special Edi io	陈情令特别剪辑版	The U amed Special Edi io | Che  Qi g Li g Special Edi io	1	1		UN000016		
+DR000358	PH	2022	The Wa che s		The Wa che s Se ies	1	1		UN000010		
+DR000890	TH	2022	The Wa p Effec	รูปลับรหัสวาร์ป	Rup Lap Raha  Wa p	1	1				
+DR000935	TH	2023	The Whispe e	ศพกระซิบ	The Whispe e : ศพกระซิบ | The Whispe i g Co pse	1	1				
+DR001015	TH	2025	The Wicked Game	เกม รัก ลวง	The Wicked Game | Wicked Game | Game Rak Lua g | เกมรักลวง	1	1				
+DR000836	TH	2021	The Yea book	หนังสือรุ่น	The Yea Book | The Yea book หนังสือรุ่น	1	1				
+DR000097	TH	2019	Theo y of Love	ทฤษฎีจีบเธอ	Theo y of Love: ทฤษฎีจีบเธอ	1	1	SR000097			
+DR000298	PH	2020	Thi d a d Josh		Thi d A d Josh	1	1				
+DR001183	CN	2026	This Is  he Feeli g of Love	这是心动的感觉	Zhe Shi Xi  Do g De Ga  Jue | 這是心動的感覺	1	1				
+DR000958	TH	2024	This Love Does '  Have Lo g Bea s	รักนี้ไม่มีถั่วฝักยาว	This Love Does '  Have Lo g Bea s | Love Wi hou  Lo g Bea s | Rak Ni Mai Mi Thua Fak Yao | 爱情罗勒香	1	1				
+DR000175	KR	2025	Thu de cloud Rai s o m	천둥구름 비바람	Thu de cloud Rai s o m | Thu de  Cloud Rai s o m | Cho du ggu eum Biba am	1	1				
+DR000426	VN	2019	Thư Việ  Ký Ức			1	1				
+DR000930	TH	2023	Ti  Tem Jai	ติณณ์เต็มใจ	Ti  Tem Jai The Se ies | Ti  Tem Jai  he Se ies	1	1				
+DR000115	KR	2021	Ti ed Wi h You	물들여	Ti ed Wi h You | Muldeulyeo	1	1	SR000115			
+DR000062	TH	2026	Ticke   o Heave	เด็กชายไม่ไปสวรรค์	The Boy Who Does ’  Go  o Heave | Dek Chai Mai Pai Sawa	1	1	SR000062			
+DR000182	KR	2025	Tide of Love	타이드 오브 러브	Tide of Love | Taideu Obeu Reobeu	1	2	SR000182			
+DR000183	KR	2026	Tide of Love 2	타이드 오브 러브 시즌2	Tide of Love 2 | Tide of Love Seaso  2 | Tide of Love S2 | Taideu Obeu Reobeu 2	2	2	SR000182			
+DR000427	VN	2019	Tiế  B oma ce			1	3	SR000427	UN000014		
+DR000429	VN	2020	Tiế  B oma ce: My Small Family		Tiế  B oma ce: The Bo us Episodes	2	3	SR000427	UN000014		
+DR000430	VN	2021	Tiế  B oma ce: My Small Family 2		Tiế  B oma ce: The Bo us Episodes (Pa  2)	3	3	SR000427	UN000014		
+DR000377	PH	2023	Tie  he No		Tie The No	1	1				
+DR001172	CN	2026	Tige s S iff  he Rose	尚公主	Sha g Go g Zhu	1	1				
+DR000888	TH	2022	Till  he Wo ld E ds	รักกันวันโลกแตก	Till  he Wo ld E ds The Se ies | Rak Ka  Wa  Lok Taek | TTWE	1	1				
+DR000336	PH	2021	Till Dea h Do Us Pa		Till Dea h Do Us Pa  The Se ies	1	1				
+DR000512	CN	2017	Till Dea h Tea  Us Apa	愉此一生	Yu Ci Yi She g | I  This Case A Pleasa  Life ime Alo e | 1944 Ji  Che g Jiao | 1944锦城骄	1	1				FR000032 (o de  2)
+DR000607	CN	2026	Till I See You	我要看见你	我要看見你 | Wo Yao Ka  Jia  Ni	1	1				
+DR000946	TH	2024	Time	ไทม์ผ่านเวลา	Time | Time  he Se ies | Time ผ่านเวลา	1	1				
+DR000580	CN	2025	Time Raide s	吴邪私家笔记	Wu Xie Si Jia Bi Ji | Wu Xie’s P iva e No es	1	1		UN000022		
+DR000948	TH	2024	To Be Co i ued	คุณได้ไปต่อ	To Be Co i ued | To Be Co i ued Se ies | Khu  Dai Pai To	1	1				
+DR000381	PH	2023	To e os			1	1				
+DR000801	TH	2020	To ho  Cho la ee	ต้นหนชลธี	To ho  Cho la ee: The Se ies	1	1				
+DR000108	KR	2021	To My S a	나의 별에게	To My S a | Naui Byeolege	1	2	SR000108			
+DR000117	KR	2022	To My S a  2	나의 별에게2 : 우리의 못다 한 이야기	To My S a  2 | To My S a  2: Ou  U old S o ies | Naui Byeolege 2	2	2	SR000108			
+DR000551	CN | TH	2025	To My Sho e	吾岸	Wu A	1	1		UN000019		
+DR000885	TH	2022	To Si , Wi h Love	คุณชาย	Khu  Chai | Khu  Chai The Se ies | To Si  Wi h Love	1	1				
+DR000007	TH	2017	Toge he  wi h Me	อกหักมารักกับผม		1	2	SR000007			FR000002 (o de  2)
+DR000008	TH	2018	Toge he  wi h Me: The Nex  Chap e			2	2	SR000007			FR000002 (o de  3)
+DR000668	JP	2023	Tokyo i  Ap il Is...	４月の東京は…	Shiga su  o Tokyo wa... | 4ga su  o Tokyo wa...	1	1				
+DR001029	TH	2026	Too Close F ie d	เพื่อนเล่น ไม่เล่นเพื่อน	Too Close F ie ds | Phuea  Le  Mai Le  Phuea	1	2	SR001029			
+DR001031	TH	2026	Too Close F ie d 2	เพื่อนเล่น ไม่เล่นเพื่อน 2		2	2	SR001029			
+DR001209	CN	2026	Too You g  o Love	校服的裙摆	Xiao Fu De Qu  Bai	1	1				
+DR000992	TH	2025	Top Fo m	กอดกันมั้ย นายตัวท็อป	Top Fo m The Se ies | Shall We Hug, M . O  Top? | Ko  Ka  Mai Nai Tua Top	1	1				
+DR000834	TH	2021	Top Sec e  Toge he	ได้ครับพี่ดีครับน้อง	Top Sec e  Toge he  The Se ies | Dai Kh ab Phi Dee Kh ab No g	1	1				
+DR001134	JP	2026	Tsuma o I ai Shimasu	妻を引退します	I Qui  Bei g a Wife						
+DR001215	CN	2026	Tu bule  Love	季雨倾城		1	1				
+DR000070	TH	2026	Twe y O e	21วัน ลองมารักกันดูไหม	Twe y O e เราลองมารักกันสัก21วันดูไหม | 21 Days, Shall We T y Falli g i  Love?	1	1	SR000070			
+DR000368	PH	2022	Twi kle, Twi kle Li le S a		Twi kle, Twi kie, Li le S a | TTLS	1	1				
+DR000931	TH	2023	Twi s	สองกายใจเดียว	Twi s The Se ies | Two Bodies, O e Hea	1	1				
+DR001078	KR	2026	Twis ed Tie	비틀린 넥타이	Bi eulli  Nek ai	1	1				
+DR000044	TH	2024	Two Wo lds	โลกสองใบ ใจดวงเดียว		1	1	SR000044			
+DR000253	TW	2024	U cle U k ow	叔不知	Shu Bu Zhi | Shu Pu Chih	1	1				
+DR000206	KR	2026	U cove ed	벗는사이	U cove ed | Beo eu  Sai	1	1				
+DR000471	VN	2024	U de   he Oak T ee		Dưới Tá  Cây Mùa Hè	1	1				
+DR000531	CN	2022	U de   he Ski	猎罪图鉴	Lie Zui Tu Jia	1	2	SR000531			
+DR000535	CN	2024	U de   he Ski  II	猎罪图鉴2	Lie Zui Tu Jia  2 | U de   he Ski  2 | U de   he Ski  Seaso  2	2	2	SR000531			
+DR000285	PH	2020	U expec ed		U expec ed The Se ies	1	1				
+DR000729	JP	2026	U expec edly Naugh y Fukami	やたらやらしい深見くん	Ya a a Ya ashii Fukami-ku	1	1				
+DR000871	TH	2022	U fo go e  Nigh	ร้ายนักนะ รักของมาเฟีย	Mafia’s Bad Love | Rai Nak Na Rak Kho g Mafia | U fo go e  Nigh  The Se ies	1	1		UN000025		
+DR000599	HK	2026	U fold	解垢		1	1				
+DR000215	KR	2026	U follow	언팔로우	U follow | Eo pallowoo	1	1				
+DR000303	PH	2020	U gua ded		U gua ded: A Mi i Se ies	1	1				FR000025 (o de  3)
+DR000140	KR	2023	U i e io al Love S o y	비의도적 연애담	U i e io al Love S o y | The Accide al Love S o y | Biuijeokjeok Yeo aedam	1	1				
+DR000560	CN | JP	2025	U il We D ow	沉溺到底	Che  Ni Dao Di	1	1		UN000020		
+DR000009	TH	2019	U il We Mee  Agai	ด้ายแดง		1	1				FR000003 (o de  1)
+DR000246	TW	2024	U k ow	不可抗力	U k ow : The Se ies	1	1				
+DR001062	TH	2026	U lucky Bae	จุดจีบสายมู	Ju  Jeeb Sai Mu	1	1				
+DR001131	JP	2026	Uzume's Rebi h	再生のウズメ	Saisei  o Uzume						
+DR000932	TH	2023	Ve us i   he Sky	ห้ามฟ้าห่มดาว	Ve us i   he Sky The Se ies | Ham Fa Hom Dao	1	1				
+DR000468	VN	2023	ViA		ViA   he Se ies	1	1				
+DR000052	TH	2022	Vice Ve sa	รักสลับโลก	Vice Ve sa: The Se ies | Rak Salap Lok	1	1	SR000052			
+DR000013	TW	2023	VIP O ly	保留席位		1	1		UN000002		
+DR000051	TH	2026	W i e You Agai	เขียนรักครั้งใหม่	Khia  Rak Kh a g Mai	1	1	SR000051			
+DR000461	VN	2022	Wa   o See You		Muố  Nhì  Thấy Em	1	1				
+DR000892	TH	2022	Wa  of Y	วอร์ ออฟ วาย	Wa  of Y The Se ies | Wa  Of Y	1	1				
+DR001126	JP	2025	Wa ashi ga A a a  o I u Riyū	私があなたといる理由		1	2	SR001126			
+DR001127	JP	2026	Wa ashi ga A a a  o I u Riyū 2	私があなたといる理由2〜グアムを訪れた8人の男女の10日間〜		2	2	SR001126			
+DR000951	TH	2024	Wa dee Goodday	วันดีวิทยา	Wa dee Goodday | Wa dee Wi aya | Wa dee Good Day	1	1				
+DR000762	TH	2017	Wa e  Boyy: The Se ies	รักใสใส..วัยรุ่นชอบ	Wa e boyy The Se ies | Wa e  Boyy | Wa e  Boyy 2017	1	1				
+DR000091	TH	2024	We A e	We A e คือเรารักกัน	We A e คือเรารักกัน	1	1	SR000091			
+DR000232	TW	2021	We Bes  Love: Figh i g M . 2 d	第二名的逆襲	We Bes  Love 2	2	2	SR000231			
+DR000231	TW	2021	We Bes  Love: No. 1 Fo  You	永遠的第一名	We Bes  Love: Fo eve   he Fi s	1	2	SR000231			
+DR001142	JP	2026	We Who Told Lies	嘘をついた私たち	Uso wo Tsui a Wa ashi achi						
+DR000647	JP	2022	We' e Bo h G ooms	僕もアイツも新郎です。	Boku mo Ai su mo Shi o desu	1	1				
+DR000016	TH	2023	Weddi g Pla	Weddi g Pla		1	1		UN000001		
+DR000065	TH	2026	WEIRDO-101	แรงโน้มถ่วงระหว่างเรา	Rae g Nom Thua g Rawa g Rao | The G avi y Be wee  Us	1	1	SR000065			
+DR001144	JP	2026	Welcome Back, Fi s  Love	おかえり、初恋。	Okae i, Ha sukoi.						
+DR000756	TH	2019	Wha   he Duck: Fi al Call	รักแลนดิ้ง 2	Wha   he Duck 2 | Wha   he Duck: The Se ies Fi al Call | Wha  The Duck 2: Fi al Call	2	2	SR000755			
+DR000755	TH	2018	Wha   he Duck: The Se ies	รักแลนดิ้ง	Wha   he Duck | Wha  The Duck	1	2	SR000755			
+DR001099	KR	2026	Wha  a Boss Wa s	보스의 노골적 취향	Boseuui Nogoljeok Chwihya g	1	1				
+DR000620	JP	2019	Wha  Did You Ea  Yes e day?	きのう何食べた？	Ki ou Na i Tabe a? | Wha  Did You Ea  Yes e day?	1	2	SR000620			FR000037 (o de  1)
+DR000626	JP	2020	Wha  Did You Ea  Yes e day? New Yea  Special 2020	きのう何食べた？正月スペシャル2020	Wha  Did You Ea  Yes e day? New Yea  Special 2020 | Ki ou Na i Tabe a? New Yea  Special 2020 | Wha  Did You Ea  Yes e day? Oshoga su Special 2020	1	1				FR000037 (o de  2)
+DR000630	JP	2023	Wha  Did You Ea  Yes e day? Seaso  2	きのう何食べた？ seaso 2	Wha  Did You Ea  Yes e day? Seaso  2 | Ki ou Na i Tabe a? Seaso  2	2	2	SR000620			FR000037 (o de  4)
+DR000631	JP	2021	Wha  Did You Ea  Yes e day? The Movie	劇場版 きのう何食べた？	Wha  Did You Ea  Yes e day? Movie | Gekijoba  Ki ou Na i Tabe a? | Ki o Na i Tabe a? The Movie	1	1				FR000037 (o de  3)
+DR000867	TH	2022	Wha  If	สมมติว่า		1	1				
+DR000855	TH	2022	Wha  Zabb Ma !	รักวุ่นวายนายรสแซ่บ	M . Rossab’s Chao ic Love | The Chao ic Love of M . Rossab | M  Rozabb’s Chao ic Love	1	1				
+DR001186	CN	2026	Whe   he S ow Falls	雪落时分	Xue Luo Shi Fe	1	1				
+DR000700	JP	2025	Whe  I  Rai s, I  Pou s	ふったらどしゃぶり	Fu a a Doshabu i	1	2	SR000700			
+DR000710	JP	2026	Whe  I  Rai s, I  Pou s: Mellow Rai	ふったらどしゃぶり メロウレイン	Whe  I  Rai s, I  Pou s Seaso  2 | Fu a a Doshabu i: Mellow Rai	2	2	SR000700			
+DR001051	TH	2026	Whe  Ligh  Fades	แสงดาว แสงศรัทธา	Whe  Ligh  Fades The Se ies | Sae g Dao Sae g Sa ha | Sae gdao Sae gsa ha	1	1				
+DR001045	TH	2026	Whe  O a ges Fall	ต้นส้มอยู่บ้านเขา แต่ผลส้มหล่นมาบ้านเราตลอดเลย		1	1				
+DR001169	CN	2026	Whe e  he Mask E ds	嫁金钗	Jia Ji  Chai | T a sfe  Gold Hai pi	1	1				
+DR000387	PH	2024	Whe e I Fou d You		Whe e I Fou d You The Se ies	1	1				
+DR000103	KR	2020	Whe e You  Eyes Li ge	너의 시선이 머무는 곳에	Neoeui Siseo i Meomu eu  Gose | The Place Whe e You  Gaze Res s | Befo e You  Eyes S op | Beyo d You  Li e of Sigh	1	1	SR000103			
+DR001137	JP	2026	Whea , Bu e , a d Reve ge	小麦とバターと復讐と	Komugi  o Bu e   o Fukushū  o						
+DR000332	PH	2021	Wheel of Love: Weeke d  o Remembe		Wheel of Love | Weeke d  o Remembe | Wheel of Love P ese s: Weeke d  o Remembe	1	1				
+DR000276	PH	2020	Why Love Why	Why Love Why? The Se ies	Why Love, Why? | Why Love Why Seaso  1	1	2	SR000276			
+DR000277	PH	2021	Why Love Why Seaso  2	Why Love Why? The Se ies Seaso  2	Why Love Why 2 | Why Love, Why? Seaso  2	2	2	SR000276			
+DR000147	KR	2023	Why R U?	WHY R U?	Why R U? | Why R U? Ko ea  Ve sio | Why R U? The Se ies	1	1			RM000786 (o de  2)	
+DR000786	TH	2020	Why R U?	เพราะรักใช่ป่าว	Why R U?: The Se ies | Why A e You? | Why A e You: The Se ies | Why A e You The O e | The O e  o Me	1	1			RM000786 (o de  1)	
+DR000887	TH	2022	Why You… Y Me?	วุ่นรักนักจิ้น	Why You Y Me? | Why You... Y Me? | Woo  Rak Nak Ji	1	1				
+DR000299	PH	2020	Wi  Jaime's Hea			1	1				
+DR000526	CN	2020	Wi e  Bego ia	鬓边不是海棠红	Bi  Bia  Bu Shi Hai Ta g Ho g | The Sidebu s A e No  Bego ia Red | Bego ia de i vie o	1	1				
+DR000190	KR	2026	Wi e  Feve	윈터 피버	Wi e  Feve | Wi eo Pibeo	1	1				FR000017 (o de  1)
+DR000782	TH	2019	Wi h Love	Wi h Love The Se ies	Wi h Love The Se ies	1	1				
+DR000574	CN	2025	Wildfi e by Dayligh	白昼焚野	Bai Zhou Fe  Ye	1	1				
+DR000105	KR	2020	Wish You: You  Melody f om My Hea	나의 마음속 너의 멜로디	Wish You | Wish You: You  Melody i  My Hea | Naui Maeumsok Neoui Mellodi	1	1	SR000105			
+DR000260	TW	2026	Wishi g Upo   he Shoo i g S a s	向流星許願的我們	Wishi g Upo   he Shoo i g S a s	1	1				
+DR000524	CN	2021	Wo d of Ho o	山河令	Sha  He Li g | Tia  Ya Ke | 天涯客 | Fa away Wa de e s | A Tale of  he Wa de e s	1	1				
+DR001208	CN	2026	Wo de ful Times	好好的时光	Hao Hao De Shi Gua g | 好好的时代	1	1				
+DR000340	PH	2021	Wo h The Wai		My Toxic Love  2 | Wo h The Wai  The Se ies	2	2	SR000339			
+DR000869	TH	2022	Wo k F om Hea	รักป่วนก๊วนออฟฟิศ		1	1				
+DR001043	TH	2026	Wu	อู		1	1				
+DR000503	MY	2022	Wu Di i  Love	無敵愛上你	WUDI i  Love	1	1				
+DR000191	KR	2026	Wuju Bake y	우주빵집	Wuju Bake y | Wooju Bake y | Space Bake y | Uju Bake y | Uju Ppa gjip	1	1				
+DR001178	CN	2026	Xia g Si Qi	相思契		1	1				
+DR000812	TH	2021	Y-Des i y	หรือนี่คือพรหมลิขิต	Y Des i y | Y-Des i y The Se ies | Y Des i y ปิดกอง	1	1				FR000049 (o de  1)
+DR001033	TH	2026	Yes e day	รอยรักวันวาน	Yes e day: Love Foo p i  f om  he Pas | Yes e day The Se ies	1	1				
+DR001044	TH	2026	You  Dea  Daddy	เรียกแด๊ดว่าแด๊ด		1	1				
+DR001073	KR | JP	2026	You  Pe so al Taxi	개인적인 택시	P iva e Taxi	1	1				
+DR000972	TH	2024	You  Sky	กี่หมื่นฟ้า	You  Sky | You  Sky Se ies | Khi Mue  Fa	1	1				
+DR000735	JP	2026	You  Summe , My S o m	夏色の雲が恋と嵐をまきおこす	Na sui o  o Kumo ga Koi  o A ashi wo Makiokosu	1	1				
+DR000045	TH	2026	You  Thi d	ที่สามของเธอ		1	1	SR000045			
+DR000452	VN	2021	You A e Ma Boy		Em Là Chà g T ai Của A h | You A e My Boy	1	1				
+DR000012	TW	2023	You A e Mi e	絕對佔領		1	1		UN000002		
+DR001218	CN	2026	You A e My Fa eful Love	你是迟来的欢喜		1	1				
+DR000449	VN	2022	You A e My S upid Boy		Tựa Á h Dươ g Ngời	3	3	SR000447			
+DR000448	VN	2021	You A e My Su shi e		Ấ  Tượ g Ba  Đầu	2	3	SR000447			
+DR001171	CN	2026	You Alo e K ow Me	舟寒知婳意	Zhou Ha  Zhi Hua Yi	1	1				
+DR001200	CN	2026	You g Agai	重返青春	Cho g Fa  Qi g Chu	1	1				
+DR001066	TH	2026	You Ma iac	เดี๋ยวจะรักซะให้บ้า	Hold O , I’ll Love You Like C azy | Diao Ja Rak Sa Hai Ba | Diao Cha Rak Sa Hai Ba	1	1				
+DR000109	KR	2021	You Make Me Da ce	유 메이크 미 댄스	You Make Me Da ce | Yoo Meikeu Mi Dae seu	1	1	SR000109			
+DR000802	TH	2020	You Neve  Ea  Alo e	เมื่ออาหารเป็นเรื่องของความรัก	You Neve  Ea  Alo e The Se ies	1	1				
+DR000844	TH	2022	You' e My Sky	จุดหมายคือท้องฟ้า	You' e My Sky The Se ies | Chu mai Khue Tho gfa	1	1				
+DR000567	CN	2025	Yu Ju  Cha g Ge	与君长歌	Yu Ju  Cha g Ge | Si g a Lo g So g wi h You	1	1				
+DR000793	TH	2020	YYY	YYY มันส์เว่อร์นะ	YYY: The Se ies | YYY The Se ies | YYY มันส์เว่อร์นะ	1	2	SR000793			
+DR000794	TH	2020	YYY 2	YYY มันส์ฟินนะ	YYY Special | YYY Fi | YYY: Special	2	2	SR000793			
+DR001048	TH	2026	Za iis: Miss You	Za iis คิดถึงเธอ	Za iis | Za iis Misses You	1	1				
+DR001203	CN	2023	Zhui Me g Qi g Chu	追梦青春	Zhui Hu  Na  Nu | 追婚男女	1	1				
