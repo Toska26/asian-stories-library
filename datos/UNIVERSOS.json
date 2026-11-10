@@ -20,7 +20,7 @@
   {
     "codigo": "UN000004",
     "nombre": "Colaboraciones Corea–Tailandia",
-    "descripcion": "Universo que agrupa producciones audiovisuales surgidas de colaboraciones entre Corea del Sur y Tailandia.",
+    "descripcion": "Universo de producciones audiovisuales surgidas de colaboraciones entre Corea del Sur y Tailandia.",
     "activo": true
   },
   {
@@ -176,6 +176,13 @@
     "codigo": "UN000029",
     "nombre": "Medical Examiner Dr. Qin",
     "descripcion": "Universo audiovisual basado en las novelas de Medical Examiner Dr. Qin, que reúne distintas adaptaciones de las historias y los personajes de Qin Ming, aunque presenten repartos y continuidades independientes.",
+    "activo": true
+  },
+  {
+    "codigo": "UN000030",
+    "nombre": "Tian Xia Ba Chang — Tianjin Universe",
+    "pais": "CN",
+    "descripcion": "Universo narrativo inspirado en las obras de Tian Xia Ba Chang y ambientado en Tianjin. Reúne las producciones relacionadas con River God y las historias derivadas de su mundo, incluyendo River God (2017), River God 2 (2020), la precuela Tientsin Mystic / 河神之渡阴 (2026) y The Guardian Liu Hengshun / 真火神探刘横顺 (2026). Las producciones pueden seguir personajes y líneas argumentales diferentes, pero comparten el mismo universo.",
     "activo": true
   }
 ]
