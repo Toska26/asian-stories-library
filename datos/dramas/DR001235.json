@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001235",
+  "bl": false,
+  "titulo": "Medical Examiner Dr. Qin: The Mind Reader",
+  "tituloOriginal": "法医秦明之读心者",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Du Xin Zhe"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2022,
+  "tipo": "DR",
+  "universo": "UN000029",
+  "episodios": 28,
+  "estado": "finalizado",
+  "estreno": "2022-05-21",
+  "finalizacion": "2022-06-20",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "An Ran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huanhuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Captain Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Yaxin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Brother Biao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Qin Ming llega a Longpan, la ciudad natal de su madre, con la intención de investigar el misterio de su asesinato. Allí se ve envuelto en varios casos y comienza a colaborar con An Ran y Lin Tao. A medida que avanza la investigación, descubre nuevas pistas sobre su pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BJJ4A_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Avance promocional — Youku",
+        "url": "https://www.youtube.com/watch?v=E9qw50B07hM"
+      },
+      {
+        "titulo": "Avance promocional — Youku",
+        "url": "https://www.youtube.com/watch?v=CBxtN3lhv2U"
+      }
+    ]
+  }
+}
