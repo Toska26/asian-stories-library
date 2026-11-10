@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001237",
+  "bl": false,
+  "titulo": "Concerto in the Rain",
+  "tituloOriginal": "法医秦明之雨中协奏曲",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Yu Zhong Xie Zou Qu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2023,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "duracion": 78,
+  "estado": "finalizado",
+  "estreno": "2023-10-24",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Qianxuezi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luo Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zheng Zhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sun Xiaoyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Ashen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Liping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/E58rJz_4f.jpg"
+    ]
+  }
+}
