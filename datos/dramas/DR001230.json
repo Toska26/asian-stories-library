@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001230",
+  "bl": false,
+  "titulo": "Whisper of Silent Body",
+  "tituloOriginal": "秦明·生死语者",
+  "alias": [
+    "Qin Ming: Sheng Si Yu Zhe",
+    "尸语者"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2019,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "duracion": 104,
+  "estado": "finalizado",
+  "estreno": "2019-06-14",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fan Jiajia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Da Bao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zou Huai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kou Yong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Jian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shu Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Huaiwei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ruan Kaiyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gu Wanyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
+}
