@@ -22,7 +22,14 @@
     "finalizacion": null,
     "generos": [],
     "tags": [],
-    "personas": [],
+    "personas": [
+           {
+      "nombre": "",
+      "persona": "",
+      "funcion": ["Actor"],
+      "principal": true
+    }
+    ],
     "ships": [
         {
             "personajes": [],
