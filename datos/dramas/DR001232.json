@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001232",
+  "bl": false,
+  "titulo": "Fatal Novel",
+  "tituloOriginal": "法医秦明之致命小说",
+  "alias": [
+    "Fa Yi Qin Ming Zhi Zhi Ming Xiao Shuo",
+    "法医秦明之只如初见"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2019,
+  "tipo": "PEL",
+  "universo": "UN000029",
+  "duracion": 84,
+  "estado": "finalizado",
+  "estreno": "2019-11-29",
+  "personas": [
+    {
+      "nombre": "Qin Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Tao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Yue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Chi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En Longfan comienzan a producirse asesinatos cuyos métodos reproducen los descritos en una novela de suspense publicada en internet. Qin Ming investiga la conexión entre los crímenes y el autor de la obra, mientras personas de su entorno quedan expuestas al peligro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/1Q81bf.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Tráiler promocional — People.cn",
+        "url": "https://media.people.com.cn/n1/2019/1128/c200167-31479968.html"
+      }
+    ]
+  }
+}
