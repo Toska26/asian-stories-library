@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001241",
+  "bl": false,
+  "titulo": "River God",
+  "tituloOriginal": "河神",
+  "alias": [],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2017,
+  "tipo": "DR",
+  "franquicia": "FR000052",
+  "universo": "UN000030",
+  "serie": "SR001241",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 44,
+  "estado": "finalizado",
+  "estreno": "2017-07-19",
+  "finalizacion": "2017-08-31",
+  "personas": [
+    {
+      "nombre": "Guo Deyou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ding Mao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Lanlan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En Tianjin, el joven Guo Deyou, conocido como el Pequeño Dios del Río, utiliza sus conocimientos sobre el río y la técnica de distinguir la verdad mediante el humo para investigar extraños crímenes. Junto al detective Ding Mao, la médica Gu Ying y Xiao Lanlan, se adentra en una serie de misterios que esconden secretos de la ciudad y de sus habitantes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/BwpeAf.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/5c1/5c12a4bcabe8958990462298b5510893.mp4"
+      }
+    ]
+  }
+}
