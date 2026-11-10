@@ -33,13 +33,29 @@
     "especiales": [],
     "relaciones": [],
     "sinopsis": null,
+    
     "multimedia": {
         "portada": [],
-        "trailer": [],
-        "teaser": [],
-        "pilot": [],
-        "ost": [],
-        "videos": []
+        "trailer": [ {
+                            "titulo": "",
+                            "url": ""
+                      } ],
+        "teaser": [ {
+                            "titulo": "",
+                            "url": ""
+                      } ],
+        "pilot": [ {
+                            "titulo": "",
+                            "url": ""
+                      } ],
+        "ost": [ {
+                            "titulo": "",
+                            "url": ""
+                      } ],
+        "videos": [ {
+                            "titulo": "",
+                            "url": ""
+                      } ]
     },
     "activo": true
 }
