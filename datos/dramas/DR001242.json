@@ -10,7 +10,10 @@
   "idioma": "zh",
   "anio": 2020,
   "tipo": "DR",
-  "franquicia": "FR000052",
+  "franquicia": {
+    "codigo": "FR000052",
+    "orden": 2
+  },
   "universo": "UN000030",
   "serie": "SR001241",
   "temporadas": 2,
