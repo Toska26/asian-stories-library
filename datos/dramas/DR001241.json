@@ -12,7 +12,10 @@
   "idioma": "zh",
   "anio": 2017,
   "tipo": "DR",
-  "franquicia": "FR000052",
+  "franquicia": {
+    "codigo": "FR000052",
+    "orden": 1
+  },
   "universo": "UN000030",
   "serie": "SR001241",
   "temporadas": 2,
