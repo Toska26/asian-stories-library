@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001242",
+  "bl": false,
+  "titulo": "River God 2",
+  "tituloOriginal": "河神2",
+  "alias": [],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2020,
+  "tipo": "DR",
+  "franquicia": "FR000052",
+  "universo": "UN000030",
+  "serie": "SR001241",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 24,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2020-07-06",
+  "finalizacion": "2020-07-27",
+  "personas": [
+    {
+      "nombre": "Guo Deyou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ding Mao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Lanlan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tras los acontecimientos de la primera temporada, Guo Deyou y sus compañeros vuelven a enfrentarse a una serie de casos misteriosos. Sus investigaciones los conducen a una conspiración que amenaza Tianjin y pone a prueba sus vínculos y su capacidad para descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/xwL4N_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/e3e/e3edca0f6e68bfb76eaf26a8eb6dd94b.mp4"
+      }
+    ]
+  }
+}
