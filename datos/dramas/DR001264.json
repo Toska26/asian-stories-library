@@ -24,126 +24,126 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "朱德",
+      "nombre": "Zhu De",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "罗大川",
+      "nombre": "Luo Dachuan",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "张国焘",
+      "nombre": "Zhang Guotao",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "刘伯承",
+      "nombre": "Liu Bocheng",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "大铁锅",
+      "nombre": "Da Tieguo",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "毛泽东",
+      "nombre": "Mao Zedong",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "索南贡布",
+      "nombre": "Suonam Gongbu",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "周恩来",
+      "nombre": "Zhou Enlai",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "蒋介石",
+      "nombre": "Jiang Jieshi",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "张学良",
+      "nombre": "Zhang Xueliang",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "康克清",
+      "nombre": "Kang Keqing",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "索朗土司",
+      "nombre": "Suolang Tusi",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "贺龙",
+      "nombre": "He Long",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "巴旺头人",
+      "nombre": "Bawang Touren",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "刘湘",
+      "nombre": "Liu Xiang",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "肖勇",
+      "nombre": "Xiao Yong",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "夏克刀登",
+      "nombre": "Xia Kedeng",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "胡宗南",
+      "nombre": "Hu Zongnan",
       "funcion": [
         "Actor"
       ],
