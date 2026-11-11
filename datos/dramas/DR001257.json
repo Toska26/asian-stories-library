@@ -6,7 +6,9 @@
   "alias": [
     "Lan Xiang Ru Gu"
   ],
-  "pais": ["CN"],
+  "pais": [
+    "CN"
+  ],
   "idioma": "zh",
   "anio": 2026,
   "tipo": "DR",
@@ -23,115 +25,155 @@
   ],
   "personas": [
     {
-      "nombre": "许兰香 / 沈嘉兰",
-      "funcion": ["Actor"],
+      "nombre": "Xu Lanxiang / Shen Jialan",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "林锦岐",
-      "funcion": ["Actor"],
+      "nombre": "Lin Jinqi",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "韩粱",
-      "funcion": ["Actor"],
+      "nombre": "Han Liang",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "赵星棠",
-      "funcion": ["Actor"],
+      "nombre": "Zhao Xingtang",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "杜翠雀",
-      "funcion": ["Actor"],
+      "nombre": "Du Cuique",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "薛桂花",
-      "funcion": ["Actor"],
+      "nombre": "Xue Guihua",
+      "funcion": [
+        "Actor"
+      ],
       "principal": true
     },
     {
-      "nombre": "九皋",
-      "funcion": ["Actor"],
+      "nombre": "Jiu Gao",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "南客",
-      "funcion": ["Actor"],
+      "nombre": "Nan Ke",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "秦舜华",
-      "funcion": ["Actor"],
+      "nombre": "Qin Shunhua",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "周甘棠",
-      "funcion": ["Actor"],
+      "nombre": "Zhou Gantang",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "杜小莲",
-      "funcion": ["Actor"],
+      "nombre": "Du Xiaolian",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "许万全",
-      "funcion": ["Actor"],
+      "nombre": "Xu Wanquan",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "林绣婉",
-      "funcion": ["Actor"],
+      "nombre": "Lin Xiuwan",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "林绣茹",
-      "funcion": ["Actor"],
+      "nombre": "Lin Xiuru",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "杜峥",
-      "funcion": ["Actor"],
+      "nombre": "Du Zheng",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "宝盖",
-      "funcion": ["Actor"],
+      "nombre": "Bao Gai",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "王令骁",
-      "funcion": ["Actor"],
+      "nombre": "Wang Lingxiao",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "吴算儿",
-      "funcion": ["Actor"],
+      "nombre": "Wu Suaner",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "林昭祥",
-      "funcion": ["Actor"],
+      "nombre": "Lin Zhaoxiang",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     },
     {
-      "nombre": "玉蝉",
-      "funcion": ["Actor"],
+      "nombre": "Yu Chan",
+      "funcion": [
+        "Actor"
+      ],
       "principal": false
     }
   ],
   "ships": [
     {
       "personajes": [
-        "沈嘉兰",
-        "林锦岐"
+        "Shen Jialan",
+        "Lin Jinqi"
       ]
     }
   ],
-  "sinopsis": "沈嘉兰, nieta de una prestigiosa familia de funcionarios, pierde a su familia cuando su abuelo es acusado injustamente de traición. Para salvarla, unos antiguos sirvientes la hacen pasar por su hija fallecida, 许兰香, y la introducen como criada en la residencia Lin, donde vive su antiguo prometido, 林锦岐. Ocultando su verdadera identidad, deberá abrirse camino en un entorno marcado por las diferencias sociales, las intrigas familiares y las luchas de poder. Con inteligencia y determinación, luchará por limpiar el nombre de su familia y decidir su propio destino.",
+  "sinopsis": "Shen Jialan, nieta de una prestigiosa familia de funcionarios, pierde a su familia cuando su abuelo es acusado injustamente de traición. Para salvarla, unos antiguos sirvientes la hacen pasar por su hija fallecida, Xu Lanxiang, y la introducen como criada en la residencia Lin, donde vive su antiguo prometido, Lin Jinqi. Ocultando su verdadera identidad, deberá abrirse camino en un entorno marcado por las diferencias sociales, las intrigas familiares y las luchas de poder. Con inteligencia y determinación, luchará por limpiar el nombre de su familia y decidir su propio destino.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/b3DB2w_4f.jpg"
