@@ -1,0 +1,45 @@
+{
+  "codigo": "DR001250",
+  "bl": false,
+  "titulo": "The Long Watch",
+  "tituloOriginal": "交锋",
+  "alias": [
+    "Jiao Feng"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-09-06",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Suspense",
+    "Político"
+  ],
+  "sinopsis": "A finales de los años noventa, dos agentes de seguridad nacional de generaciones y temperamentos distintos deben trabajar juntos para hacer frente a operaciones encubiertas y amenazas que se extienden durante décadas. Su misión pondrá a prueba su lealtad, su confianza y su compromiso con el país.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YALAld_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial — WeTV",
+        "url": "https://ssg.wetv.vip/en/play/6mz32vksqxlaikb/k4102qw415u-Trailer%3A_A_silent_battle_begins_as_a_covert_war_is_about_to_unfold_%7C_The_Long_Watch"
+      }
+    ],
+    "teaser": [
+      {
+        "titulo": "Teaser del episodio 30 — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/6mz32vksqxlaikb/j41022w92j2-Teaser_EP30%3A_The_Long_Watch"
+      }
+    ]
+  },
+  "activo": true
+}
