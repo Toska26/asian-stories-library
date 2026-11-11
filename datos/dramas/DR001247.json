@@ -1,0 +1,79 @@
+{
+  "codigo": "DR001247",
+  "bl": false,
+  "titulo": "Prelude of the White Snake",
+  "tituloOriginal": "浮生之白蛇前缘",
+  "alias": [
+    "Fu Sheng Zhi Bai She Qian Yuan",
+    "浮生之白蛇缘起"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-09-02",
+  "finalizacion": "2026-09-10",
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Bai Suzhen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Xian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Qing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fa Hai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bai Suzhen",
+        "Xu Xian"
+      ]
+    },
+    {
+      "personajes": [
+        "Xiao Qing",
+        "Fa Hai"
+      ]
+    }
+  ],
+  "sinopsis": "Bai Suzhen lleva quinientos años cultivándose y está a punto de ascender a la inmortalidad, pero una tribulación amorosa pendiente le hace perder un recuerdo esencial. Por orden de una deidad, desciende al mundo humano para encontrar a Xu Xian y saldar una deuda de gratitud. Junto a Xiao Qing, conoce a Xu Xian, un cazador de demonios marcado por la masacre de su familia, y a Fa Hai, discípulo del templo Jinshan. Los cuatro emprenden un camino en el que se entrelazan el destino, los conflictos entre humanos y demonios y los sentimientos.",
+  "multimedia": {
+    "trailer": [
+      {
+        "titulo": "Trailer: She seeks ascension, only to be ensnared by love! — Prelude of the White Snake",
+        "url": "https://wetv.vip/es/play/bpe8q0ffkwrv2ev/l41020cdx5p-Trailer%3A_She_seeks_ascension%2C_only_to_be_ensnared_by_love%21_%7C_Prelude_of_the_White_Snake"
+      }
+    ]
+  },
+  "activo": true
+}
