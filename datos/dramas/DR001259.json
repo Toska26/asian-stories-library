@@ -1,0 +1,39 @@
+{
+  "codigo": "DR001259",
+  "bl": false,
+  "titulo": "Gladiator in the Theater",
+  "tituloOriginal": "云雀叫天录",
+  "alias": [
+    "Yun Que Jiao Tian Lu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-14",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "孟金福",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "孟金福, un joven de origen humilde y talento inicialmente modesto, entra en el mundo de la ópera tradicional china. A través de años de aprendizaje, esfuerzo y cambios históricos, pasa de aprendiz a convertirse en una figura destacada de la escena teatral.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2D3xB_4f.jpg"
+    ]
+  },
+  "activo": true
+}
