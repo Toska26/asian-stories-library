@@ -28,42 +28,42 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "廉明",
+      "nombre": "Lian Ming",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "文傍",
+      "nombre": "Wen Bang",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "雅醇",
+      "nombre": "Ya Chun",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "金美辛",
+      "nombre": "Jin Meixin",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "小月",
+      "nombre": "Xiao Yue",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "卡纳潘",
+      "nombre": "Ka Na Pan",
       "funcion": [
         "Actor"
       ],
