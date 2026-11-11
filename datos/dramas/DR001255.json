@@ -1,0 +1,38 @@
+{
+  "codigo": "DR001255",
+  "bl": false,
+  "titulo": "Abyss",
+  "tituloOriginal": "深渊无间",
+  "alias": [
+    "Shen Yuan Wu Jian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "estado": "finalizado",
+  "estreno": "2026-09-09",
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Policíaco"
+  ],
+  "sinopsis": "La aparición de una novela de misterio en internet altera la tranquilidad de una pequeña ciudad cuando varios de sus detalles coinciden con información nunca publicada de antiguos casos policiales. Un joven agente se acerca al dueño de un cibercafé y autor de la novela; la investigación reabre un caso antiguo y destapa secretos relacionados con una cadena de crímenes sin resolver.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXx1DE_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial — iQIYI Distribution",
+        "url": "https://www.youtube.com/watch?v=D9HE3fixxHo"
+      }
+    ]
+  },
+  "activo": true
+}
