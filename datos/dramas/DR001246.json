@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001246",
+  "bl": false,
+  "titulo": "The Mad Monk: Subdue Demons of Dragon's Fall",
+  "tituloOriginal": "济公之降龙除妖",
+  "alias": [
+    "Ji Gong Zhi Xiang Long Chu Yao",
+    "济公Ⅱ",
+    "Ji Gong II",
+    "The Mad Monk: Subdue Demons"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001245",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-09-07",
+  "finalizacion": "2026-09-22",
+  "generos": [
+    "Comedia",
+    "Fantasía",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Gong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yan Zhi Xian Zi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Guang Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji Gong",
+        "Yan Zhi Xian Zi"
+      ]
+    }
+  ],
+  "sinopsis": "Ji Gong recorre el mundo mortal ayudando y guiando a quienes lo necesitan, pero acaba envuelto en una prueba amorosa marcada por el destino. Al reencontrarse con una mujer de su pasado, ambos quedan atrapados en una complicada relación de amor y resentimiento mientras las fuerzas demoníacas provocan el caos. Entre las divertidas situaciones cotidianas del templo Lingyin y los enfrentamientos entre seres divinos y demoníacos, Ji Gong deberá superar las pasiones y los engaños para derrotar a los demonios y devolver la paz al mundo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjB3xY_4f.jpg"
+    ],
+    "teaser": [
+      {
+        "titulo": "The Mad Monk Battles Demons and Brings Laughter to the Mortal World — WeTV",
+        "url": "https://wetv.vip/en/play/yorg68jvzf9x4gn/s4102jr4eot-Trailer:_The_Mad_Monk_Battles_Demons_and_Brings_Laughter_to_the_Mortal_World_|_The_Mad_Monk:_Subdue_Demons_of_Dragon's_Fall"
+      },
+      {
+        "titulo": "The Original Cast Is Back! Fighting Evil, Saving Lives! — WeTV",
+        "url": "https://wetv.vip/en/play/yorg68jvzf9x4gn/v4102x14t20-Trailer:_The_original_cast_is_back!_Fighting_Evil,_Saving_Lives!_|_The_Mad_Monk:_Subdue_Demons_of_Dragon's_Fall"
+      }
+    ]
+  }
+}
