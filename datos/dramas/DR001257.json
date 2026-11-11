@@ -1,0 +1,147 @@
+{
+  "codigo": "DR001257",
+  "bl": false,
+  "titulo": "Against the Current",
+  "tituloOriginal": "兰香如故",
+  "alias": [
+    "Lan Xiang Ru Gu"
+  ],
+  "pais": ["CN"],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 47,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-09-11",
+  "generos": [
+    "Histórico",
+    "Romance",
+    "Drama familiar"
+  ],
+  "personas": [
+    {
+      "nombre": "许兰香 / 沈嘉兰",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "林锦岐",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "韩粱",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "赵星棠",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "杜翠雀",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "薛桂花",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "九皋",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "南客",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "秦舜华",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "周甘棠",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "杜小莲",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "许万全",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "林绣婉",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "林绣茹",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "杜峥",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "宝盖",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "王令骁",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "吴算儿",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "林昭祥",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "玉蝉",
+      "funcion": ["Actor"],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "沈嘉兰",
+        "林锦岐"
+      ]
+    }
+  ],
+  "sinopsis": "沈嘉兰, nieta de una prestigiosa familia de funcionarios, pierde a su familia cuando su abuelo es acusado injustamente de traición. Para salvarla, unos antiguos sirvientes la hacen pasar por su hija fallecida, 许兰香, y la introducen como criada en la residencia Lin, donde vive su antiguo prometido, 林锦岐. Ocultando su verdadera identidad, deberá abrirse camino en un entorno marcado por las diferencias sociales, las intrigas familiares y las luchas de poder. Con inteligencia y determinación, luchará por limpiar el nombre de su familia y decidir su propio destino.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3DB2w_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/7c8/7c8616cf86f6ca71e8189ff8d544d5ac.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
