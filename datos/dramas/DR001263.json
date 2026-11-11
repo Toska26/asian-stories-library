@@ -22,5 +22,84 @@
     ]
   },
   "activo": true,
-  "sinopsis": "En la víspera de la llegada de un tifón, varias personas se reúnen en la isla Baishu. Mientras un asesino en serie parece poner en marcha una nueva cadena de crímenes, viejas cuentas pendientes resurgen y un enfermo terminal encuentra inesperadamente el dinero que podría salvarle la vida. Los destinos de los habitantes y visitantes de la isla comienzan a entrelazarse en una trama de misterio y asesinatos, adaptada de la novela de suspense Yuan Dao Fang Zhou."
+  "sinopsis": "En la víspera de la llegada de un tifón, varias personas se reúnen en la isla Baishu. Mientras un asesino en serie parece poner en marcha una nueva cadena de crímenes, viejas cuentas pendientes resurgen y un enfermo terminal encuentra inesperadamente el dinero que podría salvarle la vida. Los destinos de los habitantes y visitantes de la isla comienzan a entrelazarse en una trama de misterio y asesinatos, adaptada de la novela de suspense Yuan Dao Fang Zhou.",
+  "personas": [
+    {
+      "nombre": "Yu Chunxiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ma Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xin Peng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhu Ben",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Xinyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhu Xiaolei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "A Wen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dong Lele",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lao Jia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lao Jiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
