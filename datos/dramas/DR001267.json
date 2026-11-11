@@ -1,0 +1,21 @@
+{
+  "codigo": "DR001267",
+  "bl": false,
+  "titulo": "The Story of Ningjing People",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-28",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/0/0b/The_Story_of_Ningjing_People.jpg"
+    ]
+  },
+  "activo": true
+}
