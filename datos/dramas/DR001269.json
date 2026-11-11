@@ -28,5 +28,119 @@
     ]
   },
   "activo": true,
-  "sinopsis": "En la ciudad de Weicheng, situada en una importante ruta de transporte del noroeste de China, el tráfico de drogas se ha convertido en un grave problema. La jefa de la brigada antidroga, Bai Hua, recibe el refuerzo de tres jóvenes agentes —Zhuang Yan, Li Xiao y Wei Kai— y los guía en operaciones encubiertas cada vez más peligrosas. Juntos investigan y desmantelan una extensa red de narcotráfico hasta llevar ante la justicia a los grandes responsables y a quienes los protegen."
+  "sinopsis": "En la ciudad de Weicheng, situada en una importante ruta de transporte del noroeste de China, el tráfico de drogas se ha convertido en un grave problema. La jefa de la brigada antidroga, Bai Hua, recibe el refuerzo de tres jóvenes agentes —Zhuang Yan, Li Xiao y Wei Kai— y los guía en operaciones encubiertas cada vez más peligrosas. Juntos investigan y desmantelan una extensa red de narcotráfico hasta llevar ante la justicia a los grandes responsables y a quienes los protegen.",
+  "personas": [
+    {
+      "nombre": "Zhuang Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Hua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Xiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ge Dan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wei Kai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Qiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ma Jingrong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Long Zhiyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qin Mu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huang Lie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mu Qing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tian Xin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tian Zheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Fuhai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Bo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Na",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
