@@ -26,5 +26,56 @@
       "https://wiki.d-addicts.com/images/8/84/No_Big_Deal.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "personas": [
+    {
+      "nombre": "领领",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "曼妮",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "郝南",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "李历山",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "宋春生",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "周总",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "冰冰",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
