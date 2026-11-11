@@ -30,63 +30,63 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "上官诚明",
+      "nombre": "Shangguan Chengming",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "江飞燕",
+      "nombre": "Jiang Feiyan",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "金不换",
+      "nombre": "Jin Buhuan",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "傻亮",
+      "nombre": "Sha Liang",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "祖爷",
+      "nombre": "Zu Ye",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "黄法蓉",
+      "nombre": "Huang Farong",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "钱怀仁",
+      "nombre": "Qian Huairen",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "陈庆瑛",
+      "nombre": "Chen Qingying",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "上官红",
+      "nombre": "Shangguan Hong",
       "funcion": [
         "Actor"
       ],
