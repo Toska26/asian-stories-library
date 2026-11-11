@@ -1,0 +1,43 @@
+{
+  "codigo": "DR001251",
+  "bl": false,
+  "titulo": "Fragments of Truth",
+  "tituloOriginal": "猎罪现场",
+  "alias": [
+    "Lie Zui Xian Chang",
+    "Crime Scene Hunt"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-09-07",
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Policíaco"
+  ],
+  "sinopsis": "Un drama de investigación criminal que aborda distintos casos desde la perspectiva psicológica de los delincuentes. Los investigadores deberán reconstruir los hechos y descubrir las motivaciones ocultas detrás de cada crimen.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3ooPL_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial — Youku",
+        "url": "https://www.youtube.com/watch?v=azpthHzfj9g"
+      },
+      {
+        "titulo": "Tráiler con subtítulos en inglés",
+        "url": "https://www.youtube.com/watch?v=nixc-RGRONY"
+      }
+    ]
+  },
+  "activo": true
+}
