@@ -1,0 +1,39 @@
+{
+  "codigo": "DR001256",
+  "bl": false,
+  "titulo": "Cold Hunt",
+  "tituloOriginal": "冬城猎凶",
+  "alias": [
+    "Dong Cheng Lie Xiong",
+    "Winter City Hunter"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "estado": "finalizado",
+  "estreno": "2026-09-10",
+  "generos": [
+    "Crimen",
+    "Suspense",
+    "Policíaco"
+  ],
+  "sinopsis": "Un equipo policial investiga una red de tráfico de menores. Durante el caso aparecen indicios relacionados con un atraco armado ocurrido trece años antes, lo que obliga a los investigadores a conectar dos líneas temporales y descubrir el vínculo entre ambos sucesos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VB0Qw0_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/b93/b937a56ac2082006f7b0a40ab60fe958.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
