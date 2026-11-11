@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001269",
+  "bl": false,
+  "titulo": "Thunder Chaser",
+  "tituloOriginal": "雷霆令",
+  "alias": [
+    "Lei Ting Ling"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-29",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3vy6zj_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/a2f/a2fa09f7e331c73ec8ba3b64b846d7dd.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
