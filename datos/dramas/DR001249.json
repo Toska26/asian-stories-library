@@ -40,49 +40,49 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "曹信",
+      "nombre": "Cao Xin",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "齐时",
+      "nombre": "Qi Shi",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "霍青莲",
+      "nombre": "Huo Qinglian",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "齐爱华",
+      "nombre": "Qi Aihua",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "曹东方",
+      "nombre": "Cao Dongfang",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "曹思",
+      "nombre": "Cao Si",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "齐智",
+      "nombre": "Qi Zhi",
       "funcion": [
         "Actor"
       ],
