@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001261",
+  "bl": false,
+  "titulo": "Black Island Prison",
+  "tituloOriginal": "黑岛监狱",
+  "alias": [
+    "Hei Dao Jian Yu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-23",
+  "generos": [
+    "Crimen",
+    "Suspense"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/7r0j7e_4f.jpg"
+    ]
+  },
+  "activo": true
+}
