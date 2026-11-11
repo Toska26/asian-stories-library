@@ -42,63 +42,63 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "韩宁",
+      "nombre": "Han Ning",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "阿来",
+      "nombre": "A Lai",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "任飞",
+      "nombre": "Ren Fei",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "丁岚",
+      "nombre": "Ding Lan",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "蒋力",
+      "nombre": "Jiang Li",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "小婷",
+      "nombre": "Xiao Ting",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "范志昌",
+      "nombre": "Fan Zhichang",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "哲叔",
+      "nombre": "Zhe Shu",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "徐浩东",
+      "nombre": "Xu Haodong",
       "funcion": [
         "Actor"
       ],
