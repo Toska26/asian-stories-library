@@ -22,5 +22,133 @@
     ]
   },
   "activo": true,
-  "sinopsis": "En una plaza de una ciudad del noreste de China comienzan a producirse una serie de muertes tan extrañas como violentas: un hombre aparece congelado como una escultura de hielo, otro es hallado con las extremidades amputadas y un poderoso personaje local desaparece sin dejar rastro. Lo que parecen sucesos inconexos termina revelando una red de destinos, rencores y sentimientos entrelazados, en una historia criminal sobre personas atrapadas entre la supervivencia, el amor y el odio."
+  "sinopsis": "En una plaza de una ciudad del noreste de China comienzan a producirse una serie de muertes tan extrañas como violentas: un hombre aparece congelado como una escultura de hielo, otro es hallado con las extremidades amputadas y un poderoso personaje local desaparece sin dejar rastro. Lo que parecen sucesos inconexos termina revelando una red de destinos, rencores y sentimientos entrelazados, en una historia criminal sobre personas atrapadas entre la supervivencia, el amor y el odio.",
+  "personas": [
+    {
+      "nombre": "Chen Hong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Juan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Yang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "He Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hao Fang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hao Peng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lao Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Ping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Liye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hao Jie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Dewu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Changyou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ma Xiangqian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dong Ge",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wan Xiuhua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Guo Limei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Zong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Sheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
