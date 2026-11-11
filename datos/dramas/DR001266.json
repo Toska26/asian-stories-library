@@ -22,5 +22,105 @@
     ]
   },
   "activo": true,
-  "sinopsis": "La serie sigue a un equipo de médicos del Hospital Binhai que viaja al Tíbet para apoyar al hospital local. A través de Su Ke, Chang Jiang, Liang Wei y Fang Ming, retrata los retos de la atención sanitaria en la meseta, la creación de especialidades médicas como neurocirugía y la formación de profesionales locales mediante la colaboración entre hospitales y la transmisión de experiencia entre generaciones. Sus historias muestran tanto las dificultades del trabajo médico en zonas remotas como los vínculos que nacen entre sanitarios y pacientes."
+  "sinopsis": "La serie sigue a un equipo de médicos del Hospital Binhai que viaja al Tíbet para apoyar al hospital local. A través de Su Ke, Chang Jiang, Liang Wei y Fang Ming, retrata los retos de la atención sanitaria en la meseta, la creación de especialidades médicas como neurocirugía y la formación de profesionales locales mediante la colaboración entre hospitales y la transmisión de experiencia entre generaciones. Sus historias muestran tanto las dificultades del trabajo médico en zonas remotas como los vínculos que nacen entre sanitarios y pacientes.",
+  "personas": [
+    {
+      "nombre": "Chang Jiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Su Ke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Zhicheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qu Zhen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gesang Zhuoma",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Lin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luosong Gele",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Guo Xiaodong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liang Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Su Ke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Su Huilan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Xin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
