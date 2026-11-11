@@ -1,0 +1,41 @@
+{
+  "codigo": "DR001249",
+  "bl": false,
+  "titulo": "In My Prime",
+  "tituloOriginal": "生逢其时",
+  "alias": [
+    "Sheng Feng Qi Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-03",
+  "generos": [
+    "Drama",
+    "Familiar",
+    "Romance"
+  ],
+  "sinopsis": "En una localidad industrial del norte de China durante los años noventa, dos familias ven cómo sus vidas quedan entrelazadas por un intercambio de bebés ocurrido en un hospital. A lo largo de los años, sus hijos y sus familias deberán afrontar las consecuencias de aquel secreto.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Px5k0X_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/a2d/a2d9c0fd6720cd8a8684dd52ef32deb8.mp4"
+      },
+      {
+        "titulo": "Tráiler oficial — iQIYI",
+        "url": "https://www.youtube.com/watch?v=HigS9gt59eM"
+      }
+    ]
+  },
+  "activo": true
+}
