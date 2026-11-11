@@ -1,0 +1,73 @@
+{
+  "codigo": "DR001245",
+  "bl": false,
+  "titulo": "The Mad Monk: Reincarnation of the Dragon",
+  "tituloOriginal": "济公之降龙现世",
+  "alias": [
+    "Ji Gong Zhi Xiang Long Xian Shi",
+    "Huo Fo Ji Gong Zhi Xiang Long Xian Shi",
+    "活佛济公之降龙现世"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001245",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 22,
+  "duracion": 14,
+  "estado": "finalizado",
+  "estreno": "2026-08-13",
+  "generos": [
+    "Fantasía",
+    "Drama",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Gong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Guang Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Yuzhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Luo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ji Gong",
+        "Zhao Yuzhu"
+      ]
+    }
+  ],
+  "sinopsis": "Hace mil años, el rey demonio Shixin fue derrotado por el Arhat Domador del Dragón. Su esposo, el señor Duan, terminó convirtiéndose en el demonio Jialou y juró vengarse. Tras una conspiración celestial, el Arhat renace como Li Xiuyuan y conoce a Zhao Yuzhu, con quien comparte un vínculo destinado desde hace mil años. Cuando las fuerzas demoníacas amenazan Lin'an, Li Xiuyuan renuncia a su vida amorosa, recupera su verdadera identidad y se convierte en Ji Gong. Mientras Jialou intenta resucitar a Yuzhu para utilizarla contra él, Ji Gong deberá enfrentarse a una nueva amenaza que pone en peligro los tres reinos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0JYL_4f.jpg"
+    ]
+  }
+}
