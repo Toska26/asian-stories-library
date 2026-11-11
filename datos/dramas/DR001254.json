@@ -29,49 +29,49 @@
   "activo": true,
   "personas": [
     {
-      "nombre": "领领",
+      "nombre": "Lingling",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "曼妮",
+      "nombre": "Manni",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "郝南",
+      "nombre": "Hao Nan",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "李历山",
+      "nombre": "Li Lishan",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "宋春生",
+      "nombre": "Song Chunsheng",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "周总",
+      "nombre": "Zhou Zong",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "冰冰",
+      "nombre": "Bingbing",
       "funcion": [
         "Actor"
       ],
