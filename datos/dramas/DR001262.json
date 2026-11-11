@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001262",
+  "bl": false,
+  "titulo": "A Prophet",
+  "tituloOriginal": "我不是大师",
+  "alias": [
+    "Wo Bu Shi Da Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-24",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Ar3RRZ_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/22f/22f70a9ed648f71027f1bffaa4885868.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
