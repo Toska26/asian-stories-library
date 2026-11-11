@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001265",
+  "bl": false,
+  "titulo": "Irreplaceable",
+  "tituloOriginal": "无可替代",
+  "alias": [
+    "Wu Ke Ti Dai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-09-28",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ONg01x_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/7cf/7cfc37ec1434434ea9e2c926984fd996.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
