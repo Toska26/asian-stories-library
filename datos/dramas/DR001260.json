@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001260",
+  "bl": false,
+  "titulo": "Spring of the Blade",
+  "tituloOriginal": "一瓯春",
+  "alias": [
+    "Yi Ou Chun"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "estado": "finalizado",
+  "estreno": "2026-09-17",
+  "generos": [
+    "Histórico",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "沈润",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "谢清圆 / 陈云芽",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "李从心",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "谢清容",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "沈润",
+        "谢清圆"
+      ]
+    }
+  ],
+  "sinopsis": "谢清圆, hija de una concubina de la familia Xie, pierde a su madre y crece lejos de la casa familiar. Años después regresa decidida a descubrir la verdad sobre la muerte de su madre. Allí se reencuentra con 沈润, que ha ascendido hasta convertirse en un alto funcionario. Entre intrigas familiares y conflictos políticos, ambos recuperan la confianza y se unen para buscar justicia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/KnbgLX_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/03e/03e6590e4c076c4f58de4bf85811d640.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
