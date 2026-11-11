@@ -27,6 +27,83 @@
         "Actor"
       ],
       "principal": true
+    },
+    {
+      "nombre": "沈玉儿",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "陈小香",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "孟志道",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "孟鑫荣",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "金奎",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "殷庭如",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "何英年",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "童柏龄",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "吴庆春",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "徐青山 / 徐小山",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "范小云",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
   "sinopsis": "孟金福, un joven de origen humilde y talento inicialmente modesto, entra en el mundo de la ópera tradicional china. A través de años de aprendizaje, esfuerzo y cambios históricos, pasa de aprendiz a convertirse en una figura destacada de la escena teatral.",
