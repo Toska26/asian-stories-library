@@ -28,5 +28,56 @@
     ]
   },
   "activo": true,
-  "sinopsis": "Xu Chi, marcada por el trauma de la muerte de su madre, entra en el competitivo mundo de la consultoría empresarial decidida a construir una vida en la que nadie pueda reemplazarla. Allí conoce a Ye Xinzhi, un joven socio de una prestigiosa firma que regresa al sector con un plan secreto de venganza tras haber sido perjudicado en el pasado. Entre proyectos exigentes, rivalidades profesionales y juegos de estrategia, ambos pasan de desconfiar el uno del otro a convertirse en aliados, mientras crecen profesionalmente y desarrollan una relación cada vez más estrecha."
+  "sinopsis": "Xu Chi, marcada por el trauma de la muerte de su madre, entra en el competitivo mundo de la consultoría empresarial decidida a construir una vida en la que nadie pueda reemplazarla. Allí conoce a Ye Xinzhi, un joven socio de una prestigiosa firma que regresa al sector con un plan secreto de venganza tras haber sido perjudicado en el pasado. Entre proyectos exigentes, rivalidades profesionales y juegos de estrategia, ambos pasan de desconfiar el uno del otro a convertirse en aliados, mientras crecen profesionalmente y desarrollan una relación cada vez más estrecha.",
+  "personas": [
+    {
+      "nombre": "Xu Chi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Xinzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Long",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bu Tianna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Heng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Rui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
 }
