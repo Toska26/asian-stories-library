@@ -1,0 +1,57 @@
+{
+  "codigo": "DR001258",
+  "bl": false,
+  "titulo": "The Restraint",
+  "tituloOriginal": "故纵",
+  "alias": [
+    "Gu Zong"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "WDR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 64,
+  "estado": "finalizado",
+  "estreno": "2026-09-10",
+  "generos": [
+    "Romance",
+    "Suspense",
+    "Crimen"
+  ],
+  "personas": [
+    {
+      "nombre": "钟心宁 / 顾佳雯",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "秦棕",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "周宏杰",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "林雄",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "钟心宁, única superviviente de la masacre de su familia, adopta la identidad de 顾佳雯 y se infiltra en la empresa de 林雄 para vengarse y colaborar con la policía. Allí conoce a 秦棕, hijo adoptivo de su enemigo, que descubre su verdadera identidad y, en lugar de delatarla, comienza a ayudarla en secreto.",
+  "activo": true
+}
