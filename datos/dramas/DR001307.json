@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001307",
+  "bl": false,
+  "titulo": "Erlong Lake: Blossoms of Hometown Dreams 3",
+  "tituloOriginal": "二龙湖·“村”暖花开3",
+  "alias": [
+    "Er Long Hu Cun Nuan Hua 3",
+    "Cun Nuan Hua Kai 3"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001305",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 24,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2026-07-17",
+  "finalizacion": "2026-07-30",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Vida rural",
+    "Revitalización rural",
+    "Desarrollo comunitario",
+    "Amor",
+    "Boda"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Hao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Minghan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huang Yongquan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qin Shuyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Chenggong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Ruifang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Chunsheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Director Qu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Hao",
+        "Li Minghan"
+      ]
+    }
+  ],
+  "sinopsis": "Zhang Hao se prepara para pedirle matrimonio a Li Minghan, pero la llegada de Qin Shuyu, una nueva funcionaria del pueblo, altera sus planes y provoca diferencias sobre cómo impulsar el desarrollo de la comunidad. Entre rumores, desencuentros y una separación temporal, Zhang Hao y Li Minghan deberán reafirmar sus sentimientos. La historia culmina con su reconciliación y su boda en el pueblo, mientras los vecinos continúan trabajando por el futuro de Erlong Lake.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Lwk3pg_4f.jpg"
+    ]
+  },
+  "activo": true
+}
