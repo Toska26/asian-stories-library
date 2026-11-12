@@ -500,5 +500,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia china que agrupa las producciones de la marca Erlonghu: la serie Erlong Lake: Blossoms of Hometown Dreams, formada por tres temporadas, y la producción independiente The Haoge of Erlonghu: No Rogues Under Heaven. Esta última comparte la marca, pero tiene una historia y personajes propios.",
     "activo": true
+  },
+  {
+    "codigo": "FR000055",
+    "nombre": "Mystic Nine",
+    "pais": [
+      "CN"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia china centrada en las Nueve Puertas de Changsha, formada por The Mystic Nine (2016), cuatro películas derivadas dedicadas a personajes de la serie, la precuela cinematográfica The Mystic Nine: Qing Shan Hai Tang (2022) y la continuación Mystic Nine (2026). Todas estas producciones pertenecen al Universo Daomu Biji.",
+    "activo": true
   }
 ]
