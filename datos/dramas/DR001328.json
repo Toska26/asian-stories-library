@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001328",
+  "bl": false,
+  "titulo": "Zhang Jian: The Legendary Entrepreneur",
+  "tituloOriginal": "江海潮生",
+  "alias": [
+    "Jiang Hai Chao Sheng"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-20",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Biográfico"
+  ],
+  "tags": [
+    "Biografía",
+    "Emprendimiento",
+    "Educación",
+    "Historia moderna china"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Jian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Jingfu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Mengsheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Daoyin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Drama biográfico sobre Zhang Jian, empresario, industrial y educador de finales de la dinastía Qing y comienzos de la República. La historia recorre sus iniciativas industriales y educativas, incluida la creación de la empresa textil Dasheng, y su empeño por modernizar su región.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0XZwJ_4f.jpg"
+    ]
+  },
+  "activo": true
+}
