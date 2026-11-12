@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001325",
+  "bl": false,
+  "titulo": "Blossoms of Power",
+  "tituloOriginal": "百花杀",
+  "alias": [
+    "Bai Hua Sha"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-09",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico",
+    "Político"
+  ],
+  "tags": [
+    "Venganza",
+    "Realeza",
+    "Intrigas palaciegas",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Shen Xihe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Huayong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Xihe",
+        "Xiao Huayong"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Wo Hua Kai Hou Bai Hua Sha (我花开后百花杀), de Jin Huang (锦凰).",
+  "sinopsis": "Tras la masacre de su familia, Gu Qingzhi regresa bajo la identidad de la princesa de una comandancia, Shen Xihe. Decidida a controlar su propio destino y vengarse, se cruza con el príncipe heredero Xiao Huayong, cuya apariencia enfermiza oculta una mente estratégica. Ambos unen fuerzas en medio de las luchas por el poder.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73AZDB_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/0b9/0b97be8b4b408a3a0780a32e0a143a7f.mp4"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Tráilers y clips — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/le1lbx64do19qal/v4102u8qles-Trailer_28%3A_BLOSSOMS_OF_POWER"
+      }
+    ]
+  },
+  "activo": true
+}
