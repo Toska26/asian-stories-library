@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001299",
+  "bl": false,
+  "titulo": "Crazy Key",
+  "tituloOriginal": "疯狂的钥匙",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/x4vJpX_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Feng Kuang De Yao Shi"
+  ]
+}
