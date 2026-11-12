@@ -1,0 +1,44 @@
+{
+  "codigo": "DR001277",
+  "bl": true,
+  "titulo": "My Secret Boyfriends",
+  "tituloOriginal": "แฟนลับ ครับผม",
+  "alias": [
+    "แฟนลับครับผม",
+    "My Secret Boyfriend"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 49,
+  "estado": "en_emision",
+  "estreno": "2026-11-11",
+  "generos": [
+    "Romance",
+    "BL"
+  ],
+  "origen": {
+    "tipo": "Webtoon",
+    "titulo": "Secret Relationships",
+    "tituloOriginal": "비밀사이",
+    "autor": "McQueen STUDIO"
+  },
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lBBjEL_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/32f/32f14bac32a5cce63388a2ec80598c08.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
