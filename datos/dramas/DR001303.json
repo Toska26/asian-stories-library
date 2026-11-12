@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001303",
+  "bl": false,
+  "titulo": "Where Colors Dream",
+  "tituloOriginal": "画梦录",
+  "alias": [
+    "Hua Meng Lu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001303",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-07-02",
+  "finalizacion": "2026-07-02",
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Drama"
+  ],
+  "tags": [
+    "República de China",
+    "Shanghai",
+    "Falsificación de arte",
+    "Tesoros nacionales",
+    "Protagonistas femeninas"
+  ],
+  "personas": [
+    {
+      "nombre": "Xu Yanzhen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Xinyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Diao Liangsheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "She Biyun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Song Meilan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xue Yin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gu Dakun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el Shanghai de la época republicana, Xu Yanzhen, una joven huérfana con un extraordinario talento para la pintura y la falsificación, conoce a Jiang Xinyu, la contable jefe del banco Ronghui, que ha sido víctima de una conspiración. Ambas forman una alianza para frustrar el plan de vender en el extranjero una valiosa pintura considerada tesoro nacional. Mediante una falsificación perfecta y un arriesgado intercambio, deberán enfrentarse a poderosos adversarios y desentrañar las intrigas que amenazan su misión.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOmnEB_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer oficial",
+        "url": "https://wetv.vip/en/play/mmjqml9pfhulzb8/v4102e0jp02-Trailer_%7C_Where_Colors_Dream"
+      }
+    ]
+  },
+  "activo": true
+}
