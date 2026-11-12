@@ -1,0 +1,149 @@
+{
+  "codigo": "DR001295",
+  "bl": false,
+  "titulo": "Awaken",
+  "tituloOriginal": "醒来",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-26",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/oQLJez_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Xing Lai"
+  ],
+  "episodios": 22,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Chen Kailai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jin Bao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Du Huangqiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Su Men",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Kexi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Musheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Qian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Moqun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qu Yang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Xiaoxian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cui Enxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cang Guanglian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tao Dachun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Xiaoguang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zheng Jiaxun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jing Zuo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uncle Wang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el invierno de 1941, el aprendiz de fotógrafo Chen Kailai recibe un carrete que contiene información sobre el proyecto japonés Sleeping Plan. Su viaje a Shanghái lo lleva a cruzarse con Jin Bao, que aparenta ser bailarina pero trabaja como agente. Ambos se ven envueltos en la lucha clandestina contra la ocupación japonesa y el régimen colaboracionista."
+}
