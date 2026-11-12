@@ -1,0 +1,32 @@
+{
+  "codigo": "DR001282",
+  "bl": false,
+  "titulo": "War of Thorns",
+  "tituloOriginal": "玫瑰战争",
+  "alias": [
+    "Mei Gui Zhan Zheng"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 44,
+  "estado": "en_emision",
+  "estreno": "2026-11-06",
+  "generos": [
+    "Drama",
+    "Misterio"
+  ],
+  "sinopsis": "Siete años después de la aparente muerte de la estrella Kwan Tsz-ying, su amiga Ha Mo-sheung encuentra un diario que la lleva a reunir a antiguas compañeras. A través de una película, salen a la luz viejas traiciones y secretos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBKRq_4f.jpg"
+    ]
+  },
+  "activo": true
+}
