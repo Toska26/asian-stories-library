@@ -1,0 +1,75 @@
+{
+  "codigo": "DR001311",
+  "bl": false,
+  "titulo": "The Mystic Nine Side Story: Tiger Bones Plum Blossom",
+  "tituloOriginal": "老九门番外之虎骨梅花",
+  "alias": [
+    "Tiger Bones Plum Blossom",
+    "Hu Gu Mei Hua",
+    "Murders in the Xie Mansion"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 3
+  },
+  "universo": "UN000022",
+  "duracion": 88,
+  "estado": "finalizado",
+  "estreno": "2016-11-10",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Historia lateral",
+    "Xie Jiu",
+    "Zhang Rishan",
+    "Investigación"
+  ],
+  "personas": [
+    {
+      "nombre": "Xie Jiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Rishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qiu Shuokang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dao Shu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cuando el anciano sirviente de la familia Xie muere en circunstancias violentas durante el cumpleaños de su señor, Xie Jiu y el ayudante Zhang Rishan comienzan a investigar el caso. Las pistas los conducen a una serie de asesinatos y a un secreto enterrado desde hace años, marcado por el misterioso símbolo de la flor de ciruelo y huesos de tigre.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O5Ez3f.jpg"
+    ]
+  },
+  "activo": true
+}
