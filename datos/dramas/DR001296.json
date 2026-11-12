@@ -1,0 +1,136 @@
+{
+  "codigo": "DR001296",
+  "bl": false,
+  "titulo": "The Early Spring",
+  "tituloOriginal": "早春晴朗",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 2,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-26",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBZyW7_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Zao Chun Qing Lang"
+  ],
+  "serie": "SR001296",
+  "personas": [
+    {
+      "nombre": "Shang Zhitao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luan Nian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sun Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sun Yuanzhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Mi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zang Yao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liang Xin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tan Mian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Lei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alex",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kitty",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tu Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xin Zhaozhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shang Zhitao",
+        "Luan Nian"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Lu Mi",
+        "Tu Ming"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Shang Zhitao comienza a trabajar en una agencia de publicidad bajo las órdenes de Luan Nian, un jefe exigente y distante. Entre desafíos profesionales, separaciones y reencuentros, ambos se enamoran y maduran."
+}
