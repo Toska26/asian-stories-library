@@ -1,0 +1,131 @@
+{
+  "codigo": "DR001317",
+  "bl": false,
+  "titulo": "Overdo",
+  "tituloOriginal": "这一秒过火",
+  "alias": [
+    "Zhe Yi Miao Guo Huo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000056",
+    "orden": 3
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 33,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-19",
+  "finalizacion": "2026-08-05",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Melodrama"
+  ],
+  "tags": [
+    "Época republicana",
+    "Reencuentro",
+    "Amor y odio",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Murong Qingyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ren Susu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Mulan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Murong Qingyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hai Tangqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ye Zhihong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Rongzhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Jinzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Boze",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Mingshu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Murong Qingyi",
+        "Ren Susu"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Ru Guo Zhe Yi Miao, Wo Mei Yu Jian Ni (如果这一秒，我没遇见你), de Fei Wo Si Cun; continuación literaria de Bi Zhou Chen.",
+  "sinopsis": "En el Shanghái de la época republicana, Murong Qingyi, hijo menor de una familia militar, crece marcado por un intercambio de bebés y los abusos de su padre adoptivo. Tras escapar, Ren Susu lo ayuda, pero su encuentro provoca la ruina de la familia de ella. Años después vuelven a encontrarse y se enamoran, aunque Susu finge su muerte para proteger a otros. Tres años más tarde regresa con otra identidad y comprometida con el hermano de Qingyi, reavivando heridas, resentimientos y un amor que ambos creían perdido.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3AW5V_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/ba0/ba08e773374e74b0609b9668df3cd163.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
