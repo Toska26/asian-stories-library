@@ -1,0 +1,106 @@
+{
+  "codigo": "DR001308",
+  "bl": false,
+  "titulo": "The Haoge of Erlonghu: No Rogues Under Heaven",
+  "tituloOriginal": "二龙湖浩哥之天下无赖",
+  "alias": [
+    "Er Long Hu Hao Ge Zhi Tian Xia Wu Lai",
+    "The Haoge of Erlonghu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2025,
+  "tipo": "DR",
+  "episodios": 24,
+  "duracion": 15,
+  "estado": "finalizado",
+  "estreno": "2025-11-20",
+  "finalizacion": "2025-11-22",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Comedia criminal",
+    "Cobro de deudas",
+    "Estafas",
+    "Pandillas",
+    "Acción"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Tianba",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Taozi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dazhuang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Feng Ge",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Zong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shaobin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lan Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [],
+  "relaciones": [
+    {
+      "tipo": "Producción relacionada",
+      "codigo": "SR001305",
+      "historia": "Erlong Lake: Blossoms of Hometown Dreams",
+      "descripcion": "Producción vinculada a la marca Erlonghu, pero con argumento y personajes independientes; no forma parte de la serie de tres temporadas."
+    }
+  ],
+  "sinopsis": "Zhang Tianba dirige una empresa de cobro de deudas junto a Taozi y Dazhuang. Tras descubrir que Xiao Wei está implicada en una estafa matrimonial, el equipo termina incorporándola y afronta una sucesión de casos que los enfrenta a empresas rivales y prestamistas peligrosos. Cuando el conflicto con una organización criminal se intensifica, Zhang Tianba tendrá que proteger a Xiao Wei y desmantelar la red que amenaza a todos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/AB0Qzv_4f.jpg"
+    ]
+  },
+  "activo": true
+}
