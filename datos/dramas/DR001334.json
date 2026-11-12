@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001334",
+  "bl": false,
+  "titulo": "Royal Betrothal",
+  "tituloOriginal": "御廷谣",
+  "alias": [
+    "Yu Ting Yao",
+    "Jiang Shan Wei Pin (江山为聘)"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-28",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico",
+    "Político"
+  ],
+  "tags": [
+    "Corte imperial",
+    "Exámenes imperiales",
+    "Intriga",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Meng Tinghui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ying Gua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Meng Tinghui",
+        "Ying Gua"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Wu Huang Wan Sui Wan Wan Sui (吾皇万岁万万岁), de Xing Yanyan (行烟烟).",
+  "sinopsis": "La huérfana Meng Tinghui aspira a cambiar su destino mediante los exámenes imperiales. Tras conocer al joven emperador Ying Gua, ambos colaboran para combatir a los bandidos y la corrupción. Ya en la capital, ella afronta trampas políticas y demuestra su talento, mientras la relación entre ambos pasa de la alianza entre soberano y funcionaria a un vínculo amoroso.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JBd4wX_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios y clips — MangoTV",
+        "url": "https://www.mgtv.com/h/781917"
+      },
+      {
+        "titulo": "Episodios y clips — iQIYI",
+        "url": "https://www.iq.com/album/%E5%BE%A1%E5%BB%B7%E8%B0%A3-2026-1a7b4mgl9ph?lang=zh_cn"
+      }
+    ]
+  },
+  "activo": true
+}
