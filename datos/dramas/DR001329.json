@@ -1,0 +1,64 @@
+{
+  "codigo": "DR001329",
+  "bl": false,
+  "titulo": "The Forbidden Land",
+  "tituloOriginal": "春日之地",
+  "alias": [
+    "Chun Ri Zhi Di",
+    "Jin Ji Zhi Di (禁忌之地)"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 36,
+  "estado": "finalizado",
+  "estreno": "2026-07-21",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Investigación",
+    "Corrupción",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Chao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Rong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Qiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "origen": "Adaptación de la novela Jinji Zhi Di (禁忌之地), de Zijin Chen (紫金陈).",
+  "sinopsis": "La muerte de un estudiante universitario destapa una red de acoso, abusos y corrupción. A medida que la investigación avanza, salen a la luz secretos que implican a personas e instituciones poderosas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NdeE1A_4f.jpg"
+    ]
+  },
+  "activo": true
+}
