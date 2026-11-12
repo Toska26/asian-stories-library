@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001275",
+  "bl": false,
+  "titulo": "Sword & Silence",
+  "tituloOriginal": "문무",
+  "alias": [
+    "Munmu",
+    "Great King Munmu",
+    "King Mun-mu"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "duracion": 70,
+  "estado": "anunciado",
+  "estreno": "2026-11-14",
+  "generos": [
+    "Histórico",
+    "Drama",
+    "Político"
+  ],
+  "personas": [
+    {
+      "nombre": "Kim Beop-min",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yeon Gaesomun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Chun-chu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kim Yu-sin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Drama histórico ambientado en la lucha por la unificación de los Tres Reinos de Corea. El príncipe Kim Beop-min y figuras políticas y militares como Kim Chun-chu y Kim Yu-sin se enfrentan a los conflictos entre Silla, Goguryeo, Baekje y la dinastía Tang.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBy3g_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/db5/db5aaf4d715a4bf8247fef10ee7698ca.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
