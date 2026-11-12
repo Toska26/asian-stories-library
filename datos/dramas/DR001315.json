@@ -1,0 +1,135 @@
+{
+  "codigo": "DR001315",
+  "bl": false,
+  "titulo": "Mystic Nine",
+  "tituloOriginal": "九门",
+  "alias": [
+    "Jiu Men",
+    "The Mystic Nine 2",
+    "Lao Jiu Men 2",
+    "The Treasured Bajia Book"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 7
+  },
+  "universo": "UN000022",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-30",
+  "finalizacion": "2026-08-15",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Secuela",
+    "Nueve Puertas",
+    "Época republicana"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Qishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Laogou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huo Xiangu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qi Tiezui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yin Xinyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Er Yuehong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ban Jie Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Pi A Si",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hei Bei Lao Liu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie Jiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Qishan",
+        "Yin Xinyue"
+      ]
+    }
+  ],
+  "sinopsis": "La desaparición misteriosa de la unidad militar 401 lleva a Zhang Qishan a investigar una conspiración relacionada con un secreto centenario. Junto a Wu Laogou, Huo Xiangu, Qi Tiezui y los demás miembros de las Nueve Puertas, se adentra en un lugar lleno de trampas y fenómenos inexplicables, mientras antiguas rivalidades y decisiones difíciles ponen en peligro el destino de Changsha.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3ovJZ_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/cbd/cbd35b795565394c06635007e20f1583.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
