@@ -1,0 +1,68 @@
+{
+  "codigo": "DR001271",
+  "bl": false,
+  "titulo": "Let's Go",
+  "tituloOriginal": "走马上任",
+  "alias": [
+    "Zou Ma Shang Ren"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 31,
+  "estado": "en_emision",
+  "estreno": "2026-11-02",
+  "generos": [
+    "Comedia",
+    "Histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Wang Laowu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jia Guitian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huang Jinhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mu Chengying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Xiao'e",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En la China de la época republicana, Jia Guitian convence a Wang Laowu, un veterinario cuyo aspecto es sorprendentemente parecido al de un comandante enfermo, para que ocupe su lugar como magistrado de Fuhu. En medio de las rivalidades entre distintas facciones, Wang Laowu tendrá que desenvolverse en un mundo político lleno de intrigas y situaciones inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PexZw0_4f.jpg"
+    ]
+  }
+}
