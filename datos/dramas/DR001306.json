@@ -117,5 +117,9 @@
       "https://i.mydramalist.com/5vqRwB_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "franquicia": {
+    "codigo": "FR000054",
+    "orden": 2
+  }
 }
