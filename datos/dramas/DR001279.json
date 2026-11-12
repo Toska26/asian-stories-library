@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001279",
+  "bl": false,
+  "titulo": "Story Starts From Bed",
+  "tituloOriginal": "有愛我們床上談",
+  "alias": [
+    "You Ai Wo Men Chuang Shang Tan",
+    "Love Talks"
+  ],
+  "pais": [
+    "TW"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "anunciado",
+  "estreno": "2026-11-28",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Xiao-zan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Guang-xian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Xiao-zan",
+        "Lin Guang-xian"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tras sufrir decepciones amorosas, Li Xiao-zan y Lin Guang-xian recurren a aplicaciones de citas y aseguran que no buscan compromisos. Cuando se conocen, nace una conexión que los obliga a preguntarse si pueden volver a confiar en el amor.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/e/e2/Love_Talks.webp"
+    ]
+  },
+  "activo": true
+}
