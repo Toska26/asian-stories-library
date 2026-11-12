@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001326",
+  "bl": false,
+  "titulo": "Key to the Phoenix Heart",
+  "tituloOriginal": "雀骨",
+  "alias": [
+    "Que Gu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-07-11",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Matrimonio concertado",
+    "Intriga política",
+    "General",
+    "Identidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Xiao Wuyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Jiayu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xiao Wuyi",
+        "Xie Jiayu"
+      ]
+    }
+  ],
+  "sinopsis": "Un general reservado y la ingeniosa hija del Gran Tutor quedan unidos por un matrimonio concertado. Lo que comienza como una alianza impuesta se transforma en confianza y cooperación cuando ambos descubren secretos que amenazan a sus familias y al reino.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0KXDb_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios, tráilers y clips — iQIYI",
+        "url": "https://www.iq.com/album/%E9%9B%80%E9%AA%A8-2026-25lwyc1zim1?lang=zh_cn"
+      }
+    ]
+  },
+  "activo": true
+}
