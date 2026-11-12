@@ -17,9 +17,9 @@
   "temporada": 1,
   "episodios": 5,
   "duracion": 23,
-  "estado": "en_emision",
+  "estado": "finalizado",
   "estreno": "2026-10-08",
-  "finalizacion": null,
+  "finalizacion": "2026-11-05",
   "generos": ["Romance", "Drama"],
   "tags": [
     "BL",
