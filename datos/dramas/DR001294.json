@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001294",
+  "bl": false,
+  "titulo": "Remnants of Gold",
+  "tituloOriginal": "金色",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-25",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l026oN_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/6af/6af8cbc980df656d8574530389a7e7a6.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Jin Se"
+  ],
+  "episodios": 13,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Zhang Luyao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pu Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Hou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ban Cha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ping Ping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Fang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tie Futu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qin Monü",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tang Zheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La aparición misteriosa de trescientos mil taeles de oro en el desierto desencadena una investigación que pone a prueba el honor y los deseos de quienes participan en ella. Al mismo tiempo, una mujer cuya familia fue asesinada y que es inmune a los venenos regresa para vengarse."
+}
