@@ -20,5 +20,8 @@
   "activo": true,
   "alias": [
     "Feng Kuang De Yao Shi"
-  ]
+  ],
+  "franquicia": {
+    "codigo": "FR000053"
+  }
 }
