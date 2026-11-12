@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001297",
+  "bl": false,
+  "titulo": "See You Later... Maybe",
+  "tituloOriginal": "囧徒之预演告别",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-31",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JBQ6RJ_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Jiong Tu Zhi Yu Yan Gao Bie"
+  ],
+  "episodios": 15,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Fang Haowen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bie Fan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "He Jiahuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rong Sihai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El escritor Fang Haowen pierde popularidad después de rechazar a Jin Furong. Para recuperar su fama, su agente organiza un falso suicidio retransmitido, pero la fan Bie Fan interrumpe el plan. Ambos terminan formando el dúo conocido como Jiong Tu."
+}
