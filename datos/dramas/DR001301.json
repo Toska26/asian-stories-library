@@ -20,5 +20,8 @@
   "activo": true,
   "alias": [
     "Xi Ju Zhi Wang"
-  ]
+  ],
+  "franquicia": {
+    "codigo": "FR000053"
+  }
 }
