@@ -1,0 +1,27 @@
+{
+  "codigo": "DR001285",
+  "bl": false,
+  "titulo": "The Leftovers Season 3",
+  "tituloOriginal": "幸存者",
+  "alias": [
+    "Xing Cun Zhe"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2027,
+  "tipo": "DR",
+  "serie": "SR001281",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "anunciado",
+  "generos": [
+    "Ciencia ficción",
+    "Crimen",
+    "Drama"
+  ],
+  "activo": true
+}
