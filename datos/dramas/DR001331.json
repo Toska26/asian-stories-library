@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001331",
+  "bl": false,
+  "titulo": "Wind-Born Warriors",
+  "tituloOriginal": "兵自风中来",
+  "alias": [
+    "Bing Zi Feng Zhong Lai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-23",
+  "generos": [
+    "Drama",
+    "Bélico",
+    "Militar"
+  ],
+  "tags": [
+    "Ejército",
+    "Entrenamiento",
+    "Transformación militar"
+  ],
+  "personas": [
+    {
+      "nombre": "Guo Zijian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liang Hong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Durante unas maniobras militares, Guo Zijian se rebela contra los ejercicios meramente formales y exige una prueba realista. Tras cometer errores y atravesar reveses profesionales, regresa al ejército para dirigir una nueva unidad de combate y demostrar su capacidad en operaciones modernas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0X1px_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios y clips — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/xmasij0g7vo9dmd/x4102p245d9"
+      }
+    ]
+  },
+  "activo": true
+}
