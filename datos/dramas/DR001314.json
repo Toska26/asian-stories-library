@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001314",
+  "bl": false,
+  "titulo": "The Mystic Nine: Qing Shan Hai Tang",
+  "tituloOriginal": "老九门之青山海棠",
+  "alias": [
+    "Lao Jiu Men Zhi Qing Shan Hai Tang",
+    "The Mystic Nine: Begonia from Qingshan"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2022,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 6
+  },
+  "universo": "UN000022",
+  "duracion": 74,
+  "estado": "finalizado",
+  "estreno": "2022-02-10",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Suspense",
+    "Thriller"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Precuela",
+    "Película",
+    "Zhang Qishan",
+    "Er Yuehong",
+    "Época republicana"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Qishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Er Yuehong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zuo Qianzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ganger Hong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Rishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yan Sanxing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En la época republicana, el joven Zhang Qishan llega a Changsha marcado por los conflictos de su familia y el odio hacia quienes amenazan su tierra. Allí conoce a Er Yuehong, un hábil artista marcial. Juntos se enfrentan al señor de la guerra Zuo Qianzhi, descubren el origen de una criatura misteriosa y luchan para proteger la ciudad y a sus habitantes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/k2kjr_4f.jpg"
+    ]
+  },
+  "activo": true
+}
