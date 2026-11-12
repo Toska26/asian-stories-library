@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001300",
+  "bl": false,
+  "titulo": "Babel Tower",
+  "tituloOriginal": "通天塔",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/qYVNpP_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Tong Tian Ta"
+  ]
+}
