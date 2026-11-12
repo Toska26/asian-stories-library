@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001272",
+  "bl": false,
+  "titulo": "When I Meet the Moon",
+  "tituloOriginal": "折月亮",
+  "alias": [
+    "Zhe Yue Liang",
+    "Folding Moon"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-05",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Yun Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fu Shize",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yun Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yin Yunyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yun Li",
+        "Fu Shize"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Yun Ye",
+        "Yin Yunyi"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Yun Li, una joven con ansiedad social, se traslada a Nanwu para cursar sus estudios de posgrado y vuelve a encontrarse con Fu Shize, un antiguo prodigio al que conoció en el pasado. La cercanía entre ambos despierta sentimientos que se ven condicionados por las experiencias que los separaron; cuando ella regresa del extranjero, él intenta recuperar su relación.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zvBZPd_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/575/575d49ac14b32e173fcac29a4a2aef20.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
