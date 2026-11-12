@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001319",
+  "bl": false,
+  "titulo": "Cases Between Us",
+  "tituloOriginal": "京城奇探",
+  "alias": [
+    "Jing Cheng Qi Tan"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 19,
+  "estado": "finalizado",
+  "estreno": "2026-07-05",
+  "finalizacion": "2026-07-18",
+  "generos": [
+    "Misterio",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Época republicana",
+    "Investigación criminal",
+    "Detectives"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhao Shaoshang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuan Hong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Wan'er",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ge Fan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liang Can",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el Pekín de la época republicana, dos jóvenes con experiencias y formaciones muy distintas, Zhao Shaoshang y Yuan Hong, unen sus capacidades para investigar una sucesión de casos. A medida que resuelven misterios y se enfrentan a los desafíos de una sociedad convulsa, construyen una sólida alianza como detectives.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXpnNv_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/b28/b28d9123c8c2bb408428a90d5598906f.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
