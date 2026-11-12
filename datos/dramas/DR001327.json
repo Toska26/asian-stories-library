@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001327",
+  "bl": false,
+  "titulo": "Xiao Fang",
+  "tituloOriginal": "小芳",
+  "alias": [
+    "Xiao Fang Chu Jia",
+    "小芳出嫁"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-13",
+  "generos": [
+    "Drama",
+    "Familiar",
+    "Comedia"
+  ],
+  "tags": [
+    "Vida rural",
+    "Embarazo",
+    "Matrimonio",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Yang Xiaofang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qi Xiaowei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "origen": "Adaptación de la novela Xiao Fang Chu Jia (小芳出嫁), de Yi Bei (伊北).",
+  "sinopsis": "Yang Xiaofang y su vecino Qi Xiaowei esperan un hijo antes de casarse. Cuando las dos familias no logran ponerse de acuerdo sobre la boda, Xiaofang decide tomar las riendas de su futuro. Sus citas a ciegas y las reacciones del pueblo desencadenan una serie de situaciones cómicas y conflictos familiares.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYP35A_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Tráiler de episodio — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/ca40b9rhxdk0mlu/k4102m8rrwe-Trailer_EP18%3A_Xiao_Fang"
+      }
+    ]
+  },
+  "activo": true
+}
