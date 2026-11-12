@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001323",
+  "bl": false,
+  "titulo": "Road to Success",
+  "tituloOriginal": "灿如繁星",
+  "alias": [
+    "Can Ru Fan Xing",
+    "Xia Lu (狭路)"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-05",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Deportes",
+    "Juvenil"
+  ],
+  "tags": [
+    "Fútbol",
+    "Educación",
+    "Superación",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Lin Wanxing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Fa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Wanxing",
+        "Wang Fa"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Xia Lu (狭路), de Chang Er (长洱).",
+  "sinopsis": "Tras sufrir un revés personal, Lin Wanxing regresa a su ciudad natal para trabajar en un instituto. Allí conoce a Wang Fa, un entrenador que vuelve del extranjero. Juntos reúnen y entrenan a un equipo de fútbol escolar formado por alumnos con dificultades académicas, ayudándolos a encontrar confianza y a perseguir sus metas dentro y fuera del campo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYPAzo_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/7a0/7a0fcc493dae57a2391d6e3b813bc064.mp4"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios y clips — iQIYI",
+        "url": "https://www.iq.com/album/%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F-2026-2f3498mxwyx?lang=zh_cn"
+      }
+    ]
+  },
+  "activo": true
+}
