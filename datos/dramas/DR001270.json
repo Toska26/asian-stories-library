@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001270",
+  "bl": false,
+  "titulo": "Notes of DNA Appraiser",
+  "tituloOriginal": "鉴定",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 48,
+  "duracion": 20,
+  "estado": "en_emision",
+  "estreno": "2026-11-01",
+  "generos": [
+    "Misterio",
+    "Familiar"
+  ],
+  "personas": [
+    {
+      "nombre": "Xu Ziqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mo Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhu Xinchen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liang Yiwen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Qiuying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Zhendong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Jiali",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lei Yiyao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mo Zhiming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiaoshan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiaoxin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Una joven graduada de medicina, Xu Ziqi, comienza a trabajar en el centro de pruebas de ADN Xin Nuo. Bajo la dirección de Mo Li y junto a Zhu Xinchen, se enfrenta a numerosos casos de pruebas de parentesco que sacan a la luz secretos familiares, dilemas éticos y verdades inesperadas. A través de estas historias, los protagonistas también afrontan su propio crecimiento personal y profesional.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bv3YKL_4f.jpg"
+    ]
+  },
+  "activo": true
+}
