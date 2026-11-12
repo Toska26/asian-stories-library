@@ -1,0 +1,75 @@
+{
+  "codigo": "DR001322",
+  "bl": false,
+  "titulo": "Love For You",
+  "tituloOriginal": "野狗骨头",
+  "alias": [
+    "Ye Gou Gu Tou"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-05",
+  "finalizacion": "2026-07-21",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Amigos de infancia",
+    "Reencuentro",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Chen Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miao Jing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chen Yi",
+        "Miao Jing"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Ye Gou Gu Tou (野狗骨头), de Xiu Tucheng (休屠城).",
+  "sinopsis": "En una pequeña ciudad del sur de China de los años noventa, Chen Yi y Miao Jing se conocen durante la adolescencia y se convierten en el principal apoyo del otro. Una separación marcada por circunstancias dolorosas los aleja durante años; cuando vuelven a encontrarse, deberán afrontar los secretos del pasado y una trama criminal que amenaza a quienes quieren proteger.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABKdXE_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — anuncio de estreno",
+        "url": "https://weibo.com/7919992907/5303488332693703"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "Especial de personajes — MangoTV",
+        "url": "https://w.mgtv.com/b/756916/24490107.html?lang=zh-cn"
+      }
+    ]
+  },
+  "activo": true
+}
