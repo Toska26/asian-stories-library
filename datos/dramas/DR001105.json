@@ -21,8 +21,8 @@
   "temporada": 2,
   "episodios": null,
   "duracion": null,
-  "estado": "anunciado",
-  "estreno": null,
+  "estado": "proximo",
+  "estreno": "2026-12-07",
   "finalizacion": null,
   "generos": [
     "Crimen",
