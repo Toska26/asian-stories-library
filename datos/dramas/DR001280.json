@@ -38,7 +38,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     }
   ],
   "multimedia": {
@@ -46,5 +46,22 @@
       "https://i.mydramalist.com/onQ46z_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Julia",
+        "Patrick"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Julia",
+        "Tristan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Julia regresa a una localidad provincial conocida por sus cultivos de cebolla y vuelve a encontrarse con personas y lugares de su pasado. Allí se reavivan sus sentimientos por Patrick, su primer amor, con quien intenta recuperar una relación que quedó sin resolver. Sin embargo, Tristan aparece dispuesto a confesar lo que siente por ella y abre la posibilidad de un nuevo amor. Julia tendrá que decidir entre retomar una historia del pasado o dar una oportunidad a lo que puede construir en el presente."
 }
