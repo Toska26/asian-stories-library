@@ -1,0 +1,121 @@
+{
+  "codigo": "DR001306",
+  "bl": false,
+  "titulo": "Erlong Lake: Blossoms of Hometown Dreams 2",
+  "tituloOriginal": "二龙湖·“村”暖花开2",
+  "alias": [
+    "Er Long Hu Cun Nuan Hua 2",
+    "Cun Nuan Hua Kai 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2025,
+  "tipo": "DR",
+  "serie": "SR001305",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 28,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2025-08-31",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Vida rural",
+    "Revitalización rural",
+    "Emprendimiento",
+    "Comunidad",
+    "Relaciones familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Hao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huang Yongquan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Minghan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Chenggong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Ruifang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Director Qu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Chunsheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Da Quan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fu Sheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhong Yun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Hao",
+        "Li Minghan"
+      ]
+    }
+  ],
+  "sinopsis": "Zhang Hao continúa implicado en los proyectos y los problemas de su pueblo, donde los planes de desarrollo y las relaciones entre vecinos dan lugar a nuevos enredos. La llegada de Huang Yongquan, una empresaria que se interesa por Zhang Hao e incluso quiere casarse con él, complica su vida sentimental; sin embargo, él sigue vinculado a Li Minghan. Entre malentendidos, iniciativas para mejorar la comunidad y conflictos familiares, los habitantes de Erlong Lake afrontan nuevos retos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5vqRwB_4f.jpg"
+    ]
+  },
+  "activo": true
+}
