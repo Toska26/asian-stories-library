@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001301",
+  "bl": false,
+  "titulo": "King of Comedy",
+  "tituloOriginal": "戏剧之王",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/RB25vz_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Xi Ju Zhi Wang"
+  ]
+}
