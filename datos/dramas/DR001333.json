@@ -1,0 +1,81 @@
+{
+  "codigo": "DR001333",
+  "bl": false,
+  "titulo": "As Scheduled",
+  "tituloOriginal": "如约而至",
+  "alias": [
+    "Ru Yue Er Zhi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 21,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-07-24",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Música"
+  ],
+  "tags": [
+    "Teatro musical",
+    "Artistas",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin Xi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ning Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Feixin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leng Yiheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Qiming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El cantante Jin Xi intenta reinventarse como actor de teatro musical después de un debut interpretativo desastroso. Allí conoce a Ning Jin, una exigente directora que desconfía de los ídolos que cambian de disciplina. Entre ensayos, conflictos y dificultades para salvar el teatro, ambos aprenden a trabajar juntos y se acercan sentimentalmente.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkqOJ2_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios y clips — iQIYI",
+        "url": "https://www.iqiyi.com/a_xymvgbqk21.html"
+      }
+    ]
+  },
+  "activo": true
+}
