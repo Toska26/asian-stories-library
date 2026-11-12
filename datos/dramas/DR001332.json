@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001332",
+  "bl": false,
+  "titulo": "The Shadow Sovereign",
+  "tituloOriginal": "昭阳公主",
+  "alias": [
+    "Zhao Yang Gong Zhu",
+    "Pingyang Gongzhu (平阳公主)"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-07-23",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico",
+    "Político"
+  ],
+  "tags": [
+    "Princesa",
+    "Intriga política",
+    "Adaptación literaria"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Shu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Xiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Shu",
+        "Shen Xiao"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Pingyang Gongzhu (平阳公主), de Qing Wei (青帷).",
+  "sinopsis": "Una princesa de carácter firme y un erudito que asciende en la administración comienzan enfrentados por sus posiciones e intereses. Las intrigas de la corte los obligan a colaborar y, mientras desentrañan una trama política, su relación evoluciona hacia la confianza y el amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkqYq5_4f.jpg"
+    ]
+  },
+  "activo": true
+}
