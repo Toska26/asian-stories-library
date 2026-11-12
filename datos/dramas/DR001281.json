@@ -24,11 +24,99 @@
     "Crimen",
     "Drama"
   ],
-  "sinopsis": "En 2037, una erupción volcánica en Equaland provoca contaminación y escasez de órganos. Lin Zhekang lucha por proteger a su familia mientras una red de tráfico de órganos y secuestros amenaza a los supervivientes.",
+  "sinopsis": "En 2037, una erupción volcánica en la isla ficticia de Equaland provoca una grave contaminación y un aumento de los fallos orgánicos. Lin Zhekang participa en combates clandestinos para conseguir dinero y pagar el trasplante de pulmón de su madre, Lin Aiqin. En el camino conoce a Ren Xin, una médica que busca a su hermana desaparecida, Li Yina. Cuando ambos descubren la magnitud de la red de secuestro y tráfico ilegal de órganos dirigida por el sindicato Straits Hall, unen fuerzas con el conductor Zhang San y el policía Gao Shang para rescatar a los desaparecidos. Mientras tanto, el médico desacreditado Xiao Wenze intenta recuperar sus investigaciones sobre órganos cultivados en laboratorio, y Lin Aiqin guarda un secreto que puede cambiarlo todo.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/8QQ20l_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "personas": [
+    {
+      "nombre": "Lin Zhekang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ren Xin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Aiqin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Wenze",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Guo Longjing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang San",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gao Shang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Yina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gan Ruyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Tianya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Du Hanguang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Zhekang",
+        "Ren Xin"
+      ],
+      "multimedia": []
+    }
+  ]
 }
