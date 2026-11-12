@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001330",
+  "bl": false,
+  "titulo": "Yiran's Silver Linings",
+  "tituloOriginal": "依然的喜事",
+  "alias": [
+    "Yi Ran De Xi Shi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-21",
+  "generos": [
+    "Drama",
+    "Familiar"
+  ],
+  "tags": [
+    "Relación madre e hija",
+    "Vida cotidiana",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Yiran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Huilan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Boxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras ocho años lejos de su ciudad natal, Li Yiran regresa y debe afrontar la distancia que se ha creado entre ella y su madre. Por una serie de circunstancias, ambas terminan acompañando a los vecinos en momentos decisivos de sus vidas, mientras revisan sus propios vínculos, heridas y arrepentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3Wrex_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodios y clips — WeTV",
+        "url": "https://wetv.vip/zh-cn/play/28pm09ycorjv1ts/e4102afpc6l"
+      }
+    ]
+  },
+  "activo": true
+}
