@@ -1,0 +1,107 @@
+{
+  "codigo": "DR001293",
+  "bl": false,
+  "titulo": "Pull Strings",
+  "tituloOriginal": "师兄太稳健",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-19",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkjK1o_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/a19/a19be16e356ec7af4662e553cc740906.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Shi Xiong Tai Wen Jian",
+    "我师兄实在太稳健了"
+  ],
+  "episodios": 30,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Li Changshou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yun Xiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ao Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lan Ling'e",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qi Yuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kuai Si",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yuan Qing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wan Jiangyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiu Wu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiu Jiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Li Changshou renace en un mundo de cultivación y decide sobrevivir evitando los conflictos y actuando siempre con cautela. Sin embargo, sus planes se complican cuando queda envuelto en disputas entre distintas facciones."
+}
