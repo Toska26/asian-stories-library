@@ -1,0 +1,125 @@
+{
+  "codigo": "DR001318",
+  "bl": false,
+  "titulo": "Siege in Fog",
+  "tituloOriginal": "人生若如初相见",
+  "alias": [
+    "Ren Sheng Ruo Ru Chu Xian Jian",
+    "If Time Could Stop the Moment We Met",
+    "Color of Night",
+    "Mi Wu Wei Cheng"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2018,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000056",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 50,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2018-03-02",
+  "finalizacion": "2018-04-27",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Época republicana",
+    "Matrimonio concertado",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Yi Liankai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qin Sang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pan Jianchi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Wangping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yi Jipei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yi Lianshen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Min Hongyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yi Lianyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Murong Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yi Liankai",
+        "Qin Sang"
+      ]
+    }
+  ],
+  "sinopsis": "En la China de la época republicana, Yi Liankai, el tercer hijo de una poderosa familia, se enamora a primera vista de Qin Sang, hija de un alto funcionario. Cuando la familia de ella cae en desgracia, Liankai aprovecha la situación para casarse con ella, aunque Qin Sang sigue enamorada de su antiguo amor, Li Wangping. La convivencia, las intrigas familiares y el regreso de Wangping bajo una nueva identidad pondrán a prueba sus sentimientos en medio de la guerra.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/jWL4df.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/589/589f763b060f8c19170cdf5196e2bf87.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
