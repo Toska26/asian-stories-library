@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001273",
+  "bl": false,
+  "titulo": "The Silent Storm",
+  "tituloOriginal": "谷雨",
+  "alias": [
+    "Gu Yu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-05",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "personas": [
+    {
+      "nombre": "Ouyang Xu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Haiyang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yan Ping'an",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En 1994, el auditor fiscal Ouyang Xu, el investigador criminal Yan Ping'an y Zhou Haiyang se ven implicados en una investigación sobre facturas falsas. Años después, la operación Guyu vuelve a reunirlos y Ouyang Xu debe enfrentarse a una red de fraude vinculada a su antiguo amigo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dydp1N_4f.jpg"
+    ]
+  },
+  "activo": true
+}
