@@ -20,5 +20,8 @@
   "activo": true,
   "alias": [
     "Lie Ai Ji Hua"
-  ]
+  ],
+  "franquicia": {
+    "codigo": "FR000053"
+  }
 }
