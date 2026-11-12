@@ -54,5 +54,9 @@
       "principal": false
     }
   ],
-  "sinopsis": "El escritor Fang Haowen pierde popularidad después de rechazar a Jin Furong. Para recuperar su fama, su agente organiza un falso suicidio retransmitido, pero la fan Bie Fan interrumpe el plan. Ambos terminan formando el dúo conocido como Jiong Tu."
+  "sinopsis": "El escritor Fang Haowen pierde popularidad después de rechazar a Jin Furong. Para recuperar su fama, su agente organiza un falso suicidio retransmitido, pero la fan Bie Fan interrumpe el plan. Ambos terminan formando el dúo conocido como Jiong Tu.",
+  "franquicia": {
+    "codigo": "FR000053",
+    "orden": 1
+  }
 }
