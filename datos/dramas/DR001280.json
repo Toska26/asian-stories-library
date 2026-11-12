@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001280",
+  "bl": false,
+  "titulo": "The Way Back to You",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 30,
+  "estado": "anunciado",
+  "estreno": "2026-11-23",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Julia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tristan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Patrick",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onQ46z_4f.jpg"
+    ]
+  },
+  "activo": true
+}
