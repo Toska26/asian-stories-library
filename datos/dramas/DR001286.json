@@ -1,0 +1,95 @@
+{
+  "codigo": "DR001286",
+  "bl": false,
+  "titulo": "Genius Girlfriend",
+  "tituloOriginal": "天才，女友",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-02",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3o5vVm_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Tian Cai, Nu You"
+  ],
+  "episodios": 28,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Lin Zhixia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Yubai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Fuxuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Baihui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Duan Qiyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Zeqiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tang Tingting",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Peng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Zhixia",
+        "Jiang Yubai"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Lin Zhixia, una joven genio, directa y poco sociable, conoce a Jiang Yubai, un estudiante brillante y sociable, cuando se convierte en su compañero de pupitre. A través de actividades y concursos escolares, ambos se apoyan y se acercan; Jiang Yubai termina enamorándose de ella."
+}
