@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001302",
+  "bl": false,
+  "titulo": "Love Hunting Plan",
+  "tituloOriginal": "猎爱计划",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Xd3mpJ_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Lie Ai Ji Hua"
+  ]
+}
