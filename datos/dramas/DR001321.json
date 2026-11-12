@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001321",
+  "bl": false,
+  "titulo": "Unsettled Case",
+  "tituloOriginal": "悬案",
+  "alias": [
+    "Xuan An"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 17,
+  "duracion": 47,
+  "estado": "finalizado",
+  "estreno": "2026-07-03",
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Casos sin resolver",
+    "Investigación policial",
+    "ADN"
+  ],
+  "personas": [
+    {
+      "nombre": "Bai Lang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shi Zhanjun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Zhifeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Yongkun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Dos investigaciones criminales separadas por años sacan a la luz secretos enterrados. Un periodista y la policía siguen la pista de un ladrón armado durante décadas; más adelante, dos generaciones de investigadores recurren a nuevas pruebas forenses y al ADN para resolver una masacre ocurrida en un hotel.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5vJWwB_4f.jpg"
+    ]
+  },
+  "activo": true
+}
