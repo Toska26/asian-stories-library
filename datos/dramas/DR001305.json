@@ -1,0 +1,128 @@
+{
+  "codigo": "DR001305",
+  "bl": false,
+  "titulo": "Erlong Lake: Blossoms of Hometown Dreams",
+  "tituloOriginal": "二龙湖·“村”暖花开",
+  "alias": [
+    "Er Long Hu Cun Nuan Hua",
+    "Cun Nuan Hua Kai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2024,
+  "tipo": "DR",
+  "serie": "SR001305",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2024-10-11",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Vida rural",
+    "Revitalización rural",
+    "Regreso al pueblo",
+    "Familia",
+    "Comunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Hao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Minghan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhang Chenggong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Ruifang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Secretary Qu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tang Laoshi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Zhenzhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Da Zhibin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Da Quan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Long Ge",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Danni",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Hao",
+        "Li Minghan"
+      ]
+    }
+  ],
+  "sinopsis": "Zhang Hao, un antiguo guardia de seguridad de la ciudad, regresa a su pueblo natal y se hace pasar por un empresario de éxito. Allí vuelve a encontrarse con Li Minghan, una joven graduada universitaria comprometida con la revitalización rural. Mientras intenta mantener su imagen y adaptarse de nuevo a la vida del pueblo, Zhang Hao se implica en los problemas de sus vecinos y descubre que construir un futuro para su comunidad exige mucho más que aparentar riqueza.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0rqp6_4f.jpg"
+    ]
+  },
+  "activo": true
+}
