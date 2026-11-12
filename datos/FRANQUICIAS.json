@@ -480,5 +480,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia china basada en las historias de River God, formada por River God (2017), su continuación River God 2 (2020) y la precuela cinematográfica Tientsin Mystic / 河神之渡阴 (2026). Las dos series forman una continuidad de temporadas, mientras que la película amplía los antecedentes de la historia y no constituye una tercera temporada.",
     "activo": true
+  },
+  {
+    "codigo": "FR000053",
+    "nombre": "Lost in Road",
+    "pais": [
+      "CN"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia china de comedia formada por cinco historias independientes: Crazy Key (疯狂的钥匙), See You Later... Maybe (预演告别), Babel Tower (通天塔), King of Comedy (戏剧之王) y Love Hunting Plan (猎爱计划). Las historias comparten el proyecto y el universo temático, pero tienen tramas independientes.",
+    "activo": true
   }
 ]
