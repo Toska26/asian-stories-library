@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001320",
+  "bl": false,
+  "titulo": "Rebound Love",
+  "tituloOriginal": "扁豆爱焖面",
+  "alias": [
+    "Bian Dou Ai Men Mian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 34,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familiar"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Divorcio",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Zhongyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuan Shengnan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Wenwen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Zijian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Li Zhongyuan",
+        "Yuan Shengnan"
+      ]
+    }
+  ],
+  "sinopsis": "Li Zhongyuan, psicólogo, y Yuan Shengnan, una mujer de carrera, terminan divorciándose por sus diferencias. Como sus familias son amigas de toda la vida, deciden ocultar la separación mientras cada uno intenta rehacer su vida sentimental. Los nuevos encuentros les harán replantearse qué significa encontrar el amor.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/7/7a/Pian_Dou_Ai_Men_Mian.jpg"
+    ]
+  },
+  "activo": true
+}
