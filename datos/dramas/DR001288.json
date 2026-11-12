@@ -1,0 +1,106 @@
+{
+  "codigo": "DR001288",
+  "bl": false,
+  "titulo": "Mermaid",
+  "tituloOriginal": "人鱼",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-04",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3oBAN_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/2e2/2e283777e7e2191d23fab7566e28beca.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Ren Yu"
+  ],
+  "episodios": 16,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Su Lin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Yushu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tai Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Hao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Su Weiguo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Ting",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Du Qian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Cuiyun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Xijie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La desaparición de Su Lin, una adolescente marginada, queda conectada con el hallazgo de varios cadáveres en un canal subterráneo. La investigación revela una trama de secretos y sucesos inquietantes."
+}
