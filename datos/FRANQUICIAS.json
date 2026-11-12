@@ -490,5 +490,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia china de comedia formada por cinco historias independientes: Crazy Key (疯狂的钥匙), See You Later... Maybe (预演告别), Babel Tower (通天塔), King of Comedy (戏剧之王) y Love Hunting Plan (猎爱计划). Las historias comparten el proyecto y el universo temático, pero tienen tramas independientes.",
     "activo": true
+  },
+  {
+    "codigo": "FR000054",
+    "nombre": "Erlonghu",
+    "pais": [
+      "CN"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia china que agrupa las producciones de la marca Erlonghu: la serie Erlong Lake: Blossoms of Hometown Dreams, formada por tres temporadas, y la producción independiente The Haoge of Erlonghu: No Rogues Under Heaven. Esta última comparte la marca, pero tiene una historia y personajes propios.",
+    "activo": true
   }
 ]
