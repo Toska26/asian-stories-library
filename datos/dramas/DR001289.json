@@ -1,0 +1,171 @@
+{
+  "codigo": "DR001289",
+  "bl": false,
+  "titulo": "The Road to Splendor",
+  "tituloOriginal": "花开锦绣",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-09",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Nd03mE_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/c98/c9853b7f3e79b470ccdafbb73b8f5dad.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Hua Kai Jin Xiu"
+  ],
+  "episodios": 36,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Zhao Ling",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fu Tingyun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lady Zuo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sixteenth Prince",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lady Wang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tian Wanyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fan Yake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madam Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Jingxiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Grand Secretary Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mo Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fifth Master Fu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lady Xie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "A Sen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Second Miss Wang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Donglin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qin Feiyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Grand Empress Dowager",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhao Ling",
+        "Fu Tingyun"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Zhao Ling, un contrabandista de sal de origen humilde, conoce a Fu Tingyun, una noble acusada falsamente de mantener una relación ilícita. Obligados a huir y superar numerosas dificultades, ambos desarrollan una relación mientras luchan por sobrevivir."
+}
