@@ -1,0 +1,102 @@
+{
+  "codigo": "DR001291",
+  "bl": false,
+  "titulo": "A Father's Debt",
+  "tituloOriginal": "能有多大事",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-14",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/3/31/Neng_You_Duo_Da_Shi.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Neng You Duo Da Shi"
+  ],
+  "episodios": 30,
+  "duracion": 49,
+  "personas": [
+    {
+      "nombre": "Xu Duojin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ma Xiaofen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Dacheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Xiaocheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Lanlan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Wenhua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Jinxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Xiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Xu Duojin",
+        "Ma Xiaofen"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Xu Duojin, un chef jubilado, planea casarse con Ma Xiaofen y viajar con ella. Pero cuando su hijo menor cae en una estafa y acumula una gran deuda, Xu vende su casa y vuelve a trabajar para ayudar a su familia."
+}
