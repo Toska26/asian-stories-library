@@ -513,12 +513,12 @@
   },
   {
     "codigo": "FR000056",
-    "nombre": "Too Late to Say I Love You",
+    "nombre": "Fei Wo Si Cun — Republican-Era Trilogy",
     "pais": [
       "CN"
     ],
     "tipo": "Franquicia",
-    "descripcion": "Franquicia china formada por Too Late to Say I Love You (2010) y Overdo (2026), producciones conectadas por la continuidad de la familia Murong. Overdo desarrolla la siguiente generación de esta historia, con Murong Qingyi, hijo de Murong Feng.",
+    "descripcion": "Franquicia china basada en la trilogía literaria de época republicana de Fei Wo Si Cun, formada por Siege in Fog (2018), Too Late to Say I Love You (2010) y Overdo (2026). Las historias están conectadas por las familias Murong y Yi: Murong Feng aparece vinculado a Siege in Fog, protagoniza Too Late to Say I Love You y es el padre de Murong Qingyi, protagonista de Overdo. El orden narrativo de las novelas es Siege in Fog, Too Late to Say I Love You y Overdo.",
     "activo": true
   }
 ]
