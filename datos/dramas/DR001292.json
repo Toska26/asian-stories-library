@@ -1,0 +1,155 @@
+{
+  "codigo": "DR001292",
+  "bl": false,
+  "titulo": "Sharp Turns",
+  "tituloOriginal": "藏锋",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-17",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBZDzA_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/4fd/4fdeceef54c4e757fdbf8ea9132b22c9.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Cang Feng"
+  ],
+  "episodios": 23,
+  "duracion": 45,
+  "personas": [
+    {
+      "nombre": "Tan Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Min",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liao Bufan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuan Lai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Jiani",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Peng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Lang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Na Haitao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lv Xiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Guo Jian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Guohua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Nan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Yunsheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lao Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Da Yong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Jianan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chief Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tan Yan, subdirector del departamento de propaganda de la policía, es destinado como comisario político a una unidad SWAT. Allí choca inicialmente con el comandante Liao Bufan, pero ambos terminan colaborando para resolver un caso de gran envergadura y recuperar su vocación."
+}
