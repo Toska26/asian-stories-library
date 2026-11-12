@@ -1,0 +1,85 @@
+{
+  "codigo": "DR001283",
+  "bl": false,
+  "titulo": "Good Partner",
+  "tituloOriginal": "굿파트너",
+  "alias": [
+    "Gut Pateuneo"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2024,
+  "tipo": "DR",
+  "serie": "SR001283",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 70,
+  "estado": "finalizado",
+  "estreno": "2024-07-12",
+  "finalizacion": "2024-09-20",
+  "generos": [
+    "Drama",
+    "Legal"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Eun Gyeong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Yu Ri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jung U Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jeon Eun Ho",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kim Ji Sang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Choi Sa Ra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kim Jae Hui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cha Eun Gyeong, una veterana abogada especializada en divorcios, atraviesa una crisis en su propio matrimonio y forma equipo con la joven abogada Han Yu Ri. Los casos que afrontan transforman su manera de entender el trabajo, las relaciones y la justicia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/rNgkZj_4f.jpg"
+    ]
+  },
+  "activo": true
+}
