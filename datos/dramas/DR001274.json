@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001274",
+  "bl": true,
+  "titulo": "It's Just Business",
+  "tituloOriginal": "営業ですから",
+  "alias": [
+    "Eigyou Desu Kara",
+    "It's Strictly Business"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-11-04",
+  "generos": [
+    "Romance",
+    "BL"
+  ],
+  "origen": {
+    "tipo": "Manga",
+    "titulo": "営業ですから",
+    "autor": "Miyuki Mitsubachi"
+  },
+  "personas": [
+    {
+      "nombre": "Ren Ashihara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Issei Kuji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ren Ashihara",
+        "Issei Kuji"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Ren Ashihara, un estudiante universitario extrovertido, quiere mejorar su popularidad entre las chicas. Su compañero Issei Kuji, atractivo y popular, acaba participando en una estrategia que comienza como un juego para conquistar chicas, pero que poco a poco deja de ser una simple cuestión de negocios.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/81yyLd_4f.jpg"
+    ]
+  },
+  "activo": true
+}
