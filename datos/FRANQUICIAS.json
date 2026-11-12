@@ -510,5 +510,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia china centrada en las Nueve Puertas de Changsha, formada por The Mystic Nine (2016), cuatro películas derivadas dedicadas a personajes de la serie, la precuela cinematográfica The Mystic Nine: Qing Shan Hai Tang (2022) y la continuación Mystic Nine (2026). Todas estas producciones pertenecen al Universo Daomu Biji.",
     "activo": true
+  },
+  {
+    "codigo": "FR000056",
+    "nombre": "Too Late to Say I Love You",
+    "pais": [
+      "CN"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia china formada por Too Late to Say I Love You (2010) y Overdo (2026), producciones conectadas por la continuidad de la familia Murong. Overdo desarrolla la siguiente generación de esta historia, con Murong Qingyi, hijo de Murong Feng.",
+    "activo": true
   }
 ]
