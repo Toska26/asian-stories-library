@@ -1,0 +1,25 @@
+{
+  "codigo": "DR001298",
+  "bl": false,
+  "titulo": "Midsummer Clarity",
+  "tituloOriginal": "盛夏晴朗",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 2,
+  "temporada": 2,
+  "estado": "anunciado",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5QeRRy_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Sheng Xia Qing Lang"
+  ],
+  "serie": "SR001296"
+}
