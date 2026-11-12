@@ -1,0 +1,153 @@
+{
+  "codigo": "DR001309",
+  "bl": false,
+  "titulo": "The Mystic Nine",
+  "tituloOriginal": "老九门",
+  "alias": [
+    "Lao Jiu Men",
+    "Old Nine Gates"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 1
+  },
+  "universo": "UN000022",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 48,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2016-07-04",
+  "finalizacion": "2016-10-17",
+  "generos": [
+    "Aventura",
+    "Acción",
+    "Sobrenatural",
+    "Misterio"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Nueve Puertas",
+    "Época republicana",
+    "Tumbas antiguas"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Qishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Er Yuehong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yin Xinyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qi Tiezui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Pi A Si",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ya Tou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huo Jinxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie Jiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Laogou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hei Bei Lao Liu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Rishan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ban Jie Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhang Qishan",
+        "Yin Xinyue"
+      ]
+    },
+    {
+      "personajes": [
+        "Er Yuehong",
+        "Ya Tou"
+      ]
+    }
+  ],
+  "sinopsis": "En 1933, Zhang Qishan, comandante de la defensa de Changsha y líder de las Nueve Puertas, investiga la aparición de un misterioso tren y una mina vigilada por los japoneses. Con la ayuda de Qi Tiezui y del cantante de ópera Er Yuehong, se adentra en una investigación que revela secretos familiares y una conspiración que amenaza a toda la ciudad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/XZl5xf.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/1e4/1e4dc58a5c8c8908a4d317d6ef44a4d0.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
