@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001335",
+  "bl": false,
+  "titulo": "The Village Conspiracy",
+  "tituloOriginal": "米良与麦青",
+  "alias": [
+    "Mi Liang Yu Mai Qing"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-31",
+  "generos": [
+    "Drama",
+    "Rural",
+    "Romance"
+  ],
+  "tags": [
+    "Vida rural",
+    "Cooperativa",
+    "Emprendimiento",
+    "Amigos de infancia"
+  ],
+  "personas": [
+    {
+      "nombre": "Mi Liang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mai Qing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Mi Liang y Mai Qing, amigos desde la infancia, regresan a su pueblo y deciden impulsar la economía local mediante una cooperativa dedicada a la cría de ciervos. El proyecto los enfrenta a deudas, intereses particulares y conflictos comunitarios, pero también les permite recuperar la confianza y construir un futuro compartido.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/7/75/Mi_Liang_Yu_Mai_Qing.webp"
+    ]
+  },
+  "activo": true
+}
