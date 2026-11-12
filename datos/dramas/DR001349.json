@@ -58,7 +58,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Lee Dong Gwon",
@@ -66,7 +66,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     }
   ],
   "ships": [
