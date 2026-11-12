@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001276",
+  "bl": false,
+  "titulo": "Good Partner Season 2",
+  "tituloOriginal": "굿파트너 시즌2",
+  "alias": [
+    "Good Partner 2",
+    "Gut Pateuneo 2"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001283",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 16,
+  "duracion": 70,
+  "estado": "anunciado",
+  "estreno": "2026-11-20",
+  "generos": [
+    "Drama",
+    "Legal"
+  ],
+  "personas": [
+    {
+      "nombre": "Cha Eun Gyeong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Hye Sung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jeon Eun Ho",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Park Tae Soo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sim Hyeon Ju",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kim Ji Sang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cha Eun Gyeong inicia una nueva etapa profesional junto a Kang Hye Sung. Ambas afrontan nuevos casos de divorcio, desafíos en el bufete y una rivalidad profesional con Park Tae Soo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zvByNJ_4f.jpg"
+    ]
+  },
+  "activo": true
+}
