@@ -1,0 +1,91 @@
+{
+  "codigo": "DR001278",
+  "bl": true,
+  "titulo": "The Grim Lover",
+  "tituloOriginal": "รัก ลืม ตาย",
+  "alias": [
+    "Rak Luem Tai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 50,
+  "estado": "anunciado",
+  "estreno": "2026-11-28",
+  "generos": [
+    "Romance",
+    "Fantasía",
+    "Suspense",
+    "BL"
+  ],
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "รัก ลืม ตาย",
+    "autor": "alittlebixth"
+  },
+  "personas": [
+    {
+      "nombre": "Won",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sepsawat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sibsi / Fah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oscar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chada",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Won",
+        "Sepsawat"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Won, un anestesiólogo, pierde a su pareja Fah en un accidente y acaba acusado injustamente. Tras intentar quitarse la vida, conoce a Sepsawat, un segador de almas con el rostro de Fah que lo ayuda a demostrar su inocencia. Entre ambos surge un vínculo inesperado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dyklpz_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/a7c/a7c2e56b94b4f46ec60a68e20b4e8f9c.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
