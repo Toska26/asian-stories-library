@@ -30,14 +30,35 @@
   ],
   "personas": [
     {
-      "nombre": "Li Fenglin",
+      "nombre": "Li Zhixin",
       "funcion": [
         "Actor"
       ],
       "principal": true
+    },
+    {
+      "nombre": "He Yuhong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Huan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Baihui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
-  "sinopsis": "Inspirada en las vidas de varios mandos revolucionarios de Hubei, la serie sigue a Li Fenglin desde la tragedia que destruye a su familia hasta su incorporación a la lucha revolucionaria. Su valor y capacidad estratégica le valen el apodo de «pequeño cachorro lobo», mientras soporta heridas, pérdidas y años de combate sin renunciar a sus convicciones.",
+  "sinopsis": "Inspirada en las vidas reales de varios mandos revolucionarios de Hubei, la serie sigue a Li Zhixin, un joven que se une a la revolución y atraviesa casi dos décadas de lucha. Tras recibir nueve heridas de bala, su resistencia y compromiso lo convierten en una figura legendaria.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/yWvvwB_4f.jpg"
