@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001304",
+  "bl": false,
+  "titulo": "Where Colors Dream T2",
+  "tituloOriginal": "画梦录 第二季",
+  "alias": [
+    "Hua Meng Lu 2",
+    "Where Colors Dream Season 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2028,
+  "tipo": "DR",
+  "serie": "SR001303",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 3,
+  "estado": "anunciado",
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Drama"
+  ],
+  "tags": [
+    "República de China",
+    "Shanghai"
+  ],
+  "activo": true
+}
