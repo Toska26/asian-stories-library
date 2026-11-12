@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001312",
+  "bl": false,
+  "titulo": "The Mystic Nine Side Story: Ganges Killing the Trees",
+  "tituloOriginal": "老九门番外之恒河杀树",
+  "alias": [
+    "Ganges Killing the Trees",
+    "Heng He Sha Shu",
+    "Phantom of Bifang Buckle"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 4
+  },
+  "universo": "UN000022",
+  "duracion": 81,
+  "estado": "finalizado",
+  "estreno": "2016-11-24",
+  "generos": [
+    "Crimen",
+    "Fantasía",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Historia lateral",
+    "Huo Jinxi",
+    "Huo San Niang",
+    "Templo misterioso"
+  ],
+  "personas": [
+    {
+      "nombre": "Huo Jinxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Antes de convertirse en la líder de la familia Huo, Huo Jinxi entra en una antigua tumba para superar una prueba y obtener una reliquia conocida como el broche Bifang. Cuando el objeto se rompe y libera una nube venenosa, ella y otros miembros de las Nueve Puertas buscan refugio en un templo misterioso. Allí comienzan a producirse muertes inexplicables y Huo Jinxi deberá descubrir cómo escapar de las trampas y de quienes la rodean.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nd3rWf.jpg"
+    ]
+  },
+  "activo": true
+}
