@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001310",
+  "bl": false,
+  "titulo": "The Mystic Nine Side Story: Flowers Bloom in February",
+  "tituloOriginal": "老九门番外之二月花开",
+  "alias": [
+    "Flowers Bloom in February",
+    "Lao Jiu Men Fan Wai Zhi Er Yue Hua Kai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 2
+  },
+  "universo": "UN000022",
+  "duracion": 90,
+  "estado": "finalizado",
+  "estreno": "2016-10-20",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Suspense"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Historia lateral",
+    "Er Yuehong",
+    "Época republicana"
+  ],
+  "personas": [
+    {
+      "nombre": "Er Yuehong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qiu Shan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shenggong Weilai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ji An",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hong Gu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Zhanmei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la guerra contra Japón, Er Yuehong intenta recuperar una reliquia nacional escondida bajo una antigua tumba ocupada por soldados japoneses. Para acceder a ella, utiliza sus habilidades como cantante de ópera y sus contactos, mientras organiza una representación que le permite actuar ante los propios ocupantes y abrir el camino hacia el tesoro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/qk245f.jpg"
+    ]
+  },
+  "activo": true
+}
