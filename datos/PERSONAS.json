@@ -28734,5 +28734,65 @@
       "Actor"
     ],
     "activo": true
+  },
+  {
+    "codigo": "PR001704",
+    "nombre": "Ji Sung",
+    "nombreOriginal": "지성",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001705",
+    "nombre": "Kim Min Jung",
+    "nombreOriginal": "김민정",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001706",
+    "nombre": "Cho Jae Hyun",
+    "nombreOriginal": "조재현",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
+  },
+  {
+    "codigo": "PR001707",
+    "nombre": "Lee Ji Hoon",
+    "nombreOriginal": "이지훈",
+    "alias": [],
+    "pais": "KR",
+    "idioma": "ko",
+    "profesiones": [
+      "Actor"
+    ],
+    "multimedia": {
+      "foto": []
+    },
+    "activo": true
   }
 ]
