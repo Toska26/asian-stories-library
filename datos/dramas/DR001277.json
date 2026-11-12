@@ -40,5 +40,66 @@
       }
     ]
   },
-  "activo": true
+  "activo": true,
+  "personas": [
+    {
+      "nombre": "Dan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kimhan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "James",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saint",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dan",
+        "Kimhan"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Dan",
+        "James"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Dan",
+        "Saint"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Kimhan",
+        "James"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Dan es un ejecutivo de cuentas de una agencia de publicidad que ha conseguido salir de la pobreza gracias a su inteligencia y esfuerzo. Su extrema prudencia con el dinero provoca continuos roces con Saint, un nuevo compañero de trabajo. Sin embargo, un problema familiar hace que Saint descubra las dificultades que Dan ha vivido y ambos comienzan a acercarse. Mientras tanto, Dan sigue ligado emocionalmente a James, su antiguo tutor y primer amor. La situación se complica todavía más con el regreso de Kimhan, su antiguo novio y ahora poderoso director ejecutivo, cuya historia con James también está marcada por un acuerdo secreto. Entre sentimientos del pasado, rivalidades y relaciones ocultas, Dan tendrá que descubrir en quién puede confiar y qué tipo de amor desea realmente."
 }
