@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001313",
+  "bl": false,
+  "titulo": "The Mystic Nine Side Story: Four Belongs to Abelmoschus",
+  "tituloOriginal": "老九门番外之四屠黄葵",
+  "alias": [
+    "Four Belongs to Abelmoschus",
+    "Si Tu Huang Kui",
+    "Slaughter of the Abelmoschus Gang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2016,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000055",
+    "orden": 5
+  },
+  "universo": "UN000022",
+  "duracion": 77,
+  "estado": "finalizado",
+  "estreno": "2016-12-08",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Misterio"
+  ],
+  "tags": [
+    "Daomu Biji",
+    "Historia lateral",
+    "Chen Pi A Si",
+    "Venganza",
+    "Origen del personaje"
+  ],
+  "personas": [
+    {
+      "nombre": "Chen Pi A Si",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chun Shen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pao Tou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Antes de convertirse en discípulo de Er Yuehong, el joven Chen Pi A Si comienza a trabajar como asesino siguiendo la regla de cobrar cien monedas por cada vida. Chun Shen, un muchacho que ha perdido a su familia a manos de la banda Huang Kui, acude a él para pedir venganza. Cuando Chun Shen entrega su última moneda, Chen Pi acepta el encargo y emprende una sangrienta represalia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/q23P5f.jpg"
+    ]
+  },
+  "activo": true
+}
