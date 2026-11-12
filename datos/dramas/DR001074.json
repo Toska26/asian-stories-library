@@ -22,9 +22,9 @@
   "temporada": 1,
   "episodios": 12,
   "duracion": 70,
-  "estado": "en_emision",
+  "estado": "finalizado",
   "estreno": "2026-10-05",
-  "finalizacion": null,
+  "finalizacion": "2026-11-10",
   "generos": [
     "Romance",
     "Juventud",
