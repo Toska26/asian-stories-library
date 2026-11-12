@@ -30,6 +30,18 @@
     "permite_temporadas": false
   },
   {
+    "codigo": "MDR",
+    "nombre": "Minidrama",
+    "tiene_episodios": true,
+    "permite_temporadas": false
+  },
+  {
+    "codigo": "VDR",
+    "nombre": "Drama vertical",
+    "tiene_episodios": true,
+    "permite_temporadas": false
+  },
+  {
     "codigo": "ANT",
     "nombre": "Antología",
     "tiene_episodios": true,
