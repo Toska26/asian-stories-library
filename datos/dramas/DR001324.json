@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001324",
+  "bl": false,
+  "titulo": "Nine Bullet Holes",
+  "tituloOriginal": "九个弹孔",
+  "alias": [
+    "Jiu Ge Dan Kong"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-08",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Bélico"
+  ],
+  "tags": [
+    "Revolución china",
+    "Basado en hechos reales",
+    "Ejército"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Fenglin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Inspirada en las vidas de varios mandos revolucionarios de Hubei, la serie sigue a Li Fenglin desde la tragedia que destruye a su familia hasta su incorporación a la lucha revolucionaria. Su valor y capacidad estratégica le valen el apodo de «pequeño cachorro lobo», mientras soporta heridas, pérdidas y años de combate sin renunciar a sus convicciones.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/yWvvwB_4f.jpg"
+    ]
+  },
+  "activo": true
+}
