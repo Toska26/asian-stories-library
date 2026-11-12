@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001281",
+  "bl": false,
+  "titulo": "The Leftovers",
+  "tituloOriginal": "幸存者",
+  "alias": [
+    "Xing Cun Zhe"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001281",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-11-09",
+  "generos": [
+    "Ciencia ficción",
+    "Crimen",
+    "Drama"
+  ],
+  "sinopsis": "En 2037, una erupción volcánica en Equaland provoca contaminación y escasez de órganos. Lin Zhekang lucha por proteger a su familia mientras una red de tráfico de órganos y secuestros amenaza a los supervivientes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8QQ20l_4f.jpg"
+    ]
+  },
+  "activo": true
+}
