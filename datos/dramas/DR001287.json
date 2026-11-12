@@ -1,0 +1,116 @@
+{
+  "codigo": "DR001287",
+  "bl": false,
+  "titulo": "Night Tales",
+  "tituloOriginal": "夜语记",
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "finalizado",
+  "estreno": "2026-08-03",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/AB2Bo8_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "alias": [
+    "Ye Yu Ji",
+    "夜色暗香",
+    "惊欢"
+  ],
+  "episodios": 24,
+  "duracion": 33,
+  "personas": [
+    {
+      "nombre": "Ye Xiaowei / Sang Luo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng An",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yi Kai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Yucheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Wanmei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Ruolin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Liangxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luo Xia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Song Yun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Zhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Xiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Ye Xiaowei, una joven enóloga de origen humilde, es traicionada por su amante Cheng An y por su mentora Lin Wanmei. Tras regresar con la identidad de Sang Luo, hija ilegítima, se infiltra en la familia Cheng para llevar a cabo su venganza."
+}
