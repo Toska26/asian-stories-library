@@ -1,0 +1,121 @@
+{
+  "codigo": "DR001316",
+  "bl": false,
+  "titulo": "Too Late to Say I Love You",
+  "tituloOriginal": "来不及说我爱你",
+  "alias": [
+    "Lai Bu Ji Shuo Wo Ai Ni",
+    "Endless Love",
+    "Too Late to Say Loving You",
+    "Die Xue Cheng Zhou"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2010,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000056",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2010-08-30",
+  "finalizacion": "2010-10-04",
+  "generos": [
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Guerra"
+  ],
+  "tags": [
+    "Época republicana",
+    "Señores de la guerra",
+    "Amor imposible"
+  ],
+  "personas": [
+    {
+      "nombre": "Murong Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yin Jingwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Jianzhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Jinzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Xinzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yin Chufan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Jiaping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lan Qin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ming Xiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Murong Feng",
+        "Yin Jingwan"
+      ]
+    }
+  ],
+  "origen": "Adaptación de la novela Bi Zhou Chen (碧甃沉), de Fei Wo Si Cun.",
+  "sinopsis": "Yin Jingwan, una joven de una familia acomodada, ayuda durante un viaje en tren a Murong Feng, un poderoso señor de la guerra que huye de sus perseguidores. Al regresar a casa descubre que su prometido, Xu Jianzhang, ha sido encarcelado. Su intento de rescatarlo la lleva de nuevo al camino de Murong Feng y cambia por completo su destino. En medio de conflictos políticos y militares, ambos desarrollan una relación marcada por la pasión, las decisiones difíciles y la guerra.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/azwwdf.jpg"
+    ]
+  },
+  "activo": true
+}
