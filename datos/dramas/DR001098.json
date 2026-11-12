@@ -22,7 +22,7 @@
   "temporada": 1,
   "episodios": 12,
   "duracion": null,
-  "estado": "anunciado",
+  "estado": "en_emision",
   "estreno": "2026-11-09",
   "finalizacion": null,
   "generos": ["Romance", "Comedia", "Drama"],
