@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001347",
+  "bl": false,
+  "titulo": "Inseparable",
+  "tituloOriginal": "昨夜将至",
+  "alias": [
+    "Zuo Ye Jiang Zhi",
+    "遗忘的时光"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "finalizado",
+  "estreno": "2026-06-24",
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Crimen"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Secretos del pasado",
+    "Venganza",
+    "Chantaje",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Han Dong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Meiyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ling Jie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sun Haitao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "A Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Xiaoqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Han Dong, propietario de un pequeño restaurante de fideos, lleva una vida aparentemente tranquila junto a su esposa Lin Meiyue. Sin embargo, ambos esconden un pasado complicado. Cuando una antigua conocida amenaza con revelar la verdadera identidad de Lin Meiyue y los secretos de Han Dong salen a la luz, el matrimonio queda atrapado en una red de chantajes, venganzas y conflictos que pondrán en peligro a su familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/yWx6w1_4f.jpg"
+    ]
+  },
+  "activo": true
+}
