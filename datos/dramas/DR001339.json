@@ -1,0 +1,101 @@
+{
+  "codigo": "DR001339",
+  "bl": false,
+  "titulo": "The First Jasmine",
+  "tituloOriginal": "莫离",
+  "alias": [
+    "Mo Li"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Sheng Shi Di Fei",
+    "tituloOriginal": "盛世嫡妃",
+    "autor": "Feng Qing"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-09",
+  "finalizacion": "2026-06-28",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Romance"
+  ],
+  "tags": [
+    "Venganza",
+    "Matrimonio concertado",
+    "Familia noble",
+    "Intrigas políticas"
+  ],
+  "personas": [
+    {
+      "nombre": "Ye Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mo Xiuyao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mo Jingli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ye Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Mingxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ye Li",
+        "Mo Xiuyao"
+      ]
+    }
+  ],
+  "sinopsis": "Ye Li, hija mayor de la familia Ye, es obligada a casarse con Mo Xiuyao, príncipe de Ding. Ambos esconden sus propios planes y desconfían el uno del otro, pero sus intereses terminan uniéndose cuando descubren las conspiraciones que amenazan a sus familias y al reino.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/mOKDAJ_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Mo Li – Official Trailer",
+        "url": "https://wetv.vip/zh-cn/play/wpl6nyn3iifw70h/g410257hqi9-Trailer_38%3A_Mo_Li"
+      },
+      {
+        "titulo": "Mo Li – Trailer",
+        "url": "https://wetv.vip/zh-cn/play/wpl6nyn3iifw70h/z4102rp3xjj-Trailer_06%3A_Mo_Li"
+      }
+    ]
+  },
+  "activo": true
+}
