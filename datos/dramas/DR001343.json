@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001343",
+  "bl": false,
+  "titulo": "You Have My Heart",
+  "tituloOriginal": "心间错",
+  "alias": [
+    "Xin Jian Cuo"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 22,
+  "estado": "finalizado",
+  "estreno": "2026-06-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Folclore",
+    "Espíritus",
+    "Inmortalidad",
+    "Reencarnación"
+  ],
+  "personas": [
+    {
+      "nombre": "Liu Fufeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Shanjun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Liu Fufeng es un espíritu de árbol que lleva siglos esperando recuperar el corazón que le fue arrebatado. Cuando conoce a Bai Shanjun, señor de la Montaña Blanca y descendiente del ser que le robó el corazón, decide acercarse a él para saldar una deuda que lleva demasiado tiempo pendiente.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3joLe_4f.jpg"
+    ]
+  },
+  "activo": true
+}
