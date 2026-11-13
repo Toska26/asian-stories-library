@@ -1,0 +1,162 @@
+{
+  "codigo": "DR001342",
+  "bl": false,
+  "titulo": "Never-Ending Summer",
+  "tituloOriginal": "炽夏",
+  "alias": [
+    "Chi Xia",
+    "西风向晚"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Zhui Luo",
+    "tituloOriginal": "坠落",
+    "autor": "Tian Cu Yu"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Primer amor",
+    "Salto temporal",
+    "Vida adulta"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhou Wan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Xixiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Guo Xiangling",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gu Meng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luo He",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Fan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Lan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Qilan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Zhongyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huang Xuefen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Wensheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Wenhui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zhou Wan",
+        "Lu Xixiao"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "programa derivado",
+      "nombre": "Blazing Summer",
+      "descripcion": "Programa de variedades derivado de Never-Ending Summer.",
+      "codigo": "DR001350",
+      "orden": 1
+    }
+  ],
+  "sinopsis": "Zhou Wan, una estudiante perseverante, intenta conseguir dinero para ayudar a su abuela enferma y se acerca a Lu Xixiao, el hermanastro de su madre. Tras graduarse, ambos se enamoran, pero los malentendidos y las circunstancias los separan. Diez años después vuelven a encontrarse en el ámbito laboral y deberán enfrentarse a los sentimientos que nunca desaparecieron.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOmnO4_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Video promocional",
+        "url": "https://v.mydramalist.com/352/3524e592e453ec8f9356efc4e6e4f6af.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
