@@ -1,0 +1,48 @@
+{
+  "codigo": "DR001350",
+  "bl": false,
+  "titulo": "Blazing Summer",
+  "tituloOriginal": "炽夏角色番综·炽热的夏天",
+  "alias": [
+    "Chi Re De Xia Tian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "ESP",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "estado": "finalizado",
+  "estreno": "2026-06-24",
+  "finalizacion": "2026-07-03",
+  "generos": [
+    "Variedades",
+    "Entretenimiento"
+  ],
+  "tags": [
+    "Programa derivado",
+    "Reparto",
+    "Juegos",
+    "Retos",
+    "Convivencia"
+  ],
+  "relaciones": [
+    {
+      "tipo": "programa derivado de",
+      "nombre": "Never-Ending Summer",
+      "descripcion": "Programa de variedades derivado del drama Never-Ending Summer.",
+      "codigo": "DR001342",
+      "orden": 2
+    }
+  ],
+  "sinopsis": "Los protagonistas de Never-Ending Summer se reúnen en la casa de verano para participar en una convivencia de dos días. A través de presentaciones, desafíos de complicidad y diferentes juegos, los participantes compiten para descubrir quién forma la pareja de compañeros más compenetrada.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB0XxJ_4f.jpg"
+    ]
+  },
+  "activo": true
+}
