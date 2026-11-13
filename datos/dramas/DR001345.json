@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001345",
+  "bl": false,
+  "titulo": "The Legend of Rosy Clouds",
+  "tituloOriginal": "云秀行",
+  "alias": [
+    "Yun Xiu Xing",
+    "云起时",
+    "Take Me Where the Clouds Rise"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-20",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Intrigas",
+    "Realeza",
+    "Aventura",
+    "Alianza"
+  ],
+  "personas": [
+    {
+      "nombre": "Fan Yun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qi Zheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zheng Shi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yan Jiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gao Ran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Shi San",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Rong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Fan Yun",
+        "Qi Zheng"
+      ]
+    }
+  ],
+  "sinopsis": "En las legendarias Nueve Ciudades, Fan Yun, una noble de carácter decidido, y Qi Zheng, un señor astuto, unen sus fuerzas para afrontar una crisis que amenaza el reino. Mientras luchan por proteger a sus habitantes y resolver las intrigas que los rodean, su alianza se transforma gradualmente en una relación amorosa.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5vJnKy_4f.jpg"
+    ]
+  },
+  "activo": true
+}
