@@ -1,0 +1,120 @@
+{
+  "codigo": "DR001348",
+  "bl": false,
+  "titulo": "The Eternal Fragrance",
+  "tituloOriginal": "千香",
+  "alias": [
+    "Qian Xiang",
+    "千香引"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Qian Xiang Bai Mei",
+    "tituloOriginal": "千香百媚",
+    "autor": "Shi Si Lang"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 33,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-27",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Xianxia",
+    "Inmortales",
+    "Demonios",
+    "Reinos",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Lei Xiuyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Lifei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Tongzhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Baili Gelin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Baili Changyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ye Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lan Ya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lei Xiuyuan",
+        "Jiang Lifei"
+      ]
+    }
+  ],
+  "sinopsis": "Cuando una calamidad amenaza los tres reinos y aparece el Árbol Divino, comienza una lucha por obtener su poder. Un siglo después, Lei Xiuyuan y la huérfana Xiao Bang Chui se encuentran durante sus respectivas misiones. Sus caminos los llevan a la Academia Chufeng, donde ella recibe el nombre de Jiang Lifei. A medida que su relación se fortalece, salen a la luz secretos sobre su origen que pueden cambiar el destino de ambos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOmDV8_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Video promocional",
+        "url": "https://v.mydramalist.com/664/66401bf02a6a57e0b5ad01232e78a470.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
