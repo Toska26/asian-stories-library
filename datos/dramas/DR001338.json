@@ -1,0 +1,86 @@
+{
+  "codigo": "DR001338",
+  "bl": false,
+  "titulo": "Wonder Wall",
+  "tituloOriginal": "迷墙",
+  "alias": [
+    "Mi Qiang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-07",
+  "finalizacion": "2026-06-16",
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Crimen",
+    "Comedia"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Familia",
+    "Dinero",
+    "Secretos",
+    "Investigación"
+  ],
+  "personas": [
+    {
+      "nombre": "Yu Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wen Yitong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fan Meijuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Zhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yu Ming",
+        "Wen Yitong"
+      ]
+    }
+  ],
+  "sinopsis": "Un matrimonio con mala suerte acaba viviendo inesperadamente en una gran villa, donde descubre una enorme cantidad de dinero escondido. El hallazgo desencadena una sucesión de acontecimientos que pone a prueba su relación y los enfrenta a secretos, conflictos familiares y situaciones cada vez más peligrosas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB4v1Y_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Wonder Wall – WeTV",
+        "url": "https://wetv.vip/zh-cn/play/eiqabjygv461vkh"
+      }
+    ]
+  },
+  "activo": true
+}
