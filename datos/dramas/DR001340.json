@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001340",
+  "bl": false,
+  "titulo": "To the Stars",
+  "tituloOriginal": "星月征途",
+  "alias": [
+    "Xing Yue Zheng Tu",
+    "牧星战队",
+    "皓月当空"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-09",
+  "finalizacion": "2026-06-19",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Ciencia ficción",
+    "Aeroespacial",
+    "Exploración lunar",
+    "Trabajo en equipo",
+    "Superación"
+  ],
+  "personas": [
+    {
+      "nombre": "Wu Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ying Ziqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qin Bojun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Wu Wei sueña desde pequeño con trabajar en el centro de control aeroespacial, pero tras fracasar en la entrevista acaba destinado al archivo. Allí adquiere experiencia y consigue incorporarse al equipo Mu Xing, donde tendrá que trabajar junto a Ying Ziqi, un antiguo rival. Juntos afrontarán importantes misiones espaciales y lunares.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Kpo4V0_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "To the Stars – iQIYI",
+        "url": "https://www.iqiyi.com/a_1cmw2xzkyqp.html"
+      }
+    ]
+  },
+  "activo": true
+}
