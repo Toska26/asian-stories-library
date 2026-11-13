@@ -38,7 +38,6 @@
   "personas": [
     {
       "nombre": "Lee Eun Sung",
-      "persona": "PR001704",
       "funcion": [
         "Actor"
       ],
@@ -46,7 +45,6 @@
     },
     {
       "nombre": "Nam Hye Suk",
-      "persona": "PR001705",
       "funcion": [
         "Actor"
       ],
@@ -54,7 +52,6 @@
     },
     {
       "nombre": "Choi Kang Gook",
-      "persona": "PR001706",
       "funcion": [
         "Actor"
       ],
@@ -62,7 +59,6 @@
     },
     {
       "nombre": "Lee Dong Gwon",
-      "persona": "PR001707",
       "funcion": [
         "Actor"
       ],
@@ -80,6 +76,8 @@
   "sinopsis": "Lee Eun Sung, un joven médico graduado en una facultad provincial, consigue una plaza de residente en el prestigioso Hospital Universitario Hwang Hee. Allí conoce a Nam Hye Suk, una brillante médica que fue la mejor de su promoción, y al exigente cirujano Choi Kang Gook, nuevo jefe del departamento de cirugía torácica y cardiovascular. Entre emergencias, operaciones complejas, rivalidades y decisiones difíciles, los residentes deberán demostrar su capacidad y descubrir qué significa realmente salvar vidas.",
   "activo": true,
   "multimedia": {
-    "portada": []
+    "portada": [
+      "https://i.mydramalist.com/X4NBZf.jpg"
+    ]
   }
 }
