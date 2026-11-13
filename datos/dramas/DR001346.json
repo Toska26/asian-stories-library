@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001346",
+  "bl": false,
+  "titulo": "Paper Dreams in Ink",
+  "tituloOriginal": "种墨园",
+  "alias": [
+    "Zhong Mo Yuan",
+    "Where the Ink Takes Root"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 34,
+  "estado": "finalizado",
+  "estreno": "2026-06-23",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Patrimonio cultural",
+    "Artesanía",
+    "Papel Xuan",
+    "Tradición",
+    "Desarrollo rural"
+  ],
+  "personas": [
+    {
+      "nombre": "Xuan Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Yiran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En la localidad de Taohua, Xuan Yan es el heredero de una tradición familiar dedicada a la fabricación artesanal de papel Xuan. La llegada de Lin Yiran, una funcionaria que regresa a su tierra natal, impulsa un proyecto para preservar este patrimonio cultural y adaptarlo a los nuevos tiempos, mientras ambos afrontan las diferencias entre generaciones y los retos de la modernización.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/oQ4OKP_4f.jpg"
+    ]
+  },
+  "activo": true
+}
