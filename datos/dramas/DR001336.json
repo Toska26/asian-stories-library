@@ -1,0 +1,97 @@
+{
+  "codigo": "DR001336",
+  "bl": false,
+  "titulo": "The Heart",
+  "tituloOriginal": "问心",
+  "alias": [
+    "Wen Xin",
+    "Chi Zi Zhi Xin"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2023,
+  "tipo": "DR",
+  "remake": {
+    "codigo": "RM001349",
+    "orden": 2
+  },
+  "serie": "SR001336",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 38,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2023-10-07",
+  "finalizacion": "2023-10-24",
+  "generos": [
+    "Drama",
+    "Médico"
+  ],
+  "tags": [
+    "Medicina",
+    "Hospital",
+    "Cardiología",
+    "Cirugía",
+    "Trabajo en equipo"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhou Xiaofeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Xiaoran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Zhuqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cao Nuoya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Yining",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shi Haoqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el Hospital Dongli, Zhou Xiaofeng, un médico reservado y meticuloso de cardiología, debe trabajar junto a Lin Yi, un cirujano impulsivo con una visión muy distinta de la medicina. La llegada de Fang Xiaoran, hermana de Zhou Xiaofeng, al equipo de cuidados intensivos cardíacos completa un grupo que tendrá que aprender a colaborar mientras afronta los retos de salvar vidas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/E5JNlb_4f.jpg"
+    ]
+  },
+  "activo": true
+}
