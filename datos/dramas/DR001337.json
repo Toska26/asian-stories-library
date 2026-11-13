@@ -1,0 +1,112 @@
+{
+  "codigo": "DR001337",
+  "bl": false,
+  "titulo": "Ashes to Crown",
+  "tituloOriginal": "翘楚",
+  "alias": [
+    "Qiao Chu",
+    "Chu Hou",
+    "楚后"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Chu Hou",
+    "tituloOriginal": "楚后",
+    "autor": "Xi Xing"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-02",
+  "finalizacion": "2026-06-17",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Romance",
+    "Político"
+  ],
+  "tags": [
+    "Viajes en el tiempo",
+    "Regresión",
+    "Venganza",
+    "Corte imperial",
+    "Intrigas políticas"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu Zhao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Yanlai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiao Xun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie Yanfang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chu Tang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chu Zhao",
+        "Xie Yanlai"
+      ]
+    }
+  ],
+  "sinopsis": "Chu Zhao, hija de un general, muere tras sufrir la destrucción de su familia por las ambiciones de Xiao Xun. Al regresar al pasado, decide cambiar su destino, proteger al heredero imperial y frustrar las conspiraciones que amenazan el reino. En medio de las luchas por el poder, termina aliándose con Xie Yanlai.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkeKxp_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.youtube.com/watch?v=NT6EbYzzcbw"
+      },
+      {
+        "titulo": "Youku promotional videos",
+        "url": "https://www.youku.tv/v/v_show/id_XNjU0MTY1OTAxNg%3D%3D.html"
+      }
+    ]
+  },
+  "activo": true
+}
