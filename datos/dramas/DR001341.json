@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001341",
+  "bl": false,
+  "titulo": "Love Has Fireworks",
+  "tituloOriginal": "爱情有烟火",
+  "alias": [
+    "Ai Qing You Yan Huo",
+    "投行男女"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-15",
+  "finalizacion": "2026-06-30",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Vida urbana",
+    "Convivencia",
+    "Finanzas",
+    "Compañeros de piso"
+  ],
+  "personas": [
+    {
+      "nombre": "Qian Fei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Yifei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qian Fei",
+        "Li Yifei"
+      ]
+    }
+  ],
+  "sinopsis": "Tras sufrir una ruptura y perder su trabajo, Qian Fei decide alquilar una habitación de su casa para aliviar los gastos de su hipoteca. Su nuevo inquilino es Li Yifei, un antiguo heredero adinerado que ha perdido su posición privilegiada. Las diferencias entre ambos provocan numerosos enfrentamientos, pero la convivencia termina convirtiéndolos en compañeros, socios y pareja.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O8VxAL_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Video promocional",
+        "url": "https://v.mydramalist.com/d77/d77990419e2fbb54cb4aad96f09dcf76.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
