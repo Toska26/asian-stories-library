@@ -1,0 +1,112 @@
+{
+  "codigo": "DR001344",
+  "bl": false,
+  "titulo": "The Heart 2",
+  "tituloOriginal": "问心2",
+  "alias": [
+    "Wen Xin 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001336",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-18",
+  "generos": [
+    "Drama",
+    "Médico"
+  ],
+  "tags": [
+    "Medicina",
+    "Hospital",
+    "Cardiología",
+    "Cirugía",
+    "Continuación"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhou Xiaofeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fang Xiaoran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ouyang Dan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Zhuqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sheng Nian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ye Caicai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Du Wenzheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Xirui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Zhifeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Dos años después de los acontecimientos de la primera temporada, Zhou Xiaofeng regresa de su misión médica en Guizhou y es ascendido a director ejecutivo de cardiología del Hospital Dongli. Junto a Lin Yi y Fang Xiaoran, afrontará nuevos desafíos profesionales, dilemas personales y situaciones que pondrán a prueba sus convicciones como médicos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0z706_4f.jpg"
+    ]
+  },
+  "activo": true
+}
