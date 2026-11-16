@@ -19,8 +19,7 @@
   "generos": [
     "Drama",
     "Histórico",
-    "Guerra",
-    "Político"
+    "Guerra"
   ],
   "multimedia": {
     "portada": [
@@ -60,42 +59,7 @@
       "principal": true
     },
     {
-      "nombre": "Tian Jiatai",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Zhang Ruxian",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Han Xiaoyue",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Zhang Yunqi",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Xie Yufeng",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Luo Zuliang",
       "funcion": [
         "Actor"
       ],
@@ -107,21 +71,7 @@
         "Actor"
       ],
       "principal": false
-    },
-    {
-      "nombre": "Fu Fan",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Lin Changeng",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
     }
   ],
-  "sinopsis": "Durante la batalla de Shanghái de 1937, el cocinero Meng Wanfu es reclutado a la fuerza por el ejército y queda bajo el mando del comandante Zhang Yunkui. Tras una operación desastrosa, Zhang es dado por muerto y Meng recibe el encargo de llevar la noticia a su familia y ayudar a los suyos. Mientras ambos afrontan la guerra y sus consecuencias, soldados y civiles se ven empujados a resistir y a decidir el futuro de su país."
+  "sinopsis": "Durante la batalla de Shanghái de 1937, el cocinero Meng Wanfu es reclutado por el ejército y queda bajo el mando del comandante Zhang Yunkui. Tras una operación desastrosa, Zhang es dado por muerto y Meng recibe el encargo de llevar la noticia a su familia. Zhang sobrevive, pero es acusado de cobardía y acaba organizando la resistencia contra los invasores. Mientras tanto, Meng cuida de la familia del comandante y estrecha lazos con Ding Yujiao, su esposa. La guerra transforma la vida de soldados y civiles, que terminan implicándose en la lucha por el futuro del país."
 }
