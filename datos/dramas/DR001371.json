@@ -62,7 +62,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Nie Yucheng",
@@ -86,13 +86,6 @@
       "principal": false
     },
     {
-      "nombre": "Ma Kesi",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Duan Aoxiang",
       "funcion": [
         "Actor"
@@ -105,7 +98,21 @@
         "Actor"
       ],
       "principal": false
+    },
+    {
+      "nombre": "Ma Kesi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xue Rui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
-  "sinopsis": "Tras atravesar una crisis matrimonial y personal, Xu Miyu debe reconstruir su vida y recuperar su independencia. Su camino se cruza con Ji Feng, un exigente directivo hotelero que llega para sanear la gestión de un establecimiento en dificultades. Al trabajar juntos, ambos afrontan conflictos profesionales y personales, y descubren nuevas posibilidades para empezar de nuevo."
+  "sinopsis": "El matrimonio aparentemente perfecto de Xu Miyu se rompe en su décimo aniversario y ella decide divorciarse para recuperar su independencia. Empieza de nuevo trabajando como empleada de limpieza en el hotel Purong, donde se reencuentra con Ji Feng, antiguo conocido y nuevo director general. Mientras afrontan juntos los retos del hotel, su relación evoluciona hacia el amor y ambos contribuyen a convertir el establecimiento en un referente de la ciudad."
 }
