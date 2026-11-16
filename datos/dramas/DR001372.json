@@ -58,28 +58,14 @@
       "principal": true
     },
     {
-      "nombre": "Lv Xiaoyan",
+      "nombre": "Lü Xiaoyan",
       "funcion": [
         "Actor"
       ],
       "principal": false
     },
     {
-      "nombre": "Yan Bowen",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Zhang Dayu",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Jiang Shihuo",
+      "nombre": "Yan Boran",
       "funcion": [
         "Actor"
       ],
@@ -93,12 +79,12 @@
       "principal": false
     },
     {
-      "nombre": "Deng Hongxia",
+      "nombre": "Chen Sanhe",
       "funcion": [
         "Actor"
       ],
       "principal": false
     }
   ],
-  "sinopsis": "Guo Cong, jefe de la primera sección de inspección de pasajeros de la aduana del aeropuerto de Huayan, dirige a su equipo para detectar e interceptar operaciones de contrabando. Desde el tráfico ilegal de muestras genéticas hasta el transporte clandestino de obras de arte, medicamentos y objetos de lujo, los agentes afrontan casos cada vez más complejos mientras protegen la seguridad y los intereses del país."
+  "sinopsis": "Guo Cong, responsable de la primera sección de inspección de pasajeros de la aduana del aeropuerto de Huayan, dirige a Zhang Yu, Lü Xiaoyan y sus compañeros en la lucha contra el contrabando. En el estrecho corredor de control fronterizo detectan operaciones cada vez más complejas, desde el tráfico de muestras genéticas hasta el contrabando de obras de arte, vacunas y relojes de lujo. Los agentes aprenden a trabajar en equipo mientras protegen la seguridad y los intereses del país."
 }
