@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001374",
+  "titulo": "Eight Hundred",
+  "tituloOriginal": "方圆八百米",
+  "alias": [
+    "Fang Yuan Ba Bai Mi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "estado": "finalizado",
+  "estreno": "2026-04-17",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABddkE_4f.jpg"
+    ]
+  },
+  "activo": true
+}
