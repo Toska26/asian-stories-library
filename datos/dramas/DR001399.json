@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001399",
+  "bl": false,
+  "titulo": "Operation Wedding",
+  "tituloOriginal": "Operation Wedding",
+  "alias": [
+    "Operation Wedding: The Series"
+  ],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "MIN",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 17,
+  "duracion": 53,
+  "estado": "finalizado",
+  "estreno": "2026-04-18",
+  "finalizacion": "2026-04-18",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama",
+    "Familiar"
+  ],
+  "tags": [
+    "Familia",
+    "Marina",
+    "Secuela"
+  ],
+  "personas": [
+    {
+      "nombre": "Kardi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Windi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rendi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Secuela",
+      "nombre": "Operation Wedding (2013)",
+      "descripcion": "Continuación de la historia familiar de Kardi y sus cuatro hijas presentada en la película de 2013.",
+      "codigo": "DR001402"
+    }
+  ],
+  "sinopsis": "Tras los acontecimientos de la película, Kardi afronta una nueva etapa de su vida familiar después de retirarse anticipadamente de la Marina. La convivencia con sus hijas y sus relaciones sentimentales siguen dando lugar a situaciones y conflictos familiares.",
+  "multimedia": {
+    "portada": [
+      "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSM1h8KQWFximqqhTOMGQuxn3OVd2tspIXca5iUEmo6VGYfrcZ_tclqlV6kxemnBMLDUvJtjQKRupo4gkvjbQX1W6j0Bub0mAGFO.jpg?r=5e1"
+    ]
+  },
+  "activo": true
+}
