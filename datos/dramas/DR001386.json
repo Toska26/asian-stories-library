@@ -1,0 +1,104 @@
+{
+  "codigo": "DR001386",
+  "bl": false,
+  "titulo": "The Airport Diary II",
+  "tituloOriginal": "飛常日誌II",
+  "alias": [
+    "Fei Chang Ri Zhi II",
+    "The Airport Diary 2"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001385",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 10,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-06-15",
+  "finalizacion": "2026-06-26",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Aviación",
+    "Aeropuerto",
+    "Vida laboral",
+    "Emergencias",
+    "Nuevos comienzos",
+    "Trabajo en equipo"
+  ],
+  "personas": [
+    {
+      "nombre": "Yeung Seung-wai",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Lui Chi-shan",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Chan Kit",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Sing-cheung",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Ching Yat-fei",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Yip Shu-yan",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Che Sing-hin",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Ko Nga-man",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Kwok Kai-kwong",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Fong Ho-yee",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Cheung Wing",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Kwan Yu-on",
+      "funcion": ["Actor"],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El aeropuerto internacional de Hong Kong afronta una crisis cuando un fallo global de los sistemas altera sus operaciones. Yeung Seung-wai y sus compañeros coordinan la respuesta mientras varios profesionales, pilotos y nuevos integrantes del equipo se enfrentan a cambios laborales, decisiones difíciles y retos personales en una nueva etapa del aeropuerto.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73AQNe_4f.jpg"
+    ]
+  },
+  "activo": true
+}
