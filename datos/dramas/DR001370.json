@@ -18,12 +18,110 @@
   "estreno": "2026-04-07",
   "generos": [
     "Drama",
-    "Histórico"
+    "Histórico",
+    "Guerra",
+    "Político"
   ],
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/ABqKrE_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "tags": [
+    "Segunda guerra sino-japonesa",
+    "Batalla de Shanghái",
+    "Resistencia",
+    "Familia",
+    "Historia contemporánea"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Yunkui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ding Yujiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Meng Wanfu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tian Jiatai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Ruxian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Xiaoyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Yunqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie Yufeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luo Zuliang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zeng Xuefei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fu Fan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Changeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la batalla de Shanghái de 1937, el cocinero Meng Wanfu es reclutado a la fuerza por el ejército y queda bajo el mando del comandante Zhang Yunkui. Tras una operación desastrosa, Zhang es dado por muerto y Meng recibe el encargo de llevar la noticia a su familia y ayudar a los suyos. Mientras ambos afrontan la guerra y sus consecuencias, soldados y civiles se ven empujados a resistir y a decidir el futuro de su país."
 }
