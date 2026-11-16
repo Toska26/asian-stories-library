@@ -21,5 +21,35 @@
       "https://i.mydramalist.com/zBL48P_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "generos": [
+    "Drama",
+    "Juventud",
+    "Romance"
+  ],
+  "tags": [
+    "Amistad",
+    "Amor de infancia",
+    "Crecimiento personal",
+    "Familia",
+    "Años escolares"
+  ],
+  "personas": [
+    {
+      "nombre": "Xiong Yuanbao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mu Qingjun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Huérfano desde los cinco años, Xiong Yuanbao crece al cuidado de su abuela y encuentra apoyo constante en su vecina Mu Qingjun. Unidos desde la infancia, ambos se protegen durante los años escolares y afrontan juntos las dificultades, los cambios de una época convulsa y la búsqueda de sus propios sueños."
 }
