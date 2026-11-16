@@ -1,0 +1,105 @@
+{
+  "codigo": "DR001353",
+  "bl": false,
+  "titulo": "The Lead",
+  "tituloOriginal": "主角",
+  "alias": [
+    "Zhu Jue",
+    "Main Character"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Zhu Jue",
+    "tituloOriginal": "主角",
+    "autor": "Chen Yan"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 48,
+  "duracion": 46,
+  "estado": "finalizado",
+  "estreno": "2026-05-10",
+  "finalizacion": "2026-06-03",
+  "generos": [
+    "Drama",
+    "Vida"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Ópera Qinqiang",
+    "Cultura tradicional",
+    "Superación",
+    "Historia familiar",
+    "Drama histórico"
+  ],
+  "personas": [
+    {
+      "nombre": "Yi Qin'e",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hu Sanyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hua Caixiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Hongbing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Feng Xiaoxiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mi Lan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yi Laidi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Yi Qin'e, una joven pastora, llega por casualidad a una compañía de ópera Qinqiang gracias a su tío Hu Sanyuan. A lo largo de varias décadas de cambios y dificultades, lucha por abrirse camino y acaba convirtiéndose en una reconocida intérprete. Su trayectoria refleja también la vida y el destino de la gente corriente y la transformación de la sociedad china.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Lw6LNb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial (Tencent Video)",
+        "url": "https://www.youtube.com/watch?v=0JAqM2YW_38"
+      }
+    ]
+  },
+  "activo": true
+}
