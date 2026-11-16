@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001368",
+  "titulo": "Veil of Shadows",
+  "tituloOriginal": "月鳞绮纪",
+  "alias": [
+    "Yue Lin Qi Ji",
+    "Painted Skin: The Resurrection"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Relato",
+    "titulo": "Painted Skin (画皮)",
+    "autor": "Pu Songling",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-04-01",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Fantasía",
+    "Romance",
+    "Aventura"
+  ],
+  "multimedia": {},
+  "activo": true
+}
