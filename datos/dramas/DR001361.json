@@ -1,0 +1,94 @@
+{
+  "codigo": "DR001361",
+  "bl": false,
+  "titulo": "The Tang Mist",
+  "tituloOriginal": "大唐迷雾",
+  "alias": [
+    "Da Tang Mi Wu",
+    "The Tang Mist S1"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "estado": "finalizado",
+  "estreno": "2026-05-23",
+  "finalizacion": "2026-06-10",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Misterio",
+    "Suspense",
+    "Crimen"
+  ],
+  "tags": [
+    "Dinastía Tang",
+    "Di Renjie",
+    "Investigación",
+    "Casos criminales",
+    "Conspiraciones",
+    "Jiangnan"
+  ],
+  "personas": [
+    {
+      "nombre": "Di Renjie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Duan Shisi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chu Qinglan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Buyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Zetian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhuang Luobai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la era Chuigong de la dinastía Tang, Di Renjie se distancia de la emperatriz Wu Zetian al no aceptar que sacrifique vidas inocentes por sus ambiciones. Junto a sus compañeros abandona la capital y viaja a Jiangnan para investigar una serie de sucesos extraños y crímenes desconcertantes. Bajo la apariencia de una época próspera se esconden luchas de poder, codicia y obsesiones que conducen a una compleja red de conspiraciones. Di Renjie deberá utilizar su extraordinaria capacidad de observación y deducción para descubrir la verdad detrás de cada caso.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73Owme_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "The Tang Mist S1 — tráiler oficial (Tencent Video)",
+        "url": "https://www.youtube.com/watch?v=ge-3B3PM5cw"
+      }
+    ]
+  },
+  "activo": true
+}
