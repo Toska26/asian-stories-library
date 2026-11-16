@@ -1,0 +1,74 @@
+{
+  "codigo": "DR001366",
+  "bl": false,
+  "titulo": "Fate Chooses You",
+  "tituloOriginal": "佳偶天成",
+  "alias": [
+    "Jia Ou Tian Cheng"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "佳偶天成",
+    "autor": "Shi Si Lang",
+    "pais": "CN"
+  },
+  "universo": "UN000031",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-04-25",
+  "finalizacion": "2026-05-11",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance",
+    "Histórico",
+    "Acción"
+  ],
+  "tags": [
+    "Antigua China",
+    "Maldición",
+    "Matrimonio",
+    "Destino",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Lu Qianqiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xin Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lu Qianqiao",
+        "Xin Mei"
+      ]
+    }
+  ],
+  "sinopsis": "Lu Qianqiao vive bajo una maldición que solo puede romper superando cinco pruebas. Para cumplir su destino acaba unido en matrimonio a Xin Mei, una joven que se ve arrastrada a un viaje lleno de peligros y secretos. A medida que ambos afrontan las pruebas y descubren la verdad sobre la maldición, su relación se transforma y Xin Mei deberá luchar para proteger a la persona que ama.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Kp4wWD_4f.jpg"
+    ]
+  },
+  "activo": true
+}
