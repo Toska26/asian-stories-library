@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001380",
+  "bl": false,
+  "titulo": "Her Blaze",
+  "tituloOriginal": "她的盛焰",
+  "alias": [
+    "Ta De Sheng Yan",
+    "盛怒",
+    "Sheng Nu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-13",
+  "generos": [
+    "Drama",
+    "Drama moderno",
+    "Venganza"
+  ],
+  "tags": [
+    "Venganza",
+    "Traición",
+    "Amistad",
+    "Empresarial",
+    "Superación personal",
+    "Justicia"
+  ],
+  "personas": [
+    {
+      "nombre": "Rao Yuci",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Dongchao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Jingjing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Mo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Muran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Peidong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tian Tian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Zhaohe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wan Lingling",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Rao Yuci, una brillante matemática y emprendedora, es traicionada por su mejor amiga y socia Bai Jingjing, quien la incrimina y provoca que sea internada en un centro de tratamiento. Tres años después, recuperada y decidida a recuperar su vida, regresa para desenmascarar a quienes destruyeron su carrera y revelar la verdad detrás de la conspiración.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/mOpmLk_4f.jpg"
+    ]
+  },
+  "activo": true
+}
