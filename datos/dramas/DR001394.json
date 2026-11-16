@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001394",
+  "bl": false,
+  "titulo": "Under the Rainbow",
+  "tituloOriginal": "日落下的彩虹",
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-29",
+  "finalizacion": "2026-08-19",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Romance",
+    "Slice of Life"
+  ],
+  "personas": [
+    {
+      "nombre": "Tsui Wai Bun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ma Lai Kwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Tze Pak",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tsui Yu Fung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lo Siu Kit",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alice Au",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Siete historias conectadas siguen a los residentes de Choi Hung Estate mientras afrontan la remodelación del barrio, los cambios familiares, las amistades, el amor, el perdón y la despedida de un lugar lleno de recuerdos.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/c/c6/Under_the_Rainbow.webp"
+    ]
+  }
+}
