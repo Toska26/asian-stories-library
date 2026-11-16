@@ -1,0 +1,115 @@
+{
+  "codigo": "DR001382",
+  "bl": false,
+  "titulo": "Live Up to Your Youth",
+  "tituloOriginal": "冬去春来",
+  "alias": [
+    "Dong Qu Chun Lai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 32,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-22",
+  "generos": [
+    "Drama",
+    "Juventud",
+    "Vida",
+    "Música"
+  ],
+  "tags": [
+    "Años 90",
+    "Beijing",
+    "Sueños",
+    "Arte",
+    "Amistad",
+    "Superación personal",
+    "Industria del entretenimiento"
+  ],
+  "personas": [
+    {
+      "nombre": "Xu Shengli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhuang Zhuang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Ranran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tao Liangliang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Guo Zongbao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cao Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Dongbei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chu Caiyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Sheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "An Zhibang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el Beijing de los años noventa, una pequeña pensión reúne a un grupo de jóvenes llegados de distintos lugares que persiguen sus sueños artísticos. Xu Shengli quiere convertirse en guionista, Zhuang Zhuang aspira a triunfar como cantante, Shen Ranran busca oportunidades como actriz y Tao Liangliang lucha por vivir de la música. Mientras afrontan las dificultades de la vida adulta, sus caminos evolucionan con el paso de los años.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYpP4Q_4f.jpg"
+    ]
+  },
+  "activo": true
+}
