@@ -74,20 +74,6 @@
       "principal": false
     },
     {
-      "nombre": "Liu Na",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Yang Baichun",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Kang Limin",
       "funcion": [
         "Actor"
@@ -102,13 +88,6 @@
       "principal": false
     },
     {
-      "nombre": "Huang Liang",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Tian Jinhai",
       "funcion": [
         "Actor"
@@ -116,12 +95,12 @@
       "principal": false
     },
     {
-      "nombre": "Tong Shuo",
+      "nombre": "Xin Yu",
       "funcion": [
         "Actor"
       ],
       "principal": false
     }
   ],
-  "sinopsis": "A finales de los años noventa, el hallazgo del cadáver de una mujer en la zona minera de Fengyang rompe la calma de un pequeño pueblo. El policía Chen Hongbing inicia una investigación que revela vínculos con un medicamento ilegal y una red de tráfico. A medida que salen a la luz viejos secretos, el caso enfrenta a una familia y a toda la comunidad con decisiones difíciles entre el deber, la lealtad y la justicia."
+  "sinopsis": "A finales de los años noventa, el hallazgo del cadáver de una mujer en la zona minera del pueblo de Fengyang rompe la calma de la localidad. El policía Chen Hongbing inicia una investigación que conecta el crimen con una sustancia ilegal y una red de tráfico. Las pesquisas revelan secretos familiares y enfrentan a los habitantes a decisiones difíciles entre el deber, la lealtad y la justicia."
 }
