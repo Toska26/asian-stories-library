@@ -32,5 +32,80 @@
       "https://i.mydramalist.com/81dE2l_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "tags": [
+    "Hotel",
+    "Mundo laboral",
+    "Segunda oportunidad",
+    "Superación personal",
+    "Romance urbano"
+  ],
+  "personas": [
+    {
+      "nombre": "Ji Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Miyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lu Zhenzhen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nie Yucheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tan Jizhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Qiaoqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ma Kesi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Duan Aoxiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Zhichun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras atravesar una crisis matrimonial y personal, Xu Miyu debe reconstruir su vida y recuperar su independencia. Su camino se cruza con Ji Feng, un exigente directivo hotelero que llega para sanear la gestión de un establecimiento en dificultades. Al trabajar juntos, ambos afrontan conflictos profesionales y personales, y descubren nuevas posibilidades para empezar de nuevo."
 }
