@@ -15,7 +15,7 @@ const carpetaInformacion = path.join(__dirname, '..', 'informacion');
 
 // 🔍 CAMBIA AQUÍ EL CAMPO QUE QUIERES EXTRAER Y VER SU VALOR
 // Ejemplos: "sinopsis", "anio", "multimedia.portada", "tituloOriginal"
-const campoABuscar = "multimedia.portada"; 
+const campoABuscar = "relaciones"; 
 
 function obtenerValorAnidado(obj, ruta) {
     return ruta.split('.').reduce((acc, parte) => (acc && acc[parte] !== undefined) ? acc[parte] : undefined, obj);
