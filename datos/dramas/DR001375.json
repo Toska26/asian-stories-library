@@ -21,5 +21,115 @@
       "https://i.mydramalist.com/YY5DVB_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familiar",
+    "Comedia"
+  ],
+  "tags": [
+    "Familias monoparentales",
+    "Vecinos",
+    "Segundas oportunidades",
+    "Recomposición familiar",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Shen Lei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Sen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Sihang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Na",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shen Duoduo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Yizhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cai Yayun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Buhuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Monica",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhuo Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Dong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ou Yangzi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Shen Lei",
+        "Lin Sen"
+      ]
+    }
+  ],
+  "sinopsis": "Shen Lei, madre soltera y dibujante de ilustraciones emocionales, vive con sus dos hijos. Lin Sen, padre divorciado y meteorólogo, se muda al piso de al lado con su hija. Sus diferencias provocan continuos enfrentamientos vecinales, aunque ambos empiezan a descubrir una conexión inesperada. Mientras sus hijos también deben aprender a convivir, las dos familias afrontan heridas del pasado y la posibilidad de construir un nuevo hogar."
 }
