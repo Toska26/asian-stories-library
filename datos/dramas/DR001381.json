@@ -1,0 +1,106 @@
+{
+  "codigo": "DR001381",
+  "bl": false,
+  "titulo": "Vanished Name",
+  "tituloOriginal": "隐身的名字",
+  "alias": [
+    "Yin Shen De Ming Zi"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "隐身的名字",
+    "autor": "Yi Nan",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 31,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-18",
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Misterio"
+  ],
+  "tags": [
+    "Misterio",
+    "Investigación criminal",
+    "Secretos familiares",
+    "Amistad femenina",
+    "Dos generaciones",
+    "Redención",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Ren Xiaoming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ren Meiyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bai Shu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ge Wenjun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Xiaoran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Yun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Yuqiong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Meng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Ren Xiaoming descubre que su marido ha utilizado sus diarios personales para escribir una novela y apropiarse de su trabajo. Al intentar recuperar su identidad y sus derechos, se ve envuelta en la investigación de un antiguo caso de asesinato. Los secretos que salen a la luz conectan su historia con la de su madre y otras mujeres, cuyas vidas quedaron marcadas por una tragedia del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/jQxvmv_4f.jpg"
+    ]
+  },
+  "activo": true
+}
