@@ -1,0 +1,122 @@
+{
+  "codigo": "DR001379",
+  "bl": false,
+  "titulo": "My Destiny",
+  "tituloOriginal": "我的山与海",
+  "alias": [
+    "Wo He Shan Yu Hai",
+    "我和我的命",
+    "Wo He Wo De Ming"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "我和我的命",
+    "autor": "Liang Xiaosheng",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-07",
+  "generos": [
+    "Drama",
+    "Vida",
+    "Empresarial"
+  ],
+  "tags": [
+    "Superación personal",
+    "Emprendimiento",
+    "Amistad",
+    "Familia",
+    "Shenzhen",
+    "Reforma económica",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Fang Wanzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Juan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hao Qianqian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gao Xiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "He Yongwang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Meng Siyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Jingyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Xingke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yan Ziwei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Zhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Fang Wanzhi abandona su hogar en las montañas del suroeste de China y se traslada a Shenzhen en busca de una vida mejor. Allí, junto a sus amigas Li Juan y Hao Qianqian, afronta dificultades laborales y personales mientras intenta abrirse camino en el mundo empresarial. A lo largo de varias décadas, su determinación y capacidad para superar los obstáculos transforman su destino y el de quienes la rodean.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/mOpzZJ_4f.jpg"
+    ]
+  },
+  "activo": true
+}
