@@ -27,5 +27,73 @@
       "https://i.mydramalist.com/zBL701_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "tags": [
+    "Investigación policial",
+    "Caso sin resolver",
+    "Desaparición",
+    "Salto temporal",
+    "Relación padre e hija"
+  ],
+  "personas": [
+    {
+      "nombre": "He Yuanhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ran Fangxu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "He Xiaohe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qiao Suqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qu Dahai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Shanlong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Meng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Song Qingsong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En 1997, la desaparición de un padre y su hija en el edificio Yuanlongli desconcierta a la policía. El veterano investigador He Yuanhang y su joven compañero Ran Fangxu siguen pistas que parecen contradecirse. Años después, nuevos hallazgos reabren el caso y llevan a He y a su hija He Xiaohe, ya convertida en policía, a retomar la investigación para descubrir la verdad que conecta los distintos momentos del misterio."
 }
