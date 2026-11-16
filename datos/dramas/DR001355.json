@@ -1,0 +1,127 @@
+{
+  "codigo": "DR001355",
+  "bl": false,
+  "titulo": "Dazzling",
+  "tituloOriginal": "耀眼",
+  "alias": [
+    "Yao Yan"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Yao Yan",
+    "tituloOriginal": "耀眼",
+    "autor": "Shi Jiuyuan"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-05-27",
+  "finalizacion": "2026-06-10",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juventud"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Adolescencia",
+    "Amistad",
+    "Reencuentro",
+    "Superación",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Qing Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xing Wu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Lanfang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Guimei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hao Chenggong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fan Tong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Shanxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cao Ping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huang Mao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Qing Ye",
+        "Xing Wu"
+      ]
+    }
+  ],
+  "sinopsis": "Tras un cambio familiar, Qing Ye deja la gran ciudad y regresa a su localidad durante el último año de instituto. Allí conoce a Xing Wu, un joven con dificultades académicas y familiares. Aunque al principio chocan, ambos se ayudan a encontrar su camino. Después de separarse para estudiar y construir sus vidas, se reencuentran años más tarde y descubren que sus sentimientos siguen vivos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Kpoqq8_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional oficial (iQIYI)",
+        "url": "https://www.iq.com/short/%E8%80%80%E7%9C%BC-bnvd5abfts?lang=zh_cn"
+      }
+    ]
+  },
+  "activo": true
+}
