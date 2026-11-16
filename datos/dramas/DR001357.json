@@ -58,6 +58,13 @@
         "Actor"
       ],
       "principal": true
+    },
+    {
+      "nombre": "Parhat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
     }
   ],
   "sinopsis": "En Kashgar, tres amigas de infancia atraviesan momentos decisivos de sus vidas. Xia Zi, graduada en arquitectura, regresa desde Shanghái tras perder su empleo y decide recuperar una antigua posada familiar. Zhou Hengzhi, un joven emprendedor, se instala también en la ciudad para renovar el alojamiento y unir la cultura tradicional de las posadas con una propuesta moderna. Mientras tanto, Leyli busca preservar la artesanía local de la cerámica y Minawuer intenta conciliar su pasión por la danza con su vida personal.",
@@ -66,5 +73,19 @@
       "https://i.mydramalist.com/734w0R_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Xia Zi",
+        "Zhou Hengzhi"
+      ]
+    },
+    {
+      "personajes": [
+        "Leyli",
+        "Parhat"
+      ]
+    }
+  ]
 }
