@@ -1,0 +1,112 @@
+{
+  "codigo": "DR001390",
+  "bl": false,
+  "titulo": "Case X Decoded",
+  "tituloOriginal": "重案解密",
+  "alias": [
+    "Chung On Kai Mat",
+    "Zhong An Jie Mi"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 42,
+  "estado": "finalizado",
+  "estreno": "2026-04-16",
+  "finalizacion": "2026-04-23",
+  "generos": [
+    "Misterio",
+    "Crimen"
+  ],
+  "personas": [
+    {
+      "nombre": "Dou Hoi Ban",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yim Cheuk Wing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Sze Yee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chow Wing Kuen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ching Tsz Yiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yim Mei Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chow Yau Wo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ng Hang Tung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chow Chor Kwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fong Lap Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Law Kwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nOzLZB_4f.jpg"
+    ]
+  }
+}
