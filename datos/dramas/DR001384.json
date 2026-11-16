@@ -1,0 +1,103 @@
+{
+  "codigo": "DR001384",
+  "bl": false,
+  "titulo": "Flags of Glory",
+  "tituloOriginal": "战旗如画",
+  "alias": [
+    "Zhan Qi Ru Hua",
+    "Banner of Heroes"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 33,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-29",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Bélico",
+    "Militar"
+  ],
+  "tags": [
+    "Guerra de Corea",
+    "Ejército",
+    "China",
+    "1950",
+    "1953",
+    "Patriotismo",
+    "Supervivencia",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Wei Zhenghua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fu Qiong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zheng Xiongcai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Han Sanmei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Long Hanjun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiao Fendou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Zhengzhong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wei Zhengneng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la Guerra de Corea, Wei Zhenghua adopta la identidad de su amigo Zheng Xiongcai y se une a las fuerzas chinas en el frente. A través de numerosas batallas, afronta pérdidas personales, conspiraciones y situaciones extremas junto a sus compañeros. Décadas después del armisticio, una bandera de guerra sirve para recordar a quienes sacrificaron sus vidas por la paz.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PxPWyw_4f.jpg"
+    ]
+  },
+  "activo": true
+}
