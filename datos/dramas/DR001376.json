@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001376",
+  "titulo": "Light to the Night",
+  "tituloOriginal": "黑夜告白",
+  "alias": [
+    "Hei Ye Gao Bai"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "estado": "finalizado",
+  "estreno": "2026-04-26",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen",
+    "Suspense"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBL701_4f.jpg"
+    ]
+  },
+  "activo": true
+}
