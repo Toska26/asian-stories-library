@@ -1,0 +1,115 @@
+{
+  "codigo": "DR001383",
+  "bl": false,
+  "titulo": "Hold a Court Now",
+  "tituloOriginal": "家事法庭",
+  "alias": [
+    "Jia Shi Fa Ting",
+    "我们与法庭的距离",
+    "Wo Men Yu Fa Ting De Ju Li"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-25",
+  "generos": [
+    "Drama",
+    "Legal",
+    "Vida"
+  ],
+  "tags": [
+    "Derecho",
+    "Tribunales",
+    "Justicia",
+    "Familia",
+    "Conflictos matrimoniales",
+    "Casos sociales"
+  ],
+  "personas": [
+    {
+      "nombre": "Shen Xiezhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qin Rui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shu Jing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lian Yongjiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Le",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ying Danian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Xianghui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Lian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hu Aixi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El joven juez Shen Xiezhi y la abogada Qin Rui trabajan junto a otros profesionales del ámbito jurídico para ayudar a resolver conflictos familiares y sociales. A través de distintos casos relacionados con disputas entre padres e hijos, problemas matrimoniales y otras dificultades cotidianas, el equipo busca equilibrar la aplicación de la ley con la comprensión de las personas implicadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3pogV_4f.jpg"
+    ]
+  },
+  "activo": true
+}
