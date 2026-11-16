@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001392",
+  "bl": false,
+  "titulo": "The Season",
+  "pais": [
+    "HK",
+    "US"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 48,
+  "estado": "finalizado",
+  "estreno": "2026-06-17",
+  "finalizacion": "2026-06-17",
+  "generos": [
+    "Drama",
+    "Thriller"
+  ],
+  "personas": [
+    {
+      "nombre": "Cola Pierce",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Christopher Hext",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fiona Hext",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Andrew Fung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "David Ho",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madeline Huang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Carrie Shen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sara Byford",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O8PV3d_4f.jpg"
+    ]
+  }
+}
