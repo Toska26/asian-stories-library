@@ -17,7 +17,7 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 24,
-  "duracion": 45,
+  "duracion": 46,
   "estado": "finalizado",
   "estreno": "2026-05-26",
   "generos": [
@@ -34,62 +34,13 @@
   ],
   "personas": [
     {
-      "nombre": "Yan Sitang",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Yu Shengnan",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
       "nombre": "Wang Sanping",
       "funcion": [
         "Actor"
       ],
       "principal": true
-    },
-    {
-      "nombre": "Wang Erping",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Wang Daping",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Zhao Fucheng",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Lu Dengfeng",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Xiang Qian",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
     }
   ],
-  "sinopsis": "En 1939, en las montañas Taihang, la guerra contra la ocupación japonesa atraviesa uno de sus momentos más difíciles. Las mujeres de las aldeas, organizadas en asociaciones de apoyo, asumen la tarea de amamantar y proteger a los hijos recién nacidos de los combatientes del Octavo Ejército. Wang Sanping y otras mujeres afrontan enormes sacrificios para cuidar a los pequeños y sostener a sus familias y comunidades en medio de la guerra. La serie está inspirada en las historias reales de las llamadas «nodrizas de Taihang».",
+  "sinopsis": "En 1939, en las montañas Taihang, la guerra contra la ocupación japonesa atraviesa uno de sus momentos más difíciles. Debido a las duras condiciones del frente, numerosas mujeres de las aldeas, organizadas en asociaciones de apoyo, se encargan de amamantar y proteger a los hijos recién nacidos de los combatientes del Octavo Ejército. La historia sigue especialmente a Wang Sanping, responsable de la asociación de mujeres, y a las campesinas que arriesgan sus vidas para cuidar a los niños y apoyar la resistencia. La serie está inspirada en el grupo histórico conocido como las «nodrizas de Taihang».",
   "activo": true
 }
