@@ -1,0 +1,104 @@
+{
+  "codigo": "DR001365",
+  "bl": false,
+  "titulo": "Rebirth",
+  "tituloOriginal": "冰湖重生",
+  "alias": [
+    "Bing Hu Chong Sheng",
+    "Chu Qiao: Bing Hu Chong Sheng",
+    "Frozen Awakening",
+    "Legend of Chu Qiao 2"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001362",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-04-08",
+  "finalizacion": "2026-04-23",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Romance",
+    "Acción",
+    "Aventura"
+  ],
+  "tags": [
+    "Antigua China",
+    "Venganza",
+    "Intriga política",
+    "Continuación"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu Qiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhuge Yue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yan Xun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Chun'er",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Ce",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Emperatriz de Bian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cheng Yuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhan Ziyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras la batalla del Lago Helado, Chu Qiao logra sobrevivir y emprende un camino marcado por la búsqueda de respuestas y el deseo de justicia. Mientras intenta descubrir la verdad sobre la desaparición de Zhuge Yue, debe enfrentarse a las consecuencias de las decisiones de Yan Xun y a nuevas luchas por el poder. En un mundo dividido por la guerra y las traiciones, Chu Qiao tendrá que decidir en quién confiar y qué futuro desea construir.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g0dKpn_4f.jpg"
+    ]
+  },
+  "activo": true
+}
