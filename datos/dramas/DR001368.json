@@ -4,6 +4,7 @@
   "tituloOriginal": "月鳞绮纪",
   "alias": [
     "Yue Lin Qi Ji",
+    "Hua Pi",
     "Painted Skin: The Resurrection"
   ],
   "pais": [
@@ -31,6 +32,72 @@
     "Romance",
     "Aventura"
   ],
-  "multimedia": {},
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "tags": [
+    "Demonios",
+    "Nueve colas",
+    "Cazadores de demonios",
+    "Fantasía xuanhuan",
+    "Amor y redención"
+  ],
+  "personas": [
+    {
+      "nombre": "Lu Wuyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Shiguang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Wangyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ji Ling",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Jie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xiaowei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiu Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Shengwei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Lu Wuyi, una joven zorra de nueve colas de la secta Luna Sin Forma, recibe la misión de localizar a la demonio Xiaowei. Para acercarse a ella se infiltra en la mansión Wei, donde conoce a Wu Shiguang y a los cazadores de demonios Ji Ling y Li Jie. Sus destinos se entrelazan en la lucha por el poder del Dios Dragón y contra Jiu Ying, señor de los demonios."
 }
