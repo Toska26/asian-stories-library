@@ -1,0 +1,128 @@
+{
+  "codigo": "DR001362",
+  "bl": false,
+  "titulo": "Princess Agents",
+  "tituloOriginal": "楚乔传",
+  "alias": [
+    "Chu Qiao Zhuan",
+    "Legend of Chu Qiao"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2017,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "11处特工皇妃",
+    "autor": "Xiao Xiang Dong'er",
+    "pais": "CN"
+  },
+  "serie": "SR001362",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 58,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2017-06-05",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Romance",
+    "Acción",
+    "Aventura"
+  ],
+  "tags": [
+    "Antigua China",
+    "Esclavitud",
+    "Lucha por la libertad",
+    "Intriga política",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Chu Qiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuwen Yue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yan Xun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuan Chun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Ce",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yuwen Huai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yue Qi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Zhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yuan Song",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Durante la época de la dinastía Wei Occidental, la joven esclava Chu Qiao es utilizada como presa en una cacería organizada por nobles. Rescatada por Yan Xun, acaba vinculada a la poderosa familia Yuwen. Tras presenciar la muerte de personas cercanas y sufrir la crueldad de la aristocracia, decide luchar por su libertad y por acabar con el sistema de esclavitud. En medio de las luchas políticas y militares, sus sentimientos y lealtades se ven divididos entre Yan Xun y Yuwen Yue.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NvjeJf.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/3f9/3f9f19645d91da25c3dc1ae235999cc4.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
