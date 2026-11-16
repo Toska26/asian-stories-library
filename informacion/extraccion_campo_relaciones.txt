@@ -1,0 +1,22 @@
+📋 Extracción del campo: [ relaciones ] (Dramas que SÍ lo tienen informado)
+----------------------------------------------------------------------------------
+DR000773	TH	2023	Our Skyy 2	[object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object]
+DR000774	TH	2018	Our Skyy	[object Object], [object Object], [object Object], [object Object], [object Object]
+DR000839	TH	2021	7 Project	[object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object]
+DR000893	TH	2023	My Universe	[object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object], [object Object]
+DR000936	TH	2024	Every You, Every Me	[object Object], [object Object], [object Object], [object Object], [object Object]
+DR000939	TH	2024	Fourever You	[object Object], [object Object]
+DR000943	TH	2024	The Outing	[object Object], [object Object], [object Object]
+DR000985	TH	2025	4 Destiny	[object Object], [object Object], [object Object], [object Object]
+DR001064	TH	2026	LOVE×3: The Mandatory Love Course	[object Object], [object Object], [object Object]
+DR001308	CN	2025	The Haoge of Erlonghu: No Rogues Under Heaven	[object Object]
+DR001342	CN	2026	Never-Ending Summer	[object Object]
+DR001350	CN	2026	Blazing Summer	[object Object]
+DR001398	ID	2026	The Heart of Suhita Series	[object Object]
+DR001399	ID	2026	Operation Wedding	[object Object]
+DR001400	ID	2026	Tante Sonya	[object Object]
+DR001401	ID	1994	Catatan Harian Tante Sonya	[object Object]
+DR001402	ID	2013	Operation Wedding	[object Object]
+DR001403	ID	2023	The Heart of Suhita	[object Object]
+----------------------------------------------------------------------------------
+📊 Total dramas con el campo "relaciones" informado: 18
