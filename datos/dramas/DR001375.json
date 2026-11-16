@@ -1,0 +1,25 @@
+{
+  "codigo": "DR001375",
+  "titulo": "Last Summer",
+  "tituloOriginal": "夏末初见",
+  "alias": [
+    "Xia Mo Chu Jian"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-04-19",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YY5DVB_4f.jpg"
+    ]
+  },
+  "activo": true
+}
