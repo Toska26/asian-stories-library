@@ -1,0 +1,85 @@
+{
+  "codigo": "DR001387",
+  "bl": false,
+  "titulo": "The Unusual Prosecutor",
+  "tituloOriginal": "非常檢控觀",
+  "alias": [
+    "Fei Soeng Gim Hung Gun",
+    "Fei Chang Jian Kong Guan"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-01-19",
+  "finalizacion": "2026-02-20",
+  "generos": [
+    "Drama",
+    "Legal",
+    "Crimen"
+  ],
+  "personas": [
+    {
+      "nombre": "Bau Hei Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kung Suen Pok",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chin Hung Fei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chun Heung Yin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wong Chung Sing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chiu Tsz Ching",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pak Yat Tung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABjXpL_4f.jpg"
+    ]
+  }
+}
