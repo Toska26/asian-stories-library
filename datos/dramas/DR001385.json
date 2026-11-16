@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001385",
+  "bl": false,
+  "titulo": "The Airport Diary",
+  "tituloOriginal": "飛常日誌",
+  "alias": [
+    "Fei Chang Ri Zhi",
+    "Fei Seong Jat Zi"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2024,
+  "tipo": "DR",
+  "serie": "SR001385",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2024-01-15",
+  "finalizacion": "2024-01-26",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Aviación",
+    "Aeropuerto",
+    "Vida laboral",
+    "Emergencias",
+    "Relaciones personales",
+    "Trabajo en equipo"
+  ],
+  "personas": [
+    {
+      "nombre": "Yeung Seung-wai",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Cheung Yeuk-ling",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Lui Chi-shan",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Chan Kit",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Lee Sing-cheung",
+      "funcion": ["Actor"],
+      "principal": true
+    },
+    {
+      "nombre": "Fong Ho-yee",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Kwok Kai-kwong",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Ko Nga-man",
+      "funcion": ["Actor"],
+      "principal": false
+    },
+    {
+      "nombre": "Cheung Ying",
+      "funcion": ["Actor"],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el aeropuerto internacional de Hong Kong, Yeung Seung-wai, responsable del centro de control, coordina a un equipo que debe afrontar las incidencias y emergencias de las operaciones aeroportuarias. Su trabajo vuelve a cruzarlo con Cheung Yeuk-ling, su expareja, mientras las responsabilidades profesionales y los vínculos personales se entrelazan.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Z8r64O_4f.jpg"
+    ]
+  },
+  "activo": true
+}
