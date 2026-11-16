@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001370",
+  "titulo": "Echoes of a Thousand Moons",
+  "tituloOriginal": "八千里路云和月",
+  "alias": [
+    "Ba Qian Li Lu Yun He Yue"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "estado": "finalizado",
+  "estreno": "2026-04-07",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABqKrE_4f.jpg"
+    ]
+  },
+  "activo": true
+}
