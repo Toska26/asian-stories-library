@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001371",
+  "titulo": "The Epoch of Miyu",
+  "tituloOriginal": "蜜语纪",
+  "alias": [
+    "Mi Yu Ji",
+    "Records of Sweet Romance"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "蜜语纪",
+    "autor": "Hong Jiu",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 38,
+  "estado": "finalizado",
+  "estreno": "2026-04-13",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/81dE2l_4f.jpg"
+    ]
+  },
+  "activo": true
+}
