@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001372",
+  "titulo": "Gimlet Eyes",
+  "tituloOriginal": "金关",
+  "alias": [
+    "Jin Guan"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "吾辈当关",
+    "autor": "Lie Yi Yang",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "estado": "finalizado",
+  "estreno": "2026-04-14",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABdVmE_4f.jpg"
+    ]
+  },
+  "activo": true
+}
