@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001400",
+  "bl": false,
+  "titulo": "Tante Sonya",
+  "tituloOriginal": "Tante Sonya",
+  "alias": [
+    "Madame Sonya"
+  ],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 90,
+  "estado": "finalizado",
+  "estreno": "2026-09-04",
+  "finalizacion": "2026-11-07",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Adaptación",
+    "Diferencia de edad",
+    "Romance laboral",
+    "Familia",
+    "Intriga empresarial"
+  ],
+  "personas": [
+    {
+      "nombre": "Sonya Mahardika Laksono",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ben Adrian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Martin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Diana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lidya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "origen": {
+    "tipo": "Película",
+    "relacion": "Adaptación moderna",
+    "titulo": "Catatan Harian Tante Sonya",
+    "anio": 1994,
+    "pais": "ID"
+  },
+  "relaciones": [
+    {
+      "tipo": "Adaptación moderna",
+      "nombre": "Catatan Harian Tante Sonya (1994)",
+      "descripcion": "WeTV y Rapi Films presentan la serie como una adaptación moderna de la película de 1994.",
+      "codigo": "DR001401"
+    }
+  ],
+  "sinopsis": "Ocho años después de que Sonya ayudara a Ben en uno de los momentos más difíciles de su vida, ambos se reencuentran cuando él pasa a trabajar bajo sus órdenes en Dermawan Group. La diferencia de edad, los conflictos empresariales y los secretos del pasado ponen a prueba sus sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/kh22ysbh4ut91ch1776844589561/0"
+    ]
+  },
+  "activo": true
+}
