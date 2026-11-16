@@ -1,0 +1,144 @@
+{
+  "codigo": "DR001356",
+  "bl": false,
+  "titulo": "Life is Elsewhere",
+  "tituloOriginal": "欢迎回我的频道",
+  "alias": [
+    "Huan Ying Hui Wo De Pin Dao",
+    "化城喻"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Hua Cheng Yu",
+    "tituloOriginal": "化城喻",
+    "autor": "Ji Wenjun"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-05-27",
+  "finalizacion": "2026-05-31",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Vida urbana",
+    "Trabajo"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Nuevos medios",
+    "Redes sociales",
+    "Crecimiento personal",
+    "Amistad",
+    "Mujeres trabajadoras"
+  ],
+  "personas": [
+    {
+      "nombre": "Jiang Zi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ai Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luo Xin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Haofeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yang Shuo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Han",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Xiaoxiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lu Li",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Feifei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nie Benjie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Milo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Meng Wanqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jiang Zi",
+        "Luo Xin"
+      ]
+    }
+  ],
+  "sinopsis": "Jiang Zi deja un empleo estable en su ciudad natal y se traslada sola a Beijing para abrirse camino como creadora de contenido. Allí tiene la oportunidad de trabajar con Ai Wei, una antigua ídolo que se convierte tanto en compañera como en rival. Mientras intenta crecer en el sector de los nuevos medios, Jiang Zi conoce a Luo Xin, que la apoya en los momentos difíciles y se convierte en alguien fundamental en su vida.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/81Xwbl_4f.jpg"
+    ]
+  },
+  "activo": true
+}
