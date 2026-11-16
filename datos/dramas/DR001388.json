@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001388",
+  "bl": false,
+  "titulo": "Pretty Dangerous",
+  "tituloOriginal": "臥底嬌娃",
+  "alias": [
+    "Ngo Tai Kiu Wa",
+    "Wo Di Jiao Wa"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-02-23",
+  "finalizacion": "2026-03-27",
+  "generos": [
+    "Crimen",
+    "Comedia",
+    "Acción"
+  ],
+  "personas": [
+    {
+      "nombre": "Poon Yik Fung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sham Kai Kei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kong Miu Chi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tung Siu Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ka Bong Nei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lau Biu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0pWL6_4f.jpg"
+    ]
+  }
+}
