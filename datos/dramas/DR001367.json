@@ -13,7 +13,7 @@
   "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
-  "episodios": 12,
+  "episodios": 16,
   "estado": "finalizado",
   "estreno": "2026-04-01",
   "generos": [
@@ -26,5 +26,101 @@
       "https://i.mydramalist.com/mOQ7gk_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "tags": [
+    "Investigación policial",
+    "Atraco",
+    "Caso sin resolver",
+    "Secretos",
+    "Corrupción"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhu Helai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Meng Guangcai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xue Qin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiao Lijun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liu Hua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Fen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Dazhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xue Yonghui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Li Quanyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Liang Huifen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Rongfa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cuando aparecen nuevas pistas sobre un atraco ocurrido dieciocho años atrás, el empresario Meng Guangcai es detenido. Zhu Helai, un antiguo policía relegado a trabajar en el comedor, resulta ser la pieza clave para resolver el caso. La investigación enfrenta a ambos hombres, unidos por una relación de veintiocho años, en un juego de mentiras, sospechas y verdades ocultas."
 }
