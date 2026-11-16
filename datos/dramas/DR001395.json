@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001395",
+  "bl": false,
+  "titulo": "Mrs. Revenge",
+  "tituloOriginal": "夫妻的博弈",
+  "alias": [
+    "Fu Qi De Bo Yi"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-08-03",
+  "finalizacion": "2026-09-04",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "personas": [
+    {
+      "nombre": "Hang Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yip Ka-him",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Si Kai-wai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Poon Suet-man",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yip Kai-wing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Hiu-tung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Una mujer que padece una enfermedad descubre la infidelidad de su marido y de una amiga. Tras sufrir un accidente, despierta convencida de que ha recibido una advertencia sobre el futuro y decide cambiar el rumbo de su vida.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0AQwE_4f.jpg"
+    ]
+  }
+}
