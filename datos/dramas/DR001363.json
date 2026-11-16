@@ -1,0 +1,94 @@
+{
+  "codigo": "DR001363",
+  "bl": false,
+  "titulo": "Love of Thousand Years",
+  "tituloOriginal": "三千鸦杀",
+  "alias": [
+    "San Qian Ya Sha",
+    "The Killing of Three Thousand Crows"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2020,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "三千鸦杀",
+    "tituloOriginal": "三千鸦杀",
+    "autor": "Shi Si Lang",
+    "pais": "CN"
+  },
+  "universo": "UN000031",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2020-03-19",
+  "finalizacion": "2020-04-09",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Antigua China",
+    "Inmortales",
+    "Venganza",
+    "Reinos",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Qin Chuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fu Jiuyun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zuo Zichen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xuan Zhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yan Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras la destrucción del reino de Yan, su princesa superviviente adopta la identidad de Qin Chuan y se propone encontrar la lámpara espiritual que podría ayudarla a restaurar su patria. Durante su búsqueda conoce a Fu Jiuyun, un misterioso inmortal que lleva mil años ligado a ella. Mientras se enfrentan a peligros y secretos del pasado, ambos desarrollan un amor que trasciende el tiempo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/dAJ4Df.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/e25/e25f50c93d321b7fdff05757de426238.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
