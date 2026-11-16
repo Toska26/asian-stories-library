@@ -1,0 +1,80 @@
+{
+  "codigo": "DR001397",
+  "bl": false,
+  "titulo": "This City Never Sleeps",
+  "tituloOriginal": "璀璨之城",
+  "alias": [
+    "Chui Chan Ji Sing",
+    "Cui Can Zhi Cheng",
+    "十月初五後傳"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-10-12",
+  "finalizacion": "2026-11-06",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Negocios",
+    "Venganza"
+  ],
+  "personas": [
+    {
+      "nombre": "Koon Hiu Yin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koon Hiu Kwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hung Hoi Wan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wong Suet Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koon Chi Sam",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En el grupo hotelero Shanglifer, los hermanos Koon Hiu Yin y Koon Hiu Kwan compiten por el poder como co-CEO. Para debilitar a su hermano y a su esposa, Hiu Yin anuncia su matrimonio con la fiscal Hung Hoi Wan, cuya historia personal está ligada a la de Wong Suet Ying.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bve7ve_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional",
+        "url": "https://v.mydramalist.com/01a/01a28000ad28de1acf07bb4d830a5ae5.mp4"
+      }
+    ]
+  }
+}
