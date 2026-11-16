@@ -1,0 +1,103 @@
+{
+  "codigo": "DR001402",
+  "bl": false,
+  "titulo": "Operation Wedding",
+  "tituloOriginal": "Operation Wedding",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2013,
+  "tipo": "PEL",
+  "temporadas": 1,
+  "temporada": 1,
+  "duracion": 106,
+  "estado": "finalizado",
+  "estreno": "2013-02-21",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Windi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kardi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rendi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Feri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Beni",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Herman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Precuela",
+      "nombre": "Operation Wedding (2026)",
+      "descripcion": "Película original cuya historia familiar continúa en la serie de 2026.",
+      "codigo": "DR001399"
+    }
+  ],
+  "sinopsis": "Kardi, un padre soltero y oficial de la Marina, educa a sus cuatro hijas con una disciplina estricta y trata de impedir que tengan novio. Cuando Windi quiere casarse con Rendi, Kardi impone que sus tres hermanas mayores deben casarse antes.",
+  "multimedia": {
+    "portada": [
+      "https://image.tmdb.org/t/p/original/l8IhZW6FJkFZ1k6KJzSTHAjEf8L.jpg"
+    ]
+  },
+  "activo": true
+}
