@@ -1,0 +1,122 @@
+{
+  "codigo": "DR001364",
+  "bl": false,
+  "titulo": "A Moment But Forever",
+  "tituloOriginal": "念无双",
+  "alias": [
+    "Nian Wu Shuang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2025,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "天下无双",
+    "autor": "Shi Si Lang",
+    "pais": "CN"
+  },
+  "universo": "UN000031",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2025-03-27",
+  "finalizacion": "2025-04-14",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance",
+    "Histórico",
+    "Acción"
+  ],
+  "tags": [
+    "Antigua China",
+    "Dioses",
+    "Inmortales",
+    "Amor",
+    "Adaptación"
+  ],
+  "personas": [
+    {
+      "nombre": "Wu Shuang / Ji Tanyin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuan Zhong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhi Dai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tang Hua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qian Lin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Han Nü",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie You",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Lian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wu Shuang / Ji Tanyin",
+        "Yuan Zhong"
+      ]
+    }
+  ],
+  "sinopsis": "Para recuperar un tesoro del Reino Celestial, la diosa Wu Shuang desciende al mundo mortal con la misión de asesinar a Yuan Zhong, sumo sacerdote del clan Youhu. Sin embargo, al acercarse a él descubre secretos que cambian su percepción de la misión. Mientras una antigua amenaza vuelve a poner en peligro el mundo, ambos tendrán que decidir si pueden confiar el uno en el otro y unir sus fuerzas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3odAJV_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler — MyDramaList",
+        "url": "https://v.mydramalist.com/9ed/9edb8902b9d7a1917c1589ab3f6c63a4.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
