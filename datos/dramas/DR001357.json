@@ -4,8 +4,7 @@
   "titulo": "Bloom Life",
   "tituloOriginal": "喀什恋歌",
   "alias": [
-    "Kashi Love Song",
-    "Ka Shi Gu Cheng"
+    "Kashi Love Song"
   ],
   "pais": [
     "CN"
@@ -16,10 +15,9 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
-  "duracion": 45,
   "estado": "finalizado",
   "estreno": "2026-05-05",
-  "finalizacion": "2026-05-07",
+  "finalizacion": "2026-05-08",
   "generos": [
     "Drama",
     "Romance",
@@ -55,44 +53,17 @@
       "principal": true
     },
     {
-      "nombre": "Minaver",
+      "nombre": "Minawuer",
       "funcion": [
         "Actor"
       ],
       "principal": true
-    },
-    {
-      "nombre": "Chang Yue",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Adili",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Parhat",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
     }
   ],
-  "sinopsis": "Xia Zi regresa a su ciudad natal, Kashgar, después de perder su trabajo en Shanghái. Allí se reencuentra con sus amistades de infancia y decide reconstruir una antigua posada familiar. Junto a Zhou Hengzhi, Leyli y Minaver, afronta los cambios y dificultades de la vida, mientras las tres jóvenes buscan su propio camino entre los vínculos familiares, la tradición y la modernidad.",
+  "sinopsis": "En Kashgar, tres amigas de infancia atraviesan momentos decisivos de sus vidas. Xia Zi, graduada en arquitectura, regresa desde Shanghái tras perder su empleo y decide recuperar una antigua posada familiar. Zhou Hengzhi, un joven emprendedor, se instala también en la ciudad para renovar el alojamiento y unir la cultura tradicional de las posadas con una propuesta moderna. Mientras tanto, Leyli busca preservar la artesanía local de la cerámica y Minawuer intenta conciliar su pasión por la danza con su vida personal.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/734w0R_4f.jpg"
-    ],
-    "trailer": [
-      {
-        "titulo": "Bloom Life — tráiler oficial (iQIYI Distribution)",
-        "url": "https://www.youtube.com/watch?v=pqu0MOn3LIE"
-      }
     ]
   },
   "activo": true
