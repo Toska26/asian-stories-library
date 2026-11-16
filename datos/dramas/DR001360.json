@@ -1,0 +1,80 @@
+{
+  "codigo": "DR001360",
+  "bl": false,
+  "titulo": "A Thousand Miles to Your Heart",
+  "tituloOriginal": "过遍千城才识君",
+  "alias": [
+    "Guo Bian Qian Cheng Cai Shi Jun",
+    "不当皇帝的100个理由",
+    "100 Reasons Not to Be King"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 24,
+  "estado": "finalizado",
+  "estreno": "2026-05-29",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia",
+    "Romance"
+  ],
+  "tags": [
+    "Antigua China",
+    "Realeza",
+    "Intriga política",
+    "Viajes",
+    "Artes marciales"
+  ],
+  "personas": [
+    {
+      "nombre": "Qi Zhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ouyang Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Crown Prince",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Heng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhen Fei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Qi Zhi, encargado de cuidar las aves de la corte imperial, recibe del emperador una misión secreta: recorrer distintos territorios para localizar a los príncipes que podrían aspirar al trono. En el camino forma una alianza inesperada con el príncipe heredero y con Ouyang Yan, princesa del reino de Yan. Juntos se enfrentan a conspiraciones y situaciones disparatadas que les llevan a descubrir sus verdaderos deseos y las responsabilidades que deben asumir.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB4wJp_4f.jpg"
+    ]
+  },
+  "activo": true
+}
