@@ -1,0 +1,72 @@
+{
+  "codigo": "DR001389",
+  "bl": false,
+  "titulo": "Themis",
+  "tituloOriginal": "正義女神",
+  "alias": [
+    "Zheng Yi Nv Shen"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 25,
+  "duracion": 44,
+  "estado": "finalizado",
+  "estreno": "2026-03-16",
+  "finalizacion": "2026-05-01",
+  "generos": [
+    "Drama",
+    "Legal",
+    "Crimen",
+    "Thriller"
+  ],
+  "personas": [
+    {
+      "nombre": "Yin Wai-chi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ko Shuk-wah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yau Kwong-ching",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hung Sze-yee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng Siu-man",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "La jueza en funciones del Tribunal Superior Yin Wai-chi solicita ser degradada para trabajar como magistrada en un tribunal de menores. Su llegada altera las aspiraciones profesionales de otros magistrados y la enfrenta a casos juveniles en los que busca proteger a los inocentes y ofrecer a los jóvenes una oportunidad de redención.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0pnvJ_4f.jpg"
+    ]
+  }
+}
