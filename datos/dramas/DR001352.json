@@ -1,0 +1,122 @@
+{
+  "codigo": "DR001352",
+  "bl": false,
+  "titulo": "Born with Luck",
+  "tituloOriginal": "低智商犯罪",
+  "alias": [
+    "Di Zhi Shang Fan Zui",
+    "Qin Zei Ji",
+    "擒贼记",
+    "Low IQ Crimes"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Di Zhi Shang Fan Zui",
+    "tituloOriginal": "低智商犯罪",
+    "autor": "Zi Jin Chen"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 44,
+  "estado": "finalizado",
+  "estreno": "2026-05-04",
+  "finalizacion": "2026-05-13",
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Policía",
+    "Investigación",
+    "Corrupción",
+    "Crimen organizado",
+    "Comedia"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhang Yiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Li Qian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Rong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Zhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Ruijun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Song Xing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hu Jianren",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang Chao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiao Mao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El experimentado detective Zhang Yiang es destinado a Sanjiangkou para investigar un caso. Allí acaba atrapado en una compleja red de asesinatos, delincuencia y corrupción dirigida por Zhou Rong. De forma inesperada, un grupo de ladrones poco hábiles termina ayudándolo a descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/yWxQEB_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional oficial (iQIYI)",
+        "url": "https://www.iq.com/short/born-with-luck-1ifcz2ie0c4?lang=en_us"
+      }
+    ]
+  },
+  "activo": true
+}
