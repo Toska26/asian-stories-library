@@ -1,0 +1,117 @@
+{
+  "codigo": "DR001398",
+  "bl": false,
+  "titulo": "The Heart of Suhita Series",
+  "tituloOriginal": "Hati Suhita Series",
+  "alias": [
+    "Hati Suhita Series"
+  ],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "MIN",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "2026-03-21",
+  "finalizacion": "2026-03-21",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Matrimonio concertado",
+    "Pesantren"
+  ],
+  "personas": [
+    {
+      "nombre": "Alina Suhita",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gus Birru",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ratna Rengganis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Dharma",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ummik Gus Birru",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Abah Gus Birru",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aruna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mbah Putri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Hati Suhita",
+    "autor": "Khilma Anis",
+    "anio": 2019,
+    "pais": "ID"
+  },
+  "relaciones": [
+    {
+      "tipo": "Adaptación de la misma obra",
+      "nombre": "The Heart of Suhita (2023)",
+      "descripcion": "La película y la serie son adaptaciones audiovisuales de la novela Hati Suhita; no se ha confirmado que la serie sea una secuela directa de la película.",
+      "codigo": "DR001403"
+    }
+  ],
+  "sinopsis": "Alina Suhita acepta un matrimonio concertado con Gus Birru, hijo de los propietarios de un pesantren. Aunque ella intenta cumplir con su papel y ganarse el cariño de su marido, él sigue enamorado de su antigua pareja, Ratna Rengganis.",
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
