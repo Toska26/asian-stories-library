@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001367",
+  "titulo": "The Silent Rift",
+  "tituloOriginal": "叵测",
+  "alias": [
+    "Po Ce"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "finalizado",
+  "estreno": "2026-04-01",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Suspense"
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/mOQ7gk_4f.jpg"
+    ]
+  },
+  "activo": true
+}
