@@ -73,5 +73,11 @@
       "principal": false
     }
   ],
-  "sinopsis": "Durante la batalla de Shanghái de 1937, el cocinero Meng Wanfu es reclutado por el ejército y queda bajo el mando del comandante Zhang Yunkui. Tras una operación desastrosa, Zhang es dado por muerto y Meng recibe el encargo de llevar la noticia a su familia. Zhang sobrevive, pero es acusado de cobardía y acaba organizando la resistencia contra los invasores. Mientras tanto, Meng cuida de la familia del comandante y estrecha lazos con Ding Yujiao, su esposa. La guerra transforma la vida de soldados y civiles, que terminan implicándose en la lucha por el futuro del país."
+  "sinopsis": "Durante la batalla de Shanghái de 1937, el cocinero Meng Wanfu es reclutado por el ejército y queda bajo el mando del comandante Zhang Yunkui. Tras una operación desastrosa, Zhang es dado por muerto y Meng recibe el encargo de llevar la noticia a su familia. Zhang sobrevive, pero es acusado de cobardía y acaba organizando la resistencia contra los invasores. Mientras tanto, Meng cuida de la familia del comandante y estrecha lazos con Ding Yujiao, su esposa. La guerra transforma la vida de soldados y civiles, que terminan implicándose en la lucha por el futuro del país.",
+  "origen": {
+    "tipo": "Novela",
+    "titulo": "八千里路云和月",
+    "autor": "Wu Nan, Bian Zhihong y Tian Yu",
+    "pais": "CN"
+  }
 }
