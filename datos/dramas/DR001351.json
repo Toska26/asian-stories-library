@@ -1,0 +1,119 @@
+{
+  "codigo": "DR001351",
+  "bl": false,
+  "titulo": "A Splendid Match",
+  "tituloOriginal": "良陈美锦",
+  "alias": [
+    "Liang Chen Mei Jin"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "nombre": "Liang Chen Mei Jin",
+    "tituloOriginal": "良陈美锦",
+    "autor": "Chen Xiang Hui Jin"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-05-03",
+  "finalizacion": "2026-05-29",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Adaptación de novela",
+    "Época",
+    "Romance histórico",
+    "Intrigas familiares",
+    "Intrigas políticas"
+  ],
+  "personas": [
+    {
+      "nombre": "Gu Jinzhao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Yanyun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ye Xian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gu Lan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Xuanqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fu Hailian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qing Pu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ji Han",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Gu Jinzhao",
+        "Chen Yanyun"
+      ]
+    }
+  ],
+  "sinopsis": "Tras pasar su infancia alejada de su familia materna, Gu Jinzhao regresa a la casa Gu y se enfrenta a las intrigas familiares con una personalidad decidida. Mientras varios hombres se interesan por ella, su relación con el influyente funcionario Chen Yanyun evoluciona desde la desconfianza hasta el amor. Juntos afrontan las disputas familiares y las intrigas de la corte.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBLJLA_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Vídeo promocional oficial (WeTV)",
+        "url": "https://wetv.vip/ja/play/4uxw10geg7iyhgk/h4102uh2tyw-%E3%80%8A%E8%89%AF%E9%99%88%E7%BE%8E%E9%94%A6%E3%80%8B%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91%E9%A2%84%E5%91%8A%EF%BC%9A%E4%BB%BB%E6%95%8F%E6%AD%A4%E6%B2%99%E8%91%A3%E6%80%9D%E6%88%90%E4%B8%8A%E6%BC%94%E4%BF%AE%E7%BD%97%E5%9C%BA"
+      }
+    ]
+  },
+  "activo": true
+}
