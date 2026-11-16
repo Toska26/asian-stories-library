@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001391",
+  "bl": false,
+  "titulo": "The Map of Truth",
+  "tituloOriginal": "香港探秘地圖",
+  "alias": [
+    "Hong Kong Tam Bei Dei To",
+    "Xiang Gang Tan Mi Di Tu"
+  ],
+  "pais": [
+    "HK"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 42,
+  "estado": "finalizado",
+  "estreno": "2026-05-18",
+  "finalizacion": "2026-06-12",
+  "generos": [
+    "Sobrenatural",
+    "Comedia",
+    "Misterio"
+  ],
+  "personas": [
+    {
+      "nombre": "Chong Yat Sun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "But Ping",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ko Man Bun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wong Sau Yi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "But Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zBL1eA_4f.jpg"
+    ]
+  }
+}
