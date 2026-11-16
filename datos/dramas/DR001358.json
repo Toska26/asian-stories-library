@@ -4,9 +4,7 @@
   "titulo": "Tang Dynasty Occult Mysteries",
   "tituloOriginal": "盛唐奇案",
   "alias": [
-    "Sheng Tang Qi An",
-    "Shen Du",
-    "盛唐诡案"
+    "Sheng Tang Qi An"
   ],
   "pais": [
     "CN"
@@ -17,10 +15,8 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 26,
-  "duracion": 35,
   "estado": "finalizado",
   "estreno": "2026-05-22",
-  "finalizacion": "2026-05-28",
   "generos": [
     "Drama",
     "Histórico",
@@ -56,25 +52,12 @@
         "Actor"
       ],
       "principal": true
-    },
-    {
-      "nombre": "Su Lang",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
     }
   ],
-  "sinopsis": "Durante la dinastía Tang, Jue Ming, un investigador conocido por sus métodos poco convencionales, llega a Luoyang y se une a Li Jinglan, una joven experta en medicina forense, y a los agentes Su Yu'an y Su Lang. El grupo investiga una sucesión de crímenes extraños: intercambios de identidad, condenas injustas, asesinatos rituales y casos que esconden agravios de muchos años. Sus pesquisas acabarán revelando una conspiración que alcanza los círculos más poderosos de la corte.",
+  "sinopsis": "Durante la dinastía Tang, Li Jinglan, hija del prefecto y experta en examinar cadáveres y resolver crímenes, une fuerzas con el misterioso detective Jue Ming y con el hábil agente Su Yu'an. Juntos investigan una serie de casos extraordinarios, entre ellos intercambios de identidad entre hermanas gemelas, una injusticia que se remonta a diecisiete años atrás y una cadena de asesinatos rituales. Sus investigaciones sacan a la luz secretos ocultos bajo el esplendor de la corte.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/g0bZlO_4f.jpg"
-    ],
-    "trailer": [
-      {
-        "titulo": "Tang Dynasty Occult Mysteries — tráiler oficial (iQIYI Distribution)",
-        "url": "https://www.youtube.com/watch?v=JDoQrZ1wJLw"
-      }
     ]
   },
   "activo": true
