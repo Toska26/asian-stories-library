@@ -67,20 +67,6 @@
       "principal": true
     },
     {
-      "nombre": "Shen Duoduo",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Shen Yizhou",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Cai Yayun",
       "funcion": [
         "Actor"
@@ -102,13 +88,6 @@
       "principal": false
     },
     {
-      "nombre": "Zhuo Yan",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Yang Dong",
       "funcion": [
         "Actor"
@@ -116,7 +95,49 @@
       "principal": false
     },
     {
-      "nombre": "Ou Yangzi",
+      "nombre": "Zhuo Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Duo Duo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ouyang Zi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Fei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Jiaming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ma Lai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hao Ping",
       "funcion": [
         "Actor"
       ],
@@ -131,5 +152,5 @@
       ]
     }
   ],
-  "sinopsis": "Shen Lei, madre soltera y dibujante de ilustraciones emocionales, vive con sus dos hijos. Lin Sen, padre divorciado y meteorólogo, se muda al piso de al lado con su hija. Sus diferencias provocan continuos enfrentamientos vecinales, aunque ambos empiezan a descubrir una conexión inesperada. Mientras sus hijos también deben aprender a convivir, las dos familias afrontan heridas del pasado y la posibilidad de construir un nuevo hogar."
+  "sinopsis": "Shen Lei, madre soltera e ilustradora, vive con sus dos hijos. Lin Sen, padre divorciado y meteorólogo, se muda al piso de al lado con su hija. Aunque al principio chocan por sus costumbres y sus hijos también se enfrentan en la escuela, ambos descubren que se han sentido atraídos el uno por el otro sin saber que eran vecinos. Poco a poco superan sus diferencias, cuidan de los hijos del otro y forman una nueva familia."
 }
