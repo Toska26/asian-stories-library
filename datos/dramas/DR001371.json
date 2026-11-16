@@ -114,5 +114,13 @@
       "principal": false
     }
   ],
-  "sinopsis": "El matrimonio aparentemente perfecto de Xu Miyu se rompe en su décimo aniversario y ella decide divorciarse para recuperar su independencia. Empieza de nuevo trabajando como empleada de limpieza en el hotel Purong, donde se reencuentra con Ji Feng, antiguo conocido y nuevo director general. Mientras afrontan juntos los retos del hotel, su relación evoluciona hacia el amor y ambos contribuyen a convertir el establecimiento en un referente de la ciudad."
+  "sinopsis": "El matrimonio aparentemente perfecto de Xu Miyu se rompe en su décimo aniversario y ella decide divorciarse para recuperar su independencia. Empieza de nuevo trabajando como empleada de limpieza en el hotel Purong, donde se reencuentra con Ji Feng, antiguo conocido y nuevo director general. Mientras afrontan juntos los retos del hotel, su relación evoluciona hacia el amor y ambos contribuyen a convertir el establecimiento en un referente de la ciudad.",
+  "ships": [
+    {
+      "personajes": [
+        "Ji Feng",
+        "Xu Miyu"
+      ]
+    }
+  ]
 }
