@@ -27,12 +27,115 @@
   "estreno": "2026-04-28",
   "generos": [
     "Drama",
-    "Romance"
+    "Romance",
+    "Urbano"
   ],
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/b3Dvwe_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "tags": [
+    "Mujeres independientes",
+    "Vida urbana",
+    "Amistad femenina",
+    "Relaciones",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Lin Zhanqiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "He Han",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Mei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bei Wenqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gu Yan / Wang Hai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cai Zhangzhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Lanxin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ling Yikai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhang Yousen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dai Shan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uncle Fan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cai Dezhuang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lin Zhanqiao",
+        "He Han"
+      ]
+    }
+  ],
+  "sinopsis": "Lin Zhanqiao es una mujer urbana económicamente independiente y de ideas maduras que ha elegido vivir sola antes que conformarse con una relación. Al conocer a He Han, ambos comienzan con malentendidos, pero el crecimiento personal y las decisiones que afrontan en el amor y el trabajo les hacen descubrir que son la pareja que buscaban. Tras superar obstáculos, deciden casarse. La historia también sigue a las amigas de Lin mientras encuentran su propio camino."
 }
