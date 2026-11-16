@@ -34,5 +34,87 @@
       "https://i.mydramalist.com/l0Kw3J_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "bl": false,
+  "duracion": 45,
+  "tags": [
+    "Investigación criminal",
+    "Caso sin resolver",
+    "Psicología criminal",
+    "Matrimonio",
+    "Secretos del pasado"
+  ],
+  "personas": [
+    {
+      "nombre": "Jiang Hansheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Cheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tan Shiming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "He Wu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qi Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lai Zhengtian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Yang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qiu Ye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Chuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El hallazgo del cadáver de una mujer aporta nuevas pistas sobre el caso sin resolver del 17 de agosto. La llegada del profesor de psicología criminal Jiang Hansheng al equipo de investigación sorprende a la agente Zhou Jin: descubre que su marido, con quien se casó impulsivamente, había sido policía provincial. Las pesquisas también apuntan a Jiang Cheng, el primer amor de Zhou, y sacan a la luz secretos que los tres arrastran desde hace años."
 }
