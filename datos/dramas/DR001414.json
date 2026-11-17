@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001414",
+  "bl": false,
+  "titulo": "Garam Muda: Gairah Masa Muda",
+  "tituloOriginal": "Garam Muda: Gairah Masa Muda",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": null,
+  "estreno": "2026-08-07",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/07/nonton-streaming-download-drama-indonesia-garam-muda-cast-viu-original.jpg",
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/07/nonton-streaming-download-drama-indonesia-garam-muda-cast-aisyah-aqilah-sub-indo-viu-original.jpg",
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/07/nonton-streaming-download-drama-indonesia-garam-muda-cast-junior-roberts-sub-indo-viu-original.jpg"
+    ]
+  },
+  "activo": true
+}
