@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001411",
+  "bl": false,
+  "titulo": "Samuel",
+  "tituloOriginal": "Samuel",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": null,
+  "estreno": "2026-06-12",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
