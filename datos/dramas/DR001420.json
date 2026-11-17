@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001420",
+  "titulo": "Just A Little Longer",
+  "tituloOriginal": "Sesaat Lebih",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-01-29",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Viu Original",
+    "Duelo",
+    "Familia",
+    "Segundas oportunidades",
+    "Viajes"
+  ],
+  "personas": [
+    {
+      "nombre": "Adelia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Haoyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Adeef",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hasnul",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Adelia",
+        "Haoyu"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tras la muerte de su marido Haoyu, Adelia intenta superar el duelo y recuperar la conexión con su hija Hana. Adeef, un viejo amigo de Haoyu, la acompaña en un viaje a Taiwán que le permite conocer mejor el pasado de su esposo y replantearse su relación con su hija.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Adelia-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-e1769756846245.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/alvin-chong-alvn-as-haoyu-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-e1769756863826.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Haziq-Hussni-Alvin-Chong-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-main-e1769754737807.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Haziq-Hussni-as-Adeef-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-e1769756876106.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/hawra-jamalullail-hana-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-1-e1769756996743.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Alvin-Chong-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-selfie.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Haziq-Hussni-Alvin-Chong-Just-A-Little-Longer-ep2-Sesaat-Lebih-ep1-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas--1024x576.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Haziq-Hussni-Alvin-Chong-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-2.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-main-e1769756912316.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Alvin-Chong-haoyu-2-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-e1769757052311.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/02/Nabila-Razali-Haziq-Hussni-Alvin-Chong-Just-A-Little-Longer-Sesaat-Lebih-Viu-Original-Viu-Originals-Fresh-Releases-Malay-Dramas-Romantic-Comedy-Asian-Dramas-cast-e1769756802430.jpg"
+    ]
+  },
+  "activo": true
+}
