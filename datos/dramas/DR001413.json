@@ -1,9 +1,10 @@
 {
   "codigo": "DR001413",
-  "bl": false,
-  "titulo": "Bunga di Tepi Jurang",
+  "titulo": "Dangerous Rose",
   "tituloOriginal": "Bunga di Tepi Jurang",
-  "alias": [],
+  "alias": [
+    "Bunga di Tepi Jurang"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,18 +14,37 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 12,
-  "estado": null,
+  "duracion": 50,
+  "estado": "finalizado",
   "estreno": "2026-07-31",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Superación personal",
+    "Industria de la moda",
+    "Vida urbana",
+    "Venganza"
+  ],
+  "personas": [
+    {
+      "nombre": "Andini",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Andini, una joven de un pequeño pueblo, sueña con construir una vida mejor en la ciudad. Su camino se vuelve más duro de lo esperado y la obliga a enfrentarse a traiciones, relaciones complicadas y decisiones difíciles. Mientras intenta abrirse paso en la industria de la moda, aprende a recuperar su autoestima y a tomar las riendas de su propio futuro.",
   "multimedia": {
-    "portada": []
+    "portada": [],
+    "teaser": [
+      {
+        "titulo": "Bunga di Tepi Jurang — Teaser oficial",
+        "url": "https://www.youtube.com/watch?v=610YcRfZd1A"
+      }
+    ]
   },
   "activo": true
 }
