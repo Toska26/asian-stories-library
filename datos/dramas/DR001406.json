@@ -1,9 +1,10 @@
 {
   "codigo": "DR001406",
-  "bl": false,
   "titulo": "Luka, Makan, Cinta",
   "tituloOriginal": "Luka, Makan, Cinta",
-  "alias": [],
+  "alias": [
+    "Made with Love"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,16 +14,60 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
-  "estado": null,
+  "duracion": 34,
+  "estado": "finalizado",
   "estreno": "2026-04-15",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-04-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Cocina",
+    "Restaurante",
+    "Lugar de trabajo",
+    "Enemigos a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Luka",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dennis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sari",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marlo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Luka",
+        "Dennis"
+      ]
+    }
+  ],
+  "sinopsis": "Luka, una sous-chef ambiciosa y talentosa, quiere salvar el restaurante de su madre. Para conseguirlo debe trabajar con Dennis, un recién llegado al que no soporta. La rivalidad inicial se mezcla con la presión por mantener el negocio familiar y con una relación que empieza a cambiar a medida que ambos colaboran en la cocina.",
   "multimedia": {
     "portada": []
   },
