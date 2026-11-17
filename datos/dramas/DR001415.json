@@ -1,9 +1,10 @@
 {
   "codigo": "DR001415",
-  "bl": false,
-  "titulo": "Dalam Suka dan Dusta",
+  "titulo": "We Both Cheating, Darling",
   "tituloOriginal": "Dalam Suka dan Dusta",
-  "alias": [],
+  "alias": [
+    "Dalam Suka dan Dusta"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,16 +14,51 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 10,
-  "estado": null,
+  "duracion": 54,
+  "estado": "finalizado",
   "estreno": "2026-09-25",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Infidelidad",
+    "Relaciones abiertas",
+    "Secretos familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Citra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Duta",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Denis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Citra",
+        "Denis"
+      ]
+    }
+  ],
+  "sinopsis": "Citra y Duta parecen formar un matrimonio perfecto ante el público, pero su relación está llena de secretos y resentimientos. Cuando Citra pide el divorcio, el riesgo de perder contratos y afectar a su hija los lleva a acordar seguir casados y mantener una relación abierta hasta que la niña cumpla dieciséis años. La llegada de Denis, un joven inversor que se acerca a Citra, hace que el acuerdo se vuelva cada vez más difícil de controlar.",
   "multimedia": {
     "portada": []
   },
