@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001405",
+  "titulo": "OTW Halal",
+  "tituloOriginal": "OTW Halal",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000057",
+    "orden": 2
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-04-03",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Viu Original",
+    "Religión",
+    "Ramadán",
+    "Diferencias sociales",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Renatta / Elsi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rafi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alvin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Devan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fatimah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bobby",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Renatta, cuyo nombre real es Elsi, trabaja como acompañante en un club nocturno y atraviesa una situación económica complicada. Cuando el local cierra durante el Ramadán y Alvin, su sugar daddy, desaparece, se ve obligada a mudarse a una sencilla casa de huéspedes para mujeres. Para conseguir un descuento en el alquiler, se pone el hijab y se une al grupo de estudio de Fatimah. Allí conoce a Rafi, un joven ustadz criado en un pesantren, cuya cercanía la lleva a descubrir una vida y unos sentimientos que nunca imaginó para sí misma, mientras intenta dejar atrás su pasado.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/03/nonton-streaming-download-drama-indonesia-otw-halal-sub-indo-viu-original-slide-banner.jpg"
+    ]
+  },
+  "activo": true
+}
