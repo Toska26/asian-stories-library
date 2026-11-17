@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001422",
+  "titulo": "Dorm 403",
+  "tituloOriginal": "Dorm 403",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 42,
+  "estado": "finalizado",
+  "estreno": "2026-04-15",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Thriller",
+    "Juvenil"
+  ],
+  "tags": [
+    "iQIYI Exclusive",
+    "Internado",
+    "Bullying",
+    "Amistad",
+    "Secretos"
+  ],
+  "personas": [
+    {
+      "nombre": "Sheikh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Haykal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Payan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En el internado Seri Alami, Sheikh, hijo del director, desaparece después de sufrir acoso por parte del grupo conocido como The Palang. Sus amigos habían escondido un cuerpo bajo el cenador del colegio, pero este también desaparece. La investigación conecta el caso con la desaparición de Haykal en 2008, mientras el periodista Payan trata de descubrir los secretos del centro.",
+  "activo": true
+}
