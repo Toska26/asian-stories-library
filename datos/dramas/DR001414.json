@@ -1,9 +1,10 @@
 {
   "codigo": "DR001414",
-  "bl": false,
-  "titulo": "Garam Muda: Gairah Masa Muda",
+  "titulo": "Spice of Youth",
   "tituloOriginal": "Garam Muda: Gairah Masa Muda",
-  "alias": [],
+  "alias": [
+    "Garam Muda"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,16 +14,102 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 12,
-  "estado": null,
+  "estado": "finalizado",
   "estreno": "2026-08-07",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-09-12",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Juvenil"
+  ],
+  "tags": [
+    "Instituto",
+    "Música",
+    "Hipdut",
+    "Amor juvenil"
+  ],
+  "personas": [
+    {
+      "nombre": "Kaizen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Anneta",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tetra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ricky",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rob",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fatta",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bert",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nicole",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tonny",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lusi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kaizen",
+        "Anneta"
+      ]
+    }
+  ],
+  "sinopsis": "Kaizen, el chico más popular del instituto, intenta proteger su imagen y mantener su estatus. Todo cambia cuando se enamora de Anneta, una nueva alumna decidida a triunfar con la música hipdut para ayudar a su familia. Para acercarse a ella, Kaizen se une a su banda y pone en riesgo la posición que tanto se esfuerza por conservar.",
   "multimedia": {
     "portada": [
       "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/07/nonton-streaming-download-drama-indonesia-garam-muda-cast-viu-original.jpg",
