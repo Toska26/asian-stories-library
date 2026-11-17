@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001427",
+  "titulo": "Punching Heart",
+  "tituloOriginal": "拳心",
+  "alias": [
+    "Quan Xin"
+  ],
+  "pais": [
+    "MO"
+  ],
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 3,
+  "duracion": 25,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Deportivo"
+  ],
+  "tags": [
+    "TDM",
+    "MUST",
+    "Boxeo",
+    "Familia",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Ho Ching-lun",
+      "alias": [
+        "何正倫"
+      ],
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mak Yeuk-yu",
+      "alias": [
+        "麥若雨"
+      ],
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mak Jeun-sang",
+      "alias": [
+        "麥俊生"
+      ],
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tres jóvenes ven sus vidas entrelazadas por el boxeo, la amistad y los desafíos familiares. Ho Ching-lun y Mak Jeun-sang son amigos desde la infancia y entrenan juntos, mientras Mak Yeuk-yu aporta una dimensión emocional a la historia.",
+  "multimedia": {
+    "teaser": [
+      {
+        "titulo": "Teaser oficial",
+        "url": "https://www.youtube.com/watch?v=Ink_YYJad5M"
+      }
+    ]
+  },
+  "activo": true
+}
