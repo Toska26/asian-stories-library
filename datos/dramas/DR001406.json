@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001406",
+  "bl": false,
+  "titulo": "Luka, Makan, Cinta",
+  "tituloOriginal": "Luka, Makan, Cinta",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": null,
+  "estreno": "2026-04-15",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
