@@ -1,0 +1,103 @@
+{
+  "codigo": "DR001426",
+  "titulo": "The Colour of Us",
+  "tituloOriginal": "Aku Pilih Pelangi",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-04-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familiar"
+  ],
+  "tags": [
+    "Viu Original",
+    "Matrimonio",
+    "Discapacidad visual",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Nayla",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Firdaus",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Iskandar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wafi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Nayla",
+        "Firdaus"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Nayla",
+        "Iskandar"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Cuando su marido Firdaus empieza a perder la vista, Nayla lucha por mantener unida a su familia. El regreso de Iskandar, un hombre importante de su pasado, despierta sentimientos y recuerdos que ponen a prueba su matrimonio.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-Noki-K-Clique-Auni-Yusri-Qaiszerr-Eshan-thumbnail-1536x864.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-Noki-K-Clique-Auni-Yusri-Qaiszerr-Eshan-vertical-e1777012424857.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-cast-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-as-Nayla-e1777015163217.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Noki-K%E2%80%91Clique-as-Iskandai-The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-e1777015889428.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Zahiril-Adzim-as-Mira-filzah-husband-Fidaus-The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-e1777015826715.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Auni-Yusri-as-Aina-The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-Noki-K-Clique-Auni-Yusri-Qaiszerr-Eshan-cast-e1777015138216.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/Qaiszerr-Eshan-as-Wafi-The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-e1777015855660.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-Noki-K-Clique-Auni-Yusri-Qaiszerr-Eshan-ep3.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-music-guitar.webp",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/05/The-Colour-Of-Us-Aku-Pilih-Pelangi-Viu-Original-Malay-Dramas-Fresh-Releases-Romantic-Drama-Mira-Filzah-Zahiril-Adzim-Noki-K-Clique-Auni-Yusri-Qaiszerr-Eshan-cast-e1777014842659-1024x561.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=ewkTW1R0c1Q"
+      }
+    ]
+  },
+  "activo": true
+}
