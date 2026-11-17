@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001415",
+  "bl": false,
+  "titulo": "Dalam Suka dan Dusta",
+  "tituloOriginal": "Dalam Suka dan Dusta",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": null,
+  "estreno": "2026-09-25",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
