@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001413",
+  "bl": false,
+  "titulo": "Bunga di Tepi Jurang",
+  "tituloOriginal": "Bunga di Tepi Jurang",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": null,
+  "estreno": "2026-07-31",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
