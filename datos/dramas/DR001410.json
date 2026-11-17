@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001410",
+  "bl": false,
+  "titulo": "Night Shift for Cuties",
+  "tituloOriginal": "Night Shift for Cuties",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": null,
+  "estreno": "2026-06-04",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
