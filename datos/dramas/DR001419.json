@@ -1,0 +1,105 @@
+{
+  "codigo": "DR001419",
+  "titulo": "Walid",
+  "tituloOriginal": "Walid",
+  "alias": [
+    "Heaven's Reign",
+    "Bidaah Season 2"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001418",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-02-26",
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Psicológico"
+  ],
+  "tags": [
+    "Viu Original",
+    "Religioso",
+    "Secuela",
+    "Poder",
+    "Fe"
+  ],
+  "personas": [
+    {
+      "nombre": "Walid",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Habiburrahman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Raras Kartika",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ummi Hafizah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ustaz Fateh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ummi Rabiatul",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Walid",
+        "Ummi Hafizah"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tras escapar de la custodia, Walid intenta reconstruir su influencia y se alía con Habiburrahman para levantar un nuevo imperio religioso. Mientras Ummi Hafizah trata de recuperar el control de Jihad Ummah, Ustaz Fateh regresa para frenar la corrupción y los abusos.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/faizal-hussein-aqahsa-olla-ramlan-Heavens-Reign-Walid-feature-image-Bidaah-the-broken-heaven-19.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Vanidah-Imran-as-Ummi-Rabiatul-Heavens-Reign-Walid-feature-image-Bidaah-the-broken-heaven-Malay-series-thriller-muslim-islam-religious-drama-viu-originals.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Dato-A.-Tamimi-Siregar-as-Ustaz-Fateh-Heavens-Reign-Walid-feature-image-Bidaah-the-broken-heaven-Malay-series-thriller-muslim-islam-religious-drama-viu-originals.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Aqasha-as-Habiburrahman-faizal-hussein-aqahsa-olla-ramlan-Heavens-Reign-Walid-feature-image-Bidaah-the-broken-heaven-Malay-series-thriller-muslim-islam-religious-drama.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/%F0%9D%91%B4%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%82-%F0%9D%92%80%F0%9D%92%82%F0%9D%92%94%F0%9D%92%8E%F0%9D%92%8A%F0%9D%92%8F-as-%F0%9D%91%BC%F0%9D%92%8E%F0%9D%92%8E%F0%9D%92%8A-%F0%9D%91%AF%F0%9D%92%82%F0%9D%92%87%F0%9D%92%8A%F0%9D%92%9B%F0%9D%92%82%F0%9D%92%89-Heavens-Reign-Walid-viu-original-.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/faizal-hussein-aqahsa-olla-ramlan-Heavens-Reign-Walid-feature-image-Bidaah-the-broken-heaven-9-scaled.webp"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=l8NQV4JP1dU"
+      }
+    ]
+  },
+  "activo": true
+}
