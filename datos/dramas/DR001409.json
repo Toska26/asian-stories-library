@@ -1,9 +1,10 @@
 {
   "codigo": "DR001409",
-  "bl": false,
-  "titulo": "Bercinta dengan Maut",
+  "titulo": "The Other Sister",
   "tituloOriginal": "Bercinta dengan Maut",
-  "alias": [],
+  "alias": [
+    "Bercinta dengan Maut"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,16 +14,39 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 10,
-  "estado": null,
+  "duracion": 58,
+  "estado": "finalizado",
   "estreno": "2026-05-29",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-07-24",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen",
+    "Romance"
+  ],
+  "tags": [
+    "Gemelas",
+    "Suplantación de identidad",
+    "Venganza",
+    "Familia poderosa"
+  ],
+  "personas": [
+    {
+      "nombre": "Raya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Anna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Raya, una bailarina de club nocturno con un pasado difícil, descubre que tiene una hermana gemela llamada Anna, casada con el heredero de una poderosa familia política. Cuando Anna muere en circunstancias misteriosas, Raya asume su identidad para descubrir qué ocurrió y sacar a la luz los secretos de la familia Ardana. En su búsqueda de justicia, queda atrapada entre la venganza y un amor peligroso.",
   "multimedia": {
     "portada": []
   },
