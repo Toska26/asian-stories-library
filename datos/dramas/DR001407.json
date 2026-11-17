@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001407",
+  "bl": false,
+  "titulo": "Love & 10 Million Dollars",
+  "tituloOriginal": "Love & 10 Million Dollars",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": null,
+  "estreno": "2026-04-17",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
