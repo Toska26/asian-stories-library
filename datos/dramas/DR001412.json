@@ -1,0 +1,32 @@
+{
+  "codigo": "DR001412",
+  "bl": false,
+  "titulo": "12 IPA 4",
+  "tituloOriginal": "12 IPA 4",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": null,
+  "estreno": "2026-07-24",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://vcover-vt-pic.wetvinfo.com/vcover_vt_pic/0/huayofqjqnmz7wn1784605183173/0?imageMogr2/thumbnail/200x"
+    ]
+  },
+  "activo": true
+}
