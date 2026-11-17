@@ -1,0 +1,153 @@
+{
+  "codigo": "DR001423",
+  "titulo": "Embers of the Heart",
+  "tituloOriginal": "Cinta Dalam Sekam",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 49,
+  "estado": "finalizado",
+  "estreno": "2026-07-16",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Familiar"
+  ],
+  "tags": [
+    "Viu Original",
+    "Amor",
+    "Celos",
+    "Secretos familiares",
+    "Dos épocas"
+  ],
+  "personas": [
+    {
+      "nombre": "Laila",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Imran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shafiq",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Uwan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sudin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Amanda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dato Sabiri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Datin Marinah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alia Natasha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sarina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Syariman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Laila",
+        "Imran"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Laila",
+        "Shafiq"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Uwan, un hombre mayor que sufre demencia, recuerda el año 1988 y repite constantemente el nombre de Laila. Su familia investiga ese recuerdo y descubre una antigua historia de amor marcada por el triángulo entre Laila, Imran y Shafiq, así como por los celos, la amistad y el sacrificio.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-Haidar-Hasanudin-vertical.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Siti-Khadijah-Halim-as-Laila-Sarah-Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-cast-e1788232195862.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Haidar-Hasanudin-as-Shafiq-Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-cast-e1788232316597.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Amir-Ahnaf-as-Imran-Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-cast-e1788232272853.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-main-cast-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-Haidar-Hasanudin-e1788232162297.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-main-cast-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-Haidar-Hasanudin-2-scaled.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-Haidar-Hasanudin-episode-5.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-Haidar-Hasanudin-episode-3.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Embers-Of-The-Heart-Cinta-Dalam-Sekam-Viu-Original-Malay-Drama-Romance-Siti-Khadijah-Halim-Amir-Ahnaf-feature-image.jpeg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=wi9k45m2mdY"
+      }
+    ]
+  },
+  "activo": true
+}
