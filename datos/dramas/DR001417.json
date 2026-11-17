@@ -1,0 +1,87 @@
+{
+  "codigo": "DR001417",
+  "titulo": "Sugar Daddy",
+  "tituloOriginal": "Sugar Daddy",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2025,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000057",
+    "orden": 1
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2025-05-02",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Viu Original",
+    "Juvenil",
+    "Familia",
+    "Relaciones transaccionales",
+    "Sugar Baby",
+    "Secretos familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Aurel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Derry",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bella",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bobby",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Okan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alvin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Aurel es una joven de 22 años que atraviesa dificultades económicas y problemas familiares. Su amiga Bella la anima a convertirse en sugar baby para conseguir dinero y así conoce a Derry, un hombre de 45 años que aún sufre por la muerte de su esposa y de la hija que esperaban. Mientras Okan está enamorado de Aurel, los vínculos entre Derry, Alvin y la familia de Aurel hacen aflorar secretos que complican sus relaciones.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2025/03/nonton-streaming-download-drama-indonesia-sugar-daddy-poster-viu-original.jpg",
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2025/03/nonton-streaming-download-drama-indonesia-sugar-daddy-viu.jpg"
+    ]
+  },
+  "activo": true
+}
