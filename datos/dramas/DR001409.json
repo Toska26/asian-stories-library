@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001409",
+  "bl": false,
+  "titulo": "Bercinta dengan Maut",
+  "tituloOriginal": "Bercinta dengan Maut",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": null,
+  "estreno": "2026-05-29",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
