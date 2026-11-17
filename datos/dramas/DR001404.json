@@ -1,9 +1,10 @@
 {
   "codigo": "DR001404",
-  "bl": false,
   "titulo": "Tiba-Tiba Brondong",
   "tituloOriginal": "Tiba-Tiba Brondong",
-  "alias": [],
+  "alias": [
+    "When Young Love Strikes!"
+  ],
   "pais": [
     "ID"
   ],
@@ -13,20 +14,115 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 9,
-  "estado": null,
+  "estado": "finalizado",
   "estreno": "2026-02-13",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "generos": [
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Diferencia de edad",
+    "Profesora y estudiante",
+    "Aplicaciones de citas"
+  ],
+  "personas": [
+    {
+      "nombre": "Bella",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Langit",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Glan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ziva",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ucup",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shadira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Freya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bayu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lidya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Baskara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Deasy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bella",
+        "Langit"
+      ]
+    }
+  ],
+  "sinopsis": "Bella, una profesora de psicología de 35 años que se siente vacía y recibe presión familiar para casarse, conoce mediante una aplicación de citas a Langit, un joven de 19 años. Cuando descubre que él acaba de terminar el instituto y aparece como alumno suyo, intenta poner distancia, pero la sinceridad de Langit complica sus esfuerzos por alejarse.",
   "multimedia": {
     "portada": [
       "https://www.viu.com/ott/id/articles/wp-content/uploads/2025/10/nonton-streaming-download-drama-indonesia-tiba-tiba-brondong-poster-viu-original.jpg",
       "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/02/nonton-streaming-download-drama-indonesia-tiba-tiba-brondong-sub-indo-viu-original-slide-banner.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tiba-Tiba Brondong — Trailer oficial",
+        "url": "https://www.youtube.com/watch?v=GjCeCZFqphU"
+      }
     ]
   },
   "activo": true
