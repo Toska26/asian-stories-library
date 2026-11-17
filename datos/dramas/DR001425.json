@@ -1,0 +1,110 @@
+{
+  "codigo": "DR001425",
+  "titulo": "Crash Class",
+  "tituloOriginal": "Kelas Belakang",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-01-08",
+  "generos": [
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "Viu Original",
+    "Escolar",
+    "Amistad",
+    "Becas",
+    "Bandas juveniles"
+  ],
+  "personas": [
+    {
+      "nombre": "Iman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nik",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mirza",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Johan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arab",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ika",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hajar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Iman, una estudiante brillante que necesita una beca, asume la responsabilidad de la clase considerada la peor del colegio. Sus decisiones ponen a prueba la confianza de sus compañeros, mientras Nik debe afrontar la lealtad a su grupo y la presión de su hermano mayor, Fang.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-feature-main-v2-e1773046147849.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-feature-main-2.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Faha-Azhar-as-ARAB-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773047314308.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Ryliana-Azizan-as-IKA-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773047343446.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Amylia-Aidura-as-IMAN-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773046730224.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Farihin-Arnia-as-JOHAN-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773047301588.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Areef-Amran-as-MIRZA-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773047279399.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/VIU_Kels-Belakang_CAST-POSTER-Zairi-aziz-as-NIK-2-1080x1350-Crash-Class-Kelas-Belakang-School-Youth-Viu-Original-Malaysia-Malay-Dramas-e1773047255691.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-5-e1773046401666.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-1.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-14.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/Amylia-Aidura-Crash-Class-Kelas-Belakang-feature-image-School-Youth-Viu-Original-Malaysia-Malay-Dramas-6-e1773046326369.jpeg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=ylj3_-cSuuY"
+      }
+    ]
+  },
+  "activo": true
+}
