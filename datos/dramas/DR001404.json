@@ -1,0 +1,33 @@
+{
+  "codigo": "DR001404",
+  "bl": false,
+  "titulo": "Tiba-Tiba Brondong",
+  "tituloOriginal": "Tiba-Tiba Brondong",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 9,
+  "estado": null,
+  "estreno": "2026-02-13",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2025/10/nonton-streaming-download-drama-indonesia-tiba-tiba-brondong-poster-viu-original.jpg",
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/02/nonton-streaming-download-drama-indonesia-tiba-tiba-brondong-sub-indo-viu-original-slide-banner.jpg"
+    ]
+  },
+  "activo": true
+}
