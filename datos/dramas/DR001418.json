@@ -1,0 +1,151 @@
+{
+  "codigo": "DR001418",
+  "titulo": "Bidaah",
+  "tituloOriginal": "Bidaah",
+  "alias": [
+    "Broken Heaven"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2025,
+  "tipo": "DR",
+  "serie": "SR001418",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 36,
+  "estado": "finalizado",
+  "estreno": "2025-03-06",
+  "finalizacion": "2025-04-05",
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Misterio",
+    "Psicológico"
+  ],
+  "tags": [
+    "Viu Original",
+    "Religioso",
+    "Sectas",
+    "Manipulación"
+  ],
+  "personas": [
+    {
+      "nombre": "Baiduri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Walid Muhammad",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hambali",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kalsum",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ummi Hafizah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ummi Rabiatul",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Abi Saifullah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Masyitah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Habibah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rizqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Asyikin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fatin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jalil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Baiduri, presionada por su madre Kalsum, se une a Jihad Ummah, una organización dirigida por Walid Muhammad. Al descubrir sus prácticas abusivas y sus enseñanzas manipuladoras, se alía con Hambali, el hijo de Walid, para proteger a sus seres queridos y sacar a la luz la verdad sobre el grupo.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/03/bidaah-broken-heaven-malaysian-islam-muslim-series-cult-thriller-e1772439403274.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Fattah-Amin-Sebagai-as-Hambali-Bidaah-Broken-Heaven-Viu-Malaysian-Drama-Asian-Dramas-TV-shows-TV-series.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Bidaah-Broken-Heaven-Malaysian-Drama-Asian-Dramas-TV-shows-TV-series-Hasnul-Rahmat-Abi-Saifullah.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Marisa-Yasmin-Ummi-Hafizah.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Vanidah-Imran-sebagai-Ummi-Rabiatul-Bidaah-1229x1536.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Fazlina-Hj.-Ahmad-Daud-sebagai-Kalsum-1229x1536.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Fatiya-Latiff-sebagai-Masyitah-Bidaah--1229x1536.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Riena-Diana-sebagai-Baiduri-Bidaah-1229x1536.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Bidaah-Broken-Heaven-Viu-Malaysian-Drama-Asian-Dramas-TV-shows-TV-series-Fattah-Amin-Fathia-Latiff-Riena-Diana-Faizal-Hussein-Hasnul-Rahmat-Vanidah-Imran-Marisa-Yasmin-scaled-e1743993630638.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Bidaah-Broken-Heaven-Malaysian-Drama-Asian-Dramas-TV-shows-TV-series-Fattah-Amin-Fathia-Latiff-Riena-Diana-Faizal-Hussein-Hasnul-Rahmat-Vanidah-Imran-Marisa-Yasmin.jpg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2025/04/Bidaah-Broken-Heaven-Viu-Malaysian-Drama-Asian-Dramas-TV-shows-TV-series-Fattah-Amin-Fathia-Latiff-Riena-Diana-Faizal-Hussein-Hasnul-Rahmat-Vanidah-Imran-Marisa-Yasmin-16-e1743672111818.jpg"
+    ]
+  },
+  "activo": true
+}
