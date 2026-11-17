@@ -1,9 +1,7 @@
 {
   "codigo": "DR001410",
-  "bl": false,
   "titulo": "Night Shift for Cuties",
   "tituloOriginal": "Night Shift for Cuties",
-  "alias": [],
   "pais": [
     "ID"
   ],
@@ -13,16 +11,37 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
-  "estado": null,
+  "duracion": 29,
+  "estado": "finalizado",
   "estreno": "2026-06-04",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-06-04",
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "tags": [
+    "K-pop",
+    "Fandom",
+    "Amistad",
+    "Cultura de fans"
+  ],
+  "personas": [
+    {
+      "nombre": "Muti",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jenar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Muti y Jenar son dos amigas que trabajan en una pequeña tienda y comparten su pasión por el grupo de K-pop Purple Tea. La oportunidad de viajar a Corea para ver a sus ídolos pone a prueba su amistad y las lleva a competir entre sí, mientras la admiración por el grupo empieza a rozar la obsesión.",
   "multimedia": {
     "portada": []
   },
