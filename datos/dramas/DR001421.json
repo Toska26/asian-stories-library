@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001421",
+  "titulo": "The Veil of Silence",
+  "tituloOriginal": "Doa Yang Terlindung",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "duracion": 42,
+  "estado": "finalizado",
+  "estreno": "2026-01-07",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Psicológico"
+  ],
+  "tags": [
+    "TV3",
+    "iQIYI",
+    "Institución religiosa",
+    "Secretos",
+    "Justicia"
+  ],
+  "personas": [
+    {
+      "nombre": "Anisah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ustaz Irfan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rabiyatul",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Aiman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shakir",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dr. Aisha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Baiti",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tuan Haji Mohsin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Anisah ingresa en una prestigiosa institución religiosa donde las normas estrictas y la autoridad de Ustaz Irfan ocultan conflictos y secretos. Su presencia pone en cuestión el funcionamiento de Baitul Khadijah, mientras Rabiyatul comienza a descubrir irregularidades y abusos dentro de la institución.",
+  "activo": true
+}
