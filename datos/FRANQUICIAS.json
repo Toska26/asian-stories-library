@@ -520,5 +520,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia china basada en la trilogía literaria de época republicana de Fei Wo Si Cun, formada por Siege in Fog (2018), Too Late to Say I Love You (2010) y Overdo (2026). Las historias están conectadas por las familias Murong y Yi: Murong Feng aparece vinculado a Siege in Fog, protagoniza Too Late to Say I Love You y es el padre de Murong Qingyi, protagonista de Overdo. El orden narrativo de las novelas es Siege in Fog, Too Late to Say I Love You y Overdo.",
     "activo": true
+  },
+  {
+    "codigo": "FR000057",
+    "nombre": "Sugar Daddy",
+    "pais": [
+      "ID"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia indonesia de Viu formada por Sugar Daddy (2025) y OTW Halal (2026). OTW Halal amplía la historia de Sugar Daddy y recupera personajes de la serie original, entre ellos Alvin, interpretado por Jeremie J. Tobing, y Bobby, interpretado por Alif Rivelino. Ambas producciones están conectadas mediante personajes y continuidad narrativa.",
+    "activo": true
   }
 ]
