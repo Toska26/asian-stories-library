@@ -1,9 +1,7 @@
 {
   "codigo": "DR001407",
-  "bl": false,
   "titulo": "Love & 10 Million Dollars",
   "tituloOriginal": "Love & 10 Million Dollars",
-  "alias": [],
   "pais": [
     "ID"
   ],
@@ -13,16 +11,58 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 10,
-  "estado": null,
+  "estado": "finalizado",
   "estreno": "2026-04-17",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-06-20",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Matrimonio tóxico",
+    "Traición",
+    "Herencia",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Elina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Diaz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vero",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Elina",
+        "Arman"
+      ]
+    }
+  ],
+  "sinopsis": "Atrapada en un matrimonio marcado por la manipulación, Elina lucha por recuperar el legado de su madre de manos de su exmarido, Diaz. En medio de sabotajes y traiciones, vuelve a encontrarse con Arman, su primer amor, que también vive atrapado en un matrimonio tóxico. Ambos deberán afrontar mentiras y juegos de poder para decidir si su relación puede sobrevivir.",
   "multimedia": {
     "portada": []
   },
