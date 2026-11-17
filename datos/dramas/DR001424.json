@@ -1,0 +1,152 @@
+{
+  "codigo": "DR001424",
+  "titulo": "Broken",
+  "tituloOriginal": "Cela",
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 50,
+  "estado": "finalizado",
+  "estreno": "2026-08-20",
+  "finalizacion": "2026-10-09",
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Psicológico",
+    "Romance"
+  ],
+  "tags": [
+    "Viu Original",
+    "Duelo",
+    "Manipulación",
+    "Obsesión",
+    "Venganza"
+  ],
+  "personas": [
+    {
+      "nombre": "Kaer",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dato Anees",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luth",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arshad",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Syamel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Warda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Asimah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jenal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zain",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luth Kecil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kaer",
+        "Dato Anees"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tras la muerte de su padre, Kaer busca apoyo en Dato Anees, una mujer adinerada e influyente. La relación entre ambos se vuelve cada vez más compleja y manipuladora, mientras Kaer descubre secretos sobre ella y sobre la tragedia que marcó a su familia.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Broken-Cela-Viu-Original-Malay-Dramas-Thriller-feature-image-Hun-Haqeem-as-Kaer-Nabila-Huda-as-Datuk-Anees-vertical-image.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Hun-Haqeem-Nabila-Huda-Zarif-Ghazzi-Ellyza-Azizi-Eizlan-Yusof-Zain-Saidin-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-thumbnail.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Nabila-Huda-as-Datuk-Anees-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-3-e1788421619655.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Zarif-Ghazzi-as-Luth-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-2-e1788421637779.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Dato-Sri-Eizlan-Yusof-as-Arshad-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-1-e1788421647762.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Ellyza-Azizi-as-Warda-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-e1788421668239.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Hun-Haqeem-as-Kaer-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-e1788421603452.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Zain-Saidin-as-Syamel-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-e1788421657261.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Hun-Haqeem-Nabila-Huda-Zarif-Ghazzi-Ellyza-Azizi-Eizlan-Yusof-Zain-Saidin-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-ep2.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Hun-Haqeem-Nabila-Huda-Zarif-Ghazzi-Ellyza-Azizi-Eizlan-Yusof-Zain-Saidin-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-ep3.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Broken-Cela-Viu-Original-Malay-Dramas-Thriller-feature-image-Hun-Haqeem-as-Kaer-Nabila-Huda-as-Datuk-Anees-ep3.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Nabila-Huda-as-Datuk-Anees-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-5.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Hun-Haqeem-as-Kaer-Broken-Cela-Viu-Original-Malay-Dramas-Thriller-2.jpeg",
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/09/Broken-Cela-Viu-Original-Malay-Dramas-Thriller-feature-image-Hun-Haqeem-as-Kaer-Nabila-Huda-as-Datuk-Anees.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=BNRR0opdBn8"
+      }
+    ]
+  },
+  "activo": true
+}
