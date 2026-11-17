@@ -1,9 +1,7 @@
 {
   "codigo": "DR001411",
-  "bl": false,
   "titulo": "Samuel",
   "tituloOriginal": "Samuel",
-  "alias": [],
   "pais": [
     "ID"
   ],
@@ -13,16 +11,102 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
-  "estado": null,
+  "estado": "finalizado",
   "estreno": "2026-06-12",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-07-25",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Samuel",
+    "autor": "Ita Kurniawati (Itakrn)",
+    "anio": 2021,
+    "pais": "ID"
+  },
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Geng motor",
+    "Matrimonio concertado",
+    "Instituto"
+  ],
+  "personas": [
+    {
+      "nombre": "Samuel Erlangga",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Azura Anastasia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Raskal Syahreza",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Areksa Dirgantara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Queen Illona Ladeika",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Canva Narendra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Farzan Tanubrata",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marvin Algara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marvel Algara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Samuel Erlangga",
+        "Azura Anastasia"
+      ]
+    }
+  ],
+  "sinopsis": "Samuel Erlangga es un joven que oculta su lado vulnerable tras una personalidad fría y distante, marcada por la culpa y el trauma de una pérdida. Su vida cambia cuando Azura Anastasia, una chica con la que está comprometido desde la infancia, vuelve a cruzarse en su camino. Mientras rivalidades entre grupos de motoristas y amenazas externas complican sus vidas, Samuel debe aprender a proteger a Azura y afrontar su pasado.",
   "multimedia": {
     "portada": []
   },
