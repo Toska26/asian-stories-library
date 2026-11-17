@@ -1,9 +1,7 @@
 {
   "codigo": "DR001416",
-  "bl": false,
   "titulo": "Sleeping with the Enemy",
   "tituloOriginal": "Sleeping with the Enemy",
-  "alias": [],
   "pais": [
     "ID"
   ],
@@ -13,16 +11,128 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 10,
-  "estado": null,
+  "estado": "en_emision",
   "estreno": "2026-11-13",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Romance"
+  ],
+  "tags": [
+    "Venganza",
+    "Identidad falsa",
+    "Familia poderosa",
+    "Matrimonio"
+  ],
+  "personas": [
+    {
+      "nombre": "Aruna Wirawan / Clara Aveline von Morgenstern",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Revan Sastranegara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Adrian Adiputra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sheryl Sastranegara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wirya Sastranegara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gio Mahesa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ni Putu Ayu Rosa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ellie Kirana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Livia Sastranegara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dharma",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marsha Lesmana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vanda Lesmana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nicole Wirawan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bima Wirawan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Aruna Wirawan",
+        "Adrian Adiputra"
+      ]
+    }
+  ],
+  "sinopsis": "A los diecisiete años, Aruna Wirawan pierde a su familia y su futuro tras ser incriminada por la poderosa familia Sastranegara. Ocho años después regresa con una nueva identidad, Clara Aveline von Morgenstern, y se casa con Revan Sastranegara para vengarse desde dentro. Su plan se complica cuando desarrolla sentimientos por Adrian, cuñado de Revan, y debe decidir entre completar su venganza o dejarse llevar por sus emociones.",
   "multimedia": {
     "portada": []
   },
