@@ -1,9 +1,7 @@
 {
   "codigo": "DR001412",
-  "bl": false,
   "titulo": "12 IPA 4",
   "tituloOriginal": "12 IPA 4",
-  "alias": [],
   "pais": [
     "ID"
   ],
@@ -13,16 +11,151 @@
   "temporadas": 1,
   "temporada": 1,
   "episodios": 8,
-  "estado": null,
+  "estado": "finalizado",
   "estreno": "2026-07-24",
-  "generos": [],
-  "tags": [],
-  "personas": [],
-  "ships": [],
-  "entidades": [],
-  "especiales": [],
-  "relaciones": [],
-  "sinopsis": null,
+  "finalizacion": "2026-09-05",
+  "origen": "Adaptación de una historia Alternate Universe (AU) que se hizo viral en TikTok.",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juvenil"
+  ],
+  "tags": [
+    "Adaptación de AU",
+    "TikTok",
+    "Instituto",
+    "Hermanas gemelas",
+    "Triángulo amoroso"
+  ],
+  "personas": [
+    {
+      "nombre": "Hanandya Maheshwari / Hanin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jarvis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Joan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arabella",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gavriel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Welda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Harka",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arsenio",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nadia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jema",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Milda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoriko",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mutia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras la muerte repentina de su hermana gemela Hana, Hanin encuentra un diario que contiene sus sueños y secretos sobre la vida en el instituto Sirius. Decidida a cumplir los deseos de su hermana, Hanin se hace pasar por ella y entra en el centro, donde queda envuelta en los conflictos del grupo 12 IPA 4 y en un triángulo amoroso con Joan y Jarvis.",
   "multimedia": {
     "portada": [
       "https://vcover-vt-pic.wetvinfo.com/vcover_vt_pic/0/huayofqjqnmz7wn1784605183173/0?imageMogr2/thumbnail/200x"
