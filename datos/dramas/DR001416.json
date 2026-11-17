@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001416",
+  "bl": false,
+  "titulo": "Sleeping with the Enemy",
+  "tituloOriginal": "Sleeping with the Enemy",
+  "alias": [],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": null,
+  "estreno": "2026-11-13",
+  "generos": [],
+  "tags": [],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
