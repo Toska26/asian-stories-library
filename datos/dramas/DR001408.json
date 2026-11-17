@@ -1,0 +1,102 @@
+{
+  "codigo": "DR001408",
+  "titulo": "The Most Serious Sincerity",
+  "tituloOriginal": "Ikhlas Paling Serius",
+  "alias": [
+    "Ikhlas Paling Serius"
+  ],
+  "pais": [
+    "ID"
+  ],
+  "idioma": "id",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "finalizado",
+  "estreno": "2026-05-01",
+  "finalizacion": "2026-05-23",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Ikhlas Paling Serius",
+    "autor": "Fajar Sulaiman",
+    "pais": "ID"
+  },
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Oficina",
+    "Jefe y asistente",
+    "Amor secreto"
+  ],
+  "personas": [
+    {
+      "nombre": "Farah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fajar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Willie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Winda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tiara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marsha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Farah",
+        "Fajar"
+      ]
+    }
+  ],
+  "sinopsis": "Fajar, que ha crecido junto a su madre Winda tras la muerte de su padre, consigue trabajo como asistente personal de Farah, una jefa estricta y perfeccionista. Willie, amigo de la infancia de Farah, lo contrata en secreto para espiarla, pero Fajar acaba descubriendo sus heridas personales y enamorándose de ella. La relación deberá enfrentarse a secretos, presiones familiares y ambiciones profesionales.",
+  "multimedia": {
+    "portada": ["https://www.viu.com/ott/id/articles/wp-content/uploads/2026/04/nonton-streaming-download-drama-indonesia-ikhlas-paling-serius-viu-original-slide-banner-1.jpg"]
+  },
+  "activo": true
+}
