@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001445",
+  "bl": false,
+  "titulo": "Love Trap",
+  "tituloOriginal": "กับดักร้อยกะรัต",
+  "alias": [
+    "Kap Dak Roi Karat",
+    "Love Trap The Series",
+    "LMSY 4th Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Love Trap",
+    "autor": "Serenista"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia",
+    "Acción",
+    "Misterio"
+  ],
+  "tags": [
+    "Detective y ladrona",
+    "Robo de joyas",
+    "Diamante Paulton",
+    "Investigación"
+  ],
+  "personas": [
+    {
+      "nombre": "Perth",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rain",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Perth",
+        "Rain"
+      ]
+    }
+  ],
+  "sinopsis": "Perth, una expolicía investigadora que ahora dirige su propia agencia de detectives, recibe el encargo de recuperar el diamante Paulton y otras joyas robadas. Durante la investigación conoce a Rain, una joven encantadora cuya astucia y secretos complican el caso y despiertan sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://gltailandes.com/cdn/shop/files/love-trap-poster.jpg?crop=center&height=675&v=1794766567&width=540",
+      "https://www.themoviedb.org/t/p/w1280/hKxAn3T1utsDGEySf0fRqFDiiHv.jpg"
+    ]
+  },
+  "activo": true
+}
