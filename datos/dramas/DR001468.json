@@ -1,0 +1,127 @@
+{
+  "codigo": "DR001468",
+  "bl": true,
+  "titulo": "Be Mine",
+  "tituloOriginal": "รักนี้เป็นของเธอ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novelas web",
+    "relacion": "Adaptación",
+    "titulo": "Be My Sugar; Be My Baby!; Be My Boo; More & More",
+    "autor": "Khun Phuying"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedy"
+  ],
+  "personas": [
+    {
+      "nombre": "Perth",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pipim",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sitang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jaojay",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phapie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jaokha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tawan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Winnie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Perth",
+        "Pipim"
+      ]
+    },
+    {
+      "personajes": [
+        "Sitang",
+        "Jaojay"
+      ]
+    },
+    {
+      "personajes": [
+        "Phapie",
+        "Jaokha"
+      ]
+    },
+    {
+      "personajes": [
+        "Tawan",
+        "Winnie"
+      ]
+    }
+  ],
+  "sinopsis": "Antología romántica formada por cuatro historias: una relación de conveniencia entre una abogada y una profesora; un romance entre una directora ejecutiva y una becaria; el reencuentro de antiguas amantes; y la convivencia inesperada de dos mujeres con sentimientos pendientes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onQ4zP_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/863/8633886c25d8b39a6f55078d71a117ef.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=59xj48qtdJU"
+      }
+    ]
+  },
+  "activo": true
+}
