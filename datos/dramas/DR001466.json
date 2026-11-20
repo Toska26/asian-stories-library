@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001466",
+  "bl": true,
+  "titulo": "Beyond You",
+  "tituloOriginal": "เพียงคุณที่อยู่เหนือกว่า",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "Phiang Khun Thi Yu Nuea Kwa",
+    "autor": "Flower of Memory"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Mar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Quest",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mar",
+        "Quest"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la muerte de su padre, Mar regresa del extranjero y se encuentra con Quest, a quien responsabiliza de lo sucedido. Para permanecer cerca de ella, acepta trabajar en su granja como asistente personal. La convivencia transforma poco a poco su enemistad en sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/KnpPRq_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/8a6/8a656f0148f907092ae68a6ecce73610.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=6uVfmIS6Z8g"
+      }
+    ]
+  },
+  "activo": true
+}
