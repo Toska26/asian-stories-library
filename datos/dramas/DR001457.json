@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001457",
+  "bl": true,
+  "titulo": "Cinematch",
+  "tituloOriginal": "หมี่ซีนีม่า",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Cinematch",
+    "autor": "Jellyybi"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Bamee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "San",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bamee",
+        "San"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBK5L_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/a37/a37274fe2268a119c3fe913af5446ad9.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
