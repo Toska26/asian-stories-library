@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001464",
+  "bl": true,
+  "titulo": "Lost in Your Eyes",
+  "tituloOriginal": "คนเดียวในสายตา",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Action",
+    "Suspense"
+  ],
+  "personas": [
+    {
+      "nombre": "Plum",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mild",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yada",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Plum",
+        "Mild"
+      ]
+    }
+  ],
+  "sinopsis": "Plum trabaja como agente en una organización secreta que prohíbe las relaciones personales. Cuando recibe la misión de proteger a Yada y a su secretaria Mild, empieza a desarrollar sentimientos por esta última.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3vol64_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/93b/93b4b0554e64b009cb093db33d20b5ad.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=TtMyOQrVHGE"
+      }
+    ]
+  },
+  "activo": true
+}
