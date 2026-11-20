@@ -1,0 +1,82 @@
+{
+  "codigo": "DR001435",
+  "bl": false,
+  "titulo": "On My Way",
+  "tituloOriginal": "致我那菜市场的白月光",
+  "alias": [
+    "Zhi Wo Na Cai Shi Chang De Bai Yue Guang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "anunciado",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Romance moderno",
+    "Primer amor",
+    "Crecimiento personal",
+    "Superación",
+    "Emprendimiento"
+  ],
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "On My Way",
+    "tituloOriginal": "致我那菜市场的白月光",
+    "autor": "Pu Yu Yu Yue Liang"
+  },
+  "personas": [
+    {
+      "nombre": "Ren Dongxue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng Xia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Feng Qiusheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yu Shixuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Fengzi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Ren Dongxue conoce a Cheng Xia en un mercado y comienza a perseguirlo. A través de trabajos en fábricas y obras, construye su propio camino hasta convertirse en empresaria; ambos crecen y se apoyan mutuamente.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ABQWOX_4f.jpg"
+    ]
+  },
+  "activo": true
+}
