@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001463",
+  "bl": true,
+  "titulo": "Shrimply Mine",
+  "tituloOriginal": "อย่ามาอยู่กับกุ้ง",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Shrimply Mine",
+    "autor": "theneoclassic"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Tahk",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kung",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tahk",
+        "Kung"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0zb4_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/9d9/9d9eccffd54263a549444e51c074a503.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
