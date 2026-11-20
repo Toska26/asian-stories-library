@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001455",
+  "bl": true,
+  "titulo": "Our Melodies",
+  "tituloOriginal": "ทำนองนั้น",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "Our Melodies",
+    "autor": "double moons"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Khram",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tungman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Tungman",
+        "Pao"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/nKOmp2_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/bd0/bd0de706cf27e0ceb56ab753d4d0654b.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
