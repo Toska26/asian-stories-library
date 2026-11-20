@@ -1,0 +1,28 @@
+{
+  "codigo": "DR001430",
+  "bl": false,
+  "titulo": "Kahwin Satu Keluarga",
+  "tituloOriginal": "Kahwin Satu Keluarga",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ms",
+  "tipo": "DR",
+  "serie": "SR001428",
+  "temporadas": 3,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "activo": true,
+  "anio": 2026,
+  "temporada": 3,
+  "estado": "en_emision",
+  "estreno": "2026-11-12",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BMzQzYjE2OWQtZWJhNC00ZGJiLWJhNGEtNWQxN2YyNDIwODVjXkEyXkFqcGc@._V1_FMjpg_UY1406_.jpg"
+    ]
+  }
+}

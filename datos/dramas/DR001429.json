@@ -1,0 +1,105 @@
+{
+  "codigo": "DR001429",
+  "bl": false,
+  "titulo": "Kahwin Satu Keluarga",
+  "tituloOriginal": "Kahwin Satu Keluarga",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ms",
+  "tipo": "DR",
+  "serie": "SR001428",
+  "temporadas": 3,
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "activo": true,
+  "anio": 2025,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2025-01-15",
+  "finalizacion": "2025-01-29",
+  "personas": [
+    {
+      "nombre": "Syukri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Husna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zainah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Janna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Moe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Adina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Arrie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Syukri",
+        "Husna"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Janna",
+        "Moe"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Syukri se siente presionado por los esfuerzos de Husna para quedarse embarazada y planea en secreto sabotear sus intentos. Mientras tanto, Janna está casada y vive en casa de Moe, aunque sigue intentando controlar la casa familiar. Adina espera que Arrie le proponga matrimonio y Zainah regresa de sus vacaciones con una imagen completamente renovada.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BMzQzYjE2OWQtZWJhNC00ZGJiLWJhNGEtNWQxN2YyNDIwODVjXkEyXkFqcGc@._V1_FMjpg_UY1406_.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Kahwin Satu Keluarga S2 - Trailer",
+        "url": "https://www.mewatch.sg/watch/Kahwin-Satu-Keluarga-S2-Trailer-513837"
+      }
+    ]
+  }
+}
