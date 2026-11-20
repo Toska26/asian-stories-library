@@ -20,8 +20,9 @@
     },
     "temporadas": 1,
     "temporada": 1,
-    "episodios": 3,
+    "episodios": 4,
     "estado": "en_emision",
+    "estreno": "2026-10-31",
     "estreno": "",
     "finalizacion": "",
     "generos": [
