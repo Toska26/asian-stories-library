@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001448",
+  "bl": false,
+  "titulo": "Shooting Stars",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Serie de televisión",
+    "relacion": "Adaptación",
+    "titulo": "Sh**ting Stars",
+    "tituloOriginal": "별똥별",
+    "pais": "KR",
+    "anio": 2022
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Industria del entretenimiento",
+    "Relaciones laborales",
+    "Relación de amor-odio",
+    "Fama",
+    "Relaciones públicas"
+  ],
+  "personas": [
+    {
+      "nombre": "Darin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kacha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Darin",
+        "Kacha"
+      ]
+    }
+  ],
+  "sinopsis": "Darin dirige el equipo de relaciones públicas de Starforce, una agencia de entretenimiento, y debe gestionar la imagen de sus artistas. Su trabajo se complica con Kacha, una estrella famosa y problemática que además es su expareja. Entre conflictos, escándalos y el ritmo imprevisible de la industria, ambos vuelven a cruzar sus caminos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBKjE_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/e25/e25d3441c7affc18664a5064c36c96ba.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
