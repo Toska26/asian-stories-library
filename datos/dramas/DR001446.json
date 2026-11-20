@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001446",
+  "bl": false,
+  "titulo": "Love's Echoes",
+  "tituloOriginal": "ให้รักกังวานในใจ",
+  "alias": [
+    "Hai Rak Kangkan Nai Chai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Música",
+    "Pérdida auditiva",
+    "Reencuentro",
+    "Novela",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Clara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "New",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Clara",
+        "New"
+      ]
+    }
+  ],
+  "sinopsis": "Clara y New fueron inseparables y compartían el sueño de debutar como idols. Cuando New desarrolla un problema auditivo causado por un tumor, abandona ese sueño y se aleja sin explicar del todo sus motivos. Años después, Clara es una actriz reconocida y New una novelista; la adaptación audiovisual de la novela de New vuelve a reunirlas y saca a la luz los sentimientos y secretos del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q1Evb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/133/13349a1d2d1c176d5fa2124ce62d35a2.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
