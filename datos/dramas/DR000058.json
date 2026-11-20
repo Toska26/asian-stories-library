@@ -76,6 +76,12 @@
       "funcion": [
         "Productora"
       ]
+    },
+    {
+      "codigo": "EN000024",
+      "funcion": [
+        "Plataforma"
+      ]
     }
   ],
   "activo": true
