@@ -1,0 +1,37 @@
+{
+  "codigo": "DR001470",
+  "bl": true,
+  "titulo": "Above Her Class",
+  "tituloOriginal": "ขอให้รักลงจอดอย่างปลอดภัย",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "sinopsis": "Dos jóvenes procedentes de entornos familiares muy distintos se conocen mientras persiguen su sueño de convertirse en auxiliares de vuelo. Sus diferentes circunstancias y aspiraciones pondrán a prueba la relación que empieza a nacer entre ellas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3voldR_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/666/666c2c266ab32178f0a6e523a5be1475.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=-1jb8AVZOro"
+      }
+    ]
+  },
+  "activo": true
+}
