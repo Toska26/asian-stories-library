@@ -12,8 +12,9 @@
     "temporadas": 1,
     "temporada": 1,
     "episodios": 5,
-    "estado": "cancelado",
-    "estreno": "2020",
+    "estado": "finalizado",
+    "estreno": "2020-10-22",
+    "finalizacion": "2021-04-17",
     "generos": [
         "BL",
         "Romance",
