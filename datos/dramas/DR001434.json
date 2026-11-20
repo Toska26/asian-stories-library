@@ -1,0 +1,100 @@
+{
+  "codigo": "DR001434",
+  "bl": false,
+  "titulo": "Taming the Husband",
+  "tituloOriginal": "宝珠",
+  "alias": [
+    "Bao Zhu",
+    "宝珠之驯夫记",
+    "Bao Zhu Zhi Xun Fu Ji"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 35,
+  "estado": "en_emision",
+  "estreno": "2026-11-18",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Matrimonio concertado",
+    "Familia",
+    "Intrigas",
+    "Transporte fluvial",
+    "Diferencias sociales"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin Baozhu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Song Jingxing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xie Xi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xie Qiao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin Baoyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jin Baozhu",
+        "Xie Yan"
+      ]
+    }
+  ],
+  "sinopsis": "Jin Baozhu acepta casarse como concubina con Xie Yan, heredero de una familia dedicada al transporte fluvial que ha quedado discapacitado y desacreditado. Aunque comienzan enfrentados, las intrigas familiares y políticas los llevan a colaborar y confiar el uno en el otro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dyy1zn_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/177/17742c3d43166d898221d20c95db7b1f.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
