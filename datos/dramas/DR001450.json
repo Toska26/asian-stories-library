@@ -1,0 +1,119 @@
+{
+  "codigo": "DR001450",
+  "bl": true,
+  "titulo": "The HALO",
+  "tituloOriginal": "เทวดามาขอพร",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía",
+    "Drama",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Ángeles",
+    "Maldiciones",
+    "Bendiciones",
+    "Cuatro sentidos",
+    "Destino"
+  ],
+  "personas": [
+    {
+      "nombre": "Ashira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jaran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tham",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Win",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ashira",
+        "Kin"
+      ]
+    },
+    {
+      "personajes": [
+        "Jaran",
+        "Pran"
+      ]
+    },
+    {
+      "personajes": [
+        "Tham",
+        "Nat"
+      ]
+    }
+  ],
+  "sinopsis": "Cuatro ángeles viven bajo maldiciones que no pueden romper por sí mismos. Para liberarse deben encontrar cuatro bendiciones especiales escondidas entre los humanos, cada una vinculada a los sentidos. Durante su búsqueda conocen a personas con habilidades extraordinarias y establecen vínculos que podrían cambiar sus destinos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bv37WV_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/474/47485c55b4f0e17bb2827599062af743.mp4"
+      }
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=BxoDDMjgyE0"
+      }
+    ]
+  },
+  "activo": true
+}
