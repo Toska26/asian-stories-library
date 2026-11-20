@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001461",
+  "bl": true,
+  "titulo": "Fake Boss, Real Boyfriend",
+  "tituloOriginal": "จริงๆ แล้ว แฟนเราเป็นยามบริษัท",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Yos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tanil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yos",
+        "Tanil"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NRd1qE_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/da3/da3b24471e22500279c0333be551037a.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
