@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001432",
+  "bl": false,
+  "titulo": "Sunshine Through the Rain",
+  "tituloOriginal": "今天是太阳雨",
+  "alias": [
+    "Jin Tian Shi Tai Yang Yu"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 48,
+  "estado": "finalizado",
+  "estreno": "2026-11-06",
+  "finalizacion": "2026-11-17",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Juvenil"
+  ],
+  "tags": [
+    "Universidad",
+    "Estudiantes",
+    "Rivalidad",
+    "Crecimiento personal",
+    "Superación"
+  ],
+  "personas": [
+    {
+      "nombre": "Zheng Yu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chen Yanzhou",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Liu Linlin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xu Fangli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhuang Ning",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Zheng Yu",
+        "Chen Yanzhou"
+      ]
+    }
+  ],
+  "sinopsis": "Zheng Yu, estudiante de biología con dificultades económicas, lucha por conseguir una beca. Chen Yanzhou regresa tras una baja por enfermedad, la supera y se convierte en su rival; con el tiempo, la rivalidad da paso al apoyo y la comprensión.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/7r3Ljr_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/cb8/cb808de40d0152728640f0ec8c386303.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
