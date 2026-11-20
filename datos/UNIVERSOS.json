@@ -191,5 +191,11 @@
         "pais": "CN",
         "descripcion": "Universo narrativo compartido por adaptaciones audiovisuales de las novelas de Shi Si Lang, incluyendo Love of Thousand Years (2020), A Moment But Forever (2025) y Fate Chooses You (2026), conectadas por referencias y personajes del mismo mundo.",
         "activo": true
+    },
+    {
+        "codigo": "UN000032",
+        "nombre": "Secret Relationships",
+        "descripcion": "Universo que agrupa las adaptaciones audiovisuales del webtoon Secret Relationships (비밀사이), de McQueen STUDIO. Incluye la adaptación surcoreana Secret Relationships (2025) y la adaptación tailandesa My Secret Boyfriends (2026), que son versiones independientes de la misma obra original y no un remake una de la otra.",
+        "activo": true
     }
 ]
