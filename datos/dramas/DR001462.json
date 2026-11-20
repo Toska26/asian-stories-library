@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001462",
+  "bl": true,
+  "titulo": "Our Lyrics",
+  "tituloOriginal": "บทเพลงของความไม่จริงใจ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Bun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Woon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Bun",
+        "Woon"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAY2Ne_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/de0/de024f79be0acfe849b8c993bcbbed3f.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
