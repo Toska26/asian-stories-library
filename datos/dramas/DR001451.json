@@ -1,0 +1,135 @@
+{
+  "codigo": "DR001451",
+  "bl": true,
+  "titulo": "Boys 4 Moms",
+  "tituloOriginal": "ลูกเพื่อนแม่",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novelas web",
+    "relacion": "Adaptación",
+    "titulo": "Secret Garden; Music Box; Jewelry Design; Water Color",
+    "autor": "RIBBINBO"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Amistad",
+    "Familia",
+    "Cuatro parejas",
+    "Reuniones dominicales"
+  ],
+  "personas": [
+    {
+      "nombre": "Ramil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tonmai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Benjamin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Key",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Porsche",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tubtim",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phakin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seenam",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Ramil",
+        "Tonmai"
+      ]
+    },
+    {
+      "personajes": [
+        "Benjamin",
+        "Key"
+      ]
+    },
+    {
+      "personajes": [
+        "Porsche",
+        "Tubtim"
+      ]
+    },
+    {
+      "personajes": [
+        "Phakin",
+        "Seenam"
+      ]
+    }
+  ],
+  "sinopsis": "Ramil, Benjamin, Tubtim y Phakin son cuatro amigos que mantienen la tradición de reunirse los domingos para ponerse al día. Aunque tienen éxito en sus trabajos, sus vidas amorosas son mucho más complicadas. Entre fotografía, música, diseño de joyas y pintura, cada uno conoce a alguien que pone patas arriba sus planes y sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0zzb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/2ea/2eaf1c24ddec8f759a5a4d74ba44aebb.mp4"
+      }
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=M8WWN__Iz30"
+      }
+    ]
+  },
+  "activo": true
+}
