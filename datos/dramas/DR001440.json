@@ -1,0 +1,93 @@
+{
+  "codigo": "DR001440",
+  "bl": false,
+  "titulo": "Oxytoxin",
+  "tituloOriginal": "จุนใจไอดาว",
+  "alias": [
+    "Chun Chai Aidao",
+    "Jun Jai Ai Dao"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 50,
+  "estado": "en_emision",
+  "estreno": "2026-11-07",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+  "tags": [
+    "Instituto",
+    "Amistad",
+    "Acoso escolar",
+    "Grupo musical",
+    "Primer amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Aidao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Junjai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gale",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chelsea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Meimei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Aidao",
+        "Junjai"
+      ]
+    }
+  ],
+  "sinopsis": "En el elitista colegio femenino Saint Cecilia, Aidao lidera TOXXXXXIN, un grupo de chicas con aspiraciones musicales. La llegada de Junjai, una estudiante becada que acaba integrándose en el grupo, transforma su dinámica y despierta sentimientos que ninguna de las dos esperaba.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NRdwEA_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer",
+        "url": "https://v.mydramalist.com/6ff/6ffa320038a5b1ae1af5d517d9d68f5a.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
