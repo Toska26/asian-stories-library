@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001452",
+  "bl": true,
+  "titulo": "Pineapple Leaf Blade",
+  "tituloOriginal": "คมใบสับปะรด",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "คมใบสับปะรด",
+    "autor": "R Ruea Nai Mahasamut"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Hawái",
+    "Inmigración",
+    "Trabajadores agrícolas",
+    "Explotación laboral",
+    "Plantación de piñas"
+  ],
+  "personas": [
+    {
+      "nombre": "Piya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Piya",
+        "Phon"
+      ]
+    }
+  ],
+  "sinopsis": "Dos jóvenes tailandeses viajan a Hawái con la esperanza de encontrar trabajo y construir un futuro mejor. Allí se enfrentan a la explotación y a unas condiciones laborales difíciles en una plantación de piñas. Lejos de sus hogares, deberán afrontar juntos las dificultades de una vida que no resulta como esperaban.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2wZ0D_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/19b/19b919b394e6637fb5decaa84820d1c.mp4"
+      }
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=ZlD7Dgzo17Q"
+      }
+    ]
+  },
+  "activo": true
+}
