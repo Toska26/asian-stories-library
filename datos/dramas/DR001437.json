@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001437",
+  "bl": true,
+  "titulo": "The Last Lock of Love",
+  "tituloOriginal": "ล็อกสุดท้าย… คือนายคนเดียว",
+  "alias": [
+    "Lock Sutthai… Khue Nai Khon Diao",
+    "Lock Sudthai… Khue Nai Khon Diao",
+    "Lock Love Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 46,
+  "estado": "en_emision",
+  "estreno": "2026-11-03",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Una noche juntos",
+    "Rivalidad",
+    "Compañeros de trabajo"
+  ],
+  "personas": [
+    {
+      "nombre": "Chat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Seung Ho",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chat",
+        "Seung Ho"
+      ]
+    }
+  ],
+  "sinopsis": "Chat, desarrollador de productos, pasa una noche con un desconocido y descubre después que se trata de Seung Ho, su nuevo jefe. La convivencia profesional da paso a rivalidades, malentendidos y sentimientos inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0X3kb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer",
+        "url": "https://v.mydramalist.com/601/601477f166ad8e20492d52c5888a1ce8.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
