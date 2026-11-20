@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001465",
+  "bl": true,
+  "titulo": "Cherish",
+  "tituloOriginal": "วันที่ฟ้ามีเฌอ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama",
+    "Mystery"
+  ],
+  "personas": [
+    {
+      "nombre": "Cher",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fifa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Cher",
+        "Fah"
+      ]
+    }
+  ],
+  "sinopsis": "Cher, una profesora, queda envuelta en la desaparición de Fifa, una alumna que estaba bajo su supervisión. Fah, la tía y tutora de la niña, busca respuestas. La investigación las acerca en medio de las sospechas y la incertidumbre.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lB0zpN_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/3d2/3d22394c88a8a55ffd228fc505045645.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=DP6moz0WjXg"
+      }
+    ]
+  },
+  "activo": true
+}
