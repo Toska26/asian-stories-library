@@ -1,0 +1,72 @@
+{
+  "codigo": "DR001444",
+  "bl": false,
+  "titulo": "My Boss I Love You",
+  "tituloOriginal": "ฮักนะ My Boss",
+  "alias": [
+    "Hak Na My Boss"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "I Love You",
+    "autor": "Chao Planoy"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "proximo",
+  "estreno": "2026-11-28",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Jefa y secretaria",
+    "Contraste de personalidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Chama",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nilmukda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chama",
+        "Nilmukda"
+      ]
+    }
+  ],
+  "sinopsis": "Chama es una jefa meticulosa y exigente cuya rutina se ve alterada por la llegada de Nilmukda, su nueva secretaria. La diferencia entre sus personalidades da lugar a situaciones cómicas y a una relación cada vez más cercana.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkelP5_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer",
+        "url": "https://v.mydramalist.com/0e5/0e5b1c1f07951111a99a8b8a7a6b58b1.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
