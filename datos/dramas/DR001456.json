@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001456",
+  "bl": true,
+  "titulo": "Your Eyes, My Ears",
+  "tituloOriginal": "สื่อรักสองสัมผัส",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Pun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Babe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Pun",
+        "Babe"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/5QvJ2Z_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/4e9/4e92cdeada5b8e753d95bc8c5c219f6d.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
