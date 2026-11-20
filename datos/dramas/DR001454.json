@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001454",
+  "bl": true,
+  "titulo": "I Wanna Hold Your Hand",
+  "tituloOriginal": "อยากให้เราอยู่ตรงนี้",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Nut",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mick",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/KnpPPD_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/26c/26c667e4a9ee309462b2c43d90482bed.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
