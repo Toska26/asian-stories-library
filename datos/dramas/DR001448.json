@@ -47,6 +47,27 @@
       "principal": true
     },
     {
+      "nombre": "Suea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Praew",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ohm",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
       "nombre": "Thee",
       "funcion": [
         "Actor"
