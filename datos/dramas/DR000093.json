@@ -33,7 +33,6 @@
   "personas": [
     {
       "nombre": "Win",
-      "persona": "PR000533",
       "funcion": [
         "Actor"
       ],
@@ -41,7 +40,6 @@
     },
     {
       "nombre": "Ocean",
-      "persona": "PR000534",
       "funcion": [
         "Actor"
       ],
@@ -50,7 +48,6 @@
   ],
   "ships": [
     {
-      "ship": "SH000092",
       "personajes": [
         "Win",
         "Ocean"
@@ -64,7 +61,16 @@
       "https://m.media-amazon.com/images/M/MV5BMDA5Nzc5MTMtZTU4My00MzhhLTlmMTctZmNhMTc0YWRjYmQ5XkEyXkFqcGc%40._V1_.jpg"
     ],
     "videos": [
-      "https://www.youtube.com/watch?v=_aanEYBtdYY"
+      {
+        "titulo": "Pilot original — GMMTV 2026 (Aou/Boom)",
+        "url": "https://www.youtube.com/watch?v=_aanEYBtdYY"
+      }
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — GMMTVNEXT 2027 (Save/Franc)",
+        "url": "https://www.youtube.com/watch?v=vYnT3lvD_Nk"
+      }
     ]
   },
   "entidades": [
