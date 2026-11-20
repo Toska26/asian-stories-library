@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001469",
+  "bl": true,
+  "titulo": "Safety Flirt",
+  "tituloOriginal": "ห้ามเข้าใกล้ หัวใจกำลังทำงาน",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedy"
+  ],
+  "personas": [
+    {
+      "nombre": "Suki",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Suki",
+        "Jira"
+      ]
+    }
+  ],
+  "sinopsis": "Suki es una ingeniera que trabaja en una fábrica y Jira llega para incorporarse como secretaria. Sus diferencias y los conflictos entre el personal de oficina y el de fábrica provocan situaciones cómicas, mientras entre ambas comienza a surgir una atracción.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/7r3AlL_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/a37/a37f6eb69c0ec999a1679da5e7968c73.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=StQ47CcKciE"
+      }
+    ]
+  },
+  "activo": true
+}
