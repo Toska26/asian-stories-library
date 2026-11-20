@@ -1,0 +1,102 @@
+{
+  "codigo": "DR001441",
+  "bl": false,
+  "titulo": "Love Bound",
+  "tituloOriginal": "รักนี้ตีตรา",
+  "alias": [
+    "Rak Ni Ti Tra"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Sami Ti Tra",
+    "autor": "Nawika"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "estado": "en_emision",
+  "estreno": "2026-11-08",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Historias de amor entrelazadas",
+    "Heridas del pasado",
+    "Celos",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Whisky",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pimphisut",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khemkaew",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wine",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Vodka",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Whisky",
+        "Pimphisut"
+      ]
+    }
+  ],
+  "sinopsis": "Whisky ha sufrido varias traiciones sentimentales y desconfía del amor. Cuando conoce a Pimphisut, una mujer de carácter amable pero decidido, ambas se enamoran y deciden casarse. La reaparición de Khemkaew, antigua amiga de Whisky, despierta celos y desconfianza que ponen a prueba su relación.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/zvBwVW_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=iflgdLZf_BU"
+      }
+    ]
+  },
+  "activo": true
+}
