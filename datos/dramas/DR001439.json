@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001439",
+  "bl": false,
+  "titulo": "Under Her Rules",
+  "tituloOriginal": "ใต้เงาจันทรา",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-07",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Romance laboral",
+    "Jefa y empleada",
+    "Reencuentro",
+    "Diferencia de poder"
+  ],
+  "personas": [
+    {
+      "nombre": "Alice",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nannalin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Alice",
+        "Nannalin"
+      ]
+    }
+  ],
+  "sinopsis": "Alice termina sus estudios con la intención de dedicarse a la creación de contenidos, pero acaba trabajando como asistente ejecutiva de Nannalin, una jefa exigente. Ambas ya se habían conocido en un club dos años antes, y aquel encuentro marcará su relación profesional y personal.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onnxgO_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer",
+        "url": "https://v.mydramalist.com/af3/af3fd5c5ee075c3b22c7cc2175d85e5a.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
