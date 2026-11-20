@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001431",
+  "bl": false,
+  "titulo": "Destined to Be Phoenix",
+  "tituloOriginal": "天命·成凰",
+  "alias": [
+    "Tian Ming Cheng Huang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "MIN",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 24,
+  "duracion": 19,
+  "estado": "finalizado",
+  "estreno": "2026-11-04",
+  "finalizacion": "2026-11-13",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Histórico"
+  ],
+  "tags": [
+    "Venganza",
+    "Identidad falsa",
+    "Hermanas gemelas",
+    "Palacio",
+    "Medicina"
+  ],
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "Tian Ming Cheng Huang",
+    "tituloOriginal": "天命成凰",
+    "autor": "Zhao Xiao Qiu"
+  },
+  "personas": [
+    {
+      "nombre": "Yun Si",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huo Shenzhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Huo Linye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shen Changqing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Yun Si",
+        "Huo Shenzhi"
+      ]
+    }
+  ],
+  "sinopsis": "Tras la muerte de su hermana gemela a manos de la familia del príncipe Chu, Yun Si ocupa su identidad para vengarse. Junto a Huo Shenzhi afronta intrigas palaciegas y encuentra el amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3voW0m_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/57e/57ecd7316c52ffcbdea03690ea7db2b8.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
