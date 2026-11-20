@@ -1,0 +1,93 @@
+{
+  "codigo": "DR001433",
+  "bl": false,
+  "titulo": "Blossom in Darkness",
+  "tituloOriginal": "十万狂花入梦来",
+  "alias": [
+    "Shi Wan Kuang Hua Ru Meng Lai",
+    "A Hundred Thousand Wild Flowers Enter the Dream"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 30,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-15",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Fantasía",
+    "Histórico"
+  ],
+  "tags": [
+    "Xianxia",
+    "Demonios",
+    "Espíritus",
+    "Seres sobrenaturales",
+    "Destino"
+  ],
+  "origen": {
+    "tipo": "Colección de relatos",
+    "relacion": "Adaptación",
+    "titulo": "A Hundred Thousand Wild Flowers Enter the Dream",
+    "tituloOriginal": "十万狂花入梦来",
+    "autor": "Fresh Guo Guo"
+  },
+  "personas": [
+    {
+      "nombre": "Qi Fengyin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ya Mao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "You You",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yuwen Hao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qing Xing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Su Hexiang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El demonio Qi Fengyin, encerrado durante mil años, conoce a Ya Mao, un espíritu medicinal. Ambos se unen y afrontan peligros e intrigas en un mundo compartido por humanos, inmortales y demonios.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NRRWPe_4f.jpg"
+    ]
+  },
+  "activo": true
+}
