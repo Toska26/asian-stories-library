@@ -1,0 +1,52 @@
+{
+  "codigo": "DR001443",
+  "bl": true,
+  "titulo": "King of Bar Host",
+  "tituloOriginal": "ศึก เกม ลวง",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "proximo",
+  "estreno": "2026-11-23",
+  "generos": [
+    "BL",
+    "Drama",
+    "Suspense",
+    "Thriller"
+  ],
+  "tags": [
+    "Club nocturno",
+    "Competición",
+    "Rivalidad",
+    "Misterio",
+    "Poder"
+  ],
+  "personas": [
+    {
+      "nombre": "Than",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Than, un músico endeudado, entra a trabajar en Remember Club, donde los anfitriones compiten por conseguir el título de King of Bar Host y un premio conocido como The Legacy. Pronto descubre que detrás de la competición se esconde un juego mucho más peligroso.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/AB6RyX_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Trailer",
+        "url": "https://v.mydramalist.com/a10/a10c04b2fcdecb8f67af5921c0765664.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
