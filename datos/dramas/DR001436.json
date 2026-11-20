@@ -1,0 +1,88 @@
+{
+  "codigo": "DR001436",
+  "bl": true,
+  "titulo": "Wintertime",
+  "tituloOriginal": "동절기",
+  "alias": [
+    "Dongjeolgi",
+    "Winter Season"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "relaciones": [
+    {
+      "tipo": "Spin-off",
+      "nombre": "Summertime",
+      "descripcion": "Spin-off centrado en Kwon I-hyeon, personaje relacionado con la historia de Summertime.",
+      "codigo": "DR000207"
+    }
+  ],
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Dongjeolgi",
+    "tituloOriginal": "동절기",
+    "autor": "Iromil"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 25,
+  "estado": "proximo",
+  "estreno": "2026-11-27",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "BL",
+    "Reencuentro",
+    "Amor-odio",
+    "Reencuentro tras nueve años",
+    "Heridas del pasado",
+    "Crimen organizado",
+    "Enemies to Lovers"
+  ],
+  "personas": [
+    {
+      "nombre": "Kwon I-hyeon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Koo Seung-hyeok",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kwon I-hyeon",
+        "Koo Seung-hyeok"
+      ]
+    }
+  ],
+  "sinopsis": "Nueve años después de un incidente que los separó durante su etapa escolar, Kwon I-hyeon y Koo Seung-hyeok se reencuentran en un club nocturno vinculado al crimen organizado. I-hyeon, que lucha por salir adelante tras haber sido expulsado de casa, acaba trabajando para Seung-hyeok, ahora relacionado con los negocios de su poderosa familia. Obligados a mantener el contacto por una deuda y un acuerdo laboral, ambos tendrán que enfrentarse a las heridas, los resentimientos y los sentimientos que nunca llegaron a resolver.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjjJnY_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Main Trailer",
+        "url": "https://youtu.be/xTjGniqDZuY"
+      }
+    ]
+  },
+  "activo": true
+}
