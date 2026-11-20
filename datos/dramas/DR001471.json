@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001471",
+  "bl": true,
+  "titulo": "Kiss Me, Stranger",
+  "tituloOriginal": "เธอแปลกหน้า",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedy"
+  ],
+  "personas": [
+    {
+      "nombre": "Dear",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sirin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Dear",
+        "Sirin"
+      ]
+    }
+  ],
+  "sinopsis": "Dear trabaja como conductora de motocicletas en un parque de atracciones y recibe por error una transferencia de un millón de baht. Cuando aparecen varias personas reclamando el dinero, Sirin asegura que procede de la herencia de su madre. Para aclarar el misterio, Dear le propone vivir juntas temporalmente y la convivencia hará que se acerquen.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8Q1EVb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/52b/52b4d18da1e03d00a2563b3165e730f3.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=oELD3rBjA0k"
+      }
+    ]
+  },
+  "activo": true
+}
