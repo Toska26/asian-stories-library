@@ -1,0 +1,98 @@
+{
+  "codigo": "DR001442",
+  "bl": true,
+  "titulo": "Love Game with My Enemy",
+  "tituloOriginal": "เกมรักนายศัตรู",
+  "alias": [
+    "Game Rak Nai Satru"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-16",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "Enemies to Lovers",
+    "Venganza",
+    "Rivalidad",
+    "Secretos"
+  ],
+  "personas": [
+    {
+      "nombre": "Lomnuea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Daenchon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Saifah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Typhoon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khajorndet",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Phisa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lomnuea",
+        "Daenchon"
+      ]
+    }
+  ],
+  "sinopsis": "Una deuda y un antiguo rencor enfrentan a Lomnuea y Daenchon. Lo que comienza como un juego de venganza entre enemigos se complica cuando la atracción y los sentimientos empiezan a interferir en sus planes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/gOOJkn_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://youtu.be/QZkHSt8XNR8"
+      }
+    ]
+  },
+  "activo": true
+}
