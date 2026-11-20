@@ -1,0 +1,68 @@
+{
+  "codigo": "DR001467",
+  "bl": true,
+  "titulo": "My Beautiful Enemy",
+  "tituloOriginal": "ที่ร้ายที่รัก",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "For Her",
+    "autor": "KWONAE"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Sdavi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sdavi",
+        "Yara"
+      ]
+    }
+  ],
+  "sinopsis": "Sdavi es una perfumista cuyo trabajo recibe una crítica demoledora de Yara, una modelo y celebridad. El conflicto entre ambas lleva a Yara a trabajar como asistente de Sdavi durante tres meses. La convivencia y sus continuos enfrentamientos darán paso a una relación inesperada.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjB0mX_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/165/1654f6096de3a8d08d244eeac21dee2a.mp4"
+      },
+      {
+        "titulo": "GMMTVNEXT — First Look oficial",
+        "url": "https://www.youtube.com/watch?v=7-IoE3BUu_U"
+      }
+    ]
+  },
+  "activo": true
+}
