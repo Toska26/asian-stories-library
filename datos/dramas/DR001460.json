@@ -1,0 +1,56 @@
+{
+  "codigo": "DR001460",
+  "bl": true,
+  "titulo": "Stalemate",
+  "tituloOriginal": "เกมรักหมากสุดท้าย",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Jump",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Victor",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Jump",
+        "Victor"
+      ]
+    }
+  ],
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/gO0kev_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/d6a/d6a7c7617be97c79d7d430463fa6af8f.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
