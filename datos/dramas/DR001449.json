@@ -1,0 +1,119 @@
+{
+  "codigo": "DR001449",
+  "bl": true,
+  "titulo": "A Season to Remember",
+  "tituloOriginal": "ตรีวัชรกาล",
+  "alias": [
+    "Triwatcharakan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "ตรีวัชรกาล",
+    "autor": "สามโสภา"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Familia noble",
+    "Tres hermanos",
+    "Diferencias sociales",
+    "Tres estaciones"
+  ],
+  "personas": [
+    {
+      "nombre": "Phloengnaphat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thiamthiwa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chatphirun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sutkhanueng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Punmarut",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ketklao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Phloengnaphat",
+        "Thiamthiwa"
+      ]
+    },
+    {
+      "personajes": [
+        "Chatphirun",
+        "Sutkhanueng"
+      ]
+    },
+    {
+      "personajes": [
+        "Punmarut",
+        "Ketklao"
+      ]
+    }
+  ],
+  "sinopsis": "Tres hermanos de una familia noble, Phloengnaphat, Chatphirun y Punmarut, viven sus propias historias de amor, vinculadas respectivamente al verano, la temporada de lluvias y el invierno. Entre encuentros inesperados, sentimientos del pasado y nuevas oportunidades, cada uno deberá encontrar su propio camino hacia el amor.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bv37yw_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "MyDramaList",
+        "url": "https://v.mydramalist.com/901/901035675eaeb149928e040761246bd6.mp4"
+      }
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=PxzcfYOXCYU"
+      }
+    ]
+  },
+  "activo": true
+}
