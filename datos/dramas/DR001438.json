@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001438",
+  "bl": false,
+  "titulo": "Love Me to Hurt Me",
+  "tituloOriginal": "รัก = ร้าย",
+  "alias": [
+    "Rak Thao Kap Rai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Phai Phloeng Man",
+    "tituloOriginal": "พ่ายเพลิงมาร",
+    "autor": "LalaNon"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-06",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Segunda oportunidad",
+    "Exnovias",
+    "Venganza",
+    "Diferencia de clase",
+    "Romance laboral"
+  ],
+  "personas": [
+    {
+      "nombre": "Song Kasira",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Oh Uttawadee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Song Kasira",
+        "Oh Uttawadee"
+      ]
+    }
+  ],
+  "sinopsis": "Song, empresaria y propietaria de una joyería, vuelve a encontrarse con Oh, su antigua pareja, que la abandonó sin explicaciones. Decidida a hacerle sentir el mismo dolor, Song la acerca de nuevo a su vida, pero la venganza reaviva los sentimientos que ambas creían superados.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAYbqd_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.iq.com/short/love-me-to-hurt-me-1b2n28jkcb4?lang=en_us"
+      }
+    ]
+  },
+  "activo": true
+}
