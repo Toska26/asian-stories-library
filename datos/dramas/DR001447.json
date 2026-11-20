@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001447",
+  "bl": true,
+  "titulo": "The Spooky Love Tale",
+  "tituloOriginal": "เขียนผีให้เธอรัก",
+  "alias": [
+    "Khian Phi Hai Thoe Rak",
+    "The Spooky Love Tale of Gongchan Seol"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Webtoon",
+    "relacion": "Adaptación",
+    "titulo": "The Spooky Love Tale of Gongchan Seol",
+    "autor": "YSE"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Terror",
+    "Misterio",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Fantasmas",
+    "Escritor de terror",
+    "Fenómenos sobrenaturales",
+    "Exorcismo"
+  ],
+  "personas": [
+    {
+      "nombre": "Chan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Min",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Chan",
+        "Min"
+      ]
+    }
+  ],
+  "sinopsis": "Chan es un novelista de terror cuya imaginación convierte situaciones cotidianas en historias de fantasmas. Su mundo cambia cuando conoce a Min, un hombre que comienza a ser acosado por las apariciones sobrenaturales descritas en las novelas de Chan. Mientras intentan comprender lo que sucede, el miedo da paso a una relación inesperada.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onQ4XY_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler",
+        "url": "https://v.mydramalist.com/569/56909081ae58f1af0eee5d6d29c26672.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
