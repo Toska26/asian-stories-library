@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001511",
+  "bl": true,
+  "titulo": "Sawasdee Love",
+  "tituloOriginal": "Sawasdee Love!",
+  "pais": [
+    "PH",
+    "TH"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "en_emision",
+  "estreno": "2026-11-21",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Coproducción Filipinas-Tailandia",
+    "Romance intercultural",
+    "Fotografía",
+    "Compañeros de trabajo a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Leo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Leo, un videógrafo filipino ambicioso, viaja a Tailandia para trabajar en la producción de un certamen internacional de belleza. Allí conoce a Nan, un fotógrafo tailandés con quien comparte el trabajo detrás de las cámaras. La colaboración despierta una conexión romántica que deberá superar las diferencias culturales, las rivalidades y la incertidumbre sobre el futuro de Leo en Filipinas.",
+  "multimedia": {},
+  "activo": true
+}
