@@ -45,6 +45,12 @@
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/L2woZb_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.youtube.com/watch?v=afjItFI5Cck"
+      }
     ]
   },
   "activo": true
