@@ -1,0 +1,58 @@
+{
+  "codigo": "DR001502",
+  "bl": false,
+  "titulo": "Did You Know",
+  "tituloOriginal": "รักครั้งไหนก็ใช่เธอ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de PSSN",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Amor del pasado",
+    "Médica",
+    "Hoteles"
+  ],
+  "personas": [
+    {
+      "nombre": "Keen",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Praewa",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Praewa, una cardióloga que evita las relaciones serias, vuelve a encontrarse con Keen, una antigua rival del instituto que ahora dirige una cadena hotelera. El reencuentro reaviva sentimientos del pasado y obliga a ambas a afrontar los conflictos que quedaron pendientes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/l0zV76_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Pilot oficial — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=_N7ep1NtUN0"
+      }
+    ]
+  },
+  "activo": true
+}
