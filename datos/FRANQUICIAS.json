@@ -530,5 +530,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia indonesia de Viu formada por Sugar Daddy (2025) y OTW Halal (2026). OTW Halal amplía la historia de Sugar Daddy y recupera personajes de la serie original, entre ellos Alvin, interpretado por Jeremie J. Tobing, y Bobby, interpretado por Alif Rivelino. Ambas producciones están conectadas mediante personajes y continuidad narrativa.",
     "activo": true
+  },
+  {
+    "codigo": "FR000058",
+    "nombre": "Jin Shisi Chai",
+    "pais": [
+      "TH"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia tailandesa que reúne las adaptaciones de las novelas relacionadas de Jin Shisi Chai: Sword of Lips, basada en 唇枪, y The City of Suits, basada en 满城衣冠. Las obras comparten personajes y referencias dentro del universo literario de la autora, pero cuentan historias propias y no constituyen una secuela directa.",
+    "activo": true
   }
 ]
