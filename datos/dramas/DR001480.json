@@ -48,5 +48,16 @@
     }
   ],
   "sinopsis": "Photsawat, un antiguo campeón de boxeo y padre soltero, conoce a Homerun, un joven que comienza a entrenar bajo su tutela. La convivencia en el gimnasio y la relación entre entrenador y aprendiz hacen surgir sentimientos que complican sus vidas.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/zh7lCZZcjJ4LapsoheMTzZnOB4l.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — iQIYI Thailand",
+        "url": "https://www.youtube.com/watch?v=YK1s7Ef0aCo"
+      }
+    ]
+  },
   "activo": true
 }
