@@ -1,0 +1,37 @@
+{
+  "codigo": "DR001491",
+  "bl": true,
+  "titulo": "Passenger Seat Number X",
+  "tituloOriginal": "คุณผู้โดยสารถ่านไฟเก่า",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance"
+  ],
+  "tags": [
+    "Aviación",
+    "Auxiliar de vuelo",
+    "Amor del pasado"
+  ],
+  "sinopsis": "La vida de un joven auxiliar de vuelo da un giro inesperado cuando se encuentra con su exnovio durante uno de sus vuelos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXpZ5x_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=UdQk7FL7e8c"
+      }
+    ]
+  },
+  "activo": true
+}
