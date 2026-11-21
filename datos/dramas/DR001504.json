@@ -1,0 +1,48 @@
+{
+  "codigo": "DR001504",
+  "bl": true,
+  "titulo": "Unknown Lover",
+  "tituloOriginal": "เขาชื่ออันวาร์",
+  "alias": [
+    "Khao Chue Anwar"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima UNKNOWN LOVER de Cinzano 505",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Reencuentro",
+    "Nueva York",
+    "Crecimiento personal",
+    "Relación sin compromiso"
+  ],
+  "personas": [
+    {
+      "nombre": "Blue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Anwar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tras descubrir la infidelidad de su novio y romper con su entorno familiar, Blue viaja a Nueva York durante el verano. Allí conoce a Anwar, un joven de personalidad independiente que le propone una relación sin compromisos. A medida que Blue empieza a desear algo más, la fecha de su regreso a Tailandia se acerca.",
+  "activo": true
+}
