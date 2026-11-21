@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001475",
+  "bl": true,
+  "titulo": "Whale Store xoxo",
+  "tituloOriginal": "คุณวาฬร้านชำ",
+  "alias": [
+    "Khun Wan Ran Cham",
+    "Khun Wan Grocery Store"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2025,
+  "tipo": "DR",
+  "universo": "UN000034",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Whale Store",
+    "tituloOriginal": "คุณวาฬร้านชำ",
+    "autor": "Snow Leopard",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2025-06-25",
+  "finalizacion": "2025-08-27",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Tienda de ultramarinos",
+    "Segundas oportunidades",
+    "Amor"
+  ],
+  "personas": [
+    {
+      "nombre": "Wan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Maewnam",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Manmuk",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Wan",
+        "Maewnam"
+      ]
+    }
+  ],
+  "sinopsis": "Tras perder su trabajo y heredar la tienda de ultramarinos de su padre, Wan intenta mantener el negocio a flote. La llegada de Maewnam, una clienta habitual de personalidad encantadora, cambiará su día a día y abrirá la puerta a una relación inesperada.",
+  "multimedia": {
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.youtube.com/watch?v=P2YZ7d1aI6k"
+      }
+    ]
+  },
+  "activo": true
+}
