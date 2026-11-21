@@ -1,0 +1,97 @@
+{
+  "codigo": "DR001476",
+  "bl": true,
+  "titulo": "Enemies with Benefits",
+  "tituloOriginal": "ลัลล์ไม่ชอบไวน์",
+  "alias": [
+    "Lal Mai Chop Wine"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000034",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Enemies with Benefits",
+    "autor": "Snow Leopard",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "estado": "finalizado",
+  "estreno": "2026-05-03",
+  "finalizacion": "2026-07-05",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Oficina",
+    "Rivales a amantes",
+    "Relación secreta"
+  ],
+  "personas": [
+    {
+      "nombre": "Lal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wine",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tangkwa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Proud",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lal",
+        "Wine"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Especial",
+      "nombre": "Married to My Enemy",
+      "descripcion": "Episodio especial anunciado por GMMTV que continúa la historia de Lal y Wine.",
+      "codigo": "DR001478"
+    }
+  ],
+  "sinopsis": "Lal, jefa del departamento de ventas, siempre intenta superar a Wine, responsable de contabilidad. Tras acabar en una relación de amigos con derechos, ambas deben ocultar lo que ocurre y seguir fingiendo que son enemigas en el trabajo. La cercanía acaba convirtiéndose en amor.",
+  "multimedia": {
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.youtube.com/watch?v=4K__c9385LE"
+      }
+    ]
+  },
+  "activo": true
+}
