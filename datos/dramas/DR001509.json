@@ -33,5 +33,10 @@
     }
   ],
   "sinopsis": "Episodio especial de PayBack The Series que retoma la historia de Sun y su camino en la industria del entretenimiento. iQIYI ha confirmado su producción y lo ha incluido en su programación; la fecha de estreno y la duración todavía no se han anunciado.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ArBNyP_4f.jpg"
+    ]
+  }
 }
