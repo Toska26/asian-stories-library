@@ -1,0 +1,40 @@
+{
+  "codigo": "DR001506",
+  "bl": true,
+  "titulo": "How Come I Became the Protagonist?",
+  "tituloOriginal": "ตื่นมาอีกทีก็เป็นนายเอกไปซะแล้ว",
+  "alias": [
+    "Tuen Ma Ik Thi Ko Pen Nai Ek Pai Sa Laeo"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Adaptación del webtoon tailandés homónimo de PuGun25",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Fantasía"
+  ],
+  "tags": [
+    "Reencarnación",
+    "Abogado",
+    "Mundo de ficción"
+  ],
+  "personas": [
+    {
+      "nombre": "Kong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Kong, un abogado independiente conocido por su sentido de la justicia, es asesinado y despierta en una situación que lo convierte en el protagonista de una historia ajena. La serie adapta el webtoon BL de PuGun25; el reparto y los demás personajes de la versión televisiva aún no se han anunciado.",
+  "activo": true
+}
