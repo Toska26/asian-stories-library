@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001493",
+  "bl": true,
+  "titulo": "Friend Benefit",
+  "tituloOriginal": "สนิทแค่เพื่อน",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Original",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Universidad",
+    "Amigos a amantes",
+    "Aprendices de idols"
+  ],
+  "personas": [
+    {
+      "nombre": "Jai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pik",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Odd",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ozone",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Jai y Pik son amigos de universidad y aprendices en un estudio de idols. Mientras Jai atraviesa una decepción amorosa, Pik permanece a su lado como su mejor amigo, aunque sus sentimientos podrían ir más allá de la amistad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g0kXgd_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=aJejhMHLKDk"
+      }
+    ]
+  },
+  "activo": true
+}
