@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001472",
+  "bl": false,
+  "titulo": "Sword of Lips",
+  "tituloOriginal": "唇枪",
+  "alias": [
+    "Lip and Sword",
+    "Lip Gun",
+    "Chun Qiang"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000058",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Lip and Sword",
+    "tituloOriginal": "唇枪",
+    "autor": "Jin Shisi Chai",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación",
+    "Periodismo",
+    "Investigación",
+    "Diferencia de edad",
+    "Relación de poder"
+  ],
+  "personas": [
+    {
+      "nombre": "Xing Ming",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Zhongye",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Xing Ming, un graduado de medicina, abandona su carrera para entrar en el mundo del periodismo televisivo y descubrir la verdad sobre el encarcelamiento injusto y la muerte de su padre. Para avanzar en su investigación y abrirse paso en una industria dominada por intereses y relaciones de poder, se acerca a Yu Zhongye, el influyente presidente de una cadena de televisión. Entre ambos surge una relación compleja marcada por la ambición, la manipulación y la búsqueda de justicia.",
+  "activo": true
+}
