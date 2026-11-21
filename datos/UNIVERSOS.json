@@ -203,5 +203,12 @@
         "nombre": "188 Universe",
         "descripcion": "Universo literario creado a partir de las novelas BL de Shui Qiancheng. Agrupa adaptaciones audiovisuales de novelas conectadas dentro del universo 188, independientemente del país de producción; la relación entre las series procede de las obras literarias originales y no implica que compartan productora ni continuidad audiovisual.",
         "activo": true
+    },
+    {
+        "codigo": "UN000034",
+        "nombre": "GMMTV GL Universe",
+        "pais": "TH",
+        "descripcion": "Universo narrativo de producciones GL de GMMTV basadas en novelas de Snow Leopard y conectadas por escenarios y personajes recurrentes. Incluye Whale Store xoxo, Enemies with Benefits, Bake Love Feeling y el especial Married to My Enemy.",
+        "activo": true
     }
 ]
