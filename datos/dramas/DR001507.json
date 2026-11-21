@@ -1,0 +1,47 @@
+{
+  "codigo": "DR001507",
+  "bl": true,
+  "titulo": "Don't Peek",
+  "tituloOriginal": "พีคไหมพ่อ",
+  "alias": [
+    "Peek Mai Pho"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Avery Pie, publicada por Caffeine / Sataporn Books",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Diferencia de edad",
+    "Amor prohibido",
+    "Amigo de la familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Peak",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Traikan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Peak ve cómo su vida se complica cuando se siente atraído por Traikan, un hombre mayor, experimentado y con una posición destacada en los negocios. El vínculo se vuelve aún más delicado porque Traikan es el padre de uno de los amigos de Peak.",
+  "activo": true
+}
