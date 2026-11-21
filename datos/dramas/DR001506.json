@@ -36,5 +36,10 @@
     }
   ],
   "sinopsis": "Kong, un abogado independiente conocido por su sentido de la justicia, es asesinado y despierta en una situación que lo convierte en el protagonista de una historia ajena. La serie adapta el webtoon BL de PuGun25; el reparto y los demás personajes de la versión televisiva aún no se han anunciado.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Arr7vg_4f.jpg"
+    ]
+  }
 }
