@@ -1,0 +1,33 @@
+{
+  "codigo": "DR001503",
+  "bl": false,
+  "titulo": "Love Desire",
+  "tituloOriginal": "ระเริงรัก",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "Romance",
+    "Melodrama",
+    "Venganza"
+  ],
+  "tags": [
+    "Secretos familiares",
+    "Madre e hija",
+    "Doble papel",
+    "Venganza"
+  ],
+  "sinopsis": "Un conflicto marcado por el rencor y la venganza atraviesa dos generaciones. Engfa Waraha interpreta a una madre y a su hija, cuya historia se ve afectada por los secretos y las heridas del pasado de la familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/lBBvQJ_4f.jpg"
+    ]
+  },
+  "activo": true
+}
