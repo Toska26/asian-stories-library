@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001496",
+  "bl": true,
+  "titulo": "Into Racha The Series",
+  "tituloOriginal": "สู่อ้อมกอดของราชา",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela de Ying Chakan",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Amor del pasado",
+    "Reencuentro",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Azhen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Racha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tras un escándalo que los separa, Azhen y Racha vuelven a encontrarse un año después. El reencuentro les obliga a afrontar el pasado y los sentimientos que aún los unen.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b37n06_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=hesWuLpju-Y"
+      }
+    ]
+  },
+  "activo": true
+}
