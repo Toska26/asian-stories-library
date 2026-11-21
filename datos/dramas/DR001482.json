@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001482",
+  "bl": true,
+  "titulo": "The Ghost Family",
+  "tituloOriginal": "ครอบครัวผมไม่ใช่คน",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "ครอบครัวผมไม่ใช่คน",
+    "autor": "BELLE (BELLE_SPB)",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Misterio",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Fantasmas",
+    "Familia",
+    "Investigación",
+    "Misterio",
+    "CEO"
+  ],
+  "personas": [
+    {
+      "nombre": "Jin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thanwa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yutthana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Thanwa, un joven huérfano, encuentra un sobre rojo que lo vincula al espíritu de Jin, un joven CEO fallecido. Al entrar en contacto con la familia de fantasmas de Jin, Thanwa se ve envuelto en la investigación de su muerte, que quizá no fue accidental.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/8QQ2g2_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/07d/07da1921cbc124b15d105b3e13d67eb5.mp4"
+    ]
+  },
+  "activo": true
+}
