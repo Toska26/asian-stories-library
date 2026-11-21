@@ -1,0 +1,57 @@
+{
+  "codigo": "DR001488",
+  "bl": true,
+  "titulo": "Kiss Me, Remember?",
+  "tituloOriginal": "จำเลยจุ๊บ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Escolar",
+    "Amnesia",
+    "Memoria"
+  ],
+  "personas": [
+    {
+      "nombre": "Pas",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kit",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Después de perder la memoria en un accidente, Pas descubre que los besos de Kit le ayudan a recuperar recuerdos. A partir de entonces busca cualquier excusa para volver a besarlo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3y4nj_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/11b/11bd1fa9edc725f8d2a295da79eeb9fb.mp4"
+    ],
+    "videos": [
+      {
+        "titulo": "GMMTV 2026 — presentación del proyecto",
+        "url": "https://www.youtube.com/watch?v=iiSRE7fFQ2A"
+      }
+    ]
+  },
+  "activo": true
+}
