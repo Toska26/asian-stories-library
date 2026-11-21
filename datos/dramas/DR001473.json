@@ -39,35 +39,11 @@
     "Abogacía",
     "Justicia"
   ],
-  "personas": [
-    {
-      "nombre": "Fu Yunxian",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Xu Su",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    }
-  ],
-  "sinopsis": "Fu Yunxian es un prestigioso abogado penalista cuya influencia y éxito lo han convertido en una figura poderosa del mundo jurídico. Xu Su, un abogado más joven que lo conoció cuando todavía defendía sus ideales de justicia, vuelve a cruzarse en su camino. La relación entre ambos se desarrolla en un entorno donde la ambición, el poder y los principios personales chocan constantemente.",
+  "sinopsis": "Un prestigioso abogado penalista cuya influencia y éxito lo han convertido en una figura poderosa del mundo jurídico vuelve a cruzarse con un abogado más joven al que conoció cuando todavía defendía sus ideales de justicia. La relación entre ambos se desarrolla en un entorno donde la ambición, el poder y los principios personales chocan constantemente.",
   "multimedia": {
     "portada": [
       "https://www.themoviedb.org/t/p/w1280/jrNKeh3ZRq2KLYsIQ2t8JR0ifOF.jpg"
     ]
   },
-  "activo": true,
-  "ships": [
-    {
-      "personajes": [
-        "Fu Yunxian",
-        "Xu Su"
-      ]
-    }
-  ]
+  "activo": true
 }
