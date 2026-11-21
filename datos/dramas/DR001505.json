@@ -44,5 +44,16 @@
     }
   ],
   "sinopsis": "Después de morir con el deseo pendiente de volver a amar a Phasu, Nin recibe la oportunidad de acercarse de nuevo a él a través de una misteriosa organización llamada Identity Zero Bureau. Una misión sobrenatural podría darle una segunda oportunidad para cambiar el destino de su historia.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAALmo_4f.jpg"
+    ],
+    "teaser": [
+      {
+        "titulo": "iQIYI Original - IDENTITY ZERO",
+        "url": "https://www.youtube.com/watch?v=Y9_1R4s1uso"
+      }
+    ]
+  }
 }
