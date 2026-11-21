@@ -206,9 +206,9 @@
     },
     {
         "codigo": "UN000034",
-        "nombre": "GMMTV GL Universe",
+        "nombre": "Snow Leopard's GMMTV GL Stories",
         "pais": "TH",
-        "descripcion": "Universo narrativo de producciones GL de GMMTV basadas en novelas de Snow Leopard y conectadas por escenarios y personajes recurrentes. Incluye Whale Store xoxo, Enemies with Benefits, Bake Love Feeling y el especial Married to My Enemy.",
+        "descripcion": "Universo limitado a las adaptaciones GL de novelas de Snow Leopard producidas por GMMTV que comparten escenarios y personajes recurrentes. Incluye Whale Store xoxo, Enemies with Benefits, Bake Love Feeling y el especial Married to My Enemy; no representa el conjunto de producciones GL de GMMTV.",
         "activo": true
     }
 ]
