@@ -1,0 +1,43 @@
+{
+  "codigo": "DR001484",
+  "bl": true,
+  "titulo": "Mr. Dior",
+  "tituloOriginal": "มิสเตอร์ดิออร์",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "迪奥先生",
+    "tituloOriginal": "Mr. Dior",
+    "autor": "Lü Ye Qian He (绿野千鹤)",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Cambio de personalidad",
+    "Identidades",
+    "CEO"
+  ],
+  "sinopsis": "Zhang Chenfei y Jiao Qi llevan siete años casados y son directivos de empresas. Tras sufrir un accidente de coche, la personalidad de Zhang Chenfei cambia de forma inesperada y adopta distintos papeles y personalidades, desde un conde vampiro hasta un dios del mar; en cada nueva identidad vuelve a enamorarse de Jiao Qi.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjjkJw_4f.jpg",
+      "https://www.themoviedb.org/t/p/w1280/p1CbVSa2JhkIeQyoNlvxcBBtKby.jpg"
+    ]
+  },
+  "activo": true
+}
