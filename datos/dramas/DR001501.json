@@ -1,0 +1,52 @@
+{
+  "codigo": "DR001501",
+  "bl": false,
+  "titulo": "Villain Star",
+  "tituloOriginal": "น้องคะอย่าเยอะ",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Salmon",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Actrices",
+    "Industria del entretenimiento",
+    "Rivalidad",
+    "Amor entre bastidores"
+  ],
+  "personas": [
+    {
+      "nombre": "Keow",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dujdara",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Keow, una actriz veterana conocida por interpretar villanas, comparte proyecto con Dujdara, una actriz más joven. Aunque en pantalla sus personajes son rivales, la joven comienza a mostrar un interés que va más allá de la actuación y difumina los límites entre ficción y sentimientos reales.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bvvOZj_4f.jpg"
+    ]
+  },
+  "activo": true
+}
