@@ -41,35 +41,11 @@
     "Diferencia de edad",
     "Relación de poder"
   ],
-  "personas": [
-    {
-      "nombre": "Xing Ming",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Yu Zhongye",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    }
-  ],
-  "sinopsis": "Xing Ming, un graduado de medicina, abandona su carrera para entrar en el mundo del periodismo televisivo y descubrir la verdad sobre el encarcelamiento injusto y la muerte de su padre. Para avanzar en su investigación y abrirse paso en una industria dominada por intereses y relaciones de poder, se acerca a Yu Zhongye, el influyente presidente de una cadena de televisión. Entre ambos surge una relación compleja marcada por la ambición, la manipulación y la búsqueda de justicia.",
+  "sinopsis": "Un graduado de medicina abandona su carrera para entrar en el mundo del periodismo televisivo y descubrir la verdad sobre el encarcelamiento injusto y la muerte de su padre. Para avanzar en su investigación y abrirse paso en una industria dominada por intereses y relaciones de poder, se acerca a un influyente presidente de una cadena de televisión. Entre ambos surge una relación compleja marcada por la ambición, la manipulación y la búsqueda de justicia.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/bvvOnL_4f.jpg"
     ]
   },
-  "activo": true,
-  "ships": [
-    {
-      "personajes": [
-        "Xing Ming",
-        "Yu Zhongye"
-      ]
-    }
-  ]
+  "activo": true
 }
