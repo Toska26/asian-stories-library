@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001479",
+  "bl": true,
+  "titulo": "No.1 Student",
+  "tituloOriginal": "แอบเนียนนักเรียนห่วย",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela web",
+    "relacion": "Adaptación",
+    "titulo": "Fake Slackers",
+    "tituloOriginal": "伪装学渣",
+    "autor": "Mu Gua Huang",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Adaptación",
+    "Juventud",
+    "Escolar"
+  ],
+  "personas": [
+    {
+      "nombre": "Alan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Athit",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Alan y Athit son dos estudiantes que fingen ser alumnos despreocupados y de bajo rendimiento. Al acercarse y descubrir lo que cada uno oculta tras esa fachada, su rivalidad y sus encuentros dan paso a una relación romántica.",
+  "multimedia": {
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=zz-v1FeTm4Y"
+      }
+    ]
+  },
+  "activo": true
+}
