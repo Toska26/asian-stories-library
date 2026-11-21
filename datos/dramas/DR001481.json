@@ -64,11 +64,22 @@
   ],
   "sinopsis": "Talay queda atrapado en las consecuencias de las deudas de su padre, que lo ofrece al poderoso propietario de un casino, Akhin, como forma de saldar lo que debe. Mientras Talay se ve envuelto en una relación marcada por el poder y el control, Ian, sobrino de Akhin, mantiene sus propios sentimientos hacia Theer.",
   "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/sUU0IiCvSwHgo1YrPmVh3k32lh.jpg",
+      "https://i.mydramalist.com/3oONpA_4f.jpg"
+    ],
     "pilot": [
+      {
+        "titulo": "Official Pilot — iQIYI Thailand",
+        "url": "https://www.youtube.com/watch?v=BqKmu75J-HA"
+      },
       {
         "titulo": "Official Pilot",
         "url": "https://www.youtube.com/watch?v=V594Z9gYZOU"
       }
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/1cf/1cfef7cfd8d26b1ecb8b0eccca6366ca.mp4"
     ]
   },
   "activo": true
