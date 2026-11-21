@@ -76,7 +76,14 @@
       {
         "titulo": "Official Trailer",
         "url": "https://www.youtube.com/watch?v=P2YZ7d1aI6k"
+      },
+      {
+        "titulo": "Trailer (MyDramaList)",
+        "url": "https://v.mydramalist.com/4d1/4d1025a728b16caa6ca38ed00c663e68.mp4"
       }
+    ],
+    "portada": [
+      "https://i.mydramalist.com/nO6nPE_4f.jpg"
     ]
   },
   "activo": true
