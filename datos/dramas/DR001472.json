@@ -1,6 +1,6 @@
 {
   "codigo": "DR001472",
-  "bl": false,
+  "bl": true,
   "titulo": "Sword of Lips",
   "tituloOriginal": "唇枪",
   "alias": [
@@ -58,5 +58,13 @@
     }
   ],
   "sinopsis": "Xing Ming, un graduado de medicina, abandona su carrera para entrar en el mundo del periodismo televisivo y descubrir la verdad sobre el encarcelamiento injusto y la muerte de su padre. Para avanzar en su investigación y abrirse paso en una industria dominada por intereses y relaciones de poder, se acerca a Yu Zhongye, el influyente presidente de una cadena de televisión. Entre ambos surge una relación compleja marcada por la ambición, la manipulación y la búsqueda de justicia.",
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Xing Ming",
+        "Yu Zhongye"
+      ]
+    }
+  ]
 }
