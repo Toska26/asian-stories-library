@@ -1,0 +1,62 @@
+{
+  "codigo": "DR001494",
+  "bl": true,
+  "titulo": "Still Holding Up Like the Moon",
+  "tituloOriginal": "ดั่งเดือนค้างฟ้า",
+  "alias": [
+    "Dang Duean Khang Fah"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Somsiri",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Misterio",
+    "Fantasía"
+  ],
+  "tags": [
+    "Viaje temporal",
+    "Cine",
+    "Década de 1980",
+    "Homofobia",
+    "Muerte misteriosa"
+  ],
+  "personas": [
+    {
+      "nombre": "Duean",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phakai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Phakai, un actor actual, queda fascinado por la historia de Duean, una estrella del cine de los años ochenta conocida como «la Luna eterna», que murió a los 25 años al caer de un edificio. Aunque su muerte fue considerada un suicidio, Phakai sospecha que ocurrió algo más y se adentra en el pasado para descubrir la verdad.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXpZ7E_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=Pi5m4qxFlh4"
+      }
+    ]
+  },
+  "activo": true
+}
