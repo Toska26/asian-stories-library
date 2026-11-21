@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001478",
+  "bl": true,
+  "titulo": "Married to My Enemy",
+  "tituloOriginal": "ลัลล์ไม่ชอบไวน์ : แต่รักไวน์ที่สุด",
+  "alias": [
+    "Enemies With Benefits Special",
+    "Married to My Enemy Special"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "ESP",
+  "universo": "UN000034",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Especial",
+    "Continuación",
+    "Boda"
+  ],
+  "personas": [
+    {
+      "nombre": "Lal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wine",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Lal",
+        "Wine"
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "Continuación",
+      "nombre": "Enemies with Benefits",
+      "descripcion": "Especial que retoma la historia de Lal y Wine después de los acontecimientos de la serie.",
+      "codigo": "DR001476"
+    }
+  ],
+  "sinopsis": "Episodio especial de Enemies with Benefits que continúa la historia de Lal y Wine. GMMTV lo anunció durante el evento Final EP. FAN MEETING del 5 de julio de 2026. La fecha de estreno y la duración todavía no se han confirmado.",
+  "activo": true
+}
