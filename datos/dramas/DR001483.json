@@ -1,0 +1,42 @@
+{
+  "codigo": "DR001483",
+  "bl": true,
+  "titulo": "Ayothaya Ayeyarwady",
+  "tituloOriginal": "อโยธยาเอยาวดี",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Webcomic",
+    "relacion": "Adaptación",
+    "titulo": "อโยธยาเอยาวดี",
+    "autor": "Amulin (Chalisa Limpipolpaiboon)",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama",
+    "Histórico",
+    "Fantasía"
+  ],
+  "tags": [
+    "Reinos",
+    "Príncipes",
+    "Guerra",
+    "Amor entre enemigos"
+  ],
+  "sinopsis": "En un mundo ficticio inspirado en los conflictos históricos entre Ayothaya y Hongsawadi, dos jóvenes príncipes de reinos enemigos desarrollan un vínculo. Cuando los territorios del norte caen, el vencedor exige prisioneros y su relación queda atrapada en medio del conflicto.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/V8y9O5MOKCeiWJ3sOO6YMksPRM.jpg"
+    ]
+  },
+  "activo": true
+}
