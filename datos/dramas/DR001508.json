@@ -1,0 +1,25 @@
+{
+  "codigo": "DR001508",
+  "bl": true,
+  "titulo": "MANUKAI",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Drama"
+  ],
+  "tags": [
+    "Tailandia-Japón",
+    "Nueva generación",
+    "BeOnCloud"
+  ],
+  "sinopsis": "Proyecto BL tailandés-japonés de BeOnCloud e iQIYI que reúne a seis jóvenes intérpretes de ambos países bajo el concepto de una nueva generación con proyección internacional. Mile Phakphum participa en la música y Apo Nattawin en la formación interpretativa y el desarrollo de la imagen del proyecto. La trama y los nombres de los personajes todavía no se han anunciado.",
+  "activo": true
+}
