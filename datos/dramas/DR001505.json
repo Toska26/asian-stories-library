@@ -48,6 +48,12 @@
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/YAALmo_4f.jpg"
+    ],
+    "teaser": [
+      {
+        "titulo": "Official Teaser | iQIYI Original - Identity Zero",
+        "url": "https://www.youtube.com/watch?v=h3AnOBMFLrM"
+      }
     ]
   }
 }
