@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001495",
+  "bl": true,
+  "titulo": "30 Days of Us",
+  "tituloOriginal": "เริ่มต้นใหม่ใน 30 วัน",
+  "alias": [
+    "Roem Ton Mai Nai Sam Sip Wan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Zearet17",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Segunda oportunidad",
+    "Crisis de pareja",
+    "Reconciliación"
+  ],
+  "personas": [
+    {
+      "nombre": "Bear",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cho",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Bear y Cho llevan diez años juntos, pero su matrimonio atraviesa una crisis. Acuerdan darse treinta días para reflexionar sobre su relación y decidir si intentan empezar de nuevo o se separan definitivamente.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73AyzR_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=s3avrFeOXUc"
+      }
+    ]
+  },
+  "activo": true
+}
