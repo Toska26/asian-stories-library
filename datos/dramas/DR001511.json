@@ -42,6 +42,10 @@
     }
   ],
   "sinopsis": "Leo, un videógrafo filipino ambicioso, viaja a Tailandia para trabajar en la producción de un certamen internacional de belleza. Allí conoce a Nan, un fotógrafo tailandés con quien comparte el trabajo detrás de las cámaras. La colaboración despierta una conexión romántica que deberá superar las diferencias culturales, las rivalidades y la incertidumbre sobre el futuro de Leo en Filipinas.",
-  "multimedia": {},
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/L2woZb_4f.jpg"
+    ]
+  },
   "activo": true
 }
