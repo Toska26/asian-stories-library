@@ -1,0 +1,37 @@
+{
+  "codigo": "DR001509",
+  "bl": true,
+  "titulo": "PAYBACK Special Episode",
+  "alias": [
+    "Payback Special Episode 11"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "ESP",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Especial",
+    "Continuación",
+    "Industria del entretenimiento"
+  ],
+  "relaciones": [
+    {
+      "tipo": "Especial de",
+      "nombre": "PayBack The Series",
+      "descripcion": "Episodio especial que continúa la historia de la serie original.",
+      "codigo": "DR001047"
+    }
+  ],
+  "sinopsis": "Episodio especial de PayBack The Series que retoma la historia de Sun y su camino en la industria del entretenimiento. iQIYI ha confirmado su producción y lo ha incluido en su programación; la fecha de estreno y la duración todavía no se han anunciado.",
+  "activo": true
+}
