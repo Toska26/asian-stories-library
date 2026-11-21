@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001499",
+  "bl": false,
+  "titulo": "Love in the Fast Lane",
+  "tituloOriginal": "รักนี้ไม่ต้องซ่อม",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Kawisirung",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Taller mecánico",
+    "Automóviles de lujo",
+    "Prácticas laborales",
+    "Opuestos"
+  ],
+  "sinopsis": "Una joven supersticiosa llega a Bangkok para realizar prácticas en un taller especializado en coches deportivos de lujo. Allí choca con una mecánica de carácter fuerte, sin saber que ella pertenece a una familia adinerada y es la propietaria del negocio. La convivencia hará que la rivalidad dé paso al romance.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/y66g23_4f.jpg"
+    ]
+  },
+  "activo": true
+}
