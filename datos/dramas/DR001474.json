@@ -1,0 +1,50 @@
+{
+  "codigo": "DR001474",
+  "bl": true,
+  "titulo": "Lock On You",
+  "tituloOriginal": "Lock On You",
+  "alias": [
+    "My Little Poplar",
+    "My Little White Poplar",
+    "Little White Poplar",
+    "Xiao Bai Yang"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "universo": "UN000033",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "My Little Poplar",
+    "tituloOriginal": "小白杨",
+    "autor": "Shui Qiancheng",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Universo 188",
+    "Vida militar",
+    "Disciplina",
+    "Enemigos a amantes",
+    "Segunda oportunidad"
+  ],
+  "sinopsis": "Pite, un joven mimado de una familia adinerada, es enviado a una unidad militar para aprender disciplina y responsabilidad. Allí debe enfrentarse a un exigente entorno de entrenamiento y a un soldado estricto cuya actitud choca desde el primer momento con la suya. Entre rivalidades, pruebas físicas y situaciones límite, Pite comienza a cambiar y la relación entre ambos evoluciona de la hostilidad a sentimientos más profundos. La historia explora también las consecuencias de una decisión que pone a prueba su confianza y la posibilidad de recuperar un amor perdido.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dyy2Wo_4f.jpg"
+    ]
+  },
+  "activo": true
+}
