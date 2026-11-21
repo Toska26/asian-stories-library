@@ -1,0 +1,84 @@
+{
+  "codigo": "DR001477",
+  "bl": true,
+  "titulo": "Bake Love Feeling",
+  "tituloOriginal": "ขนมปังชีสเนย",
+  "alias": [
+    "Bake Love Feelings"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000034",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "Bake Love Feelings",
+    "autor": "Snow Leopard",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación literaria",
+    "Panadería",
+    "Abogacía"
+  ],
+  "personas": [
+    {
+      "nombre": "Cheese",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Noey",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wine",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cheese sueña con sacar adelante su panadería, pero un accidente y una disputa legal relacionada con una franquicia la llevan a cruzarse con Noey, una abogada de carácter firme. Mientras Noey se ocupa del caso, Cheese intenta acercarse a ella a través de sus nuevas recetas. El piloto también recupera a Lal y Wine, de Enemies with Benefits, y a Wan, de Whale Store xoxo.",
+  "multimedia": {
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=NFFWV0X4i_c"
+      }
+    ]
+  },
+  "activo": true
+}
