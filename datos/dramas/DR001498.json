@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001498",
+  "bl": false,
+  "titulo": "The Editor’s Midlife Love",
+  "tituloOriginal": "บรรณาธิการ (รัก)",
+  "alias": [
+    "บรรณาธิการรัก",
+    "The Editor's Midlife Love: Middle Aged Edition"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela The Editor’s Midlife Love, de Three Clubs (สามดอกจิก)",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Madurez",
+    "Diferencia de edad",
+    "Escritora",
+    "Editora",
+    "Segunda oportunidad"
+  ],
+  "personas": [
+    {
+      "nombre": "Phakthima",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kulnida",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Kulnida, una profesora de tailandés de cuarenta años y madre soltera, acepta un trabajo como editora de Phakthima, una escritora de éxito que atraviesa un bloqueo creativo. La relación profesional entre ambas se transforma poco a poco en un vínculo afectivo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/m00Bx0_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Vídeo promocional proporcionado por el usuario",
+        "url": "https://v.mydramalist.com/ce3/ce3c24ae09050bf9a783d8f6b7af9abc.mp4"
+      }
+    ]
+  },
+  "activo": true
+}
