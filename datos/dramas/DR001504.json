@@ -48,6 +48,12 @@
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/JB0Jpd_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot | iQIYI Original - Unknown Lover",
+        "url": "https://www.youtube.com/watch?v=zoQ-HNyFFGg"
+      }
     ]
   }
 }
