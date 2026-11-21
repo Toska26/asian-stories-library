@@ -10,8 +10,6 @@
   "tipo": "DR",
   "temporadas": 1,
   "temporada": 1,
-  "episodios": null,
-  "duracion": null,
   "estado": "finalizado",
   "estreno": "2026-11-20",
   "generos": [
@@ -42,6 +40,10 @@
     }
   ],
   "sinopsis": "Alpha, un campeón de judo, convence a Romeo, un estudiante aplicado y rival suyo, para fingir una relación y así recuperar a su ex. Mientras Alpha ayuda a Romeo con el judo y Romeo le ofrece apoyo académico, la relación fingida empieza a convertirse en sentimientos reales. Su vínculo se pondrá a prueba cuando deban enfrentarse en un torneo clasificatorio nacional.",
-  "multimedia": {},
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VBBgem_4f.jpg"
+    ]
+  },
   "activo": true
 }
