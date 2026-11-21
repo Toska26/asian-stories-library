@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001490",
+  "bl": true,
+  "titulo": "HUG E-LHEE: Somtum Rhapsody",
+  "tituloOriginal": "มนต์รักฮักอีหลี",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Original",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia",
+    "Musical"
+  ],
+  "tags": [
+    "Restaurante",
+    "Música",
+    "Sueños artísticos"
+  ],
+  "personas": [
+    {
+      "nombre": "Chang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Noi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nid",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Niche",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Noi sueña con convertirse en cantante, pero debe hacerse cargo del restaurante familiar de som tam. La rivalidad con un restaurante vecino y su encuentro con Chang dan paso a una comedia musical romántica.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/y66gzN_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=nqrblY-RJA4"
+      }
+    ]
+  },
+  "activo": true
+}
