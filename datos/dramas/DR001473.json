@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001473",
+  "bl": false,
+  "titulo": "The City of Suits",
+  "tituloOriginal": "满城衣冠",
+  "alias": [
+    "The Decent",
+    "Man Cheng Yi Guan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000058",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "The Decent",
+    "tituloOriginal": "满城衣冠",
+    "autor": "Jin Shisi Chai",
+    "pais": "CN"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Adaptación",
+    "Drama legal",
+    "Abogacía",
+    "Justicia"
+  ],
+  "personas": [
+    {
+      "nombre": "Fu Yunxian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Xu Su",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Fu Yunxian es un prestigioso abogado penalista cuya influencia y éxito lo han convertido en una figura poderosa del mundo jurídico. Xu Su, un abogado más joven que lo conoció cuando todavía defendía sus ideales de justicia, vuelve a cruzarse en su camino. La relación entre ambos se desarrolla en un entorno donde la ambición, el poder y los principios personales chocan constantemente.",
+  "activo": true
+}
