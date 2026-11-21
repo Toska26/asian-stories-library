@@ -1,0 +1,55 @@
+{
+  "codigo": "DR001500",
+  "bl": false,
+  "titulo": "Sweet Bond",
+  "tituloOriginal": "พันธะหวาน",
+  "alias": [
+    "Phantha Wan"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": "Novela homónima de Flower of Memory (ดอกไม้แห่งความทรงจำ)",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "GL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Compromiso",
+    "Cuidado",
+    "Médica",
+    "Accidente"
+  ],
+  "personas": [
+    {
+      "nombre": "Saeng Nuea",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Prin",
+      "persona": "",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Saeng Nuea, una mujer que evita los compromisos, acaba cuidando de Prin, una médica que pierde temporalmente la vista tras un accidente. La convivencia y el cuidado mutuo harán que Saeng Nuea se enfrente a sus propios sentimientos y a su miedo a comprometerse.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JjjBVY_4f.jpg"
+    ]
+  },
+  "activo": true
+}
