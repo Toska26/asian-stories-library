@@ -44,5 +44,16 @@
     }
   ],
   "sinopsis": "Tras descubrir la infidelidad de su novio y romper con su entorno familiar, Blue viaja a Nueva York durante el verano. Allí conoce a Anwar, un joven de personalidad independiente que le propone una relación sin compromisos. A medida que Blue empieza a desear algo más, la fecha de su regreso a Tailandia se acerca.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB0Jpd_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot | iQIYI Original - UNKNOWN LOVER",
+        "url": "https://www.youtube.com/watch?v=zoQ-HNyFFGg"
+      }
+    ]
+  }
 }
