@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001487",
+  "bl": true,
+  "titulo": "Roommate Chaos",
+  "tituloOriginal": "หอในหัวใจวุ่นรัก",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Universidad",
+    "Residencia estudiantil",
+    "Relaciones múltiples"
+  ],
+  "personas": [
+    {
+      "nombre": "Pao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Prat",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vaja",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Monthol",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sol",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Comedia romántica universitaria que sigue las relaciones y los enredos sentimentales de varios estudiantes que comparten residencia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/yWkYNd_4f.jpg"
+    ]
+  },
+  "activo": true
+}
