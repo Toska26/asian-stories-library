@@ -1,0 +1,75 @@
+{
+  "codigo": "DR001481",
+  "bl": true,
+  "titulo": "LUST",
+  "tituloOriginal": "ลุ่มหลง",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2026,
+  "tipo": "DR",
+  "universo": "UN000001",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "ลุ่มหลง",
+    "autor": "MAME Orawan Vichayawannakul",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "Deuda",
+    "Poder",
+    "Posesión",
+    "Casino",
+    "Relaciones tóxicas"
+  ],
+  "personas": [
+    {
+      "nombre": "Akhin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Talay",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Theer",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Talay queda atrapado en las consecuencias de las deudas de su padre, que lo ofrece al poderoso propietario de un casino, Akhin, como forma de saldar lo que debe. Mientras Talay se ve envuelto en una relación marcada por el poder y el control, Ian, sobrino de Akhin, mantiene sus propios sentimientos hacia Theer.",
+  "multimedia": {
+    "pilot": [
+      {
+        "titulo": "Official Pilot",
+        "url": "https://www.youtube.com/watch?v=V594Z9gYZOU"
+      }
+    ]
+  },
+  "activo": true
+}
