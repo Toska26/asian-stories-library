@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001497",
+  "bl": true,
+  "titulo": "20 Lists",
+  "tituloOriginal": "ลิสต์นี้มียู",
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "Universidad",
+    "Lista de deseos",
+    "Opuestos"
+  ],
+  "personas": [
+    {
+      "nombre": "Euro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sheet",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Un estudiante universitario becado y responsable termina ayudando a Euro, un joven de familia adinerada, a cumplir una lista de veinte objetivos. La convivencia y las experiencias compartidas acercan a los dos jóvenes.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YY2KbP_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=9__iLXX9D04"
+      }
+    ]
+  },
+  "activo": true
+}
