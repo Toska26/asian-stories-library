@@ -43,6 +43,18 @@
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VBBgem_4f.jpg"
+    ],
+    "teaser": [
+      {
+        "titulo": "Official Teaser",
+        "url": "https://www.youtube.com/watch?v=nk_yFqvpEoo"
+      }
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://www.youtube.com/watch?v=qq_hrIBwomQ"
+      }
     ]
   },
   "activo": true
