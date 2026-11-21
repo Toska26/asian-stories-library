@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001486",
+  "bl": true,
+  "titulo": "See You as a Flower",
+  "tituloOriginal": "มองเธอเหมือนมองดอกไม้",
+  "alias": [
+    "Mong Thoe Muean Mong Dok Mai"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "origen": {
+    "tipo": "Novela",
+    "relacion": "Adaptación",
+    "titulo": "มองเธอเหมือนมองดอกไม้",
+    "autor": "Fan Eur-ra-huey",
+    "pais": "TH"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Escolar"
+  ],
+  "tags": [
+    "Escolar",
+    "Opuestos",
+    "Enemigos a amantes"
+  ],
+  "personas": [
+    {
+      "nombre": "Rueangsaeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sakara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Sakara, un estudiante amable y admirado por sus compañeros, se cruza con Rueangsaeng, un chico conflictivo que desconfía del mundo. La relación comienza con hostilidad, pero la bondad de Sakara empieza a cambiar la forma en que Rueangsaeng ve a los demás.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/bvveqY_4f.jpg"
+    ],
+    "trailer": [
+      "https://v.mydramalist.com/7cb/7cbe626aa0d04f3dd324eee36d82d4d0.mp4"
+    ]
+  },
+  "activo": true
+}
