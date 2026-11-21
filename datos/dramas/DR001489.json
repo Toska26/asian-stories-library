@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001489",
+  "bl": true,
+  "titulo": "You(r)Tuber",
+  "tituloOriginal": "เมื่อผมอยากเป็นยูทูบเบอร์แข่งกับแฟนเก่า",
+  "alias": [
+    "You(r)Tuber Series"
+  ],
+  "pais": [
+    "TH"
+  ],
+  "idioma": "th",
+  "anio": 2027,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "estado": "anunciado",
+  "generos": [
+    "BL",
+    "Romance",
+    "Comedia"
+  ],
+  "tags": [
+    "YouTube",
+    "Creación de contenido",
+    "Segundas oportunidades",
+    "Exparejas"
+  ],
+  "personas": [
+    {
+      "nombre": "Chopkhun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Intouch",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Tras perder su canal y descubrir la infidelidad de su pareja, Chopkhun decide empezar de nuevo como creador de contenido. Intouch, un cámara experimentado, se une a su equipo y ambos comienzan a acercarse.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/O8d7BY_4f.jpg"
+    ],
+    "pilot": [
+      {
+        "titulo": "Official Pilot — Mandee Channel",
+        "url": "https://www.youtube.com/watch?v=OobZkBPjgJc"
+      }
+    ]
+  },
+  "activo": true
+}
