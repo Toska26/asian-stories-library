@@ -1,0 +1,41 @@
+{
+  "codigo": "DR001517",
+  "titulo": "Hello Franceska — Season 1",
+  "tituloOriginal": "안녕, 프란체스카",
+  "alias": [
+    "Hello Franceska",
+    "An-nyoung! Peuranche-seuka"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2005,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000059",
+    "orden": 1
+  },
+  "serie": "SR001517",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2005-01-24",
+  "finalizacion": "2005-04-25",
+  "generos": [
+    "Comedia",
+    "Terror",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Vampiros",
+    "Familia",
+    "Identidad secreta",
+    "Convivencia",
+    "Humor negro"
+  ],
+  "sinopsis": "Una familia de vampiros procedente de Rumanía llega por error a Corea del Sur mientras busca un lugar donde ocultarse entre los humanos. Allí conoce a Doo-il, un hombre tímido y desafortunado que acaba convertido en vampiro tras ser mordido accidentalmente. La primera temporada presenta la convivencia de esta peculiar familia mientras intenta adaptarse a la vida humana.",
+  "activo": true
+}
