@@ -1,0 +1,72 @@
+{
+  "codigo": "DR001512",
+  "titulo": "The Confession Truth",
+  "tituloOriginal": "自首真相",
+  "alias": [
+    "Zi Shou Zhen Xiang",
+    "Ju Huo",
+    "Sha Ren Zhen Xiang"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 18,
+  "estado": "finalizado",
+  "estreno": "2026-11-07",
+  "finalizacion": "2026-11-12",
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Drama",
+    "Investigación"
+  ],
+  "tags": [
+    "Casos criminales",
+    "Investigación policial",
+    "Psicología",
+    "Asesinatos",
+    "Dieciocho niveles del infierno"
+  ],
+  "personas": [
+    {
+      "nombre": "Ti An",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Yao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lin Shuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "El capitán Ti An y el psicólogo Zhao Yao investigan una serie de dieciocho crímenes relacionados con los dieciocho niveles del infierno. A medida que avanzan en los casos, deberán desentrañar las conexiones entre los asesinatos y las verdades ocultas tras ellos.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/ON8Voy_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/15b/15bd55b06e71e71c600a5517a6f944b3.mp4"
+      }
+    ]
+  }
+}
