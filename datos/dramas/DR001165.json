@@ -3,7 +3,12 @@
   "bl": true,
   "titulo": "Echo of a Letter",
   "tituloOriginal": "等一封迴信",
-  "alias": [],
+  "alias": [
+    "Deng Yi Feng Hui Xin",
+    "Hui Xin",
+    "回信",
+    "A Letter from Keanu Reeves"
+  ],
   "pais": [
     "CN"
   ],
@@ -28,8 +33,18 @@
   "estado": "finalizado",
   "estreno": "2026-10-16",
   "finalizacion": "2026-11-20",
-  "generos": [],
-  "tags": [],
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "BL",
+    "Amor secreto",
+    "Amor no correspondido",
+    "Negocios",
+    "Diferencia de estatus",
+    "Reencuentro"
+  ],
   "personas": [
     {
       "nombre": "Chen Wan",
