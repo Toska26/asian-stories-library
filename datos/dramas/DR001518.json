@@ -37,5 +37,10 @@
     "Humor negro"
   ],
   "sinopsis": "La segunda temporada continúa las peripecias de la familia de vampiros rumanos que vive escondida en Corea del Sur junto a Doo-il. Sus intentos de integrarse en la sociedad humana siguen dando lugar a situaciones absurdas, conflictos familiares y encuentros con el mundo exterior.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/GNdPEf.jpg"
+    ]
+  }
 }
