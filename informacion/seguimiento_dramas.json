@@ -73,6 +73,13 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR001511",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "CN": [
@@ -89,11 +96,32 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR001513",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "KR": [
         {
           "codigo": "DR000210",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001515",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001516",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -117,6 +145,15 @@
         },
         {
           "codigo": "DR000713",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
+      ],
+      "PH": [
+        {
+          "codigo": "DR001511",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -5162,6 +5199,34 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR001514",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001517",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001518",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001519",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
         }
       ],
       "CN": [
@@ -5818,6 +5883,13 @@
         },
         {
           "codigo": "DR000608",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001512",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
@@ -7355,6 +7427,13 @@
         },
         {
           "codigo": "DR000401",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001510",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
