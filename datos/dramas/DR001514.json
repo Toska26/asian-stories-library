@@ -1,0 +1,80 @@
+{
+  "codigo": "DR001514",
+  "titulo": "Francesca Next Door",
+  "tituloOriginal": "옆자리, 프란체스카",
+  "alias": [
+    "Yeopjari, Peurancheseuka",
+    "Next Seat, Francesca"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000059",
+    "orden": 4
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 36,
+  "estado": "finalizado",
+  "estreno": "2026-11-06",
+  "finalizacion": "2026-11-13",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Fantasía",
+    "Juventud",
+    "Escolar",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Vampiros",
+    "Estudiantes",
+    "Instituto",
+    "Romance sobrenatural",
+    "Spin-off"
+  ],
+  "personas": [
+    {
+      "nombre": "Pi Na-young",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jang Woo-ju",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu-hyeol",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Francesca",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sofia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Na-young, una joven vampira recién llegada desde Rumanía, comienza una nueva vida como estudiante en Corea, pero su falta de experiencia con las costumbres humanas provoca constantes problemas. Al conocer a Woo-ju, empieza a experimentar sentimientos desconocidos para ella, mientras la presencia de otro vampiro despierta sus instintos y complica su acercamiento al mundo humano. Spin-off de la sitcom Hello Franceska.",
+  "activo": true
+}
