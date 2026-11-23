@@ -76,5 +76,16 @@
     }
   ],
   "sinopsis": "Na-young, una joven vampira recién llegada desde Rumanía, comienza una nueva vida como estudiante en Corea, pero su falta de experiencia con las costumbres humanas provoca constantes problemas. Al conocer a Woo-ju, empieza a experimentar sentimientos desconocidos para ella, mientras la presencia de otro vampiro despierta sus instintos y complica su acercamiento al mundo humano. Spin-off de la sitcom Hello Franceska.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/KnpVR0_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/a39/a3980fc1d4915887bc4b815080e58a00.mp4"
+      }
+    ]
+  }
 }
