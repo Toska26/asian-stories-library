@@ -1,0 +1,61 @@
+{
+  "codigo": "DR001516",
+  "titulo": "The Substitute",
+  "tituloOriginal": "대리수능",
+  "alias": [
+    "Daeri Suneung",
+    "Proxy Exam"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-11-23",
+  "finalizacion": "2026-12-21",
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "Exámenes de acceso a la universidad",
+    "Suplantación",
+    "Chantaje",
+    "Desigualdad social",
+    "Competencia académica",
+    "Presión académica"
+  ],
+  "personas": [
+    {
+      "nombre": "Nam Jae-yeob",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kang Geon-tae",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Joo Hee-dong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Kang Geon-tae, un estudiante becado que ocupa el primer puesto de un prestigioso instituto privado, ve en sus resultados académicos la única oportunidad de cambiar su futuro. Su vida da un giro cuando Nam Jae-yeob, un compañero de familia acomodada, descubre su punto débil y le propone que se presente al examen nacional de acceso a la universidad en su lugar. El acuerdo desencadena una peligrosa relación de chantajes y secretos que termina derivando en un crimen con consecuencias irreversibles.",
+  "activo": true
+}
