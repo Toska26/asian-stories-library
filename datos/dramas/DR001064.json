@@ -25,8 +25,9 @@
     "temporadas": 1,
     "temporada": 1,
     "episodios": 15,
-    "estado": "en_emision",
+    "estado": "finalizado",
     "estreno": "2026-08-16",
+    "finalizacion": "2026-11-22",
     "generos": [
         "BL",
         "Romance",
