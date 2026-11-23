@@ -21,7 +21,8 @@
     "Drama vertical",
     "Rivales a amantes",
     "Romance fingido",
-    "Judo"
+    "Judo",
+    "Formato vertical"
   ],
   "personas": [
     {
@@ -57,5 +58,7 @@
       }
     ]
   },
-  "activo": true
+  "activo": true,
+  "formato": "Vertical",
+  "finalizacion": "2026-11-20"
 }
