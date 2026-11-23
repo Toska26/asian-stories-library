@@ -25,9 +25,9 @@
   "temporada": 1,
   "episodios": 8,
   "duracion": null,
-  "estado": "proximo",
+  "estado": "finalizado",
   "estreno": "2026-11-20",
-  "finalizacion": null,
+  "finalizacion": "2026-11-20",
   "generos": ["Drama", "Thriller", "Misterio", "Crimen"],
   "tags": ["Coproducción Corea del Sur-Japón", "Adaptación de cómic", "Detectives", "Investigación criminal", "Asesino en serie", "Asesinatos", "Crímenes internacionales", "Cooperación policial", "Corea del Sur", "Japón", "Investigación transfronteriza"],
   "personas": [
