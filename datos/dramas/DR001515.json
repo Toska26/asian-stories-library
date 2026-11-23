@@ -1,0 +1,80 @@
+{
+  "codigo": "DR001515",
+  "titulo": "Sound:Track",
+  "tituloOriginal": "사운드:트랙",
+  "alias": [
+    "Soundtrack",
+    "KBS Drama Special 2026: Sound:Track",
+    "Sadeu:Teuraek"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2026,
+  "tipo": "ANT",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-11-18",
+  "finalizacion": "2026-12-16",
+  "generos": [
+    "Drama",
+    "Música"
+  ],
+  "tags": [
+    "Antología",
+    "Historias independientes",
+    "Música",
+    "Amor",
+    "Separación",
+    "Crecimiento personal",
+    "KBS Drama Special"
+  ],
+  "sinopsis": "Antología surcoreana de ocho dramas independientes inspirados en canciones. Cada historia parte de una pieza musical para explorar distintas experiencias y emociones, como el amor, la separación, la amistad, la soledad, el crecimiento personal y los recuerdos. Las historias cuentan con personajes y repartos propios, y se presentan como episodios unitarios dentro de KBS Drama Special 2026.",
+  "relaciones": [
+    {
+      "tipo": "Antología",
+      "historia": "You, More Than the Scent of Spring",
+      "episodio": 1
+    },
+    {
+      "tipo": "Antología",
+      "historia": "After the Play Ends",
+      "episodio": 2
+    },
+    {
+      "tipo": "Antología",
+      "historia": "When My Loneliness Calls You",
+      "episodio": 3
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Bye, Summer",
+      "episodio": 4
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Recollection",
+      "episodio": 5
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Chronicle",
+      "episodio": 6
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Lie, Lie, Lie",
+      "episodio": 7
+    },
+    {
+      "tipo": "Antología",
+      "historia": "Autumn Morning",
+      "episodio": 8
+    }
+  ],
+  "activo": true
+}
