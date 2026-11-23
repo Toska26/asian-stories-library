@@ -1,0 +1,41 @@
+{
+  "codigo": "DR001518",
+  "titulo": "Hello Franceska — Season 2",
+  "tituloOriginal": "안녕, 프란체스카",
+  "alias": [
+    "Hello Franceska 2",
+    "An-nyoung! Peuranche-seuka 2"
+  ],
+  "pais": [
+    "KR"
+  ],
+  "idioma": "ko",
+  "anio": 2005,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000059",
+    "orden": 2
+  },
+  "serie": "SR001517",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 17,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2005-05-02",
+  "finalizacion": "2005-08-01",
+  "generos": [
+    "Comedia",
+    "Terror",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Vampiros",
+    "Familia",
+    "Identidad secreta",
+    "Convivencia",
+    "Humor negro"
+  ],
+  "sinopsis": "La segunda temporada continúa las peripecias de la familia de vampiros rumanos que vive escondida en Corea del Sur junto a Doo-il. Sus intentos de integrarse en la sociedad humana siguen dando lugar a situaciones absurdas, conflictos familiares y encuentros con el mundo exterior.",
+  "activo": true
+}
