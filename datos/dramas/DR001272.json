@@ -16,9 +16,10 @@
   "temporadas": 1,
   "temporada": 1,
   "duracion": 45,
+  "episodios": 27,
   "estado": "finalizado",
   "estreno": "2026-11-05",
-  "finalizacion": "2026-11-15",
+  "finalizacion": "2026-11-20",
   "generos": [
     "Romance",
     "Drama"
