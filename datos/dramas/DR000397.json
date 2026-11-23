@@ -16,7 +16,7 @@
   "duracion": 27,
   "estado": "finalizado",
   "estreno": "2026-06-17",
-  "finalizacion": "",
+  "finalizacion": "2026-11-21",
   "generos": [
     "Drama",
     "Romance"
@@ -54,5 +54,8 @@
     "portada": [
       "https://m.media-amazon.com/images/M/MV5BYThkZDE1ZmQtNzMxNy00MjdhLTllMzUtZWI2M2IxZDcyNTEyXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg"
     ]
-  }
+  },
+  "notas": [
+    "Distribución episódica en GagaOOLala: seis episodios publicados semanalmente del 17/10/2026 al 21/11/2026. Se conserva estreno: 17/06/2026, correspondiente al lanzamiento cinematográfico."
+  ]
 }
