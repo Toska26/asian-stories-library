@@ -37,5 +37,10 @@
     "Humor negro"
   ],
   "sinopsis": "Una familia de vampiros procedente de Rumanía llega por error a Corea del Sur mientras busca un lugar donde ocultarse entre los humanos. Allí conoce a Doo-il, un hombre tímido y desafortunado que acaba convertido en vampiro tras ser mordido accidentalmente. La primera temporada presenta la convivencia de esta peculiar familia mientras intenta adaptarse a la vida humana.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/0w8p7f.jpg"
+    ]
+  }
 }
