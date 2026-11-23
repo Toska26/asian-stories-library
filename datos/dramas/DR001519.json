@@ -37,5 +37,10 @@
     "Humor negro"
   ],
   "sinopsis": "La tercera temporada continúa el universo de la comedia sobrenatural Hello Franceska con una nueva etapa y cambios en el grupo de personajes. Franceska vuelve a ocupar el centro de las historias de esta familia de vampiros que intenta desenvolverse en el mundo humano, entre conflictos cotidianos y situaciones de humor negro.",
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Px7pXf.jpg"
+    ]
+  }
 }
