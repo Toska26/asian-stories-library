@@ -3,6 +3,9 @@
   "bl": false,
   "titulo": "Notes of DNA Appraiser",
   "tituloOriginal": "鉴定",
+  "alias": [
+    "Jian Ding"
+  ],
   "pais": [
     "CN"
   ],
@@ -17,8 +20,16 @@
   "estreno": "2026-11-01",
     "finalizacion": "2026-11-13",
   "generos": [
+    "Drama",
     "Misterio",
     "Familiar"
+  ],
+  "tags": [
+    "ADN",
+    "Pruebas de paternidad",
+    "Investigación",
+    "Familia",
+    "Secretos familiares"
   ],
   "personas": [
     {
