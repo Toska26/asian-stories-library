@@ -91,6 +91,13 @@
         "Actor"
       ],
       "principal": false
+    },
+    {
+      "nombre": "Emi Shunsuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
   "ships": [],
@@ -103,11 +110,7 @@
       "https://i.mydramalist.com/8Q0yLW_4f.jpg"
     ],
     "trailer": [
-      "https://v.mydramalist.com/d23/d2339e22f9372b89e9fa6794042ad0ec.mp4",
-      {
-        "titulo": "Official Trailer",
-        "url": "https://www.youtube.com/watch?v=n1omQI6g3v0"
-      }
+      "https://v.mydramalist.com/d23/d2339e22f9372b89e9fa6794042ad0ec.mp4"
     ],
     "teaser": [],
     "pilot": [],
