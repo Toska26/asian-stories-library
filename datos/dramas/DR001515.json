@@ -76,5 +76,10 @@
       "episodio": 8
     }
   ],
-  "activo": true
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/NRd56A_4f.jpg"
+    ]
+  }
 }
