@@ -540,5 +540,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia tailandesa que reúne las adaptaciones de las novelas relacionadas de Jin Shisi Chai: Sword of Lips, basada en 唇枪, y The City of Suits, basada en 满城衣冠. Las obras comparten personajes y referencias dentro del universo literario de la autora, pero cuentan historias propias y no constituyen una secuela directa.",
     "activo": true
+  },
+  {
+    "codigo": "FR000059",
+    "nombre": "Hello Franceska",
+    "pais": [
+      "KR"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia surcoreana formada por la sitcom Hello Franceska (2005–2006), organizada en sus tres temporadas, y su spin-off Francesca Next Door (2026), que recupera personajes y elementos del universo original.",
+    "activo": true
   }
 ]
