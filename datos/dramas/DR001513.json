@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001513",
+  "titulo": "River of No Return",
+  "tituloOriginal": "两京十五日",
+  "alias": [
+    "Liang Jing Shi Wu Ri"
+  ],
+  "pais": [
+    "CN"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-20",
+  "finalizacion": "",
+  "generos": [
+    "Histórico",
+    "Aventura",
+    "Misterio",
+    "Drama"
+  ],
+  "tags": [
+    "Dinastía Ming",
+    "Intriga política",
+    "Viaje",
+    "Gran Canal",
+    "Adaptación literaria",
+    "Supervivencia"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhu Zhanji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wu Dingyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Su Jingxi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yu Qian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "El príncipe Zhu Zhanji debe escapar de una conspiración en Nanjing y emprender un peligroso viaje por el Gran Canal para regresar a la capital en quince días. En el camino, se enfrenta a amenazas y alianzas inesperadas que pondrán a prueba su capacidad para sobrevivir y reclamar su lugar en la corte.",
+  "activo": true,
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/onn3XY_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Official Trailer",
+        "url": "https://v.mydramalist.com/c7b/c7b2bf69f1796f4b7bd46bf55d8920f8.mp4"
+      }
+    ]
+  }
+}
