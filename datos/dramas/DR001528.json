@@ -61,7 +61,7 @@
       "principal": true
     },
     {
-      "nombre": "Zhi Yuan",
+      "nombre": "Hou Zhiyuan",
       "funcion": [
         "Actor"
       ],
@@ -111,6 +111,20 @@
     },
     {
       "nombre": "Zhu Changfen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hassan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Xiu Hui",
       "funcion": [
         "Actor"
       ],
