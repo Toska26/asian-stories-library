@@ -25,11 +25,10 @@
   ],
   "tags": [
     "Educación",
-    "Adolescencia",
-    "Amistad",
-    "Superación",
     "Acoso escolar",
-    "Segundas oportunidades"
+    "Salud",
+    "Relaciones familiares",
+    "Superación"
   ],
   "personas": [
     {
@@ -47,42 +46,14 @@
       "principal": true
     },
     {
-      "nombre": "Zhou Chengzheng",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Qiao Keli",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Zhi Yuan",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Wang Xingyue",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
       "nombre": "Bai Qijia",
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     }
   ],
-  "sinopsis": "Su Boming, antiguo campeón de atletismo y profesor de chino, ve cómo su vida se desmorona cuando un tumor cerebral afecta a su visión, fallece su padre y pierde la herencia familiar. Tras tocar fondo y quedarse sin hogar, el apoyo de una antigua colega le anima a volver a las aulas. En la escuela secundaria Zide se hace cargo de la conflictiva clase 501, cuyos alumnos —entre ellos Zhou Chengzheng, Qiao Keli, Zhi Yuan y Wang Xingyue— afrontan problemas familiares, acoso y dificultades económicas. Sus métodos poco convencionales le ayudan a ganarse su confianza y acercarse a Song Dongxi, otra profesora. Pero Boming oculta su enfermedad y un accidente del pasado conecta a Dongxi con él y con el adinerado Bai Qijia, que también tiene sentimientos por ella.",
+  "sinopsis": "Su Boming, antiguo campeón de atletismo y ahora profesor de chino, ve cómo su vida se desmorona cuando un tumor cerebral afecta a su salud y pierde a su padre y la herencia familiar. Tras tocar fondo, regresa a las aulas y acepta hacerse cargo de una clase con alumnos que afrontan acoso, abuso en línea y graves problemas familiares. Con métodos poco convencionales, Boming intenta ganarse su confianza. Su compañera Song Dongxi, inicialmente distante y pragmática, acaba acercándose a él. Sin embargo, Boming oculta su enfermedad y también un vínculo doloroso con el accidente que años atrás costó la vida a los padres de Dongxi; el heredero Bai Qijia, que también siente algo por ella, complica aún más la situación.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VX6yzO_4f.jpg"
