@@ -27,7 +27,9 @@
     "Educación",
     "Adolescencia",
     "Amistad",
-    "Superación"
+    "Superación",
+    "Acoso escolar",
+    "Segundas oportunidades"
   ],
   "personas": [
     {
@@ -56,24 +58,45 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Zhi Yuan",
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Wang Xingyue",
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Bai Qijia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ma Hou Dao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Song Dong Wei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mdm Neo",
       "funcion": [
         "Actor"
       ],
@@ -87,5 +110,12 @@
     ],
     "trailer": []
   },
-  "activo": true
+  "activo": true,
+  "relaciones": [
+    {
+      "tipo": "Spin-off",
+      "titulo": "Bowl of Love",
+      "tituloOriginal": "这次换我照顾你"
+    }
+  ]
 }
