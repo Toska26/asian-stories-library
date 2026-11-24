@@ -28,20 +28,20 @@
     "Amistad",
     "Reencuentro",
     "Secretos familiares",
-    "Pasado",
-    "Comunidad",
-    "Desaparición"
+    "Desaparición",
+    "Perdón",
+    "Comunidad"
   ],
   "personas": [
     {
-      "nombre": "Li Yi Wei",
+      "nombre": "Yi Wei",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Li Jie Wei",
+      "nombre": "Jie Wei",
       "funcion": [
         "Actor"
       ],
@@ -62,7 +62,7 @@
       "principal": false
     }
   ],
-  "sinopsis": "En un barrio unido de los años noventa, los hermanos Li Yi Wei y Li Jie Wei crecen junto a sus amigos Fang Ying y Da Ping, soñando con luchar contra las injusticias. Sus infancias quedan marcadas por las deudas de juego de la familia de Fang Ying, un escándalo relacionado con el padre de Da Ping y la desaparición de Jie Wei. Treinta años después, Yi Wei trabaja como funcionario de vivienda y trata de recuperar el espíritu comunitario del barrio. El reencuentro con Fang Ying y el regreso de Jie Wei, que guarda resentimiento, reabren heridas y secretos del pasado.",
+  "sinopsis": "En un barrio unido de los años noventa, cuatro familias y sus hijos forman una amistad que parece inquebrantable. Las deudas de juego, un escándalo y el secuestro de Jie Wei terminan separándolos. Treinta años después, Yi Wei trabaja como funcionario de vivienda y trata de recuperar el espíritu comunitario del barrio, pero sigue cargando con la culpa por la desaparición de su hermano. Su reencuentro con Fang Ying y Da Ping reabre viejas heridas; cuando Jie Wei regresa, resentido y decidido a sabotear la vida de Yi Wei, salen a la luz verdades dolorosas sobre el pasado de todos ellos.",
   "multimedia": {
     "portada": [
       "https://wiki.d-addicts.com/images/7/7d/Brighter_Days.jpg"
