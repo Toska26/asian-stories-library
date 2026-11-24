@@ -96,5 +96,21 @@
       "titulo": "Bowl of Love",
       "tituloOriginal": "这次换我照顾你"
     }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Su Boming",
+        "Song Dongxi"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Bai Qijia",
+        "Song Dongxi"
+      ],
+      "multimedia": []
+    }
   ]
 }
