@@ -55,14 +55,14 @@
       "principal": true
     },
     {
-      "nombre": "Su Da Ping",
+      "nombre": "Da Ping",
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     }
   ],
-  "sinopsis": "En un barrio unido de los años noventa, cuatro familias y sus hijos comparten una amistad que se rompe tras deudas de juego, un escándalo y la desaparición de un niño. Treinta años después, sus caminos vuelven a cruzarse. Yi Wei, ahora funcionario de vivienda, intenta recuperar el espíritu comunitario del barrio y se reencuentra con Fang Ying. El regreso de Da Ping y de su hermano Jie Wei reabre viejas heridas y obliga a Yi Wei a afrontar la culpa que arrastra desde la infancia.",
+  "sinopsis": "En un barrio unido de los años noventa, los hermanos Li Yi Wei y Li Jie Wei crecen junto a sus amigos Fang Ying y Da Ping, soñando con luchar contra las injusticias. Sus infancias quedan marcadas por las deudas de juego de la familia de Fang Ying, un escándalo relacionado con el padre de Da Ping y la desaparición de Jie Wei. Treinta años después, Yi Wei trabaja como funcionario de vivienda y trata de recuperar el espíritu comunitario del barrio. El reencuentro con Fang Ying y el regreso de Jie Wei, que guarda resentimiento, reabren heridas y secretos del pasado.",
   "multimedia": {
     "portada": [
       "https://wiki.d-addicts.com/images/7/7d/Brighter_Days.jpg"
