@@ -1,0 +1,27 @@
+{
+  "codigo": "DR001537",
+  "bl": false,
+  "titulo": "My Dear Kudumbam",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2011,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 1,
+  "estado": "finalizado",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "La serie gira en torno a los Ramkumar, una familia de cinco miembros. Todos son amables y cariñosos, pero cada uno tiene también sus peculiaridades, que convierten la convivencia familiar en una sucesión de situaciones disparatadas.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%278654600%27&EntityType=%27Item%27&EntityId=%27455045%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
