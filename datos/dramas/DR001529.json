@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001529",
+  "bl": false,
+  "titulo": "Highway to Somewhere",
+  "tituloOriginal": "一路惊魂",
+  "alias": [
+    "Yi Lu Jing Hun"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-03-11",
+  "finalizacion": "2026-04-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "tags": [
+    "Matrimonio",
+    "Viaje por carretera",
+    "Secretos",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Nick Zhang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jane Liu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Y",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Coco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leilei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dingding",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shasha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tras quince años de matrimonio, Nick Zhang y Jane Liu atraviesan una crisis y deciden emprender un viaje por carretera para intentar recuperar su relación. Sin embargo, un hombre misterioso llamado Y los sigue y Jane teme que salga a la luz un episodio de su pasado. Al mismo tiempo, cuatro jóvenes —Coco, Leilei, Dingding y Shasha— recorren la misma ruta para escapar de sus propios problemas. Lo que debía ser una oportunidad para empezar de nuevo se transforma en un viaje marcado por la desconfianza, los secretos y el peligro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g0dXpX_4f.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
