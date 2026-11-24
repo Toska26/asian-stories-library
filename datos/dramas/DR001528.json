@@ -28,7 +28,8 @@
     "Acoso escolar",
     "Salud",
     "Relaciones familiares",
-    "Superación"
+    "Superación",
+    "Deporte"
   ],
   "personas": [
     {
@@ -46,6 +47,34 @@
       "principal": true
     },
     {
+      "nombre": "Zhou Chengzheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Qiao Keli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhi Yuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Xingyue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
       "nombre": "Bai Qijia",
       "funcion": [
         "Actor"
@@ -53,7 +82,7 @@
       "principal": true
     }
   ],
-  "sinopsis": "Su Boming, antiguo campeón de atletismo y ahora profesor de chino, ve cómo su vida se desmorona cuando un tumor cerebral afecta a su salud y pierde a su padre y la herencia familiar. Tras tocar fondo, regresa a las aulas y acepta hacerse cargo de una clase con alumnos que afrontan acoso, abuso en línea y graves problemas familiares. Con métodos poco convencionales, Boming intenta ganarse su confianza. Su compañera Song Dongxi, inicialmente distante y pragmática, acaba acercándose a él. Sin embargo, Boming oculta su enfermedad y también un vínculo doloroso con el accidente que años atrás costó la vida a los padres de Dongxi; el heredero Bai Qijia, que también siente algo por ella, complica aún más la situación.",
+  "sinopsis": "Su Boming, antiguo campeón de atletismo y ahora profesor de chino, ve cómo su vida se derrumba cuando un tumor cerebral afecta a su visión, su padre fallece repentinamente y pierde la herencia familiar. Tras tocar fondo y quedarse sin hogar, regresa a las aulas gracias al apoyo de una antigua compañera y acepta hacerse cargo de la conflictiva clase 501 de Zide Secondary School. Allí conoce a cuatro alumnos con problemas muy distintos: Zhou Chengzheng, hijo del director y propenso a meterse en peleas; Qiao Keli, una huérfana que cuida de su hermano paralítico; Zhi Yuan, apodado Monkey, que se gana la vida con pequeños trabajos; y Wang Xingyue, una apasionada del tenis de mesa cuyo padre se opone a sus aspiraciones. Boming intenta ganarse su confianza con métodos poco convencionales y también se acerca a Song Dongxi, otra profesora. Pero oculta su enfermedad y un vínculo con el accidente de tráfico que años atrás acabó con la vida de los padres de Dongxi; el rico heredero Bai Qijia, que también siente algo por ella, complica aún más la situación.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VX6yzO_4f.jpg"
