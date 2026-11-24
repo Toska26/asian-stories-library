@@ -26,12 +26,11 @@
     "Suspense"
   ],
   "tags": [
-    "Investigación",
+    "Investigación policial",
     "Asesinato",
     "Secretos familiares",
-    "Investigación policial",
-    "Alexitimia",
-    "Crimen"
+    "Trauma",
+    "Relaciones"
   ],
   "personas": [
     {
@@ -68,16 +67,9 @@
         "Actor"
       ],
       "principal": false
-    },
-    {
-      "nombre": "Miss Golden",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
     }
   ],
-  "sinopsis": "El detective Zhou Shuheng, brillante pero emocionalmente distante, es trasladado a la unidad de delitos graves. Su primer caso es el de Zhao Minyi, que ha apuñalado a su marido 62 veces y se niega a explicar el motivo. La investigación atrae a la fiscal Zhou Keying, hermana adoptiva de Shuheng, y destapa una cadena de crímenes, secretos y traiciones. Zhou Hongtao, padre de Shuheng y abogado de prestigio, queda implicado en el caso, mientras la psiquiatra forense Dr. Susan Su descubre pistas relacionadas con la desaparición de la madre de Keying. La investigación acabará revelando conexiones familiares enterradas durante décadas.",
+  "sinopsis": "El detective Zhou Shuheng, brillante pero emocionalmente distante, es trasladado a la unidad de delitos graves y recibe un caso estremecedor: Zhao Minyi ha apuñalado a su marido 62 veces, pero se niega a explicar el motivo. La fiscal Zhou Keying, su hermana adoptiva, también se implica en la investigación. Una serie de crímenes cada vez más perturbadores revela secretos, traiciones y conexiones ocultas dentro de la propia familia, mientras el abogado Zhou Hongtao queda vinculado a varios sospechosos. La llegada de la psiquiatra forense Dr. Susan Su aporta pistas sobre la desaparición de la madre de Keying. A medida que Shuheng afronta su dificultad para comprender y expresar emociones, él y Keying deberán descubrir quién se esconde tras los asesinatos y enfrentarse a sus propios sentimientos.",
   "multimedia": {
     "portada": [
       "https://wiki.d-addicts.com/images/4/4d/No_Other_Way.jpg"
