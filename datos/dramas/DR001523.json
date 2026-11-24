@@ -1,0 +1,113 @@
+{
+  "codigo": "DR001523",
+  "bl": false,
+  "titulo": "Tears Between Us",
+  "tituloOriginal": "Wali Dalam Tangisan",
+  "alias": [
+    "Wali Dalam Tangisan"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 60,
+  "estado": "en_emision",
+  "estreno": "2026-11-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familiar"
+  ],
+  "tags": [
+    "Viu Original",
+    "Amor prohibido",
+    "Familia",
+    "Conflicto familiar"
+  ],
+  "personas": [
+    {
+      "nombre": "Alif",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Suraiya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Redza",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marsya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nek Esah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Faeza",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fatimah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Masyitah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Alif",
+        "Suraiya"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Tras la muerte de su padre, Suraiya crece bajo el cuidado de su madre y de Alif, su tío materno, apenas unos años mayor que ella. Su cercanía cambia cuando Alif presenta a su novia Marsya a la familia. Suraiya comienza a enfrentarse a unos sentimientos que considera prohibidos, mientras Alif también intenta ocultar lo que siente. La muerte inesperada de la madre de Suraiya obliga a ambos a afrontar el duelo y las consecuencias de su relación.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/id/articles/wp-content/uploads/2026/11/nonton-streaming-download-drama-malaysia-wali-dalam-tangisan-poster-sub-indo-viu-original.jpg"
+    ]
+  },
+  "activo": true
+}
