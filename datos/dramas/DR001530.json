@@ -33,18 +33,165 @@
   ],
   "personas": [
     {
-      "nombre": "Uncle Liang",
+      "nombre": "Liang Mu (Uncle Liang)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Cheng",
+      "nombre": "Liang Cheng (Cheng)",
       "funcion": [
         "Actor"
       ],
       "principal": true
+    },
+    {
+      "nombre": "Liang Yan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qian Youduo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Qian Limin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Xuefeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zayden",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ding Shouhe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jiang Qiuyan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ding Zhiyuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ding Haoyu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wu Wenhui (Hannah)",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Krish",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ramesh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ashley",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhou Shengda",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bai Yunxiu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zheng Jiawei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cai Xinlin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Weiwei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Faye Wang Yueqi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Rencai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Rende",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
   "sinopsis": "En un barrio antiguo y tranquilo, un espejo místico hecho a partir de una figura de papel cobra vida accidentalmente con la sangre de Uncle Liang, el dueño de una tienda de ofrendas de papel. El espejo pasa por las manos de varios comerciantes que intentan preservar oficios tradicionales: un barbero que puede ver los recuerdos de sus clientes, un librero que protege el legado de su abuelo, un vendedor ambulante dividido entre continuar el negocio familiar de Kacang Puteh y reinventarse, y una adivina cuyo periquito ayuda a una niña a recomponer su familia. Finalmente, el espejo regresa a Uncle Liang, quien descubre que él mismo es una figura de papel animada y debe afrontar la fragilidad de su existencia y la posible pérdida de su joven discípulo, Cheng.",
