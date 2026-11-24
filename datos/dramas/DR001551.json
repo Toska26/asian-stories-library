@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001551",
+  "bl": false,
+  "titulo": "Yes Captain!",
+  "tituloOriginal": "Yes Captain!",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 65,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-08-09",
+  "generos": [
+    "Drama",
+    "Comedia"
+  ],
+  "sinopsis": "Una serie dramática ambientada en el mundo de la aviación, que sigue a un grupo de jóvenes y sus experiencias personales y profesionales.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2715601553%27&EntityType=%27Item%27&EntityId=%27827953%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
