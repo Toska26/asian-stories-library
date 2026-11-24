@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001542",
+  "bl": false,
+  "titulo": "My Dear Kudumbam",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 6,
+  "estado": "en_emision",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "La familia Ramkumar vuelve más adulta, ocupada y divertida. Mientras los hijos afrontan nuevas etapas, Ram y Kaaveri gestionan cambios relacionados con embarazos, bodas, carreras profesionales, jubilación, discusiones entre hermanos y visitas inesperadas. Entre el caos y las risas, la familia descubre que el hogar sigue siendo el lugar al que siempre pueden regresar.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2717341273%27&EntityType=%27Item%27&EntityId=%27868419%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true,
+  "duracion": 30,
+  "estreno": "2026-11-11"
+}
