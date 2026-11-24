@@ -34,35 +34,35 @@
   ],
   "personas": [
     {
-      "nombre": "Lao Ying",
+      "nombre": "Lao Ying (Eagle)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Long",
+      "nombre": "Ah Long (Dragon)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Hu",
+      "nombre": "Ah Hu (Tiger)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Bao",
+      "nombre": "Ah Bao (Leopard)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Niu",
+      "nombre": "Ah Niu (Ox)",
       "funcion": [
         "Actor"
       ],
@@ -76,7 +76,7 @@
       "principal": false
     }
   ],
-  "sinopsis": "Un antiguo equipo de fuerzas especiales se reúne años después de retirarse cuando Ah Long descubre que su hija Yoyo ha sido capturada y llevada a un complejo criminal en Myanmar. El primer intento de rescate fracasa y Ah Hu acaba también en manos de la organización. Ante la llamada de sus antiguos compañeros, Lao Ying vuelve a ponerse al frente del grupo para organizar una misión desesperada. Los veteranos deberán superar sus limitaciones físicas y personales para rescatar a los suyos.",
+  "sinopsis": "Cinco antiguos miembros de las fuerzas especiales —Lao Ying (Eagle), Ah Long (Dragon), Ah Hu (Tiger), Ah Bao (Leopard) y Ah Niu (Ox)— vuelven a encontrarse años después de una operación antiterrorista que dejó a Lao Ying en silla de ruedas. Ya retirados, afrontan los problemas de la edad y sus vidas familiares, pero siguen interviniendo cuando presencian injusticias. Cuando Yoyo, la hija de Ah Long, es secuestrada y llevada a un complejo de estafas en Myanmar, Ah Long pide ayuda a sus antiguos compañeros. El primer intento de rescate fracasa y Ah Hu es capturado. Lao Ying reúne entonces al equipo para una última misión.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/81yRg2_4f.jpg"
