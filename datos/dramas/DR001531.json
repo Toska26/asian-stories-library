@@ -29,7 +29,11 @@
     "Segundas oportunidades",
     "Vejez",
     "Juventud",
-    "Familia"
+    "Familia",
+    "Tercera edad",
+    "Transformación",
+    "Segunda oportunidad",
+    "Escuela"
   ],
   "personas": [
     {
@@ -58,7 +62,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Mary",
