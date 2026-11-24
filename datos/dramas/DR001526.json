@@ -1,0 +1,83 @@
+{
+  "codigo": "DR001526",
+  "bl": false,
+  "titulo": "Dua Nyawa",
+  "tituloOriginal": "Dua Nyawa",
+  "alias": [],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-11-13",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familiar"
+  ],
+  "tags": [
+    "iQIYI Original",
+    "Embarazo",
+    "Responsabilidad",
+    "Amor",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Farhana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zafran",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fawwaz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Farhana",
+        "Zafran"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Farhana",
+        "Fawwaz"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "La vida de Farhana cambia cuando descubre que está embarazada fuera del matrimonio. Mientras afronta la decepción de su familia y el rechazo de quienes la rodean, Fawwaz, un amigo que siempre ha estado a su lado, decide compartir con ella la responsabilidad y sacrificar parte de su propio futuro. Pero el regreso de Zafran, el primer amor de Farhana, altera el vínculo que ambos estaban construyendo y la obliga a enfrentarse a decisiones difíciles.",
+  "multimedia": {
+    "portada": [
+      "https://nusatimes.com/uploads/posts/nt_6ae2c46eb9895.webp"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.iq.com/short/dua-nyawa-29usxbs977c?lang=en_us"
+      }
+    ]
+  },
+  "activo": true
+}
