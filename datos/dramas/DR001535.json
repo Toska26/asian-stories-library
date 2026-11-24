@@ -29,7 +29,8 @@
     "Justicia",
     "Venganza",
     "Investigación",
-    "Corrupción"
+    "Corrupción",
+    "Hacker"
   ],
   "personas": [
     {
@@ -80,7 +81,13 @@
     "portada": [
       "https://wiki.d-addicts.com/images/4/4f/In_His_Hands.jpg"
     ],
-    "trailer": []
+    "trailer": [],
+    "teaser": [
+      {
+        "titulo": "Avance exclusivo oficial",
+        "url": "https://www.youtube.com/watch?v=0fMfytGXrFw"
+      }
+    ]
   },
   "activo": true
 }
