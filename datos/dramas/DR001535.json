@@ -26,11 +26,12 @@
     "Suspense"
   ],
   "tags": [
-    "Justicia",
-    "Venganza",
     "Investigación",
+    "Venganza",
     "Corrupción",
-    "Hacker"
+    "Justicia",
+    "Crimen organizado",
+    "Amistad"
   ],
   "personas": [
     {
@@ -76,12 +77,17 @@
       "principal": false
     }
   ],
-  "sinopsis": "Conocido como la Mano de Dios, Situ Feng hace desaparecer los problemas de clientes ricos y poderosos mediante métodos poco ortodoxos. Sin embargo, cada encargo forma parte de su búsqueda de la verdad sobre el asesinato de sus padres, ocurrido cuando tenía diez años. Su investigación lo enfrenta a Cheng Feng, su amigo de infancia y ahora policía. También incorpora a Wang Ruonan, una hacker de sombrero blanco que busca a su padre desaparecido, mientras Miss O y Lin Xiaolong permanecen a su lado. Leah, su exesposa y falsificadora, complica tanto su trabajo como su vida personal. Cuanto más se acerca a la verdad, más difícil resulta separar la justicia de la venganza.",
+  "sinopsis": "Conocido como la Mano de Dios, Situ Feng hace desaparecer los problemas de clientes poderosos mediante métodos poco ortodoxos y moralmente cuestionables. Cada encargo, sin embargo, forma parte de su búsqueda personal: descubrir quién asesinó a sus padres cuando él tenía diez años. Su investigación lo enfrenta a Cheng Feng, su amigo de la infancia y ahora un policía íntegro. La hacker Wang Ruonan se une a su equipo para encontrar a su padre desaparecido, mientras Miss O y Lin Xiaolong son aliados leales. Situ también sigue ligado a su exmujer Leah, falsificadora y estafadora. Cuanto más se acerca a la verdad, más se difumina la frontera entre justicia y venganza.",
   "multimedia": {
     "portada": [
       "https://wiki.d-addicts.com/images/4/4f/In_His_Hands.jpg"
     ],
-    "trailer": [],
+    "trailer": [
+      {
+        "titulo": "Avance exclusivo oficial",
+        "url": "https://www.youtube.com/watch?v=0fMfytGXrFw"
+      }
+    ],
     "teaser": [
       {
         "titulo": "Avance exclusivo oficial",
