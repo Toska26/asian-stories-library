@@ -1,0 +1,86 @@
+{
+  "codigo": "DR001535",
+  "bl": false,
+  "titulo": "In His Hands",
+  "tituloOriginal": "神之手",
+  "alias": [
+    "Shen Zhi Shou"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-09-21",
+  "finalizacion": "2026-10-16",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "tags": [
+    "Justicia",
+    "Venganza",
+    "Investigación",
+    "Corrupción"
+  ],
+  "personas": [
+    {
+      "nombre": "Situ Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Cheng Feng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Wang Ruonan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miss O",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Xiaolong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Conocido como la Mano de Dios, Situ Feng resuelve problemas para clientes poderosos mediante métodos poco ortodoxos. Cada encargo, sin embargo, forma parte de su búsqueda personal: descubrir quién asesinó a sus padres cuando él era niño. Su investigación lo enfrenta a Cheng Feng, su amigo de la infancia y ahora policía, y reúne a un grupo de aliados con sus propios secretos. Cuanto más se acerca a la verdad, más difícil le resulta distinguir entre justicia y venganza.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/4/4f/In_His_Hands.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
