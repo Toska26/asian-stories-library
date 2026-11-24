@@ -1,0 +1,27 @@
+{
+  "codigo": "DR001540",
+  "bl": false,
+  "titulo": "Our Dear Kudumbam",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2016,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 4,
+  "estado": "finalizado",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "La familia vuelve para una cuarta temporada, con el mismo humor y las mismas situaciones cotidianas. Esta nueva entrega continúa transmitiendo valores y enseñanzas a los jóvenes mediante historias cómicas con mensajes importantes.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%276745041%27&EntityType=%27Item%27&EntityId=%2731646%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
