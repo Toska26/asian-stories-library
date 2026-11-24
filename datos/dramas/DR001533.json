@@ -25,12 +25,12 @@
     "Crimen"
   ],
   "tags": [
-    "Amistad",
-    "Vejez",
-    "Rescate",
-    "Trata de personas",
     "Fuerzas especiales",
-    "Estafas"
+    "Amistad",
+    "Envejecimiento",
+    "Trata de personas",
+    "Estafas en línea",
+    "Rescate"
   ],
   "personas": [
     {
@@ -74,9 +74,16 @@
         "Actor"
       ],
       "principal": false
+    },
+    {
+      "nombre": "Qianwen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
-  "sinopsis": "Cinco antiguos miembros de las fuerzas especiales —Lao Ying (Eagle), Ah Long (Dragon), Ah Hu (Tiger), Ah Bao (Leopard) y Ah Niu (Ox)— vuelven a encontrarse años después de una operación antiterrorista que dejó a Lao Ying en silla de ruedas. Ya retirados, afrontan los problemas de la edad y sus vidas familiares, pero siguen interviniendo cuando presencian injusticias. Cuando Yoyo, la hija de Ah Long, es secuestrada y llevada a un complejo de estafas en Myanmar, Ah Long pide ayuda a sus antiguos compañeros. El primer intento de rescate fracasa y Ah Hu es capturado. Lao Ying reúne entonces al equipo para una última misión.",
+  "sinopsis": "Cinco antiguos miembros de las fuerzas especiales —Lao Ying (Eagle), Ah Long (Dragon), Ah Hu (Tiger), Ah Bao (Leopard) y Ah Niu (Ox)— han envejecido y llevan vidas muy distintas, pero siguen unidos por el código que compartieron durante años. Cuando Yoyo, la hija de Ah Long, es capturada y llevada a un complejo de estafas en Myanmar, Ah Long pide ayuda a sus antiguos compañeros. El primer intento de rescate fracasa: Yoyo continúa cautiva y Ah Hu cae en manos de la organización, donde es obligado a participar en fraudes en línea. Lao Ying reúne entonces al equipo para una última misión, mientras cada uno debe afrontar también sus propios problemas de salud, familia y envejecimiento.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/81yRg2_4f.jpg"
