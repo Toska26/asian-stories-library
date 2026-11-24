@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001544",
+  "bl": false,
+  "titulo": "Kaki Bola",
+  "tituloOriginal": "Kaki Bola",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001543",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 13,
+  "duracion": 45,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Deportes"
+  ],
+  "sinopsis": "Millenia United vuelve a reunirse y descubre que la vida ha cambiado a todos. Mientras los jugadores intentan equilibrar sus responsabilidades familiares y laborales, el equipo afronta un momento decisivo. Fatin consigue abrir la panadería que siempre había soñado, pero dirigir un establecimiento físico le plantea dificultades inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2714850248%27&EntityType=%27Item%27&EntityId=%27810235%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
