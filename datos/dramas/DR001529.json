@@ -90,5 +90,14 @@
     ],
     "trailer": []
   },
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Nick Zhang",
+        "Jane Liu"
+      ],
+      "multimedia": []
+    }
+  ]
 }
