@@ -1,0 +1,27 @@
+{
+  "codigo": "DR001541",
+  "bl": false,
+  "titulo": "My Dear Kudumbam Returns",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2018,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 5,
+  "estado": "finalizado",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Los alocados Ramkumar regresan con nuevas situaciones y reciben en casa a Thirupurasunthari, una nueva empleada doméstica. La familia afronta más problemas propios del crecimiento y la vida cotidiana, siempre con humor.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%276745410%27&EntityType=%27Item%27&EntityId=%2732354%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
