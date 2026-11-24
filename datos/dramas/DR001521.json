@@ -1,0 +1,111 @@
+{
+  "codigo": "DR001521",
+  "bl": false,
+  "titulo": "The Hidden Hand",
+  "tituloOriginal": "Dia Perempuan Sialan",
+  "alias": [
+    "Dia Perempuan Sialan"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-09-18",
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Terror",
+    "Sobrenatural"
+  ],
+  "tags": [
+    "Viu Original",
+    "Venganza",
+    "Magia negra",
+    "Secretos familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Riska",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Syawal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nerina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Puan Sri Asyikin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bulan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hamid",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Faridah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Afidah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ustaz Halim",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Riska se infiltra como empleada doméstica en la casa de una familia adinerada para vengarse de quienes considera responsables del sufrimiento de su madre. Para llevar a cabo su plan recurre a la magia negra y queda ligada a una fuerza sobrenatural. Sin embargo, al conocer mejor a la familia, su deseo de venganza empieza a enfrentarse a sentimientos inesperados y a una amenaza cada vez más peligrosa.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/10/the-hidden-hand-dia-perempuan-sialan-official-poster-viu-e1791776757216.jpeg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=Jdbq7ceme7A"
+      }
+    ]
+  },
+  "activo": true
+}
