@@ -1,0 +1,25 @@
+{
+  "codigo": "DR001554",
+  "bl": false,
+  "titulo": "Down at Motel 629",
+  "tituloOriginal": "Down at Motel 629",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 30,
+  "estado": "anunciado",
+  "generos": [
+    "Drama",
+    "Comedia negra",
+    "Animación"
+  ],
+  "sinopsis": "Comedia negra animada ambientada en un motel sórdido. Su personal debe afrontar la amenaza de un promotor inmobiliario que pretende hacerse con el establecimiento.",
+  "activo": true
+}
