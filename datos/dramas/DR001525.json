@@ -1,0 +1,131 @@
+{
+  "codigo": "DR001525",
+  "bl": false,
+  "titulo": "Madu atau Racun",
+  "tituloOriginal": "Madu atau Racun",
+  "alias": [],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 54,
+  "estado": "en_emision",
+  "estreno": "2026-08-14",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio",
+    "Thriller"
+  ],
+  "tags": [
+    "iQIYI Original",
+    "Matrimonio",
+    "Venganza",
+    "Secretos",
+    "Adultos"
+  ],
+  "personas": [
+    {
+      "nombre": "Adli",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Azura",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nikita",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Fattah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shahril",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hafiz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rizal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sofia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fauziah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rohani",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Khadijah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Farhan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Azura ha dedicado años a ser la esposa perfecta de Adli, un hombre rico y egoísta que decide tomar una segunda esposa. La llegada de Nikita, una joven que guarda un antiguo rencor contra Azura, desencadena celos y enfrentamientos. Sin embargo, cuando ambas sufren el comportamiento manipulador y cruel de Adli, empiezan a acercarse. Una confrontación acaba con la vida de Adli y deja a las dos mujeres unidas por un secreto peligroso.",
+  "multimedia": {
+    "portada": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKq7V-f61RLNf9ItN9KvaiGBbg52TbFB7BHskhNX3P_igk4mDdmkK4n3qaJ9LJqiRcHhdlvVokKxp7CMskjruIlZZilLU4xaGnKe3kB4qZZIwlUj3A6n9oq1UHS5yTJWMtknKTu3ZPc_XsA9kGeYHIGlvEa5D7W-6va047ny9LAEQEnnrYsK0-ZpwG66t/w512-h640/Madu%20atau%20Racun.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=dd4nBczmI8I"
+      }
+    ]
+  },
+  "activo": true
+}
