@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001548",
+  "bl": false,
+  "titulo": "Must Date the Playboy!",
+  "tituloOriginal": "Must Date the Playboy!",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 28,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-04-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia"
+  ],
+  "sinopsis": "Una historia romántica juvenil centrada en las relaciones, los malentendidos y los sentimientos de un grupo de jóvenes.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/mxF3z6KmdDGf2jpHR2x0iqhkZyE.jpg"
+    ]
+  },
+  "activo": true
+}
