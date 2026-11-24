@@ -1,0 +1,93 @@
+{
+  "codigo": "DR001531",
+  "bl": false,
+  "titulo": "Kid U Not",
+  "tituloOriginal": "孩是老的辣",
+  "alias": [
+    "Hai Shi Lao De La"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-04-27",
+  "finalizacion": "2026-05-22",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Familiar",
+    "Comedia"
+  ],
+  "tags": [
+    "Segundas oportunidades",
+    "Vejez",
+    "Juventud",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Chris Kheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yong Yutong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yap Manle",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miss Golden",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mary",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Alex",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Manxin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tres personas de 66 años —Chris Kheng, Yong Yutong y Yap Manle— sienten que sus vidas no han salido como esperaban. Tras conocer a Miss Golden, la misteriosa propietaria de una casa de té, recuperan la apariencia de niños de doce años. Para conservar esta segunda oportunidad deberán completar una serie de misiones sin revelar sus identidades. Mientras afrontan de nuevo la escuela, los vínculos familiares y los prejuicios sobre la edad, empiezan a comprender los errores de su pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73AB2D_4f.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
