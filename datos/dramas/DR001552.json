@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001552",
+  "bl": false,
+  "titulo": "Ah Gong's Talks",
+  "tituloOriginal": "阿公出一只嘴",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-23",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Comedia"
+  ],
+  "sinopsis": "Un drama dialectal familiar centrado en un abuelo y las relaciones entre generaciones, con situaciones cotidianas y conversaciones que ponen a prueba los vínculos familiares.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2717115043%27&EntityType=%27Item%27&EntityId=%27862631%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
