@@ -58,52 +58,31 @@
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Zhi Yuan",
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Wang Xingyue",
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Bai Qijia",
       "funcion": [
         "Actor"
       ],
-      "principal": true
-    },
-    {
-      "nombre": "Ma Hou Dao",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Song Dong Wei",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Mdm Neo",
-      "funcion": [
-        "Actor"
-      ],
       "principal": false
     }
   ],
-  "sinopsis": "Su Boming, antiguo atleta de élite y ahora profesor de chino, ve cómo su vida se derrumba tras sufrir un tumor cerebral, perder a su padre y quedarse sin la herencia familiar. Después de tocar fondo, regresa a las aulas y acepta trabajar en la conflictiva clase 501. Con métodos poco convencionales intenta ganarse la confianza de sus alumnos, cada uno con problemas familiares y personales. Su compañera Song Dongxi comienza a acercarse a él, mientras una tragedia del pasado y la presencia del heredero Bai Qijia complican sus sentimientos y sus decisiones.",
+  "sinopsis": "Su Boming, antiguo campeón de atletismo y profesor de chino, ve cómo su vida se desmorona cuando un tumor cerebral afecta a su visión, fallece su padre y pierde la herencia familiar. Tras tocar fondo y quedarse sin hogar, el apoyo de una antigua colega le anima a volver a las aulas. En la escuela secundaria Zide se hace cargo de la conflictiva clase 501, cuyos alumnos —entre ellos Zhou Chengzheng, Qiao Keli, Zhi Yuan y Wang Xingyue— afrontan problemas familiares, acoso y dificultades económicas. Sus métodos poco convencionales le ayudan a ganarse su confianza y acercarse a Song Dongxi, otra profesora. Pero Boming oculta su enfermedad y un accidente del pasado conecta a Dongxi con él y con el adinerado Bai Qijia, que también tiene sentimientos por ella.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VX6yzO_4f.jpg"
