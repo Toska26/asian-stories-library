@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001546",
+  "bl": false,
+  "titulo": "Aunty Lee's Deadly Delights",
+  "tituloOriginal": "Aunty Lee's Deadly Delights",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 90,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-01-19",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Crimen"
+  ],
+  "sinopsis": "La querida propietaria de un restaurante de Peranakan se ve envuelta en una serie de misterios y muertes, y utiliza su ingenio y conocimiento de la comunidad para ayudar a resolverlos.",
+  "multimedia": {
+    "portada": [
+      "https://media.themoviedb.org/t/p/w1066_and_h600_face/gM6gCz6SkFkr9rKAaWU7IVvysyV.jpg"
+    ]
+  },
+  "activo": true
+}
