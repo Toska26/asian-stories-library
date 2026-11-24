@@ -74,5 +74,14 @@
       }
     ]
   },
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Yi Wei",
+        "Fang Ying"
+      ],
+      "multimedia": []
+    }
+  ]
 }
