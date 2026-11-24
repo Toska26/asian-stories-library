@@ -159,6 +159,36 @@
           "pendientes": [],
           "notas": ""
         }
+      ],
+      "MY": [
+        {
+          "codigo": "DR001522",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001523",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001525",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001526",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        }
       ]
     },
     "Próximo estreno": {
@@ -7622,6 +7652,27 @@
         },
         {
           "codigo": "DR000504",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001520",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001521",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": ""
+        },
+        {
+          "codigo": "DR001524",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [],
