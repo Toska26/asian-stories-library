@@ -1,0 +1,28 @@
+{
+  "codigo": "DR001538",
+  "bl": false,
+  "titulo": "My Very Dear Kudumbam",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2013,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 2,
+  "estado": "finalizado",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Los Ramkumar se mudan a una casa más grande, pero las travesuras entre los hermanos continúan. Sharmi se burla de Nesh porque tendrá que cumplir el servicio nacional y no podrá disfrutar de la nueva casa. Tinku decide defender a su hermano y darle una lección a Sharmi.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%276744884%27&EntityType=%27Item%27&EntityId=%2730923%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true,
+  "episodios": 13
+}
