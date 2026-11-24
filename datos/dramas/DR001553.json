@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001553",
+  "bl": false,
+  "titulo": "Indebted",
+  "tituloOriginal": "非比寻偿",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 50,
+  "estado": "en_emision",
+  "estreno": "2026-11-23",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Un drama familiar sobre deudas, responsabilidades y conflictos entre generaciones, en el que los vínculos familiares se ponen a prueba por decisiones y secretos del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2717482514%27&EntityType=%27Item%27&EntityId=%27872291%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
