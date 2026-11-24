@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001524",
+  "bl": false,
+  "titulo": "Boneka",
+  "tituloOriginal": "Boneka",
+  "alias": [],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-09-04",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Thriller",
+    "Familiar"
+  ],
+  "tags": [
+    "TVS Original",
+    "Secretos",
+    "Traición",
+    "Manipulación"
+  ],
+  "personas": [
+    {
+      "nombre": "Sufiya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Iman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zafril",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Sufiya",
+        "Iman"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Sufiya huye de los abusos de su padrastro y guarda un secreto relacionado con un asesinato que ha cambiado su vida. Su camino se cruza con el de Iman, y ambos quedan atrapados en una trama de amor, confianza, traición y manipulación en la que cada vez resulta más difícil distinguir quién controla realmente la situación.",
+  "multimedia": {
+    "portada": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGtWSUZYJCVbcb-4vtOVXMH3N9VRqbWvzpX4WDaEwZw_yjQAV9kI2drZ_Lvo3_8sl1n9W6pz4LPr6xp10IseihzhMiug32y-i4wv8gZ77L7QPxvnKOHUoN4dVB5IDLJ5KGjD7EYugYQMsCOBHsxpFFC6mXSHfVsFgGdS0k6kPjTWPTP2gqDy_wL8uUmV4L/s1600/Boneka.jpg"
+    ]
+  },
+  "activo": true
+}
