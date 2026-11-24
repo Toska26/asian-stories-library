@@ -1,0 +1,78 @@
+{
+  "codigo": "DR001532",
+  "bl": false,
+  "titulo": "No Other Way",
+  "tituloOriginal": "至死不渝",
+  "alias": [
+    "Zhi Si Bu Yu"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-06-29",
+  "finalizacion": "2026-07-24",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Investigación",
+    "Asesinato",
+    "Secretos familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Zhou Shuheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Keying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhao Minyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Zhou Hongtao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dr. Susan Su",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "El detective Zhou Shuheng es trasladado a la unidad de delitos graves y recibe un caso desconcertante: Zhao Minyi ha apuñalado a su marido decenas de veces, pero se niega a explicar el motivo. La investigación lo reúne con su hermana adoptiva, la fiscal Zhou Keying, y destapa una red de secretos, traiciones y conexiones familiares. A medida que aparecen nuevos asesinatos y salen a la luz pistas sobre la desaparición de la madre de Keying, ambos deberán enfrentarse a un misterio que se remonta a décadas atrás.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/4/4d/No_Other_Way.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
