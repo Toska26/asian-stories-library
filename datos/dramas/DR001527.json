@@ -27,7 +27,8 @@
     "Ambición",
     "Rivalidad laboral",
     "Bádminton",
-    "Política laboral"
+    "Política laboral",
+    "Rivalidad empresarial"
   ],
   "personas": [
     {
@@ -56,7 +57,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": true
+      "principal": false
     },
     {
       "nombre": "Chen Junjie",
