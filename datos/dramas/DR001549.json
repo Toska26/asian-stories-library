@@ -1,0 +1,30 @@
+{
+  "codigo": "DR001549",
+  "bl": false,
+  "titulo": "Lost & Found",
+  "tituloOriginal": "Lost & Found",
+  "alias": [],
+  "pais": [
+    "SG",
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-18",
+  "generos": [
+    "Drama"
+  ],
+  "sinopsis": "Una coproducción de Singapur y Japón que sigue a personajes cuyas vidas se cruzan a través de encuentros, pérdidas y conexiones inesperadas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/oQkr4z_4f.jpg"
+    ]
+  },
+  "activo": true
+}
