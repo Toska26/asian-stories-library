@@ -28,7 +28,9 @@
     "Amistad",
     "Vejez",
     "Rescate",
-    "Trata de personas"
+    "Trata de personas",
+    "Fuerzas especiales",
+    "Estafas"
   ],
   "personas": [
     {
@@ -57,14 +59,14 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Ah Niu",
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Yoyo",
@@ -79,7 +81,12 @@
     "portada": [
       "https://i.mydramalist.com/81yRg2_4f.jpg"
     ],
-    "trailer": []
+    "trailer": [
+      {
+        "titulo": "Promo Reel oficial",
+        "url": "https://www.youtube.com/watch?v=Pf0RCgNsOIU"
+      }
+    ]
   },
   "activo": true
 }
