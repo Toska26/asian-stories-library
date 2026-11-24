@@ -27,7 +27,9 @@
     "Memoria",
     "Barrio",
     "Tradición",
-    "Familia"
+    "Familia",
+    "Espejo mágico",
+    "Oficios tradicionales"
   ],
   "personas": [
     {
@@ -50,7 +52,12 @@
     "portada": [
       "https://i.mydramalist.com/O86xxL_4f.jpg"
     ],
-    "trailer": []
+    "trailer": [
+      {
+        "titulo": "Promo Reel oficial",
+        "url": "https://www.youtube.com/watch?v=NMMx1ZaqDTA"
+      }
+    ]
   },
   "activo": true
 }
