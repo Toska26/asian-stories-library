@@ -1,0 +1,85 @@
+{
+  "codigo": "DR001533",
+  "bl": false,
+  "titulo": "Old & Dangerous",
+  "tituloOriginal": "青春老鸟",
+  "alias": [
+    "Qing Chun Lao Niao"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-07-27",
+  "finalizacion": "2026-08-21",
+  "generos": [
+    "Drama",
+    "Acción",
+    "Crimen"
+  ],
+  "tags": [
+    "Amistad",
+    "Vejez",
+    "Rescate",
+    "Trata de personas"
+  ],
+  "personas": [
+    {
+      "nombre": "Lao Ying",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ah Long",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ah Hu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ah Bao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ah Niu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yoyo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Un antiguo equipo de fuerzas especiales se reúne años después de retirarse cuando Ah Long descubre que su hija Yoyo ha sido capturada y llevada a un complejo criminal en Myanmar. El primer intento de rescate fracasa y Ah Hu acaba también en manos de la organización. Ante la llamada de sus antiguos compañeros, Lao Ying vuelve a ponerse al frente del grupo para organizar una misión desesperada. Los veteranos deberán superar sus limitaciones físicas y personales para rescatar a los suyos.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/81yRg2_4f.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
