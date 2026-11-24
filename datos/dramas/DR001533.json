@@ -34,35 +34,35 @@
   ],
   "personas": [
     {
-      "nombre": "Lao Ying (Eagle)",
+      "nombre": "Mo Ziyun (Eagle)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Long (Dragon)",
+      "nombre": "Lan Taiqiang (Ah Long / Dragon)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Hu (Tiger)",
+      "nombre": "Gao Shanhe (Ah Hu / Tiger)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Bao (Leopard)",
+      "nombre": "Tie Qingtian (Ah Bao / Leopard)",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Ah Niu (Ox)",
+      "nombre": "Li Xiaoming (Ah Niu / Ox)",
       "funcion": [
         "Actor"
       ],
@@ -76,7 +76,84 @@
       "principal": false
     },
     {
+      "nombre": "Tie Xiumei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tie Guoyi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yao Chuhong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lisa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bingbing",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
       "nombre": "Qianwen",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zhao Yilong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Weihao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lin Guocheng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Huang Jiayao",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wang Shuntian",
       "funcion": [
         "Actor"
       ],
