@@ -62,5 +62,21 @@
     ],
     "trailer": []
   },
-  "activo": true
+  "activo": true,
+  "ships": [
+    {
+      "personajes": [
+        "Dr. Tang Yi Jun",
+        "Dr. Lam Wei Kang"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Dr. Tang Yi Jun",
+        "Zac"
+      ],
+      "multimedia": []
+    }
+  ]
 }
