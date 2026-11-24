@@ -1,0 +1,98 @@
+{
+  "codigo": "DR001520",
+  "bl": false,
+  "titulo": "Silence of Love",
+  "tituloOriginal": "Hening Cinta",
+  "alias": [
+    "Hening Cinta"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 10,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-03-03",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Religioso"
+  ],
+  "tags": [
+    "Viu Original",
+    "Redención",
+    "Fe",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Arfan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Deeja",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kartini",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wani",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dr Hadi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shiba",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Arfan",
+        "Deeja"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Deeja, una joven enfermera, encuentra a Arfan Mansor, un hombre herido que resulta ser el heredero de una familia adinerada y que arrastra un pasado marcado por malas decisiones. Mientras lo cuida, su bondad le ayuda a acercarse de nuevo a la fe. La conexión entre ambos crece, pero los secretos del pasado de Arfan amenazan la oportunidad de empezar de nuevo.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BOGFkMGFiMjMtNjhiNi00ZTY0LThkOGItNDlmM2RmZjAzZWEyXkEyXkFqcGc@._V1_.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial",
+        "url": "https://www.youtube.com/watch?v=xyI1d-aokcE"
+      }
+    ]
+  },
+  "activo": true
+}
