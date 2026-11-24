@@ -1,0 +1,28 @@
+{
+  "codigo": "DR001539",
+  "bl": false,
+  "titulo": "My Dearest Kudumbam",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2014,
+  "tipo": "DR",
+  "serie": "SR001537",
+  "temporadas": 6,
+  "temporada": 3,
+  "estado": "finalizado",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Ganesh lleva mucho tiempo buscando trabajo sin encontrar uno adecuado a sus cualificaciones. Sharmi y Tinku se burlan de él, mientras Ram y Kaveri intentan animarlo. Al escuchar a su hermano frustrado, los dos menores concluyen que estudiar no sirve de nada y organizan una huelga para apoyarlo.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%276744856%27&EntityType=%27Item%27&EntityId=%2731237%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true,
+  "episodios": 13
+}
