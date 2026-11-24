@@ -1,0 +1,24 @@
+{
+  "codigo": "DR001555",
+  "bl": false,
+  "titulo": "Fish Head Curry",
+  "tituloOriginal": "Fish Head Curry",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 60,
+  "estado": "anunciado",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Una restauradora de segunda generación intenta salvar el restaurante familiar del cierre, reunir a sus hijos distanciados y preservar el legado de su familia.",
+  "activo": true
+}
