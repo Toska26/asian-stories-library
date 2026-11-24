@@ -28,18 +28,20 @@
     "Amistad",
     "Reencuentro",
     "Secretos familiares",
-    "Pasado"
+    "Pasado",
+    "Comunidad",
+    "Desaparición"
   ],
   "personas": [
     {
-      "nombre": "Yi Wei",
+      "nombre": "Li Yi Wei",
       "funcion": [
         "Actor"
       ],
       "principal": true
     },
     {
-      "nombre": "Jie Wei",
+      "nombre": "Li Jie Wei",
       "funcion": [
         "Actor"
       ],
@@ -53,11 +55,11 @@
       "principal": true
     },
     {
-      "nombre": "Da Ping",
+      "nombre": "Su Da Ping",
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     }
   ],
   "sinopsis": "En un barrio unido de los años noventa, cuatro familias y sus hijos comparten una amistad que se rompe tras deudas de juego, un escándalo y la desaparición de un niño. Treinta años después, sus caminos vuelven a cruzarse. Yi Wei, ahora funcionario de vivienda, intenta recuperar el espíritu comunitario del barrio y se reencuentra con Fang Ying. El regreso de Da Ping y de su hermano Jie Wei reabre viejas heridas y obliga a Yi Wei a afrontar la culpa que arrastra desde la infancia.",
@@ -65,7 +67,12 @@
     "portada": [
       "https://wiki.d-addicts.com/images/7/7d/Brighter_Days.jpg"
     ],
-    "trailer": []
+    "trailer": [
+      {
+        "titulo": "Promo Reel oficial",
+        "url": "https://www.youtube.com/watch?v=weIxEGyYA2g"
+      }
+    ]
   },
   "activo": true
 }
