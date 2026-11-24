@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001545",
+  "bl": false,
+  "titulo": "Candy",
+  "tituloOriginal": "糖果",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 29,
+  "estado": "finalizado",
+  "estreno": "2026-01-16",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "GL"
+  ],
+  "sinopsis": "Dos jóvenes se conocen y desarrollan una relación afectiva mientras afrontan sus sentimientos y las circunstancias que las rodean.",
+  "multimedia": {
+    "portada": [
+      "https://wiki.d-addicts.com/images/5/5f/Candy.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
