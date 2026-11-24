@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001543",
+  "bl": false,
+  "titulo": "Kaki Bola",
+  "tituloOriginal": "Kaki Bola",
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ms",
+  "anio": 2022,
+  "tipo": "DR",
+  "serie": "SR001543",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 13,
+  "estado": "finalizado",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Deportes"
+  ],
+  "sinopsis": "Dos niños nacidos en 1994, año histórico para el fútbol de Singapur, reciben los nombres de Fandi Ahmad y Sundram, en honor a dos leyendas del deporte. Veintisiete años después, ambos vuelven a encontrarse. David Lee intenta unirlos a través del fútbol sala, aunque Razali trata de impedirlo. Una historia de amistad, espíritu deportivo y perseverancia.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%275393350%27&EntityType=%27Item%27&EntityId=%27327094%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
