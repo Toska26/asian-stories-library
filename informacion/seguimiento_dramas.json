@@ -197,6 +197,20 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": "En emisión. Pendiente confirmar número total de episodios y fecha regular de finalización."
+        },
+        {
+          "codigo": "DR001552",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "8 episodios; drama dialectal. Pendiente identificar con precisión el/los dialectos y confirmar fecha regular de finalización."
+        },
+        {
+          "codigo": "DR001553",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Estreno digital 23/11/2026; pendiente fecha regular de finalización y ampliar sinopsis/reparto."
         }
       ]
     },
@@ -307,6 +321,22 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        }
+      ],
+      "SG": [
+        {
+          "codigo": "DR001554",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "IMDA: animación, comedia negra, 12×30 min; transmisión aún sin fecha confirmada."
+        },
+        {
+          "codigo": "DR001555",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "IMDA: drama, 8×60 min, inglés y mandarín; transmisión aún sin fecha confirmada."
         }
       ]
     },
@@ -7768,6 +7798,55 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": "Pendiente verificar fechas exactas y fecha regular de finalización."
+        },
+        {
+          "codigo": "DR001545",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Pendiente verificar fecha regular de finalización y ampliar sinopsis/personajes."
+        },
+        {
+          "codigo": "DR001546",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Pendiente verificar fecha regular de finalización y ampliar sinopsis/personajes."
+        },
+        {
+          "codigo": "DR001547",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Estreno digital 30/03/2026; pendiente fecha regular de finalización y ampliar reparto/sinopsis."
+        },
+        {
+          "codigo": "DR001548",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Pendiente verificar fecha regular de finalización, duración media y ampliar sinopsis/personajes."
+        },
+        {
+          "codigo": "DR001549",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Coproducción SG-JP; estreno japonés 18/03/2026. Pendiente verificar fecha de finalización y reparto completo."
+        },
+        {
+          "codigo": "DR001550",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Se usa el total oficial de 26 episodios de meWATCH; pendiente fecha regular de finalización y ampliar reparto."
+        },
+        {
+          "codigo": "DR001551",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Se usa el total oficial de 65 episodios; pendiente confirmar duración media y fecha regular de finalización."
         }
       ],
       "MY": [
