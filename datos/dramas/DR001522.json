@@ -1,0 +1,80 @@
+{
+  "codigo": "DR001522",
+  "bl": false,
+  "titulo": "Nowhere to Hide",
+  "tituloOriginal": "Bayangan Dendam",
+  "alias": [
+    "Bayangan Dendam"
+  ],
+  "pais": [
+    "MY"
+  ],
+  "idioma": "ms",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 12,
+  "duracion": 47,
+  "estado": "en_emision",
+  "estreno": "2026-10-22",
+  "generos": [
+    "Drama",
+    "Thriller",
+    "Misterio",
+    "Crimen",
+    "Romance"
+  ],
+  "tags": [
+    "Viu Original",
+    "Asesinato",
+    "Traición",
+    "Investigación"
+  ],
+  "personas": [
+    {
+      "nombre": "Melissa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ariana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Farhan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Farhan",
+        "Ariana"
+      ],
+      "multimedia": []
+    },
+    {
+      "personajes": [
+        "Farhan",
+        "Melissa"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Melissa pide a su amiga Ariana que vigile a su novio Farhan mientras él estudia en el extranjero. Lo que empieza como un favor termina convirtiéndose en una relación entre Ariana y Farhan, que traicionan la confianza de Melissa. Cuando Melissa aparece muerta en circunstancias sospechosas, las relaciones entre los tres y los secretos que los rodean se convierten en el centro de una investigación para descubrir quién la mató.",
+  "multimedia": {
+    "portada": [
+      "https://www.viu.com/ott/viuscene/wp-content/uploads/2026/11/nowhere-to-hide-bayangan-dendam-poster-horizontal-feature-image.jpg"
+    ]
+  },
+  "activo": true
+}
