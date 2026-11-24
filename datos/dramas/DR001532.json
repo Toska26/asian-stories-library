@@ -28,7 +28,10 @@
   "tags": [
     "Investigación",
     "Asesinato",
-    "Secretos familiares"
+    "Secretos familiares",
+    "Investigación policial",
+    "Alexitimia",
+    "Crimen"
   ],
   "personas": [
     {
@@ -65,6 +68,13 @@
         "Actor"
       ],
       "principal": false
+    },
+    {
+      "nombre": "Yao Manning",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
     }
   ],
   "sinopsis": "El detective Zhou Shuheng es trasladado a la unidad de delitos graves y recibe un caso desconcertante: Zhao Minyi ha apuñalado a su marido decenas de veces, pero se niega a explicar el motivo. La investigación lo reúne con su hermana adoptiva, la fiscal Zhou Keying, y destapa una red de secretos, traiciones y conexiones familiares. A medida que aparecen nuevos asesinatos y salen a la luz pistas sobre la desaparición de la madre de Keying, ambos deberán enfrentarse a un misterio que se remonta a décadas atrás.",
@@ -72,7 +82,12 @@
     "portada": [
       "https://wiki.d-addicts.com/images/4/4d/No_Other_Way.jpg"
     ],
-    "trailer": []
+    "trailer": [
+      {
+        "titulo": "Promo Reel oficial",
+        "url": "https://www.youtube.com/watch?v=XvzxzgETphE"
+      }
+    ]
   },
   "activo": true
 }
