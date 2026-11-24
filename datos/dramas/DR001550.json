@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001550",
+  "bl": false,
+  "titulo": "Ketta Paiyan, Sir!",
+  "tituloOriginal": "Ketta Paiyan, Sir!",
+  "alias": [],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "ta",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 23,
+  "estado": "finalizado",
+  "estreno": "2026-08-06",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia"
+  ],
+  "sinopsis": "Kavin, un niño travieso de diez años, quiere conseguir el premio al Mejor Estudiante. Con la ayuda de su profesor, el director y su excéntrico abuelo, aprenderá importantes lecciones mientras intenta alcanzar su objetivo.",
+  "multimedia": {
+    "portada": [
+      "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%2715449841%27&EntityType=%27Item%27&EntityId=%27824233%27&Width=1920&Height=1080"
+    ]
+  },
+  "activo": true
+}
