@@ -25,7 +25,9 @@
   "tags": [
     "Trabajo",
     "Ambición",
-    "Rivalidad laboral"
+    "Rivalidad laboral",
+    "Bádminton",
+    "Política laboral"
   ],
   "personas": [
     {
@@ -54,7 +56,7 @@
       "funcion": [
         "Actor"
       ],
-      "principal": false
+      "principal": true
     },
     {
       "nombre": "Chen Junjie",
@@ -83,7 +85,12 @@
     "portada": [
       "https://i.mydramalist.com/Dk5nOz_4f.jpg"
     ],
-    "trailer": []
+    "trailer": [
+      {
+        "titulo": "Tráiler oficial (Launch Trailer)",
+        "url": "https://www.youtube.com/watch?v=DrFMFmQnrog"
+      }
+    ]
   },
   "activo": true
 }
