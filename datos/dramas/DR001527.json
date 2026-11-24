@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001527",
+  "bl": false,
+  "titulo": "The Grind",
+  "tituloOriginal": "职不值得",
+  "alias": [
+    "Zhi Bu Zhi De"
+  ],
+  "pais": [
+    "SG"
+  ],
+  "idioma": "zh",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-01-09",
+  "finalizacion": "2026-02-05",
+  "generos": [
+    "Drama"
+  ],
+  "tags": [
+    "Trabajo",
+    "Ambición",
+    "Rivalidad laboral"
+  ],
+  "personas": [
+    {
+      "nombre": "Li Rongjia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jiang Wenkai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Caitlin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kento",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chen Junjie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ye Kui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sam",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La prometedora carrera de bádminton de Li Rongjia se trunca y termina incorporándose a la empresa donde trabaja su novio, Jiang Wenkai. Sin que ella lo sepa, él la ha colocado en el competitivo equipo de ventas con la esperanza de que abandone el puesto y vuelva al deporte. Mientras Caitlin inicia una relación secreta con su jefe japonés Kento, Chen Junjie encuentra una oportunidad de ascenso que exige traicionar a sus amigos. La ambición de Ye Kui desencadena nuevas luchas de poder y deja a Rongjia cada vez más aislada. Cuando descubre el engaño de Wenkai, también se resquebraja su relación de siete años.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Dk5nOz_4f.jpg"
+    ],
+    "trailer": []
+  },
+  "activo": true
+}
