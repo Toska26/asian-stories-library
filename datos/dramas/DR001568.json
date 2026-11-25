@@ -1,0 +1,28 @@
+{
+  "codigo": "DR001568",
+  "bl": false,
+  "titulo": "Love Song of the Wind",
+  "tituloOriginal": "Tình khúc bản gió",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": null,
+  "estado": "anunciado",
+  "estreno": "2026-12-03",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
