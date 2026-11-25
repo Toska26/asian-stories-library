@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001565",
+  "bl": false,
+  "titulo": "Spring Village Women's Football Team",
+  "tituloOriginal": "Đội bóng nữ làng Xuân",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 46,
+  "estado": "en_emision",
+  "estreno": "2026-09-03",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Deportes",
+    "Familia"
+  ],
+  "sinopsis": "Minh, una joven que sueña con ser futbolista profesional, reúne a un equipo femenino de su pueblo. Cada integrante llega con sus propias heridas y dificultades, y juntas encuentran en el fútbol una oportunidad para superar límites y transformar sus vidas.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/qRmRjLRx8nv1asSdkb34coky6rC.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=Z5XrHHEmcxU",
+      "https://www.youtube.com/watch?v=7SnfFPvpnG4"
+    ]
+  },
+  "activo": true
+}
