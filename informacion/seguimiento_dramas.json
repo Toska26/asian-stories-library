@@ -212,6 +212,28 @@
           "pendientes": [],
           "notas": "Estreno digital 23/11/2026; pendiente fecha regular de finalización y ampliar sinopsis/reparto."
         }
+      ],
+      "VN": [
+        {
+          "codigo": "DR001565",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "En emisión; pendiente confirmar fecha regular de finalización y revisar ficha."
+        },
+        {
+          "codigo": "DR001566",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "En emisión; pendiente confirmar fecha regular de finalización y revisar ficha."
+        }
       ]
     },
     "Próximo estreno": {
@@ -337,6 +359,18 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": "IMDA: drama, 8×60 min, inglés y mandarín; transmisión aún sin fecha confirmada."
+        }
+      ],
+      "VN": [
+        {
+          "codigo": "DR001568",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Estreno anunciado para 03/12/2026; duración y datos definitivos pendientes tras estreno."
         }
       ]
     },
@@ -6567,6 +6601,106 @@
           "ultimaRevision": null,
           "pendientes": [],
           "notas": ""
+        },
+        {
+          "codigo": "DR001556",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001557",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001558",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001559",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001560",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001561",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001562",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001563",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001564",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001567",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar sinopsis y reparto",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
         }
       ],
       "PH": [
