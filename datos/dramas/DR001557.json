@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001557",
+  "bl": false,
+  "titulo": "Countdown Timer",
+  "tituloOriginal": "Đồng hồ đếm ngược",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 20,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-01-29",
+  "finalizacion": "2026-04-10",
+  "generos": [
+    "Drama",
+    "Fantasía"
+  ],
+  "sinopsis": "Tras una crisis personal, Thành descubre que puede ver cuánto tiempo de vida les queda a otras personas. Cuando descubre que su madre tiene poco tiempo, intenta cambiar su destino con ayuda de su perro Coddy y una misteriosa figura sobrenatural.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/uB5AygMaKCsrAk5I3iycAZs6CG3.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=cM7RXgqGoBE",
+      "https://www.youtube.com/watch?v=H8wZQHDNPPM"
+    ]
+  },
+  "activo": true
+}
