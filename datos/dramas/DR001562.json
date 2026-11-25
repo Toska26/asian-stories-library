@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001562",
+  "bl": false,
+  "titulo": "Devotion",
+  "tituloOriginal": "Tận hiến",
+  "alias": [
+    "Dedication"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 15,
+  "duracion": 46,
+  "estado": "finalizado",
+  "estreno": "2026-05-03",
+  "finalizacion": "2026-06-28",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Historia"
+  ],
+  "sinopsis": "Inspirada en operaciones reales de inteligencia, la serie sigue a un agente vietnamita que se infiltra durante años bajo una identidad encubierta en Laos. Su misión exige sacrificios personales y una lealtad constante a su país.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/fPVvIu2R8T5VTbr9yxmvOGLli5L.jpg"
+    ]
+  },
+  "activo": true
+}
