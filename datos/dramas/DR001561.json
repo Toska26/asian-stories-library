@@ -1,0 +1,37 @@
+{
+  "codigo": "DR001561",
+  "bl": false,
+  "titulo": "White Flames",
+  "tituloOriginal": "Lửa trắng",
+  "alias": [
+    "White Fire"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 22,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-06-18",
+  "finalizacion": "2026-08-28",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Acción"
+  ],
+  "sinopsis": "Una investigación policial sobre una nueva droga conduce a una compleja red criminal. En la provincia de Sơn Hải, varios personajes quedan atrapados entre operaciones encubiertas, engaños, ambición y traiciones.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/oXx8zzHlv1flWHqlsrzwR1BTeRx.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=fWq_1HTvFsg"
+    ]
+  },
+  "activo": true
+}
