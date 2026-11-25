@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001558",
+  "bl": false,
+  "titulo": "Stepping Into Life",
+  "tituloOriginal": "Bước chân vào đời",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 36,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-02-23",
+  "finalizacion": "2026-05-13",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Romance"
+  ],
+  "sinopsis": "Tres hermanas huérfanas intentan salir adelante entre dificultades económicas, relaciones afectivas y decisiones que ponen a prueba sus vínculos. La historia destaca la familia como apoyo para afrontar la vida adulta.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/vcbwpDo93stfQSQM3TCmPdWNQ4t.jpg"
+    ],
+    "teaser": [
+      "https://www.youtube.com/watch?v=vtPK19v6Ank"
+    ]
+  },
+  "activo": true
+}
