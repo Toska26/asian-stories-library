@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001556",
+  "bl": false,
+  "titulo": "Limitless",
+  "tituloOriginal": "Không giới hạn",
+  "alias": [
+    "No Limits"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 28,
+  "estado": "finalizado",
+  "estreno": "2026-02-02",
+  "finalizacion": "2026-03-31",
+  "generos": [
+    "Drama",
+    "Acción"
+  ],
+  "sinopsis": "Drama sobre militares vietnamitas en tiempos de paz, centrado en la defensa civil, las operaciones de rescate y la protección del país ante nuevos desafíos de seguridad.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/vmtAYWXBbFwOOMU4KFG1NIvUaFl.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=0Ldyetu1kZw"
+    ]
+  },
+  "activo": true
+}
