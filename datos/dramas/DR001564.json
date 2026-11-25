@@ -1,0 +1,31 @@
+{
+  "codigo": "DR001564",
+  "bl": false,
+  "titulo": "Alluvial Soil",
+  "tituloOriginal": "Phù sa",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 40,
+  "duracion": 27,
+  "estado": "finalizado",
+  "estreno": "2026-08-18",
+  "finalizacion": "2026-10-20",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "En una comunidad del delta del Mekong amenazada por la erosión, Phù Sa regresa de la ciudad con la idea de desarrollar el cultivo de cacao y crear medios de vida sostenibles. Los habitantes deben decidir cómo proteger su tierra y su futuro.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/qeqitezVFaSdDyYtJCRgT5vcaea.jpg"
+    ]
+  },
+  "activo": true
+}
