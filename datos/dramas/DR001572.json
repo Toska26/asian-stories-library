@@ -1,0 +1,94 @@
+{
+  "codigo": "DR001572",
+  "bl": false,
+  "titulo": "CM12 Plan",
+  "tituloOriginal": "Kế hoạch CM12",
+  "alias": [
+    "Operation CM12"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 16,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-08-22",
+  "finalizacion": "2026-10-25",
+  "generos": [
+    "Drama",
+    "Historia",
+    "Crimen",
+    "Política",
+    "Acción"
+  ],
+  "personas": [
+    {
+      "nombre": "Thứ trưởng Cao Minh Chánh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hai Thế",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mười Lực",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "K64 (Sáu Lễ)",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "K27",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "C4 (Lê Quốc Toàn)",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "C5 (Mai Văn Nghị)",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ông Han",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Recreación dramatizada del Plan CM12, una operación de contrainteligencia desarrollada por los servicios de seguridad vietnamitas durante los años ochenta para desarticular una organización armada clandestina que pretendía infiltrarse en el país y establecer bases para derrocar al Gobierno. La serie retrata las operaciones encubiertas, los riesgos asumidos por los agentes infiltrados y la labor de persuasión de quienes fueron captados por la organización.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/7zEdtAsbhSBt3U3CL7ci167dYCn.jpg"
+    ]
+  },
+  "activo": true
+}
