@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001570",
+  "bl": false,
+  "titulo": "Blue Highland Sky",
+  "tituloOriginal": "Trời cao nguyên xanh",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 27,
+  "duracion": 28,
+  "estado": "finalizado",
+  "estreno": "2026-07-06",
+  "finalizacion": "2026-08-17",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Acción",
+    "Política"
+  ],
+  "personas": [
+    {
+      "nombre": "Quang Tuấn",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "A Lang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "A Dũi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vân",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Y Liên",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Ambientada en las Tierras Altas Centrales de Vietnam, la serie sigue a los agentes de seguridad que trabajan para proteger la paz de las comunidades locales frente a redes criminales y grupos que intentan sembrar divisiones étnicas. La historia combina investigaciones, operaciones de seguridad y la vida de los habitantes de las aldeas, mostrando también el proceso de quienes se dejan arrastrar por influencias destructivas y buscan rectificar su camino.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/wktyFfQmbwNAFAghwtLXo7JBuok.jpg"
+    ]
+  },
+  "activo": true
+}
