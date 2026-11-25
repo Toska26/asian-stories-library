@@ -1,0 +1,91 @@
+{
+  "codigo": "DR001573",
+  "bl": false,
+  "titulo": "The Roofless House",
+  "tituloOriginal": "Căn nhà không mái che",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 39,
+  "duracion": 48,
+  "estado": "en_emision",
+  "estreno": "2026-10-12",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Familia",
+    "Romance",
+    "Juvenil"
+  ],
+  "personas": [
+    {
+      "nombre": "Toản",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hạnh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thơ",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Triết",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sơn",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hùng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Ambientada en una zona rural de la región montañosa del norte de Vietnam durante la década de 2010, la serie retrata a familias trabajadoras que luchan a diario con las deudas, la precariedad y las dificultades cotidianas. Mientras los adultos intentan ofrecer estabilidad y un futuro mejor a sus hijos, los jóvenes Thơ, Sơn y Hùng atraviesan los retos de la adolescencia, la amistad y los primeros sentimientos.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/ixazzVGJtkSJlgEYrZ8vnnzmiyL.jpg"
+    ]
+  },
+  "activo": true
+}
