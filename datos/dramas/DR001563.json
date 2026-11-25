@@ -1,0 +1,29 @@
+{
+  "codigo": "DR001563",
+  "bl": false,
+  "titulo": "Debts of Life",
+  "tituloOriginal": "Nợ đời vay trả",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 55,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-05-11",
+  "finalizacion": "2026-07-14",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "Drama familiar sobre deudas, secretos y conflictos que se transmiten entre generaciones. Las relaciones dentro de la familia se complican cuando salen a la luz engaños y disputas por el dinero y el poder.",
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
