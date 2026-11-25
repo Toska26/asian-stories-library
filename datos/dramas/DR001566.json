@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001566",
+  "bl": false,
+  "titulo": "Xóm nhỏ",
+  "tituloOriginal": "Xóm nhỏ",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 35,
+  "estado": "en_emision",
+  "estreno": "2026-10-21",
+  "finalizacion": null,
+  "generos": [
+    "Drama",
+    "Familia",
+    "Comedia"
+  ],
+  "sinopsis": "Trâm, de 19 años, se marcha a Hanói tras una discusión con su padre para buscar independencia. En un humilde alojamiento conoce a personas que luchan por salir adelante y descubre la solidaridad y las dificultades de la vida lejos de casa.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/bA5NTUg4c1G7xi256yzBcQJaHgD.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=oSjd80Xk_SM"
+    ]
+  },
+  "activo": true
+}
