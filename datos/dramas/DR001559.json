@@ -1,0 +1,35 @@
+{
+  "codigo": "DR001559",
+  "bl": false,
+  "titulo": "Against the Sun",
+  "tituloOriginal": "Ngược đường ngược nắng",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 35,
+  "duracion": 27,
+  "estado": "finalizado",
+  "estreno": "2026-04-01",
+  "finalizacion": "2026-05-26",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Romance"
+  ],
+  "sinopsis": "En una aldea dedicada a la fabricación tradicional de incienso, Mai regresa a su pueblo para revitalizar el negocio familiar. Sus planes chocan con viejas rivalidades entre familias, mientras surge una relación inesperada con Trung.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/jdoz4o9pg5q2nB1osdz2tLYc2ll.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=ilxBZfvIzxs"
+    ]
+  },
+  "activo": true
+}
