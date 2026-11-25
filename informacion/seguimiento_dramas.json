@@ -233,6 +233,17 @@
             "Revisar materiales promocionales"
           ],
           "notas": "En emisión; pendiente confirmar fecha regular de finalización y revisar ficha."
+        },
+        {
+          "codigo": "DR001573",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar fecha regular de finalización",
+            "Completar reparto secundario",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; el episodio 20 se emitió el 25/11/2026 y la serie continúa en emisión."
         }
       ]
     },
@@ -6701,6 +6712,48 @@
             "Revisar materiales promocionales"
           ],
           "notas": "Ficha inicial creada; revisar sinopsis, reparto y completar duración media si procede."
+        },
+        {
+          "codigo": "DR001569",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Completar reparto secundario",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada con datos VTV/VTVgo; duración basada en el episodio 1."
+        },
+        {
+          "codigo": "DR001570",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Verificar duración media",
+            "Completar reparto secundario",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada; duración aproximada de 28 minutos. Final emitido el 17/08/2026."
+        },
+        {
+          "codigo": "DR001571",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Completar reparto secundario",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada con 27 episodios; duración basada en el episodio 19 (49 min)."
+        },
+        {
+          "codigo": "DR001572",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar fecha de finalización en la emisión original de ANTV",
+            "Completar reparto secundario",
+            "Revisar materiales promocionales"
+          ],
+          "notas": "Ficha inicial creada. El episodio 16 está confirmado en HTV7 el 25/10/2026; comprobar si la emisión inicial de ANTV lo emitió antes."
         }
       ],
       "PH": [
