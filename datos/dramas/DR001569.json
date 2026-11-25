@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001569",
+  "bl": false,
+  "titulo": "The Other Side of the City",
+  "tituloOriginal": "Phía bên kia thành phố",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 26,
+  "duracion": 29,
+  "estado": "finalizado",
+  "estreno": "2026-05-27",
+  "finalizacion": "2026-07-03",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia",
+    "Juvenil"
+  ],
+  "personas": [
+    {
+      "nombre": "Cương",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Khuê",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thảo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tuyết Lan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En un barrio de las afueras de la ciudad, Cương y Khuê, amigos inseparables desde la infancia y de personalidades opuestas, afrontan las presiones escolares, los conflictos familiares y las heridas emocionales de la adolescencia. Mientras Cương es impulsivo y protector, Khuê destaca por su talento académico, aunque guarda una profunda soledad interior.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/uKLYSF8fHt6x9BhwWF1zI0D2Y3q.jpg"
+    ]
+  },
+  "activo": true
+}
