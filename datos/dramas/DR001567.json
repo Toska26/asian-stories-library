@@ -1,0 +1,34 @@
+{
+  "codigo": "DR001567",
+  "bl": false,
+  "titulo": "Under the Brightly Lit Window",
+  "tituloOriginal": "Dưới ô cửa sáng đèn",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 33,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-05-18",
+  "finalizacion": "2026-07-29",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "sinopsis": "En un antiguo edificio colectivo que espera ser desalojado, varias familias afrontan deudas, problemas afectivos y responsabilidades cotidianas. Sus vidas se entrelazan gracias a la convivencia y a la solidaridad del vecindario.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/z3xIftpj9JxNSmn2JXnwAvPaJFC.jpg"
+    ],
+    "trailer": [
+      "https://www.youtube.com/watch?v=DhBGyHNONSw"
+    ]
+  },
+  "activo": true
+}
