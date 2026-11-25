@@ -1,0 +1,99 @@
+{
+  "codigo": "DR001571",
+  "bl": false,
+  "titulo": "That Summer",
+  "tituloOriginal": "Mùa hè năm ấy",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 27,
+  "duracion": 49,
+  "estado": "finalizado",
+  "estreno": "2026-08-03",
+  "finalizacion": "2026-10-07",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Comedia",
+    "Juvenil",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Khánh",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phương",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tùng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hoàng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ly",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yến Nhi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bà Ngọc",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ông Vệ",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bà Liên",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La historia sigue a Khánh y Phương desde sus últimos años de instituto, cuando su amistad comienza a transformarse en amor, hasta su reencuentro casi una década después. Una separación marcada por un acontecimiento inesperado los conduce a vidas muy distintas: Phương regresa convertida en una profesional segura de sí misma, mientras Khánh carga con las consecuencias de su pasado. Los antiguos amigos deberán afrontar malentendidos, responsabilidades familiares y sentimientos que nunca desaparecieron.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/wduCYoh4FA4EzW9awgGRi9nPF4J.jpg"
+    ]
+  },
+  "activo": true
+}
