@@ -23,6 +23,9 @@
     "Lealtad",
     "Amistad"
   ],
+  "multimedia":{
+    "portada":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCyy84umjR8D29DL7BnbtgyKou1Q5hC5OtglaKVtWzJw&s=10"]
+  },
   "sinopsis": "Los conflictos del mundo criminal de Chợ Mới continúan mientras diferentes personajes se enfrentan por el poder, la lealtad y el establecimiento de un nuevo orden.",
   "activo": true
 }
