@@ -1,0 +1,82 @@
+{
+  "precuela": {
+    "codigo": "precuela",
+    "etiqueta": "Precuela",
+    "etiquetaPlural": "Precuelas",
+    "inverso": "secuela",
+    "orden": 1,
+    "descripcion": "Historia cronológicamente anterior a la obra actual."
+  },
+  "secuela": {
+    "codigo": "secuela",
+    "etiqueta": "Secuela",
+    "etiquetaPlural": "Secuelas",
+    "inverso": "precuela",
+    "orden": 2,
+    "descripcion": "Continuación directa de la historia principal."
+  },
+  "especial": {
+    "codigo": "especial",
+    "etiqueta": "Especial",
+    "etiquetaPlural": "Especiales",
+    "inverso": "especial_de",
+    "orden": 3,
+    "descripcion": "Episodio especial, epílogo o entrega conmemorativa vinculada a la serie."
+  },
+  "especial_de": {
+    "codigo": "especial_de",
+    "etiqueta": "Especial de",
+    "etiquetaPlural": "Especiales de",
+    "inverso": "especial",
+    "orden": 4,
+    "descripcion": "Obra principal de la cual parte este episodio especial."
+  },
+  "spin_off": {
+    "codigo": "spin_off",
+    "etiqueta": "Spin-off",
+    "etiquetaPlural": "Spin-offs",
+    "inverso": "spin_off",
+    "orden": 5,
+    "descripcion": "Historia derivada centrada en personajes secundarios o líneas paralelas."
+  },
+  "crossover": {
+    "codigo": "crossover",
+    "etiqueta": "Crossover",
+    "etiquetaPlural": "Crossovers",
+    "inverso": "crossover",
+    "orden": 6,
+    "descripcion": "Cruce argumental o de personajes entre dos o más producciones."
+  },
+  "programa_derivado": {
+    "codigo": "programa_derivado",
+    "etiqueta": "Programa derivado",
+    "etiquetaPlural": "Programas derivados",
+    "inverso": "programa_derivado_de",
+    "orden": 7,
+    "descripcion": "Reality, programa de variedades o contenido promocional derivado del drama."
+  },
+  "programa_derivado_de": {
+    "codigo": "programa_derivado_de",
+    "etiqueta": "Derivado de",
+    "etiquetaPlural": "Derivados de",
+    "inverso": "programa_derivado",
+    "orden": 8,
+    "descripcion": "Drama original del cual surge este programa o variedad."
+  },
+  "adaptacion": {
+    "codigo": "adaptacion",
+    "etiqueta": "Adaptación / Otra versión",
+    "etiquetaPlural": "Adaptaciones / Otras versiones",
+    "inverso": "adaptacion",
+    "orden": 9,
+    "descripcion": "Versión alternativa o adaptación basada en la misma obra original."
+  },
+  "relacionado": {
+    "codigo": "relacionado",
+    "etiqueta": "Producción relacionada",
+    "etiquetaPlural": "Producciones relacionadas",
+    "inverso": "relacionado",
+    "orden": 10,
+    "descripcion": "Obra vinculada por marca, productora o temática sin continuidad directa."
+  }
+}
