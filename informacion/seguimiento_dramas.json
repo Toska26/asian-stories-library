@@ -6763,7 +6763,7 @@
             "Completar reparto de personajes confirmados",
             "Revisar materiales promocionales"
           ],
-          "notas": "4 episodios; duración reportada de 30–40 min por episodio (promedio aproximado 35). Episodio 1 publicado el 10/02/2026 y episodio final el 07/03/2026."
+          "notas": "4 episodios; duración aproximada 35 min. Episodio 1 publicado el 10/02/2026 y episodio final el 07/03/2026. Portadas añadidas; enlaces a episodio 1, final y recopilación completa."
         },
         {
           "codigo": "DR001575",
@@ -6772,7 +6772,7 @@
           "pendientes": [
             "Revisar sinopsis y reparto"
           ],
-          "notas": "Especial musical HTV7 de 50 min, emitido el 16/02/2026. Título oficial Màu Tết quê hương; revisar título inglés/romanización en próxima revisión."
+          "notas": "Especial musical HTV7 de 50 min, emitido el 16/02/2026. Título oficial Màu Tết quê hương; variante Màu Tết hương quê conservada como alias. Portada añadida; enlace a la película completa."
         },
         {
           "codigo": "DR001576",
@@ -6781,7 +6781,7 @@
           "pendientes": [
             "Confirmar duración y reparto"
           ],
-          "notas": "Web drama de 4 episodios; emisión del 23/01 al 13/02/2026. Duración aproximada de 45 min (media de episodios listados)."
+          "notas": "Web drama de 4 episodios; emisión del 23/01 al 13/02/2026. Duración media aproximada 44 min según los episodios publicados. Portada añadida; enlaces a episodio 1, episodio 4 y versión completa. Revisar fechas/duración si se obtiene parrilla oficial completa."
         },
         {
           "codigo": "DR001577",
@@ -6791,7 +6791,7 @@
             "Confirmar duración media y completar reparto",
             "Verificar duración real de los episodios"
           ],
-          "notas": "22 episodios; final regular THVL confirmado el 12/03/2026. Duración real no confirmada; se deja null en la ficha."
+          "notas": "22 episodios; final regular THVL confirmado el 12/03/2026. Duración real no confirmada; se deja null. Portada añadida; enlaces a episodios 1 y 21."
         },
         {
           "codigo": "DR001578",
@@ -6801,7 +6801,7 @@
             "Confirmar duración media y completar reparto",
             "Verificar duración real de los episodios"
           ],
-          "notas": "21 episodios; final regular THVL confirmado el 01/03/2026. Duración real no confirmada; se deja null en la ficha."
+          "notas": "21 episodios; final regular THVL confirmado el 01/03/2026. Duración real no confirmada; se deja null. Portada añadida; enlace al episodio final."
         },
         {
           "codigo": "DR001579",
@@ -6811,7 +6811,7 @@
             "Confirmar duración de episodios y reparto",
             "Verificar duración real de los episodios"
           ],
-          "notas": "5 episodios emitidos por VTV9 del 16 al 20/02/2026. Duración real no confirmada; se deja null en la ficha."
+          "notas": "5 episodios emitidos por VTV9 del 16 al 20/02/2026. Duración real no confirmada; se deja null. Portada añadida; pendiente localizar vídeo oficial accesible."
         },
         {
           "codigo": "DR001580",
@@ -6821,7 +6821,7 @@
             "Confirmar fecha de finalización en SCTV14",
             "Completar reparto"
           ],
-          "notas": "13 episodios × 25 min según registro de producción; VTV5 emitió el episodio 13 el 23/02/2026. La fecha de finalización de la emisión original de SCTV14 queda pendiente; finalizacion se deja null."
+          "notas": "13 episodios × 25 min según registro de producción; VTV5 emitió el episodio 13 el 23/02/2026. La fecha de finalización de la emisión original de SCTV14 queda pendiente; finalizacion se deja null. Portada añadida; pendiente localizar vídeo oficial accesible."
         }
       ],
       "PH": [
