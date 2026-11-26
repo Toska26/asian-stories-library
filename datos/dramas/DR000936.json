@@ -58,47 +58,13 @@
       ]
     }
   ],
-  "relaciones": [
-    {
-      "tipo": "Antología",
-      "historia": "The Legend of the Soulmate",
-      "pareja": "Dol / Sun",
-      "episodio": 1
-    },
-    {
-      "tipo": "Antología",
-      "historia": "I Quit, Sir!",
-      "pareja": "Parinth / First",
-      "episodio": 2
-    },
-    {
-      "tipo": "Antología",
-      "historia": "The Day of Meeting, the Day of Parting",
-      "pareja": "X / Namping",
-      "episodio": [
-        3,
-        4
-      ]
-    },
-    {
-      "tipo": "Antología",
-      "historia": "You and Your Beautiful Heart",
-      "pareja": "Sian / Blue",
-      "episodio": [
-        5,
-        6
-      ]
-    },
-    {
-      "tipo": "Antología",
-      "historia": "LOVE, Action! Ready!",
-      "pareja": "Pun / Inn",
-      "episodio": [
-        7,
-        8
-      ]
-    }
-  ],
+  "historias": [
+      { "orden": 1, "titulo": "The Legend of the Soulmate", "tituloOriginal": "", "pareja": "Dol / Sun", "episodios": [1], "foto": "" },
+      { "orden": 2, "titulo": "I Quit, Sir!", "tituloOriginal": "", "pareja": "Parinth / First", "episodios": [2], "foto": "" },
+      { "orden": 3, "titulo": "The Day of Meeting, the Day of Parting", "tituloOriginal": "", "pareja": "X / Namping", "episodios": [3, 4], "foto": "" },
+      { "orden": 4, "titulo": "You and Your Beautiful Heart", "tituloOriginal": "", "pareja": "Sian / Blue", "episodios": [5, 6], "foto": "" },
+      { "orden": 5, "titulo": "LOVE, Action! Ready!", "tituloOriginal": "", "pareja": "Pun / Inn", "episodios": [7, 8], "foto": "" }
+    ],
   "sinopsis": "Dos almas destinadas a encontrarse han vivido más de mil vidas y, en cada una de ellas, consiguen enamorarse. La serie presenta cinco historias de amor protagonizadas por diferentes personajes interpretados por Top y Mick: Dol y Sun, Parinth y First, X y Namping, Sian y Blue, y Pun e Inn. A medida que avanzan las historias, la separación entre ficción y realidad se transforma hasta revelar la conexión que existe entre ellas y conducir a la historia de amor de sus protagonistas.",
   "activo": true,
   "multimedia": {
