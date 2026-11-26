@@ -19,32 +19,12 @@
         "Drama"
     ],
     "sinopsis": "Antología de cinco historias especiales que retoman las relaciones de distintas series BL de GMMTV. Cada episodio continúa la historia de una pareja diferente: Pick y Rome de Puppy Honey, In y Sun de My Dear Loser: Edge of 17, Mork y Tee de 'Cause You're My Boy, Pete y Kao de Kiss Me Again, y Arthit y Kongpob de SOTUS.",
-    "relaciones": [
-        {
-            "tipo": "Antología",
-            "drama": "DR000095",
-            "episodio": 1
-        },
-        {
-            "tipo": "Antología",
-            "drama": "DR000763",
-            "episodio": 2
-        },
-        {
-            "tipo": "Antología",
-            "drama": "DR000771",
-            "episodio": 3
-        },
-        {
-            "tipo": "Antología",
-            "drama": "DR000027",
-            "episodio": 4
-        },
-        {
-            "tipo": "Antología",
-            "drama": "DR000020",
-            "episodio": 5
-        }
+    "relaciones":[
+      { "tipo": "especial_de", "codigos": ["DR000095"], "titulo": "", "episodios": [1], "descripcion": "" },
+      { "tipo": "especial_de", "codigos": ["DR000763"], "titulo": "", "episodios": [2], "descripcion": "" },
+      { "tipo": "especial_de", "codigos": ["DR000771"], "titulo": "", "episodios": [3], "descripcion": "" },
+      { "tipo": "especial_de", "codigos": ["DR000027"], "titulo": "", "episodios": [4], "descripcion": "" },
+      { "tipo": "especial_de", "codigos": ["DR000020"], "titulo": "", "episodios": [5], "descripcion": "" }
     ],
     "activo": true,
     "multimedia": {
