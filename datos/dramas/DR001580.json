@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001580",
+  "bl": false,
+  "titulo": "Tết at the Nursing Home",
+  "tituloOriginal": "Tết ở viện dưỡng lão",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 13,
+  "duracion": 25,
+  "estado": "finalizado",
+  "estreno": "2026-02-19",
+  "finalizacion": "2026-02-23",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Personas mayores",
+    "Familia"
+  ],
+  "personas": [],
+  "sinopsis": "Ambientada en una residencia de mayores durante el Tết, la película-serie explora la soledad de las personas ancianas y los vínculos familiares que se han ido descuidando. A través de las experiencias de quienes viven en la residencia, plantea la necesidad de acompañamiento, afecto y presencia familiar durante las fiestas.",
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
