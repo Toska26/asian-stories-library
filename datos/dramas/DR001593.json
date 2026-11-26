@@ -27,36 +27,6 @@
     "Trata de personas",
     "Investigación"
   ],
-  "personas": [
-    {
-      "nombre": "Isa Cervantes",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Galo Villareal",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Hex Silverio",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Tasha",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    }
-  ],
   "sinopsis": "Un grupo de agentes y especialistas se une para combatir a individuos y organizaciones que utilizan internet y las nuevas tecnologías para cometer delitos. Isa Cervantes y Galo Villareal deberán superar sus traumas y diferencias mientras investigan redes criminales y protegen a sus víctimas.",
   "multimedia": {
     "portada": [
@@ -65,6 +35,7 @@
   },
   "activo": true,
   "notas": [
-    "Recuento provisional: episodio 134 emitido el 26/11/2026. La serie continúa en emisión."
+    "Recuento provisional: episodio 134 emitido el 26/11/2026. La serie continúa en emisión.",
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
   ]
 }
