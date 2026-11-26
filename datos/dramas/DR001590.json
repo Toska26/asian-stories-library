@@ -25,11 +25,12 @@
     "Suspense"
   ],
   "tags": [
-    "Doble identidad",
     "Exmilitar",
-    "Familia",
-    "Misiones",
-    "Secuela"
+    "Sastrería",
+    "Rastreador",
+    "Doble vida",
+    "Justicia",
+    "Familia"
   ],
   "sinopsis": "Anthony “Atoy” Padua, antiguo Scout Ranger altamente cualificado, lleva una vida tranquila como sastre mientras trabaja en secreto como rastreador y cazador de hombres por encargo. Sus misiones lo arrastran a situaciones cada vez más peligrosas y a una doble vida que amenaza a su familia.",
   "multimedia": {
@@ -46,6 +47,92 @@
   "activo": true,
   "notas": [
     "Primera temporada / Book 1. La historia continúa en DR001591, The Master Cutter: Anak ng Sinulid.",
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Atoy Padua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Elaine",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tonet",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ibyang",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Red",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cita",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dmitri",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Delfin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Paldo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Emerson",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Martina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
