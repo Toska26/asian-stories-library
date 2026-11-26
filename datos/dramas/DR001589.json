@@ -27,43 +27,6 @@
     "Amistad",
     "Talento juvenil"
   ],
-  "personas": [
-    {
-      "nombre": "Jeni",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Megan",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Dara",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Minchie",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Perry",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    }
-  ],
   "sinopsis": "Jeni sueña con convertirse en cantante, pero su madre intenta protegerla de las dificultades de perseguir una carrera artística. En su camino hacia el escenario, Jeni y las jóvenes integrantes del grupo YUMI afrontan rivalidades, conflictos familiares y los retos de abrirse paso en la industria musical.",
   "multimedia": {
     "portada": [
@@ -72,6 +35,7 @@
   },
   "activo": true,
   "notas": [
-    "Recuento provisional: episodio 211 emitido el 26/11/2026. La serie continúa en emisión."
+    "Recuento provisional: episodio 211 emitido el 26/11/2026. La serie continúa en emisión.",
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
   ]
 }
