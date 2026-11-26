@@ -25,12 +25,13 @@
     "Industria del entretenimiento"
   ],
   "relaciones": [
-    {
-      "tipo": "Especial de",
-      "nombre": "PayBack The Series",
-      "descripcion": "Episodio especial que continúa la historia de la serie original.",
-      "codigo": "DR001047"
-    }
+   {
+        "tipo": "especial_de",
+        "codigos": ["DR001047"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Episodio especial que continúa la historia de la serie original."
+      }
   ],
   "sinopsis": "Episodio especial de PayBack The Series que retoma la historia de Sun y su camino en la industria del entretenimiento. iQIYI ha confirmado su producción y lo ha incluido en su programación; la fecha de estreno y la duración todavía no se han anunciado.",
   "activo": true,
