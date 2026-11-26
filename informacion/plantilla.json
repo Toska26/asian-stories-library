@@ -38,7 +38,26 @@
     ],
     "entidades": [],
     "especiales": [],
-    "relaciones": [],
+    "relaciones": [
+        {
+            "tipo": "",
+            "codigo": "",
+            "codigos": [],
+            "titulo": "",
+            "episodios": [],
+            "descripcion": ""
+        }
+    ],
+    "historias": [
+        {
+            "orden": 1,
+            "titulo": "",
+            "tituloOriginal": "",
+            "pareja": "",
+            "episodios": [],
+            "foto": ""
+        }
+    ],
     "sinopsis": null,
     
     "multimedia": {
