@@ -54,7 +54,15 @@
   ],
   "sinopsis": "Xuân, una ingeniera de tecnología alimentaria centrada en su carrera, se ve envuelta en una relación con Phú. Cuando la familia de ella intenta presentar una imagen más acomodada de su hogar y ocultar que se dedica a elaborar licor tradicional, una serie de malentendidos y la llegada del verdadero propietario de la casa desencadenan situaciones cómicas. La historia aborda las expectativas matrimoniales y el choque entre la vida urbana y las costumbres rurales del sur de Vietnam.",
   "multimedia": {
-    "portada": []
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQB6odGsVfWKsNQkbEXZgjEiuawjvVcEDgf__HxRakVg&s=10"
+    ],
+    "videos": [
+      {
+        "titulo": "Episodio final",
+        "url": "https://www.youtube.com/watch?v=BS5xIGi0vJM"
+      }
+    ]
   },
   "activo": true
 }
