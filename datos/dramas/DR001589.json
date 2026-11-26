@@ -21,13 +21,14 @@
     "Romance"
   ],
   "tags": [
-    "Música",
-    "Sueños",
+    "P-Pop",
     "Industria musical",
+    "Grupo musical",
+    "Sueños",
     "Amistad",
     "Talento juvenil"
   ],
-  "sinopsis": "Jeni sueña con convertirse en cantante, pero su madre intenta protegerla de las dificultades de perseguir una carrera artística. En su camino hacia el escenario, Jeni y las jóvenes integrantes del grupo YUMI afrontan rivalidades, conflictos familiares y los retos de abrirse paso en la industria musical.",
+  "sinopsis": "Jeni sueña con convertirse en cantante, pero su madre Minchie intenta protegerla de las dificultades de perseguir una carrera artística. Junto a las jóvenes integrantes del grupo YUMI —entre ellas Megan, Alfea, Yuna, Nancy, Dara y Monica—, Jeni afronta rivalidades, conflictos familiares y los retos de abrirse paso en la industria musical.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/mOpxLm_4f.jpg"
@@ -36,6 +37,99 @@
   "activo": true,
   "notas": [
     "Recuento provisional: episodio 211 emitido el 26/11/2026. La serie continúa en emisión.",
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Jeni",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Megan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alfea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yuna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nancy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Minchie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Monica",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Charice",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Perry",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Elvis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nate",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Basha",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
