@@ -34,48 +34,16 @@
     "KBS Drama Special"
   ],
   "sinopsis": "Antología surcoreana de ocho dramas independientes inspirados en canciones. Cada historia parte de una pieza musical para explorar distintas experiencias y emociones, como el amor, la separación, la amistad, la soledad, el crecimiento personal y los recuerdos. Las historias cuentan con personajes y repartos propios, y se presentan como episodios unitarios dentro de KBS Drama Special 2026.",
-  "relaciones": [
-    {
-      "tipo": "Antología",
-      "historia": "You, More Than the Scent of Spring",
-      "episodio": 1
-    },
-    {
-      "tipo": "Antología",
-      "historia": "After the Play Ends",
-      "episodio": 2
-    },
-    {
-      "tipo": "Antología",
-      "historia": "When My Loneliness Calls You",
-      "episodio": 3
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Bye, Summer",
-      "episodio": 4
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Recollection",
-      "episodio": 5
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Chronicle",
-      "episodio": 6
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Lie, Lie, Lie",
-      "episodio": 7
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Autumn Morning",
-      "episodio": 8
-    }
-  ],
+  "historias": [
+      { "orden": 1, "titulo": "You, More Than the Scent of Spring", "tituloOriginal": "", "pareja": "", "episodios": [1], "foto": "" },
+      { "orden": 2, "titulo": "After the Play Ends", "tituloOriginal": "", "pareja": "", "episodios": [2], "foto": "" },
+      { "orden": 3, "titulo": "When My Loneliness Calls You", "tituloOriginal": "", "pareja": "", "episodios": [3], "foto": "" },
+      { "orden": 4, "titulo": "Bye, Summer", "tituloOriginal": "", "pareja": "", "episodios": [4], "foto": "" },
+      { "orden": 5, "titulo": "Recollection", "tituloOriginal": "", "pareja": "", "episodios": [5], "foto": "" },
+      { "orden": 6, "titulo": "Chronicle", "tituloOriginal": "", "pareja": "", "episodios": [6], "foto": "" },
+      { "orden": 7, "titulo": "Lie, Lie, Lie", "tituloOriginal": "", "pareja": "", "episodios": [7], "foto": "" },
+      { "orden": 8, "titulo": "Autumn Morning", "tituloOriginal": "", "pareja": "", "episodios": [8], "foto": "" }
+    ],
   "activo": true,
   "multimedia": {
     "portada": [
