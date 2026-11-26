@@ -27,9 +27,10 @@
   ],
   "tags": [
     "Continuación",
-    "Familia",
+    "Anak ng Sinulid",
+    "Trabajo en equipo",
     "Misiones",
-    "Nueva generación"
+    "Familia"
   ],
   "sinopsis": "La historia de Atoy Padua continúa en una nueva etapa junto a los Anak ng Sinulid. El antiguo Scout Ranger convertido en sastre y rastreador afronta nuevos desafíos, misiones y enemigos mientras se abre un nuevo capítulo de su historia.",
   "multimedia": {
@@ -46,6 +47,57 @@
   "activo": true,
   "notas": [
     "Segunda temporada / Book 2. Recuento provisional: episodio 32 emitido el 26/11/2026. Comparte SR001590 con DR001590.",
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Atoy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Emerson",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kuya Kurt",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Karla",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Uno Alcaraz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Samir",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
