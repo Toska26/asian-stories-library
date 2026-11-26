@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001585",
+  "bl": false,
+  "titulo": "Cậu Út cậu con Cúc — Parte 5",
+  "tituloOriginal": "Cậu Út cậu con Cúc — Phần 5",
+  "alias": [
+    "Cau Ut Cau Con Cuc 5",
+    "Cậu Út cậu con Cúc phần 5"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000060",
+    "orden": 5
+  },
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "",
+    "orden": 1
+  },
+  "origen": "17 Production",
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": 155,
+  "estado": "finalizado",
+  "estreno": "2026-02-08",
+  "finalizacion": "2026-02-08",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết"
+  ],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/8lNeeoq7QMlii0R0H5TNVTTo1hw.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": [
+      {
+        "titulo": "Película completa — Huỳnh Lập Official",
+        "url": "https://www.youtube.com/watch?v=aw6rLeAo4gk"
+      },
+      {
+        "titulo": "Best cut oficial",
+        "url": "https://www.youtube.com/watch?v=r5a_AteAuho"
+      }
+    ]
+  },
+  "activo": true
+}
