@@ -1,0 +1,54 @@
+{
+  "codigo": "DR001574",
+  "bl": false,
+  "titulo": "The Apprentice God of Wealth",
+  "tituloOriginal": "Thần tài tập sự",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 35,
+  "estado": "finalizado",
+  "estreno": "2026-02-10",
+  "finalizacion": "2026-03-07",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Web drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Lộc",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En un mercado de Sóc Trăng durante los preparativos del Tết, Lộc, un aprendiz de dios de la fortuna, desciende al mundo humano para registrar las buenas y malas acciones de los comerciantes. Al descubrir que las personas y sus circunstancias son más complejas de lo que indican sus cuentas, aprende sobre la compasión, la honestidad y las consecuencias de los actos.",
+  "multimedia": {
+    "portada": [],
+    "videos": [
+      {
+        "titulo": "Episodio 1",
+        "url": "https://www.youtube.com/watch?v=D_VnUTSRoj4"
+      },
+      {
+        "titulo": "Episodio final",
+        "url": "https://www.youtube.com/watch?v=6oDLAHQHYDQ"
+      }
+    ]
+  },
+  "activo": true
+}
