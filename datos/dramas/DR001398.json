@@ -102,12 +102,13 @@
     "pais": "ID"
   },
   "relaciones": [
-    {
-      "tipo": "Adaptación de la misma obra",
-      "nombre": "The Heart of Suhita (2023)",
-      "descripcion": "La película y la serie son adaptaciones audiovisuales de la novela Hati Suhita; no se ha confirmado que la serie sea una secuela directa de la película.",
-      "codigo": "DR001403"
-    }
+ {
+        "tipo": "adaptacion",
+        "codigos": ["DR001403"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "La película y la serie son adaptaciones audiovisuales de la novela Hati Suhita; no se ha confirmado que la serie sea una secuela directa de la película."
+      }
   ],
   "sinopsis": "Alina Suhita acepta un matrimonio concertado con Gus Birru, hijo de los propietarios de un pesantren. Aunque ella intenta cumplir con su papel y ganarse el cariño de su marido, él sigue enamorado de su antigua pareja, Ratna Rengganis.",
   "multimedia": {
