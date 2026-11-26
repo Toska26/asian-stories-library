@@ -1,0 +1,59 @@
+{
+  "codigo": "DR001591",
+  "bl": false,
+  "titulo": "The Master Cutter: Anak ng Sinulid",
+  "tituloOriginal": "The Master Cutter: Anak ng Sinulid",
+  "alias": [
+    "The Master Cutter Season 2",
+    "The Master Cutter: Book 2"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001590",
+  "temporadas": 2,
+  "temporada": 2,
+  "episodios": 32,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-14",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "Continuación",
+    "Familia",
+    "Misiones",
+    "Nueva generación"
+  ],
+  "personas": [
+    {
+      "nombre": "Anthony “Atoy” Padua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "La historia de Atoy Padua continúa en una nueva etapa junto a los Anak ng Sinulid. El antiguo Scout Ranger convertido en sastre y rastreador afronta nuevos desafíos, misiones y enemigos mientras se abre un nuevo capítulo de su historia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/3vo1XA_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional — Anak ng Sinulid",
+        "url": "https://v.mydramalist.com/54a/54a2a6a714d383485e79899dd53e8b24.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Segunda temporada / Book 2. Recuento provisional: episodio 32 emitido el 26/11/2026. Comparte SR001590 con DR001590."
+  ]
+}
