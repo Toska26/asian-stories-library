@@ -53,12 +53,13 @@
     }
   ],
   "relaciones": [
-    {
-      "tipo": "Continuación",
-      "nombre": "Enemies with Benefits",
-      "descripcion": "Especial que retoma la historia de Lal y Wine después de los acontecimientos de la serie.",
-      "codigo": "DR001476"
-    }
+  {
+        "tipo": "especial_de",
+        "codigos": ["DR001476"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Especial que retoma la historia de Lal y Wine después de los acontecimientos de la serie."
+      }
   ],
   "sinopsis": "Episodio especial de Enemies with Benefits que continúa la historia de Lal y Wine. GMMTV lo anunció durante el evento Final EP. FAN MEETING del 5 de julio de 2026. La fecha de estreno y la duración todavía no se han confirmado.",
   "activo": true,
