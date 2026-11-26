@@ -1,0 +1,90 @@
+{
+  "codigo": "DR001596",
+  "bl": false,
+  "titulo": "Delivery Boi",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-10-19",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Repartidor",
+    "Trabajo",
+    "Superación",
+    "Bondad",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Boi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sheryl",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Enrique",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Paeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Edna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Damian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Walter",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Boi es un joven repartidor de espíritu generoso que trabaja duro para mantener a sus seres queridos. Cada entrega lo pone en contacto con personas y problemas diferentes, y su amabilidad acaba transformando la vida de quienes encuentra por el camino. Mientras afronta las dificultades de su trabajo y los conflictos que otros provocan, mantiene la esperanza de conocer algún día a su padre biológico.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PexNX3_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Recuento provisional: episodio 29 emitido el 26/11/2026. La serie continúa en emisión."
+  ]
+}
