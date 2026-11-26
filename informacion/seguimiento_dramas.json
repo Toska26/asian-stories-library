@@ -6760,9 +6760,10 @@
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [
-            "Confirmar datos de producción y completar reparto"
+            "Completar reparto de personajes confirmados",
+            "Revisar materiales promocionales"
           ],
-          "notas": "Ficha inicial creada; 5 episodios, duración aproximada pendiente de revisión."
+          "notas": "4 episodios; duración reportada de 30–40 min por episodio (promedio aproximado 35). Episodio 1 publicado el 10/02/2026 y episodio final el 07/03/2026."
         },
         {
           "codigo": "DR001575",
@@ -6771,7 +6772,7 @@
           "pendientes": [
             "Revisar sinopsis y reparto"
           ],
-          "notas": "Especial musical de HTV7, 50 min; título oficial Màu Tết quê hương."
+          "notas": "Especial musical HTV7 de 50 min, emitido el 16/02/2026. Título oficial Màu Tết quê hương; revisar título inglés/romanización en próxima revisión."
         },
         {
           "codigo": "DR001576",
@@ -6780,7 +6781,7 @@
           "pendientes": [
             "Confirmar duración y reparto"
           ],
-          "notas": "Web drama de 4 episodios; fechas y duración aproximada pendientes de contraste."
+          "notas": "Web drama de 4 episodios; emisión del 23/01 al 13/02/2026. Duración aproximada de 45 min (media de episodios listados)."
         },
         {
           "codigo": "DR001577",
@@ -6814,9 +6815,10 @@
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [
-            "Confirmar fecha de finalización en SCTV14 y reparto"
+            "Confirmar fecha de finalización en SCTV14",
+            "Completar reparto"
           ],
-          "notas": "13 episodios × 25 min; VTV5 emitió el episodio 13 el 23/02/2026. La fecha final de la emisión original de SCTV14 queda pendiente."
+          "notas": "13 episodios × 25 min según registro de producción; VTV5 emitió el episodio 13 el 23/02/2026. La fecha de finalización de la emisión original de SCTV14 queda pendiente; finalizacion se deja null."
         }
       ],
       "PH": [
