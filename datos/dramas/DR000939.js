@@ -33,19 +33,9 @@ window.dramaActual = {
         {personajes:['Johan','North']}
     ],
     entidades:[],
-    relaciones:[
-        {
-            tipo:'Historia',
-            historia:'East: Tag!, You’re Mine',
-            pareja:'Hill / Easter',
-            orden:1
-        },
-        {
-            tipo:'Historia',
-            historia:'North: How Much Is Your Love?',
-            pareja:'Johan / North',
-            orden:2
-        }
+   "historias": [
+      { "orden": 1, "titulo": "East: Tag!, You’re Mine", "tituloOriginal": "", "pareja": "Hill / Easter", "episodios": [], "foto": "" },
+      { "orden": 2, "titulo": "North: How Much Is Your Love?", "tituloOriginal": "", "pareja": "Johan / North", "episodios": [], "foto": "" }
     ],
     especiales:[
         {
