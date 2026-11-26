@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001581",
+  "bl": false,
+  "titulo": "Cậu Út cậu con Cúc — Parte 1",
+  "tituloOriginal": "Cậu Út cậu con Cúc",
+  "alias": [
+    "Cau Ut Cau Con Cuc",
+    "Cậu Út cậu con Cúc"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2022,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000060",
+    "orden": 1
+  },
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "",
+    "orden": 1
+  },
+  "origen": "17 Production",
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": 90,
+  "estado": "finalizado",
+  "estreno": "2022-01-22",
+  "finalizacion": "2022-01-22",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết"
+  ],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/s44ndUpTuunTCSkZOJzuFAqMEjh.jpg"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": [
+      {
+        "titulo": "Compilación oficial de las partes 1–4 (incluye esta entrega)",
+        "url": "https://www.youtube.com/watch?v=qxmHh1mkmWA"
+      }
+    ]
+  },
+  "activo": true
+}
