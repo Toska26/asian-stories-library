@@ -49,11 +49,12 @@
   },
   "relaciones": [
     {
-      "tipo": "Obra original adaptada",
-      "nombre": "Tante Sonya (2026)",
-      "descripcion": "La serie de 2026 es una adaptación moderna de esta película.",
-      "codigo": "DR001400"
-    }
+        "tipo": "adaptacion",
+        "codigos": ["DR001400"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "La serie de 2026 es una adaptación moderna de esta película de 1994."
+      }
   ],
   "sinopsis": "Sony, una viuda que ha logrado independizarse y convertirse en empresaria, inicia una relación con Benno, un joven fotógrafo. Los celos y las inseguridades de él provocan conflictos que amenazan la relación.",
   "activo": true,
