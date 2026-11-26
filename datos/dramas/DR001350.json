@@ -31,12 +31,12 @@
   ],
   "relaciones": [
     {
-      "tipo": "programa derivado de",
-      "nombre": "Never-Ending Summer",
-      "descripcion": "Programa de variedades derivado del drama Never-Ending Summer.",
-      "codigo": "DR001342",
-      "orden": 2
-    }
+        "tipo": "programa_derivado_de",
+        "codigos": ["DR001342"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Programa de variedades derivado del drama Never-Ending Summer."
+      }
   ],
   "sinopsis": "Los protagonistas de Never-Ending Summer se reúnen en la casa de verano para participar en una convivencia de dos días. A través de presentaciones, desafíos de complicidad y diferentes juegos, los participantes compiten para descubrir quién forma la pareja de compañeros más compenetrada.",
   "multimedia": {
