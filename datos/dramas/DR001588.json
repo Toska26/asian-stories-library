@@ -28,41 +28,14 @@
     "Secretos familiares",
     "Traición"
   ],
-  "personas": [
-    {
-      "nombre": "Vanessa",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Marco",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Angel",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Mikay",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    }
-  ],
   "sinopsis": "Vanessa, una abogada que defiende gratuitamente a quienes no pueden permitirse representación, parece llevar una vida feliz junto a Marco. Todo cambia cuando aparece Angel, su hermanastra, cuya necesidad desesperada de afecto se convierte en una obsesión peligrosa que enfrenta a las dos mujeres y amenaza a toda la familia.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/DkeJ0N_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "notas": [
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+  ]
 }
