@@ -1,0 +1,67 @@
+{
+  "codigo": "DR001582",
+  "bl": false,
+  "titulo": "Cậu Út cậu con Cúc — Parte 2",
+  "tituloOriginal": "Cậu Út cậu con Cúc — Phần 2",
+  "alias": [
+    "Cau Ut Cau Con Cuc 2",
+    "Cậu Út cậu con Cúc phần 2"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2023,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000060",
+    "orden": 2
+  },
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "",
+    "orden": 1
+  },
+  "origen": "17 Production",
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": 100,
+  "estado": "finalizado",
+  "estreno": "2023-01-12",
+  "finalizacion": "2023-01-12",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết"
+  ],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSsvO9C-fTacw4wNHSQTVwJF0QKp5AFmzqAKyxEy4JvWAJ9SwK0y3k7kM&s=10"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": [
+      {
+        "titulo": "Vídeo oficial relacionado con la parte 2 (backstage)",
+        "url": "https://www.youtube.com/watch?v=JcDokAbSLMI"
+      },
+      {
+        "titulo": "Compilación oficial de las partes 1–4",
+        "url": "https://www.youtube.com/watch?v=qxmHh1mkmWA"
+      }
+    ]
+  },
+  "activo": true
+}
