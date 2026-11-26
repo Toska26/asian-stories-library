@@ -9,7 +9,7 @@
   ],
   "idioma": "vi",
   "anio": 2026,
-  "tipo": "DR",
+  "tipo": "WDR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 4,
@@ -38,7 +38,10 @@
   ],
   "sinopsis": "En un mercado de Sóc Trăng durante los preparativos del Tết, Lộc, un aprendiz de dios de la fortuna, desciende al mundo humano para registrar las buenas y malas acciones de los comerciantes. Al descubrir que las personas y sus circunstancias son más complejas de lo que indican sus cuentas, aprende sobre la compasión, la honestidad y las consecuencias de los actos.",
   "multimedia": {
-    "portada": [],
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgOBYLAvQS4WnlywxnjuzPFFgBEVqjyLWuifSjtPVoA&s=10",
+      "https://i.ytimg.com/vi/aLvnmEd2hFA/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDpZFFRddq0Jp2l6MHBFJ6Sgr0ckg"
+    ],
     "videos": [
       {
         "titulo": "Episodio 1",
@@ -47,6 +50,10 @@
       {
         "titulo": "Episodio final",
         "url": "https://www.youtube.com/watch?v=6oDLAHQHYDQ"
+      },
+      {
+        "titulo": "Película completa / recopilación",
+        "url": "https://www.youtube.com/watch?v=aLvnmEd2hFA"
       }
     ]
   },
