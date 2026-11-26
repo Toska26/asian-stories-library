@@ -1,0 +1,65 @@
+{
+  "codigo": "DR001586",
+  "bl": false,
+  "titulo": "House of Lies",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 88,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-01-19",
+  "finalizacion": "2026-05-22",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "Secretos familiares",
+    "Ambición",
+    "Engaño",
+    "Traición"
+  ],
+  "personas": [
+    {
+      "nombre": "Marj",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Althea",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Paolo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Edward",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Marj lucha por sacar adelante a su familia después de que la destrucción de su antiguo hogar la obligue a empezar de nuevo. Sus aspiraciones y las de Althea se enfrentan en una red de ambición, engaños y traiciones que amenaza con destruir a ambas familias.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PxmQyX_4f.jpg"
+    ]
+  },
+  "activo": true
+}
