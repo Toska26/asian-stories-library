@@ -1,0 +1,77 @@
+{
+  "codigo": "DR001589",
+  "bl": false,
+  "titulo": "Born to Shine",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 211,
+  "duracion": 28,
+  "estado": "en_emision",
+  "estreno": "2026-03-23",
+  "generos": [
+    "Drama",
+    "Música",
+    "Familia",
+    "Romance"
+  ],
+  "tags": [
+    "Música",
+    "Sueños",
+    "Industria musical",
+    "Amistad",
+    "Talento juvenil"
+  ],
+  "personas": [
+    {
+      "nombre": "Jeni",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Megan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Minchie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Perry",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Jeni sueña con convertirse en cantante, pero su madre intenta protegerla de las dificultades de perseguir una carrera artística. En su camino hacia el escenario, Jeni y las jóvenes integrantes del grupo YUMI afrontan rivalidades, conflictos familiares y los retos de abrirse paso en la industria musical.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/mOpxLm_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Recuento provisional: episodio 211 emitido el 26/11/2026. La serie continúa en emisión."
+  ]
+}
