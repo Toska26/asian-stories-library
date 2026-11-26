@@ -78,11 +78,12 @@
   ],
   "relaciones": [
     {
-      "tipo": "Especial",
-      "nombre": "Married to My Enemy",
-      "descripcion": "Episodio especial anunciado por GMMTV que continúa la historia de Lal y Wine.",
-      "codigo": "DR001478"
-    }
+        "tipo": "especial",
+        "codigos": ["DR001478"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Episodio especial anunciado por GMMTV que continúa la historia de Lal y Wine."
+      }
   ],
   "sinopsis": "Lal, jefa del departamento de ventas, siempre intenta superar a Wine, responsable de contabilidad. Tras acabar en una relación de amigos con derechos, ambas deben ocultar lo que ocurre y seguir fingiendo que son enemigas en el trabajo. La cercanía acaba convirtiéndose en amor.",
   "multimedia": {
