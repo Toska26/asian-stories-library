@@ -24,6 +24,7 @@
     "Trabajo",
     "Superación",
     "Bondad",
+    "Solidaridad",
     "Familia"
   ],
   "sinopsis": "Boi es un joven repartidor de espíritu generoso que trabaja duro para mantener a sus seres queridos. Cada entrega lo pone en contacto con personas y problemas diferentes, y su amabilidad acaba transformando la vida de quienes encuentra por el camino. Mientras afronta las dificultades de su trabajo y los conflictos que otros provocan, mantiene la esperanza de conocer algún día a su padre biológico.",
@@ -35,6 +36,86 @@
   "activo": true,
   "notas": [
     "Recuento provisional: episodio 29 emitido el 26/11/2026. La serie continúa en emisión.",
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual.",
+    "Se dejan fuera los dos nombres de personaje cuya atribución a intérpretes difiere entre fuentes."
+  ],
+  "personas": [
+    {
+      "nombre": "Robert “Boi” Ragasa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sheryl Samonte",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Enrique",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Paeng",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Edna",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yvette",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hector",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Damian",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Walter",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Winston",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tetet",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
