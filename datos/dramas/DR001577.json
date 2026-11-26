@@ -96,11 +96,21 @@
   ],
   "sinopsis": "La familia de ông Bảy dirige la empresa de autobuses Bội Thu, que conecta Vĩnh Long con Ciudad Ho Chi Minh. Entre la competencia con la compañía rival Phát Tài, los conflictos familiares y las relaciones amorosas, los jóvenes de la familia buscan abrirse camino y construir su futuro, mientras salen a la luz secretos del pasado.",
   "multimedia": {
-    "portada": [],
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBA7vEii8EzE3dWhQDFFWN0ScjSvQTXWsF9Qa4adVuq5LP31vtDfXqEG0&s=10"
+    ],
     "videos": [
       {
         "titulo": "Episodio 21",
         "url": "https://www.youtube.com/watch?v=LZ_4wI2YUQo"
+      },
+      {
+        "titulo": "Episodio 1",
+        "url": "https://www.youtube.com/watch?v=an4nuoROMkw"
+      },
+      {
+        "titulo": "Episodio 21",
+        "url": "https://www.youtube.com/watch?v=bJteCfVdhAs"
       }
     ]
   },
