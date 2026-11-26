@@ -22,6 +22,9 @@
     "Venganza",
     "Familia"
   ],
+  "multimedia":{
+    "portada":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2SMXVDCaIWqd5S22p4Tc4galqRZQXfgDuDopD3Lv0w&s=10"]
+  },
   "sinopsis": "Thập Tứ Cô Nương sigue a una joven vinculada al mundo criminal de Chợ Mới y los conflictos de poder, lealtad y venganza que se desarrollan entre diferentes grupos.",
   "activo": true
 }
