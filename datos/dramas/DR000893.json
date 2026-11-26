@@ -200,78 +200,20 @@
     }
   ],
   "activo": true,
-  "relaciones": [
-    {
-      "tipo": "Antología",
-      "historia": "Casanova Begins",
-      "pareja": "Khunkhao / Pluem",
-      "episodio": 1
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Marry Go Round",
-      "pareja": "Tob / Boss",
-      "episodio": 2
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Right Time, Right You",
-      "pareja": "Phat / Mok",
-      "episodio": 3
-    },
-    {
-      "tipo": "Antología",
-      "historia": "You Are My Soulmate",
-      "pareja": "Butr / Korn",
-      "episodio": 4
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Lucky Love",
-      "pareja": "Meen / Jeng",
-      "episodio": 5
-    },
-    {
-      "tipo": "Antología",
-      "historia": "The Camp Fire",
-      "pareja": "Camp / Talay",
-      "episodio": 6
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Friends Forever",
-      "pareja": "Pun / Jay",
-      "episodio": 7
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Fake Love",
-      "pareja": "Phim / Phon",
-      "episodio": 8
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Pisces of Me",
-      "episodio": 9
-    },
-    {
-      "tipo": "Antología",
-      "historia": "1626",
-      "episodio": 10
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Refund Love",
-      "pareja": "Third / Pai",
-      "episodio": 11
-    },
-    {
-      "tipo": "Antología",
-      "historia": "I Wish You Love",
-      "pareja": "Pond / Mawin",
-      "episodio": 12
-    }
-  ],
+"historias": [
+      { "orden": 1, "titulo": "Casanova Begins", "tituloOriginal": "", "pareja": "Khunkhao / Pluem", "episodios": [1], "foto": "" },
+      { "orden": 2, "titulo": "Marry Go Round", "tituloOriginal": "", "pareja": "Tob / Boss", "episodios": [2], "foto": "" },
+      { "orden": 3, "titulo": "Right Time, Right You", "tituloOriginal": "", "pareja": "Phat / Mok", "episodios": [3], "foto": "" },
+      { "orden": 4, "titulo": "You Are My Soulmate", "tituloOriginal": "", "pareja": "Butr / Korn", "episodios": [4], "foto": "" },
+      { "orden": 5, "titulo": "Lucky Love", "tituloOriginal": "", "pareja": "Meen / Jeng", "episodios": [5], "foto": "" },
+      { "orden": 6, "titulo": "The Camp Fire", "tituloOriginal": "", "pareja": "Camp / Talay", "episodios": [6], "foto": "" },
+      { "orden": 7, "titulo": "Friends Forever", "tituloOriginal": "", "pareja": "Pun / Jay", "episodios": [7], "foto": "" },
+      { "orden": 8, "titulo": "Fake Love", "tituloOriginal": "", "pareja": "Phim / Phon", "episodios": [8], "foto": "" },
+      { "orden": 9, "titulo": "Pisces of Me", "tituloOriginal": "", "pareja": "", "episodios": [9], "foto": "" },
+      { "orden": 10, "titulo": "1626", "tituloOriginal": "", "pareja": "", "episodios": [10], "foto": "" },
+      { "orden": 11, "titulo": "Refund Love", "tituloOriginal": "", "pareja": "Third / Pai", "episodios": [11], "foto": "" },
+      { "orden": 12, "titulo": "I Wish You Love", "tituloOriginal": "", "pareja": "Pond / Mawin", "episodios": [12], "foto": "" }
+    ],
   "multimedia": {
     "portada": [
       "https://boyslovefrance.wordpress.com/wp-content/uploads/2023/07/myuniversetheseries_poster.jpg"
