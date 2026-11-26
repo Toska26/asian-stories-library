@@ -1,0 +1,81 @@
+{
+  "codigo": "DR001575",
+  "bl": false,
+  "titulo": "Colors of the Homeland's Tết",
+  "tituloOriginal": "Màu Tết quê hương",
+  "alias": [
+    "Màu Tết hương quê"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "COR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 50,
+  "estado": "finalizado",
+  "estreno": "2026-02-16",
+  "finalizacion": "2026-02-16",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Música"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Especial televisivo",
+    "Película musical"
+  ],
+  "personas": [
+    {
+      "nombre": "Cẩm Tú",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Paul",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Việt An",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bà Hương",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Dượng Hai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Cẩm Tú regresa a su tierra natal del sur de Vietnam con su marido Paul y su hija Việt An después de muchos años en el extranjero. Durante la reunión familiar, sus hijos y yernos intentan ayudar a bà Hương a recuperar recuerdos perdidos. La música tradicional, el đờn ca tài tử y las memorias familiares acompañan una historia sobre el vínculo entre madres e hijos y el regreso a casa por Tết.",
+  "multimedia": {
+    "portada": [],
+    "videos": [
+      {
+        "titulo": "Película musical completa",
+        "url": "https://www.youtube.com/watch?v=40QT-YhHafk"
+      }
+    ]
+  },
+  "activo": true
+}
