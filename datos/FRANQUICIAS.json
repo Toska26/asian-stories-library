@@ -550,5 +550,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia surcoreana formada por la sitcom Hello Franceska (2005–2006), organizada en sus tres temporadas, y su spin-off Francesca Next Door (2026), que recupera personajes y elementos del universo original.",
     "activo": true
+  },
+  {
+    "codigo": "FR000060",
+    "nombre": "Cậu Út cậu con Cúc",
+    "pais": [
+      "VN"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia vietnamita de películas familiares de Tết dirigida y protagonizada por Huỳnh Lập, producida por 17 Production. Reúne las cinco películas Cậu Út cậu con Cúc (2022–2026), que continúan la historia de Cậu Út, Cúc y su familia.",
+    "activo": true
   }
 ]
