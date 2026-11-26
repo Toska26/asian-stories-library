@@ -1,0 +1,36 @@
+{
+  "codigo": "DR001579",
+  "bl": false,
+  "titulo": "You're Famous This Tết",
+  "tituloOriginal": "Tết này em nổi tiếng",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 5,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-02-16",
+  "finalizacion": "2026-02-20",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Redes sociales"
+  ],
+  "personas": [],
+  "sinopsis": "Una joven de origen rural se convierte inesperadamente en una figura popular en internet después de que se difunde un vídeo grabado a escondidas. La serie aborda con humor la fama repentina, las estrategias de promoción en redes sociales y las prácticas de emparejar a celebridades digitales, mientras reflexiona sobre la vida cotidiana, la familia y los nuevos comienzos.",
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
