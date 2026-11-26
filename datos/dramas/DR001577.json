@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001577",
+  "bl": false,
+  "titulo": "This Tết, I Have You",
+  "tituloOriginal": "Tết này có em",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 22,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-14",
+  "finalizacion": "2026-03-12",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia",
+    "Romance"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Familia",
+    "Miền Tây"
+  ],
+  "personas": [
+    {
+      "nombre": "Ông Bảy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bà Hiền",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Minh Tiến",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thu Cúc",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tài Thái Tử",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thanh Mai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ông Phát",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bà Tuyết",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Văn Hết",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La familia de ông Bảy dirige la empresa de autobuses Bội Thu, que conecta Vĩnh Long con Ciudad Ho Chi Minh. Entre la competencia con la compañía rival Phát Tài, los conflictos familiares y las relaciones amorosas, los jóvenes de la familia buscan abrirse camino y construir su futuro, mientras salen a la luz secretos del pasado.",
+  "multimedia": {
+    "portada": [],
+    "videos": [
+      {
+        "titulo": "Episodio 21",
+        "url": "https://www.youtube.com/watch?v=LZ_4wI2YUQo"
+      }
+    ]
+  },
+  "activo": true
+}
