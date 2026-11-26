@@ -75,12 +75,13 @@
     }
   ],
   "relaciones": [
-    {
-      "tipo": "Secuela",
-      "nombre": "Operation Wedding (2013)",
-      "descripcion": "Continuación de la historia familiar de Kardi y sus cuatro hijas presentada en la película de 2013.",
-      "codigo": "DR001402"
-    }
+  {
+        "tipo": "precuela",
+        "codigos": ["DR001402"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Película original de 2013 cuya historia familiar de Kardi y sus cuatro hijas continúa en la serie de 2026."
+      }
   ],
   "sinopsis": "Tras los acontecimientos de la película, Kardi afronta una nueva etapa de su vida familiar después de retirarse anticipadamente de la Marina. La convivencia con sus hijas y sus relaciones sentimentales siguen dando lugar a situaciones y conflictos familiares.",
   "multimedia": {
