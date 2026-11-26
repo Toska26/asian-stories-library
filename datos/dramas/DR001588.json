@@ -24,7 +24,8 @@
   ],
   "tags": [
     "Obsesión",
-    "Hermanas",
+    "Hermanastras",
+    "Celos",
     "Secretos familiares",
     "Traición"
   ],
@@ -36,6 +37,43 @@
   },
   "activo": true,
   "notas": [
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Vanessa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Angel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Trixie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sylvia",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
