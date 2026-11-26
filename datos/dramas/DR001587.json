@@ -28,41 +28,14 @@
     "Vlogging",
     "Sindicatos criminales"
   ],
-  "personas": [
-    {
-      "nombre": "Joey Delgado",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Andrew Dizon",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Major Julio Delgado",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Tomas",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    }
-  ],
   "sinopsis": "Joey Delgado, una estudiante de informática que documenta los actos de honestidad de los policías, ve cómo su mundo se desmorona cuando el periodista y videobloguero Andrew Dizon acusa a su padre de corrupción. Tras grabar por accidente pruebas relacionadas con un poderoso sindicato criminal, Joey debe aliarse con Andrew para descubrir la verdad y proteger a su familia.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/DkQOB5_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "notas": [
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+  ]
 }
