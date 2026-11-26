@@ -16,7 +16,7 @@
   "duracion": 25,
   "estado": "finalizado",
   "estreno": "2026-02-19",
-  "finalizacion": "2026-02-23",
+  "finalizacion": null,
   "generos": [
     "Drama",
     "Familia"
