@@ -30,41 +30,14 @@
     "Aceptación",
     "Relaciones familiares"
   ],
-  "personas": [
-    {
-      "nombre": "Makmak",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Nonoy",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Caloy",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    },
-    {
-      "nombre": "Chloe",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": false
-    }
-  ],
   "sinopsis": "Makmak, un joven boxeador amateur, sueña con convertirse en campeón. Fuera del ring debe afrontar los secretos de su padre Nonoy, antiguo campeón, y las estrictas normas de su abuelo. En su lucha por alcanzar el título descubrirá que la verdadera victoria también consiste en comprenderse a sí mismo y encontrar aceptación dentro de su familia.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VXqxlO_4f.jpg"
     ]
   },
-  "activo": true
+  "activo": true,
+  "notas": [
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+  ]
 }
