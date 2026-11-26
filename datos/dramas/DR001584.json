@@ -1,0 +1,71 @@
+{
+  "codigo": "DR001584",
+  "bl": false,
+  "titulo": "Cậu Út cậu con Cúc — Parte 4",
+  "tituloOriginal": "Cậu Út cậu con Cúc — Phần 4",
+  "alias": [
+    "Cau Ut Cau Con Cuc 4",
+    "Cậu Út cậu con Cúc phần 4"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2025,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000060",
+    "orden": 4
+  },
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "",
+    "orden": 1
+  },
+  "origen": "17 Production",
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": null,
+  "estado": "finalizado",
+  "estreno": "2025-01-21",
+  "finalizacion": "2025-01-21",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết"
+  ],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmlBvDfQvqI6cDC_7euHvnvpJiUvEXG3NNcmICT4UhcSWnRfILt8TE8sv&s=10"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": [
+      {
+        "titulo": "Film cut oficial — Câu Lạc Bộ Trá Hình",
+        "url": "https://www.youtube.com/watch?v=L_ws9rsDGR4"
+      },
+      {
+        "titulo": "Film cut oficial — Câu Lạc Bộ Trá Hình (versión alternativa)",
+        "url": "https://www.youtube.com/watch?v=ALy5SAZ2m5U"
+      },
+      {
+        "titulo": "Backstage oficial",
+        "url": "https://www.youtube.com/watch?v=YevsBdDmUts"
+      }
+    ]
+  },
+  "activo": true
+}
