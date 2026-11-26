@@ -30,7 +30,10 @@
   "personas": [],
   "sinopsis": "Ambientada en una residencia de mayores durante el Tết, la película-serie explora la soledad de las personas ancianas y los vínculos familiares que se han ido descuidando. A través de las experiencias de quienes viven en la residencia, plantea la necesidad de acompañamiento, afecto y presencia familiar durante las fiestas.",
   "multimedia": {
-    "portada": []
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulaVyxWA4end60HROFBWT6waF_OW2X835DWsHNTJMyg&s=10"
+    ],
+    "videos": []
   },
   "activo": true
 }
