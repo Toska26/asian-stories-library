@@ -1,0 +1,76 @@
+{
+  "codigo": "DR001576",
+  "bl": false,
+  "titulo": "Spring, Summer, Fall and Winter",
+  "tituloOriginal": "Xuân Hạ được Thu Đông",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-01-23",
+  "finalizacion": "2026-02-13",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia",
+    "Romance"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Web drama"
+  ],
+  "personas": [
+    {
+      "nombre": "Xuân",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Hạ",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Thu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Đông",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Xuân, un empresario acomodado, conoce a Hạ, una enfermera en prácticas, durante una visita benéfica a un hospital. El romance provoca la intervención de la familia de Hạ, especialmente de su padre Đông y su madre Thu, y da lugar a situaciones cómicas y conflictos familiares. La serie combina romance y humor en torno a sus cuatro personajes centrales.",
+  "multimedia": {
+    "portada": [],
+    "videos": [
+      {
+        "titulo": "Episodio 1",
+        "url": "https://www.youtube.com/watch?v=C_4of5PjHRs"
+      },
+      {
+        "titulo": "Episodio 4",
+        "url": "https://www.youtube.com/watch?v=7ba5veD1L-M"
+      }
+    ]
+  },
+  "activo": true
+}
