@@ -26,11 +26,12 @@
   ],
   "tags": [
     "Boxeo",
+    "Deporte",
     "Identidad",
     "Aceptación",
     "Relaciones familiares"
   ],
-  "sinopsis": "Makmak, un joven boxeador amateur, sueña con convertirse en campeón. Fuera del ring debe afrontar los secretos de su padre Nonoy, antiguo campeón, y las estrictas normas de su abuelo. En su lucha por alcanzar el título descubrirá que la verdadera victoria también consiste en comprenderse a sí mismo y encontrar aceptación dentro de su familia.",
+  "sinopsis": "Makmak Batumbakal, un joven boxeador amateur, sueña con convertirse en campeón. Fuera del ring debe afrontar los secretos de su padre Nonoy y las estrictas normas de su abuelo Domeng. En su lucha por alcanzar el título descubrirá que la verdadera victoria también consiste en comprenderse a sí mismo y encontrar aceptación dentro de su familia.",
   "multimedia": {
     "portada": [
       "https://i.mydramalist.com/VXqxlO_4f.jpg"
@@ -38,6 +39,92 @@
   },
   "activo": true,
   "notas": [
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Makmak Batumbakal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Domeng Batumbakal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nonoy Batumbakal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nadia Batumbakal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gloria Panganiban",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Caloy Olivares",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lance Olivares",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chloe Olivares",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jolina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "John",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Brandon Pamintuan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ador Toledo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
