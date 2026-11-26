@@ -1,0 +1,63 @@
+{
+  "codigo": "DR001583",
+  "bl": false,
+  "titulo": "Cậu Út cậu con Cúc — Parte 3",
+  "tituloOriginal": "Cậu Út cậu con Cúc — Phần 3",
+  "alias": [
+    "Cau Ut Cau Con Cuc 3",
+    "Cậu Út cậu con Cúc phần 3"
+  ],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2024,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000060",
+    "orden": 3
+  },
+  "universo": null,
+  "serie": null,
+  "remake": {
+    "codigo": "",
+    "orden": 1
+  },
+  "origen": "17 Production",
+  "temporadas": null,
+  "temporada": null,
+  "episodios": null,
+  "duracion": 120,
+  "estado": "finalizado",
+  "estreno": "2024-01-30",
+  "finalizacion": "2024-01-30",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "tags": [
+    "Tết"
+  ],
+  "personas": [],
+  "ships": [],
+  "entidades": [],
+  "especiales": [],
+  "relaciones": [],
+  "sinopsis": null,
+  "multimedia": {
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75hn4QuaJQ67qcH3e7sTz0RcXvw1qXggGFafRDhl_VD_KalgQAd-454db&s=10"
+    ],
+    "trailer": [],
+    "teaser": [],
+    "pilot": [],
+    "ost": [],
+    "videos": [
+      {
+        "titulo": "Película completa — Huỳnh Lập Official",
+        "url": "https://www.youtube.com/watch?v=eNgBeQqgbKo"
+      }
+    ]
+  },
+  "activo": true
+}
