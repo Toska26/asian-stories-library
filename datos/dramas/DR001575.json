@@ -1,7 +1,7 @@
 {
   "codigo": "DR001575",
   "bl": false,
-  "titulo": "Mau Tet Que Huong",
+  "titulo": "Màu Tết quê hương",
   "tituloOriginal": "Màu Tết quê hương",
   "alias": [
     "Màu Tết hương quê"
@@ -11,7 +11,7 @@
   ],
   "idioma": "vi",
   "anio": 2026,
-  "tipo": "COR",
+  "tipo": "ESP",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 1,
@@ -69,7 +69,9 @@
   ],
   "sinopsis": "Cẩm Tú regresa a su tierra natal del sur de Vietnam con su marido Paul y su hija Việt An después de muchos años en el extranjero. Durante la reunión familiar, sus hijos y yernos intentan ayudar a bà Hương a recuperar recuerdos perdidos. La música tradicional, el đờn ca tài tử y las memorias familiares acompañan una historia sobre el vínculo entre madres e hijos y el regreso a casa por Tết.",
   "multimedia": {
-    "portada": [],
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKml7veR5UYFyLu80fcJzwLPxx37BUQYlXoKo0oYKS31Uf7lOrbEXqWo&s=10"
+    ],
     "videos": [
       {
         "titulo": "Película musical completa",
