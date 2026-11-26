@@ -68,44 +68,12 @@
       ]
     }
   ],
-  "relaciones": [
-    {
-      "tipo": "Historia",
-      "titulo": "The Last Night",
-      "tituloOriginal": "คืนสุดท้าย",
-      "episodios": [
-        1,
-        2
-      ]
-    },
-    {
-      "tipo": "Historia",
-      "titulo": "Red Moon and Wine",
-      "tituloOriginal": "คืนจันทร์เลือด",
-      "episodios": [
-        3,
-        4
-      ]
-    },
-    {
-      "tipo": "Historia",
-      "titulo": "Un-in Heart",
-      "tituloOriginal": "หัวใจหรัญญ์",
-      "episodios": [
-        5,
-        6
-      ]
-    },
-    {
-      "tipo": "Historia",
-      "titulo": "Blood Fighter's",
-      "tituloOriginal": "สังเวียนที่รัก",
-      "episodios": [
-        7,
-        8
-      ]
-    }
-  ],
+  "historias": [
+      { "orden": 1, "titulo": "The Last Night", "tituloOriginal": "คืนสุดท้าย", "pareja": "", "episodios": [1, 2], "foto": "" },
+      { "orden": 2, "titulo": "Red Moon and Wine", "tituloOriginal": "คืนจันทร์เลือด", "pareja": "", "episodios": [3, 4], "foto": "" },
+      { "orden": 3, "titulo": "Un-in Heart", "tituloOriginal": "หัวใจหรัญญ์", "pareja": "", "episodios": [5, 6], "foto": "" },
+      { "orden": 4, "titulo": "Blood Fighter's", "tituloOriginal": "สังเวียนที่รัก", "pareja": "", "episodios": [7, 8], "foto": "" }
+    ],
   "sinopsis": "Antología BL tailandesa compuesta por cuatro historias independientes unidas por el concepto del destino. The Last Night gira en torno a dos amigos cuya relación cambia después de una tragedia y una promesa incumplida; Red Moon and Wine mezcla romance, misterio, inmortalidad y una antigua promesa de sangre; Un-in Heart sigue el reencuentro de Heart con Un-In, su antiguo novio, dos años después de su ruptura; y Blood Fighter's cuenta la relación entre Yim, obligado a trabajar y entrenar en un gimnasio de boxeo para pagar las deudas de su padre, y Kampan, un antiguo boxeador que decide enseñarle. Las cuatro historias exploran distintas formas de amor, pérdida, segundas oportunidades y destino.",
   "activo": true,
   "multimedia": {
