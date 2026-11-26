@@ -6754,6 +6754,69 @@
             "Revisar materiales promocionales"
           ],
           "notas": "Ficha inicial creada. El episodio 16 está confirmado en HTV7 el 25/10/2026; comprobar si la emisión inicial de ANTV lo emitió antes."
+        },
+        {
+          "codigo": "DR001574",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar datos de producción y completar reparto"
+          ],
+          "notas": "Ficha inicial creada; 5 episodios, duración aproximada pendiente de revisión."
+        },
+        {
+          "codigo": "DR001575",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Revisar sinopsis y reparto"
+          ],
+          "notas": "Especial musical de HTV7, 50 min; título oficial Màu Tết quê hương."
+        },
+        {
+          "codigo": "DR001576",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar duración y reparto"
+          ],
+          "notas": "Web drama de 4 episodios; fechas y duración aproximada pendientes de contraste."
+        },
+        {
+          "codigo": "DR001577",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar duración media y completar reparto"
+          ],
+          "notas": "22 episodios; final regular THVL confirmado el 12/03/2026."
+        },
+        {
+          "codigo": "DR001578",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar duración media y completar reparto"
+          ],
+          "notas": "21 episodios; final regular THVL confirmado el 01/03/2026."
+        },
+        {
+          "codigo": "DR001579",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar duración de episodios y reparto"
+          ],
+          "notas": "5 episodios emitidos por VTV9 del 16 al 20/02/2026."
+        },
+        {
+          "codigo": "DR001580",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [
+            "Confirmar fecha de finalización en SCTV14 y reparto"
+          ],
+          "notas": "13 episodios × 25 min; VTV5 emitió el episodio 13 el 23/02/2026. La fecha final de la emisión original de SCTV14 queda pendiente."
         }
       ],
       "PH": [
