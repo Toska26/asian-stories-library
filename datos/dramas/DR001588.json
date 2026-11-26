@@ -1,0 +1,68 @@
+{
+  "codigo": "DR001588",
+  "bl": false,
+  "titulo": "Apoy sa Dugo",
+  "tituloOriginal": "Apoy sa Dugo",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 78,
+  "duracion": 24,
+  "estado": "finalizado",
+  "estreno": "2026-03-02",
+  "finalizacion": "2026-06-19",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Thriller",
+    "Psicológico"
+  ],
+  "tags": [
+    "Obsesión",
+    "Hermanas",
+    "Secretos familiares",
+    "Traición"
+  ],
+  "personas": [
+    {
+      "nombre": "Vanessa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Angel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mikay",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Vanessa, una abogada que defiende gratuitamente a quienes no pueden permitirse representación, parece llevar una vida feliz junto a Marco. Todo cambia cuando aparece Angel, su hermanastra, cuya necesidad desesperada de afecto se convierte en una obsesión peligrosa que enfrenta a las dos mujeres y amenaza a toda la familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkeJ0N_4f.jpg"
+    ]
+  },
+  "activo": true
+}
