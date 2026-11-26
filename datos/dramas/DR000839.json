@@ -70,50 +70,15 @@
     }
   ],
   "sinopsis": "Antología de siete historias independientes de romance, inspiradas en siete canciones y producidas por Studio Wabi Sabi. La producción presenta historias BL, GL y heterosexuales ambientadas principalmente en contextos escolares y universitarios. Cada episodio cuenta una historia diferente: Ozone y Sun en Would You Be My Love, Rhythm y Pimdao en Rhythm’s Heart, Proud y Jaidee en Remember, Mek y Balloon en Once Upon A Time, Ryu y Jinny en Breakup Zone, Phupha y Tonnam en VS Love, y Beam y Tonkhao en 50% My Puppy Love.",
-  "relaciones": [
-    {
-      "tipo": "Antología",
-      "historia": "Would You Be My Love",
-      "pareja": "Ozone / Sun",
-      "episodio": 1
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Rhythm's Heart",
-      "pareja": "Rhythm / Pimdao",
-      "episodio": 2
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Remember",
-      "pareja": "Proud / Jaidee",
-      "episodio": 3
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Once Upon A Time",
-      "pareja": "Mek / Balloon",
-      "episodio": 4
-    },
-    {
-      "tipo": "Antología",
-      "historia": "Breakup Zone",
-      "pareja": "Ryu / Jinny",
-      "episodio": 5
-    },
-    {
-      "tipo": "Antología",
-      "historia": "VS Love",
-      "pareja": "Phupha / Tonnam",
-      "episodio": 6
-    },
-    {
-      "tipo": "Antología",
-      "historia": "50% My Puppy Love",
-      "pareja": "Beam / Tonkhao",
-      "episodio": 7
-    }
-  ],
+"historias": [
+      { "orden": 1, "titulo": "Would You Be My Love", "tituloOriginal": "", "pareja": "Ozone / Sun", "episodios": [1], "foto": "" },
+      { "orden": 2, "titulo": "Rhythm's Heart", "tituloOriginal": "", "pareja": "Rhythm / Pimdao", "episodios": [2], "foto": "" },
+      { "orden": 3, "titulo": "Remember", "tituloOriginal": "", "pareja": "Proud / Jaidee", "episodios": [3], "foto": "" },
+      { "orden": 4, "titulo": "Once Upon A Time", "tituloOriginal": "", "pareja": "Mek / Balloon", "episodios": [4], "foto": "" },
+      { "orden": 5, "titulo": "Breakup Zone", "tituloOriginal": "", "pareja": "Ryu / Jinny", "episodios": [5], "foto": "" },
+      { "orden": 6, "titulo": "VS Love", "tituloOriginal": "", "pareja": "Phupha / Tonnam", "episodios": [6], "foto": "" },
+      { "orden": 7, "titulo": "50% My Puppy Love", "tituloOriginal": "", "pareja": "Beam / Tonkhao", "episodios": [7], "foto": "" }
+    ],
   "activo": true,
   "multimedia": {
     "portada": [
