@@ -141,10 +141,12 @@
   "activo": true,
   "relaciones": [
     {
-      "tipo": "Spin-off",
-      "titulo": "Bowl of Love",
-      "tituloOriginal": "这次换我照顾你"
-    }
+        "tipo": "spin_off",
+        "codigos": [],
+        "titulo": "Bowl of Love",
+        "episodios": [],
+        "descripcion": "Spin-off (título original: 这次换我照顾你)."
+      }
   ],
   "ships": [
     {
