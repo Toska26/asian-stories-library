@@ -15,11 +15,12 @@
   "tipo": "DR",
   "relaciones": [
     {
-      "tipo": "Spin-off",
-      "nombre": "Summertime",
-      "descripcion": "Spin-off centrado en Kwon I-hyeon, personaje relacionado con la historia de Summertime.",
-      "codigo": "DR000207"
-    }
+        "tipo": "spin_off",
+        "codigos": ["DR000207"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Spin-off centrado en Kwon I-hyeon, personaje relacionado con la historia de Summertime."
+      }
   ],
   "origen": {
     "tipo": "Novela",
