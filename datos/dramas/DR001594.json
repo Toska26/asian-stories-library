@@ -1,0 +1,92 @@
+{
+  "codigo": "DR001594",
+  "bl": false,
+  "titulo": "The Secrets of Hotel 88",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 83,
+  "duracion": 25,
+  "estado": "finalizado",
+  "estreno": "2026-03-02",
+  "finalizacion": "2026-06-26",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Suspense",
+    "Romance"
+  ],
+  "tags": [
+    "Hotel",
+    "Secretos familiares",
+    "Herencia",
+    "Misterio",
+    "Coproducción GMA-ABS-CBN"
+  ],
+  "personas": [
+    {
+      "nombre": "Gio",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Martin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kiko",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luna Almazan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Leon Almazan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jade Almazan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Justin Almazan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Los hermanos Fernández, Gio, Martin y Kiko, se reencuentran tras la misteriosa muerte de su padre y descubren que han heredado el Hotel 88. Su derecho sobre el establecimiento es cuestionado por la poderosa familia Almazan, y pronto ambas familias quedan atrapadas en una trama de secretos, rivalidades, alianzas y misterios del pasado.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3Yw2j_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Coproducción de GMA Network y ABS-CBN. El estreno regular en GMA fue el 02/03/2026; el acceso anticipado de iWant del 23/02/2026 no se utiliza como fecha de estreno ASL."
+  ]
+}
