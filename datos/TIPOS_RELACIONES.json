@@ -1,4 +1,4 @@
-{
+[
   "precuela": {
     "codigo": "precuela",
     "etiqueta": "Precuela",
@@ -79,4 +79,4 @@
     "orden": 10,
     "descripcion": "Obra vinculada por marca, productora o temática sin continuidad directa."
   }
-}
+]
