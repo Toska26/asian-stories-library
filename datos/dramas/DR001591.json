@@ -31,15 +31,6 @@
     "Misiones",
     "Nueva generación"
   ],
-  "personas": [
-    {
-      "nombre": "Anthony “Atoy” Padua",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    }
-  ],
   "sinopsis": "La historia de Atoy Padua continúa en una nueva etapa junto a los Anak ng Sinulid. El antiguo Scout Ranger convertido en sastre y rastreador afronta nuevos desafíos, misiones y enemigos mientras se abre un nuevo capítulo de su historia.",
   "multimedia": {
     "portada": [
@@ -54,6 +45,7 @@
   },
   "activo": true,
   "notas": [
-    "Segunda temporada / Book 2. Recuento provisional: episodio 32 emitido el 26/11/2026. Comparte SR001590 con DR001590."
+    "Segunda temporada / Book 2. Recuento provisional: episodio 32 emitido el 26/11/2026. Comparte SR001590 con DR001590.",
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
   ]
 }
