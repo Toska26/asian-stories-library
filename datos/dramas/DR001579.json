@@ -30,7 +30,10 @@
   "personas": [],
   "sinopsis": "Una joven de origen rural se convierte inesperadamente en una figura popular en internet después de que se difunde un vídeo grabado a escondidas. La serie aborda con humor la fama repentina, las estrategias de promoción en redes sociales y las prácticas de emparejar a celebridades digitales, mientras reflexiona sobre la vida cotidiana, la familia y los nuevos comienzos.",
   "multimedia": {
-    "portada": []
+    "portada": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3HYhX62YW4MyPPFQnqTYvvegqCizjsWfogr-tO9L9eA&s=10"
+    ],
+    "videos": []
   },
   "activo": true
 }
