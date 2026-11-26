@@ -9,11 +9,11 @@
   ],
   "idioma": "vi",
   "anio": 2026,
-  "tipo": "DR",
+  "tipo": "WDR",
   "temporadas": 1,
   "temporada": 1,
   "episodios": 4,
-  "duracion": 45,
+  "duracion": 44,
   "estado": "finalizado",
   "estreno": "2026-01-23",
   "finalizacion": "2026-02-13",
@@ -60,7 +60,9 @@
   ],
   "sinopsis": "Xuân, un empresario acomodado, conoce a Hạ, una enfermera en prácticas, durante una visita benéfica a un hospital. El romance provoca la intervención de la familia de Hạ, especialmente de su padre Đông y su madre Thu, y da lugar a situaciones cómicas y conflictos familiares. La serie combina romance y humor en torno a sus cuatro personajes centrales.",
   "multimedia": {
-    "portada": [],
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/jnblMhxHd5VUwe2RPAf36tXP5mQ.jpg"
+    ],
     "videos": [
       {
         "titulo": "Episodio 1",
@@ -69,6 +71,10 @@
       {
         "titulo": "Episodio 4",
         "url": "https://www.youtube.com/watch?v=7ba5veD1L-M"
+      },
+      {
+        "titulo": "Versión completa",
+        "url": "https://www.youtube.com/watch?v=z81pe_b65Ok"
       }
     ]
   },
