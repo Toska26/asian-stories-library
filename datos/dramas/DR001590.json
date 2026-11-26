@@ -1,0 +1,66 @@
+{
+  "codigo": "DR001590",
+  "bl": false,
+  "titulo": "The Master Cutter",
+  "alias": [
+    "The Master Cutter: Book 1"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "serie": "SR001590",
+  "temporadas": 2,
+  "temporada": 1,
+  "episodios": 112,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-05-11",
+  "finalizacion": "2026-10-13",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "tags": [
+    "Doble identidad",
+    "Exmilitar",
+    "Familia",
+    "Misiones",
+    "Secuela"
+  ],
+  "personas": [
+    {
+      "nombre": "Anthony “Atoy” Padua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Audrey",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Anthony “Atoy” Padua, antiguo Scout Ranger altamente cualificado, lleva una vida tranquila como sastre mientras trabaja en secreto como rastreador y cazador de hombres por encargo. Sus misiones lo arrastran a situaciones cada vez más peligrosas y a una doble vida que amenaza a su familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/b3bNAZ_4f.jpg"
+    ],
+    "videos": [
+      {
+        "titulo": "Vídeo promocional — Book 1",
+        "url": "https://v.mydramalist.com/90c/90c2c5d590002e532c3056dc49b3fdce.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Primera temporada / Book 1. La historia continúa en DR001591, The Master Cutter: Anak ng Sinulid."
+  ]
+}
