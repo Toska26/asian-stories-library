@@ -22,10 +22,11 @@
     "Suspense"
   ],
   "tags": [
-    "Corrupción",
+    "Corrupción policial",
     "Justicia",
-    "Periodismo",
+    "Periodismo de investigación",
     "Vlogging",
+    "Narcotráfico",
     "Sindicatos criminales"
   ],
   "sinopsis": "Joey Delgado, una estudiante de informática que documenta los actos de honestidad de los policías, ve cómo su mundo se desmorona cuando el periodista y videobloguero Andrew Dizon acusa a su padre de corrupción. Tras grabar por accidente pruebas relacionadas con un poderoso sindicato criminal, Joey debe aliarse con Andrew para descubrir la verdad y proteger a su familia.",
@@ -36,6 +37,93 @@
   },
   "activo": true,
   "notas": [
-    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
+    "Personajes incorporados como nombres de personaje; los enlaces a actores se realizarán en la revisión global de cierre anual.",
+    "Se mantiene el nombre del padre como «Major Delgado»; pendiente resolver la variante Julio/Miguel entre fuentes."
+  ],
+  "personas": [
+    {
+      "nombre": "Joey Delgado",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Andrew Dizon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Major Delgado",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tomas Limjoco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jin-Ho Lee",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Clarissa Delgado",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Theresa Park",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Golda Briones",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Peter Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Diego Aglipay",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yvette Dizon-Limjoco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rebecca Dizon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
   ]
 }
