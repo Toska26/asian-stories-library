@@ -1,0 +1,60 @@
+{
+  "codigo": "DR001578",
+  "bl": false,
+  "titulo": "The Countryside Bride",
+  "tituloOriginal": "Nàng dâu miệt vườn",
+  "alias": [],
+  "pais": [
+    "VN"
+  ],
+  "idioma": "vi",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 21,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-02-09",
+  "finalizacion": "2026-03-01",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Familia",
+    "Romance"
+  ],
+  "tags": [
+    "Tết",
+    "Año Nuevo Lunar",
+    "Miền Tây",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Xuân",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Phú",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ông Hào",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Xuân, una ingeniera de tecnología alimentaria centrada en su carrera, se ve envuelta en una relación con Phú. Cuando la familia de ella intenta presentar una imagen más acomodada de su hogar y ocultar que se dedica a elaborar licor tradicional, una serie de malentendidos y la llegada del verdadero propietario de la casa desencadenan situaciones cómicas. La historia aborda las expectativas matrimoniales y el choque entre la vida urbana y las costumbres rurales del sur de Vietnam.",
+  "multimedia": {
+    "portada": []
+  },
+  "activo": true
+}
