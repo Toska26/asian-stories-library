@@ -89,12 +89,13 @@
   ],
   "ships": [],
   "relaciones": [
-    {
-      "tipo": "Producción relacionada",
-      "codigo": "SR001305",
-      "historia": "Erlong Lake: Blossoms of Hometown Dreams",
-      "descripcion": "Producción vinculada a la marca Erlonghu, pero con argumento y personajes independientes; no forma parte de la serie de tres temporadas."
-    }
+  {
+        "tipo": "relacionado",
+        "codigos": ["DR001305"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Producción vinculada a la marca Erlonghu, pero con argumento y personajes independientes; no forma parte de la serie de tres temporadas."
+      }
   ],
   "sinopsis": "Zhang Tianba dirige una empresa de cobro de deudas junto a Taozi y Dazhuang. Tras descubrir que Xiao Wei está implicada en una estafa matrimonial, el equipo termina incorporándola y afronta una sucesión de casos que los enfrenta a empresas rivales y prestamistas peligrosos. Cuando el conflicto con una organización criminal se intensifica, Zhang Tianba tendrá que proteger a Xiao Wei y desmantelar la red que amenaza a todos.",
   "multimedia": {
