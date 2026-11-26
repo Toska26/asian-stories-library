@@ -86,12 +86,13 @@
     }
   ],
   "relaciones": [
-    {
-      "tipo": "Precuela",
-      "nombre": "Operation Wedding (2026)",
-      "descripcion": "Película original cuya historia familiar continúa en la serie de 2026.",
-      "codigo": "DR001399"
-    }
+  {
+        "tipo": "secuela",
+        "codigos": ["DR001399"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Continuación de la historia familiar de Kardi y sus cuatro hijas presentada en la película de 2013."
+      }
   ],
   "sinopsis": "Kardi, un padre soltero y oficial de la Marina, educa a sus cuatro hijas con una disciplina estricta y trata de impedir que tengan novio. Cuando Windi quiere casarse con Rendi, Kardi impone que sus tres hermanas mayores deben casarse antes.",
   "multimedia": {
