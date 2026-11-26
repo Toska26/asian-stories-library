@@ -1,0 +1,75 @@
+{
+  "codigo": "DR001595",
+  "bl": false,
+  "titulo": "You're My Favorite Song",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 25,
+  "estado": "finalizado",
+  "estreno": "2026-06-22",
+  "finalizacion": "2026-07-31",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Familia",
+    "Juvenil"
+  ],
+  "tags": [
+    "Música",
+    "Adolescencia",
+    "Amistad",
+    "Sueños",
+    "Diferencias sociales"
+  ],
+  "personas": [
+    {
+      "nombre": "Angel Dimaculangan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miguel",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Calix",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Zion",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lolo Xavi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Angel Dimaculangan, una adolescente brillante, se muda a Solmera City con el propósito de ayudar a su abuelo Lolo Xavi a cumplir su sueño de construir un resort en su propiedad frente al mar. Mientras lucha contra los intereses de un poderoso imperio empresarial, Angel encuentra amistad, amor y aliados inesperados.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXpbqz_4f.jpg"
+    ]
+  },
+  "activo": true
+}
