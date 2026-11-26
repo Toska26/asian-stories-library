@@ -6788,27 +6788,30 @@
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [
-            "Confirmar duración media y completar reparto"
+            "Confirmar duración media y completar reparto",
+            "Verificar duración real de los episodios"
           ],
-          "notas": "22 episodios; final regular THVL confirmado el 12/03/2026."
+          "notas": "22 episodios; final regular THVL confirmado el 12/03/2026. Duración real no confirmada; se deja null en la ficha."
         },
         {
           "codigo": "DR001578",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [
-            "Confirmar duración media y completar reparto"
+            "Confirmar duración media y completar reparto",
+            "Verificar duración real de los episodios"
           ],
-          "notas": "21 episodios; final regular THVL confirmado el 01/03/2026."
+          "notas": "21 episodios; final regular THVL confirmado el 01/03/2026. Duración real no confirmada; se deja null en la ficha."
         },
         {
           "codigo": "DR001579",
           "revision": "pendiente",
           "ultimaRevision": null,
           "pendientes": [
-            "Confirmar duración de episodios y reparto"
+            "Confirmar duración de episodios y reparto",
+            "Verificar duración real de los episodios"
           ],
-          "notas": "5 episodios emitidos por VTV9 del 16 al 20/02/2026."
+          "notas": "5 episodios emitidos por VTV9 del 16 al 20/02/2026. Duración real no confirmada; se deja null en la ficha."
         },
         {
           "codigo": "DR001580",
