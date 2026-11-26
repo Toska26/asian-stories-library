@@ -138,13 +138,13 @@
     }
   ],
   "relaciones": [
-    {
-      "tipo": "programa derivado",
-      "nombre": "Blazing Summer",
-      "descripcion": "Programa de variedades derivado de Never-Ending Summer.",
-      "codigo": "DR001350",
-      "orden": 1
-    }
+   {
+        "tipo": "programa_derivado",
+        "codigos": ["DR001350"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "Programa de variedades derivado de Never-Ending Summer."
+      }
   ],
   "sinopsis": "Zhou Wan, una estudiante perseverante, intenta conseguir dinero para ayudar a su abuela enferma y se acerca a Lu Xixiao, el hermanastro de su madre. Tras graduarse, ambos se enamoran, pero los malentendidos y las circunstancias los separan. Diez años después vuelven a encontrarse en el ámbito laboral y deberán enfrentarse a los sentimientos que nunca desaparecieron.",
   "multimedia": {
