@@ -73,11 +73,12 @@
   },
   "relaciones": [
     {
-      "tipo": "Adaptación de la misma obra",
-      "nombre": "The Heart of Suhita Series (2026)",
-      "descripcion": "La película y la serie son adaptaciones audiovisuales de la novela Hati Suhita; no se ha confirmado que la serie sea una secuela directa de la película.",
-      "codigo": "DR001398"
-    }
+        "tipo": "adaptacion",
+        "codigos": ["DR001398"],
+        "titulo": "",
+        "episodios": [],
+        "descripcion": "La película y la serie son adaptaciones audiovisuales de la novela Hati Suhita; no se ha confirmado que la serie sea una secuela directa de la película."
+      }
   ],
   "sinopsis": "Alina Suhita, una mujer criada para dirigir el pesantren de sus futuros suegros, se casa con Gus Birru por decisión de sus familias. Sin embargo, él le confiesa que sigue enamorado de su antigua pareja, Ratna Rengganis.",
   "multimedia": {
