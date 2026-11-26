@@ -31,22 +31,6 @@
     "Misiones",
     "Secuela"
   ],
-  "personas": [
-    {
-      "nombre": "Anthony “Atoy” Padua",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    },
-    {
-      "nombre": "Audrey",
-      "funcion": [
-        "Actor"
-      ],
-      "principal": true
-    }
-  ],
   "sinopsis": "Anthony “Atoy” Padua, antiguo Scout Ranger altamente cualificado, lleva una vida tranquila como sastre mientras trabaja en secreto como rastreador y cazador de hombres por encargo. Sus misiones lo arrastran a situaciones cada vez más peligrosas y a una doble vida que amenaza a su familia.",
   "multimedia": {
     "portada": [
@@ -61,6 +45,7 @@
   },
   "activo": true,
   "notas": [
-    "Primera temporada / Book 1. La historia continúa en DR001591, The Master Cutter: Anak ng Sinulid."
+    "Primera temporada / Book 1. La historia continúa en DR001591, The Master Cutter: Anak ng Sinulid.",
+    "Reparto y personajes: pendiente de incorporar cuando se verifiquen con fuentes fiables."
   ]
 }
