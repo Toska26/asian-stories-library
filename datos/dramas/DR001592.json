@@ -1,0 +1,70 @@
+{
+  "codigo": "DR001592",
+  "bl": false,
+  "titulo": "Kamao",
+  "tituloOriginal": "Kamao",
+  "alias": [
+    "In His Corner"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 104,
+  "duracion": 27,
+  "estado": "finalizado",
+  "estreno": "2026-05-25",
+  "finalizacion": "2026-10-16",
+  "generos": [
+    "Drama",
+    "Deportes",
+    "Familia"
+  ],
+  "tags": [
+    "Boxeo",
+    "Identidad",
+    "Aceptación",
+    "Relaciones familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Makmak",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Nonoy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Caloy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chloe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Makmak, un joven boxeador amateur, sueña con convertirse en campeón. Fuera del ring debe afrontar los secretos de su padre Nonoy, antiguo campeón, y las estrictas normas de su abuelo. En su lucha por alcanzar el título descubrirá que la verdadera victoria también consiste en comprenderse a sí mismo y encontrar aceptación dentro de su familia.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VXqxlO_4f.jpg"
+    ]
+  },
+  "activo": true
+}
