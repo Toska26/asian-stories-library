@@ -162,4 +162,7 @@
 	{"codigo":"EN000165","nombre":"AB Group Entertainment","pais":"TH","tipos":["Productora"],"activo":true},
 	{"codigo":"EN000166","nombre":"Above All Studios","pais":"TH","tipos":["Productora"],"activo":true},
 	{"codigo":"EN000167","nombre":"Creator Media","pais":"ID","tipos":["Productora"],"activo":true}
+,
+	{"codigo":"EN000168","nombre":"NHK","alias":["日本放送協会","Nippon Hōsō Kyōkai","Japan Broadcasting Corporation"],"pais":"JP","tipos":["Emisora","Productora"],"activo":true},
+	{"codigo":"EN000169","nombre":"NHK Enterprises","alias":["株式会社NHKエンタープライズ","NHKエンタープライズ","NEP"],"pais":"JP","tipos":["Productora"],"activo":true}
 ]
