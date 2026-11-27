@@ -1,0 +1,216 @@
+{
+  "codigo": "DR001606",
+  "bl": false,
+  "titulo": "My Bespren Emman",
+  "alias": [
+    "My Bestfriend Emman"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 120,
+  "duracion": 40,
+  "estado": "finalizado",
+  "estreno": "2026-04-27",
+  "finalizacion": "2026-10-02",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Crimen"
+  ],
+  "tags": [
+    "Amistad",
+    "Familia",
+    "Fe",
+    "Redención",
+    "Perdón",
+    "Corrupción",
+    "Secuestro",
+    "Justicia",
+    "Segundas oportunidades"
+  ],
+  "personas": [
+    {
+      "nombre": "Mateo “Cho” de Jesus",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Ruth Madriaga",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Joshua “Josh” Mereilles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Miriam “Yam-yam” de Jesus",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sister Rebecca “Becca” Regala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Emman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Marida Madriaga",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Governor Gaspar Mereilles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dwayne Alcasid",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aaron / Ahron San Jose",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Barbara Ledesma",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sid Magbanua",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Priscilla “Cilla” Torres",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tomas “Tom-Tom” Cruz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Guzman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ben Goram",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Francheska",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nica",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Leah",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pepe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mayor David",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nayomi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Mateo “Cho” de Jesus",
+        "Ruth Madriaga"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Mateo de Jesus, un exconvicto que intenta reconstruir su vida y cuidar de su esposa Ruth y de su hija Miriam, se ve arrastrado de nuevo a una peligrosa trama criminal. En medio de la persecución y de las injusticias que amenazan a su familia, conoce a Emman, un misterioso amigo que le devuelve la esperanza y la fe. Mientras Mateo lucha por demostrar su inocencia y proteger a los suyos, salen a la luz la corrupción, las traiciones y los secretos que conectan a Joshua Mereilles y a su entorno con el pasado de Ruth.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/g0d8vn_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Estreno regular en TV5 el 27/04/2026; episodio final emitido el 02/10/2026.",
+    "Se registran 120 episodios: el episodio 119 se emitió el 01/10 y el episodio 120, cierre de la historia, el 02/10/2026.",
+    "Duración aproximada de 40 minutos, calculada a partir de la horquilla publicada de 30–50 minutos por episodio.",
+    "La serie también aparece catalogada como My Bestfriend Emman en algunas guías.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
