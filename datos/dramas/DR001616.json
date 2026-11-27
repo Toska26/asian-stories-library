@@ -1,0 +1,204 @@
+{
+  "codigo": "DR001616",
+  "bl": false,
+  "titulo": "Akinai Seiden: Kin to Gin Kanketsu-hen",
+  "tituloOriginal": "あきない世傳 金と銀 完結編",
+  "alias": [
+    "Akinai Seiden: Kin to Gin Final Chapter",
+    "Akinai Seiden: Kin to Gin Kanketsu-hen"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2027,
+  "tipo": "ESP",
+  "franquicia": {
+    "codigo": "FR000061",
+    "orden": 4
+  },
+  "origen": "Novela",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 1,
+  "duracion": 89,
+  "estado": "proximo",
+  "estreno": "2027-01-01",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Período Edo",
+    "Comercio",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Sachi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Soji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kikue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Otake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oume",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osugi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sasuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kensuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shusuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kichiji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rikizo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wasaburo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Magoroku",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tetsushichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jihei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eijiro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Chubei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "entidades": [
+    {
+      "codigo": "EN000168",
+      "funcion": [
+        "Emisora",
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000169",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "sinopsis": "Especial de conclusión de la historia. Sachi se propone convertir Isuzuya en una casa comercial centenaria mientras se resuelven los futuros de Sachi y Kensuke, los sentimientos de Soji y el destino de las personas que han acompañado a la familia y al negocio.",
+  "multimedia": {
+    "portada": [
+      "https://drama-otaku.com/wp-content/uploads/2026/11/akinaiseidenfinal-940x525.png"
+    ]
+  },
+  "activo": true,
+  "relaciones": [
+    {
+      "tipo": "especial_de",
+      "codigos": [
+        "DR001615"
+      ],
+      "titulo": "Akinai Seiden: Kin to Gin 3",
+      "episodios": [],
+      "descripcion": "Este especial continúa los acontecimientos de la tercera temporada y funciona como desenlace de la historia de Sachi y de la casa comercial Isuzuya."
+    }
+  ]
+}
