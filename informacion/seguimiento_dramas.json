@@ -188,6 +188,13 @@
             "Verificar atribución de dos personajes secundarios discrepantes entre fuentes"
           ],
           "notas": "Delivery Boi — ficha creada; episodio 29 emitido el 2026-11-26; continúa en emisión. Revisión de personajes y metadatos realizada."
+        },
+        {
+          "codigo": "DR001597",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Sigabo — código reservado; ficha pendiente de creación. Serie en emisión."
         }
       ],
       "MY": [
@@ -7900,6 +7907,27 @@
           "ultimaRevision": "2026-11-26",
           "pendientes": [],
           "notas": "You're My Favorite Song — ficha creada; 29 episodios; final regular 2026-07-31. Revisión de personajes y metadatos realizada."
+        },
+        {
+          "codigo": "DR001598",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Someone, Someday — código reservado; ficha pendiente de creación. Finalización regular prevista/emitida el 2026-11-27 (pendiente de confirmar cierre definitivo)."
+        },
+        {
+          "codigo": "DR001599",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Love Is Never Gone — código reservado; ficha pendiente de creación. Estreno digital 2026-05-08; final 2026-06-19."
+        },
+        {
+          "codigo": "DR001600",
+          "revision": "pendiente",
+          "ultimaRevision": null,
+          "pendientes": [],
+          "notas": "Blood vs Duty — código reservado; ficha pendiente de creación. Emisión regular 2026-04-06 a 2026-07-24."
         }
       ],
       "HK": [
