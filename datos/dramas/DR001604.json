@@ -1,0 +1,235 @@
+{
+  "codigo": "DR001604",
+  "bl": false,
+  "titulo": "The Alibi: Ang Buong Katotohanan",
+  "alias": [
+    "The Alibi: The Whole Truth"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 93,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-03-16",
+  "finalizacion": "2026-07-24",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Misterio"
+  ],
+  "tags": [
+    "Coartada",
+    "Asesinato",
+    "Investigación",
+    "Secretos familiares",
+    "Diferencias sociales",
+    "Relaciones falsas",
+    "Identidad",
+    "Romance",
+    "Final alternativo",
+    "Versión extendida"
+  ],
+  "personas": [
+    {
+      "nombre": "Stella Marie Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vincent Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arthur Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jacqueline Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matthew Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Claudia Montenegro-Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rebecca Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Edward Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katherine Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Walter Cunanan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bea Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Andres Tolentino",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ricardo Zamora",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daphne Reyes",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Charlie Vicente",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sonia Vicente",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Joseph Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "George Tobias",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fiona Gambosa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Norman Javier",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bubbles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sugar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anika",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Stella Marie Morales",
+        "Vincent Cabrera"
+      ],
+      "multimedia": []
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "adaptacion",
+      "codigos": [
+        "DR001603"
+      ],
+      "titulo": "The Alibi",
+      "episodios": [],
+      "descripcion": "Versión televisiva extendida de The Alibi, con escenas inéditas y un desenlace alternativo."
+    }
+  ],
+  "sinopsis": "La versión televisiva ampliada profundiza en la relación entre Stella Morales y Vincent Cabrera y en la investigación del asesinato de Walter. A través de escenas inéditas, nuevas revelaciones y conflictos familiares desarrollados con mayor detalle, la historia conduce a un desenlace alternativo respecto al montaje de Prime Video, que modifica el destino de sus protagonistas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/73JOEN_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Emisión televisiva regular: 16/03/2026–24/07/2026; 93 episodios. Se registra la fecha del episodio final de emisión regular.",
+    "Duración aproximada de 45 minutos por episodio según TVmaze.",
+    "ABS-CBN confirma que esta versión contiene escenas nunca vistas y un final alternativo respecto a la versión de Prime Video.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
