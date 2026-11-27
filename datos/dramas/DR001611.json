@@ -1,0 +1,90 @@
+{
+  "codigo": "DR001611",
+  "bl": false,
+  "titulo": "Balaraw: Blood Island",
+  "tituloOriginal": "Balaraw",
+  "alias": [
+    "Balaraw"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 6,
+  "duracion": 52,
+  "estado": "finalizado",
+  "estreno": "2026-10-29",
+  "finalizacion": "2026-10-29",
+  "generos": [
+    "Terror",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Horror folclórico",
+    "Isla",
+    "Leyendas",
+    "Misterios",
+    "Secretos familiares",
+    "Supernatural"
+  ],
+  "personas": [
+    {
+      "nombre": "Sabina Tejeros",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rebecca Tejeros",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bulak Bernabe",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arturo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ramon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En una isla remota marcada por antiguas creencias y sucesos inexplicables, los habitantes quedan atrapados en una cadena de misterios y amenazas sobrenaturales. Mientras Sabina y Rebecca Tejeros intentan comprender los secretos que rodean a su comunidad, la presencia de Bulak Bernabe y los oscuros relatos de la isla revelan una historia de miedo, violencia y verdades enterradas.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/m0BRX0_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Balaraw: Blood Island — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/380/380145bb084aa454fe34abc4cad8c357.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Serie filipina de Netflix, estrenada el 29/10/2026; la fecha anunciada inicialmente para septiembre fue modificada.",
+    "Consta de seis episodios. Duración media aproximada: 52 minutos por episodio.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
