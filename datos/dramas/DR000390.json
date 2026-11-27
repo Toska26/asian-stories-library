@@ -34,6 +34,104 @@
         "Segundas oportunidades",
         "BL"
     ],
+    "personas": [
+        {
+            "nombre": "Kyle",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Andres",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Joswell",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Pedra",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Bill",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Damien",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Fernan",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Soraya",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Eumir",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Naldo",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Arnel",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
+            "nombre": "Raul",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        }
+    ],
     "ships": [
         {
             "personajes": [
