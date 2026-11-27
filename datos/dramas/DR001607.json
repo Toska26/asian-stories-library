@@ -1,0 +1,274 @@
+{
+  "codigo": "DR001607",
+  "bl": false,
+  "titulo": "Project Loki",
+  "alias": [
+    "Proyektong Loki"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "en",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 18,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-02-21",
+  "finalizacion": "2026-06-20",
+  "origen": "Novela de Wattpad de Cris Ibarra (AkoSiIbarra)",
+  "generos": [
+    "Drama",
+    "Crimen",
+    "Misterio",
+    "Suspense"
+  ],
+  "tags": [
+    "Universidad",
+    "Investigación",
+    "Acertijos",
+    "Secretos",
+    "Misterios",
+    "Adaptación de Wattpad",
+    "Amistad"
+  ],
+  "personas": [
+    {
+      "nombre": "Loki Mendez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lorelei Rios",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Luthor Mendez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jamie Santiago",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alistair Ravena",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Martha Henson",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rosetta Rodriguez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bastien Montreal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aaron",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lisa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lorelei’s Mum",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Young Lorelei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Andrew Salvador",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Detective Gareth",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Genesis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Margarette Fernandez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Madonna Barcelon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eunice",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Richmond",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "David",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Charles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jim Morayta",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Monica Segundo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Stein Alberts",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Serena",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daniel Geronimo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "John Bautista",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Draco",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Hector Alvarez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Herschel Aguirre",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Project Loki: Case Zero"
+    }
+  ],
+  "sinopsis": "En la Universidad Clark, Loki Mendez y Lorelei Rios se ven envueltos en una serie de casos, acertijos y secretos oscuros que ponen a prueba su ingenio y sus vínculos con otros estudiantes. A medida que avanzan en sus investigaciones, descubren que los misterios del campus esconden conexiones más profundas de lo que imaginaban.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YYZggK_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Project Loki — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/da0/da032cb86f307ca2b97dd05275947650.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Adaptación de la novela de Wattpad Project Loki, de Cris Ibarra, conocida como AkoSiIbarra.",
+    "Estreno en Viva One el 21/02/2026; episodio final de la primera temporada el 20/06/2026. Consta de 18 episodios de aproximadamente 60 minutos.",
+    "Project Loki: Case Zero es un especial promocional de detrás de cámaras publicado el 14/02/2026; se registra dentro de esta ficha y no como drama independiente.",
+    "La fuente de catalogación identifica el idioma original como inglés.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
