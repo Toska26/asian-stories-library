@@ -1,0 +1,101 @@
+{
+  "codigo": "DR001600",
+  "bl": false,
+  "titulo": "Blood vs Duty",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 80,
+  "duracion": 24,
+  "estado": "finalizado",
+  "estreno": "2026-04-06",
+  "finalizacion": "2026-07-24",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Crimen",
+    "Aventura"
+  ],
+  "tags": [
+    "Deber",
+    "Familia",
+    "Agente encubierto",
+    "Justicia",
+    "Crimen",
+    "Venganza",
+    "Comunidad"
+  ],
+  "sinopsis": "En un mundo marcado por el crimen y la justicia, misiones peligrosas obligan a personas de lados opuestos de la ley a elegir entre proteger a sus familias y cumplir con su deber. Jalil se infiltra como agente para investigar la masacre de Isla Damai y limpiar el nombre de su comunidad, mientras Lara y otros personajes quedan atrapados entre lealtades, secretos y amenazas.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/qslwgFoHYYEk9Os596USGVvjL7R.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Blood vs Duty — Official Trailer (ABS-CBN Entertainment)",
+        "url": "https://www.youtube.com/watch?v=uMURDsQz2kg"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Emisión regular: 06/04/2026–24/07/2026; 80 episodios. Se excluyen las fechas de acceso anticipado de Netflix/iWant.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Marcus Reyes",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jalil Abubakar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Lara Angeles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jamilah Abubakar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Felix Domingo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Datu Rahman",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sitti",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
+}
