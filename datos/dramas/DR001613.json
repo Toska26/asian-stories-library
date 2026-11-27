@@ -1,0 +1,195 @@
+{
+  "codigo": "DR001613",
+  "bl": false,
+  "titulo": "Akinai Seiden: Kin to Gin",
+  "tituloOriginal": "あきない世傳 金と銀",
+  "alias": [
+    "Akinai Seiden: Kin to Gin Season 1",
+    "あきない世傳 金と銀"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2023,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000061",
+    "orden": 1
+  },
+  "serie": "SR001613",
+  "origen": "Novela",
+  "temporadas": 3,
+  "temporada": 1,
+  "episodios": 8,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2023-12-08",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Período Edo",
+    "Comercio",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Sachi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Soji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tokubei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tomozo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kikue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Otake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oume",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osugi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ofusa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tomekichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sashichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Denshichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Suehichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ose",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tetsushichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fuku",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jihei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Nizaemon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "entidades": [
+    {
+      "codigo": "EN000168",
+      "funcion": [
+        "Emisora",
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000169",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "sinopsis": "Tras perder a su padre y a su hermano mayor en su pueblo natal, Sachi llega a Osaka y comienza a trabajar en la tienda de tejidos Isuzuya. Allí aprende los secretos del comercio y, gracias a su inteligencia y determinación, empieza a cambiar el destino del negocio y de quienes trabajan en él.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Bd08k1_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "finalizacion": "2024-02-02"
+}
