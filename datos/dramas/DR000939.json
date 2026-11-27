@@ -55,18 +55,22 @@
       ]
     }
   ],
-  "relaciones": [
+"historias": [
     {
-      "tipo": "Historia",
-      "historia": "East: Tag!, You’re Mine",
+      "titulo": "East: Tag!, You’re Mine",
+      "tituloOriginal": "",
       "pareja": "Hill / Easter",
-      "orden": 1
+      "episodios": [],
+      "orden": 1,
+      "descripcion": ""
     },
     {
-      "tipo": "Historia",
-      "historia": "North: How Much Is Your Love?",
+      "titulo": "North: How Much Is Your Love?",
+      "tituloOriginal": "",
       "pareja": "Johan / North",
-      "orden": 2
+      "episodios": [],
+      "orden": 2,
+      "descripcion": ""
     }
   ],
   "especiales": [
