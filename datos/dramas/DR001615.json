@@ -1,0 +1,174 @@
+{
+  "codigo": "DR001615",
+  "bl": false,
+  "titulo": "Akinai Seiden: Kin to Gin 3",
+  "tituloOriginal": "あきない世傳 金と銀３",
+  "alias": [
+    "Akinai Seiden: Kin to Gin Season 3",
+    "Akinai Seiden: Kin to Gin III"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000061",
+    "orden": 3
+  },
+  "serie": "SR001613",
+  "origen": "Novela",
+  "temporadas": 3,
+  "temporada": 3,
+  "episodios": 8,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-04-05",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Período Edo",
+    "Comercio",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Sachi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Soji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kikue",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Otake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kensuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oume",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sashichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kichiji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rikizo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Umematsu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Masumiya Chubei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eijiro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jihei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tetsushichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "entidades": [
+    {
+      "codigo": "EN000168",
+      "funcion": [
+        "Emisora",
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000169",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "sinopsis": "Sachi sigue desarrollando la tienda de Edo y busca abrir nuevos caminos para Isuzuya mediante sus diseños de komon. La desaparición de Yui y el enfrentamiento con la casa comercial Masugoya amenazan el negocio y el futuro de quienes lo sostienen.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/VX68yO_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "finalizacion": "2026-05-24"
+}
