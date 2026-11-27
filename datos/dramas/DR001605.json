@@ -1,0 +1,150 @@
+{
+  "codigo": "DR001605",
+  "bl": false,
+  "titulo": "A Secret in Prague",
+  "alias": [
+    "Isang Sikreto sa Prague"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 115,
+  "duracion": 30,
+  "estado": "finalizado",
+  "estreno": "2026-04-27",
+  "finalizacion": "2026-10-02",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "tags": [
+    "Mafia",
+    "Crimen organizado",
+    "Amor prohibido",
+    "Familia",
+    "Identidad secreta",
+    "Espionaje",
+    "Lealtad",
+    "Praga"
+  ],
+  "personas": [
+    {
+      "nombre": "Michael “Mikoy” D. Pinagpala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Chiara “Kiara” Valtrovi / La Fornarina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Alexandria “Alex” Cortez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sean “Sianong” Salindong",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Mario Pinagpala / Isidro Catacutan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Norberto Ruiz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Donabel Valtrovi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Viktor Valtrovi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tintin Salazar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tess Pinagpala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Angelito Pinagpala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sophie",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Michael “Mikoy” D. Pinagpala",
+        "Chiara “Kiara” Valtrovi / La Fornarina"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Michael “Mikoy” Pinagpala, un joven filipino que viaja a Praga para trabajar como camarero, ve cambiar su vida cuando conoce a Chiara Valtrovi, hija de un poderoso jefe criminal. Mientras se enamora de ella, agentes de inteligencia lo presionan para que espíe a la familia Valtrovi. Mikoy queda atrapado entre la lealtad a su propia familia, el peligro que rodea a Chiara y sus sentimientos por ella.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PxPzkR_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "A Secret in Prague — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/4d7/4d76707f952e51c08eef013d3fbcf89a.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Serie filipina emitida por TV5; estreno regular el 27/04/2026 y episodio final emitido el 02/10/2026.",
+    "Consta de 115 episodios. Duración de referencia: aproximadamente 30 minutos por episodio según TVmaze.",
+    "El título alternativo Isang Sikreto sa Prague figura en las fuentes de la serie.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
