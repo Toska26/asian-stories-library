@@ -560,5 +560,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia vietnamita de películas familiares de Tết dirigida y protagonizada por Huỳnh Lập, producida por 17 Production. Reúne las cinco películas Cậu Út cậu con Cúc (2022–2026), que continúan la historia de Cậu Út, Cúc y su familia.",
     "activo": true
+  },
+  {
+    "codigo": "FR000061",
+    "nombre": "Akinai Seiden: Kin to Gin",
+    "pais": [
+      "JP"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia japonesa basada en la serie de novelas Akinai Seiden: Kin to Gin, formada por las tres temporadas de la serie televisiva (2023–2026) y el especial final Akinai Seiden: Kin to Gin Kanketsu-hen (2027). Las temporadas siguen la trayectoria de Sachi en el mundo del comercio durante el período Edo; el especial cierra la historia.",
+    "activo": true
   }
 ]
