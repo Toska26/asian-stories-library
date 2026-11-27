@@ -48,5 +48,39 @@
         "portada": [
             "https://pbs.twimg.com/media/HD0CPd_boAEwPcE.jpg"
         ]
-    }
+    },
+    "personas": [
+        {
+            "nombre": "Kyle",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Andres",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Doc",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": true
+        },
+        {
+            "nombre": "Joswell",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        }
+    ]
 }
