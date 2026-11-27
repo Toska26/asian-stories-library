@@ -60,16 +60,5 @@
         "portada": [
             "https://static.wikia.nocookie.net/drama/images/e/e4/Hermoso-2025.jpg/revision/latest?cb=20250923012851&path-prefix=es"
         ]
-    },
-    "relaciones": [
-        {
-            "tipo": "secuela",
-            "codigos": [
-                "DR000391"
-            ],
-            "titulo": "Hermoso — Season 2",
-            "episodios": [],
-            "descripcion": "Hermoso continúa su historia en una segunda temporada que retoma la relación de Kyle y Andres después de los acontecimientos de esta primera entrega."
-        }
-    ]
+    }
 }
