@@ -1,0 +1,108 @@
+{
+  "codigo": "DR001599",
+  "bl": false,
+  "titulo": "Love Is Never Gone",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 59,
+  "estado": "finalizado",
+  "estreno": "2026-05-08",
+  "finalizacion": "2026-06-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "tags": [
+    "Marruecos",
+    "Estafa",
+    "Identidad falsa",
+    "Traición",
+    "Venganza",
+    "Crimen",
+    "Amor",
+    "Prisión"
+  ],
+  "sinopsis": "Teo, un mecánico trabajador que viaja a Marruecos para ayudar a su familia, conoce a Yana, una estafadora que roba para pagar el tratamiento de su madre. Un encuentro marcado por la atracción y el engaño termina con Teo encarcelado injustamente. Años después, ya de regreso en Manila, vuelve a encontrar a Yana, ahora con otra identidad y casada con un hombre rico, y se ve arrastrado a una peligrosa búsqueda de justicia y verdades ocultas.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/aELjDBn3eQPxq7AvCCiznAvdjUo.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Love Is Never Gone — Official Trailer (Prime Video Philippines)",
+        "url": "https://www.youtube.com/watch?v=0M6uUXbuBoI"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Serie original de Prime Video; 14 episodios. Estreno y final según disponibilidad regular en Prime Video: 08/05/2026–19/06/2026.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Teo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yana",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gem",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Raya",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Divino",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katarina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pearl",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ace",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
+}
