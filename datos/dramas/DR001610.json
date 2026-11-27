@@ -1,0 +1,126 @@
+{
+  "codigo": "DR001610",
+  "bl": false,
+  "titulo": "This, That and Everything in Between",
+  "tituloOriginal": "Ganito, Ganyan, Ganoon",
+  "alias": [
+    "Ganito, Ganyan, Ganoon"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "PEL",
+  "duracion": 112,
+  "estado": "finalizado",
+  "estreno": "2026-08-13",
+  "generos": [
+    "Drama",
+    "Familia"
+  ],
+  "tags": [
+    "Familia",
+    "Madre e hija",
+    "Reencuentro",
+    "Secretos",
+    "Relaciones familiares"
+  ],
+  "personas": [
+    {
+      "nombre": "Joanne",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Paz",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Rene",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Des",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matti / Mattias",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Doc Migs",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tita Abby",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Stella Guevara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Pipo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Cake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tito",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "La vida de Joanne, una guionista de televisión, se desestabiliza cuando Paz, su madre, reaparece después de 27 años de ausencia y trae consigo un secreto. El inesperado reencuentro obliga a ambas a enfrentarse a las heridas del pasado, a las decisiones que las separaron y a los vínculos familiares que todavía pueden reconstruirse.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/DkqN82_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "This, That and Everything in Between — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/2e1/2e19155dc6fe707f02d4d3dc88508930.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Película filipina distribuida por Netflix; estreno el 13/08/2026. Duración aproximada de 112 minutos.",
+    "Título internacional: This, That and Everything in Between; título original filipino: Ganito, Ganyan, Ganoon.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
