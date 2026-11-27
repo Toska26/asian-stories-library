@@ -124,6 +124,12 @@ function compilarDramaParaBiblioteca(drama) {
         (drama.relaciones && typeof drama.relaciones === 'object' && Object.keys(drama.relaciones).length > 0) ||
         (typeof drama.relaciones === 'string' && drama.relaciones.trim() !== '')
     );
+
+    const tieneHistorias = Boolean(
+        (Array.isArray(drama.historias) && drama.historias.length > 0) ||
+        (drama.historias && typeof drama.historias === 'object' && Object.keys(drama.historias).length > 0) ||
+        (typeof drama.historias === 'string' && drama.historias.trim() !== '')
+    );
     
     if (tieneSinopsis) objetoBiblioteca.tieneSinopsis = true;
     if (tienePersonas) objetoBiblioteca.tienePersonas = true;
@@ -132,6 +138,7 @@ function compilarDramaParaBiblioteca(drama) {
     if (tieneOrigen) objetoBiblioteca.tieneOrigen = true;
     if (tieneEspeciales) objetoBiblioteca.tieneEspeciales = true;
     if (tieneRelaciones) objetoBiblioteca.tieneRelaciones = true;
+    if (tieneHistorias) objetoBiblioteca.tieneHistorias = true;
     
     // 4. Portada: Solo se agrega si no está vacía
     const urlPortada = drama.portada || (m.portada && m.portada[0]) || '';
