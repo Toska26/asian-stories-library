@@ -1,0 +1,91 @@
+{
+  "codigo": "DR001612",
+  "bl": false,
+  "titulo": "A Filipino Christmas",
+  "tituloOriginal": "Paskong Pinoy",
+  "alias": [
+    "Paskong Pinoy"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "ANT",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 4,
+  "duracion": 75,
+  "estado": "finalizado",
+  "estreno": "2026-11-26",
+  "finalizacion": "2026-11-26",
+  "generos": [
+    "Drama",
+    "Comedia",
+    "Romance",
+    "Familia"
+  ],
+  "tags": [
+    "Antología",
+    "Navidad",
+    "Historias independientes",
+    "Amor",
+    "Familia",
+    "Reencuentros"
+  ],
+  "historias": [
+    {
+      "orden": 1,
+      "titulo": "A Perfect Christmas",
+      "tituloOriginal": "A Perfect Christmas",
+      "pareja": "",
+      "episodios": [
+        1
+      ],
+      "foto": ""
+    },
+    {
+      "orden": 2,
+      "titulo": "The Sounds of Christmas",
+      "tituloOriginal": "Himig ng Pasko",
+      "pareja": "",
+      "episodios": [
+        2
+      ],
+      "foto": ""
+    },
+    {
+      "orden": 3,
+      "titulo": "My White Christmas",
+      "tituloOriginal": "My White Christmas",
+      "pareja": "",
+      "episodios": [
+        3
+      ],
+      "foto": ""
+    },
+    {
+      "orden": 4,
+      "titulo": "The Last New Year in Boracay",
+      "tituloOriginal": "The Last New Year in Boracay",
+      "pareja": "",
+      "episodios": [
+        4
+      ],
+      "foto": ""
+    }
+  ],
+  "sinopsis": "Antología filipina de cuatro historias independientes ambientadas en la temporada navideña. A Perfect Christmas presenta a dos compañeros de trabajo enfrentados; Himig ng Pasko sigue a dos hermanas distanciadas; My White Christmas reúne a una bloguera de viajes con un desconocido encantador; y The Last New Year in Boracay gira en torno al reencuentro de un grupo de antiguos amigos en Boracay.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YAAxXW_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Antología filipina de Netflix estrenada el 26/11/2026 con cuatro episodios independientes. La fecha inicial anunciada de 03/12/2026 fue adelantada.",
+    "La página internacional de Netflix utiliza el título A Filipino Christmas; Paskong Pinoy es el título empleado en Filipinas.",
+    "Duración media aproximada de 75 minutos por episodio.",
+    "Se incorpora el segmento historias siguiendo la estructura de DR000839 y DR000985. Los nombres de personajes y parejas se añadirán cuando puedan verificarse."
+  ]
+}
