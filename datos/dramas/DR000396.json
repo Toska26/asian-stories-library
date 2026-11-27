@@ -54,6 +54,12 @@
     "multimedia": {
         "portada": [
             "https://pbs.twimg.com/media/HGDowD_bYAAqwMF.jpg"
+        ],
+        "trailer": [
+            {
+                "titulo": "The Boyfriend Express | Official Trailer",
+                "url": "https://www.youtube.com/watch?v=64Q34EQDWR0"
+            }
         ]
     },
     "personas": [
