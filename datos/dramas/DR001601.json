@@ -1,0 +1,215 @@
+{
+  "codigo": "DR001601",
+  "bl": false,
+  "titulo": "The Loyalty Game",
+  "alias": [
+    "Ang Laro ng Katapatan"
+  ],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2026-07-03",
+  "finalizacion": "2026-08-14",
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Psicológico"
+  ],
+  "tags": [
+    "Infidelidad",
+    "Matrimonio",
+    "Pruebas de lealtad",
+    "Secretos",
+    "Manipulación",
+    "Traición",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Silvana “Ana” Madrigal-Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Benjamin “Ben” Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Regina “Ging Ging” Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Elizabeth “Bethchay” Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Diane Martirez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bridgette Tangcoy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Carlota Aberin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Angel Lucto",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mara Lacaba",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Imelda Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mona Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marianao Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Antonio “Tonyo” Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Natalie Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Reynaldo Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katrina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lucy Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Juancho Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Megan Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Harry Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Silvana “Ana” Madrigal-Santos",
+        "Benjamin “Ben” Santos"
+      ],
+      "multimedia": []
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "adaptacion",
+      "codigos": [
+        "DR001602"
+      ],
+      "titulo": "The Loyalty Game: Level Up",
+      "episodios": [],
+      "descripcion": "Versión televisiva ampliada de la serie original, con escenas adicionales, tramas extendidas y más trasfondo de los personajes."
+    }
+  ],
+  "sinopsis": "Ana Madrigal-Santos parece llevar una vida perfecta junto a Ben, su marido, un abogado respetado cuya imagen pública es impecable. Cuando empieza a sospechar que él le oculta algo, Ana recurre a Diane y a un grupo de mujeres que realizan pruebas de lealtad para descubrir posibles infidelidades. La investigación la introduce en una red de secretos, manipulación y traiciones que pone en peligro su matrimonio y la obliga a cuestionar todo lo que creía saber.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Lwr0my_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "The Loyalty Game — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/796/796a13649f7504836cc88fd7b385a278.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Estreno de Prime Video: 03/07/2026. La plataforma lista 14 episodios; el episodio final se publicó el 14/08/2026.",
+    "La duración de referencia es aproximadamente 60 minutos por episodio según Prime Video/TVmaze.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
