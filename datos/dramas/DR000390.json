@@ -76,14 +76,6 @@
             "principal": false
         },
         {
-            "nombre": "Damien",
-            "persona": "",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": false
-        },
-        {
             "nombre": "Fernan",
             "persona": "",
             "funcion": [
@@ -100,6 +92,14 @@
             "principal": false
         },
         {
+            "nombre": "Damien",
+            "persona": "",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
+        },
+        {
             "nombre": "Eumir",
             "persona": "",
             "funcion": [
@@ -108,15 +108,7 @@
             "principal": false
         },
         {
-            "nombre": "Naldo",
-            "persona": "",
-            "funcion": [
-                "Actor"
-            ],
-            "principal": false
-        },
-        {
-            "nombre": "Arnel",
+            "nombre": "Pete",
             "persona": "",
             "funcion": [
                 "Actor"
