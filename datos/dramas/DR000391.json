@@ -48,16 +48,5 @@
         "portada": [
             "https://pbs.twimg.com/media/HD0CPd_boAEwPcE.jpg"
         ]
-    },
-    "relaciones": [
-        {
-            "tipo": "precuela",
-            "codigos": [
-                "DR000390"
-            ],
-            "titulo": "Hermoso",
-            "episodios": [],
-            "descripcion": "Hermoso es la primera temporada de esta historia y presenta los acontecimientos que conducen al reencuentro de Kyle y Andres narrado en esta segunda temporada."
-        }
-    ]
+    }
 }
