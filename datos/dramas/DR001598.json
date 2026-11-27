@@ -1,0 +1,106 @@
+{
+  "codigo": "DR001598",
+  "bl": false,
+  "titulo": "Someone, Someday",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 90,
+  "duracion": 45,
+  "estado": "finalizado",
+  "estreno": "2026-07-27",
+  "finalizacion": "2026-11-27",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Misterio"
+  ],
+  "tags": [
+    "Aplicación de citas",
+    "Amistad",
+    "Venganza",
+    "Familia",
+    "Secretos",
+    "Segundas oportunidades"
+  ],
+  "sinopsis": "Billy Cariño, una mujer que dirige una aplicación de citas y cuida de su familia, ve cómo su vida cambia cuando una misteriosa mujer llamada Abi entra en su círculo cercano. Viejas heridas, secretos y deseos de venganza amenazan su empresa, sus vínculos familiares y la amistad que mantiene con Jordan, mientras todos buscan encontrar el amor y sanar el pasado.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/a0w1k9cTa3273nhwrFaUhy6YkLR.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Someone, Someday — Official Trailer (ABS-CBN Entertainment)",
+        "url": "https://www.youtube.com/watch?v=1kWMebyp2-8"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Final de emisión regular previsto para el 27/11/2026, episodio 90; Netflix e iWant ofrecían acceso anticipado, pero se registra la fecha de emisión regular.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Billy Cariño",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jordan Valentin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Abi Mercado",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Precious Amador",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Enrico Dominguez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mariela Dominguez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oliver Cariño",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Caloy Toledo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
+}
