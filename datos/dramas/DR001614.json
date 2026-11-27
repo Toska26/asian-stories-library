@@ -1,0 +1,216 @@
+{
+  "codigo": "DR001614",
+  "bl": false,
+  "titulo": "Akinai Seiden: Kin to Gin 2",
+  "tituloOriginal": "あきない世傳 金と銀２",
+  "alias": [
+    "Akinai Seiden: Kin to Gin Season 2",
+    "Akinai Seiden: Kin to Gin II"
+  ],
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2025,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000061",
+    "orden": 2
+  },
+  "serie": "SR001613",
+  "origen": "Novela",
+  "temporadas": 3,
+  "temporada": 2,
+  "episodios": 8,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2025-04-06",
+  "generos": [
+    "Drama",
+    "Histórico"
+  ],
+  "tags": [
+    "Período Edo",
+    "Comercio",
+    "Familia"
+  ],
+  "personas": [
+    {
+      "nombre": "Sachi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Soji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tomozo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Yui",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Otake",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osugi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shusuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Oume",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sashichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Denshichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Suehichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kensuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Osai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Wasaburo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Magoroku",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tetsushichi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ose",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jihei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Masumiya Chubei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Eijiro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kichiji",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rikizo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "entidades": [
+    {
+      "codigo": "EN000168",
+      "funcion": [
+        "Emisora",
+        "Productora"
+      ]
+    },
+    {
+      "codigo": "EN000169",
+      "funcion": [
+        "Productora"
+      ]
+    }
+  ],
+  "sinopsis": "Sachi y Tomozo continúan haciendo crecer Isuzuya en Osaka y afrontan nuevas rivalidades comerciales mientras buscan expandir el negocio hasta Edo. El regreso de personas y vínculos del pasado complica sus decisiones y pone a prueba el futuro de la tienda.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Ndb0ko_4f.jpg"
+    ]
+  },
+  "activo": true,
+  "finalizacion": "2025-05-25"
+}
