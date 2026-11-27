@@ -1,0 +1,107 @@
+{
+  "codigo": "DR001597",
+  "bl": false,
+  "titulo": "Sigabo",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 114,
+  "duracion": 30,
+  "estado": "en_emision",
+  "estreno": "2026-06-22",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense",
+    "Romance"
+  ],
+  "tags": [
+    "Agente encubierto",
+    "Taxi",
+    "Crimen organizado",
+    "Trata de personas",
+    "Justicia",
+    "Familia",
+    "Romance"
+  ],
+  "sinopsis": "Gabriel “Gabo” Villanueva, un agente encubierto que trabaja como taxista, se enfrenta a peligrosas misiones y a redes criminales mientras protege a la comunidad. Entre la acción y los casos que reflejan problemas sociales, su relación con Gloria y los conflictos con poderosos adversarios complican cada vez más su doble vida.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/bVHSJjLWNXFzzI2ODcM9zbdkA0b.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Coco Martin's Sigabo — Full Trailer (ABS-CBN Entertainment)",
+        "url": "https://www.youtube.com/watch?v=UTO_FDjOiXU"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Recuento provisional: episodio 114 emitido el 26/11/2026; episodio 115 programado para el 27/11/2026. La serie continúa en emisión.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ],
+  "personas": [
+    {
+      "nombre": "Gabriel “Gabo” Villanueva",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Gloria",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Max",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sam",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Victor Zafra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sebastian Tuazon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ricardo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fernando Delgado",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ]
+}
