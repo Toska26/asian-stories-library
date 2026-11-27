@@ -1,0 +1,168 @@
+{
+  "codigo": "DR001609",
+  "bl": false,
+  "titulo": "18th Rose",
+  "tituloOriginal": "18th Rose",
+  "alias": [],
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "PEL",
+  "duracion": 131,
+  "estado": "finalizado",
+  "estreno": "2026-04-09",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Adolescencia",
+    "Debut",
+    "Amistad",
+    "Primer amor",
+    "Secretos",
+    "Crecimiento personal"
+  ],
+  "personas": [
+    {
+      "nombre": "Rose",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Jordan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Tess",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rene",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mercy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Berta",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ms. Melai",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mara",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gibo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Samgi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tonu",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gela",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ewan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rufa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bitoy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Dimaguiba",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Rose",
+        "Jordan"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Rose, una adolescente alegre que sueña con celebrar un debut perfecto, hace un trato con Jordan, un chico recién llegado que se siente aislado. Lo que comienza como un acuerdo para ayudarla a preparar la celebración se transforma en una relación que les permite conocerse mejor, afrontar sus inseguridades y descubrir secretos que cambiarán sus expectativas sobre el amor y el futuro.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/PxP2K5_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "18th Rose — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/958/95831099d5d2171aea50c24de5332f73.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Película filipina estrenada en Netflix el 09/04/2026; duración aproximada de 131 minutos.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
