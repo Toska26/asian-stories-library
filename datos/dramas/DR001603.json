@@ -1,0 +1,236 @@
+{
+  "codigo": "DR001603",
+  "bl": false,
+  "titulo": "The Alibi",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2025,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 14,
+  "duracion": 60,
+  "estado": "finalizado",
+  "estreno": "2025-11-07",
+  "finalizacion": "2025-12-19",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspense",
+    "Crimen"
+  ],
+  "tags": [
+    "Coartada",
+    "Asesinato",
+    "Investigación",
+    "Secretos familiares",
+    "Diferencias sociales",
+    "Relaciones falsas",
+    "Identidad",
+    "Romance"
+  ],
+  "personas": [
+    {
+      "nombre": "Stella Marie Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Vincent Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Arthur Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Jacqueline Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Matthew Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Claudia Montenegro-Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Rebecca Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Edward Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katherine Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Walter Cunanan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bea Cabrera",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Andres Tolentino",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ricardo Zamora",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daphne Reyes",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Charlie Vicente",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sonia Vicente",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Joseph Morales",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "George Tobias",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Fiona Gambosa",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Norman Javier",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Bubbles",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sugar",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Anika",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Stella Marie Morales",
+        "Vincent Cabrera"
+      ],
+      "multimedia": []
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "adaptacion",
+      "codigos": [
+        "DR001604"
+      ],
+      "titulo": "The Alibi: Ang Buong Katotohanan",
+      "episodios": [],
+      "descripcion": "Versión televisiva extendida de The Alibi, con escenas inéditas y un desenlace alternativo."
+    }
+  ],
+  "sinopsis": "Vincent Cabrera, heredero de un importante imperio de noticias, se convierte en el principal sospechoso del asesinato de su rival Walter. Para proteger su reputación, contrata a Stella Morales, una mujer con un pasado difícil, para que le proporcione una coartada. Lo que comienza como un acuerdo interesado se transforma en una relación cada vez más compleja mientras ambos descubren secretos, traiciones y conexiones ocultas dentro de la familia Cabrera.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/JB77Kp_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "The Alibi — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/0e7/0e7ca282e70e3e65b4271652d629a0bc.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Estreno en Prime Video: 07/11/2025. La plataforma lista 14 episodios; el episodio final se publicó el 19/12/2025.",
+    "Duración aproximada de 60 minutos por episodio según Prime Video/TVmaze.",
+    "La versión de Prime Video tiene un desenlace distinto al de la versión televisiva extendida.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
