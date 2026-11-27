@@ -61,6 +61,13 @@
                 "Actor"
             ],
             "principal": true
+        },
+        {
+            "nombre": "Chukchuk",
+            "funcion": [
+                "Actor"
+            ],
+            "principal": false
         }
     ],
     "multimedia": {
