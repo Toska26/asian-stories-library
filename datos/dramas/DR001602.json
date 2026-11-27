@@ -1,0 +1,214 @@
+{
+  "codigo": "DR001602",
+  "bl": false,
+  "titulo": "The Loyalty Game: Level Up",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 37,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-10-05",
+  "generos": [
+    "Drama",
+    "Suspense",
+    "Psicológico"
+  ],
+  "tags": [
+    "Infidelidad",
+    "Matrimonio",
+    "Pruebas de lealtad",
+    "Secretos",
+    "Manipulación",
+    "Traición",
+    "Familia",
+    "Versión extendida"
+  ],
+  "personas": [
+    {
+      "nombre": "Silvana “Ana” Madrigal-Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Benjamin “Ben” Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Regina “Ging Ging” Santos",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Elizabeth “Bethchay” Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Diane Martirez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Bridgette Tangcoy",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Carlota Aberin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Angel Lucto",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mara Lacaba",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Imelda Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mona Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Marianao Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Antonio “Tonyo” Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Natalie Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Reynaldo Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Katrina",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lucy Saguil",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Juancho Madrigal",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Megan Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Harry Valdez",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Silvana “Ana” Madrigal-Santos",
+        "Benjamin “Ben” Santos"
+      ],
+      "multimedia": []
+    }
+  ],
+  "relaciones": [
+    {
+      "tipo": "adaptacion",
+      "codigos": [
+        "DR001601"
+      ],
+      "titulo": "The Loyalty Game",
+      "episodios": [],
+      "descripcion": "Versión televisiva ampliada de la serie original, con escenas adicionales, tramas extendidas y más trasfondo de los personajes."
+    }
+  ],
+  "sinopsis": "La versión televisiva ampliada de The Loyalty Game profundiza en la relación de Ana y Ben y en las consecuencias de las pruebas de lealtad que desencadenan sus sospechas. Incorpora escenas inéditas, desarrolla las historias personales de los probadores de lealtad y amplía los conflictos familiares y sentimentales que rodean a la pareja, revelando nuevos detalles y motivaciones que no aparecían en el montaje de Prime Video.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/Ar3pdZ_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "The Loyalty Game: Level Up — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/b55/b55d7ce2adb9449fc4dae6115cbbe30f.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Emisión televisiva iniciada el 05/10/2026; continúa en emisión. ABS-CBN anunció un cambio de horario desde el 30/11/2026.",
+    "Se registran 37 episodios como último número corroborado en fuentes oficiales consultadas (episodio 37 publicado el 24/11/2026); no se considera cifra final y deberá actualizarse con las emisiones posteriores.",
+    "Duración aproximada de 45 minutos por episodio, según la franja televisiva de lunes a viernes.",
+    "Versión ampliada con escenas adicionales, tramas extendidas y trasfondo de personajes; no es una segunda temporada.",
+    "Personajes registrados por nombre de personaje; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
