@@ -1,0 +1,165 @@
+{
+  "codigo": "DR001608",
+  "bl": false,
+  "titulo": "Mommy Guard",
+  "pais": [
+    "PH"
+  ],
+  "idioma": "tl",
+  "anio": 2026,
+  "tipo": "DR",
+  "temporadas": 1,
+  "temporada": 1,
+  "episodios": 29,
+  "duracion": 45,
+  "estado": "en_emision",
+  "estreno": "2026-10-19",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Romance"
+  ],
+  "tags": [
+    "Maternidad",
+    "Familia",
+    "Escuela",
+    "Guardias de seguridad",
+    "Segundas oportunidades",
+    "Romance",
+    "Vida escolar"
+  ],
+  "personas": [
+    {
+      "nombre": "Tina Dimaapi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Pio Pocholo Areola",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Karl Zabala",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Happy Dimaapi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kitty Areola",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Luis",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Megan",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Gwen Areola",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Penny Areola",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Kevin Areola",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Daemon",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mam Nenita",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Tisay",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Mr. Vim",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sir Scott",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Lola Petra",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "Tina Dimaapi, una madre soltera, acepta un trabajo como guardia de seguridad en una prestigiosa academia para sacar adelante a su familia. Su nueva vida la lleva a conocer a Pio Areola y a un grupo de estudiantes, familias y trabajadores del centro, mientras afronta enredos escolares, nuevas responsabilidades y la posibilidad de empezar de nuevo.",
+  "multimedia": {
+    "portada": [
+      "https://i.mydramalist.com/YALXOQ_4f.jpg"
+    ],
+    "trailer": [
+      {
+        "titulo": "Mommy Guard — tráiler (MyDramaList)",
+        "url": "https://v.mydramalist.com/0be/0be8394f8877c4ead942672b113f81c2.mp4"
+      }
+    ]
+  },
+  "activo": true,
+  "notas": [
+    "Estreno en TV5 el 19/10/2026; continúa en emisión.",
+    "Se registran 29 episodios emitidos hasta el 26/11/2026. El episodio 30 figura programado para el 27/11/2026; no se contabiliza como emitido hasta confirmar su emisión regular.",
+    "Duración aproximada de 45 minutos por episodio según TVmaze.",
+    "El reparto incluye más personajes secundarios y episódicos que podrán ampliarse en una revisión posterior.",
+    "Personajes registrados por nombre; los enlaces a intérpretes se completarán en la revisión anual."
+  ]
+}
