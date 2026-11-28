@@ -1,0 +1,91 @@
+{
+  "codigo": "DR001618",
+  "bl": false,
+  "titulo": "Haguregumo (Animated Film)",
+  "tituloOriginal": "浮浪雲",
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 1982,
+  "tipo": "PEL",
+  "franquicia": {
+    "codigo": "FR000062",
+    "orden": 2
+  },
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Haguregumo",
+    "tituloOriginal": "浮浪雲",
+    "autor": "George Akiyama (ジョージ秋山)",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia"
+  ],
+  "tags": [
+    "Período Edo",
+    "Bakumatsu",
+    "Shinagawa",
+    "Familia",
+    "Vida cotidiana",
+    "Humor",
+    "Adaptación de manga"
+  ],
+  "activo": true,
+  "duracion": 91,
+  "estado": "finalizado",
+  "estreno": "1982-04-24",
+  "finalizacion": "1982-04-24",
+  "alias": [
+    "Haguregumo (1982)"
+  ],
+  "personas": [
+    {
+      "nombre": "Kumo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Okame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shinnosuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Sakamoto Ryoma",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Ichimonji Hyogo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "sinopsis": "En el final del período Edo, Kumo lleva una vida despreocupada como responsable del puesto de transporte de Shinagawa. Su esposa Okame y su hijo Shinnosuke observan su peculiar manera de vivir, hasta que Kumo se ve envuelto en los acontecimientos que rodean a Sakamoto Ryoma y a un joven samurái que amenaza su vida.",
+  "multimedia": {
+    "portada": [
+      "https://m.media-amazon.com/images/M/MV5BZTkxNTUyMzYtY2U0MS00NzcwLWI4ODMtMzE0YzRmMTU5NGEyXkEyXkFqcGc@._V1_.jpg"
+    ]
+  }
+}
