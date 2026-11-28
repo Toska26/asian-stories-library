@@ -16,7 +16,14 @@
   "universo": null,
   "serie": null,
   "remake": null,
-  "origen": null,
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "The Blue Flowers and the Ceramic Forest",
+    "tituloOriginal": "青の花 器の森",
+    "autor": "Yuki Kodama (小玉ユキ)",
+    "pais": "JP"
+  },
   "temporadas": 1,
   "temporada": 1,
   "episodios": 32,
