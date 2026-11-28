@@ -570,5 +570,15 @@
     "tipo": "Franquicia",
     "descripcion": "Franquicia japonesa basada en la serie de novelas Akinai Seiden: Kin to Gin, formada por las tres temporadas de la serie televisiva (2023–2026) y el especial final Akinai Seiden: Kin to Gin Kanketsu-hen (2027). Las temporadas siguen la trayectoria de Sachi en el mundo del comercio durante el período Edo; el especial cierra la historia.",
     "activo": true
+  },
+  {
+    "codigo": "FR000062",
+    "nombre": "Haguregumo",
+    "pais": [
+      "JP"
+    ],
+    "tipo": "Franquicia",
+    "descripcion": "Franquicia japonesa basada en el manga Haguregumo (浮浪雲), de George Akiyama. Reúne las adaptaciones televisivas de 1978, 1990 y 2026, así como la película de animación de 1982. Las versiones de 1978, 1982 y 1990 son adaptaciones independientes de la misma obra; las temporadas de 2026 y 2027 forman una única serie televisiva.",
+    "activo": true
   }
 ]
