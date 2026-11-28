@@ -1,0 +1,89 @@
+{
+  "codigo": "DR001621",
+  "bl": false,
+  "titulo": "Haguregumo 2",
+  "tituloOriginal": "浮浪雲",
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2027,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000062",
+    "orden": 5
+  },
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Haguregumo",
+    "tituloOriginal": "浮浪雲",
+    "autor": "George Akiyama (ジョージ秋山)",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 2,
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia",
+    "Familiar"
+  ],
+  "tags": [
+    "Período Edo",
+    "Bakumatsu",
+    "Shinagawa",
+    "Familia",
+    "Crecimiento",
+    "Vida cotidiana",
+    "Adaptación de manga"
+  ],
+  "activo": true,
+  "serie": "SR001620",
+  "episodios": 8,
+  "estado": "proximo",
+  "alias": [
+    "浮浪雲2",
+    "Haguregumo Season 2"
+  ],
+  "personas": [
+    {
+      "nombre": "Kumo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shinnosuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yokujiro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kumo",
+        "Kame"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "Segunda temporada de la adaptación de NHK. La historia continúa en el Shinagawa del período Bakumatsu y gira en torno a la familia de Kumo: Shinnosuke empieza a entrar en la adolescencia, mientras Kame y el encargado Yokujiro afrontan nuevos cambios y responsabilidades en torno a Yumeya."
+}
