@@ -1,0 +1,75 @@
+{
+  "codigo": "DR001617",
+  "bl": false,
+  "titulo": "Haguregumo (1978)",
+  "tituloOriginal": "浮浪雲",
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 1978,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000062",
+    "orden": 1
+  },
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Haguregumo",
+    "tituloOriginal": "浮浪雲",
+    "autor": "George Akiyama (ジョージ秋山)",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia"
+  ],
+  "tags": [
+    "Período Edo",
+    "Bakumatsu",
+    "Shinagawa",
+    "Familia",
+    "Vida cotidiana",
+    "Humor",
+    "Adaptación de manga"
+  ],
+  "activo": true,
+  "episodios": 20,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "1978-04-02",
+  "finalizacion": "1978-09-10",
+  "personas": [
+    {
+      "nombre": "Kumo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shinnosuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "En el final del período Edo, Kumo es el despreocupado responsable del puesto de transporte de Shinagawa conocido como Yumeya. Deja buena parte del trabajo en manos de su esposa Kame y de quienes trabajan en el establecimiento, mientras observa con humor y distancia los problemas cotidianos de la gente que lo rodea.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/AfPyIXRYQ6Q5hzMMGGPlfn03Hjv.jpg"
+    ]
+  }
+}
