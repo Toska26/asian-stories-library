@@ -1,0 +1,69 @@
+{
+  "codigo": "DR001619",
+  "bl": false,
+  "titulo": "Haguregumo (1990)",
+  "tituloOriginal": "浮浪雲",
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 1990,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000062",
+    "orden": 3
+  },
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Haguregumo",
+    "tituloOriginal": "浮浪雲",
+    "autor": "George Akiyama (ジョージ秋山)",
+    "pais": "JP"
+  },
+  "temporadas": 1,
+  "temporada": 1,
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia"
+  ],
+  "tags": [
+    "Período Edo",
+    "Bakumatsu",
+    "Shinagawa",
+    "Familia",
+    "Vida cotidiana",
+    "Humor",
+    "Adaptación de manga"
+  ],
+  "activo": true,
+  "duracion": 54,
+  "estado": "finalizado",
+  "estreno": "1990-10-11",
+  "finalizacion": "1991-03-28",
+  "personas": [
+    {
+      "nombre": "Kumo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shinnosuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    }
+  ],
+  "sinopsis": "Nueva adaptación televisiva del manga de George Akiyama, ambientada en el final del período Edo. Kumo, un hombre despreocupado que dirige el puesto de transporte de Shinagawa, vive a su manera mientras su esposa Kame, su hijo Shinnosuke y los habitantes del lugar se enfrentan a las situaciones y conflictos de la vida cotidiana."
+}
