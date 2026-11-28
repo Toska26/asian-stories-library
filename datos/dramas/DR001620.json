@@ -1,0 +1,121 @@
+{
+  "codigo": "DR001620",
+  "bl": false,
+  "titulo": "Haguregumo (2026)",
+  "tituloOriginal": "浮浪雲",
+  "pais": [
+    "JP"
+  ],
+  "idioma": "ja",
+  "anio": 2026,
+  "tipo": "DR",
+  "franquicia": {
+    "codigo": "FR000062",
+    "orden": 4
+  },
+  "origen": {
+    "tipo": "Manga",
+    "relacion": "Adaptación",
+    "titulo": "Haguregumo",
+    "tituloOriginal": "浮浪雲",
+    "autor": "George Akiyama (ジョージ秋山)",
+    "pais": "JP"
+  },
+  "temporadas": 2,
+  "temporada": 1,
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Comedia",
+    "Familiar"
+  ],
+  "tags": [
+    "Período Edo",
+    "Bakumatsu",
+    "Shinagawa",
+    "Familia",
+    "Vida cotidiana",
+    "Personajes históricos",
+    "Adaptación de manga"
+  ],
+  "activo": true,
+  "serie": "SR001620",
+  "episodios": 8,
+  "duracion": 43,
+  "estado": "finalizado",
+  "estreno": "2026-01-04",
+  "finalizacion": "2026-03-15",
+  "personas": [
+    {
+      "nombre": "Kumo",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Kame",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Shinnosuke",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": true
+    },
+    {
+      "nombre": "Yokujiro",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Aota-sensei",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shunju oyabun",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Shibusawa rojin",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    },
+    {
+      "nombre": "Sadahachi",
+      "funcion": [
+        "Actor"
+      ],
+      "principal": false
+    }
+  ],
+  "ships": [
+    {
+      "personajes": [
+        "Kumo",
+        "Kame"
+      ],
+      "multimedia": []
+    }
+  ],
+  "sinopsis": "En el Shinagawa del final del período Edo, Kumo dirige el puesto de transporte Yumeya, aunque deja las tareas cotidianas en manos de su esposa Kame y del encargado Yokujiro. Su actitud despreocupada contrasta con la seriedad de su hijo Shinnosuke, pero su mirada comprensiva y su forma de tratar a los demás le permiten influir discretamente en sus vidas. En sus encuentros aparecen también figuras históricas y habitantes del lugar, cuyas historias reflejan los cambios de una época convulsa.",
+  "multimedia": {
+    "portada": [
+      "https://www.themoviedb.org/t/p/w1280/yV7BtcwZzTdCdfULWfoZ1OYhlPj.jpg"
+    ]
+  }
+}
